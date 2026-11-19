@@ -17,10 +17,13 @@
   const nf = new Intl.NumberFormat('tr-TR');
   const pf = (x, d = 1) => (x == null || isNaN(x)) ? '–' : '%' + Number(x).toLocaleString('tr-TR', { minimumFractionDigits: d, maximumFractionDigits: d });
   const $ = (s) => document.querySelector(s);
+  const sgn = (v) => (v > 0 ? '+' : v < 0 ? '−' : '±') + Math.abs(v).toLocaleString('tr-TR', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
   const state = { index: [], parties: {}, era: 'all', types: new Set(Object.keys(TYPES)), cur: null, data: null,
-                  mode: null, party: null, unit: null, geoFamily: null };
+                  mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
+                  play: { on: false, timer: null, speed: 1, skipEmpty: true } };
+  const VERSION = '1.0.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -42,6 +45,7 @@
     return '#' + A.map((v, i) => Math.round(v + (B[i] - v) * t).toString(16).padStart(2, '0')).join('');
   }
   const RAMP_LO = '#f4f1ea';
+  const SWING_UP = '#0f766e', SWING_DOWN = '#c2410c';
 
   // ------------------------------------------------------------------ harita
   const map = L.map('map', { zoomSnap: 0.25, minZoom: 3, maxZoom: 10, worldCopyJump: false });
@@ -79,14 +83,33 @@
     if (has((u) => u.pct && Object.keys(u.pct).length)) ms.push(['party', isRef ? 'Seçenek oranı' : isCB ? 'Aday oy oranı' : 'Parti oy oranı']);
     else if (has((u) => u.seats) && (d.parties || []).length > 1 && d.id !== '1930yerel') ms.push(['share', 'Grup payı']);
     if (has((u) => u.turnout != null)) ms.push(['turnout', 'Katılım']);
+    if (state.prev && state.prev.id !== d.id && prevMetaFor(d)) ms.push(['swing', 'Değişim']);
     return ms;
   }
-  function partyChoices(d) {
+  // Değişim modu için aynı türden bir önceki seçim (yalnız oy verisi olan 1950 sonrası kayıtlar)
+  function family(e) { return e.type + (e.id.endsWith('-igm') ? '-igm' : ''); }
+  function prevMetaFor(d) {
+    if (!d || d.era !== 'cumhuriyet' || d.metric !== 'votes' || d.type === 'ara') return null;
+    const i = state.index.findIndex((e) => e.id === d.id);
+    for (let j = i - 1; j >= 0; j--) {
+      const e = state.index[j];
+      if (family(e) === family(d) && e.metric === 'votes' && e.id !== d.id) return e;
+    }
+    return null;
+  }
+  function partyChoices(d, mode = state.mode) {
     const fromNat = Object.keys((d.national && (d.national.pct || d.national.seats)) || {});
-    const list = (d.parties && d.parties.length ? d.parties : fromNat).filter((p) => p !== 'Diğer');
+    let list = (d.parties && d.parties.length ? d.parties : fromNat).filter((p) => p !== 'Diğer');
+    if (mode === 'swing' && state.prev) {
+      const pn = (state.prev.national && state.prev.national.pct) || {};
+      list = list.filter((p) => pn[p] != null);
+    }
     return list.slice(0, 12);
   }
 
+  const uidMap = new WeakMap();
+  const uid = (u) => uidMap.get(u);
+  function indexUnits(d) { Object.entries(d.units).forEach(([k, u]) => uidMap.set(u, k)); }
   function unitValue(u, mode) {
     if (!u || u.nodata) return null;
     switch (mode) {
@@ -94,6 +117,11 @@
       case 'share': return u.seats && u.initial ? 100 * (u.seats[state.party] || 0) / u.initial : null;
       case 'turnout': return u.turnout ?? null;
       case 'count': return u.total || 0;
+      case 'swing': {
+        const pu = state.prev && state.prev.units[uid(u)];
+        if (!u.pct || !pu || !pu.pct || u.pct[state.party] == null || pu.pct[state.party] == null) return null;
+        return u.pct[state.party] - pu.pct[state.party];
+      }
       default: return null;
     }
   }
@@ -104,6 +132,7 @@
     if (mode === 'party' || mode === 'share') { lo = 0; hi = Math.max(10, Math.ceil(hi / 10) * 10); }
     if (mode === 'count') { lo = 0; }
     if (mode === 'turnout') { lo = Math.floor(lo / 5) * 5; hi = Math.ceil(hi / 5) * 5; }
+    if (mode === 'swing') { const m = Math.max(5, Math.ceil(Math.max(Math.abs(lo), Math.abs(hi)) / 5) * 5); lo = -m; hi = m; }
     if (hi === lo) hi = lo + 1;
     return [lo, hi];
   }
@@ -128,7 +157,11 @@
     if (!mode) return { ...base, fillColor: '#e3dfd6', color: '#b9b4aa' };
     const v = unitValue(u, mode);
     if (v == null) return { ...base, fillColor: NODATA };
-    const [lo, hi] = domain(d, mode);
+    const [lo, hi] = state.dom || domain(d, mode);
+    if (mode === 'swing') {
+      const t = Math.max(-1, Math.min(1, v / hi));
+      return { ...base, fillColor: t >= 0 ? mix(RAMP_LO, SWING_UP, 0.1 + 0.9 * t) : mix(RAMP_LO, SWING_DOWN, 0.1 + 0.9 * -t) };
+    }
     const t = Math.max(0, Math.min(1, (v - lo) / (hi - lo)));
     return { ...base, fillColor: mix(RAMP_LO, rampColor(mode), 0.08 + 0.92 * t) };
   }
@@ -137,8 +170,8 @@
   async function draw() {
     const d = state.data;
     $('#mapOverlay').hidden = true;
-    if (unitLayer) { map.removeLayer(unitLayer); unitLayer = null; }
     if (!d.geo) {
+      if (unitLayer) { map.removeLayer(unitLayer); unitLayer = null; }
       $('#mapOverlay').hidden = false;
       $('#mapOverlay').innerHTML = '<b>Bu kayıt için harita verisi yok.</b><br>Ayrıntılar sağdaki panelde.';
       if (state.geoFamily !== 'otto') { map.fitBounds([[12, 12], [47, 48]]); state.geoFamily = 'otto'; }
@@ -147,6 +180,8 @@
     }
     const fc = await loadGeo(d.geo);
     if (state.data !== d) return; // bu arada başka seçim seçildi
+    updateDomain();
+    const old = unitLayer;
     unitLayer = L.geoJSON(fc, {
       style: (f) => styleFor(d.units[f.properties.id]),
       onEachFeature: (f, layer) => {
@@ -158,6 +193,7 @@
         layer.bindTooltip(() => tooltipHtml(f), { sticky: true, className: 'unit-tip', direction: 'top', offset: [0, -6] });
       },
     }).addTo(map);
+    if (old) map.removeLayer(old);
     const fam = d.geo.startsWith('h-1877') || ['h-1908', 'h-1912', 'h-1914'].includes(d.geo) ? 'otto' : 'tr';
     if (fam !== state.geoFamily) {
       map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] });
@@ -166,7 +202,12 @@
     markSelected();
     renderLegend();
   }
+  function updateDomain() {
+    const m = state.mode;
+    state.dom = (state.data && m && m !== 'winner') ? domain(state.data, m) : null;
+  }
   function restyle() {
+    updateDomain();
     if (unitLayer) unitLayer.setStyle((f) => styleFor(state.data.units[f.properties.id]));
     markSelected();
     renderLegend();
@@ -184,6 +225,7 @@
     if (state.mode === 'winner' && u.winner) parts.push(`${esc(pLabel(u.winner))}${u.pct && u.pct[u.winner] != null ? ' ' + pf(u.pct[u.winner]) : ''}`);
     else if (state.mode === 'party' || state.mode === 'share') parts.push(`${esc(pLabel(state.party))}: ${pf(unitValue(u, state.mode))}`);
     else if (state.mode === 'turnout') parts.push('Katılım ' + pf(u.turnout));
+    else if (state.mode === 'swing') { const v = unitValue(u, 'swing'); parts.push(`${esc(pLabel(state.party))}: ${v == null ? 'karşılaştırılamaz' : sgn(v) + ' puan'}`); }
     else if (state.mode === 'count') parts.push(d.id === '1930yerel' ? `SCF: ${u.total} belediye` : `${u.initial ?? u.total} vekil${u.total > (u.initial ?? u.total) ? ` (+${u.total - u.initial} sonradan)` : ''}`);
     if (u.note && !parts.length) parts.push(esc(u.note));
     return `<b>${name}</b>${parts.join('<br>')}`;
@@ -205,8 +247,13 @@
         html += `<div class="item"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))} <span class="muted">(${n})</span></div>`;
       });
       if (Object.values(d.units).some((u) => u.pct && u.winner)) html += '<div class="muted" style="margin-top:4px">Ton koyulaştıkça oy oranı artar</div>';
+    } else if (mode === 'swing') {
+      const [, hi] = state.dom || domain(d, mode);
+      html += `<div class="t">${esc(pLabel(state.party))} oyundaki değişim (puan)</div><div class="muted">Karşılaştırılan: ${esc(state.prev.title)}</div>`;
+      html += `<div class="ramp" style="background:linear-gradient(90deg, ${SWING_DOWN}, ${RAMP_LO}, ${SWING_UP})"></div>`;
+      html += `<div class="ramp-l"><span>−${nf.format(hi)}</span><span>0</span><span>+${nf.format(hi)}</span></div>`;
     } else {
-      const [lo, hi] = domain(d, mode);
+      const [lo, hi] = state.dom || domain(d, mode);
       const t = mode === 'turnout' ? 'Katılım (%)' : mode === 'count' ? (d.id === '1930yerel' ? 'SCF\'nin kazandığı belediye' : 'Vekil sayısı') : `${esc(pLabel(state.party))} (%)`;
       const c = rampColor(mode);
       html += `<div class="t">${t}</div><div class="ramp" style="background:linear-gradient(90deg, ${mix(RAMP_LO, c, 0.08)}, ${c})"></div>`;
@@ -256,7 +303,7 @@
       h += `<h3>${esc(lbl)}</h3>` + bars(Object.entries(n.seats).slice(0, 10), null);
     }
     if (n.members_listed != null) {
-      h += `<dl class="kv"><dt>Listedeki vekil</dt><dd>${nf.format(n.members_listed)}</dd>`;
+      h += `<dl class="kv">${n.total_seats ? `<dt>Toplam sandalye</dt><dd>${nf.format(n.total_seats)}</dd>` : ''}<dt>Listedeki vekil</dt><dd>${nf.format(n.members_listed)}</dd>`;
       if (n.members_initial !== n.members_listed) h += `<dt>Sonradan katılan hariç</dt><dd>${nf.format(n.members_initial)}</dd>`;
       h += '</dl>';
     }
@@ -269,18 +316,19 @@
     if (!ms.length) { box.innerHTML = ''; return; }
     let h = '<h3>Harita görünümü</h3><div class="seg" role="group" aria-label="Harita modu">' +
       ms.map(([k, l]) => `<button type="button" data-mode="${k}" class="${k === state.mode ? 'active' : ''}" aria-pressed="${k === state.mode}">${l}</button>`).join('') + '</div>';
-    if (state.mode === 'party' || state.mode === 'share') {
+    if (state.mode === 'swing' && state.prev) h += `<p class="hint">Karşılaştırma: ${esc(state.prev.title)} (${esc(state.prev.dateLabel || state.prev.date)}). İl sınırları değişmişse yalnız eşleşen iller boyanır.</p>`;
+    if (state.mode === 'party' || state.mode === 'share' || state.mode === 'swing') {
       h += '<select id="partySelect" aria-label="Parti">' + partyChoices(d).map((p) => `<option value="${esc(p)}" ${p === state.party ? 'selected' : ''}>${esc(pLabel(p))}</option>`).join('') + '</select>';
     }
     box.innerHTML = h;
     box.querySelectorAll('[data-mode]').forEach((b) => b.addEventListener('click', () => { setMode(b.dataset.mode); }));
     const ps = $('#partySelect');
-    if (ps) ps.addEventListener('change', () => { state.party = ps.value; restyle(); writeHash(); });
+    if (ps) ps.addEventListener('change', () => { state.party = ps.value; restyle(); renderTable(); writeHash(); });
   }
   function setMode(m) {
     state.mode = m;
-    if ((m === 'party' || m === 'share') && !partyChoices(state.data).includes(state.party)) state.party = partyChoices(state.data)[0];
-    renderModes(); restyle(); writeHash();
+    if ((m === 'party' || m === 'share' || m === 'swing') && !partyChoices(state.data, m).includes(state.party)) state.party = partyChoices(state.data, m)[0];
+    renderModes(); restyle(); renderTable(); writeHash();
   }
 
   function renderUnit() {
@@ -339,6 +387,120 @@
     $('#unitClose').onclick = () => selectUnit(null);
   }
 
+  // ------------------------------------------------------------------ il tablosu
+  let tableSort = 'value';
+  function rowValue(u) {
+    if (state.mode === 'winner') return u.winner && u.pct ? (u.pct[u.winner] ?? null) : (u.total ?? null);
+    return unitValue(u, state.mode);
+  }
+  function fmtValue(v) {
+    if (v == null) return '–';
+    if (state.mode === 'count') return nf.format(v);
+    if (state.mode === 'swing') return sgn(v);
+    if (state.mode === 'winner' && state.data.metric === 'members' && !Object.values(state.data.units).some((u) => u.pct)) return nf.format(v);
+    return pf(v);
+  }
+  function renderTable() {
+    const d = state.data, box = $('#tableBox');
+    const rows = Object.entries(d.units || {}).filter(([, u]) => !u.nodata);
+    if (!rows.length || !state.mode) { box.innerHTML = ''; return; }
+    const head = { winner: d.type === 'referandum' ? 'Sonuç' : 'Birinci', party: pLabel(state.party || ''), share: pLabel(state.party || ''),
+                   swing: pLabel(state.party || '') + ' (puan)', turnout: 'Katılım', count: d.id === '1930yerel' ? 'SCF' : 'Vekil' }[state.mode];
+    const data = rows.map(([k, u]) => ({ k, u, v: rowValue(u) }));
+    if (tableSort === 'name') data.sort((a, b) => a.u.name.localeCompare(b.u.name, 'tr'));
+    else data.sort((a, b) => (b.v ?? -1e9) - (a.v ?? -1e9));
+    const open = box.querySelector('details') ? box.querySelector('details').open : false;
+    let h = `<details${open ? ' open' : ''}><summary>Birim tablosu (${rows.length})</summary><table class="utable"><thead><tr>` +
+      `<th><button type="button" data-sort="name" class="${tableSort === 'name' ? 'on' : ''}">Birim</button></th>` +
+      (state.mode === 'winner' ? '<th>Birinci</th>' : '') +
+      `<th class="num"><button type="button" data-sort="value" class="${tableSort === 'value' ? 'on' : ''}">${esc(state.mode === 'winner' ? (d.metric === 'members' && !rows.some(([, u]) => u.pct) ? 'Vekil' : 'Oran') : head)}</button></th></tr></thead><tbody>`;
+    for (const { k, u, v } of data) {
+      h += `<tr data-u="${esc(k)}" class="${k === state.unit ? 'sel' : ''}"><td>${esc(u.name)}</td>` +
+        (state.mode === 'winner' ? `<td>${u.winner ? `<span class="sw" style="background:${pColor(u.winner)}"></span>${esc(pLabel(u.winner))}` : '–'}</td>` : '') +
+        `<td class="num">${fmtValue(v)}</td></tr>`;
+    }
+    h += '</tbody></table></details>';
+    box.innerHTML = h;
+    box.querySelectorAll('[data-sort]').forEach((b) => b.addEventListener('click', () => { tableSort = b.dataset.sort; renderTable(); }));
+    box.querySelectorAll('tbody tr').forEach((tr) => tr.addEventListener('click', () => selectUnit(tr.dataset.u)));
+  }
+
+  // ------------------------------------------------------------------ CSV ve paylaşım
+  function csvCell(x) { const t = x == null ? '' : String(x); return /[";\n]/.test(t) ? '"' + t.replace(/"/g, '""') + '"' : t; }
+  function downloadCsv() {
+    const d = state.data;
+    const units = Object.entries(d.units || {});
+    const keys = new Set();
+    units.forEach(([, u]) => ['pct', 'votes', 'seats'].forEach((f) => Object.keys(u[f] || {}).forEach((k) => keys.add(k))));
+    const groups = [...keys];
+    const head = ['birim_id', 'birim', 'birinci', 'secmen', 'gecerli_oy', 'katilim', 'vekil_listede', 'vekil_ilk', 'not'];
+    groups.forEach((g) => head.push(g + ' oy', g + ' %', g + ' sandalye'));
+    const lines = [head.map(csvCell).join(';')];
+    for (const [k, u] of units) {
+      const r = [k, u.name, u.winner, u.voters, u.valid, u.turnout, u.total, u.initial, u.note || (u.nodata ? 'veri yok' : '')];
+      groups.forEach((g) => r.push(u.votes && u.votes[g], u.pct && u.pct[g] != null ? String(u.pct[g]).replace('.', ',') : '', u.seats && u.seats[g]));
+      lines.push(r.map(csvCell).join(';'));
+    }
+    lines.push('', csvCell('Kaynak: ' + (d.sources || []).map((x) => x.name + ' ' + x.url).join(' | ')));
+    const blob = new Blob(['\ufeff' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = `secim-${d.id}.csv`;
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+  }
+  async function copyLink(btn) {
+    const old = btn.textContent;
+    try { await navigator.clipboard.writeText(location.href); btn.textContent = 'Kopyalandı'; }
+    catch (e) { window.prompt('Bağlantıyı kopyalayın:', location.href); }
+    setTimeout(() => { btn.textContent = old; }, 1500);
+  }
+
+  // ------------------------------------------------------------------ zaman atlamalı oynatma
+  const SPEEDS = { 0.5: 3200, 1: 1800, 2: 900, 4: 450 };
+  function playList() {
+    return filtered().filter((e) => !state.play.skipEmpty || (e.geo && e.units > 0));
+  }
+  function updateYearBadge() {
+    const b = $('#yearBadge');
+    if (!state.play.on || !state.cur) { b.hidden = true; return; }
+    const list = playList(), i = list.findIndex((e) => e.id === state.cur.id);
+    b.hidden = false;
+    b.innerHTML = `<span class="y">${esc(state.cur.date.slice(0, 4))}</span><span class="t">${esc(state.cur.title.replace(/^\d{4}\s*/, ''))}</span><span class="n">${i + 1} / ${list.length}</span>`;
+  }
+  function setPlayUi() {
+    const b = $('#playBtn');
+    b.textContent = state.play.on ? '❚❚ Durdur' : '▶ Oynat';
+    b.setAttribute('aria-pressed', String(state.play.on));
+    b.classList.toggle('on', state.play.on);
+  }
+  async function playStep() {
+    if (!state.play.on) return;
+    const list = playList();
+    let i = list.findIndex((e) => e.id === state.cur.id);
+    const next = list[i + 1];
+    if (!next) { stopPlay(); return; }
+    // bir sonrakini önceden yükle
+    const after = list[i + 2];
+    if (after) { loadElection(after.id).then((x) => x.geo && loadGeo(x.geo)).catch(() => {}); }
+    await go(next.id, { keepMode: true, fromPlay: true });
+    if (state.play.on) state.play.timer = setTimeout(playStep, SPEEDS[state.play.speed]);
+  }
+  async function startPlay() {
+    const list = playList();
+    if (!list.length) return;
+    state.play.on = true; setPlayUi();
+    // sondaysa ya da listede değilse baştan başla
+    let i = list.findIndex((e) => e.id === state.cur.id);
+    if (i < 0 || i === list.length - 1) { await go(list[0].id, { keepMode: true, fromPlay: true }); }
+    updateYearBadge();
+    state.play.timer = setTimeout(playStep, SPEEDS[state.play.speed]);
+  }
+  function stopPlay() {
+    state.play.on = false; clearTimeout(state.play.timer); state.play.timer = null;
+    setPlayUi(); updateYearBadge();
+  }
+  function togglePlay() { state.play.on ? stopPlay() : startPlay(); }
+
   function renderNotes() {
     const d = state.data;
     let h = '';
@@ -349,7 +511,7 @@
 
   function selectUnit(id) {
     state.unit = id;
-    restyle(); renderUnit(); writeHash();
+    restyle(); renderUnit(); renderTable(); writeHash();
   }
 
   // ------------------------------------------------------------------ seçim seçimi
@@ -407,28 +569,40 @@
   }
 
   async function go(id, opts = {}) {
+    if (state.play.on && !opts.fromPlay) stopPlay();
     const meta = state.index.find((e) => e.id === id) || state.index[state.index.length - 1];
     state.cur = meta;
     $('#electionSelect').value = meta.id;
     let d;
     try { d = await loadElection(meta.id); } catch (e) { $('#electionInfo').innerHTML = `<p class="note warn">Veri yüklenemedi: ${esc(e.message)}</p>`; return; }
     if (state.cur !== meta) return;
+    indexUnits(d);
+    const pm = prevMetaFor(d);
+    state.prev = null;
+    if (pm) { try { state.prev = await loadElection(pm.id); indexUnits(state.prev); } catch (e) { state.prev = null; } }
+    if (state.cur !== meta) return;
     state.data = d;
     const ms = modesFor(d).map((m) => m[0]);
     if (opts.mode && ms.includes(opts.mode)) state.mode = opts.mode;
     else if (!ms.includes(state.mode) || (d.defaultMode && !opts.keepMode)) state.mode = (d.defaultMode && ms.includes(d.defaultMode)) ? d.defaultMode : (ms.includes('winner') ? 'winner' : ms[0] || null);
-    const choices = partyChoices(d);
+    const choices = partyChoices(d, state.mode);
     if (opts.party && choices.includes(opts.party)) state.party = opts.party;
     else if (!choices.includes(state.party)) state.party = choices[0];
     if (!(opts.unit && d.units[opts.unit])) { if (!(state.unit && d.units[state.unit])) state.unit = null; } else state.unit = opts.unit;
-    renderElectionInfo(); renderModes(); renderUnit(); renderNotes(); renderTimeline();
+    renderElectionInfo(); renderModes(); renderUnit(); renderTable(); renderNotes(); renderTimeline();
     await draw();
     writeHash();
+    updateYearBadge();
   }
   function step(dir) {
     const list = filtered();
+    if (!list.length) return;
     let i = list.findIndex((e) => e.id === state.cur.id);
-    if (i < 0) i = list.findIndex((e) => e.date > state.cur.date) - (dir > 0 ? 1 : 0);
+    if (i < 0) {  // seçili kayıt filtre dışında: tarihine en yakın komşuya git
+      let k = list.findIndex((e) => e.date > state.cur.date);
+      if (k < 0) k = list.length;
+      i = dir > 0 ? k - 1 : k;
+    }
     const j = Math.max(0, Math.min(list.length - 1, i + dir));
     if (list[j]) go(list[j].id, { keepMode: true });
   }
@@ -443,7 +617,7 @@
     if (state.cur) p.set('e', state.cur.id);
     if (state.unit) p.set('u', state.unit);
     if (state.mode) p.set('m', state.mode);
-    if ((state.mode === 'party' || state.mode === 'share') && state.party) p.set('p', state.party);
+    if ((state.mode === 'party' || state.mode === 'share' || state.mode === 'swing') && state.party) p.set('p', state.party);
     history.replaceState(null, '', '#' + p.toString());
   }
 
@@ -463,10 +637,17 @@
     $('#prevBtn').addEventListener('click', () => step(-1));
     $('#nextBtn').addEventListener('click', () => step(1));
     $('#aboutBtn').addEventListener('click', () => $('#about').showModal());
+    $('#playBtn').addEventListener('click', togglePlay);
+    $('#speedSel').addEventListener('change', (e) => { state.play.speed = Number(e.target.value); });
+    $('#skipEmpty').addEventListener('change', (e) => { state.play.skipEmpty = e.target.checked; updateYearBadge(); });
+    $('#csvBtn').addEventListener('click', downloadCsv);
+    $('#shareBtn').addEventListener('click', (e) => copyLink(e.currentTarget));
+    $('#version').textContent = 'Sürüm ' + VERSION;
     document.addEventListener('keydown', (e) => {
       if (e.target.closest('select, input, textarea, dialog[open]')) return;
       if (e.key === 'ArrowLeft') step(-1);
       if (e.key === 'ArrowRight') step(1);
+      if (e.key === ' ' && !e.target.closest('button')) { e.preventDefault(); togglePlay(); }
     });
     window.addEventListener('resize', () => renderTimeline());
     window.addEventListener('hashchange', () => {

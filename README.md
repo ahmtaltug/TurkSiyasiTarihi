@@ -14,15 +14,20 @@ Sunucu gerektirmeyen statik bir sitedir; GitHub Pages, Netlify ya da Cloudflare 
 | 1950–2024 | 20 genel, 15 yerel (belediye başkanlığı ve il genel meclisi), 8 Senato, 7 halkoylaması, 4 cumhurbaşkanlığı (2014, 2018, 2023 iki tur) | İl düzeyinde oy, oran, sandalye ve katılım. |
 | 2026 | 7 Haziran 2026 mahalli idareler ara seçimi | Seçim yapılan birimlerin il toplamı. |
 
-Toplam 88 kayıt vardır. Harita görünümleri şunlardır: birinci parti ya da aday, seçilen partinin oy oranı, katılım, vekil sayısı ve grup payı.
-Bir il ya da vilayete tıklayınca ayrıntılar açılır; 1950 öncesi için vekil adları da listelenir. Adres çubuğu o anki görünümü saklar
-(ör. `#e=1946&u=istanbul&m=winner`), böylece bağlantı paylaşılabilir.
+Toplam 88 kayıt vardır. Canlı site: **https://ahmtaltug.github.io/TurkSiyasiTarihi/**
+
+### Özellikler
+- **Harita görünümleri:** birinci parti ya da aday, seçilen partinin oy oranı, katılım, vekil sayısı, grup payı ve **değişim** (aynı türden bir önceki seçime göre il il puan farkı).
+- **Zaman atlamalı oynatma:** "Oynat" düğmesi seçili dönem ve türlerdeki seçimleri sırayla gösterir (hız 0,5×–4×; boşluk tuşu). Örneğin yalnız "Genel seçim" açıkken 1877'den 2023'e milletvekili seçimleri art arda oynar.
+- **Ayrıntılar:** Bir il ya da vilayete tıklayınca oylar, sandalyeler ve 1950 öncesi için vekil adları açılır. Sıralanabilir birim tablosu da vardır.
+- **Paylaşma ve indirme:** Adres çubuğu görünümü saklar (ör. `#e=1946&u=istanbul&m=winner`). "Bağlantıyı kopyala" ve "CSV indir" düğmeleri bulunur.
+
+Sürüm geçmişi için [CHANGELOG.md](CHANGELOG.md) dosyasına bakın.
 
 ## Ücretsiz yayınlama (GitHub Pages)
 
-1. Bu dalı `main` dalına birleştirin.
-2. GitHub'da **Settings → Pages → Build and deployment → Source: GitHub Actions** seçin.
-3. `main` dalına her push'ta `.github/workflows/pages.yml` veriyi denetler ve siteyi yayınlar.
+1. GitHub'da **Settings → Pages → Build and deployment → Source: GitHub Actions** seçin.
+2. `main` dalına her push'ta `.github/workflows/pages.yml` veriyi denetler ve siteyi yayınlar.
    Adres: `https://<kullanıcı-adı>.github.io/<depo-adı>/`
 
 Alternatif yöntem: depo kökündeki `index.html`, `css/`, `js/`, `vendor/` ve `data/` klasörlerini Netlify Drop ya da Cloudflare Pages'e
@@ -51,6 +56,7 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
 | `scripts/validate.py` | Seçim dosyalarının ve sınırların tutarlılığını denetler; CI'da da çalışır. |
+| `tests/smoke.js` | Tarayıcı testi: bütün seçimleri ve görünümleri açar (yerelde, Playwright ile). |
 
 ### Veri biçimi
 
