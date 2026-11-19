@@ -1,0 +1,645 @@
+'''1912 Nisan-Ağustos Osmanlı Meclis-i Mebusanı''', [[1912 Osmanlı genel seçimleri]] ile [[Meclis-i Mebûsan]]'a seçilen mebusların tam listesidir. 18 Nisan 1912 - 5 Ağustos 1912 tarihleri arasında görev yaptı.
+
+== Mebuslar ==
+=== Partilere göre sandalye dağılımı ===
+{| class="wikitable" style="font-size:90%;"
+! colspan=2| Parti
+! Sandalye
+! Yüzde (%)
+|-
+| style="background:#E30000" | || [[İttihat ve Terakki]] || 106 || 38,41
+|-
+| style="background:#FF8700" | || [[Osmanlı Ahrar Fırkası|Ahrar]] || 20 || 7,25
+|-  
+| style="background:#FFD700" | || [[Ermeni Devrimci Federasyonu|Taşnak]] || 3 || 1,09
+|- 
+| style="background:#A30000" | || Sosyalist || 1 || 0,36
+|-
+| style="background:#DDDDDD" | || [[Bağımsız siyasetçi|Bağımsız]] || 146 || 52,90
+|-
+|}
+
+=== Dini gruplara göre sandalye dağılımı ===
+{| class="wikitable" style="font-size:90%;"
+! Din
+! Sandalye
+! Yüzde (%)
+|-
+| [[Müslüman]] || 239 || 87     
+|-
+| [[Gayrimüslim]] || 37 || 13     
+|-
+|}
+
+=== Etnik gruplara göre sandalye dağlımı ===
+{| class="wikitable" style="font-size:90%;"
+! MİLLET
+! Sandalye
+! Yüzde (%)
+|-
+| [[Türkler|Türk]] || 168 || 60,87  
+|-
+| [[Araplar|Arap]] || 55 || 19,93
+|-  
+| [[Arnavutlar|Arnavut]] || 16 || 5,80
+|- 
+| [[Osmanlı Rumları|Rum]] || 12 || 4,35
+|-
+| [[Osmanlı Ermenileri|Ermeni]] || 10 || 3,62
+|-
+| [[Bulgarlar|Bulgar]] || 6 || 2,17
+|-
+| [[Osmanlı İmparatorluğu'ndaki Yahudilerin tarihi|Yahudi]] || 4 || 1,45
+|-
+| [[Ulahlar|Ulah]] || 2 || 0,72
+|-
+| [[Makedonlar|Makedon]] || 1 || 0,36
+|-
+| [[Süryaniler|Süryani]] || 1 || 0,36
+|-
+| [[Sırplar|Sırp]] || 1 || 0,36
+|-
+|}
+
+=== İsim listesi ===
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! Vilayet !! Seçim Bölgesi !! Mebus !! colspan="2"| Siyasi Mensubiyeti !! Etnik Mensubiyeti
+|-
+| rowspan=6| [[Adana Vilayeti|Adana]] || rowspan=2| [[Adana]] || [[Abdullah Faik Çopuroğlu|Abdullah Faik Efendi]] || style="background: #FF8700"| || [[Osmanlı Ahrar Fırkası|Ahrar]] || rowspan=6| Türk
+|-
+| Suphi Paşa || rowspan=3 style="background: #E30000"| || rowspan=3| [[İttihat ve Terakki]]
+|-
+| Cebelibereket || Hasan Sezai Bey
+|-
+| İçel || [[Hasan Emin İnangör|Hasan Emin Bey]]
+|-
+| Kozan || [[Ali İlmifani Bilgili|Ali İlmifani Bey]] || style="background: #FF8700"| || Ahrar
+|-
+| Mersin || Süleyman Sadık Paşa || style="background:#DDDDDD"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| rowspan=11| [[Ankara Vilayeti|Ankara]] || rowspan=4| Ankara || [[Hacı Mustafa Beynamlı|Hacı Mustafa Efendi]] ||rowspan=5 style="background: #E30000"| || rowspan=5| İttihat ve Terakki || rowspan=11| Türk
+|-
+| [[Halil Hâlid Bey|Halil Halit Bey]]
+|-
+| [[Nusret Sadullah Ayaşlı|Nusret Sadullah Bey]]
+|-
+| [[Talat Sönmez|Talat Bey]]
+|-
+| Çorum || [[Ali Osman Efendi (1877 doğumlu siyasetçi)|Ali Osman Efendi]]
+|-
+| rowspan=2| Kayseri || [[Ali Galip (Elazığ valisi)|Ali Galip Bey]] || style="background: #FF8700"| || Ahrar
+|-
+| [[Rifat Çalıka|Ahmet Rifat Bey]] || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız
+|-
+|-
+| rowspan=2| Kırşehir || [[Ali Rıza Benli (siyasetçi)|Ali Rıza Bey]]
+|-
+| [[Mahmut Mahir Efendi]]
+|-
+| rowspan=2| Yozgat || Şakir Bey || rowspan=3 style="background: #E30000"| || rowspan=3| İttihat ve Terakki
+|-
+| Ahmet Münir Bey
+|-
+| rowspan=18| [[Aydın Vilayeti|Aydın]] || rowspan=4| Aydın || [[Haydar Bey]] || rowspan=5| Türk 
+|-
+| [[Kâzım Nuri Çörüş|Kazım Nuri Bey]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| [[Mehmet Ubeydullah Hatipoğlu|Ubeydullah Efendi]] || rowspan=8 style="background: #E30000"| || rowspan=8| İttihat ve Terakki
+|-
+| [[Yunus Nadi Abalıoğlu|Yunus Nadi Bey]]
+|-
+| rowspan=2| Denizli || [[Mehmet Sadık Bey]]
+|-
+| [[Fraşirili Gani Bey]] || Arnavut
+|-
+| rowspan=6| İzmir || [[Seyyid Bey]] || rowspan=2| Türk
+|-
+| Musa Kazım Bey
+|-
+| [[Nesim Mazliyah]] Efendi || Yahudi
+|-
+| [[Emmanuil Emmanuilidis]] || rowspan=2| Rum
+|-
+| [[Pavli Karolidi]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| [[Vahan Bardizbanyan]] || style="background:#FFD700" | || [[Ermeni Devrimci Federasyonu|Taşnak]] || Ermeni
+|-
+| rowspan=2| Menteşe || [[Halil Menteşe|Halil Bey]] || style="background: #E30000"| || İttihat ve Terakki || rowspan=6| Türk
+|-
+| [[Ali Haydar Yuluğ|Ali Haydar Bey]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=4| Saruhan || Haydar Bey || rowspan=3 style="background: #E30000"| || rowspan=3| İttihat ve Terakki
+|-
+| [[Mustafa Fevzi Sarhan|Mustafa Fevzi Bey]]
+|-
+| [[Hüseyin Kâzım Kadri|Hüseyin Kazım Kadri Efendi]]
+|-
+| [[Mansurîzade Said Bey]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=7| [[Bağdat Vilayeti|Bağdat]] || rowspan=4| Bağdat || Fuad Defteri Bey || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=3| Arap
+|-
+| Nakibzade Seyyid Muhiddin el-Kaylani Efendi
+|-
+| Süleymanzade Murat Bey
+|-
+| [[Ezekiyel Sason|Sason Efendi]] || rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki || Yahudi
+|-
+| Divaniye || [[Babanzade İsmail Hakkı|Babanzade İsmail Hakkı Bey]] || Türk 
+|-
+| rowspan=2| Kerbela || Defterizade Fuad Seniyye Efendi || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || Arap
+|-
+| Nuri Efendi || Türk 
+|-
+| rowspan=9| [[Basra Vilayeti|Basra]] || rowspan=2| Ammare || Abdülmecid el-Şavi Efendi ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki || rowspan=2| Arap
+|-
+| Abdürrezzak Münir Efendi
+|-
+| rowspan=4| Basra || [[Ahmed Naim Baban|Babanzade Ahmed Naim Bey]] || style="background: #DDDDDD"| || Bağımsız || Türk
+|-
+| Zuheyrzade Abdullah || rowspan=2 style="background: #FF8700"| || rowspan=2| Ahrar || rowspan=3| Arap
+|-
+| [[Seyyid Talib Bey|Seyyid Talip Bey]]
+|-
+| Abdülvahab el-Kırtas Paşa || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=3| Müntefik || Feridpaşazade Abdülmuhsin Bey || style="background: #E30000"| || İttihat ve Terakki || rowspan=2| Arap
+|-
+| [[Cemil Sıdkı ez-Zahavi|Cemil Sıtkı el-Zahavi]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| Muhammed Hamza Bey || Türk
+|-
+| rowspan=7| [[Beyrut Vilayeti|Beyrut]] || [[Akka]] || Şakîrzade Esad Tevfik Efendi || rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki || rowspan=7| Arap
+|-
+| rowspan=2| Beyrut || [[Kâmil Bey el-Esad|Kâmil El Esad Bey]]
+|-
+| Muharrem Misbah Efendi || rowspan=5 style="background: #DDDDDD"| || rowspan=5| Bağımsız
+|-
+| Lazkiye || Harun Abdülvahid Efendi
+|-
+| Nablus || Tufan Haydar Bey
+|-
+| rowspan=2| Trablusşam || Fuat Hulusi Bey 
+|-
+| Fuat Hulusi Bey 
+|-
+| rowspan=5| [[Bitlis Vilayeti|Bitlis]] || Bitlis || [[Sadullah Fevzi Eren|Sadullah Fevzi Bey]] || style="background: #DDDDDD"| || Bağımsız || rowspan=3| Türk
+|-
+| Genç || [[Mehmed Emin Bey]] || rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| rowspan=2| Muş || [[İlyas Sami Muş|Hacı İlyas Sami Efendi]]
+|-
+| [[Kegam Dergarabedyan]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || Ermeni
+|-
+| Siirt || Nazım Maggönül || Süryani
+|-
+| rowspan=2| [[Cezayir-i Bahr-i Sefid Vilayeti|Cezayir-i Bahr-i Sefid]] || Midilli || Dimitraki Sava Efendi || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=2| Rum
+|-
+| Sakız || Ehlefes Abodyako Efendi
+|-
+| rowspan=6| [[Diyarbekir Vilayeti|Diyarbekir]] || rowspan=2| Diyarbekir || [[Pirinççizade Feyzi Bey|Pirinçcizade Feyzi Bey]] || rowspan=6| Türk
+|-
+| [[Zülfü Tigrel|Mehmet Zülfü Bey]] || rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| Ergani || [[Ziya Gökalp]]
+|-
+| rowspan=2| Mardin || Hasan Lami Efendi || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| Sait Bey
+|-
+| Siverek || [[Müftüzade İsmail Hakkı Bey]] || style="background: #E30000"| || İttihat ve Terakki
+|-
+| rowspan=12| [[Edirne Vilayeti|Edirne]] || rowspan=4| Dedeağaç || [[Hacı Adil Arda|Hacı Adil Bey]] ||rowspan=7 style="background: #E30000"| || rowspan=7| İttihat ve Terakki || rowspan=11| Türk
+|-
+| Manavoğlu Süleyman Bey
+|-
+| Mehmet Hilmi Bey
+|-
+| [[Mehmed Fehmi Efendi]]
+|-
+| rowspan=3| Edirne || [[Talat Paşa|Mehmed Talat Paşa]]
+|-
+| [[Faik Kaltakkıran|Faik Bey]]
+|-
+| Emin Bey
+|-
+| Gelibolu || [[Hüseyin Ulvi Bey|Hafız Hüseyin Ulvi Bey]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=2 | Kırkkilise || [[Emrullah Efendi]] ||rowspan=3 style="background: #E30000"| || rowspan=3| İttihat ve Terakki
+|-
+| [[Ömer Naci|Ömer Naci Bey]]
+|-
+| rowspan=2 | Tekirdağ || Bedreddin Bey
+|-
+| [[Agop Boyacıyan|Agop Boyacıyan Efendi]] || style="background: #DDDDDD"| || Bağımsız || Ermeni
+|-
+| rowspan=9| [[Erzurum Vilayeti|Erzurum]] || Bayazıt || [[Süleyman Sudi Acarbay|Süleyman Sudi Efendi]] || rowspan=4 style="background: #DDDDDD"| || rowspan=4| Bağımsız || rowspan=4| Türk
+|-
+| Erzincan || [[Halet Sağıroğlu|Halet Efendi]]
+|-
+| rowspan=5 | Erzurum || Hacı Lütfullah Vehbi Efendi
+|-
+| [[Hüseyin Tosun|Hüseyin Tosun Bey]]
+|-
+| [[Karekin Pastırmacıyan|Pastırmacıyan Karekin Efendi]] || style="background:#FFD700"| || Taşnak || Ermeni
+|-
+| [[Raif Dinç|Hoca Raif Efendi]] || style="background: #E30000"| || İttihat ve Terakki || Türk
+|-
+| [[Ohannes Vartkes Efendi]] || style="background:#FFD700"| || Taşnak || Ermeni
+|-
+| rowspan=2 | Van || [[Mithat Altıok|Mithat Efendi]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || Türk
+|-
+| [[Onnik Tertsakyan|Onnik Tertsakyan Vinniyan]] || Ermeni
+|-
+| rowspan=2| [[Hicaz Vilayeti|Hicaz]] || rowspan=2| Mekke || [[I. Abdullah|Şerif Abdullah Efendi]] || rowspan=2 style="background: #FF8700"| || rowspan=2| Ahrar || rowspan=2| Arap
+|-
+| [[Hasan Şeybi Efendi]]
+|-
+| rowspan=10| [[Halep Vilayeti|Halep]] || rowspan=6| Halep || [[Ali Cenani|Ali Cenani Bey]] || style="background: #DDDDDD"| || Bağımsız || Türk
+|-
+| [[Artin Boşgezenyan|Artin Boşgezenyan Efendi]] || style="background: #E30000"| || İttihat ve Terakki || Ermeni
+|-
+| Hamid Abdülgafur Bey || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=3|Arap
+|-
+| Muhammed Bahaeddin el-Amiri
+|-
+| Sadık el-Rıfai Bey
+|-
+| [[Şeyh Mustafa Efendi]] ||style="background: #E30000"| || İttihat ve Terakki || rowspan=24| Türk
+|-
+| rowspan=2| Maraş || [[Hacı Hasan Fehmi Efendi]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| [[Hacı İbrahim Evliya Efendi]]
+|-
+| rowspan=2| Urfa || [[Saffet Yetkin|Şeyh Saffet Efendi]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| Ömer Edip Bey
+|-
+| rowspan=13| [[Hüdâvendigâr Vilayeti|Hüdavendigâr]] || rowspan=4| Bursa || [[Refet Canıtez|Hasan Refet Bey]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| [[Rıza Hamit Bey]]
+|-
+| [[Hafız Ahmet Hamdi Efendi]] || style="background: #FF8700"| || Ahrar
+|-
+| [[Abdullah Sabri Karter|Abdullah Sabri Efendi]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=2| [[Bilecik|Ertuğrul]] (Bilecik) || [[Hakkı Baha Pars|Hakkı Baha Efendi]] || style="background: #E30000"| || İttihat ve Terakki
+|-
+| [[Mehmet Sadık Bey]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=3| [[Afyonkarahisar|Karahisar-i Sâhib]] (Afyonkarahisar) || Hoca Ahmet Bedri Efendi || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız
+|-
+| [[Kâmil Miras|Kâmil Efendi]]
+|-
+| [[Kethüdazade Salim Efendi]]
+|-
+| rowspan=4| Kütahya || [[Abdullah Azmi Torun|Abdullah Azmi Efendi]] || rowspan=2 style="background: #E30000"| ||rowspan=2| İttihat ve Terakki
+|-
+| [[Yenibahçeli Nail Bey]]
+|-
+| [[Ahmed Cemal Bey (1871 doğumlu siyasetçi)|Ahmed Cemal Bey]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| Küpelizade Sadık Bey
+|-
+| rowspan=14| [[İstanbul Vilayeti|İstanbul]] || Çatalca || [[Hafız Süleyman Efendi]] || rowspan=7 style="background: #E30000"| || rowspan=7| İttihat ve Terakki
+|-
+| rowspan=10| İstanbul || [[Yağcı Şefik Bey]]
+|-
+| [[Ahmet Nesimi Sayman|Ahmed Nesimi Bey]]
+|-
+| Memduh Bey
+|-
+| [[Haşim Sanver|Hüseyin Haşim Bey]]
+|-
+| [[Hüseyin Cahit Yalçın|Hüseyin Cahit Bey]]
+|-
+| [[Bedros Hallaçyan|Bedros Hallaçyan Efendi]] || rowspan=2| Ermeni
+|-
+| [[Kirkor Zohrab|Kirkor Zöhrap Efendi]] || style="background: #FF8700"| || Ahrar
+|-
+| [[Orfanidis Efendi]]|| rowspan="3" style="background: #DDDDDD" | || rowspan=3| Bağımsız || rowspan=2| Rum
+|-
+| [[Yorgaki Artas Efendi]]
+|-
+| [[Vitali Hayim Faraci|Alber Feraci Efendi]] || Yahudi
+|-
+| rowspan=3| İzmit || [[İsmail Canbulat|Canbulat İsmail Bey]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki || rowspan=2| Türk
+|-
+| [[Ahmet Müfit Saner|Ahmet Müfit Bey]]
+|-
+| [[Anastas Mihailidis]] || style="background: #DDDDDD"| || Bağımsız || Rum
+|-
+| rowspan=3| [[İşkodra Vilayeti|İşkodra]] || Draç || [[Esad Toptanî Paşa|Esad Paşa]] || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=3| Arnavut
+|-
+| rowspan=2| İşkodra || [[Murtaza Galip Bey]]
+|-
+| [[Rıza Bey (1864 doğumlu siyasetçi)|Rıza Bey]]
+|-
+| rowspan=2| [[Çanakkale|Kale-i Sultaniye]] || rowspan=2| Kale-i Sultaniye || [[Atıf Kamçıl|Atıf Bey]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki || rowspan=3| Türk
+|-
+| Kazım Bey
+|-
+| rowspan=2| [[Balıkesir|Karesi (Balıkesir)]] || rowspan=2| Karesi || [[Ali Galip Efendi]] || rowspan=2 style="background: #FFFFFF"| || rowspan=2| Bilinmiyor
+|-
+| [[Konstantin Savapulos|Konstantin Savapulos Efendi]] || Rum
+|-
+| rowspan=11| [[Kastamonu Vilayeti|Kastamonu]] || rowspan=4| Bolu || [[Mehmet Habip Bey]] || style="background: #FF8700"| || Ahrar || rowspan=21| Türk
+|-
+| [[Rıfat Kamil Madenci]] ||style="background: #E30000"| || İttihat ve Terakki
+|-
+| [[Taşhancızade Mustafa Zeki Efendi]]|| style="background: #DDDDDD" | || Bağımsız
+|-
+| [[Yusuf Ziya Özenci|Yusuf Ziya Bey]] || style="background: #E30000"| || İttihat ve Terakki
+|-
+| rowspan=2| Kangırı (Çankırı) || Hazırlıklızade Mehmet Sabri Efendi || style="background: #DDDDDD"| || Bağımsız
+|-
+| [[Tevfik Durlanık|Hacı Tevfik Efendi]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| rowspan=4| Kastamonu || [[Ahmet Mahir Efendi]] 
+|-
+| Hüsnü Bey || style="background: #DDDDDD"| || Bağımsız
+|-
+| İsmail Mahir Efendi ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| [[Necmettin Molla Kocataş|Necmeddin Molla Bey]]
+|-
+| Sinop || İsmail Hakkı Bey || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=13| [[Konya Vilayeti|Konya]] || Burdur || Ali Galip Bey || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=2| [[Isparta|Hamid-i Abad]] (Isparta) || [[Ispartalı Hakkı Bey|Ağlarcazade Mustafa Hakkı Bey]] || style="background: #E30000"| || İttihat ve Terakki
+|-
+| Burhanzade Hacı Eşref Efendi || rowspan=5 style="background: #DDDDDD"| || rowspan=5| Bağımsız
+|-
+| rowspan=5| Konya || Ali Kemali Efendi
+|-
+| Mehmed Emin Efendi
+|-
+| Mehmed Rıza Bey
+|-
+| [[Ömer Vehbi Büyükyalvaç|Ömer Vehbi Efendi]]
+|-
+| [[Muhammed Zeynelabidin Efendi|Zeynelabidin Efendi]] || style="background: #FF8700"| || Ahrar
+|-
+| rowspan=3| Niğde || [[Ürgüplü Mustafa Hayri Efendi|Mustafa Hayri Efendi]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki
+|-
+| Muhiddin Bey
+|-
+| [[Yorgaki Kurtoğlu Efendi|Yorgaki Efendi]] || style="background: #DDDDDD"| || Bağımsız || Rum
+|-
+| rowspan=2| [[Antalya|Teke]] (Antalya) || İdris Bey || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || rowspan=2| Türk
+|-
+| Münir Bey
+|-
+| rowspan=11| [[Kosova Vilayeti|Kosova]] || [[İpek, Kosova|İpek]] || [[Hafız İbrahim Efendi]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || rowspan=2| Türk
+|-
+| [[Priştine]] || Rıfat Bey 
+|-
+| rowspan=3| [[Prizren]] || Abdülaziz Efendi || rowspan=3 style="background: #E30000"| ||rowspan=3| İttihat ve Terakki || rowspan=2| Arnavut
+|-
+| Hacı Destan Efendi
+|-
+| [[Tevfik Nazif Arıcan|Tevfik Nazif Bey]] || Türk
+|-
+| [[Yeni Pazar|Senice]] (Yeni Pazar) || Emir Bey || style="background: #DDDDDD"| || Bağımsız || Arnavut
+|-
+| Taşlıca || Mehmed İzzet Paşa || style="background: #DDDDDD"| || Bağımsız || Türk
+|-
+| rowspan=4| Üsküp || Ali Şefik Bey || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || rowspan=2| Arnavut
+|-
+| Yusuf Bey 
+|-
+| [[Todor Pavlof|Pavlof Efendi]] || style="background: #FF8700"| || Ahrar || Bulgar
+|-
+| [[Spiro Ristiç]] || style="background: #E30000"| || İttihat ve Terakki || Sırp
+|-
+| rowspan=3| [[Kudüs Vilayeti|Kudüs]] || rowspan=3| Kudüs || Ahmed Arif el-Hüseyni Efendi || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=3| Arap
+|-
+| [[Ruhi el-Halidi Bey]]
+|-
+| Osman Naşaşibi Efendi
+|-
+| rowspan=6| [[Ma'mûretü'l-Azîz Vilayeti|Mamuret-ül-Aziz]] || Dersim || Salim Bey || rowspan=6 style="background: #DDDDDD"| || rowspan=6| Bağımsız || rowspan=6| Türk
+|-
+| rowspan=2| Malatya || Mehmet Tevfik Efendi
+|-
+| Osman Avni Efendi
+|-
+| rowspan=3| [[Elazığ|Mamuret-ül-Aziz]] (Elazığ)<ref name="Sahin">{{dergi kaynağı|soyadı1=Yedek|ad1=Şahin|editör-soyadı=Çılğın|editör-ad=Zeynel|yıl=2017|başlık=Meclis-i Mebusan’da Mamuretülaziz (Elazığ) Mebusları ve Faaliyetleri (1877-1920)|dergi=Sosyal Bilimler Dergisi|cilt=5|sayı=10|sayfalar=5-18|yayıncı=Munzur Üniversitesi|url=https://www.academia.edu/35718895/MECL%C4%B0S_%C4%B0_MEBUSAN_DA_MAMURET%C3%9CLAZ%C4%B0Z_ELAZI%C4%9E_MEBUSLARI_ve_FAAL%C4%B0YETLER%C4%B0_1877_1920_?email_work_card=view-paper|erişimtarihi=25 Kasım 2020|arşivurl=https://web.archive.org/web/20210602220937/https://www.academia.edu/35718895/MECL%C4%B0S_%C4%B0_MEBUSAN_DA_MAMURET%C3%9CLAZ%C4%B0Z_ELAZI%C4%9E_MEBUSLARI_ve_FAAL%C4%B0YETLER%C4%B0_1877_1920_?email_work_card=view-paper|arşivtarihi=2 Haziran 2021|ölüurl=hayır}}</ref> || [[Mustafa Solmaz|İspirzade Mustafa Saffet Efendi]]
+|-
+| [[Hacı Mehmed Nuri Efendi]]
+|-
+| [[Hacı Osman Bey]]
+|-
+| rowspan=11| [[Manastır Vilayeti|Manastır]] || Debre || Şevket Enon Efendi || rowspan=2 style="background: #FF8700"| || rowspan=2| Ahrar || rowspan=2| Arnavut
+|-
+| Elbasan || Şevket Bey 
+|-
+| rowspan=2| [[Görice]] || [[Filip Mişa|Filip Mise Efendi]] || style="background: #E30000"| || İttihat ve Terakki || Ulah
+|-
+| Süleyman Efendi || style="background: #DDDDDD"| || Bağımsız || Arnavut
+|-
+| rowspan=5| Manastır || [[Fethi Okyar|Ali Fethi Okyar]] || style="background: #E30000"| || İttihat ve Terakki || Türk
+|-
+| Mehmet Vasıf Efendi || style="background: #DDDDDD"| || Bağımsız || Arnavut
+|-
+| [[Pançe Doref|Pançe Doref Efendi]] || style="background:#A30000"| || Sosyalist || Bulgar
+|-
+| [[Trayan Nali Efendi]] || rowspan=2 style="background: #FF8700"| || rowspan=2| Ahrar || Ulah
+|-
+| [[Yanko Dimitroviç|Yanko Dimitroviç Efendi]] || Sırp
+|-
+| rowspan=2| [[Serfiçe|Serfice]] || Osman Bey ||style="background: #E30000"| || İttihat ve Terakki || Türk
+|-
+| [[Gregorios Anagnostu|Gregoryos Efendi]] || style="background: #DDDDDD"| || Bağımsız || Rum
+|-
+| rowspan=8| [[Musul Vilayeti|Musul]] || rowspan=3| Kerkük || [[Mehmet Ali Bey (1872 doğumlu siyasetçi)|Mehmet Ali Bey]] || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=2| Türk
+|-
+| Bahaeddin Bey
+|-
+| Abdullah Safi el-Yakubi Efendi || Arap
+|-
+| rowspan=4| Musul || Hacı Muhammed Paşa || style="background: #FF8700"| || Ahrar || rowspan=4| Arap
+|-
+| Hacı Salih Sadi Efendi || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız
+|-
+| Hasan Faik Bey
+|-
+| İbrahim Fevzi Efendi
+|-
+| Süleymaniye || [[Babanzade Hikmet|Babanzade Hikmet Bey]] ||style="background: #E30000"| || İttihat ve Terakki || Türk
+|-
+| rowspan=13| [[Selanik Vilayeti|Selanik]] || rowspan=2| Drama || [[Mithat Şükrü Bleda|Mithat Şükrü Bey]] ||rowspan=6 style="background: #E30000"| || rowspan=6| İttihat ve Terakki || rowspan=4| Türk
+|-
+| Rıza Bey
+|-
+| rowspan=7| Selanik || [[Cavid Bey]]
+|-
+| [[Rahmi Arslan|Rahmi Bey]]
+|-
+| [[Emanuel Karasu|Emanuel Karasu Efendi]] || Yahudi
+|-
+| Halil Bey || Türk
+|-
+| [[Yordan Nikolof|Jordan Nikolov]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || rowspan=2| Bulgar
+|-
+| Çikoçanof Efendi
+|-
+| Kiryaki Koçuno || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || Rum
+|-
+| rowspan=4| [[Serez]] || [[Aleksandır Buynov|Aleksandr Buynov]] || Bulgar
+|-
+| Derviş Ragıp Bey || style="background: #E30000"| || İttihat ve Terakki || rowspan=2| Türk
+|-
+| Hulusi Bey || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| [[Stoyo Hacıyev]] || Bulgar 
+|-
+| rowspan=13| [[Sivas Vilayeti|Sivas]] || rowspan=3| Amasya || [[Arif Fazıl Efendi]] || style="background: #E30000"| || İttihat ve Terakki || rowspan=9| Türk
+|-
+| [[Cudi Efendi]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| [[İsmail Hakkı Paşa (1858-1925)|İsmail Hakkı Paşa]]
+|-
+| rowspan=2| [[Şebinkarahisar|Karahisar-ı Şarki]] (Şebinkarahisar) || [[Mehmet Vasfi Seçer|Hafızzade Mehmed Vasfi Efendi]] || rowspan=2 style="background: #E30000"| ||rowspan=2| İttihat ve Terakki
+|-
+| Kurtzade Zihni Efendi
+|-
+| rowspan=5| Sivas || [[Hüsnü Bey (1855 doğumlu siyasetçi)|Hüsnü Bey]] || rowspan=4 style="background: #DDDDDD"| || rowspan=4| Bağımsız
+|-
+| [[Emin Edip Efendi]] 
+|-
+| Şemseddinzade Mustafa Ziya Bey
+|-
+| [[Ömer Şevki Purut|Ömer Şevki Bey]]
+|-
+| [[Paşayan Karabet Efendi]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || Ermeni
+|-
+| rowspan=3| Tokat || Kemerlizade Şakir Bey || rowspan=3| Türk
+|-
+| Tahsin Rıza Bey || style="background: #E30000"| || İttihat ve Terakki
+|-
+| [[Kamil Baştopçu|Topçuzade Hacı Kamil Efendi]] || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=10| [[Suriye Vilayeti|Şam]] || rowspan=2| Hama || [[Seyyid Haşim Bey]] || style="background: #E30000"| || İttihat ve Terakki || Türk
+|-
+| Halid El Berazi Efendi || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || rowspan=3| Arap
+|-
+| rowspan=2| Havran || İsmail Hariri Efendi
+|-
+| Raşid Tali Bey || rowspan=2 style="background: #E30000"| ||rowspan=2| İttihat ve Terakki
+|-
+| Humus || Mehmet Şefik Bey || Türk
+|-
+| Kerek || Muhammed Ataullah el-Eyyubi Efendi || style="background: #DDDDDD"| || Bağımsız || rowspan=5| Arap
+|-
+| rowspan=4| Şam || [[Abdurrahman el-Yusuf Bey|Abdurrahman El Yusuf Bey]] || style="background: #E30000"| || İttihat ve Terakki
+|-
+| [[Mehmed Fevzi Paşa|Muhammed Fevzi el-Azmi Paşa]] || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız
+|-
+| Emin Terazi Efendi
+|-
+| Abdülmuhsin Ustuvani Efendi
+|-
+| rowspan=12| [[Trablusgarp Vilayeti|Trablusgarp]] || rowspan=3| Bingazi || [[Ömer Mansur Paşa]] || style="background: #DDDDDD"| || Bağımsız || Türk
+|-
+| [[Yusuf Şetvan]] || style="background: #FF8700"| || Ahrar || rowspan=2| Arap
+|-
+| Abdülkadir Anani Paşa || style="background: #DDDDDD"| || Bağımsız
+|-
+| rowspan=2| [[Cebelü'l-Garbi (il)|Cebel'ül Garbi]] || [[Süleyman el-Baruni|Süleyman el-Biruni Efendi]] || rowspan=8 style="background: #DDDDDD"| || rowspan=8| Bağımsız || rowspan=9| Arap
+|-
+| Feyzullah el-Zubeyri Efendi
+|-
+| rowspan=2| Fizan || [[Cami Baykurt|Cami Bey]]
+|-
+| Abdüllatif Bey
+|-
+| rowspan=5| Trablusgarp ||  Mahmut Naci Bey
+|-
+| Sadık Bey
+|-
+| Hadi Kenan Bey
+|-
+| Muhammed Muhtar Kabar
+|-
+| Ferhad Efendi || style="background: #FF8700"| || Ahrar
+|-
+| rowspan=15| [[Trabzon Vilayeti|Trabzon]] || rowspan=4| [[Samsun|Canik (Samsun)]] || [[Süleyman Necmi Selmen|Süleyman Necmi Bey]] ||rowspan=2 style="background: #E30000"| || rowspan=2| İttihat ve Terakki || rowspan=14| Türk
+|-
+| [[Talat Özüdoğru|Aynizade Talat Avni Bey]]
+|-
+| Hoca Ahmed Hamdi Efendi || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız
+|-
+| Ahmed Hakkı Bey
+|-
+| rowspan=2| Gümüşhane || [[Hasan Fehmi Ataç|Hasan Fehmi Bey]] || style="background: #E30000"| || İttihat ve Terakki
+|-
+| [[Mısırlızade Hayri Bey]]|| style="background: #DDDDDD" | || Bağımsız
+|-
+| rowspan=2| Lazistan || [[Çürüksulu Ahmet Paşa|Çürüksulu Ahmed Bey]] || rowspan=6 style="background: #E30000"| || rowspan=6| İttihat ve Terakki
+|-
+| [[Yusuf Ziya Kantoğlu|Yusuf Ziya Bey]]
+|-
+| rowspan=7| Trabzon || [[Ali Osman Güley|Ali Osman (Güley) Bey]]
+|-
+| [[Hafız Mehmed Bey|Hafız Mehmet]]
+|-
+| [[İzzet Eyyüboğlu|Eyüpzade İzzet Bey]]
+|-
+| Servet Bey
+|-
+| Nemlizade Hacı Osman Bey || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız
+|-
+| Fakizade Mahmud Memduh Efendi
+|-
+| [[Matyo Kofidi|Matheos Kofidis]] Efendi || Rum
+|-
+| rowspan=7| [[Yanya Vilayeti|Yanya]] || rowspan=2| Berat || [[Avlonyalı Süreyya Bey|Süreyya Vlora Bey]] || rowspan=2 style="background: #DDDDDD"| || rowspan=2| Bağımsız || rowspan=4| Arnavut
+|-
+| Sami Vrionis
+|-
+| Çamlık || [[Şahin Dino|Şahin Bey]] || style="background: #FFFFFF"| || Bilinmiyor
+|-
+| Ergiri || [[Libhovalı Müfid Bey|Müfid Bey]] || style="background: #FF8700"| || Ahrar
+|-
+| rowspan=3| Yanya || Dimitraki Kingos Efendi || rowspan=3 style="background: #DDDDDD"| || rowspan=3| Bağımsız || rowspan=3| Rum
+|-
+| Konstantin Surlas Efendi
+|-
+| Despiri Vasilaki Efendi
+|-
+| rowspan=11| [[Yemen Vilayeti|Yemen]] || rowspan=2| Asir || Hüseyin Hüsameddin Efendi || rowspan=11 style="background: #DDDDDD"| || rowspan=11| Bağımsız || rowspan=5| Türk
+|-
+| Seyyid Yusuf Fazıl Bey
+|-
+| rowspan=4| Hudeyde || Mustafa Fehmi Bey
+|-
+| Muharrem Hıfzı Bey
+|-
+| [[Zühdü Efendi]]
+|-
+| Seyyid Yahya Paşa || rowspan=5| Arap
+|-
+| rowspan=5| San'a || Seyyid Ahmed Habbani Bey
+|-
+| Seyyid Hüseyin ibn Ali Abdülkadir Efendi
+|-
+| Seyyid Ali İbrahim Efendi
+|-
+| Seyyid Ahmed Yahya el-Kabsi Efendi
+|-
+| Nuri Bey || Türk
+|-
+|}
+
+== Dış bağlantılar ==
+* [https://web.archive.org/web/20130723044738/http://coursesa.matrix.msu.edu/~fisher/hst373/Meclis-iMubasan1912.htm Members of the Meclis-i Mebusan 1912 - 1912 Meclis-i Mebusan'ı üyeleri (İngilizce)]
+
+== Kaynakça ==
+{{Kaynakça}}
+
+{{Osmanlı devlet teşkilatı}}
+
+[[Kategori:Meclis-i Mebusan 4. dönem mebusları|*]]
+[[Kategori:Meclis-i Mebusan milletvekili listeleri|4]]

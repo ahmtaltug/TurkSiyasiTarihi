@@ -1,0 +1,1254 @@
+'''TBMM 8. dönem milletvekilleri listesi''', [[1946 Türkiye genel seçimleri]] ile seçilen ve 5 Ağustos 1946 - 24 Mart 1950 tarihleri arasında [[Türkiye Büyük Millet Meclisi]]nde görev yapmış milletvekillerinin listesidir.
+
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! Seçim Bölgesi !! Milletvekili !! colspan="2"|Siyasi Parti
+! colspan="2" |
+|-
+| rowspan=8| '''[[Afyonkarahisar milletvekilleri listesi|Afyonkarahisar]]''' || [[Sadık Aldoğan]] || rowspan=8 style="background: #348AC9"| || rowspan=8| [[Demokrat Parti (1946)|Demokrat Parti]]
+| rowspan="2" style="background: #FFA500"|
+| rowspan="2" |[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Mehmet Aşkar]]
+|-
+| [[Hazim Bozca]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Hasan Dinçer]]
+| rowspan="2" style="background: #FFA500"|
+| rowspan="2" |[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Şahin Laçin]]
+|-
+| [[Kemal Özçoban]]
+| colspan="2" rowspan="3" |
+|-
+| [[Ahmet Cemal Tunca]]
+|-
+| [[Ahmet Veziroğlu]]
+|-
+! colspan="6" |
+|-
+| rowspan=3| '''[[Ağrı milletvekilleri listesi|Ağrı]]''' || [[Müştak Aktan]] || rowspan=3 style="background: #D70000"| || rowspan=3| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="3" |
+|-
+| [[Ahmet Alpaslan]]
+|-
+| [[Halit Bayrak]]
+|-
+! colspan="6" |
+|-
+| rowspan=4| '''[[Amasya milletvekilleri listesi|Amasya]]''' || [[Ahmet Eymir]] || rowspan=4 style="background: #D70000"| || rowspan=4| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="4" |
+|-
+| [[Zeki Tarhan]]
+|-
+| [[Esat Uras|Ahmet Esat Uras]]
+|-
+| [[Ali Kemal Yiğitoğlu]]
+|-
+! colspan="6" |
+|-
+| rowspan=18| '''[[Ankara milletvekilleri listesi|Ankara]]''' || [[İsmet İnönü]] || rowspan=18 style="background: #D70000"| || rowspan=18| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="18" |
+|-
+| [[Falih Rıfkı Atay]]
+|-
+| [[Naci Tınaz]]
+|-
+| [[Naki Cevat Akkerman]]
+|-
+| [[Mebrure Aksoley]]
+|-
+| [[Hilmi Atlıoğlu]]
+|-
+| [[İbrahim Rauf Ayaşlı]]
+|-
+| [[Hıfzı Oğuz Bekata]]
+|-
+| [[Avni Refik Berkman]]
+|-
+| [[Raşit Börekçi]]
+|-
+| [[Arif Çubukçu]]
+|-
+| [[Emin Halim Ergun]]
+|-
+| [[Muammer Eriş]]
+|-
+| [[İhsan Ezgü]]
+|-
+| [[Cevdet Gölet]]
+|-
+| [[Mümtaz Ökmen]]
+|-
+| [[Fakihe Öymen]]
+|-
+| [[Ahmet Hamit Selgil]]
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Antalya milletvekilleri listesi|Antalya]]''' || [[Numan Aksoy]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="7" |
+|-
+| [[Niyazi Aksu]]
+|-
+| [[Galip Kahraman]]
+|-
+| [[Rasih Kaplan]]
+|-
+| [[Mustafa Korkut]]
+|-
+| [[Tayfur Sökmen]]
+|-
+| [[Nurullah Esat Sumer]]
+|-
+! colspan="6" |
+|-
+| rowspan=8| '''[[Aydın milletvekilleri listesi|Aydın]]''' || [[Sabri Akın]] || rowspan=8 style="background: #D70000"| || rowspan=8| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="8" |
+|-
+| [[Neşet Akkor]]
+|-
+| [[Refet Alpman]]
+|-
+| [[Emin Arkayın]]
+|-
+| [[Mithat Aydın]]
+|-
+| [[Emin Bilgen]]
+|-
+| [[Mazhar Germen]]
+|-
+| [[Ahmet Nuri Göktepe]]
+|-
+! colspan="6" |
+|-
+| rowspan=14| '''[[Balıkesir milletvekilleri listesi|Balıkesir]]''' || [[Kâzım Özalp]] || rowspan=14 style="background: #D70000"| || rowspan=14| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="14" |
+|-
+| [[İzzettin Çalışlar]]
+|-
+| [[Hacim Çarıklı]]
+|-
+| [[İsmail Hakkı Uzunçarşılı]]
+|-
+| [[Abdi Ağabeyoğlu]]
+|-
+| [[Muzaffer Akpınar]]
+|-
+| [[Esat Altan]]
+|-
+| [[Fuat Bilal]]
+|-
+| [[Osman Niyazi Burcu]]
+|-
+| [[Eminittin Çeliköz]]
+|-
+| [[Pertev Etçioğlu]]
+|-
+| [[Süreyya Örgeevren]]
+|-
+| [[Hilmi Şeremetli]]
+|-
+| [[Fahrettin Tiritoğlu]]
+|-
+! colspan="6" |
+|-
+| rowspan=3| '''[[Bilecik milletvekilleri listesi|Bilecik]]''' || [[Memduh Şevket Esendal]] || rowspan=3 style="background: #D70000"| || rowspan=3| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="3" |
+|-
+| [[Reşit Bozüyük]]
+|-
+| [[Muhlis Suner]]
+|-
+! colspan="6" |
+|-
+| rowspan=2| '''[[Bingöl milletvekilleri listesi|Bingöl]]''' || [[Tahsin Banguoğlu]] || rowspan=2 style="background: #D70000"| || rowspan=2| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="2" |
+|-
+| [[Feridun Fikri Düşünsel]]
+|-
+! colspan="6" |
+|-
+| rowspan=3| '''[[Bitlis milletvekilleri listesi|Bitlis]]''' || [[Muhtar Ertan]] || rowspan=3 style="background: #D70000"| || rowspan=3| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="3" |
+|-
+| [[Ziya Geboloğlu]]
+|-
+| [[Arif Özdemir]]
+|-
+! colspan="6" |
+|-
+| rowspan=8| '''[[Bolu milletvekilleri listesi|Bolu]]''' || [[Hasan Şükrü Adal]] || rowspan=8 style="background: #D70000"| || rowspan=8| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="8" |
+|-
+| [[Hasan Cemil Çambel]]
+|-
+| [[Lütfi Gören]]
+|-
+| [[Hıfzırrahman Raşit Öymen]]
+|-
+| [[Cemil Özçağlar]]
+|-
+| [[Celâl Sait Siren]]
+|-
+| [[Zihni Ülgen]]
+|-
+| [[İhsan Yalçın]]
+|-
+! colspan="6" |
+|-
+| rowspan=3| '''[[Burdur milletvekilleri listesi|Burdur]]''' || [[Fahrettin Altay]] || rowspan=2 style="background: #D70000"| || rowspan=2| [[Cumhuriyet Halk Partisi]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Şerif Korkut]]
+| colspan="2" rowspan="2" |
+|-
+| [[Ahmet Ali Çınar]] || style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+! colspan="6" |
+|-
+| rowspan=13| '''[[Bursa milletvekilleri listesi|Bursa]]''' || [[Atıf Akgüç]] || rowspan="13" style="background: #D70000" | || rowspan="13" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="13" |
+|-
+| [[Zehra Budunç]]
+|-
+| [[Fahri Bük]]
+|-
+| [[Aziz Duru]]
+|-
+| [[Ahmet Münir Erhan]]
+|-
+| [[Muhlis Erkmen]]
+|-
+| [[Mustafa Fehmi Gerçeker]]
+|-
+| [[Abdurrahman Konuk]]
+|-
+| [[Cemil Öz]]
+|-
+| [[Muhittin Baha Pars]]
+|-
+| [[Talat Simer]]
+|-
+| [[Faik Yılmazipek]]
+|-
+| [[Sadık Tahsin Arsal]] 
+|-
+! colspan="6" |
+|-
+| rowspan=6| '''[[Çanakkale milletvekilleri listesi|Çanakkale]]''' || [[Hüseyin Bingül]] || rowspan=6 style="background: #348AC9"| || rowspan=6| [[Demokrat Parti (1946)|Demokrat Parti]]
+| colspan="2" |
+|-
+| [[Niyazi Çıtakoğlu]] || style="background: #D70000"| ||[[Cumhuriyet Halk Partisi]]
+|-
+| [[Behçet Gökçen]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[İhsan Karasioğlu]]
+| colspan="2" |
+|-
+| [[Ali Rıza Kırsever]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Nurettin Ünen]]|| style="background: #D70000"| ||[[Cumhuriyet Halk Partisi]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Çankırı milletvekilleri listesi|Çankırı]]''' || [[Abdülhalik Renda]] || rowspan=5 style="background: #D70000"| || rowspan=5| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[Ahmet Zeki Soydemir]]
+|-
+| [[Mehmet Rifat Dolunay]]
+|-
+| [[Akif Arkan]]
+|-
+| [[Ahmet İhsan Zeyneloğlu]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Artvin milletvekilleri listesi|Çoruh (Artvin)]]''' || [[Ali Çoruh]] || rowspan=5 style="background: #D70000"| || rowspan=5| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[Ali Rıza Erem]]
+|-
+| [[Cemal Kazancıoğlu]]
+|-
+| [[Atıf Tüzün]]
+|-
+| [[Asım Us]]
+|-
+! colspan="6" |
+|-
+| rowspan=8| '''[[Çorum milletvekilleri listesi|Çorum]]''' || [[Edip Alpsar]] || rowspan=8 style="background: #D70000"| || rowspan=8| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="8" |
+|-
+| [[Naim Atalay]]
+|-
+| [[Mustafa Cantekin]]
+|-
+| [[Münir Çağıl]]
+|-
+| [[İsmet Eker]]
+|-
+| [[Hasene Ilgaz]]
+|-
+| [[Suheyp Karafakıoğlu]]
+|-
+| [[Nejdet Yücer]]
+|-
+! colspan="6" |
+|-
+| rowspan=8| '''[[Denizli milletvekilleri listesi|Denizli]]''' || [[Reşat Aydınlı]] || style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+| colspan="2" rowspan="8" |
+|-
+| [[Hamdi Berkman]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+|-
+| [[Cemil Çalgüner]]
+|-
+| [[Abidin Ege]]
+|-
+| [[Naili Küçüka]]
+|-
+| [[Hulusi Oral]]
+|-
+| [[Kemal Cemal Öncel]]
+|-
+| [[Behçet Uz]]
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Diyarbakır milletvekilleri listesi|Diyarbakır]]''' || [[Fazıl Ahmet Aykaç]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="7" |
+|-
+| [[Vedat Dicleli]]
+|-
+| [[Cavit Ekin]]
+|-
+| [[Feyzi Kalfagil]]
+|-
+| [[Osman Ocak]]
+|-
+| [[İhsan Hamit Tiğrel]]
+|-
+| [[Şeref Uluğ]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Edirne milletvekilleri listesi|Edirne]]''' || [[Mehmet Edip Ağaoğulları]] || style="background: #D70000"| || [[Cumhuriyet Halk Partisi]]
+| colspan="2" |
+|-
+| [[Fethi Erimçağ]] || rowspan=4 style="background: #348AC9"| || rowspan=4| [[Demokrat Parti (1946)|Demokrat Parti]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Mahmut Nedim Gündüzalp]]
+| colspan="2" |
+|-
+| [[Bahattin Öğütmen]]
+| rowspan=''2'' style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Mehmet Şevket Öktem]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Elazığ milletvekilleri listesi|Elazığ]]''' || [[Fuat Ağralı]] || rowspan=5 style="background: #D70000"| || rowspan=5| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[İbrahim Talî Öngören]]
+|-
+| [[Mustafa Arpacı]]
+|-
+| [[Fahri Karakaya]]
+|-
+| [[Hasan Kişioğlu]]
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Erzincan milletvekilleri listesi|Erzincan]]''' || [[Saffet Arıkan]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="7" |
+|-
+| [[Mehmet Sabit Sağıroğlu]]
+|-
+| [[Behçet Kemal Çağlar]]
+|-
+| [[Ziya Ağca]]
+|-
+| [[Rauf Bayındır]]
+|-
+| [[Abdülhak Fırat]]
+|-
+| [[Nahit Pekcan]]
+|-
+! colspan="6" |
+|-
+| rowspan=11| '''[[Erzurum milletvekilleri listesi|Erzurum]]''' || [[Eyüp Sabri Akgöl]] || rowspan=11 style="background: #D70000"| || rowspan=11| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="11" |
+|-
+| [[Münir Hüsrev Göle]]
+|-
+| [[Kemalettin Kamu]]
+|-
+| [[Salim Altuğ]]
+|-
+| [[Mehmet Mesut Çankaya]]
+|-
+| [[Raif Dinç]]
+|-
+| [[Mehmet Nafiz Dumlu]]
+|-
+| [[Cevat Dursunoğlu]]
+|-
+| [[Şakir İbrahimhakkıoğlu]]
+|-
+| [[Vehbi Kocagüney]]
+|-
+| [[Şükrü Koçak]]
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Eskişehir milletvekilleri listesi|Eskişehir]]''' ||  [[Yavuz Abadan]] || style="background: #D70000"| || [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="2" |
+|-
+| [[İsmail Hakkı Çevik]] || rowspan=6 style="background: #348AC9"| || rowspan=6| [[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Ahmet Oğuz (siyasetçi)|Ahmet Oğuz]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Hasan Polatkan]]
+| colspan="2" rowspan="2" |
+|-
+| [[Abidin Potuoğlu]]
+|-
+| [[Emin Sazak]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Kemal Zeytinoğlu]]
+| colspan="2" |
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Gaziantep milletvekilleri listesi|Gaziantep]]''' || [[Abdurrahman Melek]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="7" |
+|-
+| [[Cemil Sait Barlas]]
+|-
+| [[Aşir Atlı]]
+|-
+| [[Cemil Alevli]]
+|-
+| [[Ömer Asım Aksoy]]
+|-
+| [[Muzaffer Canbolat]]
+|-
+| [[Bekir Kaleli]]
+|-
+! colspan="6" |
+|-
+| rowspan=9| '''[[Giresun milletvekilleri listesi|Giresun]]''' || [[Ahmet Münir Akkaya]] || rowspan=9 style="background: #D70000"| || rowspan=9| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="9" |
+|-
+| [[Celâl Esat Arseven]]
+|-
+| [[Eşref Dizdar]]
+|-
+| [[Tevfik Ekmen]]
+|-
+| [[Musa Kazım Okay]]
+|-
+| [[İsmail Sabuncu]]
+|-
+| [[Ahmet Ulus]]
+|-
+| [[Fikret Yüzatlı]]
+|-
+| [[Galip Kenan Zaimoğlu]]
+|-
+! colspan="6" |
+|-
+| rowspan=6| '''[[Gümüşhane milletvekilleri listesi|Gümüşhane]]''' || [[Hasan Fehmi Ataç]] || rowspan=6 style="background: #D70000"| || rowspan=6| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="6" |
+|-
+| [[Şükrü Sökmensüer]]
+|-
+| [[Edip Servet Tör]]
+|-
+| [[Mehmet Şevket Erdoğan]]
+|-
+| [[Tahsin Tüzün]]
+|-
+| [[Ahmet Kemal Varınca]]
+|-
+! colspan="6" |
+|-
+| '''[[Hakkâri milletvekilleri listesi|Hakkâri]]''' || [[Selim Seven]] || style="background: #D70000"| || [[Cumhuriyet Halk Partisi]]
+| colspan="2" |
+|-
+! colspan="6" |
+|-
+| rowspan=6| '''[[Hatay milletvekilleri listesi|Hatay]]''' ||  [[Abdülgani Türkmen]] || rowspan=6 style="background: #D70000"| || rowspan=6| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="6" |
+|-
+| [[Eyüp Durukan]]
+|-
+| [[Hasan Mursaloğlu]]
+|-
+| [[Abdullah Cilli]]
+|-
+| [[Suphi Bedir Uluç]]
+|-
+| [[Rasim Yurdman]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Isparta milletvekilleri listesi|Isparta]]''' || [[Kazım Aydar]] || rowspan=5 style="background: #D70000"| || rowspan=5| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[Rifat Güllü]]
+|-
+| [[Sait Köksal]]
+|-
+| [[Kemal Turan]]
+|-
+| [[Şevki Yalvaç]]
+|-
+! colspan="6" |
+|-
+| rowspan=8| '''[[Mersin milletvekilleri listesi|İçel (Mersin)]]''' || [[Haydar Arslan]] || rowspan=7 style="background: #348AC9"| || rowspan=7| [[Demokrat Parti (1946)|Demokrat Parti]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Halil Atalay]]
+| colspan="2" rowspan="7" |
+|-
+| [[Saim Ergenekon]]
+|-
+| [[Salih İnankur]]
+|-
+| [[Refik Koraltan]]
+|-
+| [[Aziz Köksal]]
+|-
+| [[Celal Ramazanoğlu]]
+|-
+| [[Ali Menteşoğlu]] || style="background: #D70000"| || [[Cumhuriyet Halk Partisi]]
+|-
+! colspan="6" |
+|-
+| rowspan=30| '''[[İstanbul milletvekilleri listesi|İstanbul]]''' || [[Kâzım Karabekir]] || rowspan=14 style="background: #D70000"| || rowspan=14| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="3" |
+|-
+| [[Refet Bele]]
+|-
+| [[Recep Peker]]
+|-
+| [[Hamdullah Suphi Tanrıöver]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Cemil Cahit Toydemir]]
+| colspan="2" rowspan="12" |
+|-
+| [[Hüseyin Cahit Yalçın]]
+|-
+| [[Mehmet Sadi Bekter]]
+|-
+| [[Mim Kemal Öke]]
+|-
+| [[Akil Muhtar Özden]]
+|-
+| [[Ekrem Amaç]]
+|-
+| [[Ali Rıza Arı]]
+|-
+| [[Mekki Hikmet Gelenbeğ]]
+|-
+| [[Atıf Ödül]]
+|-
+| [[Nikola Fakaçelli]]
+|-
+| [[Celâl Bayar]] || rowspan=13 style="background: #348AC9"| || rowspan=13| [[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Fuat Köprülü|Mehmet Fuad Köprülü]]
+|-
+| [[Enis Akaygen]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Münip Berkan]]
+| colspan="2" rowspan="3" |
+|-
+| [[Faruk Nafiz Çamlıbel]]
+|-
+| [[Fuat Hulusi Demirelli]]
+|-
+| [[Osman Nuri Köni]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Burhan Cahit Morkaya]]
+| colspan="2" |
+|-
+| [[Ahmet Kemal Silivrili]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Zeki Rıza Sporel]]
+| colspan="2" rowspan="4" |
+|-
+| [[Senihi Yürüten]]
+|-
+| [[Salamon Adato]]
+|-
+| [[Vasil Konos]]
+|-
+| [[Fevzi Çakmak]] || rowspan=3 style="background: #C1C1C1"| || rowspan=3| [[Bağımsız siyasetçi|Bağımsız]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Abdülhak Adnan Adıvar]]
+| colspan="2" rowspan="2" |
+|-
+| [[Cihat Baban]]
+|-
+! colspan="6" |
+|-
+| rowspan=16| '''[[İzmir milletvekilleri listesi|İzmir]]''' || [[Şükrü Saracoğlu]] || rowspan=16 style="background: #D70000"| || rowspan=16| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="16" |
+|-
+| [[Hasan Âli Yücel]]
+|-
+| [[Şevket Adalan]]
+|-
+| [[Atıf İnan]]
+|-
+| [[Rahmi Köken]]
+|-
+| [[Benal Nevzat Arıman]]
+|-
+| [[Münir Birsel]]
+|-
+| [[Hüseyin Hulki Cura]]
+|-
+| [[Latife Bekir Çeyrekbaşı]]
+|-
+| [[Esat Çınar]]
+|-
+| [[Sedat Dikmen]]
+|-
+| [[Hüseyin Sami Gülcüoğlu]]
+|-
+| [[Sait Odyak]]
+|-
+| [[Ekrem Oran]]
+|-
+| [[Ali Haydar Öktem]]
+|-
+| [[Kamran Örs]]
+|-
+! colspan="6" |
+|-
+| rowspan=10| '''[[Kars milletvekilleri listesi|Kars]]''' || [[Fevzi Aktaş]] || rowspan=10 style="background: #D70000"| || rowspan=10| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="10" |
+|-
+| [[Mehmet Rüstem Bahadır]]
+|-
+| [[Ali Akif Eyidoğan]]
+|-
+| [[Aziz Samih İlter]]
+|-
+| [[Şerafettin Karacan]]
+|-
+| [[Esat Oktay]]
+|-
+| [[Zihni Orhon]]
+|-
+| [[Alay Abdurrahman Azizağaoğlu]]
+|-
+| [[Tezer Taşkıran]]
+|-
+| [[Hüsamettin Tugaç]]
+|-
+! colspan="6" |
+|-
+| rowspan=11| '''[[Kastamonu milletvekilleri listesi|Kastamonu]]''' ||  [[Muzaffer Akalın]] || rowspan=11 style="background: #D70000"| || rowspan=11| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="11" |
+|-
+| [[Abdullah Alpdoğan]]
+|-
+| [[Cemil Atay]]
+|-
+| [[Tahsin Coşkan]]
+|-
+| [[Hamdi Çelen]]
+|-
+| [[Hilmi Çoruk]]
+|-
+| [[Fahri Ecevit]]
+|-
+| [[Mehmet Fethi Mağara]]
+|-
+| [[Ziya Orbay]]
+|-
+| [[Mehmet Adil Toközlü]]
+|-
+| [[Ahmet Ziyaettin Tümtürk]]
+|-
+! colspan="6" |
+|-
+| rowspan="9" |'''[[Kayseri milletvekilleri listesi|Kayseri]]'''
+| [[Salih Avgın]] || rowspan="6" style="background: #D70000" | || rowspan="6" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="10" |
+|-
+| [[Sait Azmi Feyzioğlu]]
+|-
+| [[Reşit Özsoy]]
+|-
+| [[Faik Seler]]
+|-
+| [[Ömer Taşçıoğlu]]
+|-
+| [[Hayrullah Ürkün]]
+|-
+| [[Fikri Apaydın]] || rowspan="3" style="background: #348AC9" | || rowspan="3" | [[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Kamil Gündeş]]
+|-
+| [[Reşit Turgut]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Kırklareli milletvekilleri listesi|Kırklareli]]''' || [[Nafi Atuf Kansu]] || rowspan=5 style="background: #D70000"| || rowspan=5| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[Kemal Doğan]]
+|-
+| [[Fuat Umay]]
+|-
+| [[Şevket Ödül]]
+|-
+| [[Zühtü Akın]]
+|-
+! colspan="6" |
+|-
+| rowspan=4| '''[[Kırşehir milletvekilleri listesi|Kırşehir]]''' || [[İsmail Hakkı Baltacıoğlu]] || rowspan=4 style="background: #D70000"| || rowspan=4| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="4" |
+|-
+| [[Nihat Erdem]]
+|-
+| [[Sahir Kurutluoğlu]]
+|-
+| [[Şevket Turgut]]
+|-
+! colspan="6" |
+|-
+| rowspan=10| '''[[Kocaeli milletvekilleri listesi|Kocaeli]]''' || [[Ahmet Faik Abasıyanık]] || rowspan=10 style="background: #D70000"| || rowspan=10| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="10" |
+|-
+| [[İsmail Rüştü Aksal]]
+|-
+| [[Nihat Erim]]
+|-
+| [[Cenap Aksu]]
+|-
+| [[Fuat Balkan]]
+|-
+| [[Fazıl Şerafettin Bürge]]
+|-
+| [[Ali Dikmen (1875 doğumlu siyasetçi)|Ali Dikmen]]
+|-
+| [[Şükrü Okan|Şükür Okan]]
+|-
+| [[Sedad Pek]]
+|-
+| [[İbrahim Süreyya Yiğit]]
+|-
+! colspan="6" |
+|-
+| rowspan=16| '''[[Konya milletvekilleri listesi|Konya]]''' || [[Ali Fuat Cebesoy]] || rowspan=16 style="background: #D70000"| || rowspan=16| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="16" |
+|-
+| [[Hulûsi Alataş]]
+|-
+| [[Muhsin Adil Binal]]
+|-
+| [[Ahmet Mithat Altan]]
+|-
+| [[Ali Rıza Türel]]
+|-
+| [[Fatin Gökmen]]
+|-
+| [[Mehmet Sedat Çumralı]]
+|-
+| [[Ahmet Rasim Erel]]
+|-
+| [[Sadi Irmak]]
+|-
+| [[Tevfik Fikret Sılay]]
+|-
+| [[Muhsin Faik Dündar]]
+|-
+| [[Mustafa Şevki Ergun]]
+|-
+| [[Hulki Karagülle]]
+|-
+| [[Naim Hazim Onat|Mehmet Naim Onat]]
+|-
+| [[Aziz Perkün]]
+|-
+| [[Halis Ulusan]]
+|-
+! colspan="6" |
+|-
+| rowspan=10| '''[[Kütahya milletvekilleri listesi|Kütahya]]''' || [[Âsım Gündüz]] || rowspan="3" style="background: #D70000" | || rowspan="3" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="3" |
+|-
+| [[Halil Benli]]
+|-
+| [[Ahmet Hilmi Bozbay]]
+|-
+| [[Ahmet Tahtakılıç]] || rowspan=7 style="background: #348AC9"| || rowspan=7| [[Demokrat Parti (1946)|Demokrat Parti]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Adnan Menderes]] 
+| colspan="2" |
+|-
+| [[Memduh Ispartalıgil]] || style="background: #D70000"| ||[[Cumhuriyet Halk Partisi]]
+|-
+| [[Ahmet İhsan Gürsoy]]
+| colspan="2" rowspan="4" |
+|-
+| [[Ömer Özdek]]
+|-
+| [[İhsan Şerif Özgen]]
+|-
+| [[İsmail Hakkı Gedik]]
+|-
+! colspan="6" |
+|-
+| rowspan=12| '''[[Malatya milletvekilleri listesi|Malatya]]''' || [[Abdurrahim Ulvi Beydağı]] || rowspan=12 style="background: #D70000"| || rowspan=12| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="12" |
+|-
+| [[Esat Doğan]]
+|-
+| [[Mehmet Sadık Eti]]
+|-
+| [[Şefik Tugay]]
+|-
+| [[Tevfik Temelli]]
+|-
+| [[Cafer Özelçi]]
+|-
+| [[Hikmet Fırat]]
+|-
+| [[Atıf Esenbel]]
+|-
+| [[Mustafa Naim Karaköylü]]
+|-
+| [[Osman Hilmi Taner]]
+|-
+| [[Abdülkadir Taşangil]]
+|-
+| [[Mahmud Nedim Zabcı|Mahmut Nedim Zabcı]]
+|-
+! colspan="6" |
+|-
+| rowspan=12| '''[[Manisa milletvekilleri listesi|Manisa]]''' || [[Faik Kurdoğlu]] || rowspan="12" style="background: #D70000" | || rowspan="12" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="11" |
+|-
+| [[Ali Rıza Artunkal]]
+|-
+| [[Kamil Tuğrul Coşkunoğlu]]
+|-
+| [[Rıdvan Nafiz Edgüer]]
+|-
+| [[İsmail Ertem]]
+|-
+| [[Feyzullah Uslu]]
+|-
+| [[Lütfi Kırdar]]
+|-
+| [[Şevket Raşit Hatipoğlu]]
+|-
+| [[Necdet Otaman]]
+|-
+| [[Mehmet Yaşar Özey]]
+|-
+| [[Hilmi Öztarhan]]
+|-
+| [[Muammer Alakant]] 
+| style="background: #348AC9"|
+|[[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+! colspan="6" |
+|-
+| rowspan=6| '''[[Kahramanmaraş milletvekilleri listesi|Maraş]]''' || [[Kemali Bayazıt]] || rowspan="5" style="background: #D70000" | || rowspan="5" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[Rıza Çuhadar]]
+|-
+| [[Kamil İdil]]
+|-
+| [[Hasan Reşit Tankut]]
+|-
+| [[Abdullah Yaycıoğlu]]
+|-
+| [[Emin Soysal]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]] || style="background: #D70000"| ||[[Cumhuriyet Halk Partisi]]
+|-
+! colspan="6" |
+|-
+| rowspan="10" | '''[[Mardin milletvekilleri listesi|Mardin]]''' || [[İrfan Ferit Alpaya]] || rowspan="10" style="background: #D70000" | || rowspan="10" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="5" |
+|-
+| [[Mehmet Kamil Boran]]
+|-
+| [[Seyfi Düzgören]]
+|-
+| [[Şemsettin Ekmen]]
+|-
+| [[Ali Rıza Erten]]
+|-
+| [[Abdülkadir Kalav]]
+| style="background: #348AC9"|
+|[[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Yusuf Mardin]]
+| colspan="2" rowspan="4" |
+|-
+| [[Kâzım Sevüktekin]]
+|-
+| [[Abdürrezzak Şatana]]
+|-
+| [[Aziz Uras]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Muğla milletvekilleri listesi|Muğla]]''' || [[Abidin Çakır]] || style="background: #D70000"| || [[Cumhuriyet Halk Partisi]]
+| colspan="2" |
+|-
+| [[Necati Erdem]] || rowspan=4 style="background: #348AC9"| || rowspan=4| [[Demokrat Parti (1946)|Demokrat Parti]] || style="background: #D70000"| ||[[Cumhuriyet Halk Partisi]]
+|-
+| [[Asım Gürsu]]
+| style="background: #FFA500"|
+||[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Nuri Özsan]]
+| colspan="2" |
+|-
+| [[Mitat Sakaroğlu]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+! colspan="6" |
+|-
+| rowspan=3| '''[[Muş milletvekilleri listesi|Muş]]''' ||  [[Hamdi Dayı]] || rowspan=3 style="background: #D70000"| || rowspan=3| [[Cumhuriyet Halk Partisi]]
+| style="background: #348AC9"|
+|[[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Bari Dedeoğlu]]
+| colspan="2" rowspan="2" |
+|-
+| [[Halit Onaran]]
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Niğde milletvekilleri listesi|Niğde]]''' ||  [[Ferit Ecer]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+| style="background: #348AC9"|
+|[[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Mehmet Rifat Gürsoy]]
+| colspan="2" rowspan="6" |
+|-
+| [[İbrahim Refik Soyer]]
+|-
+| [[Halit Mengi]]
+|-
+| [[Vehbi Sarıdal]]
+|-
+| [[Ahmet Şükrü Süer]]
+|-
+| [[Hüseyin Ulusoy]]
+|-
+! colspan="6" |
+|-
+| rowspan=9| '''[[Ordu milletvekilleri listesi|Ordu]]''' || [[Ahmet Şevket Akyazı]] || rowspan=9 style="background: #D70000"| || rowspan=9| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="9" |
+|-
+| [[Vehbi Demir]]
+|-
+| [[Mehmet Furtun]]
+|-
+| [[Hulusi Gökdalay]]
+|-
+| [[Arif Hikmet Onat]]
+|-
+| [[Yusuf Ziya Ortaç]]
+|-
+| [[Zeki Mesut Sezer]]
+|-
+| [[Hamdi Şarlan]]
+|-
+| [[Ahmet Hamdi Yalman]]
+|-
+! colspan="6" |
+|-
+| rowspan=6| '''[[Rize milletvekilleri listesi|Rize]]''' || [[Fuat Sirmen]] || rowspan=6 style="background: #D70000"| || rowspan=6| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="6" |
+|-
+| [[Tahsin Bekir Balta]]
+|-
+| [[Hasan Cavit Belül]]
+|-
+| [[Saim Ali Dilemre]]
+|-
+| [[Fahri Kurtuluş]]
+|-
+| [[Ali Zırh]]
+|-
+! colspan="6" |
+|-
+| rowspan=10| '''[[Samsun milletvekilleri listesi|Samsun]]''' || [[Hüsnü Çakır]] || rowspan=10 style="background: #D70000"| || rowspan=10| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="10" |
+|-
+| [[Sadi Konuk]]
+|-
+| [[Hüseyin Berk]]
+|-
+| [[Cemil Bilsel]]
+|-
+| [[Naşit Fırat]]
+|-
+| [[Rıza Işıtan]]
+|-
+| [[Yakup Kalgay]]
+|-
+| [[Ömer Niyazi Karataş]]
+|-
+| [[Muin Köprülü]]
+|-
+| [[Mehmet Ali Yörüker]]
+|-
+! colspan="6" |
+|-
+| rowspan=10| '''[[Adana milletvekilleri listesi|Seyhan (Adana)]]''' || [[Kasım Gülek]] || rowspan=10 style="background: #D70000"| || rowspan=10| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="10" |
+|-
+| [[Hilmi Uran]]
+|-
+| [[Ali Münif Yeğenağa]]
+|-
+| [[Ahmet Remzi Yüreğir]]
+|-
+| [[Ali Cavit Oral]]
+|-
+| [[Kemal Satır]]
+|-
+| [[Sinan Tekelioğlu]]
+|-
+| [[Makbule Dıblan]]
+|-
+| [[Kasım Ener]]
+|-
+| [[Kemal Çelik (1905 doğumlu siyasetçi)|Kemal Çelik]]
+|-
+! colspan="6" |
+|-
+| rowspan=4| '''[[Siirt milletvekilleri listesi|Siirt]]''' || [[Etem İzzet Benice]] || rowspan=4 style="background: #D70000"| || rowspan=4| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="4" |
+|-
+| [[Mehmet Sabri Çeliktuğ]]
+|-
+| [[Ali Rıza Esen]]
+|-
+| [[Lütfi Yavuz]]
+|-
+! colspan="6" |
+|-
+| rowspan=5| '''[[Sinop milletvekilleri listesi|Sinop]]''' || [[Cevdet Kerim İncedayı]] || rowspan="2" style="background: #D70000" | || rowspan="2" | [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="2" |
+|-
+| [[Lütfi Aksoy]]
+|-
+| [[Suphi Batur]] 
+| rowspan=3 style="background: #348AC9"|
+| rowspan="3" Demokrat Parti |[[Demokrat Parti (1946)|Demokrat Parti]]
+| rowspan=3 style="background: #FFA500"|
+| rowspan="3" |[[Millet Partisi (1948)|Millet Partisi]]
+|-
+| [[Mustafa Enver Kök]] 
+|-
+| [[Yusuf Kemal Tengirşenk]]
+|-
+! colspan="6" |
+|-
+| rowspan=12| '''[[Sivas milletvekilleri listesi|Sivas]]''' || [[Şemsettin Günaltay]] || rowspan=12 style="background: #D70000"| || rowspan=12| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="12" |
+|-
+| [[Mithat Şükrü Bleda]]
+|-
+| [[Mehmet Nazif Ergin]]
+|-
+| [[Osman Hikmet Işık]]
+|-
+| [[Necmettin Sadak]]
+|-
+| [[Reşat Şemsettin Sirer]]
+|-
+| [[Kamil Kitapçı]]
+|-
+| [[Muttalip Öker]]
+|-
+| [[İsmail Memet Uğur]]
+|-
+| [[Fikri Tirkeş]]
+|-
+| [[Şakir Uma]]
+|-
+| [[Abidin Yurdakul]]
+|-
+! colspan="6" |
+|-
+| rowspan=6| '''[[Tekirdağ milletvekilleri listesi|Tekirdağ]]''' || [[Faik Öztrak (1882 doğumlu siyasetçi)|Faik Öztrak]] || rowspan=6 style="background: #D70000"| || rowspan=6| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="6" |
+|-
+| [[Cemil Uybadın]]
+|-
+| [[Rahmi Apak]]
+|-
+| [[Mehmet Emin Ataç]]
+|-
+| [[Ziya Ersin Cezaroğlu]]
+|-
+| [[Ekrem Pekel]]
+|-
+! colspan="6" |
+|-
+| rowspan=10| '''[[Tokat milletvekilleri listesi|Tokat]]''' || [[Feyzi Eken]] || rowspan=10 style="background: #D70000"| || rowspan=10| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="10" |
+|-
+| [[Recai Güreli]]
+|-
+| [[Halit Nazmi Keşmir]]
+|-
+| [[Cemal Kovalı]]
+|-
+| [[Mustafa Latifoğlu]]
+|-
+| [[Reşit Önder]]
+|-
+| [[Mustafa Özden]]
+|-
+| [[Ali Galip Pekel]]
+|-
+| [[Nazım Poroy]]
+|-
+| [[Refik Ahmet Sevengil]]
+|-
+! colspan="6" |
+|-
+| rowspan=12| '''[[Trabzon milletvekilleri listesi|Trabzon]]''' || [[Faik Ahmet Barutçu]] || rowspan=12 style="background: #D70000"| || rowspan=12| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="12" |
+|-
+| [[Hasan Saka]]
+|-
+| [[Raif Karadeniz]]
+|-
+| [[Süleyman Daniş Eyüboğlu]]
+|-
+| [[Sırrı Day]]
+|-
+| [[Ali Rıza Sarıalioğlu]]
+|-
+| [[Temel Nücûm'i Göksel]]
+|-
+| [[Ali Rıza Işıl]]
+|-
+| [[Zekiye Molaoğlu]]
+|-
+| [[İskender Hamdi Orhon]]
+|-
+| [[Mustafa Reşit Tarakçıoğlu]]
+|-
+| [[Muammer Yarımbıyık]]
+|-
+! colspan="6" |
+|-
+| rowspan=2| '''[[Tunceli milletvekilleri listesi|Tunceli]]''' || [[Necmettin Sahir Sılan]] || rowspan=2 style="background: #D70000"| || rowspan=2| [[Cumhuriyet Halk Partisi]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Mahmut Tan]]
+| colspan="2" |
+|-
+! colspan="6" |
+|-
+| rowspan=7| '''[[Şanlıurfa milletvekilleri listesi|Urfa]]''' || [[Osman Ağan]] || rowspan=7 style="background: #D70000"| || rowspan=7| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="7" |
+|-
+| [[Atalay Akan]]
+|-
+| [[Vasfi Gerger]]
+|-
+| [[Hasan Oral]]
+|-
+| [[Razi Soyer]]
+|-
+| [[Esat Tekeli]]
+|-
+| [[Suut Kemal Yetkin]]
+|-
+! colspan="6" |
+|-
+| rowspan=3| '''[[Van milletvekilleri listesi|Van]]''' || [[İbrahim Arvas]] || rowspan=3 style="background: #D70000"| || rowspan=3| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="3" |
+|-
+| [[Muzaffer Koçak]]
+|-
+| [[Rüştü Oktar]]
+|-
+! colspan="6" |
+|-
+| rowspan=8| '''[[Yozgat milletvekilleri listesi|Yozgat]]''' || [[Fahri Akgöl]] || rowspan=8 style="background: #D70000"| || rowspan=8| [[Cumhuriyet Halk Partisi]]
+| colspan="2" rowspan="8" |
+|-
+| [[Celal Arat]]
+|-
+| [[Ziya Arkant]]
+|-
+| [[Kemal Cenap Berksoy]]
+|-
+| [[Kamil Erbek]]
+|-
+| [[Mehmet İhsan Olgun]]
+|-
+| [[Ahmet Sungur (siyasetçi)|Ahmet Sungur]]
+|-
+| [[Sırrı İçöz]]
+|-
+! colspan="6" |
+|-
+| rowspan=9| '''[[Zonguldak milletvekilleri listesi|Zonguldak]]''' || [[Şinasi Devrin]] || rowspan=9 style="background: #D70000"| || rowspan=9| [[Cumhuriyet Halk Partisi]]|| style="background: #C1C1C1"| || [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Orhan Seyfi Orhon]]
+| colspan="2" rowspan="3" |
+|-
+| [[Mehmet Emin Erişirgil]]
+|-
+| [[Ahmet Nuri Gürel]]
+|-
+| [[Ali Rıza İncealemdaroğlu]]
+| style="background: #348AC9"|
+|[[Demokrat Parti (1946)|Demokrat Parti]]
+|-
+| [[Sabri Koçer]]
+| colspan="2" rowspan="4" |
+|-
+| [[İsmail Ergener]]
+|-
+| [[Naim Kromer]]
+|-
+| [[Nuri Tarhan]]
+|-
+|}
+
+== Dipnotlar ==
+{{kaynakça}}
+{{TBMM milletvekilleri}}
+
+[[Kategori:TBMM 8. dönem milletvekilleri]]
+[[Kategori:TBMM milletvekili listeleri|08]]
+[[Kategori:1946'da Türkiye'de kurulan oluşumlar]]

@@ -1,0 +1,729 @@
+[[Dosya:Composición_étnica_del_Parlamento_Otomano_de_1908.svg|küçükresim|1908 Meclis-i Mebûsanı etnik dağılımı
+{{lejant|#8F0000|Türkler: 147}}
+{{lejant|#009150|Araplar: 60}}
+{{lejant|#FF0A12|Arnavutlar: 27}}
+{{lejant|#26D4FF|Rumlar: 26}}
+{{lejant|#E0C516|Ermeniler: 14}}
+{{lejant|#C4A96A|Slavlar: 10}}
+{{lejant|#000000|Yahudiler: 4}}*Grafikte Gürcü vekiller Türk olarak gösterilmiştir.]]
+'''Meclis-i Mebûsan 3. dönem mebusları listesi''', [[1908 Osmanlı genel seçimleri]] ile [[Meclis-i Mebûsan]]'a seçilen mebusların tam listesidir. 17 Aralık 1908 - 18 Ocak 1912 tarihleri arasında görev yaptı.
+
+== Mebuslar ==
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! Vilayet !! Seçim Bölgesi !! Mebus !! Resim !! Etnik Mensubiyeti
+|-
+| rowspan=7| [[Adana Vilayeti|Adana]] || rowspan=2| [[Adana]] || [[Abdullah Faik Çopuroğlu|Abdullah Faik Efendi]]{{efn|name=not0|İstifa eden Ali Münif Bey'in yerine mebus oldu.}} || [[Dosya:Abdullah Faik Çopuroğlu.png|110px]] || rowspan=4| Türk
+|-
+| [[Ali Münif Yeğenağa|Ali Münif Bey]]{{efn|name=not1|Ankara Valiliğine atanarak milletvekilliğinden ayrıldı.}} || [[Dosya:`Alī Münif Yeğenağa.png|110px]]
+|-
+| Cebelibereket || Mehmed Reşid Efendi ||
+|-
+| İçel || Hacı Mahmud Bayram Efendi ||
+|-
+| Kozan || [[Hamparsum Boyacıyan|Boyacıyan Hamparsum Murat Efendi]] || [[Dosya:Hampartsoum Boyadjian-2.jpg|110px]] || Ermeni
+|-
+| rowspan=2 | Mersin || Abdülhalim Bey{{efn|name=not2|Ölen Arif Hikmet Bey'in yerine mebus oldu.}} || || rowspan=18| Türk
+|-
+| Arif Hikmet Bey{{efn|name=died|Dönem içinde öldü}} ||
+|-
+| rowspan=12| [[Ankara Vilayeti|Ankara]] || rowspan=4| Ankara || [[Hacı Mustafa Beynamlı|Hacı Mustafa Efendi]] || [[Dosya:Hacı Mustafa Beynamlı.gif|110px]]
+|-
+| [[Kasım Nuri Efendi]] ||
+|-
+| [[Mahir Said Pekmen|Mahir Said Bey]] || [[Dosya:Mahir Said Bey.jpg|110px]]
+|-
+| [[Talat Sönmez|Talat Bey]] || [[Dosya:Talât Bey.jpg|110px]]
+|-
+| rowspan=2| Çorum || [[Ali Osman Efendi (1877 doğumlu siyasetçi)|Ali Osman Efendi]] || [[Dosya:Ali Osman Efendi (1877 doğumlu siyasetçi) Crop.jpg|110px]]
+|-
+| [[Münir Çağıl|Mehmet Münir Bey]] || [[Dosya:Mehmet Münir Çağıl.jpg|110px]]
+|-
+| rowspan=2| Kayseri || [[Hacı Kasım Efendi]] ||
+|-
+| [[İmamzade Ömer Mümtaz Bey]] ||
+|-
+| rowspan=2| Kırşehir || [[Ali Rıza Benli (siyasetçi)|Ali Rıza Bey]] || [[Dosya:Ali Rıza Benli.jpg|110px]]
+|-
+| [[Mahmut Mahir Efendi]] ||
+|-
+| rowspan=2| Bozok || [[Edib Bey (1858 doğumlu siyasetçi)|Edip Bey]] || [[Dosya:Edib Bey (1858 doğumlu siyasetçi) CROP.jpg|110px]]
+|-
+| [[Hayrullah (1855 doğumlu)|Hayrullah Efendi]] || [[Dosya:Hayrullah Efendi (Yozgat Mebusu).jpg|110px]]
+|-
+| rowspan=18| [[Aydın Vilayeti|Aydın]] || rowspan=3| Aydın || [[İsmail Sıtkı Erboy|İsmail Sıtkı Bey]]{{efn|name=not3|İstifa eden Süleyman Efendi'nin yerine seçildi.}} ||
+|-
+| [[Süleyman Bilgen (Aydınlı)|Hacı Süleyman Efendi]]{{efn|name=resign|Dönem içinde istifa etti}} || [[Dosya:Süleyman Bilgen.gif|110px]]
+|-
+| [[Mehmet Ubeydullah Hatipoğlu|Ubeydullah Efendi]] || [[Dosya:Ubeydullah Bey.jpg|110px]]
+|-
+| rowspan=2| Denizli || Ahmed Muhip Efendi ||
+|-
+| [[Fraşirili Gani Bey]] |||| Arnavut
+|-
+| rowspan=7| İzmir || [[Aristidi Yorgancıoğlu|Aristidi Paşa]]{{efn|name=not5|31 Ocak 1911'de Ayan azalığına atandı.}} || [[Dosya:Aristidi Paşa.jpg|110px]] || rowspan=3| Rum
+|-
+| [[Emmanuil Emmanuilidis]] Efendi{{efn|name=not4|Aristidi Paşa'nın yerine mebus oldu.}} || 
+|-
+| [[Ispartalızâde İstepan|İstepan Ispartalıyan]] ||
+|-
+| [[Mehmed Said Efendi (İzmir müftüsü)|Mehmed Said Efendi]] || || Türk
+|-
+| [[Nesim Mazliyah]] Efendi || || Yahudi
+|-
+| [[Pavli Karolidi]] Efendi || [[Dosya:Pavlos Karolidis Greek Cappadocia.JPG|110px]] || Rum
+|-
+| [[Seyyid Bey]] || [[Dosya:Seyit Bey.jpg|110px]] || rowspan=9| Türk
+|-
+| rowspan=2| Menteşe || [[Halil Menteşe|Halil Bey]] || [[Dosya:Halil Bey Menteşe.jpg|110px]]
+|-
+| [[Hamza Hayati Öztürk|Hamza Hayati Bey]] || [[Dosya:Hamza Hayati Öztürk.jpg|110px]]
+|-
+| rowspan=4| Saruhan || [[Haydar Bey]] || [[Dosya:Haydar (Serez doğumlu).jpg|110px]]
+|-
+| [[İlhami Dinçer|İlhami Bey]] ||
+|-
+| [[Mansurîzade Said Bey]] ||
+|-
+| [[Tokadîzâde Şekib Bey]] || [[Dosya:Tokadizade Şekib Bey.png|110px]]
+|-
+| rowspan=6| [[Bağdat Vilayeti|Bağdat]] ||rowspan=3| Bağdat || [[Alusizade Hacı Ali Efendi]] ||
+|-
+| [[Babanzade İsmail Hakkı|Babanzade İsmail Hakkı Bey]] || [[Dosya:Babanzade İsmail Hakkı.jpg|110px]]
+|-
+| [[Ezekiyel Sason|Sason Efendi]] || [[Dosya:Sir Sassoon Eskell.jpg|110px]] || Yahudi
+|-
+| rowspan=2| Divaniye || [[Seyyid Mustafa Nuri Efendi]] || || rowspan=20| Arap
+|-
+| [[Rıfat Beyzade Şevket Paşa]] ||
+|-
+| Kerbela || [[Abdülmehdî Efendi]] ||
+|-
+| rowspan=10| [[Basra Vilayeti|Basra]] || rowspan=4| Ammare || [[Abdülmecid Bey]]{{efn|name=not6|Müstafi sayılan Hüseyin El Ulvan Efendi'nin yerine milletvekili oldu.}} ||
+|-
+| Hüseyin El Ulvan Efendi{{efn|name=not7|İki yıl Meclise devam etmediğinden müstafi sayıldı.}} ||
+|-
+| [[Mehmed Kureyş Efendi]]{{efn|name=not8|Müstafi sayılan Mehmet Selim Efendi'nin yerine milletvekili oldu.}} ||
+|-
+| Mehmed Selim Efendi{{efn|name=not7}} ||
+|-
+| rowspan=3| Basra || Abdülvahap Paşa{{efn|name=not9|Ölen Ahmed Paşa'nın yerine mebus oldu.}} ||
+|-
+| [[Zehirzade Ahmed Paşa]]{{efn|name=died}} ||
+|-
+| [[Seyyid Talib Bey|Seyyid Talip Bey]] || [[Dosya:Talib al-Naqib.jpg|110px]]
+|-
+| rowspan=3| Müntefik || Abdülmuhsin Bey{{efn|name=not10|Ölen Refet Efendi'nin yerine mebus oldu.}} ||
+|-
+| Hıdır Hayati Efendi ||
+|-
+| Refet Senevî Efendi{{efn|name=died}} ||
+|-
+| rowspan=8| [[Beyrut Vilayeti|Beyrut]] || [[Akka]] || Şakîrzade Esad Tevfik Efendi ||
+|-
+| rowspan=3| Beyrut || [[Kâmil Bey el-Esad|Kâmil El Esad Bey]]{{efn|name=not11|Sü&shy;leyman El Büstani Efendi'nin yerine mebus oldu.}} || [[Dosya:Kamel khalil alasaad.jpg|110px]]
+|-
+| [[Rıza es-Sulh|Rıza El Sulh Bey]] || [[Dosya:Reda assoleh.JPG|110px]]
+|-
+| [[Süleyman el-Büstani|Süleyman El Büstanî Efendi]]{{efn|name=not5}} || [[Dosya:Bustani Efendi.png|110px]]
+|-
+| rowspan=2| Lazkiye || [[Emir Arslan Bey]]{{efn|name=not12|[[31 Mart Vakası|31 Mart İsyanı]]'nda öldürüldü.}} || [[Dosya:Emir Arslan Bey (Crop).jpg|110px]]
+|-
+| Mehmed Arslan Bey{{efn|name=not13|Ölen Emir Arslan Bey'in yerine mebus oldu.}} ||
+|-
+| Nablus || Şeyh Ahmed Hammaş Efendi ||
+|-
+| Trablusşam || [[Fuat Hulusi Demirelli|Fuat Hulusi Bey]] || || rowspan=4| Türk
+|-
+| rowspan=5| [[Bitlis Vilayeti|Bitlis]] || Bitlis || Mehmed Arif Efendi ||
+|-
+| Genç || [[Mehmed Emin Bey]] ||
+|-
+| rowspan=2| Muş || [[İlyas Sami Muş|Hacı İlyas Sami Efendi]] || [[Dosya:Ilyas Sami Efendi.jpg|110px]]
+|-
+| [[Kegam Dergarabedyan]] || [[Dosya:Kegam Dergarabedyan.png|110px]] || Ermeni
+|-
+| Siirt || [[Abdürrezak Efendi (1864 doğumlu siyasetçi)|Abdürrezak Efendi]] || [[Dosya:Abdürrezak Efendi (1864 doğumlu siyasetçi) CROP.jpg|110px]] || Türk
+|-
+| rowspan=5| [[Cezayir-i Bahr-i Sefid Vilayeti|Cezayir-i Bahr-i Sefid]] || Limni || [[Mihail Stellios|Mihalaki Efendi]] || || rowspan=5| Rum
+|-
+| rowspan=2| Midilli || Panayot Bostani Efendi || 
+|-
+| [[Mihalaki Salta Efendi|Mihalaki Salta]] Efendi ||
+|-
+| Rodos || [[Theodor Konstantinidis Efendi]] || [[Dosya:Theodor Konstantinidis Efendi (Crop).jpg|110px]]
+|-
+| Sakız || Mihalaki Çelebidi Efendi ||
+|-
+| rowspan=5| [[Diyarbekir Vilayeti|Diyarbekir]] || rowspan=2 | Diyarbekir || [[Pirinççizade Arif Bey]]{{efn|name=died}} || [[Dosya:Diyarbakır Mebusu Pirinçcizade Arif Bey.jpg|110px]] || rowspan=10| Türk
+|-
+| [[Pirinççizade Feyzi Bey]]{{efn|name=not14|Ölen Arif Bey'in yerine mebus oldu.}} || [[Dosya:Feyzi Bey Pirinççioğlu.jpg|110px]]
+|-
+| Ergani || İbrahim Efendi ||
+|-
+| Mardin || Sait Bey ||
+|-
+| Siverek || Nureddin Bey ||
+|-
+| rowspan=14| [[Edirne Vilayeti|Edirne]] || Dedeağaç || Süleyman Bey ||
+|-
+| rowspan=4| Edirne || [[Asım Bey (1877 doğumlu siyasetçi)|Asım Bey]]{{efn|name=died}} ||[[Dosya:Asım Bey (1877 doğumlu siyasetçi) Crop.jpg|110px]]
+|-
+| [[Faik Kaltakkıran|Faik Bey]]{{efn|name=not15|Ölen Asım Bey'in yerine mebus oldu.}} || [[Dosya:Edirne Mebusu Faik Bey.jpg|110px]]
+|-
+| [[Rıza Tevfik Bölükbaşı|Rıza Tevfik Bey]] || [[Dosya:Filozof Rıza Tevfik .jpg|110px]]
+|-
+| [[Talat Paşa|Mehmed Talat Paşa]] || [[Dosya:Mehmed Talat Pasha.jpg|110px]]
+|-
+| Gelibolu || [[İstefani Narlı Efendi]] || [[Dosya:İstefani Narlı Efendi Crop.jpg|110px]] || Rum 
+|-
+| rowspan=3 | Gümülcine || [[Gümülcineli İsmail Bey|İsmail Bey]] || [[Dosya:Ismailhakki.jpg|110px]] || rowspan=6| Türk
+|-
+| [[Mehmed Fehmi Efendi]] ||
+|-
+| [[Mehmed Arif Bey (Uzunköprü doğumlu siyasetçi)|Mehmed Arif Bey]] || [[Dosya:Mehmed Arif Bey (Uzunköprü doğumlu siyasetçi) Crop.jpg|110px]] ||
+|-
+| rowspan=2 | Kırkkilise || [[Emrullah Efendi]] ||
+|-
+| [[Mustafa Arif Deymer|Mustafa Arif Bey]] || [[Dosya:Mustafa Arif Bey.jpg|110px]]
+|-
+| rowspan=3 | Tekirdağ || [[Hacı Adil Arda|Mehmed Adil Bey]] || [[Dosya:Hacı Adil Arda (Crop).jpg|110px]]
+|-
+| [[Agop Babikyan|Agop Babikyan Efendi]]{{efn|name=died}} || [[Dosya:Agop Babikyan Efendi.png|110px]] || rowspan=2| Ermeni
+|-
+| [[Agop Boyacıyan|Agop Boyacıyan Efendi]]{{efn|name=not16|Ölen Agop Babikyan Efendi'nin yerine mebus oldu.}} ||
+|-
+| rowspan=7| [[Erzurum Vilayeti|Erzurum]] || Bayazıt || [[Süleyman Sudi Acarbay|Süleyman Sudi Efendi]] || [[Dosya:Süleyman Sudi Bey.jpg|110px]] || rowspan=4| Türk
+|-
+| Erzincan || [[Osman Fevzi Topçu|Osman Fevzi Efendi]] || [[Dosya:Osman Fevzi Efendi (TOPÇU).png|110px]]
+|-
+| rowspan=5 | Erzurum || [[Hafız Ziya Efendi|Hafız Ahmet Ziya Bey]] ||
+|-
+| Hacı Şevket Efendi ||
+|-
+| [[Karekin Pastırmacıyan|Pastırmacıyan Karekin Efendi]] || [[Dosya:Pastermajian-Karekin.JPG|110px]] || Ermeni
+|-
+| [[Seyfullah Topdağı|Seyfullah Efendi]] || [[Dosya:Seyfullah Topdağı.jpg|110px]] || Türk
+|-
+| [[Ohannes Vartkes Efendi]] || [[Dosya:Vartkes Serenkulian.jpg|110px]] || Ermeni
+|-
+| rowspan=3| [[Hicaz Vilayeti|Hicaz]] || Cidde || Kasım Zeynel Efendi || || rowspan=3| Arap
+|-
+| rowspan=2| Hicaz || [[Hasan Şeybi Efendi]] || [[Dosya:Hasan Şeybi Efendi CROP.jpg|110px]]
+|-
+| [[I. Abdullah|Şerif Abdullah Bey]] || [[Dosya:Cecil Beaton Photographs- Political and Military Personalities; Abdullah, King of Jordan; Abdullah, King of Jordan CBM1666.jpg|110px]]
+|-
+| rowspan=11| [[Halep Vilayeti|Halep]] || rowspan=9| Halep || [[Ali Cenani|Ali Cenani Bey]] || [[Dosya:Ali Cenani Bey.jpg|110px]] || Türk
+|-
+| [[Artin Boşgezenyan|Artin Boşgezenyan Efendi]]{{efn|name=not17|Mustafa Bey'in yerine mebus oldu.}} || [[Dosya:Artin Boşgezenyan (Crop).jpg|110px]] || Ermeni
+|-
+| [[Şeyh Beşir Efendi]]{{efn|name=not18|Ölen Rıfat Bey'in yerine mebus oldu.}} || [[Dosya:Bashir Gazzi portrait (cropped-01).jpg|110px]] || rowspan=7| Arap
+|-
+| Emirîzade Mehmed Bahaeddin Bey{{efn|name=not19|İstifa eden [[Meri Paşa]]'nın yerine mebus oldu.}} ||
+|-
+| [[Meri Paşa]]{{efn|name=not20|Dönem içinde Halep Evkaf Muhasebeciliğine atandığı için istifa etti.}} ||
+|-
+| Kevakibîzade Mesud Efendi ||
+|-
+| [[Şeyh Mustafa Efendi]]{{efn|name=not21|Dönem içinde Devlet Şûrası azalığına atandı.}} ||
+|-
+| [[Abdülnafi Paşa|Cabirîzade Abdülnafi Paşa]]{{efn|name=not52|ilk Osmanlı Meclis-i Mebûsân'ında da mebusluk yaptığı için Şeyh-ül Mebûsân olarak adlandırılmıştır.}} ||
+|-
+| Bereketzade Rıfat Bey{{efn|name=died}} ||
+|-
+| rowspan=2| Maraş || [[Hacı Hasan Fehmi Efendi]] || || rowspan=2| Türk
+|-
+| [[Bayezidzade Mehmet Şükrü Efendi]]
+|
+|-
+| rowspan=14| [[Hüdâvendigâr Vilayeti|Hüdavendigâr]] || rowspan=4| Bursa || [[Hafız Ahmet Hamdi Efendi]] ||
+|Gürcü<ref>Kasap, M. (2010). ''Osmanlı Gürcüleri''. Gürcistan Dostluk Derneği. s.272</ref>
+|-
+| [[Hacı Ömer Feyzi Efendi]] ||
+|
+|-
+| Sabri Bey ||
+|
+|-
+| [[Bursalı Mehmed Tahir Bey|Mehmed Tahir Bey]] || [[Dosya:Bursali-mehmed-tahir-1.jpg|110px]]
+|
+|-
+| rowspan=2| Ertuğrul (Bilecik) || [[Mehmet Sadık Bey]] ||
+|
+|-
+| Mehmed Sıtkı Efendi ||
+|
+|-
+| rowspan=3| [[Karahisar-i Sâhib]] ([[Afyonkarahisar|Afyon]]) || [[Kâmil Miras|Kâmil Efendi]] || [[Dosya:Kâmil Bey Miras.jpg|110px]]
+|
+|-
+| Rıza Paşa ||
+|
+|-
+| [[Kethüdazade Salim Efendi]] ||
+|
+|-
+| rowspan=5| Kütahya || [[Abdullah Azmi Torun|Abdullah Azmi Efendi]] || [[Dosya:Abdullah Azmi Efendi (Torun).jpg|110px]]
+|
+|-
+| [[Ahmet Ferit Tek|Ahmed Ferid Bey]] || [[Dosya:Ahmet Ferit Bey Tek.jpg|110px]]
+|
+|-
+| [[Ahmed Cemal Bey (1871 doğumlu siyasetçi)|Ahmed Cemal Bey]]{{efn|name=not22|İstifa eden Saffet Paşa'nın yerine mebus oldu.}} || [[Dosya:Ahmed Cemal Bey (1871 doğumlu siyasetçi) CROP.jpg|110px]]
+|
+|-
+| Hasan Tahsin Efendi ||
+|
+|-
+| [[Kitapsız Mustafa Saffet Paşa|Mustafa Saffet Paşa]]{{efn|name=resign}} ||
+|
+|-
+| rowspan=12| [[İstanbul Vilayeti|İstanbul]] || rowspan=12| İstanbul || [[Ahmet Nesimi Sayman|Ahmed Nesimi Bey]] ||
+|
+|-
+| [[Ahmed Rıza|Ahmed Rıza Bey]]{{efn|name=not23|23 Ocak 1912'de Ayan azalığına atandı.}} || [[Dosya:Ahmed Riza Bey.jpg|110px]]
+|
+|-
+| [[Vitali Hayim Faraci|Alber Feraci Efendi]] || || Yahudi
+|-
+| [[Bedros Hallaçyan|Bedros Hallaçyan Efendi]] || [[Dosya:Bedros Hallaçyan.png|110px]] || Ermeni
+|-
+| [[Hüseyin Cahit Yalçın|Hüseyin Cahit Bey]] || [[Dosya:Hüseyin Cahit Bey Yalçın.jpg|110px]] || Türk
+|-
+| [[Kostantinidi Efendi]] || || rowspan=2| Rum
+|-
+| [[Kozmidi Efendi|Pandelâki Kozmidi Efendi]] || [[Dosya:Kozmidi Pandelaki Efendi - Cosmidis Effendi.jpg|110px]]
+|-
+| [[Mustafa Asım Yörük|Nasûhîzâde Mustafa Âsım Efendi]] || || rowspan=4| Türk
+|-
+| [[Manyasizade Refik Bey]]{{efn|name=not24|4 Mart 1909'da öldü.}} ||
+|-
+| [[Mehmed Rifat Paşa]]{{efn|name=not25|Refik Bey'in ölümü üzerine mebus se&shy;çildiyse de istifa etti.}} ||
+|-
+| [[Tahir Hayreddin Bey]]<ref>{{tez kaynağı |tür=Doktora |soyadı=Saygı |ad=Serhan Kemal |yıl=2014 |yer=İzmir |url=https://www.apikam.org.tr/YuklenenDosyalar/Dokumanlar/5bc4f269-34d7-4c75-95a7-ea6839c1ce2e357336.pdf |başlık=Meclis-i Mebusan’da İzmir Mebusları 1908-1918 |yayıncı=T.C. Ege Üniversitesi Sosyal Bilimler Enstitüsü Yakınçağ Tarihi Ana Bilim Dalı |erişimtarihi=22 Şubat 2021 |sayfa=44 dip not 159 |alıntı=1911 yılının Aralık ayında yapılan ara seçim, İstanbul mebusu ve Hariciye Nazırı Rıfat Paşa'nın Paris Büyükelçiliği'ne atanması sonucu gündeme gelmiştir. İttihatçılar, Adliye Nazırı [[Mehmed Memduh Bey]]’i aday gösterirken; Hürriyet ve İtilaf Fırkası ise Şehraz gazetesi Yazı İşleri Müdürü Tunuslu Tahir Hayreddin Bey’i aday göstermiştir. 195 oy alan Memduh Bey'i 1 oy farkla geçerek 196 oy alan Tahir Hayreddin Bey, mebus seçilmiştir.. |arşiv-url=https://web.archive.org/web/20210604101042/https://www.apikam.org.tr/YuklenenDosyalar/Dokumanlar/5bc4f269-34d7-4c75-95a7-ea6839c1ce2e357336.pdf |arşiv-tarihi=4 Haziran 2021 |ölüurl=hayır }}</ref> ||
+|-
+| [[Kirkor Zohrab|Kirkor Zöhrap Efendi]] || [[Dosya:Krikor Zohrab.JPG|110px]] || Ermeni
+|-
+| rowspan=4| [[İşkodra Vilayeti|İşkodra]] || Draç || [[Esad Toptanî Paşa|Esad Paşa]] || [[Dosya:Essad Pasha Toptani.jpg|110px]] || rowspan=4| Arnavut
+|-
+| rowspan=3| İşkodra || [[Murtaza Galip Bey]] ||
+|-
+| [[Rıza Bey (1864 doğumlu siyasetçi)|Rıza Bey]]{{efn|name=not26|Ölen Şakir Bey'in yerine mebus oldu.}} || [[Dosya:Rıza Bey (1864 doğumlu siyasetçi) CROP.jpg|110px]] ||
+|-
+| [[Şakir Bey (İşkodra mebusu)|Şakir Bey]]{{efn|name=died}} ||
+|-
+| rowspan=9| [[Kastamonu Vilayeti|Kastamonu]] || rowspan=2| Kangırı (Çankırı) || [[Behçet Kutlu|Behçet Bey]] || [[Dosya:Behçet Kutlu.png|110px]] || Türk
+|-
+| [[Tevfik Durlanık|Hacı Tevfik Efendi]] || [[Dosya:Tevfik Durlanık.jpg|110px]]
+|
+|-
+| rowspan=5| Kastamonu || [[Ahmet Mahir Efendi]] || [[Dosya:Ahmet Mahir Efendi.jpg|110px]]
+|
+|-
+| [[Ahmet Şükrü Bayındır|Ahmed Şükrü Bey]] || [[Dosya:Ahmed Shukri Bey.jpg|110px]]
+|
+|-
+| [[İsmail Mahir Efendi]] || [[Dosya:İsmail Mahir Efendi.png|110px]]
+|
+|-
+| [[Necmettin Molla Kocataş|Necmeddin Molla Bey]]{{efn|name=not27|İstifa eden Yusuf Kemal Bey'in yerine mebus oldu.}} || [[Dosya:Necmeddin Molla Kocatas.jpg|110px]]
+|
+|-
+| [[Yusuf Kemal Tengirşenk|Yusuf Kemal Bey]]{{efn|name=resign}} || [[Dosya:Yusuf Kemal Tengirşenk.jpg|110px]]
+|
+|-
+| rowspan=2| Sinop || [[Hasan Fehmi Tümerkan|Hasan Fehmi Efendi]] (İremadze)<ref name=":0">Kasap, M. (2010). ''Osmanlı Gürcüleri''. Gürcistan Dostluk Derneği. s.182</ref>|| [[Dosya:Hasan Fehmi Tümerkan.png|110px]]
+|Gürcü<ref name=":0" />
+|-
+| [[Rıza Nur|Rıza Nur Bey]] || [[Dosya:Rıza Nur.jpg|110px]]
+|
+|-
+| rowspan=13| [[Konya Vilayeti|Konya]] || rowspan=2| Antalya || [[Ebüzziya Tevfik Bey]] || [[Dosya:Ebuziya tevfik.png|110px]]
+|
+|-
+| [[Muhammed Hamdi Yazır|Elmalılı Mehmed Hamdi Efendi]] || [[Dosya:Elmalılı Hamdi Bey (Yazır).jpg|110px]]
+|
+|-
+| Burdur || [[Ömer Lütfi Efendi|Muhaddeszade Ömer Lütfi Efendi]] ||
+|
+|-
+| rowspan=2| Isparta || Hacı Eşref Bey ||
+|
+|-
+| [[Böcüzâde Süleyman Sami|Süleyman Sami Bey]] || [[Dosya:BöcüzadeSüleymanSami.jpg|110px]]
+|
+|-
+| rowspan=5| Konya || [[Mehmed Emin Efendi (1864 doğumlu siyasetçi)|Mehmed Emin Efendi]] ||
+|
+|-
+| [[Mehmet Vehbi Çelik|Mehmed Vehbi Efendi]] || [[Dosya:Mehmed Vehbi Efendi Çelik.jpg|110px]]
+|
+|-
+| Hacı Mustafa Efendi ||
+|
+|-
+| Salim Efendi ||
+|
+|-
+| [[Muhammed Zeynelabidin Efendi|Zeynelabidin Efendi]] || [[Dosya:Muhammed Zeynelabidin Efendi.png|110px]]
+|
+|-
+| rowspan=3| Niğde || [[Ürgüplü Mustafa Hayri Efendi|Mustafa Hayri Efendi]] || [[Dosya:Hayri Bey.jpg|110px]]
+|
+|-
+| Muhiddin Bey ||
+|
+|-
+| [[Yorgaki Kurtoğlu Efendi|Yorgaki Efendi]] || [[Dosya:Yorgaki Kourtoglou Effendi.jpg|110px]] || Rum
+|-
+| rowspan=19| [[Kosova Vilayeti|Kosova]] || rowspan=4| İpek || Ahmed Hamdi Efendi || || rowspan=4| Arnavut
+|-
+| Ali Haydar Bey ||
+|-
+| [[İpekli Bedri Bey]] || [[Dosya:Bedri Pejani.jpg|110px]]
+|-
+| [[Hafız İbrahim Efendi]] || [[Dosya:Hafız İbrahim Efendi (cropped).png|110px]]
+|-
+| rowspan=5| Priştine || Hüseyin Fuat Paşa || || Türk
+|-
+| [[Priştineli Hasan Bey|Hasan Bey]] || [[Dosya:Hasan Prishtina (portret).jpg|110px]] || rowspan=2| Arnavut
+|-
+| Mustafa Hamdi Efendi{{efn|name=died}} ||
+|-
+| [[Sava Stojanović|Sava Stepanoviç Efendi]] || || Sırp
+|-
+| Şaban Paşa{{efn|name=not28|Ölen Hamdi Efendi'nin yerine mebus oldu.}} || || rowspan=4| Arnavut
+|-
+| rowspan=4| Prizren || Mehmet Emin Efendi{{efn|name=resign}} ||
+|-
+| Şerif Bey ||
+|-
+| Vehbi Efendi{{efn|name=not29|İstifa eden Mehmet Emin Efendi'nin yerine mebus oldu.}} ||
+|-
+| Yahya Bey || || rowspan=3| Türk
+|-
+| Seniçe || Hacı Hasan Muhittin Bey ||
+|-
+| Taşlıca || Ali Vasfi Bey ||
+|-
+| rowspan=4| Üsküp || Aleksandır Parliç Efendi || || Sırp
+|-
+| [[Necip Draga|Necip Draga Bey]] || [[Dosya:Necib Draga Bey.jpg|110px]] || Arnavut
+|-
+| [[Todor Pavlof|Pavlof Efendi]] || [[Dosya:Todor Pavlov Diplomat.jpg|110px]] || Bulgar
+|-
+| Sait Efendi || || Türk
+|-
+| rowspan=7| [[Ma'mûretü'l-Azîz Vilayeti|Mamuret-ül-Aziz]] || Dersim || [[Lütfi Fikri Bey]] || [[Dosya:Lutfi fikri bey.jpg|110px]] || rowspan=7| Türk
+|-
+| rowspan=3| Malatya || [[Ahmed Hamid Bey]]{{efn|name=died}} ||
+|-
+| Keşşaf Efendi{{efn|name=not30|Ölen Ahmed Hamid Bey'in yerine mebus oldu.}} ||
+|-
+| Mehmet Tevfik Efendi ||
+|-
+| rowspan=3| Mamuret-ül-Aziz || [[Çötelizade Asım Bey]] ||
+|-
+| [[Mehmed Nuri Efendi (1854 doğumlu)|Mehmed Nuri Efendi]] ||
+|-
+| [[Hacı Ziyaeddin Efendi]] ||
+|-
+| rowspan=14| [[Manastır Vilayeti|Manastır]] || rowspan=3| Debre || Basri Bey || || rowspan=3| Arnavut
+|-
+| [[İsmail Saraç|İsmail Bey]]{{efn|name=died}} ||
+|-
+| Şevket Bey{{efn|name=not31|Ölen İsmail Bey'in yerine mebus oldu.}} ||
+|-
+| rowspan=2| Elbasan || [[Abdullah Mahir Efendi]]{{efn|name=died}} || || rowspan=2| Türk
+|-
+| Hacı Ali Efendi{{efn|name=not32|Ölen Abdullah Mahir Efendi'nin yerine mebus oldu.}} ||
+|-
+| rowspan=2| Görice || [[Filip Mişa|Filip Mise Efendi]] || || Ulah
+|-
+| [[Şahin Kolonya|Şahin Naki Efendi]] || [[Dosya:Shahin_Kolonja (portrait).jpg|110px]] || Arnavut
+|-
+| rowspan=4| Manastır || [[Yanko Dimitroviç|Yanko Dimitroviç Efendi]] || || Sırp
+|-
+| [[Mehmet Vasıf Efendi]] || || Türk
+|-
+| [[Pançe Doref|Pançe Doref Efendi]] || [[Dosya:Pancho Dorev.jpg|110px]] || Bulgar
+|-
+| [[Trayan Nali Efendi]] || [[Dosya:Trayan Nali Efendi (Crop).jpg|110px]] || Ulah
+|-
+| rowspan=3| Serfiçe || [[Koço Drizi Efendi]]{{efn|name=resign}} || [[Dosya:Konstantinos Drizis.JPG|110px]] || rowspan=3| Rum
+|-
+| [[Haris Vamvaka Efendi|Harisiyos Vamvakas]] Efendi {{efn|name=not33|İstifa eden Koço Drizi Efendi'nin yerine mebus oldu.}} ||
+|-
+| [[Yorgo Boşo]] Efendi || [[Dosya:Georgios Bousios.jpg|110px]]
+|-
+| rowspan=5| [[Musul Vilayeti|Musul]] || rowspan=2| Kerkük || [[Mehmet Ali Bey (1872 doğumlu siyasetçi)|Mehmet Ali Bey]] || || rowspan=2| Türk
+|-
+| Salih Paşa ||
+|-
+| rowspan=2| Musul || [[Davud Yusufani Efendi]] || [[Dosya:Davud Yusufani Efendi.jpg|110px]] || Asuri
+|-
+| [[Mehmet Ali Fadıl Efendi]] || || rowspan=4| Türk
+|-
+| Süleymaniye || [[Hacı Sait Efendi]] ||
+|-
+| rowspan=13| [[Selanik Vilayeti|Selanik]] || rowspan=2| Drama || Agâh Bey ||
+|-
+| Rıza Bey ||
+|-
+| rowspan=6| Selanik || [[Yorgaki Artas Efendi]] || || Rum
+|-
+| [[Cavid Bey]] || [[Dosya:Mehmed Cavid Bey.JPG|110px]] || Türk
+|-
+| [[Emanuel Karasu|Emanuel Karasu Efendi]] || [[Dosya:Emmanuel Carasso-1.jpg|110px]] || Yahudi
+|-
+| [[Yorgi Honos|Yorgi Honos Efendi]] || [[Dosya:Georgios Honaios2.jpg|110px]] || Rum
+|-
+| [[Rahmi Arslan|Rahmi Bey]] || [[Dosya:Rahmi Arslan.jpg|110px]] || Türk
+|-
+| [[Dimitar Vlahof|Dimitri Vlahof Efendi]] || [[Dosya:Dimitar Vlahov-1.png|110px]] || rowspan=2| Bulgar
+|-
+| rowspan=5| Serez || [[Hristo Dalçef|Hristo Dalçef Efendi]] ||
+|-
+| [[Dimitri Dingas|Dimitrios Digkas]] Efendi || [[Dosya:Dimitrios Dinkas.png|110px]] || Rum
+|-
+| Derviş Ragıp Bey{{efn|name=not34|İstifa eden Naşit Bey'in yerine mebus oldu.}} || || rowspan=8| Türk
+|-
+| [[Mithat Şükrü Bleda|Mithat Şükrü Bey]] || [[Dosya:Midhat Shukri.jpg|110px]]
+|-
+| Yusuf Naşit Bey{{efn|name=resign}} ||
+|-
+| rowspan=13| [[Sivas Vilayeti|Sivas]] || rowspan=3| Amasya || [[Arif Fazıl Efendi]] || [[Dosya:Arif Fazıl Efendi.jpg dosyasından oluşturulmuştur.jpg|110px]]
+|-
+| [[Cudi Efendi]] || [[Dosya:Muallim Cudi Efendi.png|110px]]
+|-
+| [[İsmail Hakkı Paşa (1858-1925)|İsmail Hakkı Paşa]] || [[Dosya:İsmail Hakkı Paşa.jpg|110px]]
+|-
+| rowspan=2| Karahisar-ı Şarki || [[Ömer Feyzi Efendi|Ömer Fevzi Efendi]] ||
+|-
+| [[Mustafa Serdaroğlu|Serdarzade Mustafa Efendi]] || [[Dosya:Mustafa Serdaroğlu.png|110px]]
+|-
+| rowspan=5| Sivas || [[Dağavaryan Nazret Efendi]] || [[Dosya:Nazaret Dağavaryan-1.png|110px]] || Ermeni
+|-
+| [[Hüsnü Bey (1855 doğumlu siyasetçi)|Hüsnü Bey]]|| [[Dosya:Hüsnü Bey (1855 doğumlu siyasetçi) CROP.jpg|110px]] || rowspan=7| Türk
+|-
+| Mustafa Ziya Bey ||
+|-
+| [[Ömer Şevki Purut|Ömer Şevki Bey]] || [[Dosya:Ömer Şevki Purut.jpg|110px]]
+|-
+| Ahmet Şükrü Efendi ||
+|-
+| rowspan=3| Tokat || [[Hattatzade İsmail Paşa]] ||
+|-
+| [[Şeyh Hacı Mustafa Hakkı Efendi]] ||
+|-
+| [[Mustafa Sabri Efendi]] || [[Dosya:Mustafa Sabri Efendi.jpg|110px]]
+|-
+| rowspan=10| [[Suriye Vilayeti|Suriye]] || rowspan=2| Hama || [[Abdülhamid Zöhravî Efendi]] || [[Dosya:AbdalHamidZahrawo.jpeg|110px]] || rowspan=11| Arap
+|-
+| Halid El Berazi Efendi ||
+|-
+| Havran || [[Saadettin Efendi]] ||
+|-
+| Kerek || Tevfik El Mecali Bey ||
+|-
+| rowspan=6| Şam || [[Abdurrahman el-Yusuf Bey|Abdurrahman El Yusuf Bey]]{{efn|name=not35|İstifa eden Süleyman Efendi'nin yerine mebus oldu.}} ||
+|-
+| Mehmed Aclanî Efendi{{efn|name=died}} ||
+|-
+| [[Şem'azade Hasan Rüştü Bey]] ||
+|-
+| Süleyman Efendi{{efn|name=resign}} ||
+|-
+| [[Azmzade Şefikülmüeyyed Bey|Azmzade Şefikülmüeyyet Bey]] || [[Dosya:Shafiq al-Mua'ayyid - Al-Alam, V3, P 291.jpg|110px]]
+|-
+| [[Aselizade Şükrü Bey|Aslizade Şükrü Bey]]{{efn|name=not36|Ölen Mehmet Aclanî Efendi'nin yerine mebus oldu.}} || [[Dosya:Shukri al-Asali.jpg|110px]]
+|-
+| rowspan=6| [[Trablusgarp Vilayeti|Trablusgarp]] || [[Cebelü'l-Garbi (il)|Cebel'ül Garbi]] || [[Süleyman el-Baruni|Süleyman el-Biruni Efendi]] || [[Dosya:Süleyman İbn Abdallah El-Baruni .jpg|110px]]
+|-
+| Fizan || [[Cami Baykurt|Cami Bey]] || [[Dosya:Abdülkâdir Cami Bey Baykurt.jpg|110px]] || Türk
+|-
+| Humus || Mustafa Bin Kaddare Efendi || || Arap
+|-
+| rowspan=3| Trablusgarp || Ferhat Bey || || Türk
+|-
+| [[Mahmut Naci Balkış|Mahmud Naci Bey]] || [[Dosya:Mahmut Naci BALKIŞ.jpg|110px]]
+|
+|-
+| Sadık Bey ||
+|
+|-
+| rowspan=12| [[Trabzon Vilayeti|Trabzon]] || rowspan=2| Gümüşhane || Mısırlızade Hayri Bey ||
+|
+|-
+| İbrahim Lütfi Paşa ||
+|
+|-
+| rowspan=2| Lazistan || [[Çürüksulu Ahmet Paşa|Çürüksulu Ahmed Paşa (Tavdgiridze)]]<ref>{{Kitap kaynağı|url=https://cdn.tbmm.gov.tr/TbmmWeb/Yayinlar/Dosya/040cbeea-2ce4-4ea9-a251-fe594afbefff.pdf|başlık=1908 Meclis-i Mebusan Albümü|erişimtarihi=26 Temmuz 2024|tarih=2023|sayfa=52, 117|çalışma=TBMM|yayıncı=cdn.tbmm.gov.tr|arşivurl=https://web.archive.org/web/20240110162725/https://cdn.tbmm.gov.tr/TbmmWeb/Yayinlar/Dosya/040cbeea-2ce4-4ea9-a251-fe594afbefff.pdf|arşivtarihi=10 Ocak 2024|ölüurl=hayır}}</ref>||[[Dosya:Çürüksulu Ahmet Paşa (Tavdgiridze).JPG|159x159pik]]
+|Gürcü<ref>Özel, O. (2003). Çürüksulu Ali Paşa ve Ailesi Üzerine Biyografik Notlar. ''Kebikeç, S'', ''16'', 95-144.</ref>
+|-
+| [[İbrahim Ferid Efendi]]||[[Dosya:Lazistan Mebusu İbrahim Ferid Efendi.png|200px]]
+|
+|-
+| rowspan=8| Trabzon || [[Ali Naki Efendi (1836 doğumlu siyasetçi)|Ali Naki Efendi]]{{efn|name=not37|En yaşlı mebus olarak (Şeyhülmebusin), geçici Meclisi Mebûsân Başkanlığı görevini yerine getirmiştir.}} || [[Dosya:Ali Naki Efendi (1836 doğumlu siyasetçi) CROP.jpg|110px]]
+|
+|-
+| Hacı Osman Bey ||
+|
+|-
+| [[İzzet Eyyüboğlu|Eyüpzade İzzet Bey]] || [[Dosya:İzzet Eyyüboğlu.gif|110px]]
+|
+|-
+| [[Matyo Kofidi|Matheos Kofidis]] Efendi || [[Dosya:Matthaios Kofidis.JPG|110px]] || Rum
+|-
+| Mahmud Bey{{efn|name=not38|Ölen Mahmud İmadeddin Efendi'nin yerine mebus oldu.}} || || Türk
+|-
+| Mahmud Mazhar Bey ([[Hazinedârzâde Süleyman Paşa|Hazinedarzade]]<ref>Tunç, S. (2019). 1908 TRABZON SEÇİMLERİNDE ERMENİLER. ''Ermeni Araştırmaları'', (63), 59-82.</ref>) ||
+|Gürcü
+|-
+| Mahmud İmadeddin Efendi{{efn|name=died}} ||
+|
+|-
+| Mehmed Emin Efendi ||
+|
+|-
+| rowspan=3| [[Van Vilayeti|Van]] || Hakkâri || Seyyid Taha Efendi ||
+|
+|-
+| rowspan=2| Van || [[Vahan Papazyan|Vahan Papasyan Efendi]] || [[Dosya:Vahan Papazyan-1.jpg|110px]]|| Ermeni
+|-
+| [[Tevfik Demiroğlu|Hacı Tevfik Efendi]] || [[Dosya:Tevfik Demiroğlu.jpg|110px]] || Türk
+|-
+| rowspan=8| [[Yanya Vilayeti|Yanya]] || rowspan=2| Berat || [[Aziz Viryoni Paşa]] || [[Dosya:Aziz Vrioni (portret).jpg|110px]] || rowspan=2| Arnavut
+|-
+| [[Avlonyalı İsmail Kemal Bey|İsmail Kemal Bey]] || [[Dosya:Ismail Qemali (portrait).jpg|110px]]
+|-
+| rowspan=2| Preveze || [[Mustafa Ömer Azmi Akalın|Azmi Bey]]{{efn|name=not39|Dönem içinde Hüdavendigâr Valiliğine atandı.}} || || rowspan=2| Türk
+|-
+| Hamdi Bey{{efn|name=not40|Azmi Bey'in yerine mebus oldu.}} ||
+|-
+| rowspan=2| Ergiri || Mamopulo Efendi || || Rum
+|-
+| [[Libhovalı Müfid Bey|Müfid Bey]] || [[Dosya:Mufid Libohova (portret).jpg|110px]] || Arnavut
+|-
+| rowspan=2| Yanya || Dimitraki Kingos Efendi || || rowspan=2| Rum
+|-
+| Konstantin Surla Efendi ||
+|-
+| rowspan=17| [[Yemen Vilayeti|Yemen]] || rowspan=6| Hudeyde || Ali Süveyd Efendi || || rowspan=17| Arap
+|-
+| Hadi El Rızk Efendi ||
+|-
+| Mahmud Nedim Bey{{efn|name=not41|İstifa eden S.M. Abdurrahman Efendi'nin mebus oldu, sonra da Yemen Vali Vekâletine atandı.}} ||
+|-
+| Seyyid Muhammet Abdurrahman Efendi{{efn|name=resign}} ||
+|-
+| Tahir Recep Efendi{{efn|name=resign}} ||
+|-
+| [[Zühdü Efendi]]{{efn|name=not42|İstifa eden Tahir Recep Efendi'nin yerine mebus oldu.}} ||
+|-
+| rowspan=7| San'a || Hüseyin Abdülkadir Bin Ali{{efn|name=not43|Ölen Seyyid Ali Bin Hüseyin Efendi'nin yerine mebus oldu.}} ||
+|-
+| Hüseyin El Halâli Efendi{{efn|name=resign}} ||
+|-
+| Mehmet Abdullah Mukhafi Efendi ||
+|-
+| Seyyid Ahmed Habbânî Bey{{efn|name=not44|İstifa eden Hüseyin El Halâli Efendi'nin yerine mebus oldu.}} ||
+|-
+| Seyyid Ahmed Bin Yahya Elkisbî Efendi ||
+|-
+| Seyyid Ali Muta Efendi ||
+|-
+| Seyyid Ali Bin Hüseyin Efendi{{efn|name=died}} ||
+|-
+| Taaz || Esseyid Salih Sindar Efendi ||
+|-
+| rowspan=3| Asir || Ali Bin Hasan Efendi ||
+|-
+| Şeyh Said Feraci Efendi ||
+|-
+| Şeyh Ahmed Efendi{{efn|name=died}} ||
+|-
+| rowspan=33|Bağımsız Sancaklar || rowspan=4| [[Bolu]] || [[Abdulvahap Öner|Hacı Abdulvahap Efendi]] || [[Dosya:Abdulvahap Öner.jpg|110px]] || rowspan=4| Türk
+|-
+| [[Mehmet Habip Bey]] ||
+|-
+| Şerafettin Bey ||
+|-
+| Mustafa Zeki Bey ||
+|-
+| rowspan=2| [[Bingazi]] || [[Ömer Mansur Paşa]] || [[Dosya:Ömer Mansur Paşa CROP.jpg|110px]] || Türk
+|-
+| [[Yusuf Şetvan|Yusuf Şetvan Bey]] || [[Dosya:Yusuf Şetvan (Crop).jpg|110px]] || Arap
+|-
+| rowspan=6| [[Samsun|Canik (Samsun)]] || Abdullah Efendi{{efn|name=not45|Dönem içinde Temyiz Mahkemesi azalığına atandı.}} || || rowspan=6| Türk
+|-
+| Hacı Ahmed Hamdi Efendi ||
+|-
+| [[Mehmet Ali Bey (1876 doğumlu siyasetçi)|Mehmed Ali Bey]] ||
+|-
+| [[Mustafa Nail Bey|Nail Bey]]{{efn|name=not46|21 Ocak 1911'de Ayan azalığı&shy;na atandı.}} || [[Dosya:Maliye Nazırı Nail Bey.jpg|110px]]
+|-
+| Sait Efendi{{efn|name=not47|Abdullah Efendi'nin yerine mebus oldu.}} ||
+|-
+| [[Süleyman Necmi Selmen|Süleyman Necmi Bey]]{{efn|name=not48|Nail Bey'in yerine mebus oldu.}} || [[Dosya:Süleyman Necmi Bey Selmen.jpg|110px]]
+|-
+| [[Çatalca]] || [[Dimitri Zafiropulos]] Efendi || || Rum
+|-
+| rowspan=3| [[İzmit]] || [[Ahmet Müfit Saner|Ahmet Müfit Bey]] || || Türk
+|-
+| [[Anastas Mihailidis]] || || Rum
+|-
+| [[Hafız Rüşdü Bey (1847 doğumlu siyasetçi)|Hafız Rüşdü Bey]] || [[Dosya:Hafız Rüşdü Bey (1847 doğumlu siyasetçi) Crop.jpg|110px]] || Türk
+|-
+| rowspan=4| [[Kale-i Sultaniye]] || Seyyid Ali Rıza Efendi{{efn|name=died}} || || rowspan=8| Türk
+|-
+| Arif İsmet Bey{{efn|name=died}} ||
+|-
+| [[Atıf Kamçıl|Atıf Bey]]{{efn|name=not49|Ölen Arif İsmet Bey'in yerine mebus oldu.}} || [[Dosya:Atıf Kamçıl TBMM albümü.jpg|110px]]
+|-
+| Mustafa Bey{{efn|name=not50|Ölen Ali Rıza Efendi'nin yerine mebus oldu.}} ||
+|-
+| rowspan=6| [[Balıkesir|Karesi (Balıkesir)]] || [[Abdülaziz Mecdi Tolun|Hafız Abdülaziz Mecdi Efendi]] ||
+|-
+| [[Ali Galip Efendi]] ||
+|-
+| [[Vasfi Efendi|İbrahim Vasfi Efendi]] ||
+|-
+| [[Helvacızade Hasbi Muharrem Efendi|Muharrem Hasbi Efendi]] ||
+|-
+| [[Konstantin Savapulos|Konstantin Savapulos Efendi]]{{efn|name=not51|Şefik Efendi'nin yerine mebus oldu.}} || || Rum
+|-
+| Şefik Efendi{{efn|name=not45}} || || Türk
+|-
+| rowspan=3| [[Kudüs]] || [[Ruhi el-Halidi Bey]] || [[Dosya:Ruhi el-Halidi.jpg|110px]] || rowspan=4| Arap
+|-
+| Hafız Essait Efendi || 
+|-
+| [[Said el-Hüseyni Bey]] ||
+|-
+| [[Medine|Medine-i Münevvere]] || Seyyid Abdülkadir Haşimî Efendi ||
+|-
+| rowspan=2| [[Şanlıurfa|Urfa]] || [[Mahmut Nedim Bey]] || || rowspan=3| Türk
+|-
+| [[Saffet Yetkin|Şeyh Saffet Efendi]] || [[Dosya:Saffet Kemaleddin Yetkin.png|110px]]
+|-
+| [[Deyrizor|Zor]] || Hıdır Lütfi Efendi ||
+|-
+|}
+
+== Notlar ==
+{{not listesi|30em}}
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Konuyla ilgili yayınlar ==
+* [http://www.pols.boun.edu.tr/faculty/hakan_yilmaz/HYilmazTurkeyMesrutiyetCumhuriyetMebuslar.doc Meşrutiyet ve Cumhuriyet mebusları]{{Ölü bağlantı|tarih=Nisan 2020 }} - Hakan Yılmaz ([[Boğaziçi Üniversitesi]])
+* Meclis-i Mebusan Zabıt Ceridesi, Cilt: I, Devre: I, İçtima Senesi: I, TBMM Basımevi, Ankara, 1982.
+
+{{Osmanlı devlet teşkilatı}}
+
+{{Otorite kontrolü}}
+
+[[Kategori:Meclis-i Mebusan 3. dönem mebusları|*]]
+[[Kategori:Meclis-i Mebusan milletvekili listeleri|3]]

@@ -1,0 +1,823 @@
+'''TBMM 2. dönem milletvekilleri listesi''', 11 Ağustos 1923 - 26 Haziran 1927 tarihleri arasında [[Türkiye Büyük Millet Meclisi]]nde görev yapmış milletvekillerinin listesidir. Bu dönemde bağımsız olarak seçilebilen birkaç vekil ve muhalif tek vekil [[Zeki Kadirbeyoğlu]] dışında hepsi [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti (Birinci Grup)]]'tan seçildi.<ref>https://dergipark.org.tr/tr/download/article-file/68501 {{Webarşiv|url=https://web.archive.org/web/20240520155228/https://dergipark.org.tr/tr/download/article-file/68501 |tarih=20 Mayıs 2024 }} {{Satır içi yalın URL|tarih={{yk:ŞUANKİAY}} {{yk:GÜNCELYIL}}}}</ref>
+
+72 seçim çevresinden 286 milletvekili seçildi. (Mustafa Kemal Paşa'nın hem İzmir hem de Ankara'dan aday olup kazanması sebebiyle kimi belgelerde 287 olarak da geçer). 2. dönem boyunca 20 vekil istifa etti, 2 vekilin vekilliği düşürüldü, 25 vekil öldü (6'sı idam). Toplamda boşalan 47 koltuk için ara seçimler yapıldı. Böylece 2. dönem boyunca görev yapan milletvekili sayısı 333 oldu.<ref name=":0">{{Web kaynağı|url=https://acikerisim.tbmm.gov.tr/items/8397a11b-cafe-4730-84aa-88ebd33bed32|başlık=Türk Parlamento tarihi : TBMM II. Dönem 1923-27|erişimtarihi=2025-10-29|tarih=1994|sayfa=5|çalışma=acikerisim.tbmm.gov.tr|yayıncı=Türkiye Büyük Millet Meclisi Vakfı|cilt=3|ad=Kazım|soyadı=Öztürk|arşivurl=https://web.archive.org/web/20250907213951/https://acikerisim.tbmm.gov.tr/items/8397a11b-cafe-4730-84aa-88ebd33bed32|arşivtarihi=7 Eylül 2025|ölüurl=hayır}}</ref>
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! Seçim Bölgesi !! Mebus 
+! colspan="2" |Siyasi parti
+! colspan="8" |Değişiklik
+|-
+| rowspan=3| '''[[Adana milletvekilleri listesi|Adana]]''' || [[İsmail Safa Özler]]
+| rowspan="58" style="background:black" |
+| rowspan="58" | [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti (Birinci Grup)]]
+| rowspan="58" style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi|Halk Fırkası}}"|
+| rowspan="58" |[[Cumhuriyet Halk Partisi|Halk Fırkası]]
+|-
+| [[Kemal Kusun]]
+|-
+| [[Damar Arıkoğlu]]
+|-
+| rowspan=6| '''[[Afyonkarahisar milletvekilleri listesi|Afyonkarahisar]]''' || [[Ali Çetinkaya]]
+|-
+| [[İzzet Ulvi Aykurt]]
+|-
+| [[Kâmil Miras]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Musa Kazım Tunç]]
+|-
+| [[Ruşen Eşref Ünaydın]]
+|-
+| [[Mehmet Sadık (1867 doğumlu siyasetçi)|Mehmet Sadık]]
+|-
+| rowspan=3| '''[[Aksaray milletvekilleri listesi|Aksaray]]''' || [[Besim Atalay]]
+|-
+| [[Vehbi Çorakçı]]
+|-
+| [[Neşet Özercan]]
+|-
+| rowspan=4| '''[[Amasya milletvekilleri listesi|Amasya]]''' ||  [[Ali Rıza Özdarende]]
+|-
+| [[Esat Uras|Ahmet Esat Uras]]
+|-
+| [[Nafiz Aktın|Mehmet Nafiz Aktin]]
+|-
+| [[Osmanbey Selmen]]
+|-
+| rowspan=7| '''[[Ankara milletvekilleri listesi|Ankara]]''' ||  [[Mustafa Kemal Atatürk]] 
+|-
+| [[Ali Fuat Cebesoy]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Ali Kütükçüoğlu]]
+|-
+| [[Mustafa Hilmi Çayırlıoğlu]]
+|-
+| [[İhsan Pehlivanlı]]
+|-
+| [[Ömer Mümtaz Tambi]]
+|-
+| [[Şakir Kınacı]]
+|-
+| rowspan=4| '''[[Antalya milletvekilleri listesi|Antalya]]''' ||  [[Ahmet Saki Derin]]
+|-
+| [[Hasan Pırıltı]]
+|-
+| [[Mahmut Murat Şerefli]]
+|-
+| [[Rasih Kaplan]]
+|-
+| rowspan=3| '''[[Ardahan milletvekilleri listesi|Ardahan]]''' ||  [[Deli Halid Paşa]]
+|-
+| [[Hasan Tahsin Uzer]]
+|-
+| [[Talat Sönmez]]
+|-
+| '''[[Artvin milletvekilleri listesi|Artvin]]''' || [[Hilmi Gür]]
+|-
+| rowspan=6| '''[[Aydın milletvekilleri listesi|Aydın]]''' || [[İzzettin Çalışlar]]
+| style="background:black" |
+| Milletvekilliğinden istifa
+|-
+| [[Mazhar Germen]]
+|-
+| [[Mithat Aydın]]
+|-
+| [[Reşit Galip]]
+|-
+| [[Hasan Tahsin San]]
+|-
+| [[Zekai Apaydın]]
+|-
+| rowspan=2| '''[[Bayazıt milletvekilleri listesi|Bayazıt (Doğubeyazıt)]]''' || [[Süleyman Sudi Acarbay]]
+|-
+| [[Şefik Baydar]]
+|-
+| rowspan=3| '''[[Biga milletvekilleri listesi|Biga]]''' || [[Mehmet Dinç]]
+|-
+| [[Sâmih Rifat]]
+|-
+| [[Şükrü Yaşın]]
+|-
+| rowspan=2| '''[[Bitlis milletvekilleri listesi|Bitlis]]''' || [[Muhittin Başay]]
+|-
+| [[Sofrasur Asizade Resul Bey]]
+|-
+| rowspan=5| '''[[Bolu milletvekilleri listesi|Bolu]]''' || [[Cevat Abbas Gürer]]
+|-
+| [[Emin Cemal Suda]]
+|-
+| [[Falih Rıfkı Atay]]
+|-
+| [[Mehmet Şükrü Gülez]]
+|-
+| [[Mehmet Nuhoğlu]]
+|-
+| rowspan=4| '''[[Yozgat milletvekilleri listesi|Bozok (Yozgat)]]''' || [[Ahmet Hamdi Altıok]]
+|-
+| [[Mehmet Avni Doğan]]
+|-
+| [[Salih Bozok]]
+|-
+| [[Sırrı İçöz]]
+|-
+| rowspan=2| '''[[Burdur milletvekilleri listesi|Burdur]]''' || [[Hüseyin Çelikbaş]]
+|-
+| [[Mustafa Şeref Özkan]]
+|-
+| rowspan=6| '''[[Bursa milletvekilleri listesi|Bursa]]''' || [[Ali Hikmet Ayerdem]]
+| style="background:black" |
+| Milletvekilliğinden istifa
+|-
+| [[Mustafa Fehmi Gerçeker]]
+|-
+| [[Necati Kurtuluş]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Sakallı Nureddin Paşa]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Osman Nuri Özpay]] 
+| rowspan="75" style="background:black" |
+| rowspan="75" | [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti (Birinci Grup)]]
+| rowspan="75" style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi|Halk Fırkası}}"|
+| rowspan="75" |[[Cumhuriyet Halk Partisi|Halk Fırkası]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Refet Canıtez]]
+|-
+| rowspan=3| '''[[Samsun milletvekilleri listesi|Canik (Samsun)]]''' || [[Cavid Paşa]]
+|-
+| [[Süleyman Necmi Selmen]]
+|-
+| [[Talat Özüdoğru]]
+|-
+| rowspan=2| '''[[Osmaniye milletvekilleri listesi|Cebel-i Bereket (Osmaniye)]]''' || [[Hüseyin Avni Zaimler]]
+|-
+| [[İhsan Eryavuz]]
+|-
+| '''[[Çatalca milletvekilleri listesi|Çatalca]]''' || [[Şakir Kesebir]]
+|-
+| rowspan=6| '''[[Çorum milletvekilleri listesi|Çorum]]''' || [[Hüseyin Ferit Törümküney]]
+|-
+| [[İsmail Kemal Alpsar]]
+|-
+| [[İsmet Eker]]
+|-
+| [[Münir Çağıl]]
+|-
+| [[Ahmet Ziya Tonguç]]
+|-
+| [[Mustafa Cantekin]]
+|-
+| rowspan=5| '''[[Denizli milletvekilleri listesi|Denizli]]''' || [[Kazım Samanlı]]
+|-
+| [[Ali Haydar Öktem]]
+|-
+| [[Mazhar Müfit Kansu]]
+|-
+| [[Necip Ali Küçüka]]
+|-
+| [[Yusuf Başkaya]]
+|-
+| rowspan=2| '''[[Tunceli milletvekilleri listesi|Dersim (Tunceli)]]''' || [[Ahmet Şükrü Kulualp]]
+|-
+| [[Feridun Fikri Düşünsel]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| rowspan=7| '''[[Diyarbakır milletvekilleri listesi|Diyarbekir]]''' || [[Cavit Ekin]]
+|-
+| [[Pirinççizade Feyzi Bey]]
+|-
+| [[İbrahim Talî Öngören]]
+|-
+| [[Mehmet Nuri Budak]]
+|-
+| [[Şeref Uluğ]]
+|-
+| [[Ziya Gökalp]]
+|-
+| [[Zülfü Tigrel]]
+|-
+| rowspan=3| '''[[Edirne milletvekilleri listesi|Edirne]]''' || [[Cafer Tayyar Eğilmez]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Faik Kaltakkıran]]
+|-
+| [[Hüseyin Rıfkı Bey]]
+|-
+| rowspan=6| '''[[Elazığ milletvekilleri listesi|Elaziz (Elazığ)]]''' || [[Cevat Çobanlı]]
+|-
+| [[Hüseyin Gökçelik]]
+|-
+| [[Muhittin Çöteli]]
+|-
+| [[Mustafa Solmaz]]
+|-
+| [[Mehmet Naci Karaali]]
+|-
+| [[Süleyman Karakaya]]
+|-
+| rowspan=3| '''[[Ergani]]''' || [[İhsan Sağlam]]
+|-
+| [[İhsan Hamit Tiğrel]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Kazım Oral|Kâzim Bey (Oral)]]
+|-
+| rowspan=5| '''[[Bilecik milletvekilleri listesi|Ertuğrul (Bilecik)]]''' || [[Ahmet İffet Mercimekoğlu]]
+|-
+| [[Fikret Onuralp]]
+|-
+| [[Halil Işık (siyasetçi)|Halil Işık]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[İbrahim Çolak (asker)|İbrahim Çolak]]
+|-
+| [[Rasim Celalettin Öztekin]]
+|-
+| rowspan=3| '''[[Erzincan milletvekilleri listesi|Erzincan]]''' || [[Abdülhak Fırat]]
+|-
+| [[Mehmet Hamdi Arpağ]]
+|-
+| [[Mehmet Sabit Sağıroğlu]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| rowspan=7| '''[[Erzurum milletvekilleri listesi|Erzurum]]''' || [[Bahri Sarıtepe]]
+|-
+| [[Mehmet Cazım Duru]]
+|-
+| [[Halet Sağıroğlu]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Münir Hüsrev Göle]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Raif Dinç]]
+|-
+| [[Rüştü Paşa]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Ziyaeddin Gözübüyük]]
+|-
+| rowspan=4| '''[[Eskişehir milletvekilleri listesi|Eskişehir]]''' || [[Abdullah Azmi Torun]]
+|-
+| [[Ali Ulvi Bayrakdar]]
+|-
+| [[Mehmet Arif Bey (1883 doğumlu siyasetçi)|Mehmet Arif Bey]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Emin Sazak]]
+|-
+| rowspan=5| '''[[Gaziantep milletvekilleri listesi|Gaziantep]]''' || [[Remzi Güres]]
+|-
+| [[Ali Cenani]]
+|-
+| [[Mustafa Ferit Arsan]]
+|-
+| [[Ali Kılıç]]
+|-
+| [[Hafız Mehmet Şahin]]
+|-
+| '''[[Gelibolu milletvekilleri listesi|Gelibolu]]''' || [[Celâl Nuri İleri]]
+|-
+| rowspan=2| '''[[Genç milletvekilleri listesi|Genç]]''' || [[Ali Haydar Bey]]
+|-
+| [[Muhittin Temoçin]]
+|-
+| rowspan=5| '''[[Giresun milletvekilleri listesi|Giresun]]''' || [[Hacim Çarıklı]]
+|-
+| [[Hakkı Tarık Us]]
+|-
+| [[Musa Kazım Okay]]
+|-
+| [[Ali Şevket Çolak]]
+|-
+| [[Tahir Karadeniz]]
+|-
+| rowspan=4| '''[[Gümüşhane milletvekilleri listesi|Gümüşhane]]''' || [[Cemal Hüsnü Taray]]
+|-
+| [[Hasan Fehmi Ataç]]
+|-
+| [[Veysel Rıza Zarbun]]
+|-
+| [[Zeki Kadirbeyoğlu]]
+| style="background:white" |
+| [[İkinci Grup]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| rowspan=2| '''[[Hakkâri milletvekilleri listesi|Hakkâri]]''' || [[Asaf Süleyman Doras]]
+| rowspan="196" style="background:black" |
+| rowspan="196" | [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti (Birinci Grup)]]
+| rowspan="196" style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi|Halk Fırkası}}"|
+| rowspan="196" |[[Cumhuriyet Halk Partisi|Halk Fırkası]]
+|-
+| [[Mehmet Nazmi Dilaveroğlu]]
+|-
+| rowspan=3| '''[[Isparta milletvekilleri listesi|Isparta]]''' || [[Hüseyin Hüsnü Özdamar]]
+|-
+| [[Hafız İbrahim Demiralay]]
+|-
+| [[Ahmed Mükerrem Karaağaç]]
+|-
+| rowspan=2| '''[[Mersin milletvekilleri listesi|İçel (Silifke)]]''' || [[Emin İnankur]]
+|-
+| [[Tevfik Marlalı]]
+|-
+| rowspan=23| '''[[İstanbul milletvekilleri listesi|İstanbul]]''' || [[Abdurrahman Şeref]]
+|-
+| [[Abdülhak Adnan Adıvar]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Ahmet Hamdi Denizmen]]
+|-
+| [[Muhtar Mollaoğlu]]
+|-
+| [[Ali Rıza Bebek]]
+|-
+| [[Behiç Erkin]]
+|-
+| [[Edip Servet Tör]]
+|-
+| [[Refet Bele]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Fevzi Çakmak]]
+| style="background:black" |
+| Milletvekilliğinden istifa
+|-
+| [[Tevfik Kamil Koperler]]
+|-
+| [[Fuat Ağralı]]
+|-
+| [[Hakkı Şinasi Erel]]
+|-
+| [[Hamdullah Suphi Tanrıöver]]
+|-
+| [[Ali Haydar Yuluğ]]
+|-
+| [[Rauf Orbay]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[İhsan Sökmen]]
+|-
+| [[İsmail Canbulat]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Kâzım Karabekir]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Fethi Okyar]]
+|-
+| [[Refik Saydam]]
+|-
+| [[Süleyman Sırrı Aral]]
+|-
+| [[Yusuf Akçura]]
+|-
+| [[Ziya Karamürsel]]
+|-
+| rowspan=11| '''[[İzmir milletvekilleri listesi|İzmir]]''' || [[Fahrettin Altay]]
+| style="background:black" |
+| Milletvekilliğinden istifa
+|-
+| [[Mustafa Kamil Dursun]]
+|-
+| [[Celâl Bayar]]
+|-
+| [[Mahmut Esat Bozkurt]]
+|-
+| [[Mustafa Necati]]
+|-
+| [[Rahmi Köken]]
+|-
+| [[Ahmet Münir Akkaya]]
+|-
+| [[Hamdi Aksoy]]
+|-
+| [[Şükrü Saracoğlu]]
+|-
+| [[Tevfik Rüştü Aras]]
+|-
+| [[Seyyid Bey]]
+|-
+| rowspan=2| '''[[Çankırı milletvekilleri listesi|Kangırı (Çankırı)]]''' || [[Ahmet Talat Onay]]
+|-
+| [[Yusuf Ziya İsfendiyaroğlu]]
+|-
+| rowspan=4| '''[[Şebinkarahisar milletvekilleri listesi|Karahisar-ı Şarki (Şebinkarahisar)]]''' || [[Binbaşızade Rıza Bey]]
+|-
+| [[Ali Sururi Tönük]]
+|-
+| [[İsmail Sabuncu]]
+|-
+| [[Mehmet Emin Yurdakul]]
+|-
+| rowspan=8| '''[[Balıkesir milletvekilleri listesi|Karesi (Balıkesir)]]''' || [[Süreyya Örgeevren]]
+|-
+| [[Şuuri Hoşafcı]]
+|-
+| [[Haydar Adil Müstecaplıoğlu]]
+|-
+| [[Hulusi Zarplı]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Kâzım Özalp]]
+|-
+| [[Mehmet Emir]]
+|-
+| [[Mehmet Vehbi Bolak]]
+|-
+| [[Osman Niyazi Burcu]]
+|-
+| rowspan=2| '''[[Kars milletvekilleri listesi|Kars]]''' || [[Ahmet Ağaoğlu (siyasetçi)|Ahmet Ağaoğlu]]
+|-
+| [[Ömer Tarım]]
+|-
+| rowspan=8| '''[[Kastamonu milletvekilleri listesi|Kastamonu]]''' || [[Ahmet Mahir Efendi]]
+|-
+| [[Ali Nazmi Özügür]]
+|-
+| [[Ali Rıza Bey (Kastamonu milletvekili)|Ali Rıza Bey]]
+|-
+| [[Halit Akmansu]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Hasan Fehmi Tümerkan]]
+|-
+| [[Mehmet Mühto]]
+|-
+| [[Necmettin Molla Kocataş]]
+|-
+| [[Veled Çelebi İzbudak]]
+|-
+| rowspan=5| '''[[Kayseri milletvekilleri listesi|Kayseri]]''' || [[Ahmet Hilmi Kalaç]]
+|-
+| [[Halit Mazhar Karakaya]]
+|-
+| [[Nuh Naci Yazgan]]
+|-
+| [[Sabit Gözügeçgel]]
+|-
+| [[Zeki Karakimseliler|Ahmet Zeki Karakimseliler]]
+|-
+| rowspan=3| '''[[Kırklareli milletvekilleri listesi|Kırklareli]]''' || [[Fuat Umay]]
+|-
+| [[Şevket Ödül]]
+|-
+| [[Şükrü Naili Gökberk]]
+| style="background:black" |
+| Milletvekilliğinden istifa
+|-
+| rowspan=5| '''[[Kırşehir milletvekilleri listesi|Kırşehir]]''' || [[Ali Rıza Benli (siyasetçi)|Ali Rıza Benli]]
+|-
+| [[Lütfi Müfit Özdeş]]
+|-
+| [[Mahbub Erdoğru]]
+|-
+| [[Refik İsmail Kakmacı]]
+|-
+| [[Yahya Galip Kargı]]
+|-
+| rowspan=6| '''[[Kocaeli milletvekilleri listesi|Kocaeli]]''' || [[Ahmet Şükrü Bayındır|Ahmet Şükrü Bey]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[İbrahim Hakkı Tolon]]
+|-
+| [[İbrahim Süreyya Yiğit]]
+|-
+| [[Mustafa Kerem]]
+|-
+| [[Mehmet Ragıp Akça]]
+|-
+| [[Saffet Arıkan]]
+|-
+| rowspan=10| '''[[Konya milletvekilleri listesi|Konya]]''' || [[Eyüp Sabri Hayırlıoğlu]]
+|-
+| [[Fuat Gökbudak]]
+|-
+| [[Hacı Bekir Sümer]]
+|-
+| [[Halil İbrahim Nakıpoğlu]]
+|-
+| [[Musa Kazım Onar]]
+|-
+| [[Mustafa Ulusan]]
+|-
+| [[Mustafa Feyzi Karaağaç]]
+|-
+| [[Naim Hazim Onat|Mehmet Naim Onat]]
+|-
+| [[Refik Koraltan]]
+|-
+| [[Tevfik Fikret Sılay]]
+|-
+| rowspan=2| '''[[Kozan milletvekilleri listesi|Kozan]]''' || [[Ali Saip Ursavaş]]
+|-
+| [[Ali Şadi Çelik]]
+|-
+| rowspan=8| '''[[Kütahya milletvekilleri listesi|Kütahya]]''' || [[Ahmet Ferit Tek]]
+|-
+| [[Cevdet Barlas]]
+|-
+| [[Faik Soylu]]
+|-
+| [[Nuri Conker]]
+|-
+| [[Ragıp Soysal]]
+|-
+| [[Recep Peker]]
+|-
+| [[Mehmet Rıza Dinçay]]
+|-
+| [[Seyfi Aydın]]
+|-
+| rowspan=5| '''[[Malatya milletvekilleri listesi|Malatya]]''' || [[İsmet İnönü]]
+|-
+| [[Hilmi Oytaç]]
+|-
+| [[Bedir Fırat]]
+|-
+| [[Mahmud Nedim Zabcı|Mahmut Nedim Zabcı]]
+|-
+| [[Reşit Ağar]]
+|-
+| rowspan=5| '''[[Kahramanmaraş milletvekilleri listesi|Maraş]]''' || [[Abdülkadir Emirmahmutoğlu]]
+|-
+| [[Mehmet Erten (siyasetçi)|Mehmet Erten]]
+|-
+| [[Mitat Alam]]
+|-
+| [[Mehmet Nurettin Akkın]]
+|-
+| [[Mehmet Tahsin Hüdayioğlu]]
+|-
+| rowspan=6| '''[[Mardin milletvekilleri listesi|Mardin]]''' || [[Abdülgani Ensari]]
+|-
+| [[Abdürrezzak Şatana]]
+|-
+| [[Ali Rıza Erten]]
+|-
+| [[Derviş Ural]]
+|-
+| [[Mehmet Necip Güven]]
+|-
+| [[Yakup Kadri Karaosmanoğlu]]
+|-
+| rowspan=3| '''[[Muğla milletvekilleri listesi|Menteşe (Muğla)]]''' || [[Esat İleri]]
+|-
+| [[Şükrü Kaya]]
+|-
+| [[Yunus Nadi Abalıoğlu]]
+|-
+| rowspan=2| '''[[Mersin milletvekilleri listesi|Mersin]]''' || [[Ahmet Besim Özek]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Niyazi Ramazanoğlu|Mehmet Niyazi Ramazanoğlu]]
+|-
+| rowspan=3| '''[[Muş milletvekilleri listesi|Muş]]''' || [[İlyas Sami Muş]]
+|-
+| [[Osman Kadri Bingöl]]
+|-
+| [[Rıza Kotan]]
+|-
+| rowspan=4| '''[[Niğde milletvekilleri listesi|Niğde]]''' || [[Ata Atalay]]
+|-
+| [[Ebubekir Hâzım Tepeyran]]
+|-
+| [[Ali Galip Yenen]]
+|-
+| [[Halit Mengi]]
+|-
+| rowspan=5| '''[[Ordu milletvekilleri listesi|Ordu]]''' || [[Faik Günday]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Halil Sıtkı Kumru]]
+|-
+| [[Ahmet Hamdi Yalman]]
+|-
+| [[İsmail Çamaş]]
+|-
+| [[Mehmet Recai Baykal]]
+|-
+| rowspan=6| '''[[Rize milletvekilleri listesi|Rize]]''' || [[Ali Zırh]]
+|-
+| [[Ekrem Rize]]
+|-
+| [[Esat Özoğuz]]
+|-
+| [[Fuat Bulca]]
+|-
+| [[Hasan Cavit Belül]]
+|-
+| [[Rauf Benli]]
+|-
+| rowspan=10| '''[[Manisa milletvekilleri listesi|Saruhan (Manisa)]]''' || [[Abidin Bey]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Ethem Büke]]
+|-
+| [[Kemal Gürol]]
+|-
+| [[Mehmet Sabri Toprak]]
+|-
+| [[Mustafa Fevzi Sarhan]]
+|-
+| [[Mehmet Nafiz Dumlu]]
+|-
+| [[Reşat Kayalı]]
+|-
+| [[Saim Uzel]]
+|-
+| [[Vasıf Çınar]]
+|-
+| [[Mehmet Yaşar Özey]]
+|-
+| rowspan=2| '''[[Siirt milletvekilleri listesi|Siirt]]''' || [[Halil Hulki Aydın]]
+|-
+| [[Mahmut Soydan]]
+|-
+| rowspan=4| '''[[Sinop milletvekilleri listesi|Sinop]]''' || [[Kemalettin Sami Gökçen]]
+|-
+| [[Recep Zühtü Soyak]]
+|-
+| [[Rıza Nur]]
+|-
+| [[Yusuf Kemal Tengirşenk]]
+|-
+| rowspan=7| '''[[Sivas milletvekilleri listesi|Sivas]]''' || [[Mehmet Halis Tarıkahya]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Ahmet Muammer|Muammer Bey]]
+|-
+| [[Ömer Şevki Purut]]
+|-
+| [[Rahmi Katoğlu]]
+|-
+| [[Rasim Başara]]
+|-
+| [[Şemsettin Günaltay]]
+|-
+| [[Yusuf Ziya Başara]]
+|-
+| rowspan=4| '''[[Siverek milletvekilleri listesi|Siverek]]''' || [[Cudi Paşa]]
+|-
+| [[Halil Fahri Gürmen]]
+|-
+| [[Abdulkadir Kadri Kürkcü]]
+|-
+| [[Mahmut Odabaşı]]
+|-
+| rowspan=2| '''[[Tekirdağ milletvekilleri listesi|Tekirdağ]]''' || [[Faik Öztrak (1882 doğumlu siyasetçi)|Faik Öztrak]]
+|-
+| [[Cemil Uybadın]]
+|-
+| rowspan=4| '''[[Tokat milletvekilleri listesi|Tokat]]''' || [[Bekir Sami Kunduh]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Mehmet Emin Bayav]]
+|-
+| [[Kamil Baştopçu]]
+|-
+| [[Mustafa Vasfi Süsoy]]
+|-
+| rowspan=7| '''[[Trabzon milletvekilleri listesi|Trabzon]]''' || [[Abdullah Okyay]]
+|-
+| [[Ahmet Muhtar Çilli|Ahmet Muhtar Cilli]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Hasan Saka]]
+|-
+| [[Ahmet Hamdi Ülkümen]]
+|-
+| [[Rahmi Eyüboğlu]]
+| style="background:{{Siyasi parti renk|Terakkiperver Cumhuriyet Fırkası}}"|
+| [[Terakkiperver Cumhuriyet Fırkası]]
+| style="background:#DCDCDC" |
+| [[Bağımsız siyasetçi|Bağımsız]]
+|-
+| [[Süleyman Sırrı Gedik]]
+|-
+| [[Şefik Başman]]
+|-
+| rowspan=6| '''[[Şanlıurfa milletvekilleri listesi|Urfa]]''' || [[Ali Fuat Bucak]]
+|-
+| [[Hüsrev Gerede]]
+|-
+| [[Refet Ülgen]]
+|-
+| [[Refet Topçuoğlu]]
+|-
+| [[Saffet Yetkin]]
+|-
+| [[Yahya Kemal Beyatlı]]
+|-
+| rowspan=3| '''[[Van milletvekilleri listesi|Van]]''' || [[Hakkı Ungan]]
+|-
+| [[İbrahim Arvas]]
+|-
+| [[Münip Boya]]
+|-
+| rowspan=4| '''[[Zonguldak milletvekilleri listesi|Zonguldak]]''' || [[Halil Türkmen]]
+|-
+| [[Ragıp Özdemiroğlu]]
+|-
+| [[Tunalı Hilmi]]
+|-
+| [[Yusuf Ziya Özenci]]
+|}
+
+== Dipnotlar ==
+{{Kaynakça}}
+
+{{TBMM milletvekilleri}}
+
+[[Kategori:TBMM 2. dönem milletvekilleri|#]]
+[[Kategori:TBMM milletvekili listeleri|02]]

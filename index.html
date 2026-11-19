@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Türkiye Seçim Atlası · 1840–2026</title>
+<meta name="description" content="1840'tan günümüze Osmanlı ve Türkiye Cumhuriyeti seçimleri, halkoylamaları ve cumhurbaşkanlığı seçimleri; döneminin il ve vilayet sınırlarıyla etkileşimli harita.">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <h1>Türkiye Seçim Atlası</h1>
+    <span class="brand-sub">1840–2026 · Osmanlı ve Cumhuriyet seçimleri</span>
+  </div>
+  <div class="topbar-actions">
+    <button id="aboutBtn" class="btn ghost" type="button">Kaynaklar ve yöntem</button>
+  </div>
+</header>
+
+<section class="controls" aria-label="Seçim seçimi">
+  <div class="row">
+    <div class="seg" id="eraSeg" role="group" aria-label="Dönem">
+      <button type="button" data-era="all" class="active">Tümü</button>
+      <button type="button" data-era="osmanli">Osmanlı</button>
+      <button type="button" data-era="cumhuriyet">Cumhuriyet</button>
+    </div>
+    <div class="chips" id="typeChips" role="group" aria-label="Seçim türü"></div>
+  </div>
+  <div class="row nav">
+    <button id="prevBtn" class="btn icon" type="button" aria-label="Önceki seçim">‹</button>
+    <select id="electionSelect" aria-label="Seçim"></select>
+    <button id="nextBtn" class="btn icon" type="button" aria-label="Sonraki seçim">›</button>
+  </div>
+  <div class="timeline" id="timeline" aria-label="Zaman çizelgesi"></div>
+</section>
+
+<main class="layout">
+  <div class="map-wrap">
+    <div id="map" aria-label="Harita"></div>
+    <div class="map-overlay" id="mapOverlay" hidden></div>
+    <div class="legend" id="legend"></div>
+  </div>
+  <aside class="panel" id="panel">
+    <div id="electionInfo"></div>
+    <div class="modes" id="modeBox"></div>
+    <div id="unitInfo"></div>
+    <div id="notesBox"></div>
+  </aside>
+</main>
+
+<dialog id="about">
+  <form method="dialog"><button class="btn ghost close" aria-label="Kapat">✕</button></form>
+  <h2>Kaynaklar ve yöntem</h2>
+  <h3>Kapsam</h3>
+  <ul>
+    <li><b>1840:</b> Muhassıllık meclisleri. Derlenmiş seçim sonucu olmadığı için yalnız açıklama gösterilir.</li>
+    <li><b>1877–1919, Meclis-i Mebusan:</b> Vilayet ya da sancak başına mebus sayısı. Kaynakta varsa dinî, etnik ya da siyasi mensubiyet dağılımı da gösterilir.</li>
+    <li><b>1920–1946, TBMM:</b> İl (liva) başına milletvekili sayısı ve parti dağılımı. 1946 için yaklaşık il oyları da vardır.</li>
+    <li><b>1930–1946 yerel seçimler:</b> 1930 için Serbest Cumhuriyet Fırkası'nın kazandığı belediyeler. Diğer yıllarda il düzeyinde veri yoktur.</li>
+    <li><b>1950–2026:</b> İl düzeyinde milletvekili genel seçimleri, mahalli idareler seçimleri (belediye başkanlığı ve il genel meclisi), Cumhuriyet Senatosu seçimleri, halkoylamaları, cumhurbaşkanlığı seçimleri ve 7 Haziran 2026 ara seçimi.</li>
+  </ul>
+  <h3>Veri kaynakları</h3>
+  <ul>
+    <li><b>1950–2026 sonuçları ve 1950–1999 il sınırları:</b> <a href="https://github.com/hamiKumbasae/turkiye-secim-haritasi" target="_blank" rel="noopener">Türkiye Seçim Haritası açık veri seti</a> (CC BY-SA 4.0). Asıl kaynakları YSK, TÜİK/DİE ve Vikipedi'dir. İl ve ilçe sınırları © OpenStreetMap katkıcıları (ODbL) ve OCHA/HDX COD-AB-TUR (CC BY-IGO) verisinden türetilmiştir.</li>
+    <li><b>1877–1946 vekil listeleri:</b> Türkçe Vikipedi'deki "Meclis-i Mebûsan N. dönem mebusları listesi" ve "TBMM N. dönem milletvekilleri listesi" maddeleri (CC BY-SA 4.0). 1930 ve 1946 için ilgili seçim maddeleri kullanıldı. Her seçimin kaynak bağlantısı panelde yer alır.</li>
+    <li><b>Türkiye dışındaki Osmanlı vilayetleri ve arka plan haritası:</b> <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (kamu malı).</li>
+    <li><b>Yazılım:</b> Leaflet (BSD-2), topojson-client (ISC).</li>
+  </ul>
+  <h3>Sınırlar</h3>
+  <p>1950 ve sonrasındaki seçimler, kaynak veri setinin o tarihteki il sınırlarıyla çizilir: 1950'de 63 il, 1954'te 64, 1955'te 66, 1957–1987 arasında 67, sonrasında 73, 76, 79, 80 ve 2002'den itibaren 81 il.</p>
+  <p>1950 öncesi sınırlar <b>yaklaşıktır</b>. Türkiye içindeki birimler, günümüz ilçelerinin o yıldaki il ya da sancak bağlılığına göre birleştirildi. Örnekler: Gelibolu, Ergani, Genç, Siverek, Kozan, Cebelibereket, Şebinkarahisar ve Aksaray illerinin kaldırılması, 1933–1936 arasındaki Çoruh ili, Hatay'ın 1939'da katılması. Türkiye dışındaki Osmanlı vilayetleri, günümüz idari bölgelerinin (Natural Earth admin-1) birleştirilmesiyle çizildi. Bu yüzden kenar hatları tarihî sınırlarla birebir örtüşmez.</p>
+  <h3>Bilinen sınırlamalar</h3>
+  <ul>
+    <li>1950 öncesinde seçimler iki dereceliydi ve il düzeyinde oy sayısı yayımlanmadı. Bu yüzden bu dönemde vekil sayıları ve mensubiyetler gösterilir.</li>
+    <li>Vikipedi listeleri dönem boyunca görev yapan herkesi içerir. Açıklamasında "yerine" ya da "ara seçim" geçenler "sonradan katılan" olarak ayrıldı, ama bütün ara seçimler bu şekilde işaretli değildir. Bu yüzden toplamlar resmî sandalye sayısından fazla olabilir.</li>
+    <li>1912 ve 1914 listelerindeki parti mensubiyetleri literatürdeki toplu rakamlarla uyuşmaz; örneğin 1912 için genellikle "İttihat ve Terakki 269/275" denir. Bu yüzden Osmanlı seçimlerinde harita varsayılan olarak vekil sayısını gösterir.</li>
+    <li>Ülke toplamları il verilerinin toplanmasıyla hesaplandığından resmî ilan edilen oranlardan birkaç onda bir puan farklı olabilir.</li>
+  </ul>
+  <p class="muted">Bu sitedeki derlenmiş veri, kaynaklarının lisansı gereği CC BY-SA 4.0 ile paylaşılır.</p>
+</dialog>
+
+<script src="vendor/leaflet.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

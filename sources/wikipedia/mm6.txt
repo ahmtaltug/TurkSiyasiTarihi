@@ -1,0 +1,356 @@
+'''1920 Osmanlı Meclis-i Mebusanı''' ya da '''VI. Meclis-i Mebusan''', 12 Ocak - 18 Mart 1920 tarihleri arasında görev yapan son Osmanlı [[Meclis-i Mebûsan]]ı'dır. 16 Mart 1920'de İstanbul'un [[İtilaf Devletleri]] tarafından işgal edilmesi nedeniyle 18 Mart'ta çalışmalarını sonlandırdı. Bu meclisteki [[mebus]]ların büyük bölümü 23 Nisan 1920 tarihinde Ankara'da açılan [[Türkiye Büyük Millet Meclisi|Büyük Millet Meclisi]]'ne katıldı.
+
+== Öncesi ==
+Mütareke yıllarında, [[Wilson İlkeleri]]'nden yararlanmak isteyen bazı çevrelerin boykot ettiği 1919 seçimine [[Osmanlı İmparatorluğu'ndaki Yahudilerin tarihi|Osmanlı Yahudileri]] Hahambaşı [[Haim Nahum|Haim Nahum Efendi]]'nin gayreti ve üstün çalışmaları ile yahudiler İntihab Cemiyeti'ni kurup fiilen katıldılar On üç Yahudinin ikinci seçmen olduğu bu seçimde Yahudilerin gösterdiği iki adaydan [[Avram Galanti Bodrumlu|Avram Galanti]], [[İzmir]]'de yeterli oyu alamadıysa da [[Mişon Ventura]] [[İstanbul]]'da seçimi kazanarak Ocak 1920'de açılan Meclise girme hakkını elde etti.<ref name='Güleryüz'>{{Kitap kaynağı|soyadı1=Güleryüz|ad1=Naim A.|yazarbağı1=|başlık=Toplumsal Yasamda Türk Yahudileri |bölüm=Meşrutiyet ve Cumhuriyet Dönemlerinde Yahudi Milletvekilleri |bölümurl=https://www.academia.edu/44788553/Me%C5%9Frutiyet_ve_Cumhuriyet_D%C3%B6nemlerinde_Yahudi_Milletvekilleri |yıl=2012 |yayıncı= Gözlem Gazetecilik|isbn=9944994588}}</ref> Bu arada, [[Anadolu]]'da [[Mustafa Kemal Atatürk|Mustafa Kemal Paşa]] Aralık 1919'da [[Ankara]]'ya geldikten kısa bir süre sonra Meclisin çalışmalarıyla ilgili son hazırlıklarını bitirdi. Alınan karara göre; [[Meclis-i Mebûsan]]'daki tüm çalışmaları yürütecek bir [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti]] oluşturulacak, Meclis başkanlığına Mustafa Kemal Paşa seçilecek, [[Sivas Kongresi]] kararları onaylanacak ve [[Mîsâk-ı Millî]] için mecliste yemin edilecekti. [[İstanbul]]'a giden milletvekillerine bunlarla ilgili gerekli açıklamalar yapıldı.
+
+== Açılması ==
+12 Ocak 1920'de İstanbul'da toplanan son Osmanlı Meclisi Mebusanı'nda Mustafa Kemal Paşa Meclis Başkanlığına seçilmedi. Hatta Müdafaa-i Hukuk Grubu yerine de [[Felâh-ı Vatan|Felah-ı Vatan]] Grubu kuruldu. [[Türk Kurtuluş Savaşı|Millî Mücadele]] için tehlike yaratacak{{Kaynak belirt}} bu duruma oldukça kızan Mustafa Kemal Paşa, yazdığı [[Nutuk (Mustafa Kemal Atatürk)|Nutuk]] adlı eserde, [[Ankara]] toplantılarında söz verip yerine getirmeyen mebuslar için; ''Sözlerinde durmayan bu efendiler imansızdırlar. Korkaktırlar, cahildirler.'' dedi.
+
+== Misak-ı Millî'nin Kabulü ==
+{{Anamadde|Mîsâk-ı Millî}}
+Sivas Kongresi kararlarının görüşülmesi sırasında Mustafa Kemal Paşa'ya bağlı genç mebusların baskısıyla Kongre kararları onaylandı. 17 Şubat 1920'de oybirliği ile altı maddelik Misak-ı Millî'yi kabul etti. Bu maddelerin önemlisi şüphesiz ''Hatt-ı Mütareke dahil ve haricindeki Türklerle meskun toprakları bölünmez bir bütün olarak kabul eden I. maddedir.
+
+== İstanbul'un işgali ==
+[[İtilaf Devletleri]] Misak-ı Milli'nin kabul edilmesinden sonra, [[Sevr Antlaşması]]'nı [[Osmanlı İmparatorluğu|Osmanlı]] hükûmetine kabul ettirmek amacıyla 16 Mart 1920'de İstanbul'u resmen işgal ettiler. Meclis buna rağmen 18 Mart'ta son bir kez daha toplandı. Bu son oturumda da çalışmalara ara verildi. Meclis İtilaf Devletleri tarafından basılınca, padişah tarafından 11 Nisan'da dağıtıldı.
+
+== Mebuslar ==
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! Seçim Bölgesi !! Mebus
+|-
+| rowspan=3| [[Amasya]] || [[Bekir Sami Kunduh|Bekir Sami Bey]]
+|-
+| [[İsmail Hakkı Paşa (1858-1925)|İsmail Hakkı Paşa]]
+|-
+| [[Ömer Lütfi Yasan|Ömer Lütfi Bey]]
+|-
+| rowspan=4| [[Ankara]] || [[Ahmet Rüstem Bilinski|Ahmed Rüstem Bey]]
+|-
+| [[Taşpınarlı Hacı Atıf|Taşpınarlı Hacı Atıf Efendi]]
+|-
+| [[Ömer Mümtaz Tambi|Ömer Mümtaz Bey]]{{Cref|Katılmadı}}
+|-
+| [[Mustafa Hilmi Çayırlıoğlu|Mustafa Hilmi Bey]]
+|-
+| rowspan=2| [[Gaziantep|Antep]] || [[Ali Cenani]]
+|-
+| [[Abdurrahman Hulusi Bey]]
+|-
+| rowspan=3| [[Aydın]] || [[Cami Baykurt|Cami Bey]]
+|-
+| [[Hüseyin Kâzım Kadri|Hüseyin Kâzım Kadri Bey]]
+|-
+| [[Mehmet Emin Erkut|Mehmet Emin Bey]]
+|-
+| [[Doğubayazıt|Bayazıt]] || [[Şefik Baydar|Şefik Efendi]]
+|-
+| rowspan=2| [[Bitlis]] || [[Sofrasur Asizade Resul Bey]]{{Cref|Katılmadı}}
+|-
+| [[Sadullah Fevzi Eren|Sadullah Fevzi Bey]]{{Cref|Katılmadı}}
+|-
+| rowspan=4| [[Bolu]] || [[Tunalı Hilmi|Tunalı Hilmi Bey]]
+|-
+| [[Cevat Abbas Gürer|Cevat Abbas Bey]]
+|-
+| [[Mehmet Nuhoğlu|Mehmed Vasfi Bey]]
+|-
+| [[Ahmed Tayyar Çulha|Ahmed Tayyar Efendi]]
+|-
+| rowspan=2| [[Yozgat|Bozok (Yozgat)]] || [[İsmail Fâzıl Paşa|İsmail Fazıl Paşa]]
+|-
+| [[Yusuf Bahri Tatlıoğlu|Yusuf Bahri Efendi]]
+|-
+| [[Burdur]] || [[Hüseyin Çelikbaş|Hüseyin Baki Bey]]
+|-
+| rowspan=4| [[Bursa]] || [[Hasan Fehmi Kolay]]
+|-
+| [[Osman Nuri Özpay|Osman Nuri Bey]]
+|-
+| [[İlyas Zühdi Efendi]]
+|-
+| [[Ahmet Münir Erhan|Ahmed Münir Bey]]
+|-
+| rowspan=3| [[Samsun|Canik (Samsun)]] || [[Cavid Paşa|Cavit Paşa]]
+|-
+| [[Emin Gevelioğlu|Emin Bey]]
+|-
+| [[Mehmet Ali Bey (1876 doğumlu siyasetçi)|Mehmet Ali Bey]]
+|-
+| [[Çorum]] || [[İsmet Eker|İsmet Efendi]]
+|-
+| [[Çatalca]] || [[Hayrettin Belli]]
+|-
+| rowspan=2| [[Denizli]] || [[Hakkı Behiç Bayiç|Hakkı Behiç Bey]]{{Cref|Katılmadı}}
+|-
+| [[Faik Efendi]]
+|-
+| [[Dersim]] || [[Hasan Hayri Kanko|Hasan Hayri Bey]]
+|-
+| rowspan=2| [[Diyarbakır|Diyarbekir]] || [[Zülfü Tigrel|Mehmet Zülfü Bey]]{{Cref|Katılmadı}}
+|-
+| [[Pirinççizade Feyzi Bey|Piriççizade Feyzi Bey]]{{Cref|Katılmadı}}
+|-
+| rowspan=3| [[Edirne]] || [[Faik Kaltakkıran|Faik Bey]]
+|-
+| [[Şeref Aykut|Mehmet Şerafettin Efendi]]
+|-
+| [[Galip Bahtiyar Göker|Galip Bey]]
+|-
+| rowspan=2| [[Ergani]] || [[Kadri Bey]]{{Cref|Katılmadı}}
+|-
+| [[Rüştü Bulduk|Rüştü Bey]]
+|-
+| rowspan=2| [[Bilecik|Ertuğrul (Bilecik)]] || [[Ahmet İffet Mercimekoğlu|Ahmet İffet Bey]]
+|-
+| [[Mehmet Sadık Bey]]
+|-
+| [[Erzincan]] || [[Halil Bey]]
+|-
+| rowspan=5| [[Erzurum]] || [[Mustafa Kemal Atatürk|Mustafa Kemal Paşa]]{{Cref|Katılmadı}}
+|-
+| [[Celalettin Arif|Celalettin Arif Bey]]
+|-
+| [[Hüseyin Avni Ulaş|Hüseyin Avni Bey]]
+|-
+| [[Süleyman Necati Güneri|Süleyman Necati Bey]]
+|-
+| [[Zihni Orhon|Zihni Bey]]
+|-
+| rowspan=2| [[Eskişehir]] || [[Abdullah Azmi Torun|Abdullah Azmi Efendi]]
+|-
+| [[Veliyullah Akbaşlı|Hacı Veli Efendi]]
+|-
+| rowspan=2| [[Gelibolu]] || [[Celâl Nuri İleri|Celal Nuri Bey]]
+|-
+| [[Şakir Kesebir|Şakir Bey]]
+|-
+| [[Genç, Bingöl|Genç]] || [[Mehmet Celal Saraçoğlu|Mehmet Celal Bey]]{{Cref|Katılmadı}}
+|-
+| [[Gümüşhane]] || [[Zeki Kadirbeyoğlu|Kadirbeyoğlu Zeki Efendi]]
+|-
+| rowspan=2| [[Hakkâri]] || [[Mazhar Müfit Kansu|Mazhar Müfit Bey]]
+|-
+| [[Asaf Süleyman Doras|Asaf Süleyman Bey]]
+|-
+| rowspan=2| [[Isparta]] || [[Cemal Mersinli|Mersinli Cemal Paşa]]
+|-
+| [[Seyfullah Efendi]]
+|-
+| [[Mersin|İçel]] || [[Ali Rıza Ataışık|Ali Rıza Bey]]
+|-
+| rowspan=11| [[İstanbul]] || [[Abdülhak Adnan Adıvar|Abdülhak Adnan Bey]]
+|-
+| [[Ahmet Ferit Tek|Ahmet Ferit Bey]]
+|-
+| [[Muhtar Mollaoğlu|Ahmed Muhtar Bey]]
+|-
+| [[Ahmed Selahaddin Bey]]
+|-
+| [[Fuat Selim Bey]]{{Cref|Katılmadı}}
+|-
+| [[Hamit Hasancan|Hasancan Hamid Bey]]
+|-
+| [[Kâmil Efendi]]
+|-
+| [[Mişon Ventura|Mişon Ventura Efendi]]{{Cref|Gayrimüslim}}
+|-
+| [[Numan Usta|Köstenceli Numan Usta]]
+|-
+| [[Rauf Ahmet Hotinli|Rauf Ahmet Bey]]
+|-
+| [[Reşat Hikmet Bey]]
+|-
+| rowspan=5| [[İzmir]] || [[Refet Bele|Refet Bey]]{{Cref|Katılmadı}}
+|-
+| [[Hasan Tahsin Uzer|Hasan Tahsin Bey]]
+|-
+| [[Yunus Nadi Abalıoğlu|Yunus Nadi Bey]]
+|-
+| [[Şükrü Saracoğlu|Saracoğlu Şükrü Bey]]
+|-
+| [[İlhami Dinçer|İlhami Bey]]
+|-
+| rowspan=3| [[İzmit]] || [[Ali Dikmen|Ali Bey]]
+|-
+| [[Hüseyin Sırrı Bellioğlu|Hüseyin Sırrı Bey]]
+|-
+| [[Sapancalı Hakkı|Sapancalı Hakkı Bey]]
+|-
+| rowspan=2| [[Çankırı|Kangırı (Çankırı)]] || [[Behçet Kutlu|Behçet Bey]]
+|-
+| [[Tevfik Durlanık|Hacı Tevfik Efendi]]
+|-
+| rowspan=3| [[Afyonkarahisar|Karahisar-ı Sâhib]] || [[Ali Çetinkaya|Kel Ali Bey]]
+|-
+| [[Ömer Lütfi Argeşo|Ömer Lütfi Bey]]{{Cref|Katılmadı}}
+|-
+| [[Mustafa Hulusi Çalgüner|Mustafa Hulusi Efendi]]
+|-
+| rowspan=2| [[Şebinkarahisar|Karahisar-ı Şarki]] || [[Fazıl Efendi]]
+|-
+| [[Ömer Feyzi Efendi|Ömer Fevzi Efendi]]
+|-
+| rowspan=5| [[Balıkesir|Karesi (Balıkesir)]] || [[Hacim Çarıklı|Hacim Muhittin Bey]]
+|-
+| [[Abdülaziz Mecdi Tolun|Abdülaziz Mecdi Efendi]]
+|-
+| [[Fuat Tuksal|Fuat Bey]]
+|-
+| [[Orhan Şemsettin Bey]]
+|-
+| [[Rasim Bey]]
+|-
+| rowspan=4| [[Kastamonu]] || [[Yusuf Kemal Tengirşenk|Yusuf Kemal Bey]]
+|-
+| [[Mehmet Besim Fazlıoğlu|Mehmet Besim Bey]]
+|-
+| [[Suat Soyer|Suat Bey]]
+|-
+| [[Ahmet Şükrü Bayındır|Şükrü Bey]]
+|-
+| rowspan=3| [[Kayseri]] || [[Ahmet Hilmi Kalaç|Ahmet Hilmi Bey]]{{Cref|Katılmadı}}
+|-
+| [[Rifat Çalıka|Ahmed Rifat Bey]]
+|-
+| [[Ahmet Remzi Akgöztürk|Remzi Bey]]{{Cref|Meclise katılmadan istifa}}
+|-
+| rowspan=2| [[Kırklareli|Kırk Kilise (Kırklareli)]] || [[Mehmed Bahaeddin Efendi]]
+|-
+| [[Mustafa Arif Deymer|Mustafa Arif Bey]]
+|-
+| rowspan=2| [[Kırşehir]] || [[Rıza Silsüpür|Rıza Bey]]
+|-
+| [[Ali Rıza Benli (siyasetçi)|Benliağazade Ali Rıza Bey]]
+|-
+| rowspan=5| [[Konya]] || [[Hacı Bekir Sümer|Hacı Bekir Efendi]]
+|-
+| [[Halil İbrahim Nakıpoğlu|Kazım Hüsnü Bey]]
+|-
+| [[Mehmet Vehbi Çelik|Mehmed Vehbi Bey]]
+|-
+| [[Musa Kazım Onar|Musa Kazım Bey]]
+|-
+| [[Ömer Vehbi Büyükyalvaç|Ömer Vehbi Bey]]
+|-
+| rowspan=3| [[Kütahya]] || [[Ali Bey]]
+|-
+| [[Ragıp Soysal|Hocazade Ragıp Efendi]]{{Cref|Katılmadı}}
+|-
+| [[Rasih Efendi]]
+|-
+| rowspan=2| [[Rize|Lazistan (Rize)]] || [[Osman Nuri Özgen|Osman Nuri Bey]]
+|-
+| [[Asım Lostar|Asım Bey]]{{Cref|İstifa1}}
+|-
+| rowspan=2| [[Malatya]] || [[Mustafa Fevzi Bilgili|Mustafa Fevzi Bey]]{{Cref|Katılmadı}}
+|-
+| [[Hacı Mehmed Rifat Efendi]]{{Cref|Katılmadı}}
+|-
+| rowspan=3| [[Elazığ|Mamuret-ül-Aziz (Elazığ)]] || [[Muhittin Çöteli|Muhiddin Bey]]
+|-
+| [[Mustafa Çağlayan|Mustafa Şükrü Bey]]
+|-
+| [[Hüseyin Avni Dikbaşızade|Dikbaşızade Hüseyin Avni Bey]]
+|-
+| rowspan=2| [[Kahramanmaraş|Maraş]] || Abdülkadir Bey
+|-
+| [[Mehmet Tahsin Hüdayioğlu|Tahsin Bey]]
+|-
+| rowspan=2| [[Mardin]] || [[Ebül'ulâ Mardin|Ebül'ulâ Bey]]
+|-
+| [[Mithat Milli|Midhat Bey]]{{Cref|Katılmadı}}
+|-
+| rowspan=2| [[Muğla|Menteşe (Muğla)]] || [[Hilmi Uran|Hilmi Bey]]
+|-
+| [[Halil İbrahim Efendi]]
+|-
+| rowspan=2| [[Muş]] || [[İlyas Sami Muş|İlyas Sami Bey]]{{Cref|Katılmadı}}
+|-
+| [[Osman Kadri Bingöl|Osman Kadri Bey]]
+|-
+| rowspan=3| [[Niğde]] || [[Ata Atalay|Ata Bey]]
+|-
+| [[Mehmet Emin Erişirgil|Erişirgil Mehmed Emin Bey]]
+|-
+| [[Muhittin Bey]]
+|-
+| rowspan=2| [[Oltu]]{{Cref|Oltu}}|| [[Yasin Haşimoğlu|Yasin Bey]]{{Cref|Katılmadı}}
+|-
+| [[Rüstem Hamşioğlu|Rüstem Bey]]{{Cref|Katılmadı}}
+|-
+| rowspan=4| [[Manisa|Saruhan (Manisa)]] || [[Celâl Bayar|Mahmud Celâleddin Bey]]
+|-
+| [[İbrahim Süreyya Yiğit|İbrahim Süreyya Bey]]
+|-
+| [[Muvaffak Menemencioğlu|Muvaffak Bey]]
+|-
+| [[Çerkes Reşit|Çerkes Reşid Bey]]
+|-
+| [[Siirt]] || [[Halil Hulki Aydın|Halil Hulki Bey]]{{Cref|Katılmadı}}
+|-
+| rowspan=2| [[Sinop]] || [[Rıza Nur]]
+|-
+| [[Zeki Bey]]
+|-
+| rowspan=4| [[Sivas]] || [[Rauf Orbay|Hüseyin Rauf Bey]]
+|-
+| [[Mustafa Vasıf Karakol|Mustafa Vasıf Bey]]
+|-
+| [[Ziya Bacanak|Bacanakzade Ziya Bey]]{{Cref|Katılmadı}}
+|-
+| [[Samih Fethi Bey]]
+|-
+| [[Siverek]] || [[Bekir Sıtkı Ocak|Bekir Sıtkı Bey]]
+|-
+| rowspan=2| [[Antalya|Teke (Antalya)]] || [[Hamdullah Suphi Tanrıöver|Hamdullah Suphi Bey]]
+|-
+| [[Yusuf Talat Efendi]]{{Cref|İstifa2}}
+|-
+| rowspan=2| [[Tekirdağ|Tekfurdağı (Tekirdağ)]] || [[Rahmi Bey]]
+|-
+| [[Süleyman Faik Bey]]
+|-
+| rowspan=3| [[Tokat (il)|Tokat]] || [[Ahmet Bey]]
+|-
+| [[Mehmet Bey]]
+|-
+| [[Şevki Bey]]
+|-
+| rowspan=6| [[Trabzon]] || [[Hüsrev Gerede|Hüsrev Bey]]
+|-
+| [[Ali Şükrü|Ali Şükrü Bey]]
+|-
+| [[Ahmet Muhtar Çilli|Ahmed Muhtar Bey]]
+|-
+| [[İsmail Çamaş|İsmail Bey]]
+|-
+| [[Şefik Başman|Ali Şefik Bey]]
+|-
+| [[Eşref Dizdar|Eşref Bey]]
+|-
+| rowspan=2| [[Şanlıurfa|Urfa]] || [[Ali Fuat Bucak|Ali Fuat Bey]]
+|-
+| [[Şükrü Nasıh Bey]]
+|-
+| rowspan=3| [[Van]] || [[Hakkı Ungan|Hakkı Bey]]{{Cref|Katılmadı}}
+|-
+| [[Haydar Hilmi Vaner|Haydar Bey]]
+|-
+| [[Münip Boya|Münip Bey]]
+|-
+|}
+
+== Dipnotlar ==
+{{Cnote|Katılmadı|İstanbul'daki meclis çalışmalarına katılmadı}}
+{{Cnote|İstifa1|Katılmadı ve 26 Şubat 1920 tarihinde istifa etti}}
+{{Cnote|İstifa2|Katılmadı ve 19 Şubat 1920 tarihinde istifa etti}}
+{{Cnote|Oltu|Oltu Şura Hükümeti temsilcisi olarak}}
+{{Cnote|Gayrimüslim|Seçilen tek Gayrimüslim (Yahudi) mebustur}}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+{{Osmanlı devlet teşkilatı}}
+
+[[Kategori:Meclis-i Mebusan 6. dönem mebusları| ]]
+[[Kategori:Meclis-i Mebusan milletvekili listeleri|6]]

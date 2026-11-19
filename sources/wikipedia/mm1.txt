@@ -1,0 +1,263 @@
+'''1877 Mart-Haziran Osmanlı Meclis-i Mebusanı''' veya '''I. Meclis-i Mebusan''', Türk tarihinde halk oylarıyla seçilen ilk meclistir. 19 Mart 1877 - 28 Haziran 1877 tarihleri arasında görev yaptı.<ref>{{Kitap kaynağı|url=https://dergipark.org.tr/en/download/article-file/37017|başlık=Birinci Meşrutiyet Meclis-i Mebusanı|erişimtarihi=6 Mayıs 2024|yazarlar=Sina AKŞİN|tarih=1970|sayı=01|dil=Türkçe|sayfa=3|yayıncı=[[DergiPark]]|cilt=25|arşivurl=https://web.archive.org/web/20240506203654/https://dergipark.org.tr/en/download/article-file/37017|arşivtarihi=6 Mayıs 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://islamansiklopedisi.org.tr/meclis-i-mebusan|başlık=MECLİS-i MEB‘ÛSAN|erişimtarihi=6 Mayıs 2024|dil=Türkçe|çalışma=TDV İslâm Ansiklopedisi|arşivurl=https://web.archive.org/web/20230606051908/https://islamansiklopedisi.org.tr/meclis-i-mebusan|arşivtarihi=6 Haziran 2023|ölüurl=hayır}}</ref><ref>{{Tez kaynağı|url=https://acikerisim.aku.edu.tr/xmlui/bitstream/handle/11630/5055/10194279.pdf?sequence=1&isAllowed=y|başlık=Osmanlı Meclis-İ Mebusanı Ve Faaliyetleri (1914-1918)|erişimtarihi=6 Mayıs 2024|tarih=2018|sayfa=24|yayıncı=[[Afyon Kocatepe Üniversitesi]]|ad=Sibel|soyadı=YAZICI|arşivurl=https://web.archive.org/web/20210516180841/https://acikerisim.aku.edu.tr/xmlui/bitstream/handle/11630/5055/10194279.pdf?sequence=1&isAllowed=y|arşivtarihi=16 Mayıs 2021|ölüurl=hayır}}</ref>
+
+Dersaadet mebuslarını belirlemek amacıyla 2 Ocak 1877'de İstanbul'da ayrı bir seçim düzenlenmiş; İstanbul-İzmit-Çatalca bölgesinin dışında kalan vilâyetlerin mebusları ise geçici bir talimatla il, liva ve kazaların yönetim meclisi üyeleri arasından 18 Mart 1877'de seçilmiştir. Meclis-i Mebûsan'ın ilk üyeleri, çalışmalarına sözü geçen ikinci seçimi müteakiben resmen 19 Mart'ta, fiilen ise 31 Mart 1877'de başlamıştır.<ref>{{Web kaynağı |url=https://dergipark.org.tr/en/download/article-file/37017 |başlık=Arşivlenmiş kopya |erişimtarihi=6 Mayıs 2024 |arşivurl=https://web.archive.org/web/20240506203654/https://dergipark.org.tr/en/download/article-file/37017 |arşivtarihi=6 Mayıs 2024 |ölüurl=hayır }}</ref> Seçilmek için 25 yaş esas alınması, ayrıca seçilebilmek için, az çok emlâk sahibi olmak şartı konmuştu. Seçimlerin sonucunda, her vilâyet belirtilen sayıdaki mebus seçerek İstanbul'a gönderemedi. Tunus, Mısır, Romanya, Sırbistan ve Karadağ mebus göndermedi. İç işlerinde serbest olan bu vilayetler mebus göndermeye kendilerini mecbur hissetmedi. 69 üyesi Müslüman, 46 üyesi gayrimüslim olmak üzere 115 üyeden oluşan ilk Meclis-i Mebusan'ın başlıca özelliği, imparatorluk içine yayılmış çeşitli etnik gruplardan (Türk, Arap, Kürt, Laz, Ulah, Arnavut, Boşnak, Rum, Ermeni, Bulgar, Yahudi vb.) oluşmasıydı. Meclis 28 Haziran 1877'de dağıldı.
+
+== Mebuslar ==
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+! Vilayet !! Mebus !! Dini Mensubiyeti
+|-
+| rowspan=3 | [[Adana Vilayeti|Adana]] <br> {{Küçük|[[Kozan]], [[Mersin|İçel]], [[Payas]]}} || Hoca Mustafa Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Musabalıoğlu Kâzım Bey
+|-
+| Bızdıkoğlu Kirkor Efendi || [[Gayrimüslim]]
+|-
+| rowspan=3 | [[Ankara Vilayeti|Ankara]] <br> {{Küçük|[[Bozok]], [[Kayseri]], [[Kırşehir]]}} || Süleyman Refik Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Hacı Abdi Bey
+|-
+| Altıntop Mikael Efendi || [[Gayrimüslim]]
+|-
+| rowspan=5 | [[Aydın Vilayeti|Aydın]] <br> {{Küçük|[[İzmir]], [[Saruhan Sancağı|Saruhan]], [[Menteşe Sancağı|Menteşe]]}} || [[Yenişehirlizade Ahmet Efendi]] || rowspan=3 | [[Müslüman]]
+|-
+| Evliyazade Ahmet Efendi
+|-
+| Ragıp Bey
+|-
+| Zatinoğlu Yanoko Efendi || rowspan=2 | [[Gayrimüslim]]
+|-
+| [[Agop Ispartalıyan|Agop Efendi]]
+|-
+| rowspan=3 | [[Bağdat Vilayeti|Bağdat]] <br> {{Küçük|[[Musul]], [[Şehrizor|Şehr-i Zor]], [[Süleymaniye]], [[Kerbela]], [[El-Hille|Hille]], [[El-Amare|Amare]]}} || Abdurrahman Vasfi Bey || rowspan=2 | [[Müslüman]]
+|-
+| Abdürrezzak Efendi 
+|-
+| [[Menahem Salah Daniel|Menahem Efendi]] || rowspan=1 | [[Gayrimüslim]]
+|-
+| [[Basra Vilayeti|Basra]] <br> {{Küçük|[[Necid]], [[Ihsa]]}} || colspan=2 | <center>''Seçilen olmadı''
+|-
+| rowspan=10 | [[Bosna Vilayeti|Bosna ve Hersek]] <br> {{Küçük|[[Saraybosna|Saray]], [[Zvornik|İzvornik]], [[Banja Luka|Banaluka]], [[Trovnik]], [[Behke]]}} || Murad Bey || rowspan=6 | [[Müslüman]]
+|-
+| Fehim Bey
+|-
+| Mehmed Bey
+|-
+| İbrahim Bey
+|-
+| Ali Efendi
+|-
+| Yaver Efendi 
+|-
+| Petraki Efendi || rowspan=4 | [[Gayrimüslim]]
+|-
+| Yozo Efendi
+|-
+| İstefan Efendi
+|-
+| Sava Efendi
+|-
+| rowspan=5 | [[Cezayir-i Bahr-i Sefid Vilayeti|Cezayir-i Bahr-i Sefid]] <br> {{Küçük|[[Biga]], [[Midilli (ada)|Midilli]], [[Sakız]], [[Rodos]], [[İstanköy]], [[Kıbrıs]]}} || Şeyh Nuri Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Mehmed Bey
+|-
+| Hacı Vasilaki Efendi || rowspan=3 | [[Gayrimüslim]]
+|-
+| Zafiraki Efendi
+|-
+| Nikolaki Efendi
+|-
+| rowspan=11 | [[İstanbul Vilayeti|Dersaadet (İstanbul)]] <br> {{Küçük|[[İzmit]], [[Çatalca]]}} || [[Ahmed Vefik Paşa|Ahmed Vefik Efendi]] || rowspan=6 | [[Müslüman]]
+|-
+| [[Osman Selahaddin Dede Efendi|Osman Selâhaddin Dede]] (istifa)
+|-
+| [[Ahmed Hilmi Efendi]]
+|-
+| [[Hasan Fehmi Paşa|Hasan Fehmi Efendi]]
+|-
+| Hacı Ahmed Efendi
+|-
+| Astarcılar Kahyası Hacı Ahmed Efendi
+|-
+| Sebuh Maksutyan Efendi || rowspan=5 | [[Gayrimüslim]]
+|-
+| [[Hovhannes Allahverdi|Hüdaverdizade Ohannes Efendi]]
+|-
+| Nikolaki Sulidi Efendi
+|-
+| Vasilaki Seragiyoti Bey
+|-
+| Sarraf Avram Aciman Efendi 
+|-
+| rowspan=3 | [[Diyarbekir Vilayeti|Diyarbekir]] <br> {{Küçük|[[Mardin]], [[Siirt]], [[Malatya]]}} || Hoca Mehmed Mesud Efendi || rowspan=2 | [[Müslüman]]
+|-
+| [[Hacı Hafız Mahmut Vecdi Efendi]]
+|-
+| Osep Kazazyan Efendi || rowspan=1 | [[Gayrimüslim]]
+|-
+| rowspan=8 | [[Edirne Vilayeti|Edirne]] <br> {{Küçük|[[Tekirdağ]], [[Gelibolu]], [[Filibe]], [[Sliven|İslimiye]]}} || Şerif Bey || rowspan=4 | [[Müslüman]]
+|-
+| Rıfat Efendi
+|-
+| [[Rasim Bey (Meclis-i Mebûsan üyesi)|Rasim Bey]]
+|-
+| Hasanağazade Hüsnü Bey
+|-
+| Rupen Efendi || rowspan=4 | [[Gayrimüslim]]
+|-
+| Yorgaki Efendi
+|-
+| Yorgiyo Atinadoros Efendi
+|-
+| Ceritoğlu Panayotaki Efendi 
+|-
+| rowspan=4 | [[Erzurum Vilayeti|Erzurum]] <br> {{Küçük|[[Çıldır]], [[Kars]], [[Doğubayazıt|Beyazıd]], [[Erzincan]]}} || Şeref Beyoğlu Ahmed Muhtar Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Hacı Rauf Bey
+|-
+| Hallaçyan Efendi || rowspan=2 | [[Gayrimüslim]]
+|-
+| Taniyel Karaciyan Efendi
+|-
+| rowspan=1 | [[Girit Vilayeti|Girit]] <br> {{Küçük|[[Hanya]], [[Resmo]], [[Kandiye]], [[İsfakiye]], [[Laşid]]}} || Halil Rami Efendi || [[Müslüman]]
+|-
+| rowspan=4 | [[Halep Vilayeti|Halep]] <br> {{Küçük|[[Kahramanmaraş|Maraş]], [[Şanlıurfa|Urfa]], [[Deyrizor|Zor]]}} || Müderris Said Efendi || rowspan=3 | [[Müslüman]]
+|-
+| [[Abdülnafi Paşa|Müftüzade Abdünnafi Efendi]]
+|-
+| [[Hüseyin Hüsnü Efendi (1844 doğumlu)|Hüseyin Hüsnü Efendi]]
+|-
+| [[Karaca Manok Efendi]] || [[Gayrimüslim]]
+|-
+| rowspan=2 | [[Hicaz Vilayeti|Hicaz]] <br> {{Küçük|[[Mekke|Mekke-i Mükerreme]], [[Medine|Medine-i Münevvere]]}} || Seyyid Ahmed Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Seyyid Abdullah Efendi
+|-
+| rowspan=4 | [[Hüdâvendigâr Vilayeti|Hüdavendigâr (Bursa)]] <br> {{Küçük|[[Balıkesir|Karesi]], [[Afyonkarahisar|Afyon]], [[Kütahya]]}} || [[Şeyh Bahaddin Efendi]] || rowspan=2 | [[Müslüman]] 
+|-
+| Rıza Efendi
+|-
+| Pavlidi Efendi || rowspan=2 | [[Gayrimüslim]]
+|-
+| Sahak Yavrumyan Efendi
+|-
+| rowspan=4 | [[İşkodra Vilayeti|İşkodra]] || Toydanzade Sami Bey || rowspan=2 | [[Müslüman]] 
+|-
+| [[Yusuf Ziyaeddin Efendi]]
+|-
+| Angeli Efendi || rowspan=2 | [[Gayrimüslim]]
+|-
+| Filip Efendi
+|-
+| rowspan=2 | [[Kastamonu Vilayeti|Kastamonu]] <br> {{Küçük|[[Bolu]], [[Sinop]], [[Çankırı|Kangiri]]}} || Hacı Mustafa Bey || rowspan=2 | [[Müslüman]]
+|-
+| Salim Efendi
+|-
+| rowspan=3 | [[Konya Vilayeti|Konya]] <br><small>[[Aksaray (il)|Aksaray]],</small> {{Küçük|[[Teke Sancağı|Teke]], [[Hamid]], [[Niğde]], [[Burdur]]}} || Çelebi Hüseyin Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Hacı Fasih Efendi
+|-
+| Değirmencioğlu Simonaki Efendi || [[Gayrimüslim]]
+|-
+| rowspan=5 | [[Kosova Vilayeti|Kosova ve Sofya]] <br> {{Küçük|[[Üsküp]], [[Debre]], [[Yenipazar]], [[Niş]], [[Pirot|Şehirköy]]}} || Şehsüvar Bey || rowspan=3 | [[Müslüman]]
+|-
+| Süleyman Bey
+|-
+| Feyzi Efendi
+|-
+| Zahari Efendi || rowspan=2 | [[Gayrimüslim]]
+|-
+| Peşo (Petko) Efendi
+|-
+| [[Ma'mûretü'l-Azîz Vilayeti|Mamuret-ül-Aziz]] <br> {{Küçük|[[Ergani]]}} || colspan=2 | <center> ''Seçilen olmadı{{efn|1864 Vilâyet Nizamnâmesi ile sancak halinde teşkilâtlandırılan ve Diyarbekir Vilâyeti’ne tâbi olan Mamuratülaziz Sancağı; 1867’de Mamuratülaziz Merkez, Arapgir, Ergani Madeni, Malatya, Hısnımansûr (Adıyaman) ve Palu Kazalarından oluşuyordu. 1871’de yönetiminde çıkan bazı aksaklıklar sebebiyle Mamuratülaziz, Diyarbekir Vilâyeti’nden ayrılarak müstakil bir sancak haline getirildi. 1877 yılında ise vilayet olan Mamuratülaziz’e,1892’de Malatya ve Dersim’de katıldı. Birinci Meşrutiyetin ilanı sonrası, 1876 yılının sonaylarında başlayan Birinci Dönem  Meclis-i Mebusan’ın seçimleri sırasında Mamuratülaziz,seçim bölgesi Diyarbekir Vilayetine bağlı olarak Mamuretülaziz ve Ergani Madeni seçim bölgesi olarak, İkinci Dönem seçimlerinde ise Mamuratülaziz Vilayeti seçim bölgesi olarak kayıtlara geçti.<ref>{{dergi kaynağı|soyadı1=Yedek|ad1=Şahin|editör-soyadı=Çılğın|editör-ad=Zeynel|yıl=2017|başlık=Meclis-i Mebusan’da Mamuretülaziz (Elazığ) Mebusları ve Faaliyetleri (1877-1920)|dergi=Sosyal Bilimler Dergisi|cilt=5|sayı=10|sayfalar=5-18|yayıncı=Munzur Üniversitesi|doi=|url=https://www.academia.edu/35718895/MECL%C4%B0S_%C4%B0_MEBUSAN_DA_MAMURET%C3%9CLAZ%C4%B0Z_ELAZI%C4%9E_MEBUSLARI_ve_FAAL%C4%B0YETLER%C4%B0_1877_1920_?email_work_card=view-paper|erişimtarihi=25 Kasım 2020|arşivurl=https://web.archive.org/web/20210602220937/https://www.academia.edu/35718895/MECL%C4%B0S_%C4%B0_MEBUSAN_DA_MAMURET%C3%9CLAZ%C4%B0Z_ELAZI%C4%9E_MEBUSLARI_ve_FAAL%C4%B0YETLER%C4%B0_1877_1920_?email_work_card=view-paper|arşivtarihi=2 Haziran 2021|ölüurl=hayır}}</ref>}}''
+|-
+| rowspan=11 | [[Selanik Vilayeti|Selanik]] <br> {{Küçük|[[Serez]], [[Drama|Dırama]], [[Manastır]]}} || [[Mehmed Tâhir Paşa (ferîk)|Mehmed Tâhir Paşa]] || rowspan=5 | [[Müslüman]]
+|-
+| İbrahim Namık Bey
+|-
+| İsmail Rasih Bey
+|-
+| Hacı Süleyman Efendi
+|-
+| Rıfat Bey
+|-
+| Mihalaki Bey || rowspan=6 | [[Gayrimüslim]]
+|-
+| Yorgi Efendi
+|-
+| Dimitri Efendi
+|-
+| [[İstefan Tadi Efendi]]
+|-
+| Avram Efendi 
+|-
+| Vasilaki Papazoğlu
+|-
+| rowspan=3 | [[Sivas Vilayeti|Sivas]] <br> {{Küçük|[[Amasya]], [[Şebinkarahisar|Şarkikarahisar]]}} || Mehmed Ali Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Hacı Ahmed Bey
+|-
+| [[Agop Şahinyan Paşa|Agop Şahinyan Efendi]] || rowspan=1 | [[Gayrimüslim]]
+|-
+| rowspan=5 | [[Suriye Vilayeti|Suriye]] <br> {{Küçük|[[Beyrut]], [[Şam]], [[Hama]], [[Trablusşam]], [[Havran]], [[Belka]]}} || Hüseyin Efendi || rowspan=3 | [[Müslüman]]
+|-
+| Halid Efendi
+|-
+| [[Yusuf Ziya el-Halidî]]
+|-
+| [[Nikola Nakkaş Efendi]] || rowspan=2 | [[Gayrimüslim]]
+|-
+| Nikolaki Nevfel Bey
+|-
+| rowspan=2 | [[Trablusgarp Vilayeti|Trablus-i Garbî]] <br> {{Küçük|[[Cebel-i Garbî]], [[Fizan]], [[Bingazi]], [[Humus, Suriye|Humus]]}} || Müderris Mustafa Hamdani Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Süleyman Kapudan Efendi
+|-
+| rowspan=3 | [[Trabzon Vilayeti|Trabzon]] <br> {{Küçük|[[Batum]], [[Gümüşhane]]}} || [[Emin Hilmi Efendi]]<ref>{{Web kaynağı|başlık=Emin Hilmi|url=https://www.biyografya.com/tr/biographies/emin-hilmi-25966235|çalışma=www.biyografya.com|erişimtarihi=2 Şubat 2026|dil=Türkçe}}</ref>|| rowspan="2" | [[Müslüman]]
+|-
+| [[Ali Galip Eyüboğlu|Ali Galip Efendi]]
+|-
+| [[Yorgaki Karvonidi Efendi]]|| rowspan="1" | [[Gayrimüslim]]
+|-
+| rowspan=6 | [[Tuna Vilayeti|Tuna]] <br> {{Küçük|[[Rusçuk]], [[Varna]], [[Vidin]], [[Tulça|Tulca]], [[Tırnovo|Tırnova]]}} || Ali Paşa || rowspan=3 | [[Müslüman]]
+|-
+| Plevneli Nuri Bey
+|-
+| İzladizade Şakir Bey
+|-
+| Tolçili Dimitraki Bey || rowspan=3 | [[Gayrimüslim]]
+|-
+| Tolçili İstefaniki Efendi
+|-
+| Rusçuklu Petraki Efendi
+|-
+| [[Van Vilayeti|Van]] <br> {{Küçük|[[Muş]]}} || colspan=2 | <center>''Seçilen olmadı''
+|-
+| rowspan=6 | [[Yanya Vilayeti|Yanya]] <br> {{Küçük|[[Tırhala]], [[Ergiri (il)|Ergiri]], [[Preveze]], [[Berat]]}} || [[Avlonyalı Mustafa Nuri Paşa|Mustafa Bey]] || rowspan=3 | [[Müslüman]]
+|-
+| [[Lebhovalı Ali Naki Bey|Ali Naki Bey]]
+|-
+| [[Veysel Dino|Veysel Bey Dino]]
+|-
+| Nikolaki Çanaka Efendi || rowspan=3 | [[Gayrimüslim]]
+|-
+| Algivyadi Lambi Efendi
+|-
+| Argiri Kantarcı Efendi
+|-
+| rowspan=2 | [[Yemen Vilayeti|Yemen]] <br> {{Küçük|[[San'a]], [[El-Hudeyde|Hudeyde]], [[Asir Bölgesi|Asir]], [[Taiz]]}} || Şeyh Ali Efendi || rowspan=2 | [[Müslüman]]
+|-
+| Seyyid Mehmed Efendi
+|-
+|}
+
+== Notlar ==
+{{not listesi}}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+{{Osmanlı devlet teşkilatı}}
+
+[[Kategori:Meclis-i Mebusan 1. dönem mebusları|*]]
+[[Kategori:Meclis-i Mebusan milletvekili listeleri|1]]

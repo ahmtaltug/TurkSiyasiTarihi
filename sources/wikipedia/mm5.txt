@@ -1,0 +1,1445 @@
+'''1914-1918 Osmanlı Meclis-i Mebusanı''', [[Bâb-ı Âli Baskını]] sonrası 1914'te tek parti düzeninde seçime gidildi ve V. [[Meclis-i Mebûsan]] 87 sandalyenin tamamını [[İttihat ve Terakki]] kazandı. Bu Meclis [[I. Dünya Savaşı]] boyunca görev yaptı.<ref name=":0">{{Web kaynağı | url = http://www.tbmm.gov.tr/tutanaklar/TUTANAK/MECMEB/mmbd03ic01c001/mmbd03ic01c001ink001.pdf | başlık = Meclisi Mebusan Zabıt Ceridesi | yayıncı = tbmm | erişimtarihi = 18 Nisan 2013 | arşivurl = https://web.archive.org/web/20120531113853/http://www.tbmm.gov.tr/tutanaklar/TUTANAK/MECMEB/mmbd03ic01c001/mmbd03ic01c001ink001.pdf | arşivtarihi = 31 Mayıs 2012 | ölüurl =evet}}</ref>
+
+14 Mayıs 1914'te çalışmalarına başlayan meclis, beş yasama yılı faaliyette bulunarak Meşrutiyet'in en uzun süre görev yapan parlamentosu oldu. Zira dört yıllık yasama süresinin sona ermesine rağmen I. Dünya Savaşı'nın hala sonuçlanmamış olması yasama yılının uzatılma nedeniydi. Meclis bu uzun süre boyunca oldukça yoğun çalıştı. Meclis son yasama yılı hariç dört aylık çalışma süresini tamamlamakla kalmadı, çoğu yasama yıllarında faaliyetlerini birden fazla kez uzattı. I. Dünya Savaşı'nın yanında özellikle muvakkat kanunlar ve bütçe kanunları çalışma yoğunluğunu arttıran en temel nedenlerdi.{{Kdş|Yazıcı|2018|s=370}}
+
+== Mebusların partilere göre dağılımı ==
+{| class="wikitable sortable" style="font-size:90%;"
+|+
+!Parti
+!Sandalye
+!Orantı
+|-
+|İttihat ve Terakki
+|93
+|33,77
+|-
+|Hürriyet ve İtilaf
+|24
+|8,60
+|-
+|Taşnak
+|5
+|1,98
+|-
+|Bağımsız
+|149
+|54,20
+|-
+|Bilinmeyen
+| -
+|0,66
+|}
+
+== Mebus listesi ==
+{| class="wikitable sortable" style="font-size:90%;"
+!Seçim Bölgesi
+!Mebus
+! colspan="2" |Siyasi Mensubiyeti
+!Etnik Mensubiyeti
+!{{küçük|Osmanlı dağıldıktan sonra<br />aldığı görev}}
+|-
+|[[Gelibolu]]
+|Dimitriaki Fito Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Rum
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Tekirdağ|Tekfurdağı]]
+|Timestokli Efkalidis Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|Rum
+|-
+|Harun Hilmi Efendi
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Edirne]]
+|[[Faik Kaltakkıran|Faik Bey]]
+| rowspan="3" style="background:#D50000" |
+| rowspan="3" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Türk
+|[[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3., 4., 5. ve 6. dönem Edirne milletvekili
+|-
+|[[Talat Paşa]]
+|-
+|Hacı İbrahim Bey
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Kırklareli|Kırkkilise]]
+|Hoca Fehmi Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Türk
+|-
+|Rıza Bey
+|-
+! colspan="6" |
+|-
+|[[Çatalca]]
+|Tokidis Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Rum
+|-
+! colspan="6" |
+|-
+| rowspan="15" |[[İstanbul]]
+|[[Ahmet Nesimi Sayman|Ahmed Nesimi Bey]]
+| rowspan="9" style="background:#D50000" |
+| rowspan="9" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="8" |Türk
+|-
+|[[İsmet Bey (İstanbul belediye başkanı)|İsmet Bey]]{{efn|name=not1|1914'e İstanbul şehreminliği'ne atanması sebebiyle istifa eden İsmet Bey, Kirkor Zöhrap Efendi'nin ölümü ile 1916'da yeniden İstanbul Mebusu olarak seçilmiştir.{{Kdş|Yazıcı|2018|s=34}}}}
+|-
+|Sahib Mollazade Osman Bey
+|-
+|[[Emanuel Karasu|Emanuel Karasu Efendi]]
+|-
+|[[Fethi Okyar|Ali Fethi (Okyar) Bey]]{{efn|name=not2|1917'den itibaren Kostantin Savaopulos Efendi yerine mebus oldu.{{Kdş|Yazıcı|2018|s=38}}}}
+|[[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3., 5., 6. ve 7. dönem milletvekili ve [[Türkiye başbakanı]]
+|-
+|[[Hüseyin Cahit Yalçın|Hüseyin Cahid (Yalçın) Bey]]
+|[[Türkiye Büyük Millet Meclisi|TBMM]] 5., 6., 7., 8. ve 9. dönem milletvekili
+|-
+|[[Yağcı Şefik Bey]]
+|-
+|[[Salâh Cimcoz|Salah Cimcoz]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 4., 5., 6. ve 7. Dönem İstanbul milletvekili
+|-
+|[[Bedros Hallaçyan]]
+| rowspan="2" |Ermeni
+|-
+|[[Kirkor Zohrab|Kirkor Zöhrap Efendi]]{{efn|name=died2|Temmuz 1915'te Urfa-Diyarbakır yolu üzerinde eşkıya Çerkes Ahmed tarafından öldürüldü.}}
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+|-
+|[[Orfanidis Efendi]]
+| rowspan="5" style="background:#a9a9a9" |
+| rowspan="5" |Bağımsız
+| rowspan="3" |Rum
+|-
+|Haralambidis Efendi
+|-
+|Kostantin Savaopulos Efendi{{efn|name=died1|Dönem içinde öldü{{Kdş|Yazıcı|2018|s=38}}}}
+|-
+|Viktor Bey Çorbacıoğlu
+|Yahudi
+|-
+|Hayrullah Mübeydi Efendi
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[İzmit]]
+|Hafız Rüştü Bey
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="2" |Türk
+|-
+|Ziya Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|[[Anastas Mihailidis]]
+|Rum
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[Bursa]]
+|[[Refet Canıtez|Hasan Refet (Canıtez) Bey]]
+| rowspan="3" style="background:#D50000" |
+| rowspan="3" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="5" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4., 5., 6.ve 7. dönem Bursa milletvekili
+|-
+|[[Rıza Hamit Bey|Rıza Bey]]
+|-
+|[[Hacı Adil Arda|Hacı Adil (Arda) Efendi]]
+|-
+|[[Hafız Ahmet Hamdi Efendi]]
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+|-
+|Ahmed Fevzi Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+| rowspan="3" |Ertuğrul ([[Bilecik]])
+|[[Şemsettin Günaltay|Şemseddin (Günaltay) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Türk
+|[[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4., 5., 6., 7. ve 9. dönem milletvekili ve [[Türkiye başbakanı]]
+|-
+|[[Mehmet Sadık Bey]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|Enver Bey
+|-
+! colspan="6" |
+|-
+|[[Biga]]
+|Kazım Bey
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+|-
+! colspan="6" |
+|-
+|Kale-i Sultaniye ([[Çanakkale]])
+|[[Cavid Bey|Mehmed Cavid Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="2" |Menteşe ([[Muğla]])
+|[[Halil Menteşe|Halil (Menteşe) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 4., 5., 6. ve 7. dönem İzmir milletvekili
+|-
+|[[Mansurîzade Said Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Denizli]]
+|[[Sadık Bey (Selahattin Pınar'ın babası)|Sadık Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+| rowspan="2" |Türk
+|-
+|Tevfik Rüştü Bey
+|
+|Bilinmiyor
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Aydın]]
+|[[Yunus Nadi Abalıoğlu|Yunus Nadi (Abalıoğlu) Bey]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3., 4., 5. ve 6. dönem milletvekili
+|-
+|[[Emmanuil Emmanuilidis|Emanuel Emanuelidi Efendi]]
+|Rum
+| [[Yunan Parlamentosu]] üyesi ve [[Yunanistan]] Sağlık bakanı
+|-
+|[[Veli Saltıkgil|Veli (Saltıkçı) Bey Efendi]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Burdur milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="7" |[[İzmir]]
+|[[Nesim Mazliyah]]
+| rowspan="4" style="background:#D50000" |
+| rowspan="4" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Yahudi
+|-
+|[[Seyyid Bey|Mehmed Seyyid Bey]]{{efn|name=ayan|Meclis-i Ayan'a üye seçildi{{Kdş|Yazıcı|2018|s=33}}}}
+| rowspan="3" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem İzmir milletvekili ve [[Türkiye adalet bakanları listesi|Türkiye Adalet Bakanı]]
+|-
+|[[Rahmi Köken|Mustafa Rahmi (Köken) Bey]]{{efn|name=not3|Meclis-i Ayan'a üye seçilen Seyyid Bey yerine mebus oldu.{{Kdş|Yazıcı|2018|s=38}}}}
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4., 5., 6., 7. ve 8. dönem İzmir milletvekili ve [[Türkiye]]'de çeşitli bakanlıklar
+|-
+|[[Mehmet Ubeydullah Hatipoğlu|Übeydullah (Hatipoğlu) Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 4. ve 5. dönem Doğubayazıt milletvekili
+|-
+|Siminoğlu Simonaki Efendi
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="2" |Rum
+|-
+|Vangil Mimaroğlu Efendi
+|-
+|[[Onnik İhsan|Onnik İhsan Efendi]]
+|Ermeni
+|-
+! colspan="6" |
+|-
+| rowspan="4" |Saruhan ([[Manisa]])
+|[[Haydar Bey]]
+| rowspan="3" style="background:#D50000" |
+| rowspan="3" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Kütahya milletvekili
+|-
+|[[Mustafa Fevzi Sarhan|Mustafa Fevzi Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3.ve 4. dönem Manisa milletvekili
+|-
+|[[Mehmet Sabri Toprak|Mehmed Sabri Toprak Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4. ve 5. dönem Manisa milletvekili
+|-
+|Mustafa İbrahim Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+| rowspan="6" |Karesi ([[Balıkesir]])
+|Hasan Ferhad Bey
+| rowspan="4" style="background:#D50000" |
+| rowspan="4" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="5" |Türk
+|-
+|[[Mehmet Vehbi Bolak|Mehmed Vehbi (Bolak) Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. ve 2. dönem milletvekili ve [[Türkiye millî eğitim bakanları listesi|TBMM Maarif Vekili]]
+|-
+|Hüseyin Kadri Bey
+|-
+|[[Haşim Sanver|Hüseyin Haşim Bey]]
+|-
+|[[Ali Galip Efendi]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|[[Konstantin Savapulos|Konstantin Savapulos Efendi]]
+|Rum
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Kütahya]]
+|[[Abdullah Azmi Torun|Abdullah Azmi Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. ve 2. dönem Eskişehir milletvekili
+|-
+|Sadık Bey
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|[[İbrahim Kazım Tahtakılıç|İbrahim Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 3., 4. ve 5. Dönem Kütahya Milletvekili
+|-
+|Hacı Hafız Abdullah Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="4" |Karahisarı Sahib ([[Afyonkarahisar|Afyon]])
+|[[Ahmet Ağaoğlu (siyasetçi)|Ahmet Ağaoğlu Bey]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. ve 3. Dönem Kars Milletvekili 
+|-
+|Rıza Paşa
+|-
+|[[Kâmil Miras|Hoca Kamil Efendi]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|Salim Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Isparta]]
+|[[Mahmud Esad Efendi]]{{efn|name=not20|Mehmed Şevki Bey'in yerine seçilmiştir.{{Kdş|Yazıcı|2018|s=33}}}}{{efn|name=died1}}
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+|-
+|[[Ispartalı Hakkı Bey|Mustafa Hakkı Bey]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|[[Cudi Efendi]]{{efn|name=not21|Vefat eden Mahmud Esad Efendinin yerine seçilmiştir.<ref>Türkiye Büyük Millet Meclîsi Vakfı Yayınları No : 15 Türk Parlamento Tarihi Meşrutiyete Geçiş Süreci I. ve II. Meşrutiyet II. Cilt Ayan Ve Mebûsân Meclisleri Üyelerinin Özgeçmişleri Prof. Dr. İhsan Güneş Türk Parlamento Tarihi Araştırma Grubu sayfa 60</ref>}}
+|-
+|Mehmed Şevki Bey{{efn|name=died1}}
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Burdur]]
+|[[Atıf Bayındır|Mustafa Atıf (Bayındır)]]{{efn|name=not4|1 Aralık 1914'te Umur-u Mahalliyye-i Vilâyat Müdüriyeti'ne (Mahalli İdareler Müdürlüğü) atanması sebebiyle istifa etmiştir.{{Kdş|Yazıcı|2018|s=33}}}}
+| rowspan="3" style="background:#D50000" |
+| rowspan="3" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 5., 6. ve 7. dönem İstanbul milletvekili
+|-
+|[[Seyyid Haşim Bey]]{{efn|name=not5|İstifa eden Atıf Bey yerine seçildi.{{Kdş|Yazıcı|2018|s=38}}}}
+|-
+|[[Mithat Şükrü Bleda|Midhat Şükrü Bleda Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 5., 6., 7. ve 8. dönem Sivas milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Antalya]]
+|[[Fuat Hulusi Demirelli|Fuad Hulusi (Demirelli) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 8.ve 9. dönem İstanbul milletvekili
+|-
+|[[Hamdullah Emin Paşa]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+| rowspan="7" |[[Kastamonu]]
+|[[Necmettin Molla Kocataş|Necmeddin Molla (Kocataş)]]
+| rowspan="4" style="background:#D50000" |
+| rowspan="4" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="7" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Kastamonu milletvekili
+|-
+|[[Ahmet Mahir Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Kastamonu milletvekili
+|-
+|[[İsmail Mahir Efendi]]
+|-
+|[[Ahmet Şükrü Bayındır|Ahmed Şükrü Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Kocaeli milletvekili
+|-
+|Sahibmollazade İsmail Bey
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|İzzet Molla Efendi{{efn|name=died1}}
+|-
+|[[Ahmet Rüştü Çolakoğlu|Rüşdü Bey]]{{efn|name=not6|Vefat eden İzzet Molla Efendi yerine mebus oldu{{Kdş|Yazıcı|2018|s=38}}}}
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Kastamonu milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Bolu]]
+|[[Yusuf Ziya Özenci|Yusuf Ziya (Özenci) Efendi]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 6. ve 7. dönem Zonguldak milletvekili
+|-
+|[[Rıfat Kamil Madenci|Rıfat Kamil (Madenci) Bey]]
+|-
+|Necati Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|Mustafa Zeki Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Çankırı]]
+|Mehmed Sabri
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+|-
+|[[Behçet Kutlu|Mehmed Behçet Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Çankırı milletvekili
+|-
+|Mustafa Nedim Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|[[Mehmet Fazıl Tümtürk|Fazıl Berki Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 3. dönem Malatya milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Ankara]]
+|[[Atıf Kamçıl|Atıf (Kamçıl) Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 6. ve 7. dönem Çanakkale milletvekili
+|-
+|[[Mustafa Hilmi Çayırlıoğlu|Hilmi Efendi]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1.ve 2. dönem Ankara milletvekili
+|-
+|Hacı Taib Efendi
+|-
+|[[Ömer Mümtaz Tambi|Ömer Mümtaz Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1.ve 2. dönem Ankara milletvekili
+|-
+! colspan="6" |
+|-
+|[[Kozan]]
+|[[Matyos Nalbantyan|Matyos Nalbantyan Efendi]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|Ermeni
+|-
+! colspan="6" |
+|-
+| rowspan="6" |[[Konya]]
+|[[Mustafa Şeref Özkan|Mustafa Şeref (Özkan) Bey]]{{efn|name=not7|1915’te Ticaret ve Ziraat Vekâleti Müsteşarlığı’na atanması sebebiyle istifa etmiştir.{{Kdş|Yazıcı|2018|s=34}}}}
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="6" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4. ve 5. dönem Burdur milletvekili ve [[Ekonomi Bakanlığı (Türkiye)|Türkiye Ekonomi Bakanı]]
+|-
+|Hamdi Bey{{efn|name=not8|İstifa eden Mustafa Şeref Efendi yerine mebus oldu{{Kdş|Yazıcı|2018|s=38}}}}
+|-
+|[[Ali Haydar Aksoy|Ali Haydar Bey]]
+| rowspan="4" style="background:#a9a9a9" |
+| rowspan="4" |Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 4. dönem Konya milletvekili
+|-
+|Ali Rıza Efendi
+|-
+|Şâkir Bey
+|-
+|Müftüzâde Tevfik Bey
+|-
+! colspan="6" |
+|-
+|[[Mersin (il)|İçel]]
+|[[Emin İnankur|Hafız Emin (İnankor) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4., 5., 6. ve 7. dönem İçel milletvekili
+|-
+! colspan="6" |
+|-
+|[[Mersin]]
+|Sadık Paşa
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[Niğde]]
+|[[Ürgüplü Mustafa Hayri Efendi]]
+| rowspan="3" style="background:#D50000" |
+| rowspan="3" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+|-
+|[[Halid Bey]]{{efn|name=ayan}}
+|-
+|[[Ebül'ulâ Mardin|Ebulula Mardin Bey]]{{efn|name=not9|Meclis-i Ayan'a üye seçilen Halid Bey yerine mebus oldu.{{Kdş|Yazıcı|2018|s=38}}}}
+|-
+|Muhiddin Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|Anayas Efendi
+|Rum
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Kayseri]]
+|[[İmamzade Ömer Mümtaz Bey]]
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="2" |Türk
+|-
+|[[Mustafa Şeref Özkan|Mustafa Şeref (Özkan) Bey]]{{efn|name=not10|Kayseri Mebusu [[Karabet Tomayan]]’ın Avrupa’dan dönmediği Meclis Riyaseti’ne sadaret tarafından bildirilmesi üzerine 1915’te Ticaret ve Ziraat Vekâleti Müsteşarlığı’na atanması nedeniyle istifa eden Konya Mebusu Mustafa Şeref Bey 1917’de yapılan ara seçim sonucu Kayseri Mebusu olarak Meclis’e yeniden girdi.{{Kdş|Yazıcı|2018|s=34}}}}
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4. ve 5. dönem Burdur milletvekili ve [[Ekonomi Bakanlığı (Türkiye)|Türkiye Ekonomi Bakanı]]
+|-
+|[[Karabet Tomayan|Karapet Tomayan Efendi]]{{efn|name=not11|Avrupa’dan dönmediği Meclis Riyaseti’ne sadaret tarafından bildirilmesi üzerine üyeliği düşürülmüştür.{{Kdş|Yazıcı|2018|s=34}}}}
+| style="background:#a9a9a9" |
+|Bağımsız
+|Ermeni
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Kırşehir]]
+|[[Ali Rıza Benli (siyasetçi)|Ali Rıza (Benli)]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Kırşehir milletvekili
+|-
+|[[Mahmut Mahir Efendi|Mahmud Mahir Efendi]]
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Yozgat]]
+|Şakir Bey
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+|-
+|[[Kasım Nuri Efendi]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Çorum]]
+|[[Münir Çağıl|Mehmet Münir (Çağıl) Bey]]{{efn|name=not12|Evkaf Nezareti Müsteşarlığı'na atanması nedeniyle istifa etmiştir.{{Kdş|Yazıcı|2018|s=33}}}}
+| rowspan="3" style="background:#D50000" |
+| rowspan="3" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4., 5., 6., 7. ve 8. dönem Çorum milletvekili
+|-
+|Azmi Bey
+|-
+|[[Muhittin Birgen|Ahmed Muhiddin Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 6. dönem Mardin milletvekili
+|-
+|[[İsmet Eker|İsmet (Eker) Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3., 4., 5., 6., 7. ve 8. dönem Çorum milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Sinop]]
+|[[Hasan Fehmi Tümerkan|Hacı Hasan Fehmi Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3. ve 4. dönem Kastamonu milletvekili
+|-
+|[[Ömer Lütfi Yasan|Ömer Lütfi (Yasan) Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Amasya milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="4" |Canik ([[Samsun]])
+|[[Talat Özüdoğru|Amizade Talât Bey]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Samsun milletvekili
+|-
+|Nihad Bey
+|-
+|[[Osmanbey Selmen|Osman Bey]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Amasya milletvekili
+|-
+|[[Arzuoğlu Todoraki Efendi|Todoraki Efendi]]
+|Rum
+| [[Yunanistan]] senatosu üyesin
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Amasya]]
+|[[İsmail Hakkı Mumcu|İsmail Hakkı (Mumcu) Paşa]]{{efn|name=not13|Tokat Sancağı Mutasarrıflığı'na atanmıştır.{{Kdş|Yazıcı|2018|s=33}}}}
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 3., 4., 5.ve 6. dönem Amasya milletvekili
+|-
+|[[Arif Fazıl Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|-
+|[[Asım Sirel|Dr. Asım (Sirel) Bey]]{{efn|name=no14|İstifa eden İsmail Hakkı Bey yerine seçildi.{{Kdş|Yazıcı|2018|s=38}}}}
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 3., 4.ve 5. dönem milletvekili
+|-
+|[[Nafiz Aktın|Nazıf (Aktın) Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2.(Ara seçim), 3., 4., 5., 6.ve 7. Dönem Amasya milletvekili 
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Tokat]]
+|[[Kamil Baştopçu|Hacı Kâmil Efendi]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="3" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Tokat milletvekili
+|-
+|Mustafa Fehmi Bey
+|-
+|Tahsin Rıza Bey
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[Sivas]]
+|[[Rasim Başara|Rasim (Başara) Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="4" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3., 4.ve 5. dönem Sivas milletvekili
+|-
+|[[Emin Edip Efendi]]
+| rowspan="4" style="background:#a9a9a9" |
+| rowspan="4" |Bağımsız
+|-
+|[[Ömer Şevki Purut|Dr. Ömer Şevki Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Sivas milletvekili
+|-
+|[[Rahmi Katoğlu|Büyükhocazade Rahmi Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3. ve 4. Dönem Sivas milletvekili
+|-
+|[[Dikran Barsamyan|Dikran Barsamyan Efendi]]
+|Ermeni
+|-
+! colspan="6" |
+|-
+| rowspan="3" |Maraş ([[Kahramanmaraş]])
+|İsmail Hakkı Bey
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+|-
+|[[Abdülkadir Emirmahmutoğlu|Şevketzâde Abdülkadir Efendi]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3. ve 4. Dönem Kahramanmaraş Milletvekili
+|-
+|[[Agop Hırlakyan|Agop Hiralakyan Efendi]]
+|Ermeni
+|-
+! colspan="6" |
+|-
+|[[Adana]]
+|Subhi Paşa
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+|-
+! colspan="6" |
+|-
+|Cebelibereket ([[Dörtyol]])
+|Hasan Sezai Bey
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="3" |Antep ([[Gaziantep]])
+|Hacı Mustafa Efendi
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="3" |Türk
+|-
+|Hüseyin Fazıl Bey
+|-
+|[[Ali Cenani|Ali Cenani Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1.,2. ve 3. dönem Gaziantep Milletvekili ve [[Türkiye sanayi ve teknoloji bakanları listesi|Türkiye Ticaret Bakanı]]
+|-
+! colspan="6" |
+|-
+| rowspan="2" |Urfa ([[Şanlıurfa]])
+|[[Saffet Yetkin|Şeyh Saffet (Yetkin) Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. dönem Şanlıurfa milletvekili
+|-
+|Ömer Edip Bey
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Mardin]]
+|[[İhsan Sağlam|İhsan Bey]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. ve 2. dönem milletvekili
+|-
+|Mustafa Efendi
+|-
+|Sırrızâde Ali Rıza
+|Kürt
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Diyarbakır]]
+|[[Zülfü Tigrel|Mehmed Zülfi (Tigrel) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 4., 5. ve 6. dönem Diyarbakır milletvekili
+|-
+|[[Pirinççizade Feyzi Bey|Pirinççizade Fevzi Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|Kürt
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. ve 2. dönem Diyarbakır milletvekili ve [[Türkiye]]'de çeşitli bakanlıklar
+|-
+! colspan="6" |
+|-
+|[[Siverek]]
+|İbrahim Vehbi Bey
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Ergani]]
+|[[Reşit Paşa|Mehmed Reşit Paşa]]{{efn|name=not15|İstepan Çıracıyan yerine mebus oldu.{{Kdş|Yazıcı|2018|s=38}}}}
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Kozan milletvekili
+|-
+|Kâmil Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|[[İstepan Çıracıyan|İstefan Çıracıyan Efendi]]{{efn|name=not14|1915 yılında Çalıkhan köyü yakınlarında Rezvani Geçidi'nde öldürüldü.}}
+|Ermeni
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Malatya]]
+|Keşşaf Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Türk
+|-
+|Hâşim Bey
+|-
+! colspan="6" |
+|-
+| rowspan="3" |Mamuret-ül Aziz ([[Elazığ]])
+|Hacı Mehmed Said Efendi
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="3" |Türk
+|-
+|[[Mehmed Nuri Efendi (1854 doğumlu)|Mehmed Nuri Efendi]]
+|-
+|[[Mustafa Solmaz|Esperzade Mustafa Saffet Efendi]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. ve 3. dönem Elazığ milletvekili
+|-
+! colspan="6" |
+|-
+|Dersim ([[Tunceli]])
+|[[Hacı Mehmed Nuri Efendi]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+|-
+! colspan="6" |
+|-
+|[[Erzincan]]
+|[[Halet Sağıroğlu|Halet (Sağıroğlu) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2. ve 7. dönem milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Şebinkarahisar|Karahisar-ı Şarkı]]
+|[[Muammer Raşit Seviğ|Ali Muammer Raşit (Seviğ)]]{{efn|name=not19|1915’te Ticaret ve Ziraat Nezaret MüsteŞarlığı’na atanması sebebiyle istifa etmiştir.{{Kdş|Yazıcı|2018|s=34}}}}
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="2" |Türk
+|-
+|Zihni Efendi
+|-
+|Kuvanoğlu Yanko Efendi
+|Rum
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Gümüşhane]]
+|[[Hasan Fehmi Ataç|Hasan Fehmi (Ataç) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3., 4., 5., 6., 7. ve 8. dönem Gümüşhane milletvekili ve [[Türkiye]]'de çeşitli bakanlıklar
+|-
+|[[Veysel Rıza Zarbun|Veysel Rıza Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. ve 2. dönem Gümüşhane milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="7" |[[Trabzon]]
+|[[Ali Osman Güley|Ali Osman (Güley) Bey]]
+| rowspan="4" style="background:#D50000" |
+| rowspan="4" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Türk
+|-
+|[[Hafız Mehmed Bey|Hafız Mehmet Bey]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1. dönem Trabzon milletvekili
+|-
+|Servet Bey
+|-
+|[[Yorgo Yuvanidis|Yorgi Efendi]]
+| rowspan="2" |Rum
+|-
+|[[Matyo Kofidi|Matheos Kofidis Efendi]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|Naci Bey
+| rowspan="2" |Türk
+|-
+|Mahmud Bey
+|-
+! colspan="6" |
+|-
+| rowspan="2" |Lazistan ([[Rize]])
+|[[Yusuf Ziya Kantoğlu|Ziya Molla Bey]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+|-
+|[[Süleyman Sudi Kartal|Süleyman Sudi Bey]]
+|-
+! colspan="6" |
+|-
+| rowspan="6" |[[Erzurum]]
+|[[Ohannes Vartkes Efendi|Vartkes (Serengülyan) Efendi]]{{efn|name=died2|Temmuz 1915'te Urfa-Diyarbakır yolu üzerinde eşkıya Çerkes Ahmed tarafından öldürüldü.}}
+| style="background:#FFD700" |
+|[[Ermeni Devrimci Federasyonu]]
+|Ermeni
+|-
+|[[Seyfullah Topdağı|Seyfullah Efendi]]
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="3" |Türk
+|-
+|[[Raif Dinç|Raif (Dinç) Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., V., VI., VII. ve VIII. Dönem Milletvekili
+|-
+|[[Hüseyin Tosun|Hüseyin Tosun Bey]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|[[Mededyan Osep Efendi|Osip Mededyan Efendi]]
+|Ermeni
+|-
+|[[Hafız Ziya Efendi|Hafız Ahmet Ziya Bey]]
+|Kürt
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Bingöl]] (Genç)
+| [[Mehmed Emin Bey]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Türk
+|-
+|Mehmet Ali Bey
+|-
+! colspan="6" |
+|-
+|Bayazıt
+|[[Şefik Baydar|Mehmet Şefik Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] II. ve III. Dönem Bayazıt milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Muş]]
+|[[Kegam Dergarabedyan|Kegam Dergarabedyan Efendi]]
+| style="background:#FFD700" |
+|[[Ermeni Devrimci Federasyonu]]
+|Ermeni
+|-
+|[[İlyas Sami Muş|Hacı İlyas Semi Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 1., 2., 3.ve 5. dönem milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Bitlis]]
+|[[Minas Çeraz|Minas Çeraz Efendi]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|Ermeni
+|-
+|Hasan Lami Efendi
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Van]]
+|[[Onnik Tertsakyan|Vramyan Efendi]]{{efn|name=not16|Diyarbakır Valisi Dr. Reşid, [[Van İsyanı (1915)|Van İsyanındaki]] rolü dolayısıyla yakalanarak [[Diyarbakır]]’a gönderilen, ancak yolda firara kalkışan Mebus Vramyan’ın jandarmalar tarafından [[Beşiri]]’de öldürüldüğü”nü bildiren 4 Mayıs 1915 tarihli telgrafı ile [[Talat Paşa]]’yı bilgilendirmiştir.<ref>4 Mayıs 1915 Başbakanlık Osmanlı Arşivi DH. ŞFR. 469/97</ref>}}
+| rowspan="2" style="background:#FFD700" |
+| rowspan="2" |[[Ermeni Devrimci Federasyonu]]
+| rowspan="3" |Ermeni
+|-
+|[[Vahan Papazyan|Vahan Papazyan Efendi]]
+|-
+|[[Asaf Süleyman Doras|Asaf (Doras) Bey]]
+| style="background:#a9a9a9" |
+|Bağımsız
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4. ve 5. dönem milletvekili
+|-
+! colspan="6" |
+|-
+|[[Siirt]]
+|Şeyh Nasreddin Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Kürt
+|-
+! colspan="6" |
+|-
+|[[Deyrizor|Zor]]
+|Mehmet Nuri Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Hakkâri]]
+|Mehmed Hamza Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|Arap ?
+|-
+|[[Münip Boya|Münib Bey]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4., 5., 6. ve 7. Dönem Van Milletvekili
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[Halep]]
+|[[Artin Boşgezenyan|Artin Boşgezenyan Efendi]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Ermeni
+|-
+|[[Ali Münif Yeğenağa|Ali Münif (Yeğenağa) Bey]]
+| rowspan="2" |Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 3., 4., 5., 6., 7.ve 8. dönem milletvekili
+|-
+|[[Türkmenzade Ahmed Efendi]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|Emrizade Beşir Efendi
+| rowspan="2" |Arap
+|-
+|Hamid Bey
+|-
+! colspan="6" |
+|-
+|[[Lazkiye]]
+|Abdülvalid Harun Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Arap
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Hama]]
+|Vasfi Atasî Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Arap
+|-
+|Abdülkadir Hüsnü Geylani Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Havran (bölge)|Havran]]
+|[[Emir Şekib Arslan|Emir Şekib Arslan Bey]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Arap
+|-
+|[[Saadettin Efendi]]
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Cebel-i Lübnan Sancağı|Cebel-i Lübnan]]{{efn|name=not17|Ayrıcalıklı statüsünden dolayı Meclis-i Mebusan'a temsilci göndermeyen Cebel-i Lübnan‟da 1916'da seçimler yapılarak bölgeden üç mebus seçildi.{{Kdş|Yazıcı|2018|s=37}}}}
+|Arslanzade Emir Adil Bey
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="3" |Arap
+|-
+|Şahibzade Emir Haris Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|Ramizade Reşid Bey
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Trablusşam]]
+|Osman Paşa el-Muhammed
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Arap
+|-
+|Saadullah Molla Bey
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Beyrut]]{{efn|name=not18|Nüfus itibarıyla Beyrut Sancağı‟ndan iki mebus seçilmesi yeterli olmasına karşın her etnik unsurun bir temsilci çıkarması merkez tarafından istenince bölgeden bir Sünni, bir Şii ve bir Hristiyan mebus olarak seçildi.{{Kdş|Yazıcı|2018|s=24}}}}
+|[[Kâmil Bey el-Esad|Kâmil el-Esad Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Arap
+|-
+|[[Selim Ali Selam|Selim Ali Selam Bey]]
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|Mişel Sersak Efendi
+|-
+! colspan="6" |
+|-
+|[[Akka]]
+|Abdülfettah el-Saadi Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Arap
+|-
+! colspan="6" |
+|-
+| rowspan="7" |[[Şam]]
+|[[Mehmed Fevzi Paşa]]
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="7" |Arap
+|-
+|Bedii el-Müeyyed Bey
+|-
+|Emir Ali Paşa{{efn|name=İstifa}}
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+|-
+|Sami Paşa Mürdümzade{{efn|name=not22|İstifa eden Emir Ali Paşa yerine seçilmiştir.{{Kdş|Yazıcı|2018|s=33}}}}
+| rowspan="4" style="background:#a9a9a9" |
+| rowspan="4" |Bağımsız
+|-
+|Avni Bey
+|-
+|[[Faris el-Huri|Faris el-Huri Bey]]{{efn|name=İstifa|1916 yılında istifa etti.{{Kdş|Yazıcı|2018|s=38}}}}
+| [[Suriye başbakanı]] ve [[Halk Meclisi (Suriye)|Suriye Halk Konseyi]] Başkanı
+|-
+|Şefik Bey Kuvvetlizade{{efn|name=not23|İstifa eden Faris el-Huri Bey yerine seçilmiştir.{{Kdş|Yazıcı|2018|s=33}}}}
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Nablus]]
+|Emin Abdülhadi Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+| rowspan="2" |Arap
+|-
+|Tevfik Hammad Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Kudüs]]
+|[[Said el-Hüseyni Bey]]
+| rowspan="2" style="background:#0087DC" |
+| rowspan="2" |[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="3" |Arap
+|-
+|Ragıp Naşaşibi Bey
+|-
+|Feyzi el-Alami Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|-
+! colspan="6" |
+|-
+|Kerek
+|Tevfik el-Mecali Efendi
+| style="background:#a9a9a9" |
+|Bağımsız
+|Arap
+|-
+! colspan="6" |
+|-
+|[[Cidde]]
+|[[I. Faysal|Şerif Faysal Efendi]]
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+|Arap
+| [[Suriye]] Kralı (1920) ve [[Irak]] Kralı (1921-1933)
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Asir Bölgesi|Asir]]
+|Seyyid Yusuf Fazıl Bey
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="3" |Arap
+|-
+|Seyyid Abdülvehab Efendi
+|-
+|Ali Haydar Bey
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[Taiz]]
+|Ali Osman Efendi
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+|-
+|Tahir Fayzi Bey
+| rowspan="4" style="background:#a9a9a9" |
+| rowspan="4" |Bağımsız
+|-
+|Ebubekir Haddad Efendi
+| rowspan="3" |Arap
+|-
+|Seyyid Ahmed Paşa
+|-
+|İsmail Gurbani Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[San'a]]
+|Seyyid Hüseyin Abdülkadir Bey
+| rowspan="5" style="background:#a9a9a9" |
+| rowspan="5" |Bağımsız
+| rowspan="5" |Arap
+|-
+|Seyid Ahmed Habani Bey
+|-
+|Kadı Mehmet Makhafi Efendi
+|-
+|Seyyid Ali İbrahim Efendi
+|-
+|Seyyid Ahmed Yahya el-Keysi Efendi
+|-
+! colspan="6" |
+|-
+| rowspan="6" |[[El-Hudeyde]]
+|Hasan Rıza Paşa
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="5" |Türk
+|-
+|Mustafa Fehmi Bey
+| rowspan="5" style="background:#a9a9a9" |
+| rowspan="5" |Bağımsız
+|-
+|Hıfzi Bey
+|-
+|Hakkı İlhami Bey
+|-
+|[[Zühdü Efendi]]
+|-
+|Abdurrahman Behkali Efendi
+|Arap
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Mekke]]
+|[[I. Abdullah|Şerif Abdullah Efendi]]
+| rowspan="2" style="background:#0087DC" |
+| rowspan="2" |[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="2" |Arap
+| Transürdün/[[Ürdün]] Kralı (1921-1951)
+|-
+|[[Hasan Şeybi Efendi]]
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Medine]]
+|Memun Berri
+| rowspan="2" style="background:#0087DC" |
+| rowspan="2" |[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="2" |Arap
+|-
+|Seyid Ahmed Safi Efendi
+|-
+!
+!
+!
+!
+!
+|-
+| rowspan="7" |[[Basra]]
+|[[Ahmed Naim Baban|Babanzade Ahmed Naim Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Kürt
+|-
+|Süleyman Fevzi
+| rowspan="6" style="background:#a9a9a9" |
+| rowspan="6" |Bağımsız
+| rowspan="5" |Arap
+|-
+|Abdürrezak Bey
+|-
+|[[Seyyid Talib Bey|Seyyid Talib bin Recep Bey]]
+| [[Irak]] İçişleri Bakanı
+|-
+|Hacı İsa Ruhi Efendi
+|-
+|Abdullah Said Bey
+|-
+|Mehmet Hilmi Bey
+|Türk ?
+|-
+! colspan="6" |
+|-
+| rowspan="3" |Müntefik
+|Ferit Paşazade Abdünmuhsin Bey
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="3" |Arap
+|-
+|Maruf Erhesafi Efendi
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+|[[Mehmed Kureyş Efendi]]
+|-
+! colspan="6" |
+|-
+| rowspan="4" |[[Ed-Divaniye]]
+|Süleymanbeyzâde Halid Bey
+| rowspan="4" style="background:#a9a9a9" |
+| rowspan="4" |Bağımsız
+|Arap
+|-
+|[[Ali Haydar Midhat Bey]]
+| rowspan="3" |Türk
+|-
+|[[Cabecizâde Fuad Bey]]
+|-
+|Dr. Sami Bey
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Kut, Vasıt|El-Kut]]
+|Abdülkerim Bey
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="2" |Arap
+|-
+|[[Abdülmecid Bey]]
+|-
+|Şükrü Efendi
+|Türk ?
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Kerbela]]
+|[[Sami Çölgeçen|Sami (Çölgeçen) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+| rowspan="2" |Türk
+|-
+|Nuri Bey
+| rowspan="2" style="background:#a9a9a9" |
+| rowspan="2" |Bağımsız
+|-
+| [[Abdülmehdî Efendi]]
+|Arap
+|-
+! colspan="6" |
+|-
+| rowspan="7" |[[Bağdat]]
+|[[Ezekiyel Sason|Sasun Hasgayl Efendi]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Yahudi
+| [[Irak Temsilciler Meclisi]] üyesi ve [[Irak]] maliye bakanı
+|-
+|Fuad el-Defteri Bey
+| rowspan="6" style="background:#a9a9a9" |
+| rowspan="6" |Bağımsız
+| rowspan="5" |Arap
+|-
+|Tevfik el-Halidi Bey
+|-
+|[[Rıfat Beyzâde Şevket Paşa|Rıfat Beyzade Şevket Paşa]]
+|-
+|Süleymanzade Murad Bey
+|-
+|[[Cemil Sıdkı ez-Zahavi|Cemil Sıtkı el-Zahavi]]
+| [[Irak Temsilciler Meclisi]] ve senatosu üyesi
+|-
+|Hamdi Bey
+|Türk
+|-
+! colspan="6" |
+|-
+| rowspan="3" |[[Kerkük]]
+| [[Mehmet Ali Bey (1872 doğumlu siyasetçi)|Mehmet Ali Bey]]
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+| rowspan="2" |Türk
+|-
+|Nâzım Bey
+|-
+|Abdullah Safi Efendi
+|Arap
+|-
+! colspan="6" |
+|-
+| rowspan="2" |[[Süleymaniye]]
+|Babanzade Hikmet Bey
+| rowspan="2" style="background:#D50000" |
+| rowspan="2" |[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Kürt
+|-
+|[[Hacı Sait Efendi]]
+|Arap
+|-
+! colspan="6" |
+|-
+| rowspan="5" |[[Musul]]
+|[[Mehmet Emin Yurdakul|Hacı Emin (Yurdakul) Bey]]
+| style="background:#D50000" |
+|[[İttihat ve Terakki|İttihat ve Terakki Fırkası]]
+|Türk
+| [[Türkiye Büyük Millet Meclisi|TBMM]] 2., 3., 4, 5., 6. ve 7. Dönem Milletvekil
+|-
+|[[Davud Yusufani Efendi]]
+| style="background:#0087DC" |
+|[[Hürriyet ve İtilaf Fırkası]]
+| rowspan="4" |Arap
+|-
+|Salih Saadi Bey
+| rowspan="3" style="background:#a9a9a9" |
+| rowspan="3" |Bağımsız
+|-
+|[[Mehmet Ali Fadıl Efendi]]
+|-
+|İbrahim Fevzi Efendi
+|-
+|}
+
+== Notlar ==
+{{not listesi|30em}}
+
+== Kaynakça ==
+;Özel
+{{Kaynakça}}
+
+;Genel
+* {{tez kaynağı |tür= Doktora | url = https://acikerisim.aku.edu.tr/xmlui/bitstream/handle/11630/5055/10194279.pdf?sequence=1&isAllowed=y | başlık = Osmanlı Meclis-i Mebusanı ve Faaliyetleri (1914-1918) | erişimtarihi = 1 Mart 2021 | yayımcı = Afyon Kocatepe Üniversitesi Sosyal Bilimler Enstütüsü Tarih Anabilim Dalı | ad1 = Sibel | soyadı1 = Yazıcı | yıl = 2018 |kaynak= harv | arşiv-url = https://web.archive.org/web/20210516180841/https://acikerisim.aku.edu.tr/xmlui/bitstream/handle/11630/5055/10194279.pdf?sequence=1&isAllowed=y | arşiv-tarihi = 16 Mayıs 2021 | ölüurl = hayır }}
+* {{dergi kaynağı|soyadı1=Yedek|ad1=Şahin|editör-soyadı=Çılğın|editör-ad=Zeynel|yıl=2017|başlık=Meclis-i Mebusan’da Mamuretülaziz (Elazığ) Mebusları ve Faaliyetleri (1877-1920)|dergi=Sosyal Bilimler Dergisi|cilt=5|sayı=10|sayfalar=5-18|yayıncı=Munzur Üniversitesi|url=https://www.academia.edu/35718895/MECL%C4%B0S_%C4%B0_MEBUSAN_DA_MAMURET%C3%9CLAZ%C4%B0Z_ELAZI%C4%9E_MEBUSLARI_ve_FAAL%C4%B0YETLER%C4%B0_1877_1920_?email_work_card=view-paper|erişimtarihi=25 Kasım 2020|kaynak=harv|arşivurl=https://web.archive.org/web/20210602220937/https://www.academia.edu/35718895/MECL%C4%B0S_%C4%B0_MEBUSAN_DA_MAMURET%C3%9CLAZ%C4%B0Z_ELAZI%C4%9E_MEBUSLARI_ve_FAAL%C4%B0YETLER%C4%B0_1877_1920_?email_work_card=view-paper|arşivtarihi=2 Haziran 2021|ölüurl=hayır}}
+
+{{Osmanlı İmparatorluğu Organizasyonu}}
+
+{{Otorite kontrolü}}
+
+[[Kategori:Meclis-i Mebusan 5. dönem mebusları|*]]
+[[Kategori:Meclis-i Mebusan milletvekili listeleri|5]]
+[[Kategori:1914'te Osmanlı İmparatorluğu'nda kurulan oluşumlar]]
