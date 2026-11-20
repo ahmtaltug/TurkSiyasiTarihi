@@ -25,4 +25,4 @@ Her iki değerlendirmenin ortak sonucu şudur: Yeni görsel özelliklerden önce
 - [ ] Haritanın klavyeyle gezilebilmesi. Şimdilik birim tablosu, il arama (`/`) ve klavye kısayolları bu işlevi kısmen karşılıyor.
 
 ## 4. Uzun vadeli kapsam
-Depo adı (`TurkSiyasiTarihi`), seçimlerin ötesinde daha geniş bir siyasi tarih platformuna alan bırakıyor. Hükûmetler, cumhurbaşkanları ve partiler 2.0.0'da eklendi. Kalan olası modüller: vekil biyografileri ve anayasa değişiklikleri. Bu, bakım yükünü belirgin biçimde artıracağından ancak 1. bölüm tamamlandıktan sonra ele alınmalı.
+Site seçimlerin ötesinde siyasi tarihi de kapsıyor: hükûmetler, cumhurbaşkanları ve partiler 2.0.0'da eklendi. Kalan olası modüller: vekil biyografileri ve anayasa değişiklikleri. Bu, bakım yükünü belirgin biçimde artıracağından ancak 1. bölüm tamamlandıktan sonra ele alınmalı.

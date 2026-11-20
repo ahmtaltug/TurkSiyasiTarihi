@@ -1,16 +1,16 @@
 <div align="center">
 
-*[English README](README.en.md) · [English version of the site](https://ahmtaltug.github.io/TurkSiyasiTarihi/?lang=en) · An interactive atlas of every Ottoman and Turkish election since 1877, with period boundaries, district results since 1961 and a political history of parliaments, governments and parties.*
+*[English README](README.en.md) · [English version of the site](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/?lang=en) · An interactive atlas of every Ottoman and Turkish election since 1877, with period boundaries, district results since 1961 and a political history of parliaments, governments and parties.*
 
 # Türkiye Seçim Atlası
 
 **1840'tan bugüne Osmanlı ve Türkiye Cumhuriyeti seçimleri, döneminin sınırlarıyla haritada.**<br>
 Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi olaylarla birlikte.
 
-[**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
+[**Siteyi aç →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/)
 
-[![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.3.1-8d1c1c)
+[![Yayın](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.3.2-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 

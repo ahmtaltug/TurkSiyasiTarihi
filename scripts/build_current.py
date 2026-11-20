@@ -18,7 +18,7 @@ from wikitable import parse_tables  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WIKI = 'https://tr.wikipedia.org/wiki/'
-UA = 'SecimHaritasiBuilder/0.1 (statik site; gunluk guncelleme)'
+UA = 'SecimAtlasiBuilder/0.1 (statik site; gunluk guncelleme)'
 BUYUKSEHIR = {'Adana', 'Ankara', 'Antalya', 'Aydın', 'Balıkesir', 'Bursa', 'Denizli', 'Diyarbakır', 'Erzurum', 'Eskişehir',
               'Gaziantep', 'Hatay', 'İstanbul', 'İzmir', 'Kahramanmaraş', 'Kayseri', 'Kocaeli', 'Konya', 'Malatya', 'Manisa',
               'Mardin', 'Mersin', 'Muğla', 'Ordu', 'Sakarya', 'Samsun', 'Şanlıurfa', 'Tekirdağ', 'Trabzon', 'Van'}

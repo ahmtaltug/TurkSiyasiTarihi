@@ -33,7 +33,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
-  const VERSION = '3.3.1';
+  const VERSION = '3.3.2';
   const cache = { geo: {}, el: {}, ilce: {} };
   const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
   // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)
@@ -771,7 +771,7 @@
   }
 
   // GitHub hata formu: kayıt alanı o anki bağlantıyla dolu açılır
-  const REPO = 'https://github.com/ahmtaltug/TurkSiyasiTarihi';
+  const REPO = 'https://github.com/ahmtaltug/TurkiyeSecimAtlasi';
   function issueUrl(title) {
     return `${REPO}/issues/new?template=veri-hatasi.yml&title=${encodeURIComponent('[Veri] ' + (title || ''))}&kayit=${encodeURIComponent(location.href)}`;
   }

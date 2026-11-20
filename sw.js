@@ -1,7 +1,7 @@
 /* Türkiye Seçim Atlası — çevrimdışı önbellek.
    Veri ve sınır dosyaları önce önbellekten; sayfa, kod ve listeler ağdan (yoksa önbellekten). */
-const VERSION = 'secim-atlasi-3.3.1';
-const CORE = ['./', 'index.html', 'css/app.css?v=3.3.1', 'js/app.js?v=3.3.1', 'js/i18n.js?v=3.3.1', 'js/history.js?v=3.3.1', 'vendor/leaflet.js', 'vendor/leaflet.css',
+const VERSION = 'secim-atlasi-3.3.2';
+const CORE = ['./', 'index.html', 'css/app.css?v=3.3.2', 'js/app.js?v=3.3.2', 'js/i18n.js?v=3.3.2', 'js/history.js?v=3.3.2', 'vendor/leaflet.js', 'vendor/leaflet.css',
   'vendor/topojson-client.min.js', 'data/index.json', 'data/parties.json',  'data/geo/world.json', 'favicon.svg'];
 
 self.addEventListener('install', (e) => {
