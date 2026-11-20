@@ -29,7 +29,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '2.1.0';
+  const VERSION = '2.2.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -367,6 +367,12 @@
     } else if (n.seats && Object.keys(n.seats).length) {
       const lbl = d.id === '1930yerel' ? 'Kazanılan seçim bölgesi (belediye)' : (d.groupLabel || 'Dağılım');
       h += `<h3>${esc(lbl)}</h3>` + bars(Object.entries(n.seats).slice(0, 10), null);
+    }
+    // 1950 öncesi genel seçimler: meclis grafiği (listedeki vekiller; grup verisi yoksa tek renk)
+    if (d.type === 'genel' && !(n.pct && Object.keys(n.pct).length) && (n.members_initial || (n.seats && Object.keys(n.seats).length))) {
+      const ent = n.seats && Object.keys(n.seats).length ? Object.entries(n.seats).filter((e) => e[1] > 0) : [['Bilinmiyor', n.members_initial]];
+      h += `<h3>Meclis dağılımı${d.groupLabel ? ' — ' + esc(d.groupLabel.toLocaleLowerCase('tr')) : ''}</h3>` + hemicycle(ent) +
+        `<p class="hint small">${n.seats && Object.keys(n.seats).length ? 'Dönem listesinden sayılan vekiller; gruplama kaynağın sınıflandırmasıdır.' : 'Dönem listesindeki vekil sayısı; grup (parti) verisi derlenmedi.'}</p>`;
     }
     if (n.members_listed != null) {
       h += `<dl class="kv">${n.total_seats ? `<dt>Toplam sandalye</dt><dd>${nf.format(n.total_seats)}</dd>` : ''}<dt>Listedeki vekil</dt><dd>${nf.format(n.members_listed)}</dd>`;
@@ -880,7 +886,7 @@
   }
   let histPromise = null;
   function loadHistory() {
-    if (!histPromise) histPromise = getJSON('data/history.json').then((h) => (state.hist = h)).catch((e) => { histPromise = null; throw e; });
+    if (!histPromise) histPromise = getJSON('data/history.json?v=' + VERSION).then((h) => (state.hist = h)).catch((e) => { histPromise = null; throw e; });
     return histPromise;
   }
   const normName = (s) => String(s || '').replace(/\s*\(.*?\)\s*$/, '').replace(/Millî/g, 'Milli').replace(/Selâmet/g, 'Selamet').trim();
@@ -1116,7 +1122,7 @@
   // ------------------------------------------------------------------ demografik analiz
   let demoPromise = null, demoOpen = false, demoInd = 'pop';
   function loadDemo() {
-    if (!demoPromise) demoPromise = getJSON('data/demographics.json').then((x) => (state.demo = x)).catch((e) => { demoPromise = null; throw e; });
+    if (!demoPromise) demoPromise = getJSON('data/demographics.json?v=' + VERSION).then((x) => (state.demo = x)).catch((e) => { demoPromise = null; throw e; });
     return demoPromise;
   }
   // Seçimin birimleri için göstergeler: günümüz illeri o dönemin illerine toplanır

@@ -452,3 +452,4 @@ dialog.wide::backdrop { background: rgba(0,0,0,.4); }
   .main-tabs button { flex: 1; }
   .history-view .hd-head h2 { display: none; }
 }
+.hchart .gapt { font-size: 12px; font-weight: 600; fill: var(--text2); paint-order: stroke; stroke: var(--soft2); stroke-width: 4px; }
