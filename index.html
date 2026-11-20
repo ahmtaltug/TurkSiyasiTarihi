@@ -26,7 +26,7 @@
   })();
 </script>
 <link rel="stylesheet" href="vendor/leaflet.css">
-<link rel="stylesheet" href="css/app.css?v=3.2.0">
+<link rel="stylesheet" href="css/app.css?v=3.3.0">
 </head>
 <body>
 <header class="topbar">
@@ -39,6 +39,7 @@
     <button type="button" data-view="history" aria-pressed="false">Siyasi tarih</button>
   </nav>
   <div class="topbar-actions">
+    <button id="langBtn" class="btn ghost no-tr" type="button" title="Language / Dil"></button>
     <button id="themeBtn" class="btn ghost" type="button">Tema: Sistem</button>
     <button id="aboutBtn" class="btn ghost" type="button" aria-label="Kaynaklar ve yöntem"><span class="long">Kaynaklar ve yöntem</span><span class="short">Hakkında</span></button>
   </div>
@@ -100,8 +101,63 @@
   </aside>
 </main>
 
+<template id="about-en">
+  <h2>Sources and method</h2>
+  <p class="note">The interface is available in English; election descriptions, notes, party and place names come from Turkish sources and are shown in Turkish.</p>
+  <h3>Coverage</h3>
+  <ul>
+    <li><b>1840:</b> Muhassıl councils. No compiled results exist, so only a description is shown.</li>
+    <li><b>1877–1919, Ottoman Chamber of Deputies:</b> Deputies per province (vilayet) or sanjak, with religious, ethnic or political affiliation where the source gives it.</li>
+    <li><b>1920–1946, Grand National Assembly:</b> Deputies and party breakdown per province; approximate provincial votes for 1946.</li>
+    <li><b>1930–1946 local elections:</b> Municipalities won by the Free Republican Party in 1930; boundaries only for other years.</li>
+    <li><b>District level:</b> District results for the 1950 and 1955 local elections and for all general, local, referendum and presidential elections since 1961, with the district boundaries of election day (panel: "Unit: District").</li>
+    <li><b>1950–2026:</b> Province-level results of general, local (mayors and provincial councils), Senate, referendum and presidential elections, and the June 7, 2026 by-elections.</li>
+  </ul>
+  <h3>Data sources</h3>
+  <ul>
+    <li><b>1950–2026 results, 1950–1999 provincial and district boundaries:</b> <a href="https://github.com/hamiKumbasae/turkiye-secim-haritasi" target="_blank" rel="noopener">Türkiye Seçim Haritası open dataset</a> (CC BY-SA 4.0), based on the Supreme Election Council (YSK), TurkStat/DİE and Wikipedia. Boundaries derived from © OpenStreetMap contributors (ODbL) and OCHA/HDX COD-AB-TUR (CC BY-IGO).</li>
+    <li><b>1877–1946 lists of deputies:</b> Turkish Wikipedia lists of members of each Ottoman and Turkish parliament (CC BY-SA 4.0). Each record links its source in the panel.</li>
+    <li><b>Ottoman provinces outside Turkey and background map:</b> <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain).</li>
+    <li><b>Political history (governments, confidence votes, heads of state, parties, events):</b> Turkish Wikipedia lists of governments and presidents, and party infoboxes (CC BY-SA 4.0); grand viziers from the Turkish Wikipedia list of Ottoman grand viziers.</li>
+    <li><b>Demographics:</b> Provincial population (censuses 1927–2025) and area from Turkish Wikipedia; GDP per capita (2024) and life expectancy (2021–2023) from English Wikipedia tables based on TurkStat data.</li>
+    <li><b>Current state:</b> Seats in parliament and provincial mayors, compiled daily from Turkish Wikipedia.</li>
+    <li><b>Software:</b> Leaflet (BSD-2), topojson-client (ISC).</li>
+  </ul>
+  <h3>Boundaries</h3>
+  <p>Elections from 1950 onwards are drawn with the provincial boundaries of their date (63 provinces in 1950 up to 81 since 2002), and provinces carry their official name at the time (e.g. Seyhan and Çoruh until 1955, Urfa until 1984, İçel until 2002).</p>
+  <p>Boundaries before 1950 are <b>approximate</b>: units inside Turkey were assembled from today's districts according to their affiliation in that year; Ottoman provinces outside Turkey were assembled from present-day regions (Natural Earth admin-1), so their outlines do not match historical borders exactly. Units drawn with <b>fine diagonal hatching</b> rely on this project's estimate rather than a documented source.</p>
+  <h3>Data reliability</h3>
+  <ul>
+    <li><b>Official source:</b> results based on YSK or TurkStat publications (via the open dataset).</li>
+    <li><b>Encyclopedic compilation:</b> compiled from Wikipedia tables and lists, not checked against primary sources.</li>
+    <li><b>Partial / approximate:</b> records where part of the data is unknown or approximate (1930, 1946).</li>
+    <li><b>No result data:</b> only a description and the boundaries of the period.</li>
+  </ul>
+  <p>What was checked against what is documented in the <a href="https://github.com/ahmtaltug/TurkSiyasiTarihi/blob/main/docs/DOGRULAMA.md" target="_blank" rel="noopener">verification report</a> (Turkish).</p>
+  <h3>Known limitations</h3>
+  <ul>
+    <li>Before 1950 elections were indirect and no provincial vote counts were published, so deputies and affiliations are shown.</li>
+    <li>Wikipedia lists include everyone who served during a term, so totals can exceed the official number of seats.</li>
+    <li>Party affiliations in the 1912 and 1914 lists do not match the aggregate figures in the literature.</li>
+    <li>National totals are summed from provinces and may differ from official figures by a few tenths of a point.</li>
+    <li>The parliament chart shows the composition right after each election; changes during a term are only included for the one-party era opposition parties (1923–1930).</li>
+    <li>Demographic indicators use today's provincial boundaries; correlation does not imply causation.</li>
+  </ul>
+  <h3>Reporting errors</h3>
+  <p>Use the <b>"Spotted an error in this record? Report it"</b> link at the bottom of each panel; it opens a GitHub form pre-filled with the record you are viewing (GitHub account required). <a href="https://github.com/ahmtaltug/TurkSiyasiTarihi/issues" target="_blank" rel="noopener">Open reports</a></p>
+  <h3>Tips</h3>
+  <ul>
+    <li><b>Play:</b> steps through the elections of the selected era and types; keep only "General election" on to watch 1877–2023.</li>
+    <li><b>Swing:</b> compares the selected party with the previous election of the same type, province by province.</li>
+    <li><b>Keyboard:</b> ← → previous/next election, space play/pause, / search, Esc closes the selected unit.</li>
+    <li><b>Compare (⇆):</b> shows two elections side by side.</li>
+    <li><b>Language:</b> the button at the top switches between Turkish and English; the choice is stored in your browser.</li>
+  </ul>
+</template>
+
 <dialog id="about">
   <form method="dialog"><button class="btn ghost close" aria-label="Kapat">✕</button></form>
+  <div id="aboutBody">
   <h2>Kaynaklar ve yöntem</h2>
   <h3>Kapsam</h3>
   <ul>
@@ -109,6 +165,7 @@
     <li><b>1877–1919, Meclis-i Mebusan:</b> Vilayet ya da sancak başına mebus sayısı. Kaynakta varsa dinî, etnik ya da siyasi mensubiyet dağılımı da gösterilir.</li>
     <li><b>1920–1946, TBMM:</b> İl (liva) başına milletvekili sayısı ve parti dağılımı. 1946 için yaklaşık il oyları da vardır.</li>
     <li><b>1930–1946 yerel seçimler:</b> 1930 için Serbest Cumhuriyet Fırkası'nın kazandığı belediyeler. Diğer yıllarda il düzeyinde veri yoktur.</li>
+    <li><b>İlçe düzeyi:</b> 1950 ve 1955 yerel seçimleri ile 1961 sonrası genel, yerel, halkoylaması ve cumhurbaşkanlığı seçimlerinde ilçe sonuçları, seçim tarihindeki ilçe sınırlarıyla (panelde "Birim: İlçe").</li>
     <li><b>1950–2026:</b> İl düzeyinde milletvekili genel seçimleri, mahalli idareler seçimleri (belediye başkanlığı ve il genel meclisi), Cumhuriyet Senatosu seçimleri, halkoylamaları, cumhurbaşkanlığı seçimleri ve 7 Haziran 2026 ara seçimi.</li>
   </ul>
   <h3>Veri kaynakları</h3>
@@ -158,6 +215,7 @@
     <li><b>Demografi:</b> Panelin altındaki bölüm, il göstergeleriyle seçim sonucunu saçılım grafiğinde karşılaştırır.</li>
     <li><b>CSV indir:</b> Görüntülenen seçimin il verisini Excel'de açılabilen bir dosya olarak indirir.</li>
   </ul>
+  </div>
   <p class="muted">Bu sitedeki derlenmiş veri, kaynaklarının lisansı gereği CC BY-SA 4.0 ile paylaşılır. <span id="version"></span> · <a href="https://github.com/ahmtaltug/TurkSiyasiTarihi" target="_blank" rel="noopener">Kaynak kod</a></p>
 </dialog>
 
@@ -186,7 +244,8 @@
 <noscript><p style="padding:16px">Bu harita JavaScript gerektirir.</p></noscript>
 <script defer src="vendor/leaflet.js"></script>
 <script defer src="vendor/topojson-client.min.js"></script>
-<script defer src="js/app.js?v=3.2.0"></script>
-<script defer src="js/history.js?v=3.2.0"></script>
+<script defer src="js/i18n.js?v=3.3.0"></script>
+<script defer src="js/app.js?v=3.3.0"></script>
+<script defer src="js/history.js?v=3.3.0"></script>
 </body>
 </html>

@@ -74,6 +74,15 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   const govRows = await p.evaluate(() => { document.querySelector('#histTabs [data-tab="govs"]').click(); return document.querySelectorAll('table.govs tbody tr').length; });
   if (govRows < 70) bad.push(`hükûmet tablosu ${govRows} satır`);
   await p.keyboard.press('Escape');
+  // ilçe düzeyi: 1961'de 600'den çok ilçe
+  await p.evaluate(() => { location.hash = 'e=1961&m=winner&l=ilce'; }); await p.waitForTimeout(3000);
+  const ilce = await p.$$eval('path.leaflet-interactive', (x) => x.length);
+  if (ilce < 600) bad.push(`1961 ilçe haritası ${ilce} birim`);
+  // İngilizce arayüz
+  await p.goto('http://localhost:8765/?lang=en#e=2023'); await p.waitForTimeout(2500);
+  const h1 = await p.$eval('.brand h1', (x) => x.textContent);
+  if (h1 !== 'Turkey Election Atlas') bad.push('İngilizce başlık: ' + h1);
+  await p.evaluate(() => localStorage.setItem('lang', 'tr'));
   console.log(`${ids.length} seçim; sorunlu: ${bad.length ? bad.join(', ') : 'yok'}; hata: ${errs.length ? errs.join(' | ') : 'yok'}`);
   await b.close();
   process.exit(bad.length || errs.length ? 1 : 0);

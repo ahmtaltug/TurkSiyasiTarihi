@@ -9,7 +9,7 @@ SRC_COMMIT=19ccddcdaec809e072deb56ef4ba2cf180e430a1
 mkdir -p build/ext build/ne
 if [ ! -d build/ext/turkiye-secim-haritasi ]; then
   git clone --filter=blob:none --no-checkout https://github.com/hamiKumbasae/turkiye-secim-haritasi.git build/ext/turkiye-secim-haritasi
-  git -C build/ext/turkiye-secim-haritasi sparse-checkout set data/normalized geo/normalized geo/historical
+  git -C build/ext/turkiye-secim-haritasi sparse-checkout set --no-cone /data/normalized/ /geo/normalized/turkiye_il_sinirlari.geojson /geo/normalized/turkiye_ilce_sinirlari.geojson /geo/historical/
   git -C build/ext/turkiye-secim-haritasi checkout "$SRC_COMMIT"
 fi
 NE=https://naturalearth.s3.amazonaws.com
