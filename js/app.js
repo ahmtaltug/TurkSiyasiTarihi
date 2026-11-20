@@ -30,7 +30,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '3.1.1';
+  const VERSION = '3.1.2';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -397,7 +397,7 @@
       renderPartyHistory(b.dataset.k);
     }));
     if (partyHistKey && state.data.national && state.data.national.pct && state.data.national.pct[partyHistKey] != null) renderPartyHistory(partyHistKey);
-    if (state.hist) renderContextLine(); else loadHistory().then(renderContextLine).catch(() => {});
+    if (state.hist) renderContextLine(); else idle(() => loadHistory().then(renderContextLine).catch(() => {}));   // harita yüklendikten sonra
   }
 
   function renderModes() {
@@ -1272,7 +1272,13 @@
   async function init() {
     applyTheme(false);
     mq.addEventListener('change', () => { if (themePref() === 'auto') applyTheme(true); });
-    map.on('zoomend', () => { if (state.data) restyle(); });
+    // yakınlaştırmada yalnız çizgi kalınlığı değişir: renk ölçeği, lejant ve paneller yeniden hesaplanmaz
+    map.on('zoomend', () => {
+      if (!state.data) return;
+      if (unitLayer) unitLayer.setStyle((f) => styleFor(state.data.units[f.properties.id]));
+      if (layer2 && state.cmp.ctx) layer2.setStyle((f) => styleFor(state.cmp.data.units[f.properties.id], state.cmp.ctx));
+      markSelected();
+    });
     const [idx, parties] = await Promise.all([getJSON('data/index.json'), getJSON('data/parties.json')]);
     state.index = idx; state.parties = parties;
     readyResolve();
