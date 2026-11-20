@@ -14,7 +14,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 
 <img src="docs/img/oynatma.gif" alt="1908'den 2023'e milletvekili seçimlerinin zaman atlamalı oynatması" width="900">
 
-▶ [Tanıtım videosu (70 sn)](docs/video/tanitim.mp4)
+▶ Tanıtım videosu (73 sn, seslendirmeli): [yatay 16:9](docs/video/tanitim-16x9.mp4) · [dikey 9:16](docs/video/tanitim-9x16.mp4) · [altyazı](docs/video/tanitim.srt)
 
 </div>
 
@@ -92,6 +92,13 @@ Başlıca sınırlamalar:
 - Demografik göstergeler günümüz il sınırlarına göredir. İl düzeyinde kentleşme ve göç verisi yoktur; korelasyon nedensellik göstermez.
 
 Ayrıntılar: [docs/DOGRULAMA.md](docs/DOGRULAMA.md) · Sürüm geçmişi: [CHANGELOG.md](CHANGELOG.md) · Olası gelecek çalışmalar: [ROADMAP.md](ROADMAP.md)
+
+## Tanıtım videosu
+
+`docs/video/` klasöründe yatay (1920×1080) ve dikey (1080×1920, altyazılı) tanıtım videosu bulunur. Görüntüler sitenin gerçek ekran kaydıdır.
+Seslendirme [Piper](https://github.com/rhasspy/piper) metinden konuşmaya aracının Türkçe "dfki" sesiyle üretildi; bu sesin eğitim verisi
+[DFKI](https://github.com/marytts/dfki-ot-data) kaynaklıdır ve [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) lisanslıdır
+(ticari olmayan kullanım, atıf ve aynı lisansla paylaşım). Müzik ve ses efektleri bu proje için sentezlendi.
 
 ## Atıf
 
