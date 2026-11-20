@@ -149,6 +149,26 @@ for e in idx:
                  'seats': {names.get(k, k) if k not in ('Bağımsız',) else 'Bağımsız': v for k, v in seats.items()},
                  'keys': {names.get(k, k): k for k in seats}, 'source': 'data/elections/%s.json' % e['id']})
 
+# Dönem içi değişiklikler (seçimle değil, parti kuruluşu/kapanışıyla): yaklaşık dağılımlar
+TCF_SRC = WIKI + 'Terakkiperver_Cumhuriyet_Fırkası'
+SCF_SRC = WIKI + 'Serbest_Cumhuriyet_Fırkası'
+INTERIM = [
+    {'id': '1923', 'date': '1923-09-09', 'seats': {'Cumhuriyet Halk Fırkası': 285, 'Bağımsız': 1}, 'source': WIKI + 'Cumhuriyet_Halk_Partisi',
+     'change': 'Müdâfaa-i Hukuk grubu Halk Fırkası\'na dönüştü (9 Eylül 1923); 1924\'te adı Cumhuriyet Halk Fırkası oldu.'},
+    {'id': '1923', 'date': '1924-11-17', 'seats': {'Cumhuriyet Halk Fırkası': 256, 'Terakkiperver Cumhuriyet Fırkası': 29, 'Bağımsız': 1}, 'source': TCF_SRC,
+     'change': 'Terakkiperver Cumhuriyet Fırkası kuruldu; Tunçay\'a göre 29 (Tunaya\'ya göre 28) milletvekili katıldı. Sayılar yaklaşıktır.'},
+    {'id': '1923', 'date': '1925-06-05', 'seats': {'Cumhuriyet Halk Fırkası': 256, 'Bağımsız': 30}, 'source': TCF_SRC,
+     'change': 'Terakkiperver Cumhuriyet Fırkası kapatıldı; üyeleri dönem sonuna dek partisiz kaldı. Sayılar yaklaşıktır.'},
+    {'id': '1927', 'date': '1930-08-12', 'seats': {'Cumhuriyet Halk Fırkası': 320, 'Serbest Cumhuriyet Fırkası': 15}, 'source': SCF_SRC,
+     'change': 'Serbest Cumhuriyet Fırkası kuruldu; 15 milletvekiline ulaştı.'},
+    {'id': '1927', 'date': '1930-11-17', 'seats': {'Cumhuriyet Halk Fırkası': 320, 'Bağımsız': 15}, 'source': SCF_SRC,
+     'change': 'Serbest Cumhuriyet Fırkası kendini feshetti; eski üyeleri partisiz gösterildi. Sayılar yaklaşıktır.'},
+]
+for x in INTERIM:
+    x.update({'total': sum(x['seats'].values()), 'interim': True})
+    parl.append(x)
+parl.sort(key=lambda l: l['date'])
+
 # ------------------------------------------------------------------ parti soy ağacı
 NAMES = ['Siyasi parti bilgi kutusu', 'Kuruluş bilgi kutusu', 'Siyasi ittifak bilgi kutusu']
 PARTYLIKE = re.compile(r'(Parti|Fırka|Cemiyet|İttifak|Grup|Hareket|Masa|Kongre)')
@@ -302,7 +322,7 @@ name_keys.update({'Cumhuriyet Halk Fırkası': 'CHP', 'Cumhuriyet Halk Partisi':
                   'Müdâfaa-i Hukuk (Birinci Grup)': 'Müdâfaa-i Hukuk (Birinci Grup)',
                   'Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti': 'Müdâfaa-i Hukuk (Birinci Grup)',
                   'Milliyetçi Hareket Partisi': 'MHP', 'Millet Partisi': 'MP62', 'Yeni Türkiye Partisi': 'YTP61',
-                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti', 'Yeni Parti': 'Yeni Parti',
+                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Terakkiperver Cumhuriyet Fırkası': 'Terakkiperver Cumhuriyet Fırkası', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti', 'Yeni Parti': 'Yeni Parti',
                   'İttihat ve Terakki Fırkası': 'İttihat ve Terakki', 'Hürriyet ve İtilaf Fırkası': 'Hürriyet ve İtilaf', 'Osmanlı Ahrar Fırkası': 'Ahrar',
                   'Millî Selâmet Partisi': 'MSP', 'Birlik Partisi': 'TBP73', 'Hürriyet Partisi': 'HP57', 'Serbest Cumhuriyet Fırkası': 'Serbest Cumhuriyet Fırkası'})
 

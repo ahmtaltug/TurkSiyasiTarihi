@@ -1,5 +1,10 @@
 # Değişiklik günlüğü
 
+## 3.1.3 — 2026-11-20
+
+- Siyasi tarihte erken Cumhuriyet meclisinin dönem içi değişiklikleri: Müdâfaa-i Hukuk grubunun Halk Fırkası'na dönüşmesi (9 Eylül 1923), muhalif Terakkiperver Cumhuriyet Fırkası (17 Kasım 1924 – 5 Haziran 1925, yaklaşık 29 milletvekili) ve Serbest Cumhuriyet Fırkası (12 Ağustos – 17 Kasım 1930, 15 milletvekili). Önceden 1923–1927 meclisi dönem boyunca Müdâfaa-i Hukuk olarak görünüyordu.
+- Siyasi tarih bağlantısı (`#v=tarih…`) bölüm açıkken değiştirilince de uygulanır.
+
 ## 3.1.2 — 2026-11-20
 
 - Yakınlaştırmada yalnız çizgi kalınlıkları güncellenir; renk ölçeği, lejant, demografi grafiği ve karşılaştırma paneli artık her yakınlaştırmada baştan çizilmez.

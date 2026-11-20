@@ -113,7 +113,8 @@
     if (leg) {
       const meta = A().state.index.find((e) => e.id === leg.id);
       const ent = Object.entries(leg.seats).sort((a, b) => b[1] - a[1]);
-      h += `<div class="hc-row"><span class="muted">Meclis</span> <b>${esc(meta ? meta.title : leg.id)}</b> sonrası, ${A().nf.format(leg.total)} ${leg.listed ? 'vekil (listede)' : 'sandalye'}${leg.basis ? ` <span class="muted">· gruplama: ${esc(leg.basis)}</span>` : ''}` +
+      if (leg.interim) h += `<div class="hc-row"><span class="tag k">dönem içi değişiklik · ${esc(A().fmtDate(leg.date))}</span> ${esc(leg.change)}</div>`;
+      h += `<div class="hc-row"><span class="muted">Meclis</span> <b>${esc(meta ? meta.title : leg.id)}</b> ${leg.interim ? 'dönemi' : 'sonrası'}, ${A().nf.format(leg.total)} ${leg.listed ? 'vekil (listede)' : 'sandalye'}${leg.basis ? ` <span class="muted">· gruplama: ${esc(leg.basis)}</span>` : ''}` +
         (meta ? ` <button type="button" class="linkbtn" data-go="${esc(leg.id)}">haritada aç</button>` : '') + '</div>';
       h += '<div class="hc-seats">' + ent.map(([n, v]) => `<span class="pchip" title="${esc(n)}"><span class="sw" style="background:${nameColor(n, leg)}"></span>${esc(shortName(n, leg))} <b>${v}</b> <span class="muted">%${(100 * v / leg.total).toLocaleString('tr-TR', { maximumFractionDigits: 1 })}</span></span>`).join(' ') + '</div>';
     }
@@ -147,7 +148,7 @@
     s += `<defs><pattern id="gapHatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="2" height="6" class="gh"/></pattern></defs>`;
     // satır etiketleri
     const rl = (y, t) => `<text class="rl" x="${L0 - 8}" y="${y}" text-anchor="end">${t}</text>`;
-    s += rl(rows.pres[0] + 15, 'Devlet başkanı') + rl(rows.pm[0] + 12, 'Sadrazam / Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(seçim sonrası)');
+    s += rl(rows.pres[0] + 15, 'Devlet başkanı') + rl(rows.pm[0] + 12, 'Sadrazam / Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(sandalye %)');
     // yatay kılavuz çizgileri
     const sy = (f) => rows.seat[0] + rows.seat[1] * (1 - f);
     for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
@@ -245,7 +246,7 @@
     const legend = order.filter((k) => !['Boş', 'Belirtilmemiş'].includes(k)).map((k) => `<span class="pchip" title="${esc(label[k])}"><span class="sw" style="background:${nameColor(label[k], sample[k])}"></span>${esc(shortName(label[k], sample[k]))}</span>`).join(' ');
     body.innerHTML = `<p class="hint">Fareyi grafiğin üzerinde gezdirin ya da tıklayın: o tarihteki meclis, hükûmet ve cumhurbaşkanı aşağıda yazar.</p>` +
       `<div class="hc-scroll">${s}</div><div class="hc-info" id="hcInfo"></div><div class="hc-legend">${legend}</div>` +
-      `<p class="note small">Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur; dönem içindeki parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
+      `<p class="note small">Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur. Dönem içinde yalnız tek parti dönemindeki muhalefet denemeleri (Halk Fırkası'nın kuruluşu 1923, Terakkiperver Cumhuriyet Fırkası 1924–1925, Serbest Cumhuriyet Fırkası 1930) yaklaşık sayılarla işlenmiştir; diğer parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
       `1935–1943'te "Belirtilmemiş", seçim maddelerinin bilgi kutusunda CHP dışında sayılan ama partisi verilmeyen sandalyelerdir. Hükûmet bandında koalisyon ortakları üst üste şeritler hâlinde, sırasıyla gösterilir; ✕ güvenoyu alamayan hükûmeti işaretler. ` +
       `1877–1920 meclisleri dönem listelerinden sayılan vekillerdir; gruplama kaynağın sınıflandırmasıdır (1877 dinî, 1908 etnik, 1912–1914 siyasi mensubiyet; 1919 ve I. TBMM için grup verisi yok) ve literatürdeki toplu rakamlarla uyuşmayabilir. Kaynak: Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve seçim maddeleri; 1950 sonrası sandalyeler bu sitenin seçim verisinden.</p>`;
     const svg = $('#hchart'), hit = $('#hcHit'), cur = $('#hcCur'), info = $('#hcInfo');
@@ -423,7 +424,7 @@
   });
   window.addEventListener('hashchange', () => {
     const q = new URLSearchParams(location.hash.slice(1));
-    if (q.get('v') === 'tarih' && dlg.hidden) open(q.get('t') || 'chart', q.get('d'), q.get('p'));
+    if (q.get('v') === 'tarih' && (dlg.hidden || q.get('t') !== tab || (q.get('d') && q.get('d') !== pin))) open(q.get('t') || 'chart', q.get('d'), q.get('p'));
   });
   const hp = new URLSearchParams(location.hash.slice(1));
   if (hp.get('v') === 'tarih') A().ready.then(() => open(['chart', 'govs', 'parties', 'anim'].includes(hp.get('t')) ? hp.get('t') : 'chart', hp.get('d'), hp.get('p')));
