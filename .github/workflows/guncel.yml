@@ -1,0 +1,36 @@
+# Her gün TBMM'nin güncel sandalye dağılımını ve 81 il belediye başkanının partisini Vikipedi'den derler.
+# Değişiklik varsa data/elections/guncel.json'u main'e işler ve siteyi yeniden yayımlar.
+name: Güncel durum
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: guncel
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Vikipedi'den derle
+        run: python3 scripts/build_current.py
+      - name: Doğrula
+        run: python3 scripts/validate.py
+      - name: Değişikliği işle ve yayımla
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/elections/guncel.json data/index.json; then echo "Değişiklik yok"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/elections/guncel.json data/index.json
+          git commit -m "data: güncel durum $(date -u +%Y-%m-%d)"
+          git push
+          gh workflow run pages.yml --ref main

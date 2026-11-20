@@ -17,7 +17,7 @@
     ['1918-12-21', '1920-01-12', 'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek'], ['1920-03-18', '1920-04-23', 'İstanbul\'un işgali: Meclis-i Mebusan son kez toplandı'], ['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
   const SULTAN = '#8a6d3b', VIZIER = '#b59a6a';
   const MARK = { '1876-12-23': 'I. Meşrutiyet', '1908-07-23': 'II. Meşrutiyet', '1913-01-23': 'Bâbıâli Baskını', '1920-04-23': 'TBMM', '1923-10-29': 'Cumhuriyet', '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
-  let H = null, tab = 'chart', pin = null, partySel = null;
+  let CUR = null, H = null, tab = 'chart', pin = null, partySel = null;
   const anim = { on: false, t: 1876, timer: null, speed: 1, types: null };
 
   // ------------------------------------------------------------------ renkler
@@ -42,6 +42,7 @@
   async function open(which, date, partyTitle) {
     show(true);
     body.innerHTML = '<p class="hint">Yükleniyor…</p>';
+    A().loadElection('guncel').then((x) => { CUR = x; }).catch(() => {});
     try { H = await A().loadHistory(); } catch (e) { body.innerHTML = `<p class="note warn">Veri yüklenemedi: ${esc(e.message)}</p>`; return; }
     if (date) { pin = date; anim.t = Math.max(1876, yf(date)); }
     if (partyTitle) partySel = partyTitle;
@@ -104,6 +105,11 @@
     }
     const gap = GAPS.find(([a, b]) => a <= d && d < b);
     if (gap) h += `<p class="note">Meclis kapalı: ${esc(gap[2])} yönetimi (${esc(A().fmtDate(gap[0]))} – ${esc(A().fmtDate(gap[1]))}).</p>`;
+    if (CUR && leg && leg === H.parliament[H.parliament.length - 1]) {
+      const ent = Object.entries(CUR.national.seats).sort((a, b) => b[1] - a[1]);
+      h += `<div class="hc-row"><span class="muted">Bugünkü TBMM</span> <span class="muted">(${esc(A().fmtDate(CUR.date))}; parti değiştirmeler ve yeni partiler dahil)</span> <button type="button" class="linkbtn" data-go="guncel">haritada aç</button></div>` +
+        '<div class="hc-seats">' + ent.map(([k, v]) => `<span class="pchip"><span class="sw" style="background:${A().pColor(k)}"></span>${esc(A().pLabel(k))} <b>${v}</b></span>`).join(' ') + '</div>';
+    }
     if (leg) {
       const meta = A().state.index.find((e) => e.id === leg.id);
       const ent = Object.entries(leg.seats).sort((a, b) => b[1] - a[1]);
@@ -369,9 +375,11 @@
     yEl.textContent = A().fmtDate(d).replace(/^\d+ /, '');
     $('#aRange').value = anim.t;
     const leg = legAt(d);
-    if (leg !== lastLeg) {
-      lastLeg = leg;
-      $('#aHemi').innerHTML = leg ? A().hemicycle(Object.entries(leg.seats).sort((a, b) => b[1] - a[1]).map(([n, v]) => [seriesId(n, leg) === n && !A().state.parties[n] ? 'Bilinmiyor' : seriesId(n, leg), v])) : '<p class="note">Bu tarihte seçilmiş meclis bileşimi yok.</p>';
+    const today = CUR && anim.t >= yf(TODAY) - 0.02 && leg === H.parliament[H.parliament.length - 1];
+    const legKey = today ? 'bugün' : leg;
+    if (legKey !== lastLeg) {
+      lastLeg = legKey;
+      $('#aHemi').innerHTML = today ? A().hemicycle(Object.entries(CUR.national.seats).sort((a, b) => b[1] - a[1])) + '<p class="hint small">Bugünkü TBMM dağılımı.</p>' : leg ? A().hemicycle(Object.entries(leg.seats).sort((a, b) => b[1] - a[1]).map(([n, v]) => [seriesId(n, leg) === n && !A().state.parties[n] ? 'Bilinmiyor' : seriesId(n, leg), v])) : '<p class="note">Bu tarihte seçilmiş meclis bileşimi yok.</p>';
     }
     $('#aInfo').innerHTML = infoHtml(d); bindGo($('#aInfo'));
     const ev = H.events.filter((e) => e.date <= d && anim.types.has(e.type)).slice(-14).reverse();

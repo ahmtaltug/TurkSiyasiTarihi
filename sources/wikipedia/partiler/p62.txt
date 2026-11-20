@@ -1,0 +1,2295 @@
+{{için|Aynı isimdeki önceki siyasi partiler|Yeni Parti (1993)|Yeni Parti (2008)}}
+{{Siyasi parti bilgi kutusu
+| isim             = YENİ Parti
+| colorcode        = {{Siyasi parti renk|Yeni Parti (2026)}}
+| genel başkanı    = [[Özgür Özel]]
+| genel sekreteri  = [[Yunus Emre (siyasetçi)|Yunus Emre]]
+| lider1_başlık    = Cumhurbaşkanı adayı
+| lider1_isim      = [[Ekrem İmamoğlu]]<ref>{{Haber kaynağı|url=https://www.dw.com/tr/chp-lideri-%C3%B6zelden-hodri-meydan-bask%C4%B1n-se%C3%A7ime-haz%C4%B1r%C4%B1z/a-77253569|başlık=CHP lideri Özel'den hodri meydan|erişimtarihi=22 Temmuz 2026|tarih=21 Temmuz 2026|dil=Türkçe|çalışma=Deutsche Welle|arşivurl=https://web.archive.org/web/20260722141945/https://www.dw.com/tr/chp-lideri-%C3%B6zelden-hodri-meydan-bask%C4%B1n-se%C3%A7ime-haz%C4%B1r%C4%B1z/a-77253569|arşivtarihi=22 Temmuz 2026|ölüurl=hayır}}</ref>
+| lider3_başlık    = [[Türkiye Büyük Millet Meclisi|Grup başkanı]]
+| lider3_isim      = [[Özgür Özel]]
+| sözcüsü          = [[Zeynel Emre]]
+| amblem           = [[Dosya:Yeni Parti (Türkiye, 2026) logo compress transparan.png|120px]]
+| kuruluş          = {{Açılış tarihi ve yaşı|2026|7|24}}
+| merkez           = [[Mustafa Kemal, Çankaya|Mustafa Kemal]], [[Çankaya]], [[Ankara]], [[Türkiye]]
+| üyelik           = {{artış}} 723.000 {{küçük|(Parti içinden açıklamalarda)}}<ref>{{Web kaynağı | url = https://www.yenicaggazetesi.com/ozgur-ozelden-secim-resti-genel-baskanligi-birakirim-1075579h.htm | başlık = Özgür Özel, Yeni Parti'nin Üye Sayısını Açıkladı | erişimtarihi = 27 Eylül 2026 | ölüurl = hayır | website = yenicaggazetesi.com | arşivurl = https://web.archive.org/web/20261002085850/https://www.yenicaggazetesi.com/ozgur-ozelden-secim-resti-genel-baskanligi-birakirim-1075579h.htm | arşivtarihi = 2 Ekim 2026}}</ref>
+| ideoloji         = [[Sosyal demokrasi]]<ref name="Yeni Parti Programı">{{Web kaynağı | url = https://yeni-parti.org/assets/docs/parti-programi.pdf | başlık = YENİ PARTİ PROGRAMI İÇERİĞİ 2026 | erişimtarihi = 25 Temmuz 2026 | ölüurl = hayır | website = yeni-parti.org | arşivurl = https://web.archive.org/web/20260724214440/https://yeni-parti.org/assets/docs/parti-programi.pdf | arşivtarihi = 24 Temmuz 2026 }}</ref><br>[[Kemalizm]]<ref name="Yeni Parti Programı"/><br>[[İlerlemecilik|İlericilik]]<ref name="Yeni Parti Programı"/><br>[[Büyük çadır]]<ref>{{Web kaynağı|url=https://kisadalga.net/haber/gundem/yeni-parti-programini-acikladi-turkiye-ittifaki-cagrisi-yapan-sosyal-demokrat-parti-139445|başlık=Yeni Parti programını açıkladı: Türkiye İttifakı çağrısı yapan sosyal demokrat parti|erişimtarihi=25 Temmuz 2026|tarih=25 Temmuz 2026|dil=Türkçe|çalışma=Kısa Dalga|arşivurl=https://web.archive.org/web/20260725061034/https://kisadalga.net/haber/gundem/yeni-parti-programini-acikladi-turkiye-ittifaki-cagrisi-yapan-sosyal-demokrat-parti-139445|arşivtarihi=25 Temmuz 2026|ölüurl=hayır}}</ref><br>[[Avrupa yanlılığı|Pro-Avrupacılık]]<ref name="Yeni Parti Programı"/>
+| avrupa           = 
+| ülke             = Türkiye
+| kısaltma         = Yeni Parti <small>(resmî)</small>
+| kurucusu         = [[Özgür Özel]] ve [[#Kurucu üyeler|kurucu üyeler]]
+| renkler          = {{Renk kutusu|{{Siyasi parti renk|Yeni Parti (2026)}}}} [[Kırmızı]]
+| öncülü           = [[Cumhuriyet Halk Partisi]]
+| pozisyon         = [[Merkez sol]]<ref name="Yeni Parti Programı"/>
+| kol1_başlık      = 
+| gençlik_kolu     = [[Yeni Parti (2026)#Gençlik kolları|Yeni Parti Gençlik Kolları]]
+| kadın_kolu       = [[Yeni Parti (2026)#Kadın kolları|Yeni Parti Kadın Kolları]]
+| uluslararası     = [[Sosyalist Enternasyonal]] <ref>{{url=https://www.socialistinternational.org/about-us/members/}}</ref>
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|90|600|{{Siyasi parti renk|Yeni Parti (2026)}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye2_başlık = [[Türkiye'de büyükşehir belediyeleri|Büyükşehir Belediye Başkanlığı]]<br>{{Kalın değil|}}
+| sandalye2        = {{Composition bar|3|30|{{Siyasi parti renk|Yeni Parti (2026)}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye3_başlık = [[Türkiye'nin illeri|İl Belediye Başkanlığı]]<br>{{Kalın değil|}}
+| sandalye3        = {{Composition bar|20|51|{{Siyasi parti renk|Yeni Parti (2026)}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye4_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]<br>{{Kalın değil|}}
+| sandalye4        = {{Composition bar|204|922|{{Siyasi parti renk|Yeni Parti (2026)}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye5_başlık = [[Belde|Belde Belediye Başkanlığı]]<br>{{Kalın değil|}}
+| sandalye5        = {{Composition bar|34|390|{{Siyasi parti renk|Yeni Parti (2026)}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye6_başlık = [[İl genel meclisi|İl Genel Meclisleri]]<br>{{Kalın değil|}}
+| sandalye6        = {{Composition bar|4|1282|{{Siyasi parti renk|Yeni Parti (2026)}}}}
+| sandalye7_başlık = [[Belediye meclisi|Belediye Meclisleri]]<br>{{Kalın değil|}}
+| sandalye7  = {{Composition bar|4.102|20953|{{Siyasi parti renk|Yeni Parti (2026)}}}}
+| internet sitesi  = {{URL|https://yeni-parti.org.tr/}}
+| slogan           = ''Özgür Türkiye, özgür gelecek''<ref>{{Haber kaynağı|url=https://x.com/ozgurozeliletsm/status/2058461809837846578|başlık=Özgür Özel İletişim (@ozgurozeliletsm) on X|erişimtarihi=15 Haziran 2026|dil=undefined|çalışma=X (formerly Twitter)}}</ref> <br> ''Yeni bir başlangıç!''<ref>{{Haber kaynağı|başlık=Yeni Parti|url=https://yeni-parti.org/|erişimtarihi=24 Temmuz 2026|arşivurl=https://web.archive.org/web/20260724201323/https://yeni-parti.org/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> <br> ''Türkiye Yenileniyor''<ref>{{Haber kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/yeni-parti-nin-birinci-olagan-kurultayi-nda-slogan-belli-oldu-turkiye-yenileniyor-2553226 {{Webarşiv|url=https://web.archive.org/web/20261104112419/https://www.cumhuriyet.com.tr/siyaset/yeni-parti-nin-birinci-olagan-kurultayi-nda-slogan-belli-oldu-turkiye-yenileniyor-2553226 |tarih=4 Kasım 2026 }}</ref> <br>
+}}
+'''Yeni Parti''' (stilize haliyle '''YENİ Parti'''), [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] bir [[siyasi parti]]dir.<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/sipar/365|başlık=Yargıtay Cumhuriyet Başsavcılığı - YENİ PARTİ|erişimtarihi=24 Temmuz 2026|dil=Türkçe|çalışma=Yargıtay Cumhuriyet Başsavcılığı|arşivurl=https://web.archive.org/web/20260724142141/https://www.yargitaycb.gov.tr/sipar/365|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> Parti, Ankara Bölge Adliye Mahkemesi'nin [[Cumhuriyet Halk Partisi]] [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultayı]] hakkında verdiği "[[2026 Cumhuriyet Halk Partisi mutlak butlan krizi|mutlak butlan]]" kararı sonrası, [[Özgür Özel]]'in [[Cumhuriyet Halk Partisi genel başkanları listesi|genel başkanlık]] görevinin 21 Mayıs 2026'da düşürülmesinin ardından kuruldu. Bu süreçte Özel ve ekibi, delegelerden ıslak imza toplayarak olağanüstü kurultay talebinde bulundu, ancak hukuki engeller ile tedbir kararları nedeniyle CHP yönetimini yeniden devralamadı. Bunun üzerine parti; [[Lozan Antlaşması]]'nın yıl dönümü olan 24 Temmuz 2026 tarihinde, Özgür Özel liderliğindeki 91 milletvekili tarafından resmen kuruldu.<ref name="AnkaOzel2">{{Web kaynağı|url=https://ankahaber.net/haber/ozgur-ozel-temel-motivasyonumuz-yeni-parti-kurmak-degil-chp-yi-geri-almak-b406315e|başlık=Özgür Özel: Temel motivasyonumuz yeni parti kurmak değil, CHP'yi geri almak|erişimtarihi=15 Haziran 2026|tarih=12 Haziran 2026|yayıncı=Anka Haber Ajansı|arşivurl=https://web.archive.org/web/20260724082933/https://ankahaber.net/haber/ozgur-ozel-temel-motivasyonumuz-yeni-parti-kurmak-degil-chp-yi-geri-almak-b406315e|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/galeri-ozgur-ozel-ve-91-milletvekili-chpden-istifa-etti-1734317|başlık=Özgür Özel ve 90 milletvekili CHP'den istifa etti. Yeni Parti resmen kuruluyor {{!}} NTV Haber|erişimtarihi=24 Temmuz 2026|dil=Türkçe|çalışma=NTV.com.tr|arşivurl=https://web.archive.org/web/20260724083325/https://www.ntv.com.tr/turkiye/galeri-ozgur-ozel-ve-91-milletvekili-chpden-istifa-etti-1734317|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+
+Yeni Parti'nin resmî kuruluşu, [[Türkiye Büyük Millet Meclisi]] aritmetiğinde değişim olarak bir güç kaymasına neden oldu. Cumhuriyet Halk Partisi'nden kitlesel olarak ayrılan 91 milletvekilinin katılımıyla Yeni Parti, [[Adalet ve Kalkınma Partisi]]'nin ardından TBMM'deki en büyük ikinci siyasi oluşum ve resmî olarak [[Türkiye ana muhalefet partisi lideri|Türkiye ana muhalefet partisi]] konumuna yükseldi.<ref>{{Web kaynağı|url=https://medyascope.tv/2026/05/25/chp-genel-merkezine-operasyon-aliser-delek-anlasilan-yeni-parti-geliyor/|başlık=CHP Genel Merkezi'ne operasyon - Alişer Delek: "Anlaşılan yeni parti geliyor"|erişimtarihi=15 Haziran 2026|tarih=25 Mayıs 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260724105457/https://medyascope.tv/2026/05/25/chp-genel-merkezine-operasyon-aliser-delek-anlasilan-yeni-parti-geliyor/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> Bu geçişle birlikte [[Cumhuriyet Halk Partisi]], milletvekili sayısı bakımından beşinci sıraya geriledi. Kurucular Kurulu tarafından oy birliğiyle genel başkanlığa seçilen Özgür Özel, sonbaharda büyük kongreyi toplamayı hedeflediklerini ve [[Bir sonraki Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı seçimlerinde]] [[Ekrem İmamoğlu]]'nu destekleme çizgisini koruyacaklarını açıkladı.
+
+Yaşanan süreci salt bir hukuki uyuşmazlık olarak görmeyen Özel, hareketi tabandan gelen bir demokratik meşruiyet mücadelesi olarak konumlandırmaktadır.<ref>{{Web kaynağı|url=https://medyascope.tv/2026/07/10/chpde-orta-yolculuk-mumkun-mu/|başlık=Ruşen Çakır yorumladı: CHP'de orta yolculuk mümkün mu?|erişimtarihi=14 Temmuz 2026|tarih=10 Temmuz 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260713223956/https://medyascope.tv/2026/07/10/chpde-orta-yolculuk-mumkun-mu/|arşivtarihi=13 Temmuz 2026|ölüurl=hayır}}</ref> İdeolojik eksenini temelde [[sosyal demokrasi]] ve [[Kemalizm|Atatürkçülük]] üzerine inşa eden hareket; [[Mustafa Kemal Atatürk]], [[Mîsâk-ı Millî]] ve [[Türkiye'de cumhuriyetin ilanı|cumhuriyet]] değerleriyle sorunu olmayan tüm demokratik unsurları bir araya getirmeyi hedeflemektedir. Parti, idari yapılanma çalışmalarını ise [[Ankara]]'nın [[Çankaya]] ilçesinde bulunan [[Mustafa Kemal, Çankaya|Mustafa Kemal Mahallesi]]'ndeki genel merkezinde yürütmektedir. Parti, [[Sosyalist Enternasyonal]]'in tam üyesidir.
+
+== Tarihçe ==
+{{Ayrıca bakınız|Cumhuriyet Halk Partisi tarihi}}
+
+Özgür Özel liderliğindeki yeni siyasi parti girişimi, Türkiye'deki [[merkez sol]] ve [[sosyal demokrasi]] geleneğinin kurumsal bölünme ve yenilenme hafızasıyla doğrudan paralellikler taşımaktadır. Bu hareket, felsefi olarak 1970'lerde [[Bülent Ecevit]] liderliğindeki "[[Sosyal demokrasi|demokratik sol]]" ve "[[ortanın solu]]" hareketinin yükselişiyle benzerlik göstermektedir. 2020'lerdeki "değişimci" fraksiyon gibi, Ecevit ve kurmayları da partinin eğitimli kentsel elitlere sıkışmış yapısını eleştirerek tabana ve işçi sınıfına dayalı reformcu bir dönüşüm vaat etmiştir.<ref>{{Web kaynağı |url=https://repository.bilkent.edu.tr/server/api/core/bitstreams/137958ad-9cf4-45dc-b6fa-e77c6a946bd3/content |başlık=Arşivlenmiş kopya |erişimtarihi=22 Haziran 2026 |arşivurl=https://web.archive.org/web/20260724115144/https://repository.bilkent.edu.tr/server/api/core/bitstreams/137958ad-9cf4-45dc-b6fa-e77c6a946bd3/content |arşivtarihi=24 Temmuz 2026 |ölüurl=hayır }}</ref><ref>{{Web kaynağı|url=https://www.turkeyanalyst.org/publications/turkey-analyst-articles/item/718-can-the-new-chp-leader-revive-social-democracy-in-turkey.html|başlık=Can the New CHP Leader Revive Social Democracy in Turkey?|erişimtarihi=15 Haziran 2026|dil=İngilizce|çalışma=www.turkeyanalyst.org|arşivurl=https://web.archive.org/web/20260523200031/https://www.turkeyanalyst.org/publications/turkey-analyst-articles/item/718-can-the-new-chp-leader-revive-social-democracy-in-turkey.html|arşivtarihi=23 Mayıs 2026|ölüurl=hayır}}</ref> 8 Mayıs 1972'deki [[Cumhuriyet Halk Partisi 6. Olağanüstü Kurultayı|kurultayda]] Ecevit'in genel başkan seçilmesiyle sonuçlanan bu süreç, parti içi statükoya karşı taban delegesinin ilk büyük zaferi olarak kayıtlara geçmiştir. Özgür Özel'in 2020'lerin ortasındaki çıkışı, felsefi ve yöntemsel olarak Ecevit'in bu demokratik sol dönüşüm stratejisinin bir devamı olarak konumlandırılmaktadır. [[12 Eylül Darbesi]]'nin ardından CHP'nin kapatılmasıyla birlikte, 1980'li yıllarda merkez sol seçmen; [[Halkçı Parti]] (HP), [[Sosyal Demokrasi Partisi]] (SODEP), bu ikisinin birleşimiyle doğan [[Sosyaldemokrat Halkçı Parti]] (SHP) ve [[Bülent Ecevit|Ecevit]] geleneğini sürdüren [[Demokratik Sol Parti]] (DSP) arasında bölünmüştür. 1992 yılında [[Deniz Baykal]] ve eski kurmayların girişimiyle CHP'nin yeniden açılması ve 1995 yılında SHP'nin CHP çatısı altında bütünleşmesiyle merkez solda sağlanan kurumsal birlik, [[2026 Cumhuriyet Halk Partisi mutlak butlan krizi|2026 krizine kadar]] otuz yılı aşkın bir süre boyunca tek bir tüzel kişilik altında sürdürülmüştür. Tutuklu bulunan Cumhurbaşkanı adayı [[Ekrem İmamoğlu]], yeni hareketin motivasyonunu ''"Siyaseten, ruhen ve bedenen hazırız. Bu iktidara bir seçimin daha hediye edilmesine izin vermeyeceğiz."'' sözleriyle ifade etmiştir.<ref>{{Web kaynağı|url=https://ankahaber.net/haber/ekrem-imamoglu-ndan-yeni-parti-iddialarina-yanit-siyaseten-ruhen-ve-bedenen-haziriz-fa62e3b2|başlık=İmamoğlu'ndan yeni parti yanıtı: "Siyaseten, ruhen ve bedenen hazırız"|erişimtarihi=16 Haziran 2026|tarih=16 Haziran 2026|dil=Türkçe|çalışma=Anka Haber|arşivurl=https://web.archive.org/web/20260616133032/https://ankahaber.net/haber/ekrem-imamoglu-ndan-yeni-parti-iddialarina-yanit-siyaseten-ruhen-ve-bedenen-haziriz-fa62e3b2|arşivtarihi=16 Haziran 2026|ölüurl=hayır}}</ref> 
+
+=== 38. CHP Olağan Kurultayı ve 2024 yerel seçim zaferi ===
+{{Ana|Cumhuriyet Halk Partisi 38. Olağan Kurultayı}}
+[[Dosya:Özgür_Özel_kurultaya_sesleniyor_4_kasım_2023.jpg|küçükresim|200x200pik|[[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]]'da [[Özgür Özel]], 2023]]
+[[Dosya:Ekrem İmamoğlu, Özgür Özel ve Mansur Yavaş.jpg|küçükresim|200x200pik|[[Ekrem İmamoğlu]], Özgür Özel ve [[Mansur Yavaş]]]]
+[[2023 Türkiye genel seçimleri|2023 cumhurbaşkanlığı ve genel seçimlerinde]] [[Millet İttifakı]]'nın parlamento çoğunluğunu kaybetmesi ve ortak aday [[Kemal Kılıçdaroğlu]]'nun seçimi ikinci turda kaybetmesi, CHP içerisinde "değişimciler" olarak adlandırılan, içinde Ekrem İmamoğlu'nun da bulunduğu yeni bir muhalif kanadın doğmasına yol açmıştır. [[Grup başkanı]] Özgür Özel ve [[İstanbul Büyükşehir Belediyesi|İBB]] Başkanı [[Ekrem İmamoğlu]] önderliğindeki bu hareket, partinin yönetim kadrolarında ve siyaset yapma tarzında köklü bir yenilenme talep etmiştir.
+
+[[Cumhuriyet Halk Partisi|Cumhuriyet Halk Partisinin]] 4-5 Kasım 2023'te düzenlenen [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultayında]] Özgür Özel'in Kemal Kılıçdaroğlu'na karşı genel başkanlığı kazanması, parti tarihinde "değişimci" kanadın zaferi olarak kayıtlara geçmiştir. Bu liderlik değişimi, kısa süre sonra yapılan [[2024 Türkiye yerel seçimleri|31 Mart 2024 yerel seçimlerinde]] karşılık bulmuş; CHP %37,81 oy oranıyla 47 yıl sonra ilk kez Türkiye genelinde birinci parti konumuna yükselmiştir.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/articles/crgdklmmeyno|başlık=Yerel seçim sonuçları: CHP’nin 47 yıl sonra elde ettiği seçim zaferi ne anlama geliyor?|erişimtarihi=15 Haziran 2026|tarih=1 Nisan 2024|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260526180356/https://www.bbc.com/turkce/articles/crgdklmmeyno|arşivtarihi=26 Mayıs 2026|ölüurl=hayır}}</ref> [[2024 Türkiye yerel seçimleri|Yerel seçimlerde]] elde edilen birincilik; derinleşen ekonomik kriz, yüksek enflasyon ve işsizlik gibi faktörlerle birleşerek ülkede [[erken seçim]] ve [[demokratik geçiş]] taleplerini artırmıştır.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c51yge5yglgo|başlık=CHP kulislerinde, Özgür Özel'in '1,5 yıl sonra erken seçim olur' tahminiyle ilgili neler konuşuluyor?|erişimtarihi=13 Şubat 2025|arşivtarihi=11 Şubat 2025|arşivengelli=evet|arşivurl=https://web.archive.org/web/20250211213153/https://www.bbc.com/turkce/articles/c51yge5yglgo|tarih=8 Temmuz 2024|ölüurl=hayır|dil=Türkçe|çalışma=BBC News Türkçe}}</ref><ref>{{Web kaynağı|url=https://tr.euronews.com/2024/09/14/ozelden-erdogana-erken-secim-cagrisi-son-tarih-2025-kasimdir|başlık=Özel'den Erdoğan'a erken seçim çağrısı: Son tarih 2025 Kasım'dır|erişimtarihi=13 Şubat 2025|arşivtarihi=14 Eylül 2024|arşivurl=https://web.archive.org/web/20240914095901/https://tr.euronews.com/2024/09/14/ozelden-erdogana-erken-secim-cagrisi-son-tarih-2025-kasimdir|tarih=14 Eylül 2024|dil=Türkçe|çalışma=euronews}}</ref> Muhalefetin olası cumhurbaşkanı adayı olarak Ekrem İmamoğlu'nun öne çıktığı bu süreçte, CHP lideri Özgür Özel aday belirleme sürecinin geniş katılımlı bir ön seçimle yapılacağını ilan etmiştir.<ref>{{Web kaynağı|url=https://tr.euronews.com/2025/02/11/chpde-cumhurbaskani-adayinin-belirlenmesi-on-secim-23-martta-yapilacak|başlık=CHP'de ön seçim 23 Mart'ta yapılacak|erişimtarihi=13 Şubat 2025|arşivtarihi=12 Şubat 2025|arşivengelli=evet|arşivurl=https://web.archive.org/web/20250212081129/https://tr.euronews.com/2025/02/11/chpde-cumhurbaskani-adayinin-belirlenmesi-on-secim-23-martta-yapilacak|tarih=11 Şubat 2025|ölüurl=hayır|dil=Türkçe|çalışma=euronews}}</ref> 
+
+Ana muhalefetin üzerindeki yargı baskısının arttığı bir atmosferde İmamoğlu; 12 büyükşehir belediye başkanı ve 116 milletvekilinin yazılı desteğini alarak resmi cumhurbaşkanlığı adaylığı başvurusunu gerçekleştirmiştir.<ref>{{Web kaynağı|url=https://gazeteoksijen.com/turkiye/imamoglundan-on-secimde-adayligina-iliskin-aciklama-onumuzdeki-hafta-yol-haritamiz-belli-olur-234987|başlık=İmamoğlu'ndan ön seçimde adaylığına ilişkin açıklama: Önümüzdeki hafta yol haritamiz belli olur|erişimtarihi=13 Şubat 2025|arşivtarihi=13 Şubat 2025|arşivurl=https://web.archive.org/web/20250213033134/https://gazeteoksijen.com/turkiye/imamoglundan-on-secimde-adayligina-iliskin-aciklama-onumuzdeki-hafta-yol-haritamiz-belli-olur-234987|tarih=2 Aralık 2025|çalışma=Gazete Oksijen}}</ref><ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/chpli-12-buyuksehir-belediye-baskani-ilce-belediye-baskanlarindan-2301826|başlık=İmamoğlu yarın adaylığını açıklayacak: CHP'li 12 büyükşehir belediye başkanı ve ilçe belediye başkanlarından destek|erişimtarihi=20 Şubat 2025|arşivtarihi=20 Şubat 2025|arşivurl=https://web.archive.org/web/20250220103258/https://www.cumhuriyet.com.tr/siyaset/chpli-12-buyuksehir-belediye-baskani-ilce-belediye-baskanlarindan-2301826|tarih=20 Şubat 2025|dil=Türkçe|çalışma=Cumhuriyet.com.tr}}</ref><ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/imamoglu-adaylik-basvurusunu-yapti-bugun-yeni-bir-baslangicin-ilk-2302192|başlık=İmamoğlu 'adaylık' başvurusunu yaptı: 'Bugün yeni bir başlangıcın ilk adımı...'|erişimtarihi=21 Şubat 2025|arşivtarihi=22 Şubat 2025|arşivengelli=evet|arşivurl=https://web.archive.org/web/20250222120425/https://www.cumhuriyet.com.tr/siyaset/imamoglu-adaylik-basvurusunu-yapti-bugun-yeni-bir-baslangicin-ilk-2302192|tarih=21 Şubat 2025|ölüurl=hayır|dil=Türkçe|çalışma=Cumhuriyet.com.tr}}</ref><ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/turkiye/son-dakika-imamoglunun-on-secim-adayligi-icin-toplanan-imza-sayisi-2302375|başlık=İmamoğlu'nun ön seçim adaylığı için toplanan imza sayısı belli oldu|erişimtarihi=22 Şubat 2025|arşivtarihi=21 Şubat 2025|arşivengelli=evet|arşivurl=https://web.archive.org/web/20250221141729/https://www.cumhuriyet.com.tr/turkiye/son-dakika-imamoglunun-on-secim-adayligi-icin-toplanan-imza-sayisi-2302375|tarih=21 Şubat 2025|ölüurl=hayır|yayıncı=[[Cumhuriyet (gazete)|Cumhuriyet]]}}</ref> Ancak adaylık başvurusunun hemen ardından süreçler hızlandırılmış; İmamoğlu 19 Mart 2025 tarihinde gözaltına alınmıştır. Bu gelişme üzerine İstanbul'da kitlesel [[Saraçhane]] protestoları patlak vermiş, geniş çaplı toplumsal tepkilere rağmen süreç 23 Mart 2025 tarihinde İmamoğlu'nun resmen tutuklanmasıyla sonuçlanmıştır.<ref>{{Haber kaynağı|url=https://www.hrw.org/tr/news/2025/03/25/turkiye-court-jails-istanbul-mayor|başlık=Türkiye: İstanbul Büyükşehir Belediye Başkanı Tutuklandı|erişimtarihi=16 Haziran 2026|tarih=25 Mart 2025|yayıncı=Human Rights Watch|arşivurl=https://web.archive.org/web/20260613021450/https://www.hrw.org/tr/news/2025/03/25/turkiye-court-jails-istanbul-mayor|arşivtarihi=13 Haziran 2026|ölüurl=hayır}}</ref> İstanbul'daki polis ablukasına ve tutuklama kararına yanıt olarak ana muhalefet lideri Özgür Özel, aynı gün gerçekleştirilecek ön seçimi bir "dayanışma sandığına" dönüştürme çağrısında bulunmuştur. Ön seçim için CHP örgütlerinde sandığa giden 14 milyon 850 binden fazla seçmenin oyuyla İmamoğlu, 23 Mart 2025 tarihindeki ön seçimden mutlak bir zaferle çıkarak resmen cumhurbaşkanı adayı ilan edilmiştir.<ref name=":CB122">{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c4gem3mevzzo|başlık=15 milyona yakın kişinin katıldığı belirtilen ön seçim sonrası İmamoğlu resmen CHP adayı ilan edildi|erişimtarihi=23 Mart 2025|arşivtarihi=23 Mart 2025|arşivurl=https://web.archive.org/web/20250323082103/https://www.bbc.com/turkce/articles/c4gem3mevzzo|ölüurl=hayır}}</ref><ref name=":CB222">{{Web kaynağı|url=https://www.dw.com/tr/%C3%B6zel-i%CC%87mamo%C4%9Fluna-verilen-oyu-a%C3%A7%C4%B1klad%C4%B1-14-milyon-850-bin/a-72009348|başlık=İmamoğlu'na 14 milyon 850 bin oy|erişimtarihi=2 Şubat 2026|arşivtarihi=23 Mart 2025|arşivurl=https://web.archive.org/web/20250323192631/https://www.dw.com/tr/%C3%B6zel-i%CC%87mamo%C4%9Fluna-verilen-oyu-a%C3%A7%C4%B1klad%C4%B1-14-milyon-850-bin/a-72009348|ölüurl=hayır}}</ref>
+
+=== Ekrem İmamoğlu'nun tutuklanması ===
+{{Ana|Ekrem İmamoğlu'nun tutuklanması|2025 Türkiye protestoları}}
+[[Dosya:Ekrem İmamoğlu yerel seçim için açıklama yaparken 2024.jpg|küçükresim|200x200pik|Ekrem İmamoğlu, seçim kampanyasında, 2024]]
+2024 yerel seçimlerinin ardından 23 Mart 2025 tarihinde düzenlenen [[2025 Cumhuriyet Halk Partisi cumhurbaşkanlığı ön seçimi|ön seçimde]] CHP'nin 2028 seçimlerinde cumhurbaşkanı adayı olarak seçilen İstanbul Büyükşehir Belediye Başkanı [[Ekrem İmamoğlu]], 19 Mart 2025'te gözaltına alınmış, 23 Mart 2025'te tutuklanmıştır.<ref>{{Haber kaynağı|url=https://medyascope.tv/2025/12/31/2025in-olayi-imamoglunun-tutuklanmasi/|başlık=2025’in olayı: İmamoğlu’nun tutuklanması|erişimtarihi=27 Mayıs 2026|tarih=31 Aralık 2025|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260219113846/https://medyascope.tv/2025/12/31/2025in-olayi-imamoglunun-tutuklanmasi/|arşivtarihi=19 Şubat 2026|ölüurl=hayır}}</ref> Bu gelişme ülke genelinde kitlesel [[2025-2026 Türkiye protestoları|2025 protestolarına]] yol açarken, uluslararası insan hakları örgütlerince "hükûmetin en güçlü rakibini yargı eliyle tasfiye etme girişimi" olarak nitelendirilmiştir.<ref>{{Web kaynağı|url=https://www.hrw.org/tr/news/2026/03/03/turkiye-leading-opponent-of-erdogan-on-trial|başlık=Türkiye: Erdoğan'ın En Güçlü Rakibi Hakim Karşısında|erişimtarihi=27 Mayıs 2026|tarih=3 Mart 2026|yayıncı=Human Rights Watch|arşivurl=https://web.archive.org/web/20260724114921/https://www.hrw.org/tr/news/2026/03/03/turkiye-leading-opponent-of-erdogan-on-trial|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> 
+
+İstanbul Cumhuriyet Başsavcılığınca hazırlanan İBB iddianamesinde İmamoğlu'na; belediye kaynaklarıyla seçimleri manipüle etmek, cumhurbaşkanlığı kampanyası için yasa dışı fon havuzu oluşturmak ve "çıkar amaçlı suç örgütü kurmak" suçlamaları yöneltilmiştir.<ref>{{Web kaynağı | url = https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-26-durusma-sona-erdi/3914224 | başlık = "İmamoğlu çıkar amaçlı suç örgütü" davasının 26. duruşması sona erdi | erişimtarihi = 15 Haziran 2026 | tarih = 22 Nisan 2026 | yayıncı = Anadolu Ajansı}}</ref> Ayrıca İmamoğlu, kampanya yöneticisi [[Necati Özkan]] ve gazeteci [[Merdan Yanardağ]] hakkında, veri sızdırma iddiasıyla "siyasal veya askerî casusluk" suçundan hapis istemiyle hazırlanan ayrı bir iddianame İstanbul 25. Ağır Ceza Mahkemesince kabul edilmiştir.<ref>{{Web kaynağı | url = https://www.aa.com.tr/tr/gundem/casusluk-sorusturmasinda-imamoglu-ve-3-sanik-hakkindaki-iddianame-kabul-edildi/3833668 | başlık = "Casusluk" soruşturmasında İmamoğlu ve 3 sanık hakkındaki iddianame kabul edildi | erişimtarihi = 15 Haziran 2026 | tarih = 18 Şubat 2026 | yayıncı = Anadolu Ajansı | arşivurl = https://web.archive.org/web/20260218124349/https://www.aa.com.tr/tr/gundem/casusluk-sorusturmasinda-imamoglu-ve-3-sanik-hakkindaki-iddianame-kabul-edildi/3833668 | arşivtarihi = 18 Şubat 2026}}</ref><ref>{{Web kaynağı|url=https://t24.com.tr/gundem/casusluk-davasinda-ilk-durusma-bugun-ekrem-imamoglu-merdan-yanardag-ve-necati-ozkan-hakim-karsisina-cikacak,1320806|başlık='Casusluk' davası|erişimtarihi=15 Haziran 2026|tarih=11 Mayıs 2026|yayıncı=T24|alıntı=İmamoğlu: Bu iddianame bir hukuk metni değil|arşivurl=https://web.archive.org/web/20260512104448/https://t24.com.tr/gundem/casusluk-davasinda-ilk-durusma-bugun-ekrem-imamoglu-merdan-yanardag-ve-necati-ozkan-hakim-karsisina-cikacak,1320806|arşivtarihi=12 Mayıs 2026|ölüurl=hayır}}</ref> Yargılama sürecinde bazı tanık beyanları değişmiştir. CHP Genel Başkanı [[Özgür Özel]], Aralık 2025'te dosyadaki gizli tanık "İlke"nin ifadesini resmi dilekçeyle geri çektiğini açıklamıştır.<ref>{{Web kaynağı|url=https://www.evrensel.net/haber/588299/ozgur-ozel-gizli-tanik-mese-nin-yerine-ikame-ettikleri-ilke-de-tanikliktan-vazgecmis|başlık=Özgür Özel: Gizli tanık Meşe'nin yerine ikame ettikleri İlke de tanıklıktan vazgeçmiş|erişimtarihi=15 Haziran 2026|tarih=12 Aralık 2025|yayıncı=Evrensel|arşivurl=https://web.archive.org/web/20260724114950/https://www.evrensel.net/haber/588299/ozgur-ozel-gizli-tanik-mese-nin-yerine-ikame-ettikleri-ilke-de-tanikliktan-vazgecmis|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> Soruşturmada itirafçı olduğu belirtilen iş insanı Murat Kapki ve bazı sanıklar da yargı baskısıyla gerçeğe aykırı hazırlanan ifadelere imza attıklarını ileri sürerek beyanlarından vazgeçmişlerdir.<ref>{{Web kaynağı|url=https://www.ekonomimanset.com/ibb-itirafcisi-murat-kapki-kandirildim-deyip-ifadesini-geri-cekti|başlık=İBB itirafçısı Murat Kapki, "Kandırıldım" deyip ifadesini geri çekti!|erişimtarihi=15 Haziran 2026|tarih=2025|yayıncı=Ekonomi Manşet|arşivurl=https://web.archive.org/web/20260724114935/https://www.ekonomimanset.com/ibb-itirafcisi-murat-kapki-kandirildim-deyip-ifadesini-geri-cekti|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://bianet.org/haber/ibb-davasinda-bir-itirafci-daha-beyanini-geri-cekti-318255|başlık=İBB davasında bir itirafcı daha beyanini geri çekti|erişimtarihi=15 Haziran 2026|tarih=2026|yayıncı=Bianet|arşivurl=https://web.archive.org/web/20260514113043/https://bianet.org/haber/ibb-davasinda-bir-itirafci-daha-beyanini-geri-cekti-318255|arşivtarihi=14 Mayıs 2026|ölüurl=hayır}}</ref> 
+
+Bu gelişmeler CHP yönetimi tarafından tasfiye amaçlı siyasi bir operasyon olarak yorumlanırken; iddia makamı ve hükümet kanadı yargılamanın hukuki normlar çerçevesinde bağımsız mahkemelerce yürütüldüğünü savunmuştur.<ref>{{Web kaynağı|url=https://medyascope.tv/2026/06/15/ibb-davasinda-50-gun-imamoglu-normal-bir-yargilama-sureci-icinde-degiliz/|başlık=İBB davasında 50. gün - İmamoğlu: "Normal bir yargılama süreci içinde değiliz"|erişimtarihi=15 Haziran 2026|tarih=15 Haziran 2026|dil=Türkçe|çalışma=Medyascope|ad=Furkan|soyadı=Karabay|arşivurl=https://web.archive.org/web/20260724114928/https://medyascope.tv/2026/06/15/ibb-davasinda-50-gun-imamoglu-normal-bir-yargilama-sureci-icinde-degiliz/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> CHP lideri Özgür Özel'in hakimiyeti Eylül 2025'te toplanan [[Cumhuriyet Halk Partisi 22. Olağanüstü Kurultayı|22. Olağanüstü Kurultay]]'da tüzük reformlarıyla desteklenmiş ve Özel liderliğindeki "Değişim" hareketinin parti meclisi ile örgütler üzerindeki gücünü pekiştirmiştir.<ref>{{Haber kaynağı|url=https://tr.euronews.com/2025/09/21/chp-olaganustu-kurultayinda-ozgur-ozel-tekrar-genel-baskan-secildi|başlık=CHP Olağanüstü Kurultayı'nda Özgür Özel tekrar genel başkan seçildi|erişimtarihi=15 Haziran 2026|tarih=21 Eylül 2025|dil=Türkçe|çalışma=Euronews|soyadı=Cagla Uren|arşivurl=https://web.archive.org/web/20260724114924/https://tr.euronews.com/2025/09/21/chp-olaganustu-kurultayinda-ozgur-ozel-tekrar-genel-baskan-secildi|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+
+=== Mutlak butlan krizi ===
+{{Ana|2026 Cumhuriyet Halk Partisi mutlak butlan krizi}}
+
+==== Siyasi ve hukuki süreç ====
+[[Dosya:Özgür Özel, 29 Mart 2026 05.jpg|küçükresim|200x200pik|Özgür Özel, 29 Mart 2026 tarihli "Millet İradesine Sahip Çıkıyor" mitinginde]]
+Ankara [[Bölge adliye mahkemesi|Bölge Adliye Mahkemesi]] (BAM) 36. Hukuk Dairesinin genel başkan [[Özgür Özel]]'in tedbiren görevden uzaklaştırılmasına ve [[Kemal Kılıçdaroğlu]]'nun görevi devralmasına yönelik verdiği [[mutlak butlan]] kararı,<ref>{{Web kaynağı | url = https://www.aa.com.tr/tr/gundem/kurultay-davasinda-kilicdaroglu-yonetiminin-chp-yonetimini-devralmasina-karar-verildi/3944890 | başlık = Kurultay davasında Kılıçdaroğlu yönetiminin CHP yönetimini devralmasına karar verildi | erişimtarihi = 27 Mayıs 2026 | tarih = 21 Mayıs 2026 | dil = Türkçe | çalışma = Anadolu Ajansı}}</ref> [[Ekrem İmamoğlu'nun tutuklanması]] sürecinin ardından yükselen hükûmet baskısı iddiaları<ref>{{Web kaynağı|url=https://www.hrw.org/tr/news/2026/03/03/turkiye-leading-opponent-of-erdogan-on-trial|başlık=Türkiye: Erdoğan'ın En Güçlü Rakibi Hakim Karşısında|erişimtarihi=27 Mayıs 2026|tarih=3 Mart 2026|yayıncı=Human Rights Watch|arşivurl=https://web.archive.org/web/20260724114921/https://www.hrw.org/tr/news/2026/03/03/turkiye-leading-opponent-of-erdogan-on-trial|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://medyascope.tv/2025/12/31/2025in-olayi-imamoglunun-tutuklanmasi/|başlık=2025'in olayı: İmamoğlu'nun tutuklanması süreci ve kısıtlamalar|erişimtarihi=27 Mayıs 2026|tarih=31 Aralık 2025|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260219113846/https://medyascope.tv/2025/12/31/2025in-olayi-imamoglunun-tutuklanmasi/|arşivtarihi=19 Şubat 2026|ölüurl=hayır}}</ref> ve eski genel başkan Kemal Kılıçdaroğlu'nun kurultayda usulsüzlük yapıldığını öne sürerek açılan davaları desteklemesi<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c202yd61d08o|başlık=Kılıçdaroğlu: 'Yargı kurultayı parayla satın alamazsınız dedi'|erişimtarihi=27 Mayıs 2026|tarih=27 Mayıs 2026|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260527092215/https://www.bbc.com/turkce/articles/c202yd61d08o|arşivtarihi=27 Mayıs 2026|ölüurl=hayır}}</ref> sonucunda ortaya çıkan siyasi kriz, yeni bir partinin kurulacağı iddialarını gündeme getirmiştir. Mutlak butlan sürecine giderken Cumhurbaşkanı [[Recep Tayyip Erdoğan]] ve [[Milliyetçi Hareket Partisi]] (MHP) Genel Başkanı [[Devlet Bahçeli]], Özgür Özel'e yönelik defalarca "Ankara merkezli yerli ve milli siyaset yapma" ve "Ekrem İmamoğlu'nun vesayetinden kopma"<ref>{{Haber kaynağı|url=https://medyascope.tv/2026/05/29/ahmet-sik-yazdi-bahcelinin-cagrisi-rejimle-uyumlu-dogal-sinirlarina-cekilmis-evcillestirilmis-bir-chp/|başlık=Ahmet Şık yazdı: Bahçeli'nin önerisi rejimle uyumlu doğal sınırlarına çekilmiş evcilleştirilmiş bir CHP|erişimtarihi=17 Haziran 2026|tarih=29 Mayıs 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260617075630/https://medyascope.tv/2026/05/29/ahmet-sik-yazdi-bahcelinin-cagrisi-rejimle-uyumlu-dogal-sinirlarina-cekilmis-evcillestirilmis-bir-chp/|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref> çağrısında bulunmuştur.<ref>{{Haber kaynağı|url=https://medyascope.tv/2026/03/09/erdogan-muhalefeti-yine-ankara-merkezli-siyaset-yapmaya-cagirdi/|başlık=Erdoğan muhalefeti yine "Ankara merkezli" siyaset yapmaya çağırdı|erişimtarihi=17 Haziran 2026|tarih=9 Mart 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260617080154/https://medyascope.tv/2026/03/09/erdogan-muhalefeti-yine-ankara-merkezli-siyaset-yapmaya-cagirdi/|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://bianet.org/haber/bahceli-chp-ye-kayyim-istiyor-ama-chp-ve-ozel-in-iyiligi-icin-yoksa-felaket-olacak-311285|başlık=Bahçeli CHP'ye kayyım istiyor ama CHP ve Özel'in iyiliği için: "Yoksa felaket olacak"|erişimtarihi=17 Haziran 2026|tarih=2026|yayıncı=Bianet|arşivurl=https://web.archive.org/web/20260617074942/https://bianet.org/haber/bahceli-chp-ye-kayyim-istiyor-ama-chp-ve-ozel-in-iyiligi-icin-yoksa-felaket-olacak-311285|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref> 
+
+İktidar kanadından gelen bu teklifleri kesin bir dille reddeden Özel; İmamoğlu'nun, parti yönetiminin ve kendilerinin hedef alınma gerekçesinin müesses nizama başkaldırmak ve iktidarın arzuladığı "kontrollü muhalefet" modeline entegre olmayı reddetmek olduğunu ülke geneli "Millet İradesine Sahip Çıkıyor" mitinglerinde duyurmuştur.<ref>{{Haber kaynağı|url=https://bianet.org/haber/ozgur-ozel-zeytinburnu-da-halka-seslendi-ya-tarihe-geceriz-ya-defolup-gideriz-teslim-olmak-yok-311124|başlık=Özgür Özel Zeytinburnu'da halka seslendi: "Ya tarihe geçeriz ya defolup gideriz, teslim olmak yok"|erişimtarihi=17 Haziran 2026|tarih=2026|yayıncı=Bianet|arşivurl=https://web.archive.org/web/20260617101346/https://bianet.org/haber/ozgur-ozel-zeytinburnu-da-halka-seslendi-ya-tarihe-geceriz-ya-defolup-gideriz-teslim-olmak-yok-311124|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.ankahaber.net/haber/detay/ozgur_ozelden_cumhurbaskani_erdogana_millet_merkezli_siyaset_yapiyoruz_253162|başlık=Özgür Özel'den Cumhurbaşkanı Erdoğan'a: "Millet merkezli siyaset yapıyoruz"|erişimtarihi=17 Haziran 2026|yayıncı=Anka Haber Ajansı|arşivurl=https://web.archive.org/web/20260617083926/https://ankahaber.net/haber/detay/ozgur_ozelden_cumhurbaskani_erdogana_millet_merkezli_siyaset_yapiyoruz_253162|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.sozcu.com.tr/amp/chp-de-mutlak-butlan-krizi-ozgur-ozel-genel-merkez-onundeki-kalabaliga-sesleniyor-p321976|başlık=Özgür Özel kürsüden Kılıçdaroğlu ile ne konuştuklarını açıkladı - Sözcü|erişimtarihi=17 Haziran 2026|çalışma=www.sozcu.com.tr|arşivurl=https://web.archive.org/web/20260617143743/https://www.sozcu.com.tr/amp/chp-de-mutlak-butlan-krizi-ozgur-ozel-genel-merkez-onundeki-kalabaliga-sesleniyor-p321976|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref>
+
+==== Parti yönetiminin tahliyesi ve meclis grubu direnişi ====
+Eylül 2025'teki [[Cumhuriyet Halk Partisi 22. Olağanüstü Kurultayı|22. Olağanüstü Kurultay]]'da genel başkanlığını koruyan Özgür Özel, 21 Mayıs 2026'da Ankara Bölge Adliye Mahkemesi (BAM) 36. Hukuk Dairesinin verdiği [[mutlak butlan]] kararıyla karşı karşıya kalmıştır. Kurultay süreçlerinde usulsüzlük yapıldığı iddiasıyla açılan dava neticesinde Özel'in genel başkanlığı düşürülmüş ve parti yönetimi fiilen eski genel başkan [[Kemal Kılıçdaroğlu]] ve ekibine geçmiştir.<ref name="MedyascopeDelek2">{{Web kaynağı|url=https://medyascope.tv/2026/05/22/ozgur-ozel-yeni-parti-kuracak-mi-aliser-delek-anlatti-video/|başlık=Özgür Özel yeni parti kuracak mı? Alişer Delek anlattı|erişimtarihi=15 Haziran 2026|tarih=22 Mayıs 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260724114959/https://medyascope.tv/2026/05/22/ozgur-ozel-yeni-parti-kuracak-mi-aliser-delek-anlatti-video/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+[[Dosya:Özgür_Özel_rally_in_İzmir,_May_2026_43.jpg|küçükresim|300x300pik|Mutlak butlan kararı sonrası Özgür Özel'in İzmir'deki ilk mitingi, Mayıs 2026]]
+Krizin derinleşmesiyle birlikte 24 Mayıs 2026'da, Kemal Kılıçdaroğlu'nun avukatlarının talebi doğrultusunda emniyet güçleri [[Cumhuriyet Halk Partisi|CHP]] Genel Merkezine baskın yapılmış ve bina boşaltılmıştır.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/ceqpw2wv7qeo|başlık=Polis eşliğinde tahliye: CHP Genel Merkezi'nde neler yaşandı?|erişimtarihi=15 Haziran 2026|tarih=24 Mayıs 2026|yayıncı=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260609082718/https://www.bbc.com/turkce/articles/ceqpw2wv7qeo|arşivtarihi=9 Haziran 2026|ölüurl=hayır}}</ref> Kendisine ulaştırılan tahliye tebligatını yırtarak protesto eden Özgür Özel, "Geri gelmek üzere çıkıyorum" beyanıyla beraberindeki binlerce partiliyle birlikte [[Türkiye Büyük Millet Meclisi|TBMM]]'ye doğru bir yürüyüş başlatmıştır.<ref name="DWYuruyus2">{{Web kaynağı|url=https://www.dw.com/tr/%C3%B6zg%C3%BCr-%C3%B6zelin-tarihi-meclis-y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC/a-77280999|başlık=Özgür Özel'in tarihi Meclis yürüyüşü|erişimtarihi=15 Haziran 2026|tarih=24 Mayıs 2026|yayıncı=Deutsche Welle|arşivurl=https://web.archive.org/web/20260620105335/https://www.dw.com/tr/%C3%B6zg%C3%BCr-%C3%B6zelin-tarihi-meclis-y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC/a-77280999|arşivtarihi=20 Haziran 2026|ölüurl=hayır}}</ref> Yoğun yağış altında gerçekleşen yedi kilometrelik yürüyüşün ardından Meclis önünde kitleye seslenen Özel, "Parti işgalden kurtulana kadar şu anki genel merkezimiz TBMM'deki CHP grubudur" diyerek karara boyun eğmeyeceklerini ilan etmiştir.<ref name="DWYuruyus2" /> 
+
+Karara destek veren Kılıçdaroğlu, "Yargı, kurultayı parayla satın alamazsınız dedi. Bu karar, delegenin iradesini ipotek altına almaya çalışanlara karşı hukukun verdiği bir cevaptır" açıklamasını yapmıştır.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c202yd61d08o|başlık=Kılıçdaroğlu: 'Yargı kurultayı parayla satın alamazsınız dedi'|erişimtarihi=27 Mayıs 2026|tarih=27 Mayıs 2026|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260527092215/https://www.bbc.com/turkce/articles/c202yd61d08o|arşivtarihi=27 Mayıs 2026|ölüurl=hayır}}</ref> Ayrıca, partinin görevden alınan yönetimini [[Fethullahçılar|Fetullahçılıkla]] ilişkilendirmiştir.<ref>{{Web kaynağı|url=https://medyascope.tv/2026/05/30/kilicdaroglu-feto-ajanlari-dedi-ozel-anitkabire-yurudu-canli-blog/|başlık=Kılıçdaroğlu "FETÖ ajanları" dedi, Özel Anıtkabir'e yürüdü|erişimtarihi=15 Haziran 2026|tarih=30 Mayıs 2026|dil=Türkçe|çalışma=Medyascope|ad=Haber|soyadı=Merkezi|arşivurl=https://web.archive.org/web/20260531130253/https://medyascope.tv/2026/05/30/kilicdaroglu-feto-ajanlari-dedi-ozel-anitkabire-yurudu-canli-blog/|arşivtarihi=31 Mayıs 2026|ölüurl=hayır}}</ref> Kılıçdaroğlu'nun kurmaylarından [[Bülent Kuşoğlu]] ise süreçle ilgili "devlet aklı bir şeyler kurguluyor" iddiasını öne sürmüştür.<ref>{{Web kaynağı|url=https://t24.com.tr/yazarlar/cansu-camlibel/kilicdaroglunun-45-yillik-yol-arkadasi-kusoglu-devlet-akli-bir-seyler-kurguluyor-adayimiz-mansur-bey-de-ozgur-bey-de-olabilir,55478|başlık=Kılıçdaroğlu’nun 45 yıllık yol arkadaşı Kuşoğlu: Devlet aklı bir şeyler kurguluyor, adayimiz Mansur Bey de Özgür Bey de olabilir|erişimtarihi=15 Haziran 2026|yayıncı=T24|yazar=Cansu Çamlıbel|arşivurl=https://web.archive.org/web/20260611020829/https://t24.com.tr/yazarlar/cansu-camlibel/kilicdaroglunun-45-yillik-yol-arkadasi-kusoglu-devlet-akli-bir-seyler-kurguluyor-adayimiz-mansur-bey-de-ozgur-bey-de-olabilir,55478|arşivtarihi=11 Haziran 2026|ölüurl=hayır}}</ref>
+==== Parti içi güç mücadelesi ve ihraçlar ====
+Değişimci kanat ise kararı, Türkiye'deki demokratik gerileme ile ilişkilendirerek iktidardaki [[Adalet ve Kalkınma Partisi|AK Parti]]'nin yerel seçim zaferinin ardından ana muhalefeti dizayn etmeye yönelik bir müdahalesi olarak değerlendirmiştir. Tutuklu bulunan Ekrem İmamoğlu cezaevinden verdiği mülakatta, Kılıçdaroğlu'nun Cumhurbaşkanı [[Recep Tayyip Erdoğan|Erdoğan]]'dan "emir aldığını ve her söyleneni koşa koşa yaptığını" belirterek kendisini Atatürk'ün [[Gençliğe Hitabe]]'sine atıfla "dahili bedhah kayyım" olarak tanımlamıştır. İmamoğlu, Kılıçdaroğlu'nu bu süreçte bir "figüran" olarak nitelemiş ve mahkeme kararıyla kurulan yönetimi "siyasi kayyımlık" olarak adlandırmıştır.<ref>{{Web kaynağı|url=https://tr.euronews.com/2026/06/01/imamoglundan-erdogandan-emir-alan-kilicdarogluna-dahili-bedhah-kayyim|başlık=İmamoğlu'ndan 'Erdoğan'dan emir alan' Kılıçdaroğlu'na: 'Dahili bedhah kayyım'|erişimtarihi=15 Haziran 2026|tarih=1 Haziran 2026|yayıncı=Euronews|arşivurl=https://web.archive.org/web/20260724114934/https://tr.euronews.com/2026/06/01/imamoglundan-erdogandan-emir-alan-kilicdarogluna-dahili-bedhah-kayyim|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> CHP Grup Başkanvekili [[Ali Mahir Başarır]] da Kılıçdaroğlu'nu bir "proje" olarak nitelendirmiş ve "demek ki görevi daha bitmemiş, bitmeyecek çilemiz varmış" diyerek mahkeme kararı sonrasında gelişen sürece sert tepki göstermiştir.<ref>{{Kaynak|url=https://t24.com.tr/video/ali-mahir-basarirdan-kilicdarogluna-proje-cikisi-demek-ki-gorevi-daha-bitmemis-bitmeyecek-cilemiz-varmis,70401|başlık=CHP’li Başarır, Kılıçdaroğlu uyarısını anlattı: Bu acayip bir adam, çok yalan söylüyor {{!}} T24|erişimtarihi=15 Haziran 2026|tarih=13 Haziran 2026|dil=Türkçe|arşivurl=https://web.archive.org/web/20260724114931/https://t24.com.tr/video/ali-mahir-basarirdan-kilicdarogluna-proje-cikisi-demek-ki-gorevi-daha-bitmemis-bitmeyecek-cilemiz-varmis,70401|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> 38. Olağan Kurultay'da genel başkanlığa aday olan gazeteci [[Örsan Öymen (1965 doğumlu)|Örsan Öymen]]; Kılıçdaroğlu'nun hükümetteki [[Adalet ve Kalkınma Partisi|AK Parti]] ile ilişkili olduğuna dair bilgilere sahip olduğunu öne sürmüş ve [[Ekrem İmamoğlu'nun tutuklanması]] ile başlayan yargı süreçlerinin merkezinde Kılıçdaroğlu'nun yer aldığını iddia etmiştir.<ref>{{Web kaynağı|url=https://www.egepostasi.com/haber/Prof-Dr-Oymen-ABD-AK-Parti-ve-Kilicdaroglu-isbirligi-var/391122|başlık=Prof. Dr. Öymen: ABD, AK Parti ve Kılıçdaroğlu işbirliği var|erişimtarihi=15 Haziran 2026|dil=Türkçe|çalışma=www.egepostasi.com|arşivurl=https://web.archive.org/web/20260724115358/https://www.egepostasi.com/haber/Prof-Dr-Oymen-ABD-AK-Parti-ve-Kilicdaroglu-isbirligi-var/391122|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> 
+
+Yaşanan bu gelişmeler parti içindeki eski dengeleri de etkilemiş; CHP'nin eski genel sekreteri [[Önder Sav]], 16 yıl aradan sonra Özel'e destek vermek amacıyla meclis grup toplantısına katılmıştır.<ref name="MedyascopeSav2">{{Web kaynağı|url=https://medyascope.tv/2026/06/02/onder-sav-ozgur-ozele-destek-icin-grup-toplantisina-katildi-partinin-semsiyesi-hepimize-lazim/|başlık=Önder Sav, Özgür Özel'e destek için grup toplantısına katıldı: “Partinin şemsiyesi hepimize lazım”|erişimtarihi=15 Haziran 2026|tarih=2 Haziran 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260603081408/https://medyascope.tv/2026/06/02/onder-sav-ozgur-ozele-destek-icin-grup-toplantisina-katildi-partinin-semsiyesi-hepimize-lazim/|arşivtarihi=3 Haziran 2026|ölüurl=hayır}}</ref> Toplantıda mevcut durumu "içine sindiremediğini" belirten Sav, "partinin şemsiyesi hepimize lazım" diyerek meşruiyet vurgusu yapmıştır.<ref name="MedyascopeSav2" /> Kılıçdaroğlu; aralarında grup başkanvekilleri olan [[Ali Mahir Başarır]] ve [[Gökhan Günaydın]] ile Malatya Milletvekili [[Veli Ağbaba]] ve [[Burhanettin Bulut]]'un da bulunduğu 9 milletvekilini kesin çıkarma istemiyle sevk ederek partiden tedbirli olarak çıkartmıştır. Kılıçdaroğlu ekibinin Özgür Özel için de ihraç hazırlığı yürüttüğü iddia edilmiştir.<ref name="YetkinReportIhrac2">{{Web kaynağı|url=https://yetkinreport.com/2026/06/10/kilicdaroglu-9-muhalifini-chpden-ihrac-etti-bolunmeye-bir-adim-daha/|başlık=Kılıçdaroğlu, 9 muhalifini CHP'den ihraç etti: bölünmeye bir adım daha|erişimtarihi=15 Haziran 2026|tarih=10 Haziran 2026|yayıncı=Yetkin Report|yazar=Murat Yetkin|arşivurl=https://web.archive.org/web/20260724114926/https://yetkinreport.com/2026/06/10/kilicdaroglu-9-muhalifini-chpden-ihrac-etti-bolunmeye-bir-adim-daha/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref><ref name="BianetIhrac2">{{Web kaynağı|url=https://bianet.org/haber/chpde-ihraclar-9-milletvekiline-karar-teblig-edildi-basarirdan-ozel-darbe-tepkisi-320485|başlık=CHP'de ihraçlar: 9 milletvekiline karar tebliğ edildi, Başarır'dan “özel darbe” tepkisi|erişimtarihi=15 Haziran 2026|tarih=12 Haziran 2026|yayıncı=Bianet|arşivurl=https://web.archive.org/web/20260613013032/https://bianet.org/haber/chpde-ihraclar-9-milletvekiline-karar-teblig-edildi-basarirdan-ozel-darbe-tepkisi-320485|arşivtarihi=13 Haziran 2026|ölüurl=hayır}}</ref>
+
+==== Kurultay talebinin reddi ve yeni parti çağrıları ====
+17 Haziran 2026'da Özgür Özel'i destekleyen 74 il başkanı, 833 delegenin olağanüstü kurultay imzasını genel merkeze teslim etmiştir.<ref name=":BBCMedyascope">{{Haber kaynağı|url=https://www.bbc.com/turkce/articles/cgevnnyxl84o|başlık=CHP'de olağanüstü kurultay hareketliliği|erişimtarihi=17 Haziran 2026|tarih=17 Haziran 2026|yayıncı=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260617024941/https://www.bbc.com/turkce/articles/cgevnnyxl84o|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://medyascope.tv/2026/06/17/chpye-olaganustu-kurultay-talebiyle-833-delegenin-imzalari-teslim-edildi-simdi-ne-olacak/|başlık=CHP’ye olağanüstü kurultay talebiyle 833 delegenin imzaları teslim edildi: Şimdi ne olacak?|erişimtarihi=5 Kasım 2026|tarih=17 Haziran 2026|dil=Türkçe|çalışma=Medyascope|ad=Özgecan|soyadı=Özgenç}}</ref> Bu hamlenin hemen ardından olağanüstü kurultay talebini reddeden Kılıçdaroğlu yönetimi; İstanbul İl Başkanı [[Özgür Çelik]] dahil üç ismi ihraç istemiyle YDK'ye sevk etmiş, Ankara İl Başkanlığı ve CHP Kadın Kolları yönetimini feshetmiştir.<ref>{{Haber kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-istanbul-il-baskani-ozgur-celik-icin-ihrac-karari-2513016|başlık=Son Dakika... CHP İstanbul İl Başkanı Özgür Çelik de aralarında: Çok sayıda il başkanı hakkında ihraç kararı|erişimtarihi=18 Haziran 2026|tarih=17 Haziran 2026|dil=Türkçe|çalışma=Cumhuriyet|arşivurl=https://web.archive.org/web/20260618022537/https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-istanbul-il-baskani-ozgur-celik-icin-ihrac-karari-2513016|arşivtarihi=18 Haziran 2026|ölüurl=hayır}}</ref> 
+
+18 Haziran 2026 tarihinde, [[İzmir belediye başkanları listesi|İzmir Büyükşehir Belediye Başkanı]] [[Cemil Tugay]] Kılıçdaroğlu yönetimine karşı tutumunu açıklayarak CHP'den istifa etmiştir.<ref>{{Haber kaynağı|url=https://x.com/drcemiltugay/status/2067674592249090356|başlık=Dr. Cemil Tugay (@drcemiltugay) on X|erişimtarihi=18 Haziran 2026|dil=İngilizce|çalışma=X (formerly Twitter)}}</ref> Ertesi gün tutuklu bulunan Bolu Belediye Başkanı [[Tanju Özcan]] da aynı gerekçeyle CHP'den istifa etmiştir.<ref>{{Web kaynağı|url=https://www.koroglugazetesi.com/tanju-ozcandan-cezaevinden-istifa-mektubu-isgal-altindaki-babaevinden-ayriliyorum|başlık=Tanju Özcan’dan cezaevinden istifa mektubu: "İşgal altındaki babaevinden ayrılıyorum"|erişimtarihi=19 Haziran 2026|tarih=19 Haziran 2026|dil=tr-TR|çalışma=Köroğlu Gazetesi {{!}} Bolu|ad=EMRAH|soyadı=SAĞIT|arşivurl=https://web.archive.org/web/20260724114929/https://www.koroglugazetesi.com/tanju-ozcandan-cezaevinden-istifa-mektubu-isgal-altindaki-babaevinden-ayriliyorum|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> 22 Haziran 2026 tarihinde Özel'i destekleyen CHP Yurtdışı Birlikleri, mutlak butlan kararına tepki olarak [[Strazburg]]'da bulunan [[Avrupa İnsan Hakları Mahkemesi]] (AİHM) önünde miting yapma kararı almıştır.<ref>{{Web kaynağı|url=https://tr.euronews.com/my-europe/2026/06/22/ozgur-ozel-cephesinden-yeni-hamle-aihm-onunde-miting-yapilacak|başlık=Özgür Özel cephesinden yeni hamle: AİHM önünde miting yapılacak|erişimtarihi=23 Haziran 2026|çalışma=tr.euronews.com|arşivurl=https://web.archive.org/web/20260623062927/https://tr.euronews.com/my-europe/2026/06/22/ozgur-ozel-cephesinden-yeni-hamle-aihm-onunde-miting-yapilacak|arşivtarihi=23 Haziran 2026|ölüurl=hayır}}</ref>
+
+23 Haziran 2026 tarihinde parti yönetimi, 833 delegenin topladığı imzaların tüzükte aranan şartları karşılamasına rağmen olağanüstü kurultay talebini reddetmiş ve Eylül ayında olağan kurultay sürecinin başlatılacağını açıklamıştır.<ref>{{Web kaynağı|url=https://serbestiyet.com/haberler/chpde-olagan-kurultay-sureci-eylulde-baslatilacak-242670/|başlık=CHP'de Olağan kurultay süreci Eylül'de başlatılacak|erişimtarihi=23 Haziran 2026|tarih=23 Haziran 2026|dil=Türkçe|çalışma=Serbestiyet|soyadı=Serbestiyet|arşivurl=https://web.archive.org/web/20260724114958/https://serbestiyet.com/haberler/chpde-olagan-kurultay-sureci-eylulde-baslatilacak-242670/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> Kararın ardından Sakarya Milletvekili [[Ümit Dikbayır]] CHP'den istifa etmiştir.<ref>{{Web kaynağı|url=https://serbestiyet.com/haberler/chpde-olagan-kurultay-sureci-eylulde-baslatilacak-242670/|başlık=CHP'de Olağan kurultay süreci Eylül'de başlatılacak|erişimtarihi=23 Haziran 2026|tarih=23 Haziran 2026|dil=Türkçe|çalışma=Serbestiyet|soyadı=Serbestiyet|arşivurl=https://web.archive.org/web/20260724114958/https://serbestiyet.com/haberler/chpde-olagan-kurultay-sureci-eylulde-baslatilacak-242670/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> İstanbul Milletvekili [[Cemal Enginyurt]] ise Özgür Özel liderliğinde yeni bir siyasi partinin kurulması çağrısını yapmıştır.<ref>{{Web kaynağı | url = https://t24.com.tr/gundem/chpli-enginyurttan-dikkat-ceken-yeni-yol-paylasimi-ozgur-ozel-liderliginde-yuruyus-baslasin,1331134?_t=1782237655480 | başlık = CHP’li Enginyurt’tan kurultay takvimi sonrası dikkat çeken 'yeni yol' paylaşımı: Özgür Özel liderliğinde "Yürüyüş" başlasın | erişimtarihi = 23 Haziran 2026 | tarih = 23 Haziran 2026 | dil = Türkçe | çalışma = T24 | ad = T24 Haber | soyadı = Merkezi}}</ref>
+
+13 Temmuz 2026 tarihinde Kemal Kılıçdaroğlu, Özgür Özel ve Ekrem İmamoğlu'nun Fetullahçılar tarafından desteklendiğini iddia ederek,<ref>{{Web kaynağı | url = https://t24.com.tr/politika/kemal-kilicdaroglu-aciklama-yapiyor,1335913?_t=1784032066145 | başlık = Kılıçdaroğlu: 'FETÖ’, Özgür Özel’e destek veriyor; hiç kimsenin partiden ayrılma lüksü yok, kim partiden ayrılıyorsa Erdoğan'a hizmet eder! | erişimtarihi = 14 Temmuz 2026 | tarih = 13 Temmuz 2026 | dil = Türkçe | çalışma = T24 | ad = T24 Haber | soyadı = Merkezi | arşivtarihi = 5 Eylül 2026 | arşivurl = https://web.archive.org/web/20260905162156/https://t24.com.tr/politika/kemal-kilicdaroglu-aciklama-yapiyor,1335913?_t=1784032066145 | ölüurl = hayır}}</ref> İmamoğlu hakkındaki soruşturma ve davaların 'sıradan' olmadığını belirtmiştir.<ref>{{Web kaynağı|url=https://tr.euronews.com/2026/07/13/kilicdaroglu-ibb-iddianamelerini-okudum-siradan-iddianameler-degil|başlık=Kılıçdaroğlu: 'İBB iddianamelerini okudum, sıradan iddianameler değil'|erişimtarihi=14 Temmuz 2026|çalışma=tr.euronews.com|arşivurl=https://web.archive.org/web/20260714000404/https://tr.euronews.com/2026/07/13/kilicdaroglu-ibb-iddianamelerini-okudum-siradan-iddianameler-degil|arşivtarihi=14 Temmuz 2026|ölüurl=hayır}}</ref> 14 Temmuz 2026 tarihinde Özgür Özel'in kurmaylarından Ankara Milletvekili [[Umut Akdoğan]], CHP'den istifa etmiştir.<ref>{{Web kaynağı|url=https://www.oncusehir.com/umut-akdogan-chpden-istifa-etti/128610|başlık=Umut Akdoğan CHP'den istifa etti!|erişimtarihi=14 Temmuz 2026|dil=Türkçe|çalışma=Öncü Şehir Gazetesi|arşivurl=https://web.archive.org/web/20260724115139/https://www.oncusehir.com/umut-akdogan-chpden-istifa-etti/128610|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> İstifa etmeden önce yaptığı açıklamalarda Özgür Özel'i yeni parti kurmak için harekete geçmeye çağırmıştır.<ref>{{Web kaynağı|url=https://haber.sol.org.tr/haber/chp-milletvekili-akdogandan-ozele-harekete-gecme-cagrisi-zaman-kem-kum-etme-zamani-degil|başlık=CHP Milletvekili Akdoğan'dan Özel'e harekete geçme çağrısı: 'Zaman kem küm etme zamanı değil' {{!}} soL haber|erişimtarihi=14 Temmuz 2026|dil=Türkçe|çalışma=haber.sol.org.tr|arşivurl=https://web.archive.org/web/20260724115138/https://haber.sol.org.tr/haber/chp-milletvekili-akdogandan-ozele-harekete-gecme-cagrisi-zaman-kem-kum-etme-zamani-degil|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+
+Meclis grubunu ve Parti Meclisi dengelerini sarsmayı hedefleyen bu yaptırımlar, parti içi uzlaşı yollarını tamamen tıkayarak Özgür Özel liderliğinde alternatif bir siyasi partinin kurulması sürecini nihai olarak tetiklemiş ve hızlandırmıştır.<ref name="YetkinReportIhrac">{{Web kaynağı|url=https://yetkinreport.com/2026/06/10/kilicdaroglu-9-muhalifini-chpden-ihrac-etti-bolunmeye-bir-adim-daha/|başlık=Kılıçdaroğlu, 9 muhalifini CHP'den ihraç etti: bölünmeye bir adım daha|erişimtarihi=15 Haziran 2026|tarih=10 Haziran 2026|yayıncı=Yetkin Report|yazar=Murat Yetkin|arşivurl=https://web.archive.org/web/20260724114926/https://yetkinreport.com/2026/06/10/kilicdaroglu-9-muhalifini-chpden-ihrac-etti-bolunmeye-bir-adim-daha/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+
+=== Partinin kuruluşu ===
+[[Dosya:CHP Konak District mass resignation announcement, July 2026.jpg|küçükresim|sağ|CHP Konak İlçe Örgütü'nden toplu istifa eden üyelerin Yeni Parti'ye katılacaklarını duyurdukları basın açıklaması.<ref>{{haber kaynağı |soyadı1=Arabacıoğlu |ad1=Sıla |başlık=CHP Konak’ta ilçe istifa etti: Örgütte “Özgür Özel” sesleri! |url=https://www.gazeteyenigun.com.tr/haber/28416296/chp-konakta-ilce-istifa-etti-orgutte-ozgur-ozel-sesleri |erişimtarihi=29 Temmuz 2026 |eser=Yenigün Gazetesi |tarih=27 Temmuz 2026 |dil=Türkçe |arşivurl=https://web.archive.org/web/20260730174516/https://www.gazeteyenigun.com.tr/haber/28416296/chp-konakta-ilce-istifa-etti-orgutte-ozgur-ozel-sesleri |arşivtarihi=30 Temmuz 2026 |ölüurl=hayır }}</ref>]]
+21 Temmuz 2026 tarihinde Özgür Özel, CHP TBMM Grup kürsüsünde yaptığı veda konuşmasında partinin kurulacağını ilan etmiştir.<ref name=":OzelGrupIlan">{{Haber kaynağı|url=https://www.sozcu.com.tr/ozgur-ozel-son-kez-chp-grup-kursusunde-p338426|başlık=Özgür Özel yeni partiyi ilan etti!|erişimtarihi=21 Temmuz 2026|tarih=21 Temmuz 2026|yayıncı=Sözcü}}</ref> Konuşmasında 2023 seçim yenilgisinin ardından Kemal Kılıçdaroğlu'nun tutumunu, genel merkezin mahkeme kararıyla devredilmesini ve parti örgütündeki ihraç kararlarını sert dille eleştiren Özel; iktidar kanadının ve "[[derin devlet]]" odaklarının kendisine [[Ekrem İmamoğlu]]'nu yalnız bırakıp "Ankara merkezli siyaset" yapması karşılığında 30 yıl boyunca parti liderliğini sürdürme teklifinde bulunduğunu, ancak kendisinin bu "kontrollü muhalefet" modelini reddettiğini belirtmiştir. Yaşananları tarihsel bir yol ayrımı olarak niteleyen Özel; seçilmiş il başkanları, Parti Meclisi üyeleri ve milletvekillerinin katılımıyla yeni yapının kuruluş adımlarının atıldığını belirtmiştir.<ref name=":OzelGrupIlan" />
+
+Özel, resmi prosedürlerin ve teknik işlemlerin tamamlanmasının ardından Meclis'teki milletvekili çoğunluğuyla birlikte kurulacak partinin, TBMM'de sayısal olarak açık ara farkla ana muhalefet konumu üstleneceğini ifade etmiştir.<ref name=":OzelGrupIlan" /> Siyasi çizgi olarak [[Altı Ok]] ilkelerine ve [[sosyal demokrasi]] değerlerine bağlı kalacaklarını vurgulayan Özel; sosyal demokratların yanı sıra Atatürk, Cumhuriyet ve [[Mîsâk-ı Millî]] değerleriyle sorunu olmayan [[Muhafazakârlık|muhafazakâr]], [[Liberalizm|liberal]], [[Milliyetçilik|milliyetçi]], [[Kürt siyasi hareketi|Kürt]], [[Sosyalizm|sosyalist]] demokrat kesimleri partinin resmi politikasının oluşturacak olan "Türkiye İttifakı" çatısı altında bir araya gelmeye çağırmıştır.<ref name=":OzelGrupIlan" /> Ayrıca konuşmasında, cezaevinde bulunan Ekrem İmamoğlu ve Mansur Yavaş ile bu yola çıktıklarını belirtmiştir.<ref name=":OzelGrupIlan" />
+
+== Siyasi pozisyon ve ideoloji ==
+Partinin lideri Özgür Özel, temel çizgisini [[sosyal demokrasi]] ve [[Altı Ok]] ilkelerine bağlılık olarak tanımlamıştır.<ref name=":1">{{Web kaynağı|url=https://www.evrensel.net/haber/5993111/ozgur-ozel-den-vakti-gelmis-bir-veda-konusmasi-millet-onune-yeni-bir-rota-koydu-yeni-partimizi-kuruyoruz|başlık=Özgür Özel'den 'Vakti gelmiş bir veda' konuşması: 'Millet önüne yeni bir rota koydu, yeni partimizi kuruyoruz'|erişimtarihi=25 Temmuz 2026|tarih=21 Temmuz 2026|dil=tr-TR|çalışma=|arşivurl=https://web.archive.org/web/20260725092432/https://www.evrensel.net/haber/5993111/ozgur-ozel-den-vakti-gelmis-bir-veda-konusmasi-millet-onune-yeni-bir-rota-koydu-yeni-partimizi-kuruyoruz|arşivtarihi=25 Temmuz 2026|ölüurl=hayır}}</ref> Bununla birlikte parti, toplumsal ve siyasi yelpazede geniş bir kapsayıcılığı hedefleyen "Türkiye İttifakı" söylemini benimsemektedir.<ref name=":2">{{Web kaynağı|url=https://kisadalga.net/haber/gundem/yeni-parti-programini-acikladi-turkiye-ittifaki-cagrisi-yapan-sosyal-demokrat-parti-139445|başlık=Yeni Parti programını açıkladı: Türkiye İttifakı çağrısı yapan sosyal demokrat parti|erişimtarihi=25 Temmuz 2026|tarih=25 Temmuz 2026|dil=Türkçe|çalışma=Kısa Dalga|arşivurl=https://web.archive.org/web/20260725061034/https://kisadalga.net/haber/gundem/yeni-parti-programini-acikladi-turkiye-ittifaki-cagrisi-yapan-sosyal-demokrat-parti-139445|arşivtarihi=25 Temmuz 2026|ölüurl=hayır}}</ref> Özel, farklı siyasi kesimleri kapsayan geniş bir ittifak anlayışını savunurken;  Atatürk ilkeleri, Cumhuriyet değerleri ve [[Mîsâk-ı Millî|Misak-ı Millî]] değerlerini savunan herkesi kucaklayacaklarını belirtmiştir.<ref name=":1" />
+
+== Hizipler ==
+[[Mutlak butlan]] kararı sonrasında CHP yönetiminin el değiştirmesiyle başlayan süreç, 24 Temmuz 2026'da İçişleri Bakanlığı'na verilen dilekçeyle Yeni Parti'nin resmen kurulmasıyla sonuçlanmıştır.<ref>{{Haber kaynağı|url=https://medyascope.tv/2026/05/29/rusen-cakir-yorumladi-ozgur-ozel-yeni-parti-kuracak-mi/|başlık=Özgür Özel yeni parti kuracak mı?|erişimtarihi=16 Haziran 2026|tarih=29 Mayıs 2026|yayıncı=Medyascope|yazar=Ruşen Çakır|arşivurl=https://web.archive.org/web/20260603151951/https://medyascope.tv/2026/05/29/rusen-cakir-yorumladi-ozgur-ozel-yeni-parti-kuracak-mi/|arşivtarihi=3 Haziran 2026|ölüurl=hayır}}</ref> Kuruluş öncesinde kamuoyu araştırmalarına yansıyan potansiyel seçmen desteği, hareketin tek tip bir yapıdan ziyade parti kurulmasıyla birlikte Parti Meclisi ve TBMM grubuna da yansıyan farklı hiziplerin ittifakına dayandığını göstermektedir.<ref>{{Haber kaynağı|url=https://www.cumhuriyet.com.tr/turkiye/tusam-anketi-olasi-bir-durumda-ozgur-ozel-in-kuracagi-yeni-parti-ilk-sirada-gosterildi-2506940|başlık=TÜSAM anketi: Olası bir durumda ‘Özgür Özel’in kuracağı yeni parti’ ilk sırada gösterildi|erişimtarihi=16 Haziran 2026|tarih=25 Mayıs 2026|dil=Türkçe|çalışma=Cumhuriyet|arşivurl=https://web.archive.org/web/20260627220207/https://www.cumhuriyet.com.tr/turkiye/tusam-anketi-olasi-bir-durumda-ozgur-ozel-in-kuracagi-yeni-parti-ilk-sirada-gosterildi-2506940|arşivtarihi=27 Haziran 2026|ölüurl=hayır}}</ref><ref name=":3">{{Web kaynağı | url = https://t24.com.tr/politika/ozel-saray-kuklasi-pasa-olmam-diyerek-yeni-partiyi-resmen-duyurdu-anketler-ne-diyor-yeni-parti-merkez-solda-mi-yoksa-sagda-mi-konumlanmali,1337555?_t=1784971239225 | başlık = Son ankette Mansur Yavaş'tan sürpriz; AKP zirvede ama Özgür Özel ile İmamoğlu'nun 'ANAP modeline' destek var | erişimtarihi = 25 Temmuz 2026 | tarih = 22 Temmuz 2026 | dil = Türkçe | çalışma = T24 | soyadı = ALINTI}}</ref>
+
+=== Reformist sosyal demokratlar ve yenilikçiler === 
+Partinin kurumsal aklını ve ideolojik merkezini oluşturan, Genel Başkan Özgür Özel'e yakın olan kanattır.<ref>{{Haber kaynağı |başlık=“Seçilmiş CHP”de yeni parti için kritik tarih 20 Temmuz |url=https://medyascope.tv/2026/06/15/secilmis-chpde-yeni-parti-icin-kritik-tarih-20-temmuz/ |yayıncı=Medyascope |tarih=15 Haziran 2026 |erişimtarihi=16 Haziran 2026 |arşivurl=https://web.archive.org/web/20260616083752/https://medyascope.tv/2026/06/15/secilmis-chpde-yeni-parti-icin-kritik-tarih-20-temmuz/ |arşivtarihi=16 Haziran 2026 |ölüurl=hayır }}</ref> Geleneksel bürokratik sol anlayış yerine çağdaş, Avrupa tarzı ve hak temelli bir sosyal demokrasi modelini savunurlar. Siyasi alanda [[demokratikleşme]], bireysel hak ve özgürlüklerin korunması ve kurumsal şeffaflık reformları üzerinde duran bu hizip; partinin kurumsal kimliğini [[Cumhuriyet Halk Partisi|CHP]]'den devralınan miras doğrultusunda biçimlendirmektedir. Bu kanatta ideolojik ve akademik olarak [[Selin Sayek Böke]], [[Namık Tan]] ve [[Gökçe Gökçen]] gibi figürler öne çıkmaktadır.<ref>{{Web kaynağı|url=https://tr.euronews.com/2025/12/06/ozgur-ozel-chpnin-yeni-a-takimini-acikladi-kurmay-kadrosunda-7-yeni-isim|erişimtarihi=16 Haziran 2026|çalışma=tr.euronews.com|başlık=Arşivlenmiş kopya|arşivurl=https://web.archive.org/web/20260616083231/https://tr.euronews.com/2025/12/06/ozgur-ozel-chpnin-yeni-a-takimini-acikladi-kurmay-kadrosunda-7-yeni-isim|arşivtarihi=16 Haziran 2026|ölüurl=hayır}}</ref> Ekonomik alanda ise katı [[Devletçilik|devletçi]] politikalara mesafeli durarak, regüle edilmiş bir [[serbest piyasa]] ile [[refah devleti]] ilkelerini harmanlayan bir çizgiyi savunmaktadırlar.<ref>{{Web kaynağı|url=https://serbestiyet.com/haberler/chp-yeni-parti-meclisi-eski-kadrolara-altili-masadan-takviyeler-ve-liberal-ekonomistler-225132/|başlık=CHP yeni Parti Meclisi: Eski kadrolara Altılı Masa’dan takviyeler ve liberal ekonomistler|erişimtarihi=16 Haziran 2026|tarih=1 Aralık 2025|dil=Türkçe|çalışma=Serbestiyet|soyadı=Serbestiyet|arşivurl=https://web.archive.org/web/20260616084120/https://serbestiyet.com/haberler/chp-yeni-parti-meclisi-eski-kadrolara-altili-masadan-takviyeler-ve-liberal-ekonomistler-225132/|arşivtarihi=16 Haziran 2026|ölüurl=hayır}}</ref> Parti kuruluş sürecinde resmî temasları ve TBMM grubundaki geçişlerin koordinesini üstlenen bu yapı, hareketin ana kurucu omurgasını temsil etmektedir.
+
+=== Pragmatist merkezciler ===
+Tutukluluk hali devam eden [[Ekrem İmamoğlu]]'nun yerel yönetim vizyonunu ve "siyasetüstü" kapsayıcılık stratejisini model alan, hareketin en kitlesel ve taban açısından en güçlü fraksiyonudur.<ref>{{Haber kaynağı|url=https://www.hrw.org/tr/news/2025/03/25/turkiye-court-jails-istanbul-mayor|başlık=Türkiye: İstanbul Büyükşehir Belediye Başkanı Tutuklandı|erişimtarihi=16 Haziran 2026|tarih=25 Mart 2025|yayıncı=Human Rights Watch|arşivurl=https://web.archive.org/web/20260613021450/https://www.hrw.org/tr/news/2025/03/25/turkiye-court-jails-istanbul-mayor|arşivtarihi=13 Haziran 2026|ölüurl=hayır}}</ref><ref name=":3" /> Bu kanadın medya, halkla ilişkiler ve stratejik iletişim süreçlerini, Mart 2025'teki operasyonlar kapsamında gözaltına alınan, emniyetteki ifadesinde tüm suçlamaları reddederek kamusal menfaatleri savunduğunu belirten İBB eski yöneticisi gazeteci [[Murat Ongun]] gibi figürler yürütmektedir.<ref>{{Haber kaynağı|url=https://medyascope.tv/2025/03/22/murat-ongunun-ifadesi-ortaya-cikti-hayatimda-isvicrede-kayaga-gitmedim/|başlık=Gözaltındaki Murat Ongun'un ifadesi: "İş ve işlemlerimizde kamu menfaatini koruduğumuz için suçlandığımızı düşünüyorum"|erişimtarihi=16 Haziran 2026|tarih=22 Mart 2025|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260722034959/https://medyascope.tv/2025/03/22/murat-ongunun-ifadesi-ortaya-cikti-hayatimda-isvicrede-kayaga-gitmedim/|arşivtarihi=22 Temmuz 2026|ölüurl=hayır}}</ref>
+
+Katı ideolojik kalıplardan ziyade "iyi yönetişim", teknokrasi, liyakat ve ekonomik kalkınma projelerine odaklanan bu fraksiyon, seçim kazanma odaklı bir merkez stratejisini benimsemektedir. Milliyetçi, merkez sağ ve muhafazakar seçmen bloklarıyla esnek ittifaklar kurulmasını savunarak hareketin sosyolojik tabanını genişletmeyi amaçlayan yapı, savcılık iddianamelerinde Ongun'un koordinasyonunda geniş bir medya ve kamuoyu ağı kurmakla itham edilse de tabandaki etkisini korumaktadır.<ref>{{Haber kaynağı|url=https://www.aa.com.tr/tr/gundem/ekrem-imamoglunun-gayri-resmi-iliskilerini-murat-ongunun-yuruttugu-iddia-edildi/3741184|başlık=Ekrem İmamoğlu'nun gayri resmi ilişkilerini Murat Ongun'un yürüttüğü iddia edildi|erişimtarihi=16 Haziran 2026|tarih=11 Kasım 2025|yayıncı=Anadolu Ajansı|arşivurl=https://web.archive.org/web/20251221215738/https://www.aa.com.tr/tr/gundem/ekrem-imamoglunun-gayri-resmi-iliskilerini-murat-ongunun-yuruttugu-iddia-edildi/3741184|arşivtarihi=21 Aralık 2025|ölüurl=hayır}}</ref> Nitekim kamuoyu araştırmalarındaki potansiyel oy havuzunun büyük oranda bu merkez genişlemesi ve kapsayıcılık stratejisine dayandığı belirtilmektedir.<ref name=":0">{{Haber kaynağı|url=https://t24.com.tr/gundem/anket-chp-lideri-ozgur-ozelin-potansiyel-oyu-nasil-yeni-parti-kurulmasi-durumunda-yuzde-kac-oy-alir,1329144|başlık=Anket: CHP lideri Özgür Özel'in potansiyel oyu nasıl, yeni parti kurulması durumunda yüzde kaç oy alır?|erişimtarihi=16 Haziran 2026|tarih=11 Haziran 2026|yayıncı=T24|arşivurl=https://web.archive.org/web/20260722033801/https://t24.com.tr/gundem/anket-chp-lideri-ozgur-ozelin-potansiyel-oyu-nasil-yeni-parti-kurulmasi-durumunda-yuzde-kac-oy-alir,1329144|arşivtarihi=22 Temmuz 2026|ölüurl=hayır}}</ref>
+
+=== Merkez sağcı kanat ve milliyetçiler ===
+Özgür Özel'in "Türkiye İttifakı" stratejisi doğrultusunda merkez sağ ve milliyetçi seçmen bloklarına açılmasını sağlayan genişleme fraksiyonudur.<ref name=":2" /> Bu grubun temsil gücünü; sürece destek vererek partiye katılan [[Cemal Enginyurt]], [[Salih Uzun]] ve [[Ümit Özlale]] gibi siyasetçiler oluşturmaktadır.<ref>{{Haber kaynağı|url=https://medyascope.tv/2025/02/04/cemal-enginyurt-ve-salih-uzun-chpye-katildi/|başlık=Cemal Enginyurt ve Salih Uzun CHP'ye katıldı|erişimtarihi=16 Haziran 2026|tarih=4 Şubat 2025|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20250210012840/https://medyascope.tv/2025/02/04/cemal-enginyurt-ve-salih-uzun-chpye-katildi/|arşivtarihi=10 Şubat 2025|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://medyascope.tv/2024/09/12/umit-ozlale-iyi-partiden-istifa-etti-milletvekili-sayisi-30a-dustu/|başlık=Ümit Özlale ikinci kez İYİ Parti'den istifa etti|erişimtarihi=16 Haziran 2026|tarih=12 Eylül 2024|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20240912150227/https://medyascope.tv/2024/09/12/umit-ozlale-iyi-partiden-istifa-etti-milletvekili-sayisi-30a-dustu/|arşivtarihi=12 Eylül 2024|ölüurl=hayır}}</ref> İdeolojik kamplaşmalardan uzak, ekonomik kriz odaklı ve millî hassasiyetleri gözeten bir merkez siyaseti savunan bu hizip; partinin muhafazakar ve milliyetçi seçmen nezdindeki geçirgenliğini artırarak yeni kurulan partinin merkeze oturma iddiasını desteklemektedir.<ref name=":0" />
+
+=== Kürt hakları ve demokratikleşme kanadı ===
+[[Türkiye Kürtleri|Kürt]] meselesinin demokratik çözümünü, eşit yurttaşlığı, anadil hakkını, [[İnsan hakları|insan haklarını]] ve [[Demokratikleşme|demokratikleşmeyi]] savunan kanattır'''.''' [[Türkiye Kürtleri|Kürt vatandaşların]] anadillerini kullanma ve geliştirme hakkının güvence altına alınmasını, siyasi ve kültürel hakların genişletilmesini ve [[Kürtler|Kürt]] meselesinin siyasi diyalog yoluyla çözülmesini desteklemektedir.<ref>{{Web kaynağı|url=https://t24.com.tr/yazarlar/cetin-ceko/sezgin-tanrikulu-chp-kurt-sorununda-cozum-karsitligindan-cozum-arayan-parti-konumuna-geldi,13459|başlık=Çetin Çeko {{!}} Sezgin Tanrıkulu: CHP, Kürt sorununda çözüm karşıtlığından çözümcü parti konumuna geldi|erişimtarihi=14 Ağustos 2026|tarih=16 Aralık 2015|dil=Türkçe|çalışma=T24|ad=Çetin|soyadı=Çeko|arşivurl=https://web.archive.org/web/20260814212926/https://t24.com.tr/yazarlar/cetin-ceko/sezgin-tanrikulu-chp-kurt-sorununda-cozum-karsitligindan-cozum-arayan-parti-konumuna-geldi,13459|arşivtarihi=14 Ağustos 2026|ölüurl=hayır}}</ref> <ref>{{Web kaynağı|url=https://chp.org.tr/haberler/21-subat-dunya-anadili-gunu-sezgin-tanrikulu-ana-dil-bir-guvenlik-sorunu-degil-bir-esitlik-meselesidir|başlık=21 Şubat Dünya Anadili Günü... Sezgin Tanrıkulu: "Ana Dil Bir Güvenlik Sorunu Değil, Bir Eşitlik Meselesidir"|erişimtarihi=14 Ağustos 2026|dil=Türkçe|çalışma=chp.org.tr|arşivurl=https://web.archive.org/web/20260814190708/https://chp.org.tr/haberler/21-subat-dunya-anadili-gunu-sezgin-tanrikulu-ana-dil-bir-guvenlik-sorunu-degil-bir-esitlik-meselesidir|arşivtarihi=14 Ağustos 2026|ölüurl=hayır}}</ref> Ayrıca [[Federalizm|yerel yönetimlerin güçlendirilmesini]] ve [[Avrupa Yerel Yönetimler Özerklik Şartı|Avrupa Yerel Yönetimler Özerklik Şartı'nın]] uygulanmasını savunmaktadır. Kanadın öne çıkan ismi [[Sezgin Tanrıkulu]]'dur.
+
+Tanrıkulu, uzun yıllardır [[insan hakları]] alanında çalışmalar yürütmüş; Diyarbakır Barosu Başkanlığı yapmış, [[Türkiye İnsan Hakları Vakfı]]’nın kurucuları arasında yer almış ve 2023 yılında ''CHP Kürt Sorununun Çözümünde Ne Dedi?'' adlı kitabı yayımlamıştır. [[Türkiye Büyük Millet Meclisi|TBMM]]’deki konuşmalarında Kürt meselesinin insan hakları ve [[Demokrasi|demokrasiyle]] ilişkisine vurgu yapmış; [[Türkler|Türk]] ve [[Kürtler|Kürt]] vatandaşların eşit olduğunu, siyasal sürecin ise eşitlik, [[özgürlük]] ve [[demokrasi]] temelinde yürütülmesi gerektiğini savunmuştur.<ref>{{Web kaynağı |url=https://www.tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay?eid=9901 |başlık=Arşivlenmiş kopya |erişimtarihi=14 Ağustos 2026 |arşivurl=https://web.archive.org/web/20260814191046/https://www.tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay%3Feid%3D9901 |arşivtarihi=14 Ağustos 2026 |ölüurl=hayır }}</ref><ref>{{Web kaynağı|url=https://t24.com.tr/gundem/chp-li-tanrikulu-kent-uzlasisi-davasi-kurt-meselesinin-demokratik-cozumune-iliskin-bir-iradeye-yarginin-gosterdigi-direnctir,1280552|başlık=CHP'li Tanrıkulu: "Kent Uzlaşısı davası", Kürt meselesinin demokratik çözümüne ilişkin bir iradeye yargının gösterdiği dirençtir!|erişimtarihi=14 Ağustos 2026|tarih=2 Aralık 2025|dil=Türkçe|çalışma=T24|ad=T24 Haber|soyadı=Merkezi|arşivurl=https://web.archive.org/web/20260815064337/https://t24.com.tr/gundem/chp-li-tanrikulu-kent-uzlasisi-davasi-kurt-meselesinin-demokratik-cozumune-iliskin-bir-iradeye-yarginin-gosterdigi-direnctir,1280552|arşivtarihi=15 Ağustos 2026|ölüurl=hayır}}</ref>
+
+== Yapılanma ==
+
+=== Partinin logosu ===
+[[Dosya:Yeni Parti rozeti.jpg|küçükresim|sağ|Partinin rozeti]]
+Partinin logosu, ilk olarak partinin kurulduğu tarih olan 24 Temmuz 2026'da Özel'in [[X (sosyal ağ)|X]] hesabındaki fotoğrafını değiştirerek görülmüştür.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/yeni-parti-nin-logosu-ortaya-cikti-p339346|başlık=YENİ Parti'nin logosu ortaya çıktı! - Sözcü Gazetesi|erişimtarihi=26 Temmuz 2026|tarih=24 Temmuz 2026|dil=Türkçe|çalışma=www.sozcu.com.tr|ad=Haber|soyadı=Merkezi|arşivurl=https://web.archive.org/web/20260724172443/https://www.sozcu.com.tr/yeni-parti-nin-logosu-ortaya-cikti-p339346|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> Ayrıca yine aynı gün Özel, attığı bir tweetle logoyu resmen duyurmuştur.<ref>{{Haber kaynağı|url=https://x.com/eczozgurozel/status/2080582247812366642?s=20|başlık=X'te Özgür Özel (@eczozgurozel)|erişimtarihi=26 Temmuz 2026|tarih=24 Temmuz 2026|dil=tr-TR|çalışma=X (formerly Twitter)}}</ref> Açıklanan logo, [[Netflix]]'in logosuna benzetilmiştir.<ref>{{Web kaynağı|url=https://t24.com.tr/politika/ozgur-ozel-yeni-partinin-logosu-henuz-belli-degil,1338887|başlık=Özgür Özel: Yeni Parti'nin logosu henüz belli değil|erişimtarihi=28 Temmuz 2026|tarih=28 Temmuz 2026|dil=Türkçe|çalışma=T24|ad=T24 Haber|soyadı=Merkezi|arşivurl=https://web.archive.org/web/20260728175238/https://t24.com.tr/politika/ozgur-ozel-yeni-partinin-logosu-henuz-belli-degil,1338887|arşivtarihi=28 Temmuz 2026|ölüurl=hayır}}</ref> Logonun tasarımcısı Salih Cem Pişkin [https://t24.com.tr/politika/yeni-partinin-tartistilan-logosunun-yaraticisi-t24e-konustu-fikrin-arkasinda-partinin-kurulus-hikyesi-var-sadelik-siradanlik-demek-degildir,1338982?_t=1787600992808 T24]'e verdiği röportajda ''"Logoya yalnızca kırmızı renk veya gölge üzerinden bakıldığında benzerlik kurulabilir; fakat bütün kompozisyon değerlendirildiğinde farklı bir tasarım dili ve farklı bir anlam dünyası görülüyor."'' açıklamasını yaptı.
+<references group="https://t24.com.tr/politika/yeni-partinin-tartistilan-logosunun-yaraticisi-t24e-konustu-fikrin-arkasinda-partinin-kurulus-hikyesi-var-sadelik-siradanlik-demek-degildir,1338982?_t=1787601022457" />
+''[[BBC Türkçe]]''<nowiki/>'ye konuşan partililer, logo hakkındaki hazırlıkların devam ettiğini söylemiştir.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c14103pz2y1o|başlık=Yeni Parti: Logosu dahil hakkında bilinenleri derledik|erişimtarihi=26 Temmuz 2026|tarih=22 Temmuz 2026|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260726161457/https://www.bbc.com/turkce/articles/c14103pz2y1o|arşivtarihi=26 Temmuz 2026|ölüurl=hayır}}</ref> [[Barış Yarkadaş]], logo seçiminde Özel'in, logoda yalnızca parti isminin olmasını istediğini iddia etmiştir.<ref>{{Web kaynağı | url = https://x.com/tv100/status/2080767067670622596?s=20 | başlık = "LOGOYA NAZAR BONCUĞU KOYACAKLARDI"}}</ref> 28 Temmuz'da [[Deniz Zeyrek]], Özgür Özel'e logo hakkında sorular sordu.<ref>{{Kaynak|url=https://www.youtube.com/watch?v=7RQrGZbi8Vo|başlık=Deniz Zeyrek: "Özgür Özel Yeni Parti milletvekillerine gönderdiği mesajda ne istedi?"|erişimtarihi=28 Temmuz 2026|tarih=27 Temmuz 2026|soyadı=Deniz Zeyrek|arşivurl=https://web.archive.org/web/20260728092136/https://www.youtube.com/watch?v=7RQrGZbi8Vo|arşivtarihi=28 Temmuz 2026|ölüurl=hayır}}</ref> Özel ise "Bu partimizin logosu değil, partimizin ismi. Partimizin ismini görünür ve farkındalık yaratacak şekilde, hafızada kalacak şekilde tasarım yaptık. Asıl logoyu gerekirse yarışma açacağız, o yarışmada gelen önerilere bakacağız." demiştir.<ref>{{Web kaynağı|url=https://www.haber7.com/siyaset/haber/3646891-yeni-partinin-logosu-degisecek-mi-ozgur-ozel-acikladi|başlık=Yeni Parti'nin logosu değişecek mi? Özgür Özel açıkladı|erişimtarihi=28 Temmuz 2026|dil=Türkçe|çalışma=Haber7|soyadı=Haber7|arşivurl=https://web.archive.org/web/20260728113516/https://www.haber7.com/siyaset/haber/3646891-yeni-partinin-logosu-degisecek-mi-ozgur-ozel-acikladi|arşivtarihi=28 Temmuz 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.marketingturkiye.com.tr/haberler/ozgur-ozel-yeni-partinin-logosunu-yarismayla-belirleyebiliriz/|başlık=Özgür Özel: "Yeni Partinin Logosunu Yarışmayla Belirleyebiliriz" {{!}} Marketing Türkiye|erişimtarihi=28 Temmuz 2026|tarih=28 Temmuz 2026|dil=Türkçe|çalışma=www.marketingturkiye.com.tr|arşivurl=https://web.archive.org/web/20260728184115/https://www.marketingturkiye.com.tr/haberler/ozgur-ozel-yeni-partinin-logosunu-yarismayla-belirleyebiliriz/|arşivtarihi=28 Temmuz 2026|ölüurl=hayır}}</ref> Özel'in bu açıklamasıyla, Yarkadaş'ın iddiası doğrulanmıştır. Aynı tarihte  [[Süleyman Bülbül]], logonun kurultayda değiştirilebileceğini söylemiştir.<ref>{{Web kaynağı|url=https://www.haberturk.com/gundem/yeni-partili-bulbul-logo-daha-belli-olmadi-3901586|başlık=Yeni Partili Bülbül: Logo daha belli olmadı {{!}} Son dakika haberleri|erişimtarihi=28 Temmuz 2026|tarih=28 Temmuz 2026|dil=Türkçe|çalışma=Habertürk|soyadı=Habertürk|arşivurl=https://web.archive.org/web/20260728100154/https://www.haberturk.com/gundem/yeni-partili-bulbul-logo-daha-belli-olmadi-3901586|arşivtarihi=28 Temmuz 2026|ölüurl=hayır}}</ref>
+
+Logoya yönelik tepkilerin üzerine Özel ve ekibinin yeni logo tasarladıkları iddia edildi.<ref>{{Web kaynağı|url=https://haberiniz.com.tr/ozgur-ozelin-yeni-partisinin-logosu-degisiyor|başlık=Özgür Özel'in Yeni Partisi'nin logosu değişiyor!|erişimtarihi=27 Temmuz 2026|tarih=27 Temmuz 2026|dil=Türkçe|çalışma=Haberiniz|ad=Fatma Gül tarafından|soyadı=yayınlandı|arşivurl=https://web.archive.org/web/20260728194224/https://haberiniz.com.tr/ozgur-ozelin-yeni-partisinin-logosu-degisiyor|arşivtarihi=28 Temmuz 2026|ölüurl=hayır}}</ref>
+
+=== Partinin ekonomisi ===
+Yeni Parti, [[2023 Türkiye genel seçimleri|önceki genel seçimlere]] katılmadığı için hazine yardımı alamayacaktır.<ref>{{Haber kaynağı|url=https://www.cumhuriyet.com.tr/turkiye/yeni-parti-ye-hazine-engeli-90-vekil-gecse-de-devlet-yardimi-alinamayacak-2522791|başlık='Yeni parti’ye Hazine engeli: 90 vekil geçse de devlet yardımı alınamayacak|erişimtarihi=22 Temmuz 2026|tarih=22 Temmuz 2026|dil=Türkçe|çalışma=Cumhuriyet|arşivurl=https://web.archive.org/web/20260722015406/https://www.cumhuriyet.com.tr/turkiye/yeni-parti-ye-hazine-engeli-90-vekil-gecse-de-devlet-yardimi-alinamayacak-2522791|arşivtarihi=22 Temmuz 2026|ölüurl=hayır}}</ref> Partinin kuruluş işlemlerinin tamamlanmasının ardından 29 Temmuz 2026 tarihinde "Yeni Dayanışma" adında bir bağış kampanyası başlatılmıştır. Kampanya başladıktan 24 saat sonra parti yetkilileri tarafından 113.841.910 TL bağış toplandığı açıklanmıştır. 24 Ağustos 2026 tarihinde partiye yapılan bağışlar ve yeni kayıt olan üyelerle birlikte 477.203.229 TL bağış ve aidat desteği sağlandığı açıklanmıştır.
+
+=== Genel başkanlar ===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Özgür Özel rally in İzmir, May 2026 37 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Özgür Özel]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1974|9|21}}}}
+| 24 Temmuz 2026
+| ''Görevde''
+| {{ayd|2026|7|24|sep=and|duration=on}}
+|}
+
+=== Genel sekreterler ===
+{{div sütunu|colwidth=20em}}
+* [[Yunus Emre (siyasetçi)|Yunus Emre]] (2026-günümüz)
+
+{{div sütunu-son}}
+
+=== Merkez Yönetim Kurulu üyeleri ===
+{{Ayrıca bakınız|Gölge Kabine (Türkiye)|Özel Gölge Kabinesi}}
+{| class="wikitable"
+!#
+!İsim
+!Görev
+!Seçim bölgesi
+|-
+|1
+|[[Özgür Özel]]
+|Genel başkan
+|[[Manisa]]
+|-
+|2
+|[[Yunus Emre (siyasetçi)|Yunus Emre]]
+|Genel sekreter
+|[[İstanbul]]
+|-
+|3
+|[[Zeynel Emre]]
+|Parti sözcüsü
+|[[İstanbul]]
+|-
+|4
+|[[Ensar Aytekin]]
+|Örgütlerden sorumlu genel başkan yardımcısı
+|[[Balıkesir]]
+|-
+|5
+|[[Özgür Ceylan]]
+|İdari ve mali işlerden sorumlu genel başkan yardımcısı
+|[[Çanakkale]]
+|-
+|6
+|[[Yaşar Tüzün]]
+|Yerel yönetimlerden sorumlu genel başkan yardımcısı
+|[[Bilecik]]
+|-
+|7
+|[[Gizem Özcan]]
+|Hukuk ve seçim işlerinden sorumlu genel başkan yardımcısı
+|[[Muğla]]
+|-
+|8
+|[[Nurhayat Altaca Kayışoğlu]]
+|Yurt dışı örgütlenmeden sorumlu genel başkan yardımcısı
+|[[Bursa]]
+|-
+|9
+|[[Utku Çakırözer]]
+|Medyadan sorumlu genel başkan yardımcısı
+|[[Eskişehir]]
+|-
+|10
+|[[Aylin Yaman]]
+|Halkla ilişkilerden sorumlu genel başkan yardımcısı
+|[[Ankara]]
+|}
+
+=== Yüksek Disiplin Kurulu üyeleri ===
+2026 yılı itibarıyla partinin YDK üyeleri:<ref>{{Haber kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-nin-pm-ve-ydk-uyeleri-belli-oldu-2523578|başlık=Son Dakika... YENİ Parti'nin PM ve YDK üyeleri belli oldu!|erişimtarihi=24 Temmuz 2026|tarih=24 Temmuz 2026|dil=Türkçe|çalışma=Cumhuriyet|arşivurl=https://web.archive.org/web/20260724152706/https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-nin-pm-ve-ydk-uyeleri-belli-oldu-2523578|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+{| class="wikitable"
+!#
+!İsim
+!Görev
+!Şehir
+|-
+|1
+|Bülent Yücetürk
+|YDK Başkanı
+|
+|-
+|2
+|Gülsemin Kaya
+|YDK Başkan Yardımcısı
+|
+|-
+|3
+|[[Mehmet Hadimi Yakupoğlu]]
+|YDK Genel Sekreteri
+|
+|-
+|4
+|Ahmet Tuna Soydemir
+| rowspan="12" |YDK üyesi
+|
+|-
+|5
+|Ali Güvenbaş
+|
+|-
+|6
+|Buse Batyar
+|
+|-
+|7
+|Deniz Orhan
+|
+|-
+|8
+|Emin Anıl Koç
+|
+|-
+|9
+|Emrecan Dalveren
+|
+|-
+|10
+|Ezgi Rahime Taşdemir
+|
+|-
+|11
+|Işıl Nağme Evgin
+|
+|-
+|12
+|Kubilay Cem Baran Fırat
+|
+|-
+|13
+|Mete Doğukan Beyaz
+|
+|-
+|14
+|Ural Baysal
+|
+|-
+|15
+|Ziya Gökalp Koca
+|
+|}
+
+=== Parti Meclisi üyeleri ===
+Kurucular Kurulu toplantısında aşağıdaki isimler Parti Meclisi üyeleri olarak atanmıştır:<ref>{{Haber kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-nin-pm-ve-ydk-uyeleri-belli-oldu-2523578|başlık=Son Dakika... YENİ Parti'nin PM ve YDK üyeleri belli oldu!|erişimtarihi=24 Temmuz 2026|tarih=24 Temmuz 2026|dil=Türkçe|çalışma=Cumhuriyet|arşivurl=https://web.archive.org/web/20260724152706/https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-nin-pm-ve-ydk-uyeleri-belli-oldu-2523578|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref>
+{| class="wikitable"
+!#
+!İsim
+!Şehir
+|-
+|1
+|[[Tuncay Özkan]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|-
+|2
+|[[Ahmet Vehbi Bakırlıoğlu]]
+|[[Manisa (il)|Manisa]]
+|-
+|3
+|[[Ali Gökçek]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|-
+|4
+|[[Aliye Timisi Ersever]]
+|[[Ankara (il)|Ankara]] (1. Bölge)
+|-
+|5
+|[[Aliye Coşar]]
+|[[Antalya (il)|Antalya]]
+|-
+|6
+|[[Asu Kaya]]
+|[[Osmaniye (il)|Osmaniye]]
+|-
+|7
+|[[Aşkın Genç]]
+|[[Kayseri (il)|Kayseri]]
+|-
+|8
+|[[Ayça Taşkent]]
+|[[Sakarya]]
+|-
+|9
+|[[Ayhan Barut]]
+|[[Adana (il)|Adana]]
+|-
+|10
+|[[Aykut Kaya]]
+|[[Antalya (il)|Antalya]]
+|-
+|11
+|[[Aylin Yaman]]
+|[[Ankara (il)|Ankara]] (3. Bölge)
+|-
+|12
+|[[Ayşe Sibel Yanıkömeroğlu]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|-
+|13
+|[[Barış Karadeniz]]
+|[[Sinop (il)|Sinop]]
+|-
+|14
+|[[Bekir Başevirgen]]
+|[[Manisa (il)|Manisa]]
+|-
+|15
+|[[Bilal Bilici]]
+|[[Adana (il)|Adana]]
+|-
+|16
+|[[Bülent Tezcan]]
+|[[Aydın (il)|Aydın]]
+|-
+|17
+|[[Cavit Arı]]
+|[[Antalya (il)|Antalya]]
+|-
+|18
+|[[Cemal Enginyurt]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|-
+|19
+|[[Cumhur Uzun]]
+|[[Muğla (il)|Muğla]]
+|-
+|20
+|[[Deniz Yavuzyılmaz]]
+|[[Zonguldak (il)|Zonguldak]]
+|-
+|21
+|[[Deniz Yücel (siyasetçi)|Deniz Yücel]]
+|[[İzmir (il)|İzmir]] (2. Bölge)
+|-
+|22
+|[[Doğan Demir]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|-
+|23
+|[[Ednan Arslan]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|-
+|24
+|[[Elvan Işık Gezmiş]]
+|[[Giresun (il)|Giresun]]
+|-
+|25
+|[[Ensar Aytekin]]
+|[[Balıkesir (il)|Balıkesir]]
+|-
+|26
+|[[Evrim Karakoz]]
+|[[Aydın (il)|Aydın]]
+|-
+|27
+|[[Evrim Rızvanoğlu|Evrim Rızvanoğlu Emir]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|-
+|28
+|[[Eylem Ertuğ Ertuğrul]]
+|[[Zonguldak (il)|Zonguldak]]
+|-
+|29
+|[[Fahri Özkan]]
+|[[Kırklareli (il)|Kırklareli]]
+|-
+|30
+|[[Fethi Açıkel]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|-
+|31
+|[[Gamze Taşcıer]]
+|[[Ankara (il)|Ankara]] (1. Bölge)
+|-
+|32
+|[[Gizem Özcan]]
+|[[Muğla (il)|Muğla]]
+|-
+|33
+|[[Gökçe Gökçen]]
+|[[İzmir (il)|İzmir]] (2. Bölge)
+|-
+|34
+|[[Hasan Öztürk]]
+|[[Bursa (il)|Bursa]] (2. Bölge)
+|-
+|35
+|[[Yalım Halıcı]]
+|[[Isparta (il)|Isparta]]
+|-
+|36
+|[[İbrahim Arslan]]
+|[[Eskişehir (il)|Eskişehir]]
+|-
+|37
+|[[İsmail Atakan Ünver]]
+|[[Karaman (il)|Karaman]]
+|-
+|38
+|[[İsmet Güneşhan]]
+|[[Çanakkale (il)|Çanakkale]]
+|-
+|39
+|[[İzzet Akbulut]]
+|[[Burdur (il)|Burdur]]
+|-
+|40
+|[[Kayıhan Pala]]
+|[[Bursa (il)|Bursa]] (1. Bölge)
+|-
+|41
+|[[Mahmut Tanal]]
+|[[Şanlıurfa (il)|Şanlıurfa]]
+|-
+|42
+|[[Mehmet Tahtasız]]
+|[[Çorum (il)|Çorum]]
+|-
+|43
+|[[Salih Uzun]]
+|[[İzmir (il)|İzmir]] (2. Bölge)
+|-
+|44
+|[[Melih Meriç]]
+|[[Gaziantep (il)|Gaziantep]]
+|-
+|45
+|[[Metin İlhan (siyasetçi)|Metin İlhan]]
+|[[Kırşehir (il)|Kırşehir]]
+|-
+|46
+|[[Murat Bakan]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|-
+|47
+|[[Murat Çan]]
+|[[Samsun (il)|Samsun]]
+|-
+|48
+|[[Mustafa Erdem (1963 doğumlu siyasetçi)|Mustafa Erdem]]
+|[[Antalya (il)|Antalya]]
+|-
+|49
+|[[Sezgin Tanrıkulu]]
+|[[Diyarbakır (il)|Diyarbakır]]
+|-
+|50
+|[[Mühip Kanko]]
+|[[Kocaeli]]
+|-
+|51
+|[[Nail Çiler]]
+|[[Kocaeli]]
+|-
+|52
+|[[Namık Tan]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|-
+|53
+|[[Nurhayat Altaca Kayışoğlu]]
+|[[Bursa (il)|Bursa]] (1. Bölge)
+|-
+|54
+|[[Okan Konuralp]]
+|[[Ankara (il)|Ankara]] (1. Bölge)
+|-
+|55
+|[[Orhan Sümer]]
+|[[Adana (il)|Adana]]
+|-
+|56
+|[[Özgür Ceylan]]
+|[[Çanakkale (il)|Çanakkale]]
+|-
+|57
+|[[Gökan Zeybek]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|-
+|58
+|[[Özgür Erdem İncesu]]
+|[[Ardahan (il)|Ardahan]]
+|-
+|59
+|[[Reşat Karagöz]]
+|[[Amasya (il)|Amasya]]
+|-
+|60
+|[[Servet Mullaoğlu]]
+|[[Hatay]]
+|-
+|61
+|[[Seyit Torun]]
+|[[Ordu (il)|Ordu]]
+|-
+|62
+|[[Sibel Suiçmez]]
+|[[Trabzon (il)|Trabzon]]
+|-
+|63
+|[[Suat Özçağdaş]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|-
+|64
+|[[Süleyman Bülbül]]
+|[[Aydın (il)|Aydın]]
+|-
+|65
+|[[Süreyya Öneş Derici]]
+|[[Muğla (il)|Muğla]]
+|-
+|66
+|[[Şeref Arpacı]]
+|[[Denizli (il)|Denizli]]
+|-
+|67
+|[[Tahsin Ocaklı]]
+|[[Rize (il)|Rize]]
+|-
+|68
+|[[Talat Dinçer]]
+|[[Mersin (il)|Mersin]]
+|-
+|69
+|[[Talih Özcan]]
+|[[Düzce (il)|Düzce]]
+|-
+|70
+|[[Türkan Elçi (siyasetçi)|Türkan Elçi]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|-
+|71
+|[[Uğur Bayraktutan]]
+|[[Artvin (il)|Artvin]]
+|-
+|72
+|[[Ulaş Karasu]]
+|[[Sivas (il)|Sivas]]
+|-
+|73
+|[[Utku Çakırözer]]
+|[[Eskişehir (il)|Eskişehir]]
+|-
+|74
+|[[Ümit Özlale]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|-
+|75
+|[[Yaşar Tüzün]]
+|[[Bilecik (il)|Bilecik]]
+|-
+|76
+|[[Yunus Emre (siyasetçi)|Yunus Emre]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|-
+|77
+|[[Yüksel Taşkın]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|-
+|78
+|[[Zeynel Emre]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|-
+|79
+|[[Seda Kâya Ösen|Seda Kaya Ösen]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|}
+
+=== Kurucu üyeler ===
+{|
+|-
+|
+<div style="column-count: 5; -moz-column-count: 4; -webkit-column-count: 4;">
+* [[Ahmet Vehbi Bakırlıoğlu]]
+* [[Ali Gökçek]]
+* [[Ali Mahir Başarır]]
+* [[Aliye Coşar]]
+* [[Aliye Timisi Ersever]]
+* [[Asu Kaya]]
+* [[Aşkın Genç]]
+* [[Ayça Taşkent]]
+* [[Ayhan Barut]]
+* [[Aykut Kaya]]
+* [[Aylin Yaman]]
+* [[Ayşe Sibel Yanıkömeroğlu]]
+* [[Barış Karadeniz]]
+* [[Bekir Başevirgen]]
+* [[Bilal Bilici]]
+* [[Burhanettin Bulut]]
+* [[Bülent Tezcan]]
+* [[Cavit Arı]]
+* [[Cemal Enginyurt]]
+* [[Cumhur Uzun]]
+* [[Deniz Yavuzyılmaz]]
+* [[Deniz Yücel (siyasetçi)|Deniz Yücel]]
+* [[Doğan Demir]]
+* [[Ednan Arslan]]
+* [[Elvan Işık Gezmiş]]
+* [[Ensar Aytekin]]
+* [[Evrim Karakoz]]
+* [[Evrim Rızvanoğlu]]
+* [[Eylem Ertuğ Ertuğrul]]
+* [[Fahri Özkan]]
+* [[Fethi Açıkel]]
+* [[Gamze Taşcıer]]
+* [[Gizem Özcan]]
+* [[Gökan Zeybek]]
+* [[Gökçe Gökçen]]
+* [[Gökhan Günaydın]]
+* [[Harun Özgür Yıldızlı]]
+* [[Hasan Öztürk]]
+* [[Yalım Halıcı]]
+* [[İbrahim Arslan]]
+* [[İsmail Atakan Ünver]]
+* [[İsmet Güneşhan]]
+* [[İzzet Akbulut]]
+* [[Kayıhan Pala]]
+* [[Mahmut Tanal]]
+* [[Salih Uzun]]
+* [[Mehmet Tahtasız]]
+* [[Melih Meriç]]
+* [[Metin İlhan (siyasetçi)|Metin İlhan]]
+* [[Murat Bakan]]
+* [[Murat Çan]]
+* [[Murat Emir]]
+* [[Mustafa Erdem (1963 doğumlu siyasetçi)|Mustafa Erdem]]
+* [[Mustafa Sarıgül]]
+* [[Sezgin Tanrıkulu]]
+* [[Mühip Kanko]]
+* [[Nail Çiler]]
+* [[Namık Tan]]
+* [[Nurhayat Altaca Kayışoğlu]]
+* [[Okan Konuralp]]
+* [[Orhan Sümer]]
+* [[Özgür Ceylan]]
+* [[Özgür Erdem İncesu]]
+* [[Özgür Karabat]]
+* [[Özgür Özel]]
+* [[Reşat Karagöz]]
+* [[Seda Kâya Ösen]]
+* [[Servet Mullaoğlu]]
+* [[Seyit Torun]]
+* [[Sibel Suiçmez]]
+* [[Suat Özçağdaş]]
+* [[Süleyman Bülbül]]
+* [[Süreyya Öneş Derici]]
+* [[Şeref Arpacı]]
+* [[Tahsin Ocaklı]]
+* [[Talat Dinçer]]
+* [[Talih Özcan]]
+* [[Tekin Bingöl]]
+* [[Turan Taşkın Özer]]
+* [[Tuncay Özkan]]
+* [[Türkan Elçi (siyasetçi)|Türkan Elçi]]
+* [[Uğur Bayraktutan]]
+* [[Ulaş Karasu]]
+* [[Umut Akdoğan]]
+* [[Utku Çakırözer]]
+* [[Ümit Özlale]]
+* [[Veli Ağbaba]]
+* [[Yaşar Tüzün]]
+* [[Yunus Emre (siyasetçi)|Yunus Emre]] 
+* [[Yüksel Taşkın]]
+* [[Zeynel Emre]]
+</div>
+|}
+
+=== Gençlik kolları ===
+{{Ana|Yeni Parti Gençlik Kolları}}
+
+Yeni Parti gençlik politikaları ve örgütlenme stratejisi, [[Cumhuriyet Halk Partisi]] gençlik kollarının tarihî mirasına dayanmaktadır. 17 Şubat 1954 tarihli CHP Genel İdare Kurulu toplantısında [[Suphi Baykam]]'ın başkanlığında Gençlik Kolları Merkez Yönetim Kurulunun atanmasıyla resmen kurulan yapının yönetiminde, daha sonra CHP Genel Başkanı ve Başbakan olacak olan [[Bülent Ecevit]] de yer almıştır. 12 Eylül 1980 Darbesi'ne kadar 10 kurultay gerçekleştiren bu tarihî yapı, darbe sonrası partinin kapatılmasıyla birlikte feshedilmiştir.
+
+Mutlak butlan kararının ardından CHP'de genel merkez yönetiminin fiilen değişmesi, gençlik örgütlerinde açık bir isyana yol açmıştır. CHP Gençlik Kolları Genel Başkanı [[Cem Aydın (siyasetçi)|Cem Aydın]], yeni yönetimin talimatlarına uymayacağını ve kararı tanımadıklarını belirterek, "Bizim genel başkanımız kurultayda seçilen Özgür Özel'dir" çıkışında bulunmuştur.<ref>{{Web kaynağı | url = https://www.cumhuriyet.com.tr/siyaset/chp-genclik-kollari-baskani-cem-aydindan-net-mesaj-genel-baskanimiz-ozeldir-2507852 | başlık = CHP Gençlik Kolları Başkanı Cem Aydın'dan net mesaj: 'Genel başkanımız Özel'dir' | erişimtarihi = 15 Haziran 2026 | tarih = 24 Mayıs 2026 | yayıncı = Cumhuriyet}}</ref> Partinin kurulacağının duyurulmasının ardından CHP Gençlik Kolları Genel Başkanı Cem Aydın, CHP'nin fiilen kapatıldığını belirterek yeni partiye geçiş yapma çağrısı yapmıştır.<ref>{{Haber kaynağı|url=https://x.com/cm_aydin/status/2079592626433532396|başlık=Cem Aydın (@cm_aydin) on X|erişimtarihi=22 Temmuz 2026|tarih=21 Temmuz 2026|dil=en-US|çalışma=X (formerly Twitter)}}</ref> 25 Temmuz 2026'da Parti Sözcüsü [[Zeynel Emre]], Gençlik Kolları Başkanı olarak yine Cem Aydın'ın görevlendirildiğini açıkladı.
+
+=== Kadın kolları ===
+{{Başlık genişlet}}
+
+== Kurultaylar ==
+{| class="wikitable"
+!Kurultay
+!Tarih
+!Genel başkan
+!Seçim nedeni
+|-
+|[[Yeni Parti (2026) 1. Olağan Kurultayı|1. Olağan Kurultay]]
+Türkiye YENİleniyor
+Kuruluş Kurultayı.
+|14-15 Kasım 2026
+|Özgür ÖZEL
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|}
+
+== Belediye başkanları ==
+{| class="wikitable" style="font-size:80%;"
+!Adı
+!İl
+!İlçe
+!Belde
+|-
+|Kadir Aydar
+|rowspan="3"|[[Adana (il)|Adana]]
+|rowspan="2"|[[Ceyhan]]
+|
+|-
+|Sevil Aydar Yıldız (Başkanvekili)
+|
+|-
+|[[Kasım Karaköse]]
+|[[İmamoğlu]]
+|
+|-
+|Veysel Korkmaz
+|rowspan="3"|[[Adıyaman (il)|Adıyaman]]
+|rowspan="2"|[[Besni]]
+|[[Köseceli, Besni|Köseceli]]
+|-
+|Nejdet Arıcı
+|[[Şambayat, Besni|Şambayat]]
+|-
+|İskender Yıldırım
+|[[Gölbaşı, Adıyaman|Gölbaşı]]
+|
+|-
+|Selçuk Gönüllü
+|rowspan="4"|[[Afyonkarahisar (il)|Afyonkarahisar]]
+|[[Başmakçı]]
+|
+|-
+|Berrin Uğurlu
+|[[Evciler]]
+|
+|-
+|Devrim Ölmez
+|[[Sultandağı]]
+|[[Yeşilçiftlik]]
+|-
+|Hüseyin Şahin
+|[[Şuhut]]
+|[[Karaadilli]]
+|-
+|İsmail Yılmaz
+|[[Aksaray (il)|Aksaray]]
+|[[Aksaray|Merkez]]
+|[[Taşpınar, Aksaray|Taşpınar]]
+|-
+|[[Turgay Sevindi]]
+|rowspan="3"|[[Amasya (il)|Amasya]]
+|[[Amasya|Merkez]]
+|
+|-
+|Alp Kargı
+|[[Merzifon]]
+|
+|-
+|Ömer Özalp
+|[[Taşova]]
+|
+|-
+|Haldun Güler (Başkanvekili)
+|rowspan="2"|[[Ankara (il)|Ankara]]
+|[[Çankaya]]
+|
+|-
+|Veli Gündüz Şahin
+|[[Mamak]]
+|
+|-
+|İlkay Akca
+|rowspan="3"|[[Antalya (il)|Antalya]]
+|[[Akseki]]
+|
+|-
+|Menderes Dal
+|[[Döşemealtı]]
+|
+|-
+|Cem Kotan
+|[[Konyaaltı]]
+|
+|-
+|[[Faruk Demir]]
+| rowspan="3" |[[Ardahan (il)|Ardahan]]
+|[[Ardahan|Merkez]]
+|
+|-
+|Önder Yolalan (Başkanvekili)
+|[[Damal]]
+|
+|-
+|Erdem Demirci
+|[[Posof]]
+|
+|-
+|Bilgehan Erdem
+|rowspan="6"|[[Artvin (il)|Artvin]]
+|[[Artvin|Merkez]]
+|
+|-
+|Ercan Orhan
+|[[Borçka]]
+|
+|-
+|Utku Cihan
+|[[Hopa]]
+|
+|-
+|Erhan Yılmaz
+|[[Kemalpaşa, Artvin|Kemalpaşa]]
+|
+|-
+|Mehmet Yıldırım
+|[[Murgul]]
+|
+|-
+|Barış Demirci
+|[[Yusufeli]]
+|
+|-
+|Mustafa Galip Özel
+|rowspan="9"|[[Aydın (il)|Aydın]]
+|[[Bozdoğan, Aydın|Bozdoğan]]
+|
+|-
+|Mehmet Kıvrak
+|[[Çine]]
+|
+|-
+|Hatice Gençay
+|[[Didim]]
+|
+|-
+|Anıl Yetişkin
+|[[Efeler]]
+|
+|-
+|Burak Zencirci
+|[[Germencik]]
+|
+|-
+|Mustafa Büyükyapıcı
+|[[Karacasu]]
+|
+|-
+|Özgür Arıcı
+|[[Koçarlı]]
+|
+|-
+|Tahsin Demirtaş (Başkanvekili)
+|[[Kuşadası]]
+|
+|-
+|Uğur Doğanca
+|[[Kuyucak]]
+|
+|-
+|Mesut Ergin
+| rowspan="10" |[[Balıkesir (il)|Balıkesir]]
+|[[Ayvalık]]
+|
+|-
+|Orhan Gaga
+|[[Balya]]
+|
+|-
+|[[Dursun Mirza]]
+|[[Bandırma]]
+|
+|-
+|[[Ali Kemal Deveciler]]
+|[[Burhaniye]]
+|
+|-
+|Mehmet Ertaş
+|[[Edremit, Balıkesir|Edremit]]
+|
+|-
+|Melih Bağcı
+|[[Gömeç]]
+|
+|-
+|İbrahim Palaz
+|[[Gönen, Balıkesir|Gönen]]
+|
+|-
+|Ahmet Duru
+|[[Manyas]]
+|
+|-
+|Serkan Sak
+|[[Sındırgı]]
+|
+|-
+|Hakan Yıldırım Semizel
+|[[Susurluk]]
+|
+|-
+|Recai Çakır
+|rowspan="2"|[[Bartın (il)|Bartın]]
+|[[Amasra]]
+|
+|-
+|Uğur Güneş
+|[[Kurucaşile]]
+|
+|-
+|[[Melek Mızrak Subaşı]]
+|rowspan="3"|[[Bilecik (il)|Bilecik]]
+|rowspan="2"|[[Bilecik|Merkez]]
+|
+|-
+|Aykut Dilsiz
+|[[Bayırköy, Bilecik|Bayırköy]]
+|-
+|Mehmet Talat Bakkalcıoğlu
+|[[Bozüyük]]
+|
+|-
+|Mehmet Tuna Özcan (Başkanvekili)
+|rowspan="6"|[[Bolu (il)|Bolu]]
+|[[Bolu|Merkez]]
+|
+|-
+|Ali Oral
+|[[Göynük]]
+|
+|-
+|Emin Tekemen
+|[[Kıbrıscık]]
+|
+|-
+|Mehmet Yılmaz
+|[[Mengen]]
+|[[Gökçesu, Mengen|Gökçesu]]
+|-
+|Doğan Onurlu
+|[[Mudurnu]]
+|
+|-
+|Uygar Oturakdaş
+|[[Seben]]
+|
+|-
+|[[Ali Orkun Ercengiz]]
+|rowspan="3"|[[Burdur (il)|Burdur]]
+|[[Burdur|Merkez]]
+|
+|-
+|Hülya Gümüş
+|[[Bucak, Burdur|Bucak]]
+|
+|-
+|Okan Kurd
+|[[Yeşilova]]
+|
+|-
+|[[Erkan Aydın (siyasetçi)|Erkan Aydın]]
+|rowspan="6"|[[Bursa (il)|Bursa]]
+|[[Osmangazi]]
+|
+|-
+|[[Şadi Özdemir]]
+|[[Nilüfer, Bursa|Nilüfer]]
+|
+|-
+|Şükrü Devrim
+|[[Gemlik]]
+|
+|-
+|Haşim Ali Arıkan
+|[[Harmancık, Bursa|Harmancık]]
+|
+|-
+|Deniz Dalgıç
+|[[Mudanya]]
+|
+|-
+|[[Şükrü Erdem]]
+|[[Mustafakemalpaşa]]
+|
+|-
+|[[Muharrem Erkek]]
+|rowspan="11"|[[Çanakkale (il)|Çanakkale]]
+|rowspan="2"|[[Çanakkale|Merkez]]
+|
+|-
+|Birol Aslan
+|[[Kepez, Çanakkale|Kepez]]
+|-
+|Mesut Bayram
+|rowspan="2"|[[Ayvacık, Çanakkale|Ayvacık]]
+|
+|-
+|Abdülmuttalip Gürel
+|[[Küçükkuyu, Ayvacık|Küçükkuyu]]
+|-
+|Hasan Cem Atılgan
+|[[Bayramiç]]
+|
+|-
+|Hasan Kırım
+|[[Biga]]
+|[[Gümüşçay, Biga|Gümüşçay]]
+|-
+|Yahya Göztepe
+|[[Bozcaada]]
+|
+|-
+|Harun Arslan
+|[[Çan, Çanakkale|Çan]]
+|
+|-
+|Necati Kopça
+|[[Gelibolu]]
+|[[Kavakköy, Gelibolu|Kavakköy]]
+|-
+|Erdal Doğan
+|rowspan="2"|[[Lapseki]]
+|[[Umurbey, Lapseki|Umurbey]]
+|-
+|Metin Semerci
+|[[Çardak, Lapseki|Çardak]]
+|-
+|Hamit Dereli
+|rowspan="2"|[[Çorum (il)|Çorum]]
+|[[Kargı, Çorum|Kargı]]
+|
+|-
+|Veli Aylar
+|[[Mecitözü]]
+|
+|-
+|[[Bülent Nuri Çavuşoğlu]]
+|rowspan="14"|[[Denizli (il)|Denizli]]
+|[[Denizli belediye başkanları listesi|Büyükşehir]]
+|
+|-
+|Levent Yıldırım
+|[[Acıpayam]]
+|
+|-
+|Önder Demir
+|[[Bekilli]]
+|
+|-
+|Birsen Çelik
+|[[Bozkurt, Denizli|Bozkurt]]
+|
+|-
+|Mehmet Ali Orpak
+|[[Buldan]]
+|
+|-
+|Ahmet Hakan
+|[[Çal]]
+|
+|-
+|Ali Altıner
+|[[Çardak, Denizli|Çardak]]
+|
+|-
+|Semih Dere
+|[[Çivril]]
+|
+|-
+|Mehmet Ali Eraydın
+|[[Güney, Denizli|Güney]]
+|
+|-
+|[[Erkan Hayla]]
+|[[Kale, Denizli|Kale]]
+|
+|-
+|[[Osman Bartal]] (Başkanvekili)
+|[[Merkezefendi]]
+|
+|-
+|Mehmet Salih Konya
+|[[Sarayköy]]
+|
+|-
+|Osman Kılıç
+|[[Serinhisar]]
+|
+|-
+|Kadir Tatık
+|[[Tavas]]
+|
+|-
+|[[Filiz Gencan]]
+|rowspan="6"|[[Edirne (il)|Edirne]]
+|[[Edirne|Merkez]]
+|
+|-
+|Hüseyin Özden
+|[[Havsa]]
+|
+|-
+|Ahmet Köprü
+|[[İpsala]]
+|[[Yenikarpuzlu]]
+|-
+|Tamer Kıral
+|[[Keşan]]
+|[[Yenimuhacir, Keşan|Yenimuhacir]]
+|-
+|Gökmen Altay
+|[[Meriç]]
+|[[Küplü, Meriç|Küplü]]
+|-
+|Ediz Martin
+|[[Uzunköprü]]
+|
+|-
+|Çetin Çay
+|rowspan="2"|[[Erzincan (il)|Erzincan]]
+|rowspan="2"|[[Erzincan|Merkez]]
+|[[Çağlayan, Erzincan|Çağlayan]]
+|-
+|Cihangir Kaya
+|[[Mollaköy, Erzincan|Mollaköy]]
+|-
+|[[Ayşe Ünlüce]]
+|rowspan="7"|[[Eskişehir (il)|Eskişehir]]
+|[[Eskişehir Büyükşehir Belediyesi|Büyükşehir]]
+|
+|-
+|Gürbüz Güller
+|[[Alpu]]
+|
+|-
+|Zehra Konakcı
+|[[Çifteler]]
+|
+|-
+|İshak Gündoğan
+|[[Mahmudiye, Eskişehir|Mahmudiye]]
+|
+|-
+|Uğur Tepe
+|[[Seyitgazi]]
+|
+|-
+|[[Ahmet Ataç]]
+|[[Tepebaşı]]
+|
+|-
+|[[Kazım Kurt]]
+|[[Odunpazarı]]
+|
+|-
+|Sami Üstün
+|rowspan="4"|[[Hatay]]
+|[[Arsuz]]
+|
+|-
+|Halil İbrahim Özgün
+|[[Defne, Hatay|Defne]]
+|
+|-
+|Bahadır Amaç
+|[[Dörtyol]]
+|
+|-
+|Ökkeş Elmasoğlu
+|[[Erzin]]
+|
+|-
+|[[Fuat Köse]]
+|rowspan="4"|[[Giresun (il)|Giresun]]
+|[[Giresun|Merkez]]
+|
+|-
+|Erol Karadere
+|rowspan="2"|[[Espiye]]
+|
+|-
+|Mustafa Eyice
+|[[Soğukpınar, Espiye|Soğukpınar]]
+|-
+|Aysel Uzun
+|[[Görele]]
+|
+|-
+|Osman Kesmen
+|[[Isparta (il)|Isparta]]
+|[[Gönen, Isparta|Gönen]]
+|
+|-
+|Ekrem İmamoğlu
+|rowspan="15"|[[İstanbul (il)|İstanbul]]
+|[[Manisa Büyükşehir Belediyesi|Büyükşehir]]
+|
+|-
+|Ali Ercan Akpolat
+|[[Adalar]]
+|
+|-
+|[[Onursal Adıgüzel]]
+|[[Ataşehir]]
+|
+|-
+|Ayşegül Özdemir Ovalıoğlu
+|[[Bakırköy]]
+|
+|-
+|Hasan Mutlu
+|[[Bayrampaşa]]
+|
+|-
+|[[Rıza Akpolat]] 
+|[[Beşiktaş]]
+|
+|- 
+|[[Alaattin Köseler]]
+|[[Beykoz]]
+|
+|-
+|[[Hasan Akgün (1955 doğumlu siyasetçi)|Hasan Akgün]] 
+|rowspan="2"|[[Büyükçekmece]]
+|
+|-
+|Hakan Çebi (Başkanvekili)
+|
+|-
+|Erhan Güzel
+|[[Çatalca]]
+|
+|-
+|[[Ahmet Özer]]
+|[[Esenyurt]]
+|
+|-
+|[[Mesut Kösedağı]]
+|[[Kadıköy]]
+|
+|-
+|[[Kemal Çebi]]
+|[[Küçükçekmece]]
+|
+|-
+|[[Esin Köymen]]
+|[[Maltepe]]
+|
+|-
+|[[Resul Emrah Şahan]]
+|[[Şişli]]
+|
+|-
+|Davut Sakarsu
+|rowspan="18"|[[İzmir (il)|İzmir]]
+|[[Bayındır, İzmir|Bayındır]]
+|
+|-
+|İrfan Önal
+|[[Bayraklı]]
+|
+|-
+|Tanju Çelik
+|[[Bergama]]
+|
+|-
+|Şakir Başaran
+|[[Beydağ]]
+|
+|-
+|[[Ömer Eşki]]
+|[[Bornova]]
+|
+|-
+|[[Lâl Denizli]]
+|[[Çeşme, İzmir|Çeşme]]
+|
+|-
+|Adil Kırgöz
+|[[Dikili]]
+|
+|-
+|Ünal Işık
+|[[Gaziemir]]
+|
+|-
+|Ayşe Akın (Başkanvekili)
+|[[Güzelbahçe]]
+|
+|-
+|Helil Kınay
+|[[Karabağlar]]
+|
+|-
+|Mehmet Türkmen
+|[[Kemalpaşa, İzmir|Kemalpaşa]]
+|
+|-
+|Sema Bodur
+|[[Kınık, İzmir|Kınık]]
+|
+|-
+|[[Nilüfer Çınarlı Mutlu]]
+|[[Konak, İzmir|Konak]]
+|
+|-
+|Mustafa Turan
+|[[Ödemiş]]
+|
+|-
+|Fuat Gümüş (Başkanvekili)
+|[[Seferihisar]]
+|
+|-
+|Filiz Ceritoğlu Sengel
+|[[Selçuk]]
+|
+|-
+|Övünç Demir
+|[[Torbalı]]
+|
+|-
+|Selçuk Balkan
+|[[Urla]]
+|
+|-
+|Haydar İkizer
+|[[Kahramanmaraş (il)|Kahramanmaraş]]
+|[[Pazarcık, Kahramanmaraş|Pazarcık]]
+|
+|-
+|Elif Köse
+|[[Karabük (il)|Karabük]]
+|[[Safranbolu]]
+|
+|-
+|İlyas Barış Koç
+|rowspan="2"|[[Kars (il)|Kars]]
+|[[Selim, Kars|Selim]]
+|
+|-
+|Oğuz Yantemur
+|[[Susuz]]
+|
+|-
+|[[Hasan Baltacı]]
+|rowspan="2"|[[Kastamonu (il)|Kastamonu]]
+|[[Kastamonu|Merkez]]
+|
+|-
+|Selahattin Yanık
+|[[Daday]]
+|
+|-
+|[[Deniz Yağan]]
+|[[Kayseri (il)|Kayseri]]
+|[[Pınarbaşı, Kayseri|Pınarbaşı]]
+|
+|-
+|Ahmet Önal
+|[[Kırıkkale (il)|Kırıkkale]]
+|[[Kırıkkale|Merkez]]
+|
+|-
+|Selahattin Ekicioğlu
+|rowspan="2"|[[Kırşehir (il)|Kırşehir]]
+|[[Kırşehir|Merkez]]
+|
+|-
+|Şükrü Turgut
+|[[Akpınar]]
+|
+|-
+|Ufuk İn
+|rowspan="7"|[[Kırklareli (il)|Kırklareli]]
+|rowspan="2"|Merkez
+|[[Kavaklı, Kırklareli|Kavaklı]]
+|-
+|Halil Çallı
+|[[Üsküp, Kırklareli|Üsküp]]
+|-
+|Orhan Saltık
+|[[Babaeski]]
+|[[Alpullu]]
+|-
+|Mustafa Altıntaş
+|rowspan="2"|[[Lüleburgaz]]
+|[[Ahmetbey, Lüleburgaz|Ahmetbey]]
+|-
+|Ertuğrul Çamlıca
+|[[Büyükkarıştıran]]
+|-
+|Neşe Çevikbaş
+|[[Pınarhisar]]
+|[[Kaynarca, Pınarhisar|Kaynarca]]
+|-
+|İsmail Özen
+|[[Vize, Kırklareli|Vize]]
+|[[Kıyıköy, Vize|Kıyıköy]]
+|-
+|Lütfü Obuz (Başkanvekili)
+|rowspan="3"|[[Kocaeli]]
+|[[İzmit]]
+|
+|-
+|Sertif Gökçe
+|[[Derince]]
+|
+|-
+|Ahmet Çalık
+|[[Karamürsel]]
+|
+|-
+|[[Eyüp Kahveci]]
+|rowspan="3"|[[Kütahya (il)|Kütahya]]
+|[[Kütahya|Merkez]]
+|
+|-
+|Zekeriya Yılmaz
+|[[Dumlupınar]]
+|
+|-
+|Lütfi Mutlu
+|[[Şaphane]]
+|
+|-
+|Haluk Cömertoğlu
+| rowspan="4" |[[Malatya (il)|Malatya]]
+|[[Arapgir]]
+|
+|-
+|Ersoy Eren
+|[[Arguvan]]
+|
+|-
+|Mehmet Bayram
+|[[Doğanşehir]]
+|
+|-
+|Mehmet Şerif Yıldırım
+|[[Hekimhan]]
+|
+|-
+|[[Besim Dutlulu]]
+|rowspan="15"|[[Manisa (il)|Manisa]]
+|[[Manisa Büyükşehir Belediyesi|Büyükşehir]]
+|
+|-
+|Fuat Mintaş
+|[[Ahmetli]]
+|
+|-
+|Ekrem Kayserili
+|[[Akhisar]]
+|
+|-
+|Ahmet Öküzcüoğlu
+|[[Alaşehir]]
+|
+|-
+|Cem Aykan
+|[[Gölmarmara]]
+|
+|-
+|İbrahim Büke
+|[[Gördes]]
+|
+|-
+|Üstün Dönmez
+|[[Kırkağaç]]
+|
+|-
+|Fatih Taşlı
+|[[Köprübaşı, Manisa|Köprübaşı]]
+|
+|-
+|Semra Gündüz
+|[[Kula]]
+|
+|-
+|[[Mazlum Nurlu]]
+|[[Salihli]]
+|
+|-
+|Tahsin Akdeniz
+|[[Sarıgöl]]
+|
+|-
+|Sercan Okur
+|[[Soma]]
+|
+|-
+|Hakan Şimşek
+|[[Şehzadeler]]
+|
+|-
+|Çetin Akın
+|[[Turgutlu]]
+|
+|-
+|[[Musa Semih Balaban]]
+|[[Yunusemre]]
+|
+|-
+|Durmuş Deniz
+|rowspan="2"|[[Mersin (il)|Mersin]]
+|[[Anamur]]
+|
+|-
+|[[Ali Boltaç]]
+|[[Tarsus]]
+|
+|-
+|Sezer Durmuş
+|rowspan="9"|[[Muğla (il)|Muğla]]
+|[[Dalaman]]
+|
+|-
+|Aytaç Kurt
+|[[Datça]]
+|
+|-
+|Ali Erdoğan
+|[[Köyceğiz]]
+|
+|-
+|Acar Ünlü
+|[[Marmaris]]
+|
+|-
+|Gonca Köksal Aras
+|[[Menteşe, Muğla|Menteşe]]
+|
+|-
+|Barbaros Gezgin (Başkanvekili)
+|[[Milas]]
+|
+|-
+|Evren Tezcan
+|[[Ortaca]]
+|
+|-
+|Mehmet Caner
+|[[Ula, Muğla|Ula]]
+|
+|-
+|Mesut Günay
+|[[Yatağan]]
+|
+|-
+|Ali Ertuğrul Bul
+|[[Nevşehir]]
+|[[Ürgüp]]
+|
+|-
+|Yusuf Akdemir
+|rowspan="3"|[[Niğde]]
+|rowspan="2"|Merkez
+|[[Alay, Niğde|Alay]]
+|-
+|Adem Şahin
+|[[Dündarlı, Niğde|Dündarlı]]
+|-
+|Ertuğrul Çelenkoğlu
+|[[Bor, Niğde|Bor]]
+|[[Bahçeli, Bor|Bahçeli]]
+|-
+|Ulaş Tepe
+|rowspan="4"|[[Ordu (il)|Ordu]]
+|[[Altınordu]]
+|
+|-
+|Leyla Çıtır
+|[[Çamaş]]
+|
+|-
+|Cemil Coşkun
+|[[Gürgentepe]]
+|
+|-
+|Bülent Güney
+|[[Kabataş]]
+|
+|-
+|Mustafa Mert Olcar
+|[[Osmaniye (il)|Osmaniye]]
+|[[Kadirli]]
+|
+|-
+|Enver Atagün
+|rowspan="3"|[[Rize (il)|Rize]]
+|[[Ardeşen]]
+|
+|-
+|[[Ercüment Şahin Çervatoğlu]]
+|[[Fındıklı]]
+|
+|-
+|Neşet Çakır
+|[[Pazar, Rize|Pazar]]
+|
+|-
+|Serhat Türkel
+|[[Samsun (il)|Samsun]]
+|[[Atakum]]
+|
+|-
+|Metin Gürbüz
+|rowspan="2"|[[Sinop (il)|Sinop]]
+|[[Sinop|Merkez]]
+|
+|-
+|Osman Belovacıklı
+|[[Gerze]]
+|
+|-
+|Cihan Deniz Akbaş
+|[[Sivas (il)|Sivas]]
+|[[Divriği]]
+|
+|-
+|Ahmet Sarıkurt
+|rowspan="4"|[[Tekirdağ (il)|Tekirdağ]]
+|[[Çorlu]]
+|
+|-
+|Nergiz Karaağaçlı Öztürk
+|[[Malkara]]
+|
+|-
+|Volkan Nallar
+|[[Süleymanpaşa]]
+|
+|-
+|Alpay Var
+|[[Şarköy]]
+|
+|-
+|Ali Güneş
+|rowspan="5"|[[Tokat (il)|Tokat]]
+|rowspan="4"|[[Almus]]
+|[[Akarçay Görümlü]]
+|-
+|Ömer Bayrak
+|[[Ataköy, Almus|Ataköy]]
+|-
+|Hayati Turan
+|[[Gölgeli, Almus|Gölgeli]]
+|-
+|Hacı Yusuf Geçene
+|[[Kınık, Almus|Kınık]]
+|-
+|Nazım Demirkol
+|[[Reşadiye]]
+|[[Çevrecik, Reşadiye|Çevrecik]]
+|-
+|Burhan Cahit Erdem
+|rowspan="3"|[[Trabzon (il)|Trabzon]]
+|[[Beşikdüzü]]
+|
+|-
+|[[Ahmet Kaya (siyasetçi)|Ahmet Kaya]]
+|[[Ortahisar]]
+|
+|-
+|Mustafa Bıyık
+|[[Yomra]]
+|
+|-
+|Hatice Terekeci Özkan (Başkanvekili)
+|rowspan="4"|[[Uşak (il)|Uşak]]
+|[[Uşak|Merkez]]
+|
+|-
+|Refik Tuncay
+|[[Banaz]]
+|[[Kızılcasöğüt]]
+|-
+|Ecevit Emir
+|[[Eşme]]
+|[[Yeleğen]]
+|-
+|Naci Akyürek
+|[[Sivaslı]]
+|[[Pınarbaşı, Sivaslı|Pınarbaşı]]
+|-
+|Mehmet Gürel
+|rowspan="6"|[[Yalova (il)|Yalova]]
+|rowspan="2"|[[Yalova|Merkez]]
+|
+|-
+|Yılmaz Tavşan
+|[[Kadıköy, Yalova|Kadıköy]]
+|-
+|Turan Canbay
+|[[Altınova]]
+|[[Subaşı, Altınova|Subaşı]]
+|-
+|Avni Kurt
+|rowspan="2"|[[Çınarcık]]
+|
+|-
+|Kamil Yaman
+|[[Koru, Çınarcık|Koru]]
+|-
+|Adil Yele
+|[[Çiftlikköy]]
+|
+|-
+|Tahsin Erdem
+|rowspan="9"|[[Zonguldak (il)|Zonguldak]]
+|rowspan="2"|[[Zonguldak|Merkez]]
+|
+|-
+|Mustafa Kalaycı
+|[[Karaman, Zonguldak|Karaman]]
+|-
+|Vedat Öztürk<ref>{{Web kaynağı | url = https://www.halkinsesi.com.tr/chpde-toplu-istifa-belediye-baskanlari-ve-ilce-yonetimi-yeni-partiye-gecti | başlık = CHP'de toplu istifa: Belediye başkanları ve ilçe yönetimi Yeni Parti'ye geçti | erişimtarihi = 31 Temmuz 2026 | tarih = 29 Temmuz 2026 | dil = tr-TR | çalışma = HALKIN SESİ GAZETESİ-Gücünü Halktan Alan Gazete}}</ref>
+|rowspan="2"|[[Gökçebey]]
+|
+|-
+|Oktay Albuz<ref>{{Web kaynağı | url = https://www.halkinsesi.com.tr/chpde-toplu-istifa-belediye-baskanlari-ve-ilce-yonetimi-yeni-partiye-gecti | başlık = CHP'de toplu istifa: Belediye başkanları ve ilçe yönetimi Yeni Parti'ye geçti | erişimtarihi = 31 Temmuz 2026 | tarih = 29 Temmuz 2026 | dil = tr-TR | çalışma = HALKIN SESİ GAZETESİ-Gücünü Halktan Alan Gazete}}</ref>
+|[[Bakacakkadı]]
+|-
+|Erol Acar
+|rowspan="2"|[[Çaycuma]]
+|[[Filyos, Çaycuma|Filyos]]
+|-
+|Alim Genç
+|[[Saltukova]]
+|-
+|Burhan Sezgin
+|rowspan="2"|[[Kilimli]]
+|[[Gelik, Kilimli|Gelik]]
+|-
+|Fırat Kabadayı
+|[[Muslu]]
+|-
+|Altuğ Dökmeci
+|[[Kozlu]]
+|
+|}
+
+== Meclis grubu ==
+{{Ana|TBMM 28. dönem milletvekilleri listesi}}
+{| class="wikitable"
+!#
+!Adı
+!Görevi
+!Görev başlangıcı
+|-
+|1
+|[[Özgür Özel]]
+|Grup Başkanı
+|rowspan=4|24 Temmuz 2026
+|-
+|2
+|[[Ali Mahir Başarır]]
+| rowspan="3" |Grup Başkanvekili
+
+|-
+|3
+|[[Murat Emir]]
+
+|-
+|4
+|[[Gökhan Günaydın]]
+|}
+
+== Milletvekilleri ==
+{| class="wikitable"
+{| class="wikitable" style="font-size:80%;"
+!#
+!Adı
+!Seçim bölgesi
+!Görevi
+|-
+|1
+|[[Tuncay Özkan]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|Milletvekili
+|-
+|2
+|[[Ahmet Vehbi Bakırlıoğlu]]
+|[[Manisa (il)|Manisa]]
+|Milletvekili
+|-
+|3
+|[[Ali Gökçek]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|Milletvekili
+|-
+|4
+|[[Ali Mahir Başarır]]
+|[[Mersin (il)|Mersin]]
+|Grup Başkanvekili
+|-
+|5
+|[[Aliye Coşar]]
+|[[Antalya (il)|Antalya]]
+|Milletvekili
+|-
+|6
+|[[Aliye Timisi Ersever]]
+|[[Ankara (il)|Ankara]] (1. Bölge)
+|Milletvekili
+|-
+|7
+|[[Asu Kaya]]
+|[[Osmaniye (il)|Osmaniye]]
+|Milletvekili
+|-
+|8
+|[[Aşkın Genç]]
+|[[Kayseri (il)|Kayseri]]
+|Milletvekili
+|-
+|9
+|[[Ayça Taşkent]]
+|[[Sakarya]]
+|Milletvekili
+|-
+|10
+|[[Ayhan Barut]]
+|[[Adana (il)|Adana]]
+|Milletvekili
+|-
+|11
+|[[Aykut Kaya]]
+|[[Antalya (il)|Antalya]]
+|Milletvekili
+|-
+|12
+|[[Aylin Yaman]]
+|[[Ankara (il)|Ankara]] (3. Bölge)
+|Milletvekili
+|-
+|13
+|[[Barış Karadeniz]]
+|[[Sinop (il)|Sinop]]
+|Milletvekili
+|-
+|14
+|[[Bekir Başevirgen]]
+|[[Manisa (il)|Manisa]]
+|Milletvekili
+|-
+|15
+|[[Bilal Bilici]]
+|[[Adana (il)|Adana]]
+|Milletvekili
+|-
+|16
+|[[Burhanettin Bulut]]
+|[[Adana (il)|Adana]]
+|Milletvekili
+|-
+|17
+|[[Bülent Tezcan]]
+|[[Aydın (il)|Aydın]]
+|Milletvekili
+|-
+|18
+|[[Cavit Arı]]
+|[[Antalya (il)|Antalya]]
+|Milletvekili
+|-
+|19
+|[[Cemal Enginyurt]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|Milletvekili
+|-
+|20
+|[[Cumhur Uzun]]
+|[[Muğla (il)|Muğla]]
+|Milletvekili
+|-
+|21
+|[[Deniz Yavuzyılmaz]]
+|[[Zonguldak (il)|Zonguldak]]
+|Milletvekili
+|-
+|22
+|[[Deniz Yücel (siyasetçi)|Deniz Yücel]]
+|[[İzmir (il)|İzmir]] (2. Bölge)
+|Milletvekili
+|-
+|23
+|[[Doğan Demir]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|Milletvekili
+|-
+|24
+|[[Ednan Arslan]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|Milletvekili
+|-
+|25
+|[[Elvan Işık Gezmiş]]
+|[[Giresun (il)|Giresun]]
+|Milletvekili
+|-
+|26
+|[[Ensar Aytekin]]
+|[[Balıkesir (il)|Balıkesir]]
+|Milletvekili
+|-
+|27
+|[[Evrim Karakoz]]
+|[[Aydın (il)|Aydın]]
+|Milletvekili
+|-
+|28
+|[[Evrim Rızvanoğlu|Evrim Rızvanoğlu Emir]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|Milletvekili
+|-
+|29
+|[[Eylem Ertuğ Ertuğrul]]
+|[[Zonguldak (il)|Zonguldak]]
+|Milletvekili
+|-
+|30
+|[[Fahri Özkan]]
+|[[Kırklareli (il)|Kırklareli]]
+|Milletvekili
+|-
+|31
+|[[Fethi Açıkel]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|Milletvekili
+|-
+|32
+|[[Gamze Taşcıer]]
+|[[Ankara (il)|Ankara]] (1. Bölge)
+|Milletvekili
+|-
+|33
+|[[Gizem Özcan]]
+|[[Muğla (il)|Muğla]]
+|Milletvekili
+|-
+|34
+|[[Gökan Zeybek]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|Milletvekili
+|-
+|35
+|[[Gökçe Gökçen]]
+|[[İzmir (il)|İzmir]] (2. Bölge)
+|Milletvekili
+|-
+|36
+|[[Gökhan Günaydın]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|Grup Başkanvekili
+|-
+|37
+|[[Harun Özgür Yıldızlı]]
+|[[Kocaeli]]
+|Milletvekili
+|-
+|38
+|[[Hasan Öztürk]]
+|[[Bursa (il)|Bursa]] (2. Bölge)
+|Milletvekili
+|-
+|39
+|[[Yalım Halıcı]]
+|[[Isparta (il)|Isparta]]
+|Milletvekili
+|-
+|40
+|[[İbrahim Arslan]]
+|[[Eskişehir (il)|Eskişehir]]
+|Milletvekili
+|-
+|41
+|[[İsmail Atakan Ünver]]
+|[[Karaman (il)|Karaman]]
+|Milletvekili
+|-
+|42
+|[[İsmet Güneşhan]]
+|[[Çanakkale (il)|Çanakkale]]
+|Milletvekili
+|-
+|43
+|[[İzzet Akbulut]]
+|[[Burdur (il)|Burdur]]
+|Milletvekili
+|-
+|44
+|[[Kayıhan Pala]]
+|[[Bursa (il)|Bursa]] (1. Bölge)
+|Milletvekili
+|-
+|45
+|[[Mahmut Tanal]]
+|[[Şanlıurfa (il)|Şanlıurfa]]
+|Milletvekili
+|-
+|46
+|[[Salih Uzun]]
+|[[İzmir (il)|İzmir]] (2. Bölge)
+|Milletvekili
+|-
+|47
+|[[Mehmet Tahtasız]]
+|[[Çorum (il)|Çorum]]
+|Milletvekili
+|-
+|48
+|[[Melih Meriç]]
+|[[Gaziantep (il)|Gaziantep]]
+|Milletvekili
+|-
+|49
+|[[Metin İlhan (siyasetçi)|Metin İlhan]]
+|[[Kırşehir (il)|Kırşehir]]
+|Milletvekili
+|-
+|50
+|[[Murat Bakan]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|Milletvekili
+|-
+|51
+|[[Murat Çan]]
+|[[Samsun (il)|Samsun]]
+|Milletvekili
+|-
+|52
+|[[Murat Emir]]
+|[[Ankara (il)|Ankara]] (2. Bölge)
+|Grup Başkanvekili
+|-
+|53
+|[[Mustafa Erdem (1963 doğumlu siyasetçi)|Mustafa Erdem]]
+|[[Antalya (il)|Antalya]]
+|Milletvekili
+|-
+|54
+|[[Sezgin Tanrıkulu]]
+|[[Diyarbakır (il)|Diyarbakır]]
+|Milletvekili
+|-
+|55
+|[[Mühip Kanko]]
+|[[Kocaeli]]
+|Milletvekili
+|-
+|56
+|[[Nail Çiler]]
+|[[Kocaeli]]
+|Milletvekili
+|-
+|57
+|[[Namık Tan]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|Milletvekili
+|-
+|58
+|[[Nurhayat Altaca Kayışoğlu]]
+|[[Bursa (il)|Bursa]] (1. Bölge)
+|Milletvekili
+|-
+|59
+|[[Okan Konuralp]]
+|[[Ankara (il)|Ankara]] (1. Bölge)
+|Milletvekili
+|-
+|60
+|[[Orhan Sümer]]
+|[[Adana (il)|Adana]]
+|Milletvekili
+|-
+|61
+|[[Özgür Ceylan]]
+|[[Çanakkale (il)|Çanakkale]]
+|Milletvekili
+|-
+|62
+|[[Özgür Erdem İncesu]]
+|[[Ardahan (il)|Ardahan]]
+|Milletvekili
+|-
+|63
+|[[Özgür Karabat]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|Milletvekili
+|-
+|64
+|[[Özgür Özel]]
+|[[Manisa (il)|Manisa]]
+|Genel Başkan
+|-
+|65
+|[[Reşat Karagöz]]
+|[[Amasya (il)|Amasya]]
+|Milletvekili
+|-
+|66
+|[[Seda Kâya Ösen|Seda Kaya Ösen]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|Milletvekili
+|-
+|67
+|[[Servet Mullaoğlu]]
+|[[Hatay]]
+|Milletvekili
+|-
+|68
+|[[Seyit Torun]]
+|[[Ordu (il)|Ordu]]
+|Milletvekili
+|-
+|69
+|[[Sibel Suiçmez]]
+|[[Trabzon (il)|Trabzon]]
+|Milletvekili
+|-
+|70
+|[[Suat Özçağdaş]]
+|[[İstanbul (il)|İstanbul]] (1. Bölge)
+|Milletvekili
+|-
+|71
+|[[Süleyman Bülbül]]
+|[[Aydın (il)|Aydın]]
+|Milletvekili
+|-
+|72
+|[[Süreyya Öneş Derici]]
+|[[Muğla (il)|Muğla]]
+|Milletvekili
+|-
+|73
+|[[Şeref Arpacı]]
+|[[Denizli (il)|Denizli]]
+|Milletvekili
+|-
+|74
+|[[Tahsin Ocaklı]]
+|[[Rize (il)|Rize]]
+|Milletvekili
+|-
+|75
+|[[Talat Dinçer]]
+|[[Mersin (il)|Mersin]]
+|Milletvekili
+|-
+|76
+|[[Talih Özcan]]
+|[[Düzce (il)|Düzce]]
+|Milletvekili
+|-
+|77
+|[[Tekin Bingöl]]
+|[[Ankara (il)|Ankara]] (3. Bölge)
+|Milletvekili
+|-
+|78
+|[[Turan Taşkın Özer]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|Milletvekili
+|-
+|79
+|[[Türkan Elçi (siyasetçi)|Türkan Elçi]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|Milletvekili
+|-
+|80
+|[[Uğur Bayraktutan]]
+|[[Artvin (il)|Artvin]]
+|Milletvekili
+|-
+|81
+|[[Ulaş Karasu]]
+|[[Sivas (il)|Sivas]]
+|Milletvekili
+|-
+|82
+|[[Umut Akdoğan]]
+|[[Ankara (il)|Ankara]] (3. Bölge)
+|Milletvekili
+|-
+|83
+|[[Utku Çakırözer]]
+|[[Eskişehir (il)|Eskişehir]]
+|Milletvekili
+|-
+|84
+|[[Ümit Özlale]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|Milletvekili
+|-
+|85
+|[[Veli Ağbaba]]
+|[[Malatya (il)|Malatya]]
+|Milletvekili
+|-
+|86
+|[[Yaşar Tüzün]]
+|[[Bilecik (il)|Bilecik]]
+|Milletvekili
+|-
+|87
+|[[Yunus Emre (siyasetçi)|Yunus Emre]]
+|[[İstanbul (il)|İstanbul]] (2. Bölge)
+|Milletvekili
+|-
+|88
+|[[Yüksel Taşkın]]
+|[[İzmir (il)|İzmir]] (1. Bölge)
+|Milletvekili
+|-
+|89
+|[[Zeynel Emre]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|Milletvekili
+|-
+|90
+|[[Ayşe Sibel Yanıkömeroğlu]]
+|[[İstanbul (il)|İstanbul]] (3. Bölge)
+|Milletvekili
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+{{Commons kategori}}
+* {{Resmî site|https://yeni-parti.org.tr}}
+
+{{Türkiye'deki siyasi partiler}}
+{{Yeni Parti (2026)}}
+{{Özgür Özel}}
+{{19 Mart Süreci}}
+{{Otorite kontrolü}}
+
+[[Kategori:Yeni Parti (2026)| ]]

@@ -170,6 +170,11 @@ for line in open(os.path.join(W, 'partiler', 'index.txt')):
     for k, fld in (('predecessors', 'öncülü'), ('successors', 'ardılı'), ('splits', 'bölünme'), ('mergers', 'birleşme'), ('alliances', 'ulusal')):
         v = [x for x in links(g(fld)) if PARTYLIKE.search(x) and x != title]
         if v: rec[k] = v
+    for n in range(1, 10):   # bilgi kutusundaki güncel TBMM sandalyesi ({{Composition bar|90|600}})
+        if 'Türkiye Büyük Millet Meclisi' in g('sandalye%d_başlık' % n) or plain(g('sandalye%d_başlık' % n)) == 'TBMM':
+            m = re.search(r'Composition bar\|\s*([\d.]+)\s*\|\s*([\d.]+)', g('sandalye%d' % n))
+            if m: rec['tbmm'] = [int(m.group(1).replace('.', '')), int(m.group(2).replace('.', ''))]
+            break
     parties.append(rec)
 
 # Bilgi kutusunda birden çok kuruluş/kapanış tarihi olan partiler: faaliyet dönemleri elle yazılır (maddelerin metnine göre)
@@ -190,6 +195,8 @@ for rec in parties:
         continue
     seen.add(key)
     rec.pop('foundedNote', None); rec.pop('dissolvedNote', None)
+    if rec['title'] == 'Yeni Parti (2026)':   # bilgi kutusundaki stilize ad ve kısaltma
+        rec['name'], rec['short'] = 'Yeni Parti', 'YENİ Parti'
     rec['periods'] = PERIODS.get(rec['title'], [[rec['founded'], rec['dissolved']]])
     if rec['title'] in PERIOD_NOTES: rec['note'] = PERIOD_NOTES[rec['title']]
     if rec['title'] in PERIODS: rec['dissolved'] = rec['periods'][-1][1]
@@ -278,7 +285,8 @@ for d, t, x in [
     ('1961-07-09', 'sistem', '1961 Anayasası halkoylamasıyla kabul edildi'),
     ('1982-11-07', 'sistem', '1982 Anayasası halkoylamasıyla kabul edildi'),
     ('2007-10-21', 'sistem', 'Cumhurbaşkanının halk tarafından seçilmesi halkoylamasıyla kabul edildi'),
-    ('2017-04-16', 'sistem', 'Cumhurbaşkanlığı hükûmet sistemi halkoylamasıyla kabul edildi')]:
+    ('2017-04-16', 'sistem', 'Cumhurbaşkanlığı hükûmet sistemi halkoylamasıyla kabul edildi'),
+    ('2026-05-21', 'olay', 'Ankara Bölge Adliye Mahkemesi\'nin CHP 38. Olağan Kurultayı hakkındaki "mutlak butlan" kararıyla Özgür Özel\'in CHP genel başkanlığı sona erdi')]:
     events.append({'date': d, 'type': t, 'text': x})
 events.sort(key=lambda e: e['date'])
 
@@ -294,7 +302,7 @@ name_keys.update({'Cumhuriyet Halk Fırkası': 'CHP', 'Cumhuriyet Halk Partisi':
                   'Müdâfaa-i Hukuk (Birinci Grup)': 'Müdâfaa-i Hukuk (Birinci Grup)',
                   'Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti': 'Müdâfaa-i Hukuk (Birinci Grup)',
                   'Milliyetçi Hareket Partisi': 'MHP', 'Millet Partisi': 'MP62', 'Yeni Türkiye Partisi': 'YTP61',
-                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti',
+                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti', 'Yeni Parti': 'Yeni Parti',
                   'İttihat ve Terakki Fırkası': 'İttihat ve Terakki', 'Hürriyet ve İtilaf Fırkası': 'Hürriyet ve İtilaf', 'Osmanlı Ahrar Fırkası': 'Ahrar',
                   'Millî Selâmet Partisi': 'MSP', 'Birlik Partisi': 'TBP73', 'Hürriyet Partisi': 'HP57', 'Serbest Cumhuriyet Fırkası': 'Serbest Cumhuriyet Fırkası'})
 
