@@ -1,6 +1,6 @@
 <div align="center">
 
-*[English version of the site](https://ahmtaltug.github.io/TurkSiyasiTarihi/?lang=en) · An interactive atlas of every Ottoman and Turkish election since 1877, with period boundaries, district results since 1961 and a political history of parliaments, governments and parties.*
+*[English README](README.en.md) · [English version of the site](https://ahmtaltug.github.io/TurkSiyasiTarihi/?lang=en) · An interactive atlas of every Ottoman and Turkish election since 1877, with period boundaries, district results since 1961 and a political history of parliaments, governments and parties.*
 
 # Türkiye Seçim Atlası
 
@@ -10,7 +10,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.3.0-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.3.1-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -95,7 +95,7 @@ Başlıca sınırlamalar:
 
 - 1950 öncesi sınırlar yaklaşıktır. 1950 öncesinde il düzeyinde oy yoktur; vekil sayıları ve mensubiyetler gösterilir.
 - 1908–1914 mensubiyetleri Vikipedi listelerinin sınıflandırmasıdır ve literatürdeki toplu rakamlarla uyuşmayabilir.
-- Siyasi tarih verisi birincil kaynaklarla (TBMM tutanakları, Resmî Gazete) karşılaştırılmadı. Meclis grafiği seçim sonrası durumu gösterir.
+- Siyasi tarih verisi birincil kaynaklarla (TBMM tutanakları, Resmî Gazete) karşılaştırılmadı. Meclis grafiği çoğunlukla seçim sonrası durumu gösterir.
 - Demografik göstergeler günümüz il sınırlarına göredir. İl düzeyinde kentleşme ve göç verisi yoktur; korelasyon nedensellik göstermez.
 
 Ayrıntılar: [docs/DOGRULAMA.md](docs/DOGRULAMA.md) · Sürüm geçmişi: [CHANGELOG.md](CHANGELOG.md) · Olası gelecek çalışmalar: [ROADMAP.md](ROADMAP.md)
@@ -138,9 +138,11 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/fetch_sources.sh` | Kaynak veri setinin sabit sürümünü (yalnız gerekli klasörler) ve Natural Earth'ü indirir. |
 | `scripts/build_modern.py` | 1950–2026 il sonuçlarını ve 1950–1999 il sınırlarını uygulamanın biçimine çevirir. |
 | `scripts/build_historical.py` | 1877–1946 vekil listelerini ayrıştırır ve dönemin sınırlarını kurar. Sınırlar, günümüz ilçelerinin o yıldaki bağlılığına ve Natural Earth bölgelerinin birleştirilmesine dayanır. |
+| `scripts/build_ilce.py` | İlçe sonuçlarını ve her seçimin ilçe sınırlarını üretir. |
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
 | `scripts/build_history.py` | Hükûmetleri, cumhurbaşkanlarını, meclis dağılımlarını, parti soy ağacını, olayları ve il demografisini Vikipedi metinlerinden `data/history.json` ve `data/demographics.json` dosyalarına derler. |
+| `scripts/build_current.py` | Güncel durumu (TBMM sandalyeleri ve il belediye başkanları) Vikipedi'den derler; `.github/workflows/guncel.yml` ile her gün çalışır. |
 | `scripts/verify_wiki.py` | Parti ve aday adlarını seçimlerin Vikipedi maddeleriyle karşılaştırır (`scripts/fetch_sources.sh --verify` sonrası). |
 | `scripts/validate.py` | Seçim dosyalarının ve sınırların tutarlılığını denetler; CI'da da çalışır. |
 | `tests/smoke.js` | Tarayıcı testi: bütün seçimleri ve görünümleri açar; CI'da her PR'da çalışır. |
@@ -151,7 +153,8 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 |---|---|
 | `index.html`, `css/`, `js/app.js` | Harita bölümü |
 | `js/history.js` | Siyasi tarih bölümü (meclis–hükûmet grafiği, hükûmetler, partiler, olay animasyonu) |
-| `data/elections/`, `data/geo/` | Seçim sonuçları ve dönem sınırları (TopoJSON) |
+| `js/i18n.js` | İngilizce arayüz |
+| `data/elections/`, `data/geo/`, `data/ilce/` | Seçim sonuçları, dönem sınırları (TopoJSON) ve ilçe sonuçları |
 | `data/history.json`, `data/demographics.json` | Siyasi tarih ve il demografisi |
 | `sources/wikipedia/` | Derlemede kullanılan Vikipedi metinlerinin sabit kopyaları |
 | `sw.js`, `manifest.webmanifest` | Çevrimdışı önbellek ve uygulama bildirimi |
@@ -178,7 +181,7 @@ Yeni bir seçim eklemek için aynı biçimde bir dosya yazmak ve `scripts/build_
 - **1946 il oyları** Vikipedi'nin seçim mazbatalarından derlediği tablodan alındı. Bazı değerler yaklaşıktır, bazıları bilinmemektedir.
 - **1950 sonrası** kaynak veri setinin değerleri kullanıldı. Kaynaktaki yalnız bir değer düzeltildi: 1968 Van il genel meclisi CGP oyu,
   geçerli oy toplamıyla birebir tutan değere çevrildi. Parti toplamı geçerli oyu aşan birkaç kayıt değiştirilmeden işaretlendi.
-- **Siyasi tarih verisi** (hükûmetler, güvenoyları, partiler) Vikipedi liste ve bilgi kutularından derlenmiştir; birincil kaynakla karşılaştırılmadı. Meclis grafiği seçim sonrası durumu gösterir; dönem içi değişiklikler yoktur.
+- **Siyasi tarih verisi** (hükûmetler, güvenoyları, partiler) Vikipedi liste ve bilgi kutularından derlenmiştir; birincil kaynakla karşılaştırılmadı. Meclis grafiği çoğunlukla seçim sonrası durumu gösterir; dönem içi değişiklikler yalnız bazı dönemler için (ör. 1924–1925 muhalefet grupları) eklidir.
 - **Demografi:** Nüfuslar günümüz il sınırlarına göredir ve eski seçimlerde o dönemin illerine toplanır; ayrılan ilçeler ayrı izlenemediği için yaklaşıktır. İl bazında kentleşme ve göç verisi yoktur. Korelasyon nedensellik göstermez.
 - Ülke toplamları il verilerinin toplanmasıyla hesaplandığından resmî ilan edilen oranlardan birkaç onda bir puan farklı olabilir.
 

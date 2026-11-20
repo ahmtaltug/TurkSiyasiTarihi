@@ -33,7 +33,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
-  const VERSION = '3.3.0';
+  const VERSION = '3.3.1';
   const cache = { geo: {}, el: {}, ilce: {} };
   const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
   // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)

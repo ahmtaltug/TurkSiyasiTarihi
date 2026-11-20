@@ -1,0 +1,65 @@
+{{Siyasi parti bilgi kutusu
+| isim = {{PAGENAME}}
+| kısaltma = TKP
+| amblem = Türkiye Köylü Partisi logo.jpg
+| genel başkanı = [[Remzi Oğuz Arık]]
+| genel sekreteri =
+| kurucusu = 
+| slogan =
+| colorcode = {{Siyasi parti renk|Türkiye Köylü Partisi}}
+| kuruluş = 19 Mayıs 1952
+| kapanış = 16 Ekim 1958<ref>"[http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf Cumhuriyet Döneminde Kurulan ve Kapanan Siyasi Partiler] {{Webarşiv|url=https://web.archive.org/web/20191020194748/http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf |tarih=20 Ekim 2019 }}", tesav.org.tr</ref>
+| öncülü = [[Demokrat Parti (1946)|Demokrat Parti]]
+| ardılı = [[Cumhuriyetçi Köylü Millet Partisi]] 
+| ideoloji = [[Türk milliyetçiliği]] <br> [[Tarımcılık]]
+| pozisyon = [[Merkez sağ]]
+}}
+'''Türkiye Köylü Partisi''', [[Demokrat Parti (1946)|Demokrat Parti]]'den ayrılan bir grup tarafından [[Toplumsal sınıf|sınıf]] temeline dayanmadan [[köylü sınıfı|köylü]]yü savunmak için 19 Mayıs 1952'de kuruldu. Genel başkanı [[Remzi Oğuz Arık]]'tı. Türkiye Köylü Partisi ile yaptığı görüşmeler sonrası [[Liberal Köylü Partisi]] kendini feshederek bu partiye katıldı. Ayrıca Toprak, Emlak ve Serbest Teşebbüs Partisi ve Müstakiller Birliği ile de birleşme sağlandı.<ref>{{kitap kaynağı |başlık= Türk Demokrasi Tarihi |soyadı= Karpat |ad= Kemal H. |yıl= 1996 | yayıncı= Afa Yayınları |yer= İstanbul |isbn= 9789754143188 |sayfa= 329}}</ref>
+
+Parti tüzüğünü 16 Mayıs 1952'de [[Türkiye Cumhuriyeti İçişleri Bakanlığı|İçişleri Bakanlığı]]'na veren Türkiye Köylü Partisi, 19 Mayıs'ta resmen kuruldu. [[Adana]], [[Eskişehir]], [[Konya]], [[Kastamonu]], [[Çanakkale]] ve [[İstanbul]]'dan gelen 77 kurucu üyenin katılımıyla yapılan ilk toplantıda parti tüzüğü ve programı görüşülerek onaylandı. Genel başkanlığa [[Remzi Oğuz Arık]] seçilirken yönetim kurulu, [[Ethem Menemencioğlu]], [[Tahsin Demiray]], [[Hakkı Kamil Beşe]], [[Süreyya Endik]], [[Cezmi Türk]], [[Yusuf Ziya Eker]], Cemil Kandemir, Asaf İlbay, Asım Günç gibi tanınmış Türkçülerden oluşmaktaydı.
+
+Programında partinin bir [[Sınıf mücadelesi|sınıf savaşı]] yapmak ve bundan sınıfsal çıkarlar sağlamak amacıyla kurulmuş bir siyasal örgüt olmamasıyla [[Türkler|Türk]] toplum yapısının temelini oluşturan köy ve köylünün bütün sosyal sorunların odak noktası olması vurgulanmaktaydı.<ref name="CumAns">{{ansiklopedi kaynağı |ansiklopedi= Cumhuriyet Ansiklopedisi 1923-2000 |başlık= Türkiye Köylü Partisi kuruldu |basım= 3.|yıl= 2002 |ay= Mayıs |yayıncı= [[YKY]] |cilt= 2. Cilt |yer= İstanbul |isbn= |oclc= |doi= |sayfalar=206|alıntı= |kaynak= }}</ref>
+
+Remzi Oğuz Arık'ın 3 Nisan 1954'te Adana–Ankara seferini yapan uçağın havada infilak etmesiyle hayatını kaybetmesi üzerine genel başkanlığa [[Tahsin Demiray]] getirildi.<ref name="Van Yüzüncü Yıl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi">{{dergi kaynağı |ad1=Mehmet |soyadı1=Pınar |başlık=Anadolucluk Ekseninde Türkiye Köylü Partisi (1952-1958) |dergi=Van Yüzüncü Yıl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi |tarih=2017 |sayı=37 |sayfalar=330|url=http://www.yyusbedergisi.com/dergi/anadoluculuk-ekseninde-turkiye-koylu-partisi-1952-195820180108082503.pdf |erişimtarihi=25 Nisan 2021 |arşivurl=https://web.archive.org/web/20210425202056/http://www.yyusbedergisi.com/dergi/anadoluculuk-ekseninde-turkiye-koylu-partisi-1952-195820180108082503.pdf |arşivtarihi=25 Nisan 2021 |ölüurl=hayır }}</ref>
+
+Türk siyasi hayatında fazla bir varlık gösteremeyen Türkiye Köylü Partisi, [[1954 Türkiye genel seçimleri|1954 seçimlerinde]] başarısız oldu. [[1957 Türkiye genel seçimleri|Ekim 1957 erken seçimleri]] sonrasında [[Osman Bölükbaşı]]'nın [[Cumhuriyetçi Millet Partisi]] ile birleşerek partinin adını 1958'de [[Cumhuriyetçi Köylü Millet Partisi]] olarak değiştirdi.<ref name="CumAns"/>
+
+== Türkiye Köylü Partisi ve seçimler ==
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan=4| [[Türkiye Büyük Millet Meclisi]]
+|-
+! Seçim
+! Oy
+! Oran
+! Sandalye
+|-
+| [[1954 Türkiye genel seçimleri|1954]] || 57,011 || %0.63 || {{Composition bar|0|541|hex=#DC241f}}
+|}
+Yerel Seçimler
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Genel Başkan
+! rowspan="2" |Harita
+! colspan="3" |Oy
+|-
+!#
+!%
+!±
+|-
+|[[1955 Türkiye yerel seçimleri|1955]] 
+|[[Tahsin Demiray]]
+|[[Dosya:1955 Mahalli İdareler Seçimleri BB.png|çerçevesiz]]
+|60.823
+| colspan="2" |%4,40
+|}
+
+==Kaynakça==
+{{kaynakça}}
+{{Türkiye'deki eski siyasi partiler}}
+
+[[Kategori:Türkiye'deki eski siyasi partiler]]
+[[Kategori:1952'de kurulan siyasi partiler]]
+[[Kategori:1958'de kapatılan siyasi partiler]]
+[[Kategori:1952'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:1958'de Türkiye'de feshedilmiş oluşumlar]]
