@@ -150,3 +150,15 @@ dialog#about .close { position: absolute; right: 14px; top: 12px; }
   #shareBtn, #csvBtn { padding: 5px 8px; font-size: 12px; }
   .layout { grid-template-rows: 55vh auto; }
 }
+
+/* güvenilirlik, kesikli sınır, grafikler */
+.badge.rel { font-weight: 600; }
+.badge.rel-resmi { background: #e3f1e8; color: #1d6b3a; }
+.badge.rel-derleme { background: #fdf1dc; color: #8a5300; }
+.badge.rel-yaklasik { background: #fbe4e1; color: #9c2a1c; }
+.badge.rel-yok { background: #ecebe8; color: #5f6670; }
+.rel-note { background: #faf9f6; border-left: 3px solid var(--line); padding: 4px 8px; }
+.legend .sw.dash { background: repeating-linear-gradient(90deg, #222 0 4px, transparent 4px 7px); height: 2px; border: 0; }
+.hemi { width: 100%; max-width: 340px; display: block; margin: 4px auto 0; }
+.spark { width: 100%; height: auto; display: block; margin-top: 6px; }
+.hist .utable tbody tr { cursor: pointer; }

@@ -274,6 +274,33 @@ def outside_units(y):
     u['Musul'] = musul
     return u
 
+
+# ---------------------------------------------------------------- tahmine dayanan sınırlar
+OUTSIDE_KEYS = None
+def boundary_note(k, y):
+    """Sınırı belgelenmiş bir kaynağa değil, bu projedeki tahmine dayanan birimler için açıklama."""
+    if k in OUTSIDE_KEYS or k == 'Halep' and y <= 1914:
+        return 'Türkiye dışındaki bölümü günümüz idari bölgelerinin birleştirilmesiyle çizildi; tarihî vilayet/sancak sınırıyla örtüşmez.'
+    G = {
+        'Gelibolu': 'Kapsadığı ilçeler (Gelibolu, Eceabat, Keşan, Şarköy) yaklaşık olarak seçildi.',
+        'Çatalca': 'Kapsadığı ilçeler (Çatalca, Silivri, Büyükçekmece ve çevresi) yaklaşık olarak seçildi.',
+        'Kozan': 'Kapsadığı ilçeler yaklaşık olarak seçildi (Kozan, Feke, Saimbeyli, Kadirli ve çevresi).',
+        'Cebelibereket': 'Kapsadığı ilçeler yaklaşık olarak seçildi (Osmaniye, Dörtyol, Erzin ve çevresi).',
+        'Ergani': 'Kapsadığı ilçeler yaklaşık olarak seçildi (Ergani, Çermik, Maden, Palu ve çevresi).',
+        'Siverek': 'Siverek ve Hilvan ilçeleri alındı; tarihî sınır farklı olabilir.',
+        'Şebinkarahisar': 'Kapsadığı ilçeler yaklaşık olarak seçildi (Şebinkarahisar, Alucra, Suşehri, Koyulhisar ve çevresi).',
+        'Oltu': 'Oltu, Olur ve Şenkaya ilçeleri alındı; tarihî sınır farklı olabilir.',
+        'Genç': 'Günümüz Bingöl ilinin tamamı alındı; tarihî Genç livasının sınırı farklıdır.',
+        'İçel': 'Silifke ve çevresindeki ilçeler alındı (1933 öncesi İçel); sınır yaklaşıktır.' if y <= 1932 else None,
+        'Mersin': 'Mersin merkezi, Tarsus ve çevresi alındı (1933 öncesi Mersin); sınır yaklaşıktır.' if y <= 1932 else None,
+        'Elazığ': 'Bu dönemde Tunceli ve Bingöl topraklarının Elazığ\'a bağlı olduğu varsayıldı; bir kısmı başka illere bağlı olabilir.' if 1924 <= y <= 1935 else None,
+        'Muş': 'Bitlis topraklarının tamamının Muş\'a bağlandığı varsayıldı.' if 1933 <= y <= 1935 else None,
+        'Bitlis': 'Muş topraklarının tamamının Bitlis\'e bağlandığı varsayıldı.' if 1926 <= y <= 1928 else None,
+        'Rize': 'Hopa ve Arhavi Lazistan\'a dahil edildi; sınır yaklaşıktır.' if y <= 1920 else None,
+        'Bolu': 'Zonguldak ve Bartın\'ın Bolu\'ya bağlı olduğu varsayıldı.' if y <= 1920 else None,
+    }
+    return G.get(k)
+
 # ---------------------------------------------------------------- seçim bölgesi adları -> birim
 ALIAS = {
     'Afyonkarahisar': 'Afyonkarahisar', 'Karahisar-ı Sahib': 'Afyonkarahisar', 'Karahisar-i Sâhib': 'Afyonkarahisar',
@@ -313,6 +340,8 @@ OUT_ALIAS = {  # Türkiye dışı sancak/vilayet -> vilayet birimi
     'Yemen': 'Yemen', 'Hudeyde': 'Yemen', 'El-Hudeyde': 'Yemen', "San'a": 'Yemen', 'Taaz': 'Yemen', 'Taiz': 'Yemen', 'Asir': 'Yemen',
     'Trablusgarp': 'Trablusgarp', "Cebel'ül Garbi": 'Trablusgarp', 'Fizan': 'Trablusgarp', 'Bingazi': 'Bingazi',
 }
+
+OUTSIDE_KEYS = set(OUT_ALIAS.values()) | {'Bosna', 'Tuna', 'Girit', 'Kosova', 'Edirne-dış', 'Batum'}
 
 def base_name(s):
     s = re.sub(r'\(.*?\)', '', s).split(' / ')[0]
@@ -576,6 +605,10 @@ for E in ELECTIONS:
         out_units[slug(k)] = u
     for k in feats:
         if k not in units: out_units.setdefault(slug(k), {'name': k, 'total': 0, 'nodata': True})
+    for k in feats:
+        bn = boundary_note(k, 1877 if E['level'] == 'vilayet' else y) if E['level'] != 'vilayet' else (
+            'Vilayet sınırı günümüz il ve idari bölgelerinin birleştirilmesiyle çizildi; tarihî sınırla örtüşmez.')
+        if bn and slug(k) in out_units: out_units[slug(k)]['boundary'] = bn
 
     has_groups = bool(nat_groups)
     rec = {
@@ -596,12 +629,14 @@ for E in ELECTIONS:
     }
     TOTAL_SEATS = {'1923': 286, '1927': 335, '1931': 317, '1935': 444, '1939': 470, '1943': 492, '1946': 465}  # seçim maddelerinin bilgi kutuları
     if E['id'] in TOTAL_SEATS: rec['national']['total_seats'] = TOTAL_SEATS[E['id']]
-    if E['era'] == 'osmanli': rec['defaultMode'] = 'count'
+    if E['era'] == 'osmanli' or E['id'] in ('1920', '1923', '1927', '1931', '1935', '1939', '1943'): rec['defaultMode'] = 'count'
     if E['id'] == '1946':
         rec['sources'].append({'name': 'Vikipedi: 1946 Türkiye genel seçimleri, "İllere göre sonuçlar" ve "Kayıtlı seçmen sayısı" tabloları (CC BY-SA 4.0)',
                                'url': WIKI_URL + '1946_Türkiye_genel_seçimleri'})
         rec['notes'].insert(0, '1946 seçiminin resmî il sonuçları yayımlanmamıştır. Oylar, Vikipedi\'nin milletvekili seçim mazbatalarından derlediği tablodan alınmıştır; "+/-" işaretli değerler yaklaşıktır, bazı illerde bazı partilerin oyu bilinmemektedir. Ülke geneli için Vikipedi yaklaşık CHP %85,4, DP %13,1 verir; sandalye dağılımı resmî kaynaklarda CHP 397, DP 64 olarak geçer.')
         rec['national']['turnout_note'] = 'Kayıtlı seçmen 8.551.549; kullanılan oy 6.373.543; katılım %74,53 (Vikipedi, TBMM kaynağı)'
+    if E.get('group2Label') == 'Etnik mensubiyet' or (E.get('groupLabel') or '').startswith('Etnik'):
+        rec['notes'].insert(1, 'Etnik mensubiyet Vikipedi listesindeki sınıflandırmadır. Mebusların kimlikleri dönemin kaynaklarında bu şekilde kayıtlı değildir; sınıflandırma tartışmalıdır ve kesin bilgi olarak okunmamalıdır.')
     if E['level'] == 'sancak' and y <= 1914:
         rec['notes'].insert(1, 'Bugünkü Türkiye sınırları içinde birimler sancaktır; Türkiye dışındaki bölgelerde ise vilayettir (vilayete bağlı sancakların vekilleri toplanmıştır). Bu nedenle "vekil sayısı" görünümünde büyük vilayetler daha koyu görünür.')
     if E['level'] == 'vilayet':
@@ -672,6 +707,8 @@ for L in LOCAL:
             u['total'] = len(scf)
         else:
             u['nodata'] = True; u['total'] = 0
+        bn = boundary_note(k, y)
+        if bn: u['boundary'] = bn
         units[slug(k)] = u
     rec = {'id': L['id'], 'type': 'yerel', 'era': 'cumhuriyet', 'date': L['date'], 'dateLabel': L['dateLabel'],
            'title': L['title'], 'subtitle': L.get('subtitle'), 'geo': geo_id, 'metric': 'local-early', 'level': 'il',

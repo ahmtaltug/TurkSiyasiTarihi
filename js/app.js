@@ -23,7 +23,7 @@
   const state = { index: [], parties: {}, era: 'all', types: new Set(Object.keys(TYPES)), cur: null, data: null,
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true } };
-  const VERSION = '1.0.0';
+  const VERSION = '1.1.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -146,7 +146,8 @@
   function styleFor(u) {
     const d = state.data, mode = state.mode;
     const base = { weight: 0.7, color: '#ffffff', opacity: 1, fillOpacity: 1 };
-    if (!u || u.nodata) return { ...base, fillColor: NODATA, color: '#f4f2ee' };
+    if (u && u.boundary && d.level !== 'vilayet') { base.dashArray = '4 3'; base.color = '#222'; base.weight = 1.2; }
+    if (!u || u.nodata) return { ...base, fillColor: NODATA, color: base.dashArray ? base.color : '#f4f2ee' };
     if (mode === 'winner') {
       if (!u.winner) return { ...base, fillColor: NODATA };
       let t = 0.85;
@@ -237,7 +238,7 @@
     if (!d || !d.geo) { el.innerHTML = ''; return; }
     const mode = state.mode;
     let html = '';
-    if (!mode) { el.innerHTML = '<div class="t">Dönemin sınırları</div><div class="muted">İl düzeyinde sonuç verisi yok</div>'; return; }
+    if (!mode) { el.innerHTML = '<div class="t">Dönemin sınırları</div><div class="muted">İl düzeyinde sonuç verisi yok</div>' + (Object.values(d.units).some((u) => u.boundary) ? '<div class="item"><span class="sw dash"></span><span class="muted">Sınırı tahmine dayanan birim</span></div>' : ''); return; }
     if (mode === 'winner') {
       const cnt = {};
       Object.values(d.units).forEach((u) => { if (u.winner) cnt[u.winner] = (cnt[u.winner] || 0) + 1; });
@@ -260,6 +261,7 @@
       html += `<div class="ramp-l"><span>${nf.format(lo)}</span><span>${nf.format(hi)}</span></div>`;
     }
     html += `<div class="item" style="margin-top:4px"><span class="sw" style="background:${NODATA}"></span><span class="muted">Veri yok / seçim yapılmadı</span></div>`;
+    if (d.level !== 'vilayet' && Object.values(d.units).some((u) => u.boundary)) html += '<div class="item"><span class="sw dash"></span><span class="muted">Sınırı tahmine dayanan birim</span></div>';
     el.innerHTML = html;
   }
 
@@ -281,10 +283,12 @@
     let h = `<h2>${esc(d.title)}</h2>`;
     h += `<div class="muted">${esc(d.dateLabel || meta.dateLabel || d.date)}${d.subtitle ? ' · ' + esc(d.subtitle) : ''}</div>`;
     h += `<div class="badges"><span class="badge" style="background:${t.color}1a;color:${t.color}">${t.label}</span><span class="badge">${ERA_LABEL[d.era] || ''}</span>`;
+    if (d.reliability) h += `<span class="badge rel rel-${esc(d.reliability.level)}" title="${esc(d.reliability.why)}">${esc(d.reliability.label)}</span>`;
     if (d.approxBoundaries) h += '<span class="badge">Yaklaşık sınırlar</span>';
     if (d.level) h += `<span class="badge">Birim: ${d.level}</span>`;
     h += '</div>';
     if (d.description) h += `<p class="desc">${esc(d.description)}</p>`;
+    if (d.reliability) h += `<p class="note rel-note"><b>Veri güvenilirliği — ${esc(d.reliability.label)}:</b> ${esc(d.reliability.why)}</p>`;
 
     const n = d.national || {};
     if (n.pct && Object.keys(n.pct).length) {
@@ -292,6 +296,9 @@
         .map(([k, v]) => [k, v, n.seats && n.seats[k] ? `${n.seats[k]} snd.` : '']);
       const label = d.type === 'referandum' ? 'Ülke geneli' : d.type === 'cumhurbaskanligi' ? 'Ülke geneli (aday)' : 'Ülke geneli oy';
       h += `<h3>${label}</h3>` + bars(ent, 100, { pct: true, max: Math.max(...ent.map((e) => e[1])) });
+      if (n.seats && Object.keys(n.seats).length && (d.type === 'genel' || d.type === 'senato')) {
+        h += `<h3>${d.type === 'senato' ? 'Bu seçimde kazanılan sandalyeler' : 'Meclis dağılımı'}</h3>` + hemicycle(Object.entries(n.seats).filter((e) => e[1] > 0));
+      }
       const kv = [];
       if (n.voters) kv.push(['Kayıtlı seçmen', nf.format(n.voters)]);
       if (n.valid) kv.push(['Geçerli oy', nf.format(n.valid)]);
@@ -382,9 +389,79 @@
         : `<h3>${label}</h3><ul class="members">${li}</ul>`;
     }
     if (u.note) h += `<p class="note">${esc(u.note)}</p>`;
+    if (u.boundary) h += `<p class="note warn"><b>Sınır notu:</b> ${esc(u.boundary)}</p>`;
+    if (d.geo && d.geo.startsWith('tr-')) h += '<details id="histBox"><summary>Bu ilin seçim geçmişi (aynı tür, 1950 sonrası)</summary><div class="hist">Yükleniyor…</div></details>';
     h += '</div>';
     box.innerHTML = h;
     $('#unitClose').onclick = () => selectUnit(null);
+    const hb = $('#histBox');
+    if (hb) {
+      if (histOpen) hb.open = true;
+      hb.addEventListener('toggle', () => { histOpen = hb.open; if (hb.open) renderHistory(state.unit); });
+      if (hb.open) renderHistory(state.unit);
+    }
+  }
+
+  // ------------------------------------------------------------------ il seçim geçmişi
+  let histOpen = false;
+  async function renderHistory(id) {
+    const d = state.data, box = document.querySelector('#histBox .hist');
+    if (!box) return;
+    const fam = family(state.cur);
+    const metas = state.index.filter((e) => family(e) === fam && e.geo && e.geo.startsWith('tr-'));
+    const datas = await Promise.all(metas.map((e) => loadElection(e.id).catch(() => null)));
+    if (state.unit !== id || state.data !== d) return;
+    const rows = metas.map((e, i) => ({ e, u: datas[i] && datas[i].units[id] })).filter((r) => r.u && !r.u.nodata);
+    if (!rows.length) { box.innerHTML = '<p class="note">Bu il için başka kayıt yok.</p>'; return; }
+    const party = (['party', 'swing'].includes(state.mode) && state.party) || (d.units[id] && d.units[id].winner) || null;
+    // seçili partinin oy oranı çizgisi
+    let chart = '';
+    const pts = rows.map((r) => [Number(r.e.date.slice(0, 4)), r.u.pct ? r.u.pct[party] : null]).filter((p) => p[1] != null);
+    if (party && pts.length > 1) {
+      const W = 320, H = 90, x0 = pts[0][0], x1 = pts[pts.length - 1][0], ymax = Math.max(10, Math.ceil(Math.max(...pts.map((p) => p[1])) / 10) * 10);
+      const X = (x) => 24 + (x - x0) / Math.max(1, x1 - x0) * (W - 34), Y = (y) => H - 14 - y / ymax * (H - 24);
+      const c = pColor(party);
+      chart = `<svg class="spark" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(pLabel(party))} oy oranı">` +
+        `<line x1="24" x2="${W - 10}" y1="${Y(0)}" y2="${Y(0)}" stroke="#d6d3cc"/><text x="2" y="${Y(ymax) + 4}" font-size="9" fill="#5f6670">%${ymax}</text><text x="2" y="${Y(0) + 3}" font-size="9" fill="#5f6670">0</text>` +
+        `<polyline fill="none" stroke="${c}" stroke-width="2" points="${pts.map((p) => X(p[0]) + ',' + Y(p[1])).join(' ')}"/>` +
+        pts.map((p) => `<circle cx="${X(p[0])}" cy="${Y(p[1])}" r="2.6" fill="${c}"><title>${p[0]}: ${pf(p[1])}</title></circle>`).join('') +
+        `<text x="24" y="${H - 2}" font-size="9" fill="#5f6670">${x0}</text><text x="${W - 10}" y="${H - 2}" font-size="9" fill="#5f6670" text-anchor="end">${x1}</text></svg>` +
+        `<div class="muted" style="font-size:12px">${esc(pLabel(party))} oy oranı</div>`;
+    }
+    let t = '<table class="utable"><thead><tr><th>Yıl</th><th>Birinci</th>' + (party ? `<th class="num">${esc(pLabel(party))}</th>` : '') + '<th class="num">Katılım</th></tr></thead><tbody>';
+    for (const { e, u } of rows) {
+      t += `<tr data-e="${esc(e.id)}" class="${e.id === d.id ? 'sel' : ''}"><td>${esc(e.date.slice(0, 4))}${e.subtitle && /tur/.test(e.subtitle) ? ' ' + esc(e.subtitle) : ''}</td>` +
+        `<td>${u.winner ? `<span class="sw" style="background:${pColor(u.winner)}"></span>${esc(pLabel(u.winner))}${u.pct && u.pct[u.winner] != null ? ' ' + pf(u.pct[u.winner]) : ''}` : '–'}</td>` +
+        (party ? `<td class="num">${u.pct && u.pct[party] != null ? pf(u.pct[party]) : '–'}</td>` : '') +
+        `<td class="num">${u.turnout != null ? pf(u.turnout) : '–'}</td></tr>`;
+    }
+    t += '</tbody></table>';
+    box.innerHTML = chart + t;
+    box.querySelectorAll('tr[data-e]').forEach((tr) => tr.addEventListener('click', () => go(tr.dataset.e, { unit: id, keepMode: true })));
+  }
+
+  // ------------------------------------------------------------------ meclis sandalye grafiği
+  function hemicycle(entries) {
+    const total = entries.reduce((a, e) => a + e[1], 0);
+    if (!total) return '';
+    const R = Math.max(2, Math.round(Math.sqrt(total / 3.2)));
+    const r0 = 0.38, radii = [...Array(R)].map((_, i) => r0 + (1 - r0) * i / (R - 1));
+    const sr = radii.reduce((a, b) => a + b, 0);
+    const counts = radii.map((r) => Math.floor(total * r / sr));
+    let rest = total - counts.reduce((a, b) => a + b, 0);
+    for (let i = R - 1; rest > 0; i = (i - 1 + R) % R, rest--) counts[i]++;
+    const pts = [];
+    radii.forEach((r, i) => { const n = counts[i]; for (let j = 0; j < n; j++) pts.push({ a: Math.PI * (1 - (n === 1 ? 0.5 : j / (n - 1))), r }); });
+    pts.sort((p, q) => q.a - p.a || q.r - p.r);
+    const dot = Math.min(0.045, 0.42 * (1 - r0) / R);
+    let k = 0, svg = '';
+    for (const [party, n] of entries) {
+      for (let i = 0; i < n; i++, k++) {
+        const p = pts[k];
+        svg += `<circle cx="${(p.r * Math.cos(p.a)).toFixed(3)}" cy="${(-p.r * Math.sin(p.a)).toFixed(3)}" r="${dot.toFixed(3)}" fill="${pColor(party)}"><title>${esc(pLabel(party))}: ${n}</title></circle>`;
+      }
+    }
+    return `<svg class="hemi" viewBox="-1.06 -1.06 2.12 1.12" role="img" aria-label="Meclis sandalye dağılımı, ${total} sandalye">${svg}<text x="0" y="-0.05" text-anchor="middle" font-size="0.16" font-weight="700" fill="#1f2328">${total}</text></svg>`;
   }
 
   // ------------------------------------------------------------------ il tablosu
