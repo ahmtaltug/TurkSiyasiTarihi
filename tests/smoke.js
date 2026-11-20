@@ -35,6 +35,18 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   // tahmini sınır işareti 1923'te lejantta görünmeli
   await p.evaluate(() => { location.hash = 'e=1923'; }); await p.waitForTimeout(800);
   if (!(await p.$('#legend .sw.hatch'))) bad.push('1923 tahmini sınır lejantı yok');
+  // parti geçmişi: 2023'te CHP çubuğuna tıkla
+  await p.evaluate(() => { location.hash = 'e=2023'; }); await p.waitForTimeout(800);
+  await p.click('#electionInfo .bar.clickable[data-k="CHP"]'); await p.waitForTimeout(1500);
+  const segs = await p.$$eval('#partyHist polyline', (x) => x.length);
+  if (segs < 2) bad.push(`CHP geçmişinde 1981–1995 boşluğu yok (${segs} parça)`);
+  // il arama
+  await p.fill('#unitSearch', 'Trabzon'); await p.press('#unitSearch', 'Enter'); await p.waitForTimeout(800);
+  if (!(await p.evaluate(() => location.hash.includes('u=61')))) bad.push('il arama Trabzon\'u seçmedi');
+  // panel gizle / göster
+  await p.click('#panelBtn'); await p.waitForTimeout(200);
+  if (!(await p.evaluate(() => document.querySelector('.layout').classList.contains('collapsed')))) bad.push('panel gizlenmedi');
+  await p.click('#panelBtn');
   // tema: Sistem -> Açık -> Koyu
   await p.click('#themeBtn'); await p.click('#themeBtn'); await p.waitForTimeout(300);
   if ((await p.evaluate(() => document.documentElement.dataset.theme)) !== 'dark') bad.push('koyu tema uygulanmadı');
