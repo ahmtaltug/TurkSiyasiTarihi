@@ -14,7 +14,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 
 <img src="docs/img/oynatma.gif" alt="1908'den 2023'e milletvekili seçimlerinin zaman atlamalı oynatması" width="900">
 
-▶ [Tanıtım videosu (70 sn)](docs/video/tanitim.mp4)
+▶ [Tanıtım videosu (73 sn)](docs/video/tanitim-16x9.mp4)
 
 </div>
 
@@ -92,6 +92,10 @@ Başlıca sınırlamalar:
 - Demografik göstergeler günümüz il sınırlarına göredir. İl düzeyinde kentleşme ve göç verisi yoktur; korelasyon nedensellik göstermez.
 
 Ayrıntılar: [docs/DOGRULAMA.md](docs/DOGRULAMA.md) · Sürüm geçmişi: [CHANGELOG.md](CHANGELOG.md) · Olası gelecek çalışmalar: [ROADMAP.md](ROADMAP.md)
+
+## Tanıtım videosu
+
+`docs/video/tanitim-16x9.mp4` (1920×1080): sitenin gerçek ekran kaydı; müzik ve ses efektleri bu proje için sentezlendi.
 
 ## Atıf
 
