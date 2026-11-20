@@ -1,0 +1,288 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Cumhur İttifakı
+| kısaltma         = 
+| colorcode        = {{Siyasi parti renk|Adalet ve Kalkınma Partisi}}
+| lider1_başlık    = Liderler
+| lider1_isim      = {{Kayma|[[Recep Tayyip Erdoğan]] ([[Adalet ve Kalkınma Partisi|AK Parti]])<br />[[Devlet Bahçeli]] ([[Milliyetçi Hareket Partisi|MHP]])<br />[[Mustafa Destici]] ([[Büyük Birlik Partisi|Büyük Birlik]]}})<br />
+| lider2_başlık    = Cumhurbaşkanı adayı
+| lider2_isim      = [[Recep Tayyip Erdoğan]] (2018, 2023, 2028<ref>{{Web kaynağı |url=https://www.bbc.com/turkce/articles/cewqy78dz7qo.amp |başlık=Arşivlenmiş kopya |erişimtarihi=23 Haziran 2026 |arşivurl=https://web.archive.org/web/20260623031104/https://www.bbc.com/turkce/articles/cewqy78dz7qo.amp |arşivtarihi=23 Haziran 2026 |ölüurl=hayır }}</ref>)
+| slogan           = ''Cumhur İttifakı Millet Aklı''<br/>''Beka için millî karar, cumhur için istikrar''<br/>''Türkiye Yüzyılı''
+| kuruluş          = 20 Şubat 2018
+| ideoloji         = {{yalın liste|[[Erdoğanizm]]<br>[[Muhafazakârlık]]<br>[[Sosyal muhafazakârlık]]<br>[[Sağ popülizm]]<br>[[Avrupa şüpheciliği]]<br>}} {{daraltılabilir liste | title = Bölüngü:<br>|[[Muhafazakâr demokrasi]]<br>|[[Ülkücülük]]<br>|[[Millî muhafazakârlık]]<br>|[[Yeni Osmanlıcılık]]<br>|[[Türk-İslam sentezi]]<br>|[[Sünni]] [[İslamcılık]]<br>|[[İlliberal demokrasi|İlliberalizm]]}}
+| pozisyon         = [[Sağcılık|Sağ]]dan [[aşırı sağ]]a
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|326|600|hex=#ff7f00}}
+| sandalye2_başlık = Büyükşehir Belediye Başkanlıkları
+| sandalye2        = {{Composition bar|14|30|hex=#ff7f00}}
+| sandalye3_başlık = Belediye Başkanlıkları
+| sandalye3        = {{Composition bar|817|1363|hex=#ff7f00}}
+| sandalye4_başlık = İl Genel Meclisleri
+| sandalye4        = {{Composition bar|810|1282|hex=#ff7f00}}
+| ülke             = [[Dosya:Flag of Turkey.svg|23px]] [[Türkiye|Türkiye Cumhuriyeti]]
+}}
+'''Cumhur İttifakı''',<ref>{{Web kaynağı | başlık = AKP, MHP to press button for 'People's Alliance' | url = http://www.hurriyetdailynews.com/akp-mhp-to-press-button-for-peoples-alliance-127628 | website = Hürriyet Daily News | erişimtarihi = 20 Şubat 2018 | arşivurl = https://web.archive.org/web/20180404072954/http://www.hurriyetdailynews.com/akp-mhp-to-press-button-for-peoples-alliance-127628 | arşivtarihi = 4 Nisan 2018 | ölüurl =hayır}}</ref> 20 Şubat 2018 tarihinde [[Adalet ve Kalkınma Partisi]] (AK Parti) ile [[Milliyetçi Hareket Partisi]] (MHP) arasında kurulan seçim ittifakıdır.<ref>{{Web kaynağı | başlık = Cumhurbaşkanı Erdoğan AK Parti-MHP ittifakının ismini açıkladı: Cumhur İttifakı | url = http://www.sozcu.com.tr/2018/gundem/akp-grup-toplantisi-43-2234166/ | website = Sözcü | erişimtarihi = 20 Şubat 2018 | arşivurl = https://web.archive.org/web/20180221002854/http://www.sozcu.com.tr/2018/gundem/akp-grup-toplantisi-43-2234166/ | arşivtarihi = 21 Şubat 2018 | ölüurl =evet}}</ref> Daha sonrasında [[Büyük Birlik Partisi]]<ref>{{Web kaynağı|url=https://www.diken.com.tr/bbp-cumhur-ittifakinin-hem-icinde-hem-disinda/|başlık=BBP, ‘cumhur ittifakı’nın hem içinde hem dışında - Diken|erişimtarihi=8 Mart 2023|tarih=13 Temmuz 2022|dil=Türkçe|çalışma=www.diken.com.tr|arşivurl=https://web.archive.org/web/20230308100620/https://www.diken.com.tr/bbp-cumhur-ittifakinin-hem-icinde-hem-disinda/|arşivtarihi=8 Mart 2023|ölüurl=hayır}}</ref> (Büyük Birlik) ve [[Yeniden Refah Partisi]]<ref>{{Web kaynağı|url=https://www.trthaber.com/haber/gundem/yeniden-refah-partisi-cumhur-ittifakinda-755609.html|başlık=Yeniden Refah Partisi Cumhur İttifakı'nda|erişimtarihi=24 Mart 2023|dil=Türkçe|çalışma = [[TRT Haber]]|arşivurl=https://web.archive.org/web/20230324133143/https://www.trthaber.com/haber/gundem/yeniden-refah-partisi-cumhur-ittifakinda-755609.html|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref> (Yeniden Refah) de ittifaka katılmıştır. AK Parti listelerinden seçime gireceğini açıklayan [[Hür Dava Partisi]] (HÜDA PAR) ise Cumhur İttifakına dâhil olmadan dışarıdan destek vereceğini açıkladı.<ref>{{Web kaynağı | url = https://www.birgun.net/haber/hudapar-secime-ak-parti-listelerinden-girecegiz-426065 | başlık = HÜDAPAR: Seçime AK Parti listelerinden gireceğiz | erişimtarihi = 24 Mart 2023 | ölüurl = hayır | website = birgun.net | arşivurl = https://web.archive.org/web/20230324150846/https://www.birgun.net/amp/haber/hudapar-secime-ak-parti-listelerinden-girecegiz-426065 | arşivtarihi = 24 Mart 2023 }} Haberden alıntı: "''İttifaka dahil olmayan HÜDAPAR, Cumhur İttifakı'na 'dışarıdan' destek verecek.''"</ref> Büyük Birlik Partisi Genel Başkanı [[Mustafa Destici]], HÜDA PAR'ın Cumhur İttifakında yer almadığını söyledi.<ref>{{Web kaynağı | url = https://www.gazeteduvar.com.tr/mustafa-desticiden-huda-par-elestirilerine-yanit-cumhur-ittifakinda-degil-haber-1612503 | başlık = Mustafa Destici'den HÜDA-PAR eleştirilerine yanıt: Cumhur İttifakı'nda değil | erişimtarihi = 7 Mayıs 2023 | ölüurl = hayır | website = gazeteduvar.com.tr | arşivurl = https://web.archive.org/web/20230409091719/https://www.gazeteduvar.com.tr/mustafa-desticiden-huda-par-elestirilerine-yanit-cumhur-ittifakinda-degil-haber-1612503 | arşivtarihi = 9 Nisan 2023}}</ref> [[Demokratik Sol Parti]] Genel Başkanı [[Önder Aksakal]], DSP'nin Cumhurbaşkanı Erdoğan'ı destekleyeceğini ve AK Parti listelerinden seçime gireceklerini ifade etti.<ref name=":2">{{Web kaynağı | url = https://www.gazeteduvar.com.tr/dspden-erdogana-destek-haber-1612271 | başlık = DSP'den Erdoğan'a destek | erişimtarihi =7 Nisan 2023| tarih =4 Temmuz 2023| dil = tr-TR | ad = Gazete | soyadı = Duvar | arşivurl = https://web.archive.org/web/20230407141042/https://www.gazeteduvar.com.tr/dspden-erdogana-destek-haber-1612271 | arşivtarihi = 7 Nisan 2023}}</ref>
+
+== Tarihçe ==
+{{başlık genişlet}}
+
+=== Arka plan ===
+[[Çözüm Süreci|2013-2015 PKK-Türkiye çözüm sürecinin]] başarısızlıkla sonuçlanmasının ardından Adalet ve Kalkınma Partisi (AK Parti) ve Milliyetçi Hareket Partisi (MHP) [[PKK]]'ya karşı ideolojik olarak birbirlerine yaklaştılar. Cumhurbaşkanı [[Recep Tayyip Erdoğan]], [[Türkiye Büyük Millet Meclisi|TBMM]]'deki MHP oylarının desteğiyle Nisan 2017'de Türkiye'yi [[Cumhurbaşkanlığı hükûmet sistemi|cumhurbaşkanlığı sistemine]] geçiren ve [[Türkiye cumhurbaşkanı|cumhurbaşkanının]] [[Yürütme erki|yürütme yetkisini]] genişleten [[2017 Türkiye anayasa değişikliği referandumu|anayasa referandumunu]] geçirmeyi başardı. MHP'li muhalifler, Ekim 2017'de [[İYİ Parti]] adında yeni bir parti kurdular.
+
+=== Oluşum ===
+
+==== 2018 seçimleri ====
+İttifak, [[2018 Türkiye genel seçimleri|2018 genel seçimlerine]] birlikte katılmak için kuruldu ve mevcut Cumhurbaşkanı [[Recep Tayyip Erdoğan]]'ın [[2018 Türkiye cumhurbaşkanlığı seçimi|yeniden seçilmesini]] destekleyen siyasi partileri bir araya getirdi. [[Büyük Birlik Partisi]] (Büyük Birlik) de ittifaka katıldı.
+
+Rakip olarak 3 Mayıs 2018 tarihinde [[Cumhuriyet Halk Partisi]], [[İYİ Parti]], [[Saadet Partisi]] ve [[Demokrat Parti (2007)|Demokrat Parti]] tarafından [[Millet İttifakı]] kuruldu.<ref>{{Web kaynağı |url=http://www.dailysabah.com/elections/2018/05/02/opposition-parties-agree-to-unite-against-peoples-alliance-in-upcoming-turkish-elections |başlık=Opposition parties agree to unite against People's Alliance in upcoming Turkish elections |erişimtarihi=11 Haziran 2018 |arşivurl=https://web.archive.org/web/20180612143543/https://www.dailysabah.com/elections/2018/05/02/opposition-parties-agree-to-unite-against-peoples-alliance-in-upcoming-turkish-elections |arşivtarihi=12 Haziran 2018 |ölüurl=hayır }}</ref>
+
+==== 2023 seçimleri ====
+23 Kasım 2018'de kurulan [[Yeniden Refah Partisi]] [[2019 Türkiye yerel seçimleri|31 Mart 2019 yerel seçimlerinde]] Cumhur İttifakına destek vereceğini açıklamıştı.<ref name=":0">{{Web kaynağı|url=http://yenidenrefahpartisi.org.tr/page/31-mart-yerel-secimleri-aciklamasi/1080 |başlık=31 MART YEREL SEÇİMLERİ AÇIKLAMASI|erişimtarihi=19 Mart 2020 |arşivurl=https://web.archive.org/web/20200301061552/http://yenidenrefahpartisi.org.tr/page/31-mart-yerel-secimleri-aciklamasi/1080 |arşivtarihi=1 Mart 2020 |ölüurl=hayır}}</ref><ref name=":1">{{Web kaynağı|url=https://www.msn.com/id-id/berita/nasional/yeniden-refah-partisi-cumhur-ittifak%C4%B1na-destek-verecek/vp-BBVh31J |başlık=Yeniden Refah Partisi, Cumhur İttifakı'na Destek Verecek|erişimtarihi=18 Mart 2020 |arşivurl=https://web.archive.org/web/20200318191703/https://www.msn.com/id-id/berita/nasional/yeniden-refah-partisi-cumhur-ittifak%25C4%25B1na-destek-verecek/vp-BBVh31J |arşivtarihi=18 Mart 2020 |ölüurl=hayır}}</ref> Buna rağmen Yeniden Refah Partisi, Cumhur İttifakına katılmaktan kendi kararıyla vazgeçtiğini 20 Mart 2023 tarihinde açıkladı.<ref>{{Web kaynağı | url = https://www.haberturk.com/son-dakika-yeniden-refah-partisi-nden-cumhur-ittifaki-na-katilmama-karari-3575198 | başlık = Yeniden Refah Partisi'nden Cumhur İttifakı'na katılmama kararı | erişimtarihi = 20 Mart 2023 | ölüurl = hayır | website = haberturk.com | arşivurl = https://web.archive.org/web/20230320131521/https://www.haberturk.com/son-dakika-yeniden-refah-partisi-nden-cumhur-ittifaki-na-katilmama-karari-3575198 | arşivtarihi = 20 Mart 2023 }}</ref> Ancak 24 Mart 2023 tarihinde Yeniden Refah Partisi Cumhur İttifakına katıldığını ve cumhurbaşkanlığı seçimi için Recep Tayyip Erdoğan'ı destekleme kararı aldığını açıkladı.<ref>{{Web kaynağı|url=https://www.sabah.com.tr/gundem/2023/03/24/son-dakika-yeniden-refah-partisi-cumhur-ittifakina-katildi|başlık=SON DAKİKA: Yeniden Refah Partisi Cumhur İttifakı'na katıldı! Heyetler YSK'da...|erişimtarihi=24 Mart 2023|dil=Türkçe|çalışma=Sabah|arşivurl=https://web.archive.org/web/20230324132413/https://www.sabah.com.tr/gundem/2023/03/24/son-dakika-yeniden-refah-partisi-cumhur-ittifakina-katildi|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref>
+
+11 Mart 2023 tarihinde [[Hür Dava Partisi]] (HÜDA PAR) [[2023 Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı seçimi]] için Recep Tayyip Erdoğan'ı destekleme kararı,<ref>{{Web kaynağı|url=https://www.memurlar.net/haber/1058429/huda-par-dan-cumhur-ittifaki-na-katilma-karari.html|başlık=HÜDA PAR'dan Cumhur İttifakı'na katılma kararı|erişimtarihi=11 Mart 2023|arşivengelli=evet|dil=Türkçe|çalışma=Memurlar.Net}}</ref> 24 Mart 2023 tarihinde ise [[2023 Türkiye genel seçimleri|genel seçimlere]] AK Parti listelerinden katılma kararı aldı.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/huda-par-secim-kararini-acikladi-7631837/|başlık=HÜDA PAR seçim kararını açıkladı|erişimtarihi=24 Mart 2023|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]|arşivurl=https://web.archive.org/web/20230324134729/https://www.sozcu.com.tr/2023/gundem/huda-par-secim-kararini-acikladi-7631837/|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref> Müzakere sürecinde, HÜDA PAR'ın AK Parti'den 8 ile 20 milletvekilliği istediği iddiaları çeşitli basın kuruluşları tarafından ortaya atıldı.<ref>{{Tweet kaynağı|yazar=Haber|kullanıcı=Haber|numara=1634842940135854080|başlık=Düzeltme: *20 Milletvekili Adayı üzerine anlaştı.|tarih=12 Mart 2023|erişimtarihi=25 Mart 2023}}</ref><ref>{{Web kaynağı|url=https://sputniknews.com.tr/20230315/huda-par-ak-partiden-8-vekillik-istedi-1068270625.html|başlık='HÜDA PAR, AK Parti'den 8 vekillik istedi'|erişimtarihi=25 Mart 2023|dil=Türkçe|çalışma=Sputnik Türkiye|ad=Sputnik|soyadı=Türkiye|arşivurl=https://web.archive.org/web/20230324221837/https://sputniknews.com.tr/20230315/huda-par-ak-partiden-8-vekillik-istedi-1068270625.html|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref> 7 Nisan 2023 tarihinde [[Demokratik Sol Parti]] cumhurbaşkanlığı seçimi için Recep Tayyip Erdoğan'ı destekleme ve AK Parti listelerinden seçime girme kararı aldı.<ref name=":2" /> 12 Nisan 2023 tarihinde [[Büyük Türkiye Partisi (2020)|Büyük Türkiye Partisi]] Recep Tayyip Erdoğan'ı ve Cumhur İttifakını desteklemek adına seçimden çekildi.<ref name=":3">{{Web kaynağı|url=https://www.tgrthaber.com.tr/secim-2023/buyuk-turkiye-partisi-secimlerden-cekiliyor-ulkemizi-rahatsiz-eden-goruntuler-var-2883306|başlık=Büyük Türkiye Partisi seçimlerden çekiliyor: Ülkemizi rahatsız eden görüntüler var - TGRT Haber|erişimtarihi=12 Nisan 2023|arşivtarihi=12 Nisan 2023|arşivurl=https://web.archive.org/web/20230412164533/https://www.tgrthaber.com.tr/secim-2023/buyuk-turkiye-partisi-secimlerden-cekiliyor-ulkemizi-rahatsiz-eden-goruntuler-var-2883306|ölüurl=hayır|dil=Türkçe|çalışma=TGRT}}</ref> 19 Nisan 2023 tarihinde [[Doğru Yol Partisi (2007)|Doğru Yol Partisi]] Recep Tayyip Erdoğan'ı ve Cumhur İttifakını destekleme kararı aldı.<ref name=":4">{{Web kaynağı|url=https://www.yeniakit.com.tr/haber/dypden-cumhurbaskani-erdogana-destek-karari-1751386.html|başlık=DYP'den Cumhurbaşkanı Erdoğan'a destek kararı|erişimtarihi=19 Nisan 2023|arşivtarihi=19 Nisan 2023|arşivurl=https://web.archive.org/web/20230419152314/https://www.yeniakit.com.tr/haber/dypden-cumhurbaskani-erdogana-destek-karari-1751386.html|tarih=19 Nisan 2023|dil=Türkçe|yayıncı=Yeni Akit}}</ref> 5 Mayıs 2023 tarihinde [[Yeni Dünya Partisi]] Recep Tayyip Erdoğan'ı ve Cumhur İttifakını destekleme kararı aldı.<ref name=":5">{{Web kaynağı|url=https://www.haber7.com/siyaset/haber/3322782-yeni-dunya-partisi-bas-lideri-emanullah-gunduz-erdogana-destek-cagrisi-yapti|başlık=Yeni Dünya Partisi Baş Lideri Emanullah Gündüz Erdoğan'a destek çağrısı yaptı|erişimtarihi=5 Mayıs 2023|arşivtarihi=5 Mayıs 2023|arşivurl=https://web.archive.org/web/20230505152458/https://www.haber7.com/siyaset/haber/3322782-yeni-dunya-partisi-bas-lideri-emanullah-gunduz-erdogana-destek-cagrisi-yapti|tarih=5 Mayıs 2023|yayıncı=Haber 7}}</ref> 17 Mayıs 2023 tarihinde [[Vatan Partisi (2015)|Vatan Partisi]] cumhurbaşkanlığı seçiminin 2. turunda Recep Tayyip Erdoğan'ı ve Cumhur İttifakını destekleme kararı aldı.<ref name=":6">{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/perincekten-geri-vites-2nci-tur-icin-erdogana-oy-istedi-2082336|başlık=Perinçek'ten 'U' dönüşü! 2'nci tur için Erdoğan'a oy istedi|erişimtarihi=17 Mayıs 2023|arşivtarihi=17 Mayıs 2023|arşivurl=https://web.archive.org/web/20230517162828/https://www.cumhuriyet.com.tr/siyaset/perincekten-geri-vites-2nci-tur-icin-erdogana-oy-istedi-2082336|tarih=17 Mayıs 2023|ölüurl=hayır|dil=Türkçe|çalışma=Cumhuriyet}}</ref> 22 Mayıs 2023 tarihinde [[Sinan Oğan]] ikinci turda Cumhurbaşkanı Erdoğan'ı destekleyeceğini açıkladı.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/cgxl5nn2q5lo|başlık=Sinan Oğan ikinci turda Cumhurbaşkanı Erdoğan'ı destekleyeceğini açıkladı|erişimtarihi=25 Mayıs 2023|tarih=21 Mayıs 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230524011911/https://www.bbc.com/turkce/articles/cgxl5nn2q5lo|arşivtarihi=24 Mayıs 2023|ölüurl=hayır}}</ref> 23 Mayıs 2023 tarihinde Türkiye İttifakı Partisi cumhurbaşkanlığı seçiminin 2. turunda Recep Tayyip Erdoğan'ı ve Cumhur İttifakını destekleme kararı aldı.<ref name=":7">{{Web kaynağı|url=https://twitter.com/TPmehmetsaglam/status/1660991221131509762|başlık=Türkiye İttifakı Partisi olarak yol arkadaşlarımızla birlikte 28 Mayıs Cumhurbaşkanlığı seçimlerinde Cumhur İttifakı adayı Sn. Recep Tayyip Erdoğan'ı destekleme kararı aldığımızı kamuoyuna beyan ederiz. İlkelerimiz doğrultusunda aldığımız bu kararın hayırlara vesile olmasını temenni ederim.|erişimtarihi=23 Mayıs 2023|arşivtarihi=24 Mayıs 2023|arşivurl=https://web.archive.org/web/20230524165245/https://twitter.com/TPmehmetsaglam/status/1660991221131509762|dil=Türkçe|çalışma=Twitter}}</ref> 25 Mayıs 2023 tarihinde Ülkem Partisi cumhurbaşkanlığı seçiminin 2. turunda Recep Tayyip Erdoğan'ı destekleme kararı aldı.<ref>{{Web kaynağı | url = https://www.ahaber.com.tr/gundem/2023/05/25/ulkem-partisi-genel-baskani-neset-dogandan-baskan-erdogana-destek-turkiyenin-onune-cikacak-her-engeli-asacak-lider | başlık = Ülkem Partisi Genel Başkanı Neşet Doğan’dan Başkan Erdoğan’a destek: Türkiye’nin önüne çıkacak her engeli aşacak lider! | erişimtarihi = 30 Mayıs 2023 | dil = Türkçe | çalışma = [[a Haber]] | arşivurl = https://web.archive.org/web/20230525201016/https://www.ahaber.com.tr/gundem/2023/05/25/ulkem-partisi-genel-baskani-neset-dogandan-baskan-erdogana-destek-turkiyenin-onune-cikacak-her-engeli-asacak-lider | arşivtarihi = 25 Mayıs 2023}}</ref>
+
+3 Şubat 2024'te Yeniden Refah Partisi Genel Başkanı [[Fatih Erbakan]] yaptığı açıklamada İstanbul, Ankara ve İzmir'de kendi adaylarıyla girme kararı aldı ve [[2024 Türkiye yerel seçimleri|2024 yerel seçimlerinde]] ittifak yapmama kararı aldı.<ref>{{Haber kaynağı|url=https://www.ensonhaber.com/gundem/yeniden-refah-partisi-ittifak-kararini-acikladi|başlık=Yeniden Refah Partisi ittifak kararını açıkladı.|erişimtarihi=3 Şubat 2024|arşivtarihi=3 Şubat 2024|arşivurl=https://web.archive.org/web/20240203120541/https://www.ensonhaber.com/gundem/yeniden-refah-partisi-ittifak-kararini-acikladi|tarih=3 Şubat 2024|ölüurl=hayır|yayıncı=Ensonhaber}}</ref>
+
+== Üyeler ==
+{| class="wikitable sortable mw-collapsible"
+|-
+! colspan=3 | Parti
+! Fotoğraf
+! Lider
+! [[Siyasi yelpaze|Siyasi pozisyon]]
+! İdeoloji 
+! [[Türkiye Büyük Millet Meclisi|TBMM]]
+|-
+! style="background:{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}; width:2px;"|
+| align=center| AKP
+| [[Adalet ve Kalkınma Partisi]]
+|[[Dosya:2025 at NATO Summit with Recep Tayyip Erdoğan.jpg|92x92pik]]
+| [[Recep Tayyip Erdoğan]]
+| [[Sağcılık|Sağ]]<ref>{{Web kaynağı | başlık = Turkey's divisions are so deep they threaten its future | url = https://www.theguardian.com/commentisfree/2015/oct/18/divided-turkey-future-threatened-isis | yayıncı = Guardian | yazar = Soner Çağatay | erişimtarihi = 17 Ağustos 2017 | arşivurl = https://web.archive.org/web/20170803214436/https://www.theguardian.com/commentisfree/2015/oct/18/divided-turkey-future-threatened-isis | arşivtarihi = 3 Ağustos 2017 | ölüurl = hayır }}</ref> ve [[aşırı sağ]]<ref>{{Web kaynağı|url=https://www.jstor.org/stable/23017316 |başlık=TURKEY'S EXPERIENCE WITH ISLAM, DEMOCRACY, LIBERALISM, AND SECULARISM on JSTOR|erişimtarihi=15 Ağustos 2021 |arşivurl=https://web.archive.org/web/20210604220420/https://www.jstor.org/stable/23017316 |arşivtarihi=4 Haziran 2021 |ölüurl=hayır}}</ref>
+| [[Muhafazakârlık]]<ref>{{Dergi kaynağı |ad=Fatma Müge |soyadı=Göçek |başlık=The Transformation of Turkey: Redefining State and Society from the Ottoman Empire to the Modern Era |yayıncı=I.B. Tauris |yıl=2011 |sayfa=56}}{{Dergi kaynağı |ad=Nathalie |soyadı=Tocci |başlık=Turkey and the European Union |eser=The Routledge Handbook of Modern Turkey |yayıncı=Routledge |yıl=2012 |sayfa=241}}</ref><br>[[Sağ popülizm]]<ref>{{Web kaynağı|url=https://www.brookings.edu/research/turkey-the-new-model/ |başlık=Turkey: The New Model?|erişimtarihi=19 Mart 2020 |arşivurl=https://web.archive.org/web/20170206054907/https://www.brookings.edu/research/turkey-the-new-model/ |arşivtarihi=6 Şubat 2017 |ölüurl=hayır}}</ref><ref>{{Web kaynağı |url=https://m.dw.com/en/support-for-muslim-brotherhood-isolates-turkey/a-17037906 |başlık=Support for Muslim Brotherhood isolates Turkey |erişimtarihi=19 Mart 2020 |arşivurl=https://web.archive.org/web/20180721073141/https://m.dw.com/en/support-for-muslim-brotherhood-isolates-turkey/a-17037906 |arşivtarihi=21 Temmuz 2018 |ölüurl=evet}}</ref><br>[[İlliberal demokrasi|İlliberalizm]]<ref name="borger">{{Haber kaynağı |soyadı1=Borger |ad1=Julian |başlık=Republicans closely resemble autocratic parties in Hungary and Turkey – study |url=https://www.theguardian.com/us-news/2020/oct/26/republican-party-autocratic-hungary-turkey-study-trump |erişimtarihi=3 Aralık 2021 |iş=[[The Guardian]] |tarih=26 Ekim 2020 |arşivurl=https://web.archive.org/web/20211127124833/https://www.theguardian.com/us-news/2020/oct/26/republican-party-autocratic-hungary-turkey-study-trump |arşivtarihi=27 Kasım 2021 |ölüurl=hayır }}</ref>
+| {{Composition bar|280|600|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Milliyetçi Hareket Partisi}}; width:2px;"|
+| align=center| MHP
+| [[Milliyetçi Hareket Partisi]]
+|[[Dosya:Devlet Bahçeli VOA 2015 (cropped).jpg|93x93pik]]
+| [[Devlet Bahçeli]]
+| [[Sağcılık|Sağ]]<ref>{{Kitap kaynağı|ad=Fawaz|soyadı=Gerges|başlık=Contentious Politics in the Middle East|sayfa=299|yayıncı=Springer|yıl=2016}}</ref><ref>{{Kitap kaynağı|yayıncı=Taylor & Francis|yıl=2017|sayfa=65|ad=Gözde|soyadı=Yilmaz|başlık=Minority Rights in Turkey}}</ref><ref>{{Haber kaynağı|yayımcı=[[Yahoo! News]]|başlık=Turkish right-wing dissidents' bid to oust party leader foiled|tarih=15 Mayıs 2016|url=https://news.yahoo.com/wing-turkey-party-bid-oust-longtime-leader-033417332.html|erişimtarihi=27 Mayıs 2019|arşivurl=https://web.archive.org/web/20190701192443/https://news.yahoo.com/wing-turkey-party-bid-oust-longtime-leader-033417332.html|arşivtarihi=1 Temmuz 2019|ölüurl=hayır}}</ref><ref>{{Web kaynağı | dil = Fransızca | başlık = En Turquie, le parti d’Erdogan bénéficie du succès inattendu des nationalistes du MHP | url = https://www.lemonde.fr/europe/article/2018/06/26/en-turquie-le-parti-d-erdogan-beneficie-du-succes-inattendu-des-nationalistes-du-mhp_5321326_3214.html | website = Le Monde.fr | tarih = 26 Haziran 2018 | erişimtarihi = 9 Ocak 2019 | arşivurl = https://web.archive.org/web/20190511153036/https://www.lemonde.fr/europe/article/2018/06/26/en-turquie-le-parti-d-erdogan-beneficie-du-succes-inattendu-des-nationalistes-du-mhp_5321326_3214.html | arşivtarihi = 11 Mayıs 2019 | ölüurl =hayır}}</ref> ve [[aşırı sağ]]<ref>{{Haber kaynağı|başlık=Turkish far right on the rise|url=http://www.independent.co.uk/news/turkish-far-right-on-the-rise-1088461.html|erişimtarihi=29 Ağustos 2014|eser=[[The Independent]]|tarih=20 Nisan 1999|arşivurl=https://www.webcitation.org/5tTEgQHid?url=http://www.independent.co.uk/news/turkish-far-right-on-the-rise-1088461.html|arşivtarihi=14 Ekim 2010|ölüurl=hayır}} {{İng}}</ref><ref>{{Dergi kaynağı|soyadı=Avcı|ad=Gamze|tarih=Eylül 2011|başlık=The Nationalist Movement Party's Euroscepticism: Party Ideology Meets Strategy|dergi=South European Society and Politics|yayıncı=Routledge|cilt=16|sayı=3|sayfalar=435-447|issn=1743-9612|url=https://wiki.zirve.edu.tr/sandbox/groups/economicsandadministrativesciences/wiki/ff77d/attachments/f46f9/W7-Avci%202.PDF|doi=10.1080/13608746.2011.598359|erişimtarihi=18 Ocak 2015|arşivurl=https://web.archive.org/web/20140521115140/https://wiki.zirve.edu.tr/sandbox/groups/economicsandadministrativesciences/wiki/ff77d/attachments/f46f9/W7-Avci%202.PDF|arşivtarihi=21 Mayıs 2014|ölüurl=evet}} {{İng}}</ref><ref>{{Kitap kaynağı|soyadı=Çınar|ad=Alev|yazar2=Burak Arıkan|başlık=Political Parties in Turkey|editör=Barry Rubin & Metin Heper|yayıncı=Routledge|yer=Londra|tarih=2002|sayfalar=25|bölüm=The Nationalist Action Party: Representing the State, the Nation or the Nationalists?|isbn=0714652741|url=http://books.google.com/books?id=B71dAgAAQBAJ|erişimtarihi=12 Ekim 2021|arşivurl=https://web.archive.org/web/20160502145239/https://books.google.com/books?id=B71dAgAAQBAJ|arşivtarihi=2 Mayıs 2016|ölüurl=hayır}} {{İng}}</ref>
+|[[Türk-İslam sentezi]]<br>[[Türk milliyetçiliği]]<br>[[Ülkücülük]]
+| {{Composition bar|46|600|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Büyük Birlik Partisi}}; width:2px;" |
+| align=center|BBP
+|[[Büyük Birlik Partisi]]
+|[[Dosya:Mustafa Destici (cropped).jpg|93x93pik]]
+|[[Mustafa Destici]]
+|[[Aşırı sağ]]<ref name="kaynak8">{{Web kaynağı|url=https://www.duvarenglish.com/ruling-akp-looks-to-extend-alliance-with-two-parties-news-62003|başlık=Ruling AKP looks to extend alliance with two parties|erişimtarihi=18 Mayıs 2023|arşivtarihi=18 Mayıs 2023|arşivurl=https://web.archive.org/web/20230518123018/https://www.duvarenglish.com/ruling-akp-looks-to-extend-alliance-with-two-parties-news-62003|ölüurl=hayır|website=duvarenglish.com}} Haberden alıntı:''"The YRP is a right-wing Islamist party coming from the same political tradition with the AKP."'' ''"...and far-right conservative Great Unity Party (BBP)"''</ref>
+|[[Türk-İslam sentezi]]<br>[[Sünni]] [[İslamcılık]]<br>[[İslami milliyetçilik]]
+|{{Composition bar|0|600|hex={{Siyasi parti renk|Büyük Birlik Partisi}}}}
+|}
+
+=== Dışarıdan destek veren partiler ===
+{| class="wikitable"
+|+
+|-
+! colspan="3" |Parti
+!Fotoğraf
+! colspan="1" |Lider
+![[Siyasi yelpaze|Siyasi pozisyon]]
+!İdeoloji
+![[Türkiye Büyük Millet Meclisi|TBMM]]
+|-
+! style="background:{{Siyasi parti renk|Hür Dava Partisi}}; width:2px;" |
+|HÜDA PAR
+|[[Hür Dava Partisi]]
+|[[Dosya:Zekeriya_Yapıcıoğlu_2023.jpg|çerçevesiz|84x84pik]]
+|[[Zekeriya Yapıcıoğlu]]
+|[[Aşırı sağ]]<ref>{{Web kaynağı | url = https://www.trtworld.com/turkey/turkey-elections-2018-understanding-political-parties-18224 | başlık = Turkey elections: Understanding the political parties | erişimtarihi = 18 Mayıs 2023 | ölüurl = hayır | website = trtworld.com | arşivurl = https://web.archive.org/web/20230410020535/https://www.trtworld.com/turkey/turkey-elections-2018-understanding-political-parties-18224 | arşivtarihi = 10 Nisan 2023 }} ''"HUDA-PAR is a far-right, conservative party with a primarily Kurdish voter base."''</ref><ref>{{Web kaynağı | url = https://www.kurdishpeace.org/research/womens-liberation-and-leadership/what-turkeys-elections-mean-for-kurdish-women/ | başlık = What Turkey’s Elections Mean for Kurdish Women | erişimtarihi = 18 Mayıs 2023 | ölüurl = hayır | website = kurdishpeace.org | arşivurl = https://web.archive.org/web/20230518191415/https://www.kurdishpeace.org/research/womens-liberation-and-leadership/what-turkeys-elections-mean-for-kurdish-women/ | arşivtarihi = 18 Mayıs 2023 }} ''"Nowhere is this more clear than in the AKP’s alliance with the far-right Islamist Free Cause Party (HUDA-PAR)."''</ref>
+|[[İslami köktendincilik|Radikal İslamcılık]]<ref>{{Web kaynağı | url = https://aposto.com/s/huda-par-yerelde-ozerklik-kanunda-seriat | başlık = HÜDA PAR: Yerelde özerklik, kanunda şeriat | erişimtarihi =5 Nisan 2023| dil =Türkçe| çalışma = Aposto | arşivurl = https://web.archive.org/web/20230402075908/https://aposto.com/s/huda-par-yerelde-ozerklik-kanunda-seriat | arşivtarihi = 2 Nisan 2023}}</ref><br>[[Sosyal muhafazakârlık]]<br>[[Federalizm]]<ref>{{Web kaynağı | url = https://www.rudaw.net/turkish/kurdistan/110120227 | başlık = HÜDA PAR lideri Yapıcıoğlu: Kürt kimliği anayasada tanınmalı | erişimtarihi =5 Nisan 2023| çalışma = www.rudaw.net | arşivurl = https://web.archive.org/web/20220111202310/https://www.rudaw.net/turkish/kurdistan/110120227 | arşivtarihi = 11 Ocak 2022}}</ref>
+|{{Composition bar|4|600|hex={{Siyasi parti renk|Hür Dava Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Demokratik Sol Parti}}; width:2px;" |
+|DSP
+|[[Demokratik Sol Parti]]
+|[[Dosya:Önder_Aksakal_DSP_(cropped).png|çerçevesiz|105x105pik]]
+|[[Önder Aksakal]]
+|[[Merkez sol]]
+|[[Atatürkçülük]]<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/siyaset/ecevit-irkci-degil-ataturk-milliyetcisiyim-5253154 |başlık=Ecevit|erişimtarihi=12 Ekim 2022 |arşivurl=https://web.archive.org/web/20221012120015/https://www.milliyet.com.tr/siyaset/ecevit-irkci-degil-ataturk-milliyetcisiyim-5253154 |arşivtarihi=12 Ekim 2022 |ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.tv5.com.tr/dspden-ataturke-halk-demokratik-yasamin-disina-atildi |başlık=Halk, demokratik yaşamın dışına atıldı|erişimtarihi=12 Ekim 2022 |arşivurl=https://web.archive.org/web/20221012130027/https://www.tv5.com.tr/dspden-ataturke-halk-demokratik-yasamin-disina-atildi |arşivtarihi=12 Ekim 2022 |ölüurl=hayır}}</ref><br>[[Ulusalcılık]]<ref>{{Web kaynağı|url=http://arsiv.ntv.com.tr/news/172152.asp |başlık=Ecevit'ten ulusal sol çağrısı|erişimtarihi=21 Mayıs 2022 |arşivurl=https://web.archive.org/web/20220521121530/http://arsiv.ntv.com.tr/news/172152.asp |arşivtarihi=21 Mayıs 2022 |ölüurl=hayır}}</ref><br>[[Ecevitçilik]]
+|{{Composition bar|1|600|hex={{Siyasi parti renk|Demokratik Sol Parti}}}}
+|}
+
+=== Eski üyeler ===
+{| class="wikitable sortable mw-collapsible"
+! colspan="3" |Parti
+!Fotoğraf
+!Lider
+![[Siyasi yelpaze|Siyasi pozisyon]]
+!İdeoloji
+|-
+! style="background:{{Siyasi parti renk|Yeniden Refah Partisi}}; width:2px;" |
+| align="center" |YRP
+|[[Yeniden Refah Partisi]]
+|[[Dosya:Fatiherbakan_(cropped).jpg|çerçevesiz|95x95pik]]
+|[[Fatih Erbakan]]
+|[[Sağcılık|Sağ]]<ref name="kaynak8" /> ve [[aşırı sağ]]<ref>{{Web kaynağı|url=https://www.duvarenglish.com/turkish-far-right-unprecedentedly-consolidates-voters-news-62418|başlık=Turkish far-right 'unprecedentedly' consolidates voters|erişimtarihi=17 Mayıs 2023|arşivtarihi=17 Mayıs 2023|arşivurl=https://web.archive.org/web/20230517002235/https://www.duvarenglish.com/turkish-far-right-unprecedentedly-consolidates-voters-news-62418|ölüurl=hayır|website=duvarenglish.com}}</ref>
+|[[Millî Görüş]]<br>[[İslamcılık]]<br>[[Sosyal muhafazakârlık]]<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/haber/fatih-erbakandan-istanbul-sozlesmesi-kararina-destek-1821996|başlık=Fatih Erbakan'dan 'İstanbul Sözleşmesi' kararına destek|erişimtarihi=5 Ekim 2022|arşivtarihi=20 Mart 2021|arşivurl=https://web.archive.org/web/20210320132342/https://www.cumhuriyet.com.tr/haber/fatih-erbakandan-istanbul-sozlesmesi-kararina-destek-1821996|tarih=|ölüurl=hayır|website=cumhuriyet.com}}</ref><ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/fatih-erbakan-lgbtilari-hedef-aldi-sapkinligina-gecit-vermeyecegiz-1951863|başlık=Fatih Erbakan, LGBTİ+'ları hedef aldı: "Sapkınlığına geçit vermeyeceğiz"|erişimtarihi=5 Ekim 2022|arşivtarihi=27 Haziran 2022|arşivurl=https://web.archive.org/web/20220627125114/https://www.cumhuriyet.com.tr/siyaset/fatih-erbakan-lgbtilari-hedef-aldi-sapkinligina-gecit-vermeyecegiz-1951863|tarih=|ölüurl=hayır|website=cumhuriyet.com}}</ref>
+|}
+
+== Seçim sonuçları ==
+
+=== Genel seçimler ===
+{| class=wikitable style="text-align:center"
+|+ [[Türkiye Büyük Millet Meclisi]]
+! rowspan="2" |Seçim
+! colspan="3" |Parti
+! colspan="2" |Lider
+! colspan="3" |Oy
+! colspan="1" rowspan="2" |Sandalye
+! colspan=1  rowspan="2"| Meclis
+|-
+! colspan="2" |Kısaltma
+!Adı
+!Fotoğraf
+!Adı
+!#
+!%
+!Sıralama
+|-
+! rowspan="3" |[[2018 Türkiye genel seçimleri|2018]]<ref>{{Web kaynağı|url=https://www.haberturk.com/secim/secim2018/genel-secim|başlık=2018 Genel Seçim Sonuçları|arşivtarihi=24 Haziran 2018|arşivurl=https://web.archive.org/web/20180624181938/https://www.haberturk.com/secim/secim2018/genel-secim}}</ref>
+! style="background:{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}; width:2px;"|
+|AK PARTİ
+|[[Adalet ve Kalkınma Partisi]]
+|[[Dosya:2025 at NATO Summit with Recep Tayyip Erdoğan.jpg|92x92pik]]
+|[[Recep Tayyip Erdoğan]]
+|21.338.693
+|42,56
+|1.
+|{{Composition bar|295|600|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}<ref group="not">[[Büyük Birlik Partisi]]'nden [[Mustafa Destici]] AK Parti listelerinden meclise girdi. Seçimden sonra partisine geri döndü.</ref>
+| rowspan="2" {{evet2|Çoğunluk}}
+|-
+! style="background:{{Siyasi parti renk|Milliyetçi Hareket Partisi}}; width:2px;"|
+|MHP
+|[[Milliyetçi Hareket Partisi]]
+|[[Dosya:Devlet Bahçeli VOA 2015 (cropped).jpg|93x93pik]]
+|[[Devlet Bahçeli]]
+|5.565.331
+|11,10
+|4.
+|{{Composition bar|49|600|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+|-
+! colspan="5" |Toplam
+!26.900.095
+!53,66
+!1.
+!{{Composition bar|344|600|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+!
+|-
+! rowspan="5" |[[2023 Türkiye genel seçimleri|2023]]
+! style="background:{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}; width:2px;" |
+|AK PARTİ
+|[[Adalet ve Kalkınma Partisi]]
+|[[Dosya:2025 at NATO Summit with Recep Tayyip Erdoğan.jpg|92x92pik]]
+|[[Recep Tayyip Erdoğan]]
+|19.392.462
+|35,62
+|1.
+|{{Composition bar|268|600|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}<ref group="not">[[Hür Dava Partisi]]'nden 4 vekil ve [[Demokratik Sol Parti]]'den 1 vekil [[Adalet ve Kalkınma Partisi|AK Parti]] listelerinden seçildi. Seçimden sonra vekiller partilerine geri döndüler.</ref>
+| rowspan="4" {{evet2|Çoğunluk}}
+|-
+! style="background:{{Siyasi parti renk|Milliyetçi Hareket Partisi}}; width:2px;"|
+|MHP
+|[[Milliyetçi Hareket Partisi]]
+|[[Dosya:Devlet Bahçeli VOA 2015 (cropped).jpg|93x93pik]]
+|[[Devlet Bahçeli]]
+|5.484.820
+|10,07
+|3.
+|{{Composition bar|50|600|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Yeniden Refah Partisi}}; width:2px;"|
+|YENİDEN REFAH
+|[[Yeniden Refah Partisi]]
+|[[Dosya:Fatiherbakan (cropped).jpg|95x95pik]]
+|[[Fatih Erbakan]]
+|1.527.048
+|2,80
+|6.
+|{{Composition bar|5|600|hex={{Siyasi parti renk|Yeniden Refah Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Büyük Birlik Partisi}}; width:2px;"|
+|BÜYÜK BİRLİK
+|[[Büyük Birlik Partisi]]
+|[[Dosya:Mustafa Destici (cropped).jpg|93x93pik]]
+|[[Mustafa Destici]]
+|530.770
+|0,97
+|9.
+|{{Composition bar|0|600|hex={{Siyasi parti renk|Büyük Birlik Partisi}}}}
+|-
+! colspan="5" |Toplam
+!26.935.090
+!49,46
+!1.
+!{{Composition bar|323|600|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+!
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable"
+!Seçim
+!Lider
+!Oy
+!%
+!Belediye Sayısı
+!Belediye Meclis Üyesi Sayısı
+|-
+![[2019 Türkiye yerel seçimleri|2019]]<ref>{{Web kaynağı|url=https://www.haberturk.com/secim/secim2019/yerel-secim|başlık=2019 Yerel Seçim sonuçları|arşivtarihi=31 Mart 2019|arşivurl=https://web.archive.org/web/20190331220318/https://www.haberturk.com/secim/secim2019/yerel-secim}}</ref>
+| rowspan=2 |[[Recep Tayyip Erdoğan]]<br>[[Devlet Bahçeli]]<br>[[Mustafa Destici]]
+|24.391.278
+|52,73
+|985
+|13.261 (%63,92)
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|18.449.070
+|40,31
+|764
+|11.150 (%53,21)
+|}
+
+==== 2019 İstanbul Büyükşehir Belediye Başkanlığı ara yerel seçimi ====
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! colspan="3" |Parti
+! rowspan="2" |Aday
+! rowspan="2" |Sıra
+! rowspan="2" |Oy
+! rowspan="2" |''' %'''
+|-
+! colspan="2" |Kısaltma
+!Adı
+|-
+![[2019 İstanbul ara yerel seçimi|23 Haziran 2019]]
+! style="background:{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}; width:2px;" |
+|AK PARTİ
+|[[Adalet ve Kalkınma Partisi]]
+|[[Binali Yıldırım]]
+|2.
+|3.936.068
+|{{Yüzde çubuğu|45.0|%45.0|ED8000}}
+|}
+
+== Notlar ==
+<references group="not" />
+
+== Kaynakça ==
+{{kaynakça}}
+
+{{2023 Türkiye seçimleri}}
+{{Türkiye'deki siyasi ittifaklar}}{{Adalet ve Kalkınma Partisi}}
+{{Otorite kontrolü}}
+
+[[Kategori:2018'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Cumhur İttifakı| ]]
+[[Kategori:2018 Türkiye genel seçimleri]]
+[[Kategori:Türkiye'deki siyasi ittifaklar]]
+[[Kategori:2023 Türkiye genel seçimleri]]

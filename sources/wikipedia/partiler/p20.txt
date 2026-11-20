@@ -1,0 +1,1066 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Halkların Eşitlik ve Demokrasi Partisi
+| colorcode        = {{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}
+| kısaltma         = DEM Parti<ref name=":2"/>
+| amblem           = DEM_PARTİ_LOGOSU.png
+| lider1_başlık    = Eş Genel Başkanlar
+| lider1_isim      = [[Tülay Hatimoğulları]]<br>[[Tuncer Bakırhan]]
+| lider2_başlık    = Parti Sözcüsü
+| lider2_isim      = [[Ayşegül Doğan]]
+| slogan           = ''DEM Gelir Devran Döner''<br>''Rabe DEM Hat''
+| kuruluş          = {{açılış tarihi ve yaşı|2012|11|30}} {{Küçük|(Yeşiller ve Sol Gelecek Partisi olarak)}}<br>{{açılış tarihi ve yaşı|2023|10|15}} {{Küçük|(Halkların Eşitlik ve Demokrasi Partisi olarak)}}
+| öncülü           = {{yalın liste|
+*[[Eşitlik ve Demokrasi Partisi]]
+*[[Yeşiller Partisi (Türkiye)|Yeşiller Partisi]]
+*Yeşiller ve Sol Gelecek Partisi {{küçük|(Eski ad)}}
+*[[Halkların Demokratik Partisi]]
+}}
+| merkez           = [[Çankaya]], [[Ankara]]
+| gençlik_kolu     = 
+| gazete           = 
+| üyelik           = {{artış}} 17.060<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1189|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20210224232914/https://www.yargitaycb.gov.tr/icerik/1189|arşivtarihi = 24 Şubat 2021}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Azınlık hakları]]<ref>{{Web kaynağı|url = https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|başlık = Madde 2 B bölümü|arşivengelli = evet|erişimtarihi = 15 Kasım 2023|arşivurl = https://web.archive.org/web/20231115203649/https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|arşivtarihi = 15 Kasım 2023|ölüurl = evet}}</ref>
+*[[Bölgeselcilik]]<ref>{{Web kaynağı|url = https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|başlık = Madde 2 D bölümü|arşivengelli = evet|erişimtarihi = 15 Kasım 2023|arşivurl = https://web.archive.org/web/20231115203649/https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|arşivtarihi = 15 Kasım 2023|ölüurl = evet}}</ref>
+*[[Demokratik konfederalizm]]<ref>{{Web kaynağı|url = https://demparti.org.tr/tr/hatimogullari-halk-buradadir-halk-hdpdir-halk-simdi-hedeptedir/17601|başlık = Hatimoğulları: Halk buradadır, halk HDP’dir, halk şimdi HEDEP’tedir|erişimtarihi = 13 Ağustos 2024|dil =Türkçe|çalışma =demparti.org.tr|arşivurl = https://web.archive.org/web/20240521171747/https://demparti.org.tr/tr/hatimogullari-halk-buradadir-halk-hdpdir-halk-simdi-hedeptedir/17601|arşivtarihi = 21 Mayıs 2024}}</ref>
+*[[Ekolojik sosyalizm]]<ref>{{Web kaynağı|url = https://demparti.org.tr/en/our-party/17736/|başlık = DEM Party is Green|arşivengelli = evet|erişimtarihi = 18 Ocak 2024|arşivurl = https://web.archive.org/web/20240118204433/https://demparti.org.tr/en/our-party/17736/|arşivtarihi = 18 Ocak 2024|ölüurl = hayır}}</ref>
+*[[Feminizm]]<ref>{{Web kaynağı|url = https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|başlık = Madde 2 E bölümü|arşivengelli = evet|erişimtarihi = 15 Kasım 2023|arşivurl = https://web.archive.org/web/20231115203649/https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|arşivtarihi = 15 Kasım 2023|ölüurl = evet}}</ref>
+*[[Antikapitalizm]]<ref name="auto">{{Web kaynağı|url = https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|başlık = Madde 3 D bölümü|arşivengelli = evet|erişimtarihi = 15 Kasım 2023|arşivurl = https://web.archive.org/web/20231115203649/https://hedep.org.tr/Images/UserFiles/Documents/Editor/Parti%20metinleri/tuzuk.pdf|arşivtarihi = 15 Kasım 2023|ölüurl = evet}}</ref>
+*[[Antiemperyalizm]]<ref name="auto"/>
+*[[Antimilitarizm]]<ref name="auto"/>
+*[[Radikal demokrasi|Radikal Demokrasi]]<ref> https://www.demparti.org.tr/Images/UserFiles/Documents/Editor/2025/dem-parti-2026-butcesi-muhalefet-serhi.pdf?utm </ref>
+*[[Demokratik konfederalizm|Öcalancılık]]<ref>https://www.demparti.org.tr/tr/demokratik-yerel-yonetimler-ara-donem-toplantisi-sonuc-bildirgesi/22008/ </ref> <ref>https://www.demparti.org.tr/tr/dem-parti-genclik-meclisi-yurutme-kurulu-toplantisi-sonuc-bildirgesi/21779/</ref> <ref>https://www.demparti.org.tr/tr/baris-ve-demokratik-toplum-cagrisi-ruhuyla-1-kasim-dunya-kobani-gunu-kutlu-olsun/22309/</ref><ref>https://www.demparti.org.tr/tr/bakirhan-suleymaniyede-gerceklestirilen-arap-ulkeleri-sosyal-demokratlar-Ittifaki-konferansinda/22195</ref>
+}}
+| pozisyon         = [[Solculuk|Sol]]
+| ulusal           = [[Emek ve Özgürlük İttifakı]]<br>[[Halkların Demokratik Kongresi]]
+| uluslararası     = 
+| renkler          = {{Color box|#3A913F|border=darkgray}}  {{Color box|#8C4799|border=darkgray}} {{Color box|#FFB81C|border=darkgray}}  [[Yeşil]], [[mor]] ve [[turuncu]]
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|56|600|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| internet sitesi  = [https://www.demparti.org.tr/ demparti.org.tr]
+| ülke             = {{TUR}}
+| bayrak           = Halkların Eşitlik ve Demokrasi Partisi Bayrağı.png
+| ardılı           = 
+| dipnotlar        = {{açılış tarihi ve yaşı|2023|10|15}}<br>{{Küçük|(Yeşiller ve Sol Gelecek Partisi, Halkların Eşitlik ve Demokrasi Partisi olarak isim değiştirdi.)}}
+| sandalye2_başlık = [[Türkiye'de büyükşehir belediyeleri|Büyükşehir Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|1|30|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye3_başlık = [[Türkiye'nin illeri|İl Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|3|51|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye4_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye4        = {{Composition bar|49|922|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye5_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye5        = {{Composition bar|9|390|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| avrupa           = [[Avrupa Sosyalistler Partisi]]<ref>{{Web kaynağı|url = https://pes.eu/member/halklarin-demokratik-partisi-peoples-democratic-party/|başlık = Halkların Eşitlik ve Demokrasi Partisi|çeviribaşlık = Peoples' Equality and Democratic Party|erişimtarihi = 1 Nisan 2024|website = [[Avrupa Sosyalistler Partisi]]|arşivurl = https://web.archive.org/web/20221018220503/https://pes.eu/member/halklarin-demokratik-partisi-peoples-democratic-party/|arşivtarihi = 18 Ekim 2022}}</ref>
+| sandalye6_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye6        = {{Composition bar|132|1282|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}
+| sandalye7_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye7        = {{Composition bar|1410|20953|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}
+}}
+'''Halkların Eşitlik ve Demokrasi Partisi''', resmî kısaltmasıyla '''DEM Parti'''<ref name=":2">{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c4n5gx4z1eeo|başlık=DEM Parti: Halkların Eşitlik ve Demokrasi Partisi'nin yeni kısa adı|erişimtarihi=11 Aralık 2023|tarih=11 Aralık 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20231211125447/https://www.bbc.com/turkce/articles/c4n5gx4z1eeo|arşivtarihi=11 Aralık 2023|ölüurl=hayır}}</ref> veya eskiden bilinen adıyla '''Yeşiller ve Sol Gelecek Partisi''' ('''Yeşil Sol Parti'''); 25 Kasım 2012 tarihinde [[Eşitlik ve Demokrasi Partisi]] ile [[Yeşiller Partisi (Türkiye)|Yeşiller Partisi]]'nin birleşmesiyle kurulan ve [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] bir Türk [[siyasi parti|siyasi partisi]]dir. Eş genel başkanları [[Tülay Hatimoğulları]] ve [[Tuncer Bakırhan]]'dır. [[Türkiye Büyük Millet Meclisi|TBMM]]'de 56 milletvekili ile temsil edilmektedir. Parti, kendini "[[Sol liberteryenizm|sol özgürlükçü]]" fikirleri ağırlıkla benimseyen bir siyasi parti olarak tanımlamaktadır.<ref name="programatikmetin">{{Web kaynağı|url=https://yesilsolparti.org/4-buyuk-kongre-faaliyet-raporu/|başlık=4. Büyük Kongre Kararları, Faaliyet Raporu ve HEDEP Tüzüğü|arşivtarihi=14 Ekim 2023|arşivurl=https://web.archive.org/web/20231014044954/https://yesilsolparti.org/4-buyuk-kongre-faaliyet-raporu/|çalışma=yesilsolparti.org|erişimtarihi=24 Ekim 2023|ölüurl=hayır}}</ref> Simgesi ağaç, güneş ve insan biçiminden oluşmaktadır.<ref>{{Web kaynağı|url=https://yesilsolparti.org/tuzuk/|başlık=Tüzük|erişimtarihi=4 Nisan 2023|arşivtarihi=22 Mart 2023|arşivurl=https://web.archive.org/web/20230322214632/https://yesilsolparti.org/tuzuk/|dil=Türkçe|çalışma=Yeşil Sol Parti}}</ref><ref>{{Web kaynağı|url=https://yesilsolparti.org/wp-content/uploads/2022/11/8-Ekim-2022-Yesil-Sol-Parti-Kurumsal-Kimlik-Kilavuzu.pdf|başlık=YEŞİL SOL PARTİ KURUMSAL KİMLİK KILAVUZU|erişimtarihi=4 Nisan 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326223133/https://yesilsolparti.org/wp-content/uploads/2022/11/8-Ekim-2022-Yesil-Sol-Parti-Kurumsal-Kimlik-Kilavuzu.pdf|tarih=8 Ekim 2022}}</ref>
+
+== Tarihçe ==
+{{Ayrıca bakınız|Yeşiller Partisi (Türkiye)}}
+
+=== Çevreci hareketler: 1987-2007 ===
+Türkiye'de, 1970'li yıllarda dünyadaki benzer örnekleri gibi, güncel çevre sorunlarına tepki olarak çevreci hareketler oluşmuştur. Ancak 1980'li yıllara kadar bu hareketler sivil toplum düşüncesi merkezinde cemiyet, dernek veya vakıf gibi örgütlenmeler şeklinde ortaya çıkmıştır. Ülkede ilk olarak 1987 yılında Yeşil Barış Çevre Derneği ve Türkiye Hava Kirliliğiyle Savaş Derneği girişiminde siyasal parti kurma çalışmaları yapılmış ve 6 Haziran 1988 tarihinde genel başkanlığını [[Celal Ertuğ]]'un yaptığı ilk [[Yeşiller Partisi (Türkiye)|Yeşiller Partisi]] kurulmuştur.<ref>{{Akademik dergi kaynağı|url=https://dergipark.org.tr/tr/pub/sobiadsbd/issue/35991/403783|başlık=DOĞANIN SİYASET PARADİGMASI: YEŞİL SİYASET|tarih=1 Aralık 2015|sayı=2|sayfalar=38-54|çalışma=Sosyal ve Beşeri Bilimler Dergisi|cilt=7|ad=Rabia Bahar|soyadı=Üste|issn=1309-8012|erişim-tarihi=13 Nisan 2023|arşivurl=https://web.archive.org/web/20230411235430/https://dergipark.org.tr/tr/pub/sobiadsbd/issue/35991/403783|arşivtarihi=11 Nisan 2023|ölüurl=hayır}}</ref> Bu ilk parti deneyimi özellikle liberal ve sol kanatlar arasında sık sık yaşanan çekişmeye sahne olmuş ve 1994 yılında [[Türkiye Cumhuriyeti Anayasa Mahkemesi|Anayasa Mahkemesi]]'nin partinin [[Türkiye Cumhuriyeti Anayasası|Anayasa]]da öngörülen genel teşkilatlanma ve faaliyet barajını aşamadıkları gerekçesiyle verdiği karar ile son bulmuştur.<ref>{{Web kaynağı|url=https://www.resmigazete.gov.tr/arsiv/21901.pdf|başlık=Arşivlenmiş kopya|erişimtarihi=2 Aralık 2020|arşivtarihi=4 Mart 2016|arşivurl=https://web.archive.org/web/20160304040411/http://www.resmigazete.gov.tr/arsiv/21901.pdf|ölüurl=hayır}}</ref><ref>{{Akademik dergi kaynağı|url=https://dergipark.org.tr/tr/pub/mulkiye/issue/236/534|başlık=Türkiye'de Çevrenin Siyasallaşması:Yeşiller Partisi Deneyimi|tarih=26 Şubat 2014|sayı=236|dil=Türkçe|sayfalar=179-199|çalışma=Mülkiye Dergisi|cilt=26|ad=Bülent|soyadı=Duru|issn=1305-9971|erişim-tarihi=13 Nisan 2023|arşivurl=https://web.archive.org/web/20230411235430/https://dergipark.org.tr/tr/pub/mulkiye/issue/236/534|arşivtarihi=11 Nisan 2023|ölüurl=hayır}}</ref>
+
+Partinin kapatılmasını takip eden dönemde [[Sol Parti (Türkiye)|Özgürlük ve Dayanışma Partisi]] (ÖDP) gibi yeni sol anlayışla kurulan partiler içerisinde yer alan çeşitli yeşil sosyal hareketler ve siyasi gruplar 2002'de Yeniden Yeşiller Girişimi çağrısıyla bir araya gelmiştir. 2008 yılına kadar Türkiye Yeşilleri veya Yeşiller Türkiye Koordinasyonu adı altında faaliyet gösteren bu hareket aynı yılın 30 Haziran'ında Türkiye'nin ikinci Yeşiller Partisi'nin kuruluşunu gerçekleştirmiştir. Bilge Contepe ve Ümit Şahin yeniden kurulan Yeşiller Partisi'nin eş sözcüleri seçilmişlerdir. 2007 yılında gerçekleşen genel seçimlere partiden Bilge Contepe ve Neriman Gül Eren bağımsız olarak katılmış ancak başarılı olamamıştır.{{Kaynak belirt|tarih=Nisan 2023}}
+
+=== Kuruluşu: 2012 ===
+İkinci yeşil siyaset deneyimi de karşılaşılan örgütsel sorunlar karşısında uzun ömürlü olamamıştır. Parti 25 Kasım 2012 tarihinde bağımsız bireylerin de dâhil olduğu bir süreç sonunda 2010 yılında ÖDP'den ayrılan Özgürlükçü Sol Hareket kanadının ve eski [[Sosyaldemokrat Halk Partisi]] (SHP) üyelerinin kurduğu ve genel başkanlığını Ferdan Ergut'un yaptığı [[Eşitlik ve Demokrasi Partisi]] (EDP) ile birleşme kararı alarak Yeşiller ve Sol Gelecek Partisi (YSGP) ismini almıştır.<ref>{{Web kaynağı|url=http://www.turnusol.biz/public/haber.aspx?id=14211&pid=75&haber=Bas%FDn%20YGSPnin%20kurulu%FEunu%20nas%FDl%20g%F6rd%FC|başlık=Basın YGSP'nin kuruluşunu nasıl gördü|erişimtarihi=|arşivtarihi=7 Mart 2016|arşivurl=https://web.archive.org/web/20160307024643/http://www.turnusol.biz/public/haber.aspx?id=14211&pid=75&haber=Bas%FDn%20YGSPnin%20kurulu%FEunu%20nas%FDl%20g%F6rd%FC|tarih=26 Kasım 2012|ölüurl=evet}}</ref> YSGP'nin ilk eş sözcüleri Sevil Turan ve Arif Ali Cangı olmuştur.<ref name=":1">{{Web kaynağı|url=http://www.yesilgazete.org/blog/2010/07/29/yeni-siyasetin-adi-kondu-yesiller-ve-sol-gelecek/|başlık=Yeni Siyasetin adı kondu: Yeşiller ve Sol Gelecek|erişimtarihi=16 Mart 2023|arşivtarihi=2 Aralık 2012|arşivurl=https://web.archive.org/web/20121202061537/http://www.yesilgazete.org/blog/2012/11/27/yeni-siyasetin-adi-kondu-yesiller-ve-sol-gelecek/|ölüurl=hayır}}</ref>
+
+Kürt sorununa barışçı ve şiddetsiz çözüm öneren, daha önce 2011 genel seçimlerinde [[Barış ve Demokrasi Partisi]] (BDP) öncülüğünde kurulan [[Emek, Demokrasi ve Özgürlük Bloku]]'nu destekleyen ve [[Halkların Demokratik Kongresi]]'nin (HDK) kuruluşunda yer alan yeşiller hareketi 2012 yılında çeşitli toplumsal örgütlerin bir araya gelerek bir ittifak partisi olarak kurduğu [[Halkların Demokratik Partisi]]'nin (HDP) bir bileşeni olmuştur. [[Dosya:Yeşiller ve Sol Gelecek Partisi logo.png|küçükresim|upright=0.68|2023 genel seçimlerinde kullanılan Yeşil Sol Parti amblemi]]
+=== Kürt siyaseti ile bütünleşmesi: 2014-günümüz ===
+[[2014 Türkiye cumhurbaşkanlığı seçimi]]nde [[Selahattin Demirtaş]]'ı ve [[Haziran 2015 Türkiye genel seçimleri|Haziran 2015 genel seçimlerinde]] HDP'yi desteklemişlerdir.<ref>{{Web kaynağı|url=http://www.yesillervesolgelecek.org/diyoruz-ki/basin-aciklamalari/2015-02-10|başlık=10 Şubat 2015 YSGP basın açıklaması|erişimtarihi=8 Ekim 2015|arşivtarihi=15 Temmuz 2015|arşivurl=https://web.archive.org/web/20150715121426/http://www.yesillervesolgelecek.org/diyoruz-ki/basin-aciklamalari/2015-02-10|ölüurl=evet}}</ref> HDP ile nasıl bir ilişki kurulacağı parti içinde ayrılıklara sebebiyet vermiştir. 2 Nisan 2016 tarihinde gerçekleşen ve partinin resmî kısaltmasının "Yeşil Sol Parti" olarak değiştirildiği kongrenin ardından yeşillerin, [[Ekofeminizm|yeşil feministlerin]] ve [[Liberteryen sosyalizm|özgürlükçü sosyalistlerin]] oluşturduğu Yeşil Siyaset Platformu partiden ayrılmıştır.<ref name=":0">{{Web kaynağı|url=https://yesilsolparti.org/partimizin-2-olagan-konferanskongeresi-ankarada-gerceklestirildi/|başlık=Partimizin 2. Olağan Konferans/Kongere'si Ankara'da Gerçekleştirildi|erişimtarihi=15 Mart 2023|arşivtarihi=15 Mart 2023|arşivurl=https://web.archive.org/web/20230315174330/https://yesilsolparti.org/partimizin-2-olagan-konferanskongeresi-ankarada-gerceklestirildi/|tarih=3 Nisan 2016|ölüurl=hayır|dil=Türkçe|çalışma=Yeşil Sol Parti|ad=Fırat|soyadı=Şarkı}}</ref><ref>{{Web kaynağı|url = https://yesilgazete.org/yesil-siyaset-platformu-ysgpden-ayrildi/|başlık = Yeşil Siyaset Platformu, YSGP'den ayrıldı - Yeşil Gazete|erişimtarihi = 13 Nisan 2023|tarih = 27 Nisan 2016|dil = Türkçe|arşivurl = https://web.archive.org/web/20210226122744/https://yesilgazete.org/yesil-siyaset-platformu-ysgpden-ayrildi/|arşivtarihi = 26 Şubat 2021}}</ref> Ayrılığın ardından çalışmalarına devam eden bu platform 2020 yılında üçüncü [[Yeşiller Partisi (Türkiye)|Yeşiller Partisi]]'nin kuruluşunu gerçekleştirmiştir.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-54253006|başlık=Türkiye'de Yeşiller Partisi kuruldu, partinin ilkeleri ve hedefleri neler?|erişimtarihi=13 Nisan 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20200923052746/https://www.bbc.com/turkce/haberler-turkiye-54253006|arşivtarihi=23 Eylül 2020|ölüurl=hayır}}</ref>
+
+Yeşil Siyaset Platformu ile yaşanan ayrılıktan sonra YSGP, HDP'nin bileşeni olarak siyaset yapmaya devam etmiş ve bu süreçte gerçekleşen seçimlerde HDP ile birlikte hareket etmiştir. [[Halkların Demokratik Partisinin kapatılma davası|HDP'nin Anayasa Mahkemesi tarafından kapatılma]] ihtimalinin gündeme geldiği dönemde ilk olarak 16 Ekim 2022 tarihinde gerçekleşen kongrede parti logosu değiştirilmiştir.<ref>{{Web kaynağı|url=https://medyascope.tv/2022/10/18/yesil-sol-partinin-logosu-degisti-parti-es-sozcusu-ibrahim-akin-kapatilirsa-hdp-seceneksiz-degil/|başlık=Yeşil Sol Parti'nin logosu değişti {{!}} Parti Eş Sözcüsü İbrahim Akın: "Kapatılırsa, HDP seçeneksiz değil"|erişimtarihi=15 Mart 2023|tarih=18 Ekim 2022|dil=Türkçe|çalışma=Medyascope|ad=Dilek|soyadı=Şen|arşivurl=https://web.archive.org/web/20230315174334/https://medyascope.tv/2022/10/18/yesil-sol-partinin-logosu-degisti-parti-es-sozcusu-ibrahim-akin-kapatilirsa-hdp-seceneksiz-degil/|arşivtarihi=15 Mart 2023|ölüurl=hayır}}</ref> Daha sonra 14 Mart 2023'te [[Selahattin Demirtaş]], HDP'nin kapatılması durumunda [[2023 Türkiye genel seçimleri|2023 genel seçimlerinde]] HDP'li milletvekili adaylarının Yeşiller ve Sol Gelecek Partisi listelerinden gireceğini belirtmiştir.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/crg5j5v1yy5o|başlık=Yeşil Sol Parti, HDP'nin parti üzerinden seçime girme ihtimaline nasıl bakıyor?|erişimtarihi=14 Mart 2023|tarih=14 Mart 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230314131213/http://www.bbc.com/turkce/articles/crg5j5v1yy5o|arşivtarihi=14 Mart 2023|ölüurl=hayır}}</ref>
+
+24 Mart 2023 tarihinde alınan karar üzerine [[Halkların Demokratik Partisi]] (HDP), Emekçi Hareket Partisi (EHP) ve [[Toplumsal Özgürlük Partisi]] (TÖP) [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] Yeşiller ve Sol Gelecek Partisi listelerinden girme kararı aldı.<ref>{{Haber kaynağı|url=https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifakinda-tam-uzlasi-saglandi-haber-1609870|başlık=Emek ve Özgürlük İttifakı’nda tam uzlaşı sağlandı|erişimtarihi=24 Mart 2023|tarih=24 Mart 2023|arşivurl=https://web.archive.org/web/20230324134154/https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifakinda-tam-uzlasi-saglandi-haber-1609870|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref> Daha sonra 6 Nisan 2023 tarihinde [[Emek Partisi]] (EMEP) de genel seçimlere Yeşiller ve Sol Gelecek Partisi listelerinden girme kararı aldı.<ref>{{Web kaynağı|url = https://www.sozcu.com.tr/2023/gundem/son-dakika-yskdan-emep-aciklamasi-7645787/|başlık = YSK’dan EMEP açıklaması|erişimtarihi = 9 Nisan 2023|dil = Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]|arşivurl = https://web.archive.org/web/20230406140230/https://www.sozcu.com.tr/2023/gundem/son-dakika-yskdan-emep-aciklamasi-7645787/|arşivtarihi = 6 Nisan 2023}}</ref>
+
+Parti [[2023 Türkiye genel seçimleri|seçimlerde]] %8.82 oy oranıyla 4.803.774 oy almış ve 24 siyasi parti arasında 5. parti olmuştur. Bu sonuçlarla Yeşil Sol Parti 28. dönemde 61 [[milletvekili]] çıkarmaya hak kazanmıştır.<ref>{{Web kaynağı|url = https://www.sabah.com.tr/secim/14-mayis-2023-genel-secim-sonuclari|başlık = Seçim Sonuçları - 2023 Cumhurbaşkanlığı Seçim Sonucu Ve Oy Oranları|erişimtarihi = 20 Mayıs 2023|çalışma =Sabah.com.tr|arşivurl = https://web.archive.org/web/20230507093148/https://www.sabah.com.tr/secim/14-mayis-2023-genel-secim-sonuclari|arşivtarihi = 7 Mayıs 2023}}</ref>
+
+2023 yılında parti 4. Olağanüstü Kongre'sinde ve eş genel başkanlığa [[Tülay Hatimoğulları]] ve [[Tuncer Bakırhan]] seçildi.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c5170yr7qq0o|başlık=HEDEP: Yeşil Sol Parti adını değiştirdi, partinin eş başkanları Tülay Hatimoğulları Oruç ve Tuncer Bakırhan|erişimtarihi=18 Ekim 2023|arşivtarihi=17 Ekim 2023|arşivurl=https://web.archive.org/web/20231017122749/https://www.bbc.com/turkce/articles/c5170yr7qq0o|tarih=15 Ekim 2023|ölüurl=hayır|dil=Türkçe|çalışma=BBC News Türkçe}}</ref> Parti kongrede adını "Halkların Eşitlik ve Demokrasi Partisi" olarak değiştirdi ve HEDEP kısaltmasını benimsedi. Ancak [[Yargıtay Cumhuriyet Başsavcılığı (Türkiye)|Yargıtay]] HEDEP kısaltmasını kabul etmedi ve değiştirilmesini istedi.<ref>{{Web kaynağı|url=https://www.ensonhaber.com/gundem/yargitay-hedep-ismini-kabul-etmedi|başlık=Yargıtay HEDEP ismini kabul etmedi|erişimtarihi=23 Kasım 2023|arşivtarihi=23 Kasım 2023|arşivurl=https://web.archive.org/web/20231123162810/https://www.ensonhaber.com/amp/gundem/yargitay-hedep-ismini-kabul-etmedi|tarih=23 Kasım 2023|dil=Türkçe|çalışma=Ensonhaber}}</ref> Aralık 2023'te partinin kısaltması DEM Parti olarak belirlendi.<ref name=":2" />
+
+== Yapılanma ==
+
+=== Eş sözcüleri ===
+2012-2023 döneminde, parti tüzüğünde eş genel başkanlık pozisyonu, "eş sözcü" olarak tanımlanmıştır.
+{| class="wikitable" style="font-size:90%;"
+|-
+! #
+! Eş Sözcüler
+! Görev başlangıcı
+! Görev bitişi
+|-
+! 1 
+| Sevil Turan-Arif Ali Cangı || 25 Kasım 2012<ref name=":1" /> || 29 Kasım 2012
+|-
+! 2 
+| Sevil Turan-Naci Sönmez || 30 Kasım 2012<ref>{{Web kaynağı|url=https://yesilgazete.org/yesiller-ve-solun-yeni-essozculeri-sevil-turan-ve-naci-sonmez/|başlık=Yeşiller ve Sol'un yeni eşsözcüleri Sevil Turan ve Naci Sönmez - Yeşil Gazete|erişimtarihi=15 Mart 2023|tarih=1 Aralık 2013|dil=Türkçe|arşivurl=https://web.archive.org/web/20230315185529/https://yesilgazete.org/yesiller-ve-solun-yeni-essozculeri-sevil-turan-ve-naci-sonmez/|arşivtarihi=15 Mart 2023|ölüurl=hayır}}</ref> || 2 Nisan 2016
+|-
+! 3 
+| Eylem Tuncaelli-Naci Sönmez || 2 Nisan 2016<ref name=":0" /> || 1 Aralık 2018
+|-
+! 4 
+| Eylem Tuncaelli-Sinan Tutal || 1 Aralık 2018<ref>{{Tweet kaynağı|kullanıcı=YesillerSol|numara=1068928622008909824|başlık=Yeşil Sol Parti 2. Olağan Büyük Kongresi Toplandı. Yapılan Eş Sözcü ve MYK seçimleri sonucunda Eylem Tuncaelli ve Sinan Tutal gelecek dönem partinin sözcülüğüne seçildi.}}</ref> || 22-23 Mayıs 2021
+|-
+! 5 
+| Ayşe Erdem-[[İbrahim Akın (siyasetçi)|İbrahim Akın]] || 22-23 Mayıs 2021<ref>{{Web kaynağı|url=http://yesilgunebakan.net/haber/yesil-sol-parti-3-olagan-konferansini-yapti/detay|başlık=Yeşil Sol Parti 3. Olağan konferansını yaptı|erişimtarihi=15 Mart 2023|arşivurl=https://web.archive.org/web/20220504185842/http://yesilgunebakan.net/haber/yesil-sol-parti-3-olagan-konferansini-yapti/detay|arşivtarihi=4 Mayıs 2022|ölüurl=hayır}}</ref> || 16 Ekim 2022
+|-
+! 6 
+| [[Çiğdem Kılıçgün Uçar]]-[[İbrahim Akın (siyasetçi)|İbrahim Akın]] || 16 Ekim 2022<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/yesil-sol-parti-olaganustu-kongresi-birlikte-kazanacagiz-haber-1585056|başlık=Yeşil Sol Parti olağanüstü kongresi: Birlikte kazanacağız|erişimtarihi=15 Mart 2023|tarih=16 Ekim 2022|dil=tr-TR|arşivurl=https://web.archive.org/web/20230315184026/https://www.gazeteduvar.com.tr/yesil-sol-parti-olaganustu-kongresi-birlikte-kazanacagiz-haber-1585056|arşivtarihi=15 Mart 2023|ölüurl=hayır}}</ref> || 15 Ekim 2023
+|}
+
+=== Eş genel başkanları ===
+{| class="wikitable" style="font-size:90%;"
+|-
+! #
+! Eş Genel başkanlar
+! Görev başlangıcı
+! Görev bitişi
+|-
+!1
+|[[Tülay Hatimoğulları]]-[[Tuncer Bakırhan]]
+|15 Ekim 2023<ref>{{Web kaynağı|url=https://www.birgun.net/haber/ysp-nin-yeni-ismi-hedep-oldu-yeni-es-genel-baskanlar-tulay-hatimogullari-oruc-ve-tuncer-bakirhan-476039|başlık=YSP'nin yeni ismi HEDEP oldu: Yeni eş genel başkanlar Tülay Hatimoğulları Oruç ve Tuncer Bakırhan|erişimtarihi=15 Ekim 2023|arşivtarihi=15 Ekim 2023|arşivurl=https://web.archive.org/web/20231015082150/https://www.birgun.net/haber/ysp-nin-yeni-ismi-hedep-oldu-yeni-es-genel-baskanlar-tulay-hatimogullari-oruc-ve-tuncer-bakirhan-476039|ölüurl=hayır|dil=Türkçe|çalışma=birgun.net}}</ref>
+|''Görevde''
+|}
+
+=== Merkez Yürütme Kurulu üyeleri ===
+{{GÜNCELYIL}}'te DEM Parti'nin Merkez Yürütme Kurulunu (MYK) oluşturan üyeleri:<ref>{{Web kaynağı|url = https://demparti.org.tr/tr/merkez-yurutme-kurulu/17706|başlık = Merkez Yürütme Kurulu|erişimtarihi = 5 Mayıs 2024|dil = Türkçe|çalışma =demparti.org.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20240505150606/https://demparti.org.tr/tr/merkez-yurutme-kurulu/17706/|arşivtarihi = 5 Mayıs 2024|ölüurl = hayır}}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%;"
+!#
+!Adı
+!Görevi
+|-
+|'''1'''
+|[[Tülay Hatimoğulları]]
+| rowspan="2" |Eş Genel Başkan
+|-
+|'''2'''
+|[[Tuncer Bakırhan]]
+|-
+|'''3'''
+|[[Ayşegül Doğan]]
+|Parti Sözcüsü
+|-
+|'''4'''
+|[[Serhat Eren]]
+| rowspan="2" |Eş Genel sayman
+|-
+|'''5'''
+|Semra Kıratlı
+|-
+|'''6'''
+|Canan Çalağan
+|Eş Genel Başkan Yardımcısı (Parti Okulu Komisyonu)
+|-
+|'''7'''
+|[[Ebru Günay]]
+|Eş Genel Başkan Yardımcısı (Dış İlişkiler Komisyonu)
+|-
+|'''8'''
+|[[İbrahim Akın (siyasetçi)|İbrahim Akın]]
+|Eş Genel Başkan Yardımcısı (Ekoloji Ve Tarım Komisyonu)
+|-
+|'''9'''
+|Mahfuz Güleryüz
+|Eş Genel Başkan Yardımcısı (Halklar ve İnançlar Komisyonu)
+|-
+|'''10'''
+|[[Mehmet Rüştü Tiryaki]]
+|Eş Genel Başkan Yardımcısı (Demokratik Yerel Yönetimler Kurulu)
+|-
+|'''11'''
+|Özlem Gündüz
+|Eş Genel Başkan Yardımcısı (STK ve Siyasi Partilerle İlişkiler Komisyonu)
+|-
+|'''12'''
+|Öztürk Türkdoğan
+|Eş Genel Başkan Yardımcısı (Hukuk ve İnsan Hakları Komisyonu)
+|-
+|'''13'''
+|Sevtap Akdağ Karahalı
+|Eş Genel Başkan Yardımcısı (Emek Komisyonu)
+|-
+|'''14'''
+|[[Tayip Temel]]
+|Eş Genel Başkan Yardımcısı (Basın, Yayın ve Propaganda Komisyonu)
+|-
+|'''15'''
+|[[Vezir Coşkun Parlak]]
+|Eş Genel Başkan Yardımcısı (Merkezi Örgütlenme Komisyonu)
+|-
+|'''16'''
+|[[Gülistan Kılıç Koçyiğit]]
+| rowspan="2" |Grup Başkanvekili
+|-
+|'''17'''
+|[[Sezai Temelli]]
+|-
+|'''18'''
+|Edanur İbrahimoğlu
+| rowspan="2" |Gençlik Meclisi Eş Sözcüsü
+|-
+|'''19'''
+|Rohat Gövercin
+|-
+|'''20'''
+|Elif Bulut
+|Merkezi Örgütlenme Komisyonu Eş Sözcüsü
+|-
+|'''21'''
+|Hatice Betül Çelebi
+|Engelliler Komisyonu Eş Sözcüsü
+|-
+|'''22'''
+|İlknur Birol
+|Seçim İşleri Komisyonu Eş Sözcüsü
+|-
+|'''23'''
+|Kerem Fırtına
+|Sanat Komisyonu Eş Sözcüsü
+|-
+|'''24'''
+|Mehmet Saltoğlu
+|STK ve Siyasi Partilerle İlişkiler Komisyonu Eş Sözcüsü
+|-
+|'''25'''
+|[[Onur Hamzaoğlu]]
+|Sağlık ve Sosyal Politikalar Komisyonu Eş Sözcüsü
+|-
+|'''26'''
+|Yüksel Mutlu
+|Halklar ve İnançlar Komisyonu Eş Sözcüsü
+|-
+|'''27'''
+|[[Halide Türkoğlu]]
+|Kadın Meclisi Sözcüsü
+|-
+|'''28'''
+|Sevda Özçelik Bingöl
+|Hukuk ve İnsan Hakları Komisyonu Eş Sözcüsü
+|-
+|'''29'''
+|Cemile Turhallı Balsak
+| rowspan="2" |Dil ve Kültür Komisyonu Eş Sözcüsü
+|-
+|'''30'''
+|Heval Dılbıhar
+|-
+|'''31'''
+|[[Berdan Öztürk]]
+|Dış İlişkiler Komisyonu Eş Sözcüsü
+|-
+|'''32'''
+|Melis Emine Tantan
+|Ekoloji ve Tarım Komisyonu Eş Sözcüsü
+|-
+|'''33'''
+|Mehmet Bozgeyik
+|Emek Komisyonu Eş Sözcüsü
+|-
+|'''34'''
+|Murat Gökdağ
+|Seçim İşleri Komisyonu Eş Sözcüsü
+|-
+|'''35'''
+|[[Ender İmrek]]
+|Ekonomi Komisyonu Eş Sözcüsü
+|-
+|'''36'''
+|[[Beritan Güneş Altın]]
+| rowspan="2" |Çocuk Komisyonu Eş Sözcüsü
+|-
+|'''37'''
+|İhsan Seylan
+|-
+|'''38'''
+|Derya Arslan
+| rowspan="3" |Merkezi Örgütlenme Komisyonu üyesi
+|-
+|'''39'''
+|Semiha Şahin
+|-
+|'''40'''
+|Umut Vedat Açar
+|-
+|'''41'''
+|Murad Mıhçı
+|Halklar ve İnançlar Komisyonu üyesi
+|}
+
+=== Parti Meclisi üyeleri ===
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="text-align:center; font-size:90%;"
+!#
+!Adı
+|-
+|'''1'''
+|Tülay Hatimoğulları
+|-
+|'''2'''
+|Tuncer Bakırhan
+|-
+|'''3'''
+|Aysel Batyar Önsel
+|-
+|'''4'''
+|Bahattin Karaman
+|-
+|'''5'''
+|Berdan Öztürk
+|-
+|'''6'''
+|Berkat Kar
+|-
+|'''7'''
+|Beybün Aslan
+|-
+|'''8'''
+|Beyza Zeyno Bayramoğlu
+|-
+|'''9'''
+|Burcugül Çubuk
+|-
+|'''10'''
+|Bülent Uyguner
+|-
+|'''11'''
+|Cabbar Leygara
+|-
+|'''12'''
+|Canan Çalağan
+|-
+|'''13'''
+|Canan Kebenç Özkan
+|-
+|'''14'''
+|Cemile Turhallı Balsak
+|-
+|'''15'''
+|Derya Arslan
+|-
+|'''16'''
+|Diyadin Fırat
+|-
+|'''17'''
+|Ebru Günay
+|-
+|'''18'''
+|Edanur İbrahimoğlu
+|-
+|'''19'''
+|Elif Bulut
+|-
+|'''20'''
+|Emirali Türkmen
+|-
+|'''21'''
+|Ender İmrek
+|-
+|'''22'''
+|Evgil Türker
+|-
+|'''23'''
+|Fatma Çelik
+|-
+|'''24'''
+|Fatma Koçyiğit Öner
+|-
+|'''25'''
+|Funda Buyruk
+|-
+|'''26'''
+|Haci Erdemir
+|-
+|'''27'''
+|Halime Bayram
+|-
+|'''28'''
+|Hatice Betül Çelebi
+|-
+|'''29'''
+|Hatice Doğan
+|-
+|'''30'''
+|Hülya Ateş Koç
+|-
+|'''31'''
+|Hülya Kavuk
+|-
+|'''32'''
+|İbrahim Akın
+|-
+|'''33'''
+|İdil Uğurlu
+|-
+|'''34'''
+|İlknur Birol
+|-
+|'''35'''
+|Kemal Bülbül
+|-
+|'''36'''
+|Kerem Fırtına
+|-
+|'''37'''
+|Lütfü Kaya
+|-
+|'''38'''
+|Livan Orman
+|-
+|'''39'''
+|Mahfuz Güleryüz
+|-
+|'''40'''
+|Mediha Yüksel
+|-
+|'''41'''
+|Mehmed Ali Yavuz
+|-
+|'''42'''
+|Mehmet Bozgeyik
+|-
+|'''43'''
+|Mehmet Rüştü Tiryaki
+|-
+|'''44'''
+|Mehmet Saltoğlu
+|-
+|'''45'''
+|Melis Emine Tantan
+|-
+|'''46'''
+|Metin Kılıç
+|-
+|'''47'''
+|Muhammed Ayten
+|-
+|'''48'''
+|Murat Gökdağ
+|-
+|'''49'''
+|Murad Mıhçı
+|-
+|'''50'''
+|Musa Piroğlu
+|-
+|'''51'''
+|Naciye İskender
+|-
+|'''52'''
+|Nevroz Şanlı
+|-
+|'''53'''
+|Nuray Özdoğan
+|-
+|'''54'''
+|Onur Hamzaoğlu
+|-
+|'''55'''
+|Ömer Görünmek
+|-
+|'''56'''
+|Özcan Teker
+|-
+|'''57'''
+|Özlem Gündüz
+|-
+|'''58'''
+|Öztürk Türkdoğan
+|-
+|'''59'''
+|Perihan Pakize Sinemillioğlu
+|-
+|'''60'''
+|Recep Demirci
+|-
+|'''61'''
+|Sami Evren
+|-
+|'''62'''
+|Selçuk Odabaşı
+|-
+|'''63'''
+|Selda İlgöz Kocayiğit
+|-
+|'''64'''
+|Sema Koç
+|-
+|'''65'''
+|Semiha Şahin
+|-
+|'''66'''
+|Semra Kıratlı
+|-
+|'''67'''
+|Senem Eriş
+|-
+|'''68'''
+|Serhat Eren
+|-
+|'''69'''
+|Servin Kararkoç
+|-
+|'''70'''
+|Several Ballıkaya Çelik
+|-
+|'''71'''
+|Sevtap Akdağ Karahalı
+|-
+|'''72'''
+|Sezai Temelli
+|-
+|'''73'''
+|Sinem Seven
+|-
+|'''74'''
+|Şakire Şeyda Ataş
+|-
+|'''75'''
+|Tayip Temel
+|-
+|'''76'''
+|Tülay Korkutan
+|-
+|'''77'''
+|Umut Vedat Açar
+|-
+|'''78'''
+|Ümit Küçükbayatlılı
+|-
+|'''79'''
+|Ünal Yusufoğlu
+|-
+|'''80'''
+|Vedat Çınar Altan
+|-
+|'''81'''
+|Vezir Coşkun Parlak
+|-
+|'''82'''
+|Yüksel Mutlu
+|-
+! colspan="2" |Kaynakça:<ref>{{Web kaynağı|url = https://demparti.org.tr/tr/parti-meclisi/17707|başlık = Parti Meclisi|erişimtarihi = 5 Mayıs 2024|dil = Türkçe|çalışma =demparti.org.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20240505150607/https://demparti.org.tr/tr/parti-meclisi/17707/|arşivtarihi = 5 Mayıs 2024|ölüurl = hayır}}</ref>
+|}
+{{gizli içerik-son}}
+
+== Kongreler ==
+{| class="wikitable" style="font-size:90%"
+!Kongre
+!Tarih
+!Eş Genel başkan
+!Seçim Nedeni
+|-
+|1. Olağan Büyük Kongre
+|1 Aralık 2013
+|Sevil Turan-Naci Sönmez
+| rowspan="3" |Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|-
+|2. Olağan Büyük Kongre
+|2 Nisan 2016
+|Eylem Tuncaelli-Naci Sönmez
+|-
+|3. Olağan Büyük Kongre
+|1 Aralık 2018
+|Eylem Tuncaelli-Sinan Tutal
+|-
+|2. Olağanüstü Büyük Kongre
+|15 Ekim 2022
+|Ayşe Erdem-[[İbrahim Akın (siyasetçi)|İbrahim Akın]]
+|Partinin amblemi değiştirildi
+|-
+|4. Olağan Büyük Kongre
+|15 Ekim 2023
+|[[Tülay Hatimoğulları]]-[[Tuncer Bakırhan]]
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:80%;"
+! #
+!İsim
+!İl
+!İlçe 
+!Belde
+|-
+| '''1''' || Hüseyin Uzun ||[[Adıyaman (il)|Adıyaman]] || [[Çelikhan]] || [[Pınarbaşı, Çelikhan|Pınarbaşı]]
+|-
+| '''2''' || [[Hazal Aras]] ||rowspan="3"|[[Ağrı (il)|Ağrı]] || [[Ağrı|Merkez]] ||
+|-
+| '''3''' || Adnan Doğan ||[[Diyadin]] ||
+|-
+| '''4''' || Kenan Alkan ||[[Doğubayazıt]] ||
+|-
+| '''5''' || Mümin Erol ||rowspan="2"|[[Bitlis (il)|Bitlis]] || [[Tatvan]] ||
+|-
+| '''6''' || Baran Turan ||[[Ahlat]] || [[Ovakışla, Ahlat|Ovakışla]]
+|-
+| '''7''' || [[Ayşe Serra Bucak|Ayşe Serra Bucak Küçük]] ||rowspan="14"|[[Diyarbakır (il)|Diyarbakır]] || [[Diyarbakır Büyükşehir Belediyesi|Büyükşehir]] ||
+|-
+| '''8''' || Siraç Çelik ||[[Bağlar]] ||
+|-
+| '''9''' || Mizgin Ekin ||[[Bismil]] ||
+|-
+| '''10''' || Semra Akyüz ||[[Çınar, Diyarbakır|Çınar]] ||
+|-
+| '''11''' || Hacı Akengin ||[[Dicle, Diyarbakır|Dicle]] ||
+|-
+| '''12''' || Şiyar Güldiken ||[[Ergani]] ||
+|-
+| '''13''' || Besile Narin ||[[Hani]] ||
+|-
+| '''14''' || Gülşen Sincar ||[[Kayapınar]] ||
+|-
+| '''15''' || Mehmet Şık ||[[Kocaköy]] ||
+|-
+| '''16''' || Fatma Ay ||[[Kulp]] ||
+|-
+| '''17''' || Dilek Diyar Özer ||[[Lice]] ||
+|-
+| '''18''' || Sevim Biçici ||[[Silvan]] ||
+|-
+| '''19''' || Adnan Örhan ||[[Sur, Diyarbakır|Sur]] ||
+|-
+| '''20''' || Safiye Akdağ ||[[Yenişehir, Diyarbakır|Yenişehir]] ||
+|-
+| '''21''' || Cafer Oğur ||[[Elazığ (il)|Elazığ]] || [[Karakoçan]] ||
+|-
+| '''22''' || Kazım Erhan ||rowspan="3"|[[Erzurum (il)|Erzurum]] || [[Karaçoban]] ||
+|-
+| '''23''' || Bahar Göksu ||[[Karayazı]] ||
+|-
+| '''24''' || Abdurrahman Sever ||[[Tekman]] ||
+|-
+| '''25''' || Şadiye Kırmızıgül ||[[Hakkâri (il)|Hakkâri]] || [[Yüksekova]] ||
+|-
+| '''26''' || [[Mehmet Nuri Güneş]] ||rowspan="2"|[[Iğdır (il)|Iğdır]] ||rowspan="2"|[[Iğdır|Merkez]] ||
+|-
+| '''27''' || Yaşar Sarıtaş || [[Halfeli, Iğdır|Halfeli]]
+|-
+| '''28''' || Adem Oyman ||rowspan="2"|[[Kars (il)|Kars]] ||rowspan="2"|[[Digor]] ||
+|-
+| '''29''' || Hüsnü Ancı || [[Dağpınar, Digor|Dağpınar]]
+|-
+| '''30''' || Mehmet Ali Amak ||rowspan="5"|[[Mardin (il)|Mardin]] || [[Artuklu, Mardin|Artuklu]] ||
+|-
+| '''31''' || Asya Gezer ||[[Dargeçit]] ||
+|-
+| '''32''' || Songül Özbahçeci ||[[Derik]] ||
+|-
+| '''33''' || Kudret Uçuk ||[[Mazıdağı]] ||
+|-
+| '''34''' || Gülbin Şahin Dağhan ||[[Nusaybin]] ||
+|-
+| '''35''' || Sırrı Söylemez ||rowspan="6"|[[Muş (il)|Muş]] || [[Muş|Merkez]] ||
+|-
+| '''36''' || Aryan Doğan ||[[Bulanık]] ||
+|-
+| '''37''' || Ahmet Kenan Türker ||[[Malazgirt]] ||
+|-
+| '''38''' || Gıyasettin Aydemir ||[[Varto]] ||
+|-
+| '''39''' || Salih Elçi ||[[Korkut]] || [[Altınova, Korkut|Altınova]]
+|-
+| '''40''' || İsmail Dünder ||[[Bulanık]] || [[Elmakaya, Bulanık|Elmakaya]]
+|-
+| '''41''' || Aygül Kapıkayalı ||rowspan="5"|[[Şanlıurfa (il)|Şanlıurfa]] || [[Bozova]] ||
+|-
+| '''42''' || Uğur Kahraman ||[[Ceylanpınar]] ||
+|-
+| '''43''' || Serhan Paydaş ||[[Hilvan]] ||
+|-
+| '''44''' || Ayten Kaya ||[[Suruç]] ||
+|-
+| '''45''' || Serhat Dicle İnan ||[[Viranşehir]] ||
+|-
+| '''46''' || Ali Rıza Bingöl ||rowspan="2"|[[Siirt (il)|Siirt]] ||[[Kurtalan]] ||
+|-
+| '''47''' || Enes Cengiz ||[[Baykan]] || [[Veyselkarani]]
+|-
+| '''48''' || Güler Yerbasan ||rowspan="3"|[[Şırnak (il)|Şırnak]] || [[Cizre]] ||
+|-
+| '''49''' || Ferit Artuç ||[[Şırnak|Merkez]] || [[Balveren, Şırnak|Balveren]]
+|-
+| '''50''' || Fahrettin Akman ||[[İdil, Şırnak|İdil]] || [[Sırtköy, İdil|Sırtköy]]
+|-
+| '''51''' || Şengül Polat ||rowspan="12"|[[Van (il)|Van]] || [[Başkale]] ||
+|-
+| '''52''' || Hatice Atabay Gündoğdu ||[[Çaldıran]] ||
+|-
+| '''53''' || Reşat Eraslan ||[[Çatak]] ||
+|-
+| '''54''' || Rabia Başak Koç ||[[Edremit, Van|Edremit]] ||
+|-
+| '''55''' || Baran Bilici ||[[Erciş]] ||
+|-
+| '''56''' || Ruknettin Hakan ||[[Gevaş]] ||
+|-
+| '''57''' || Mehmet Tahir Ertaş ||[[Gürpınar]] ||
+|-
+| '''58''' || Cevdet Altındağ ||[[İpekyolu, Van|İpekyolu]] ||
+|-
+| '''59''' || Hediye Sayıner ||[[Muradiye]] ||
+|-
+| '''60''' || Sakine Kutpınar ||[[Özalp]] ||
+|-
+| '''61''' || Davut Acar ||[[Saray, Van|Saray]] ||
+|-
+| '''62''' || Hanım Akkoş ||[[Tuşba]] ||
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |
+|-
+|}
+{{gizli içerik-son}}
+
+== Milletvekilleri ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:80%;"
+!#
+!Adı
+!Seçim bölgesi
+!Görevi
+|-
+|'''1'''
+|[[Tülay Hatimoğulları]]
+|[[Adana milletvekilleri listesi|Adana]]
+|Eş Genel Başkan<br>PM üyesi
+|-
+|'''2'''
+|[[Heval Bozdağ]]
+|rowspan="3"| [[Ağrı milletvekilleri listesi|Ağrı]]
+|Plan Ve Bütçe Komisyonu Üyesi
+|-
+|'''3'''
+|[[Nejla Demir]]
+|Tarım, Orman Ve Köyişleri Komisyonu Üyesi
+|-
+|'''4'''
+|[[Sırrı Sakık]]
+|
+|-
+|'''5'''
+|[[Saruhan Oluç|Hakkı Saruhan Oluç]]
+|[[Antalya milletvekilleri listesi|Antalya]]
+|Plan Ve Bütçe Komisyonu Üyesi
+|-
+|'''6'''
+|[[Mehmet Rüştü Tiryaki]]
+|rowspan="2"| [[Batman milletvekilleri listesi|Batman]]
+|Anayasa Komisyonu Üyesi<br>Eş Genel Başkan Yardımcısı<br>PM üyesi
+|-
+|'''7'''
+|[[Zeynep Oduncu]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu Üyesi
+|-
+|'''8'''
+|[[Ömer Faruk Hülakü]]
+|[[Bingöl milletvekilleri listesi|Bingöl]]
+|İçişleri Komisyonu Üyesi
+|-
+|'''9'''
+|[[Hüseyin Olan]]
+|rowspan="2"| [[Bitlis milletvekilleri listesi|Bitlis]]
+|Güvenlik Ve İstihbarat Komisyonu Üyesi<br>Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu Üyesi
+|-
+|'''10'''
+|[[Semra Çağlar Gökalp]]
+|Avrupa Konseyi Parlamenter Meclisi Üyesi
+|-
+|'''11'''
+|[[Adalet Kaya]]
+|rowspan="8"| [[Diyarbakır milletvekilleri listesi|Diyarbakır]]
+|Kadın Erkek Fırsat Eşitliği Komisyonu Katip Üyesi
+|-
+|'''12'''
+|[[Berdan Öztürk]]
+|Dışişleri Komisyonu Üyesi<br>Avrupa Konseyi Parlamenter Meclisi Üyesi<br>NATO Parlamenter Asamblesi Üyesi<br>Dış İlişkiler Komisyonu Eş Sözcüsü<br>PM üyesi
+|-
+|'''13'''
+|[[Ceylan Akça Cupolo]]
+|Dışişleri Komisyonu Üyesi<br>Ekonomik İşbirliği Teşkilatı Parlamenter Asamblesi Üyesi<br>Güney Doğu Avrupa İşbirliği Süreci Parlamenter Asamblesi Üyesi<br>Parlamentolararası Birlik Üyesi
+|-
+|'''14'''
+|[[Halide Türkoğlu]]
+|Kadın Meclisi Sözcüsü
+|-
+|'''15'''
+|[[Mehmet Kamaç]]
+|Milli Savunma Komisyonu Üyesi
+|-
+|'''16'''
+|[[Cengiz Çandar|Osman Cengiz Çandar]]
+|Avrupa Birliği Uyum Komisyonu Üyesi<br>Asya Parlamenter Asamblesi Üyesi<br>İslam İşbirliği Teşkilatı Üyesi Ülkeler Parlamenter Birliği Üyesi<br>Türkiye - Avrupa Birliği Karma Parlamento Komisyonu Üyesi
+|-
+|'''17'''
+|[[Serhat Eren]]
+|Dışişleri Komisyonu Üyesi<br>Eş Genel Sayman<br>PM üyesi
+|-
+|'''18'''
+|[[Sevilay Çelenk Özen]]
+|Dijital Mecralar Komisyonu Üyesi<br>NATO Parlamenter Asamblesi Üyesi
+|-
+|'''19'''
+|[[Meral Danış Beştaş]]
+|[[Erzurum milletvekilleri listesi|Erzurum]]
+|Anayasa Komisyonu Üyesi<br>Akdeniz İçin Birlik Parlamenter Asamblesi Üyesi
+|-
+|'''20'''
+|[[Onur Düşünmez]]
+|rowspan="3"| [[Hakkâri milletvekilleri listesi|Hakkâri]]
+|Adalet Komisyonu Üyesi<br>Milli Savunma Komisyonu Üyesi
+|-
+|'''21'''
+|[[Öznur Bartın]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu Üyesi
+|-
+|'''22'''
+|[[Vezir Coşkun Parlak]]
+|Milli Savunma Komisyonu Üyesi<br>Karadeniz Ekonomik İşbirliği Parlamenter Asamblesi Üyesi<br>Eş Genel Başkan Yardımcısı<br>PM üyesi
+|-
+|'''23'''
+|[[Yılmaz Hun]]
+|[[Iğdır milletvekilleri listesi|Iğdır]]
+|Dilekçe Komisyonu Üyesi
+|-
+|'''24'''
+|[[Kezban Konukçu]]
+|[[İstanbul milletvekilleri listesi|İstanbul (I)]]
+|Milli Eğitim, Kültür, Gençlik Ve Spor Komisyonu Üyesi
+|-
+|'''25'''
+|[[Cengiz Çiçek]]
+|rowspan="2"| [[İstanbul milletvekilleri listesi|İstanbul (II)]]
+|
+|-
+|'''26'''
+|[[Özgül Saki]]
+|Kadın Erkek Fırsat Eşitliği Komisyonu Üyesi<br>Avrupa Güvenlik ve İşbirliği Teşkilatı Parlamenter Asamblesi Üyesi
+|-
+|'''27'''
+|[[Çiçek Otlu]]
+|rowspan="2"| [[İstanbul milletvekilleri listesi|İstanbul (III)]]
+|İçişleri Komisyonu Üyesi
+|-
+|'''28'''
+|[[Celal Fırat]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu Üyesi
+|-
+|'''29'''
+|[[Burcugül Çubuk]]
+|[[İzmir milletvekilleri listesi|İzmir (I)]]
+|Dijital Mecralar Komisyonu Üyesi<br>PM üyesi
+|-
+|'''30'''
+|[[İbrahim Akın (siyasetçi)|İbrahim Akın]]
+|[[İzmir milletvekilleri listesi|İzmir (II)]]
+|Çevre Komisyonu Üyesi<br>Eş Genel Başkan Yardımcısı<br>PM üyesi
+|-
+|'''31'''
+|[[Gülistan Kılıç Koçyiğit]]
+|[[Kars milletvekilleri listesi|Kars]]
+|TBMM Grup Başkanvekili<br>Akdeniz Parlamenter Asamblesi Üyesi
+|-
+|'''32'''
+|[[Ömer Faruk Gergerlioğlu]]
+|[[Kocaeli milletvekilleri listesi|Kocaeli]]
+|Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu Üyesi<br>Türk Devletleri Parlamenter Asamblesi Üyesi
+|-
+|'''33'''
+|[[Salihe Aydeniz]]
+|rowspan="4"| [[Mardin milletvekilleri listesi|Mardin]]
+|Türkiye Büyük Millet Meclisi İdare Amiri
+|-
+|'''34'''
+|[[Beritan Güneş Altın]]
+|Milli Eğitim, Kültür, Gençlik Ve Spor Komisyonu Üyesi<br>Çocuk Komisyonu Eş Sözcüsü
+|-
+|'''35'''
+|[[George Aslan]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu Üyesi
+|-
+|'''36'''
+|[[Kamuran Tanhan]]
+|İçişleri Komisyonu Üyesi
+|-
+|'''37'''
+|[[Ali Bozan]]
+|rowspan="2"| [[Mersin milletvekilleri listesi|Mersin]]
+|Dilekçe Komisyonu Üyesi
+|-
+|'''38'''
+|[[Perihan Koca]]
+|Çevre Komisyonu Üyesi
+|-
+|'''39'''
+|[[Sezai Temelli]]
+|rowspan="2"| [[Muş milletvekilleri listesi|Muş]]
+|TBMM Grup Başkanvekili<br>PM üyesi
+|-
+|'''40'''
+|[[Sümeyye Boz]]
+|Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu Üyesi<br>Güvenlik Ve İstihbarat Komisyonu Üyesi
+|-
+|'''41'''
+|[[Sabahat Erdoğan Sarıtaş]]
+|rowspan="2"| [[Siirt milletvekilleri listesi|Siirt]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu Üyesi
+|-
+|'''42'''
+|[[Tuncer Bakırhan]]
+|Eş Genel Başkan<br>TBMM Grup Başkanı<br>PM üyesi
+|-
+|'''43'''
+|[[Ayşegül Doğan]]
+|rowspan="3"| [[Şırnak milletvekilleri listesi|Şırnak]]
+|Avrupa Birliği Uyum Komisyonu Katip Üyesi<br>Türkiye - Avrupa Birliği Karma Parlamento Komisyonu Üyesi<br>Parti Sözcüsü
+|-
+|'''44'''
+|[[Mehmet Zeki İrmez]]
+|Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|-
+|'''45'''
+|[[Nevroz Uysal Aslan]]
+|İnsan Haklarını İnceleme Komisyonu Katip Üyesi
+|-
+|'''46'''
+|[[Ayten Kordu]]
+|[[Tunceli milletvekilleri listesi|Tunceli]]
+|Çevre Komisyonu Üyesi
+|-
+|'''47'''
+|[[Mithat Sancar]]
+|rowspan="4"| [[Şanlıurfa milletvekilleri listesi|Şanlıurfa]]
+|Anayasa Komisyonu Üyesi
+|-
+|'''48'''
+|[[Ömer Öcalan]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu Üyesi
+|-
+|'''49'''
+|[[Dilan Kunt Ayan]]
+|Adalet Komisyonu Üyesi<br>İnsan Haklarını İnceleme Komisyonu Üyesi
+|-
+|'''50'''
+|[[Ferit Şenyaşar]]
+|Tarım, Orman Ve Köyişleri Komisyonu Üyesi
+|-
+|'''51'''
+|[[Gülcan Kaçmaz Sayyiğit]]
+|rowspan="6"| [[Van milletvekilleri listesi|Van]]
+|Plan Ve Bütçe Komisyonu Üyesi
+|-
+|'''52'''
+|[[Gülderen Varlı]]
+|Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|-
+|'''53'''
+|[[Mahmut Dindar]]
+|Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|-
+|'''54'''
+|[[Sinan Çiftyürek]]
+|Tarım, Orman Ve Köyişleri Komisyonu Üyesi
+|-
+|'''55'''
+|[[Zülküf Uçar]]
+|Adalet Komisyonu Üyesi
+|-
+|'''56'''
+|[[Pervin Buldan]]
+|Meclis Başkanvekili 
+|}
+{{gizli içerik-son}}
+
+== Halkların Eşitlik ve Demokrasi Partisi ve seçimler ==
+
+=== Milletvekilliği seçimleri ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider(ler)
+! colspan="3" |Seçim sonuçları
+! colspan="2" |Sandalye
+! rowspan="2" |Hükûmet
+|-
+!Oy sayısı
+!'''%'''
+!±
+!#
+!±
+|-
+![[2023 Türkiye genel seçimleri|2023]]
+|[[Çiğdem Kılıçgün Uçar]]<br>[[İbrahim Akın (siyasetçi)|İbrahim Akın]]
+|4.803.922
+|8,82 (#5)
+|{{azalış}} %2,88
+{{küçük|([[Halkların Demokratik Partisi|HDP]] olarak)}}
+|{{Composition bar|61|600|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}
+|6 {{azalış}}
+|{{Hayır2|Muhalefet}}
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|[[Tülay Hatimoğulları]]<br>[[Tuncer Bakırhan]]
+|2.646.124
+|5,80 (#5)
+|{{azalış}} 0,04
+{{küçük|([[Halkların Demokratik Partisi|HDP]] olarak)}}
+|2.625.588
+|5,70 (#4)
+|{{Composition bar|85|1389|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}
+|{{artış}} 60
+|}
+
+== Ayrıca bakınız ==
+
+* [[Çözüm Süreci|Çözüm süreci]]
+* [[Kürt siyasi hareketi]]
+* [[Halkların Demokratik Kongresi]]
+* [[Emek ve Özgürlük İttifakı]]
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+{{Commons kategori|Peoples' Equality and Democracy Party}}
+* {{Resmî site|demparti.org.tr}}
+* {{Twitter|id=@DEMGenelMerkezi}}
+* {{Facebook|id=DemGenelMerkezi}}
+* {{Instagram|id=@dempartiresmi}}
+* {{YouTube|kullanıcı=@DEMGenelMerkezi}}
+
+{{Türkiye'deki siyasi partiler|durum=daraltılmış}}{{Kürt siyasi hareketi}}{{Otorite kontrolü}}
+
+[[Kategori:Yeşil siyaset partileri]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:2012'de kurulan siyasi partiler]]
+[[Kategori:2012'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Halkların Demokratik Kongresi]]
+[[Kategori:Emek ve Özgürlük İttifakı]]
+[[Kategori:Halkların Eşitlik ve Demokrasi Partisi]]
+[[Kategori:Solcu partiler]]
+[[Kategori:Kürt siyasi hareketi]]
+[[Kategori:Türkiye'deki sosyalist partiler]]

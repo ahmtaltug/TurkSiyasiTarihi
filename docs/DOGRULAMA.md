@@ -1,6 +1,6 @@
 # Veri doğrulama raporu
 
-Son güncelleme: 20 Kasım 2026 (sürüm 1.3.0). Bu rapor, sitedeki tarihî ve siyasi bilgilerin (parti adları, aday adları, il adları, tarihler,
+Son güncelleme: 20 Kasım 2026 (sürüm 2.0.0). Bu rapor, sitedeki tarihî ve siyasi bilgilerin (parti adları, aday adları, il adları, tarihler,
 mebus/milletvekili listeleri) neyle, nasıl karşılaştırıldığını ve neyin **karşılaştırılamadığını** listeler.
 
 Kaynak olarak Türkçe ve İngilizce Vikipedi maddeleri kullanıldı. Birincil kaynaklarla (TBMM Albümü, YSK arşivi, Resmî Gazete)
@@ -77,6 +77,18 @@ Kişi adları tek tek birincil kaynakla karşılaştırılamadı. Ayrıştırma 
 - **Ayrıştırıcı hatası (düzeltildi):** Vikipedi tablolarındaki hücresiz satırlar, birleştirilmiş hücrelerin kaymasına yol açıyordu. 1912'de Yozgat mebusu Ahmet Münir Bey listeden düşüyordu; Aydın'daki üç mebusun parti ve kimlik bilgileri yanlış satıra kayıyordu. Ayrıştırıcı MediaWiki'nin davranışına göre düzeltildi; diğer listelerde değişiklik olmadı.
 - **Kaynakta art arda yinelenen adlar:** 1912 Trablusşam'da "Fuat Hulusi Bey" ve 1920 Saruhan'da "Çerkes Reşit" iki kez yazılmıştı. Aynı kişi olarak bir kez sayıldılar ve birim kartında not düşüldü.
 - **Biçim taraması:** Ad sütununda dosya adı, şablon ya da başlık metni kalmadığı denetlendi.
+
+## 6. Siyasi tarih ve demografi verisi (2.0.0)
+
+`scripts/build_history.py` şu maddeleri ayrıştırır: "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi", 60 parti/ittifak maddesinin bilgi kutusu, "Türkiye'nin illeri nüfuslarına göre" ve il bazında GSYH ile yaşam beklentisi tabloları (İngilizce Vikipedi). Yapılan denetimler ve düzeltmeler:
+
+- **Hükûmetler:** 73 kayıt. Her birinin başlangıcı bir öncekinin bitişiyle karşılaştırıldı: 63 geçiş kesintisiz, 10 geçişte 1 günle 24 gün arasında boşluk var (ör. 20 Kasım 1961, 21 Eylül 1980, 25 Haziran 1993 öncesi). Bunlar yeni hükûmetin kurulmasını bekleyen dönemlerdir ve kaynakta olduğu gibi bırakıldı. Güvenoyu alamayan üç hükûmet (38. Irmak, 40. Ecevit, 51. Çiller) kaynaktaki "Güvensizlik oyu" ibaresinden işaretlendi. Kaynakta 1. İcra Vekilleri Heyeti başkanının adı "Mustafa Kemal A" diye kısaltılmıştı; düzeltildi.
+- **Cumhurbaşkanlığı boşlukları:** 27 Mayıs 1960 – 26 Ekim 1961 ve 12 Eylül 1980 – 9 Kasım 1982 askerî yönetim (Millî Birlik Komitesi ve Millî Güvenlik Konseyi başkanları), 6 Nisan – 12 Eylül 1980 vekâleten görev olarak ayrıldı.
+- **Meclis dağılımları:** 1923–1946 değerleri seçim maddelerinin bilgi kutularından elle girildi (1931'de 10 boş sandalye, 1935–1943'te partisi belirtilmeyen sandalyeler ayrı). 1950 sonrası sitenin seçim verisindendir.
+- **Partiler:** Kuruluş/kapanış tarihleri bilgi kutusundan alındı. Birden çok dönemi olan partilerde (CHP 1923–1981 ve 1992–; MHP 1969–1981 ve 1993–; Hürriyet ve İtilaf 1911–1913 ve 1918–1919) dönemler madde metnine göre elle girildi. Yönlendirme nedeniyle iki kez gelen Yeşil Sol Parti/DEM Parti kaydı teke indirildi. Öncül, ardıl, bölünme ve birleşme ilişkileri bilgi kutusundaki bağlantılardır; madde yazarlarının seçimine bağlıdır.
+- **Demografi:** 81 ilin tamamında nüfus (1927–2025), alan, GSYH ve yaşam beklentisi bulundu. İngilizce tabloda "Istanbul" yazımı eşlemede ayrıca ele alındı.
+
+Doğrulanamayanlar: Hükûmet tarihleri ve güvenoyu sayıları TBMM tutanaklarıyla; nüfuslar TÜİK yayınlarıyla birebir karşılaştırılmadı.
 
 ## Doğrulanamayanlar
 

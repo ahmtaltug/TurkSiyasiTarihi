@@ -1,0 +1,61 @@
+p01|Cumhuriyet Halk Partisi|152000
+p02|Adalet ve Kalkınma Partisi|140009
+p03|Milliyetçi Hareket Partisi|70743
+p04|Demokratik Sol Parti|50995
+p05|Anavatan Partisi|36438
+p06|Doğru Yol Partisi|27277
+p07|Saadet Partisi|75185
+p08|Büyük Birlik Partisi|24292
+p09|İttihat ve Terakki|50382
+p10|Demokrat Parti (2007)|40663
+p11|Halkların Demokratik Partisi|74859
+p12|İYİ Parti|81711
+p13|Adalet Partisi (1961-1981)|23026
+p14|Refah Partisi|13399
+p15|Demokratik Toplum Partisi|20504
+p16|Hür Dava Partisi|41482
+p17|Sosyaldemokrat Halkçı Parti|25577
+p18|Genç Parti|16033
+p19|Demokrat Parti (1946)|33536
+p20|Halkların Eşitlik ve Demokrasi Partisi|46862
+p21|Cumhuriyetçi Güven Partisi|13297
+p22|Millî Selamet Partisi|10344
+p23|Yeni Türkiye Partisi (1961)|7938
+p24|Fazilet Partisi|12612
+p25|Türkiye İşçi Partisi (1961)|19888
+p26|Millet Partisi (1962)|5147
+p27|Barış ve Demokrasi Partisi|13244
+p28|Hürriyet ve İtilaf Fırkası|13829
+p29|Cumhuriyetçi Köylü Millet Partisi|12363
+p30|Yeniden Refah Partisi|41509
+p31|Demokratik Parti (Türkiye)|11100
+p32|Halkın Demokrasi Partisi|5654
+p33|Türkiye İşçi Partisi (2017)|28700
+p34|Memleket Partisi|25110
+p35|Türkiye Birlik Partisi|5387
+p36|Zafer Partisi|50654
+p37|Milliyetçi Çalışma Partisi|8611
+p38|Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|6230
+p39|Sosyaldemokrat Halk Partisi|7279
+p40|Milliyetçi Demokrasi Partisi|4491
+p41|Halkçı Parti|5460
+p42|Islahatçı Demokrasi Partisi|4559
+p43|Demokratik Halk Partisi (Türkiye)|2962
+p44|Cumhuriyetçi Millet Partisi|3287
+p45|Millet Partisi (1948)|8156
+p46|Osmanlı Ahrar Fırkası|9268
+p47|Sosyal Demokrasi Partisi|4853
+p48|Hürriyet Partisi (1955)|x
+p49|Serbest Cumhuriyet Fırkası|24164
+p50|Terakkiperver Cumhuriyet Fırkası|18827
+p51|Millî Kalkınma Partisi|4579
+p52|Türkiye Komünist Partisi (2001)|98278
+p53|Yeşil Sol Parti|46862
+p54|Cumhur İttifakı|36053
+p55|Millet İttifakı|57427
+p56|Emek ve Özgürlük İttifakı|22694
+p57|Ata İttifakı|22414
+p58|Demokrat Türkiye Partisi|11756
+p59|Demokrasi ve Atılım Partisi|103935
+p60|Gelecek Partisi|24033
+p61|Muhafazakâr Parti (Türkiye)|x

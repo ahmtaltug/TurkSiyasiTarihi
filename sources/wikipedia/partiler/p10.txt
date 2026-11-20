@@ -1,0 +1,310 @@
+{{Diğer anlamı|Demokrat Parti}}{{Ayrıca bakınız2|Bu madde ikiye ayrılmıştır. Partinin isim değiştirmeden önceki tarihçesi için [[Doğru Yol Partisi]] sayfasına bakınız.}}{{Siyasi parti bilgi kutusu
+| isim             = Demokrat Parti
+| kısaltma         = DP
+| colorcode        = {{Siyasi parti renk|Demokrat Parti (2007)}}
+| amblem           = Demokrat Parti 2007.png
+| genel başkanı    = [[Gültekin Uysal]]
+| genel sekreter   = Ertan Küçükay
+| kurucusu         = [[Ahmet Nusret Tuna]]
+| lider_başlık1    = Parti sözcüsü
+| lider_isim1      = [[Haydar Altıntaş]]
+| slogan           = ''Söz Yeniden Milletin!''
+| kuruluş          = {{Açılış tarihi ve yaşı|2007|5|27}}
+| birleşme         = [[Anavatan Partisi]] (2009)
+| öncülü           = [[Doğru Yol Partisi]]
+| merkez           = [[Balgat]], [[Çankaya]], [[Ankara]]
+| üyelik           = {{azalış}} 302.852<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1114|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20190916183616/https://www.yargitaycb.gov.tr/icerik/1114|arşivtarihi = 16 Eylül 2019}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Liberal muhafazakârlık]]<ref>{{Web kaynağı|soyadı1=Suveren|ad1=Yaşar|yıl=2018|başlık=An Evaluation of State Perception Procedures of the Right Wing Conservative Politicians in Turkey|yayıncı=[[Sakarya Üniversitesi|SakaryaUniversity]]|url=http://sbd.dergi.anadolu.edu.tr/yonetim/icerik/makaleler/170-published.pdf|dil=Türkçe|erişimtarihi=11 Temmuz 2019|arşivurl=https://web.archive.org/web/20190711190916/http://sbd.dergi.anadolu.edu.tr/yonetim/icerik/makaleler/170-published.pdf|arşivtarihi=11 Temmuz 2019|ölüurl=hayır}}</ref>
+*[[Sosyal liberalizm]]<ref>{{Web kaynağı|url=https://www.dp.org.tr/storage/DP.Yeni.Program.pdf|başlık=Arşivlenmiş kopya|erişimtarihi=9 Ocak 2022|arşivurl=https://web.archive.org/web/20211229025938/https://www.dp.org.tr/storage/DP.Yeni.Program.pdf|arşivtarihi=29 Aralık 2021|ölüurl=hayır}}</ref>
+*[[Türk milliyetçiliği]]<ref>{{Web kaynağı|url = https://www.dp.org.tr/storage/DP.T%C3%BCz%C3%BCk.2022.pdf|başlık = Dp Parti Tüzüğü|erişimtarihi = 27 Ocak 2023|arşivtarihi = 18 Haziran 2022|arşivurl = https://web.archive.org/web/20220618225341/https://www.dp.org.tr/storage/DP.T%C3%BCz%C3%BCk.2022.pdf|tarih = 18 Haziran 2022|ölüurl = hayır}} Başlık Temel Anlayış Madde 3:  ''"Demokrat Parti; bu amaçlara, Atatürk’ün belirlediği Türk milliyetçiliğinden ve milletimizin
+tarihi, milli ve manevi değerlerinden, medeniyetçilik aşkından alacağı ilhamla, hürriyetçi demokratik
+düzen içerisinde ulaşabileceğine inanır. "''</ref>
+*[[Kemalizm|Atatürkçülük]]<ref name="dp.org.tr">{{Web kaynağı|url=https://www.dp.org.tr/parti-programi|başlık=Arşivlenmiş kopya|erişimtarihi=1 Ekim 2021|arşivurl=https://web.archive.org/web/20211001201628/https://www.dp.org.tr/parti-programi|arşivtarihi=1 Ekim 2021|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.bbc.co.uk/turkish/secim_2007/parti_program/dp_tuzuk.pdf|başlık=Arşivlenmiş kopya|erişimtarihi=1 Ekim 2021|arşivurl=https://web.archive.org/web/20210828205727/http://www.bbc.co.uk/turkish/secim_2007/parti_program/dp_tuzuk.pdf|arşivtarihi=28 Ağustos 2021|ölüurl=hayır}}</ref>
+*[[Sağ popülizm]]<ref name="dp.org.tr"/>
+*[[Güçlendirilmiş parlamenter sistem|Parlamenterizm]]<ref>{{Haber kaynağı |url=https://www.bbc.com/turkce/haberler-dunya-60562270 |başlık=Altı muhalefet liderinin açıkladığı güçlendirilmiş parlamenter sistem neleri içeriyor? |gazete=BBC News Türkçe |erişimtarihi=1 Mayıs 2022 |arşivurl=https://web.archive.org/web/20220428085426/https://www.bbc.com/turkce/haberler-dunya-60562270 |arşivtarihi=28 Nisan 2022 |ölüurl=hayır }}</ref>
+*[[Pro-Avrupacılık]]<ref>{{Web kaynağı|başlık = AB Üyeliği Süreci|url = https://www.dp.org.tr/politika/ab-uyeligi-sureci|arşivurl = https://web.archive.org/web/20210917172547/https://www.dp.org.tr/politika/ab-uyeligi-sureci|arşivtarihi = 17 Eylül 2021}}</ref>
+}}
+| pozisyon         = [[Türkiye'de merkez sağ|Merkez sağ]]<ref>{{Web kaynağı|başlık=Merkez sağ dikiş tutar mı? – Ferda Koç|yayıncı=sendika63.org|soyadı=Koç|ad=Ferda|url=http://sendika63.org/2018/03/merkez-sag-dikis-tutar-mi-ferda-koc-478013/|tarih=2 Mart 2018|erişimtarihi=11 Temmuz 2019|dil=Türkçe|arşivurl=https://web.archive.org/web/20190711190918/http://sendika63.org/2018/03/merkez-sag-dikis-tutar-mi-ferda-koc-478013/|arşivtarihi=11 Temmuz 2019}}</ref>
+| ulusal           = [[Millet İttifakı]] {{Küçük|(2018-2023)}}
+| uluslararası     = 
+| renkler          = {{Color box|#EE151F|border=darkgray}} {{Color box|#FFFFFF|border=darkgray}} Kırmızı, beyaz
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|1|600|hex={{Siyasi parti renk|Demokrat Parti (2007)}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye2_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|1|922|hex={{Siyasi parti renk|Demokrat Parti (2007)}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye3_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|2|390|hex={{Siyasi parti renk|Demokrat Parti (2007)}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = [http://www.dp.org.tr dp.org.tr]
+| gençlik_kolu     = Demokrat Gençlik
+| sembol           = [[Kırat (sembol)|Kırat]]
+| ülke             = {{bayraksimge|Türkiye}} [[Türkiye]]
+| bayrak           = Demokrat Parti Bayrağı (Türkiye, 2007).svg.png
+| genel sekreteri  = Ertan Küçükay
+| lider1_başlık    = Parti sözcüsü
+| lider1_isim      = [[Haydar Altıntaş]]
+| kol1_başlık      = Kadın kolu
+| kol1             = [https://dp.org.tr/teskilat/kadin-kollari/ Demokrat Parti Kadın Kolları]
+| sandalye4_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye4        = {{Composition bar|55|20953|hex={{Siyasi parti renk|Demokrat Parti (2007)}}}}
+}}
+'''Demokrat Parti''', 23 Haziran 1983 tarihinde kurulan, 27 Mayıs 2007 tarihinde Demokrat Parti adını alan, [[Türkiye]]'de faaliyet gösteren siyasi partidir. Parti tüzüğüne göre resmî kısaltması "DP" şeklindedir. Simgesi [[Kırat (sembol)|kırat]]tır. [[Türkiye Büyük Millet Meclisi|TBMM]]'de 1 [[milletvekili]] ile temsil edilmektedir. Genel Başkanı [[Gültekin Uysal]]'dır. [[Yargıtay (Türkiye)|Yargıtay]] kayıtlarına göre Türkiye'de kayıtlı olan en eski kuruluşlu siyasi partidir.
+
+[[Doğru Yol Partisi]]nin 27 Mayıs 2007 tarihinde adını ve logosunu değiştirilmesiyle Demokrat Parti adı altında yeniden yapılanmasıyla ortaya çıkmıştır. 2009'da Demokrat Parti Genel Başkanı [[Hüsamettin Cindoruk]] ve [[Anavatan Partisi]] Genel Başkanı [[Salih Uzun]]'un çabalarıyla [[Anavatan Partisi]] Demokrat Parti'nin çatısı altına girmiştir.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/anavatan-tarih-oldu,1R8kDkYV6kKjeMOVwxFKAQ|başlık=Anavatan tarih oldu|erişimtarihi=22 Ocak 2024|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20240122123438/https://www.ntv.com.tr/turkiye/anavatan-tarih-oldu,1R8kDkYV6kKjeMOVwxFKAQ|arşivtarihi=22 Ocak 2024|ölüurl=hayır}}</ref> Parti Tüzüğü'nün 1. Maddesi şu şekildedir:<ref>{{Web kaynağı|url=https://www.dp.org.tr/parti-tuzugu|başlık=Parti Tüzüğü|erişimtarihi=12 Temmuz 2023|arşivtarihi=13 Mayıs 2023|arşivurl=https://web.archive.org/web/20230513215320/https://www.dp.org.tr/parti-tuzugu|ölüurl=hayır|çalışma=dp.org.tr}}</ref>
+
+{{Alıntı-yeni|"Demokrat Parti, Türkiye Cumhuriyeti'nin çok partili demokrasi yaşamına 1946 yılında öncülük ederek yüce değerler katmıştır. 20 Mayıs 1983 tarihinde kurulan Anavatan Partisi ve 23 Haziran 1983 tarihinde kurulan Doğru Yol Partisi'nin birleşme amacıyla ortaklaşa oluşturduğu siyasi bir partidir."}}
+
+== Tarihçe ==
+[[Dosya:DP-logo.png|küçükresim|Partinin bir dönem kullandığı logo illüstrasyonu|upright=0.82]]
+
+1983 yılında kurulmuş olan [[Doğru Yol Partisi]] 27 Mayıs 2007 tarihinde Büyük Anadolu Oteli'nde yaptığı 2. Olağanüstü Genel Kongresi'nde adını ve logosunu değiştirmesiyle Demokrat Partiyi oluşturmuştur. Bu isim değişikliği [[Mehmet Ağar]]'ın genel başkanlığında yapılmıştır. Değişikliğinin temel nedeni olarak [[Türkler|Türk]] [[Sağcılık|sağın]]ı tek çatı altında toplamak gösterilmiş; [[Anavatan Partisi]]'nin kendisini feshederek DP'ye katılması düşünülmüştür. Bu sayede [[merkez sağ]]da bir alternatif yaratılması planlanmıştır. Eş başkanlık sistemi uygulanmak istenmiş; fakat daha sonra bu birleşme Mehmet Ağar ile Anavatan Partisi Genel Başkanı [[Erkan Mumcu]] arasında çıkan anlaşmazlık sonucu gerçekleşememiştir. Bu durum dolayısıyla Anavatan Partisi seçime girememiş, DP seçime tek başına girmiştir. Merkez sağa yakın seçmenler üzerinde hayal kırıklığı yaratan bu durum sandığa yansımış; DP [[2007 Türkiye genel seçimleri]]nde %5.4 oranında oy almıştır. Genel Başkan Mehmet Ağar %9.56'da aldığı [[Doğru Yol Partisi|DYP]]'yi %4 puan aşağıya çekmesi üzerine görevinden istifa etmiştir. Eski [[ANAP]] genel başkanı [[Mesut Yılmaz]] [[Rize]]'den  bağımsız milletvekili seçildi 2009'daki  birleşmeden sonra Demokrat Parti'ye geçti [[Namık Kemal Zeybek]] genel başkan seçildiğinde partiden istifa etti.
+
+6 Ocak 2008 tarihinde yapılan DP 4. Olağanüstü Büyük Kongresi'nde parti genel başkanlığına 3. turda geçerli 800 oyun 529'unu alarak [[Süleyman Soylu]] seçilmiştir. Diğer aday [[Çağrı Erhan]] ise 271 oyda kalmıştır. 15 Kasım 2008'de gerçekleştirilen [[Nevval Sevindi]] ve [[Refaiddin Şahin]]'in de aday olduğu DP 9. Olağan Kongresi'nde 993 oy geçerli oyun 922'sini alan Soylu, genel başkanlığa yeniden seçilmiştir. Ancak Süleyman Soylu [[2009 Türkiye yerel seçimleri]]nde bir önceki genel seçimden daha az oranda oy alındığını belirterek kongreye gitmiştir. 16 Mayıs 2009 tarihinde yapılan 5. Olağanüstü Kongre'de [[Hüsamettin Cindoruk]], diğer adaylar [[Süleyman Soylu]] ve [[Mehmet Ali Bayar]]'ı geride bırakarak Demokrat Parti'de genel başkanlık koltuğuna oturmuştur. Ekim 2009'da, [[Anavatan Partisi]] ve Demokrat Parti, [[Hüsamettin Cindoruk]] ve [[Salih Uzun]]'un önderliklerinde birleşmiştir.
+
+[[2010 Türkiye anayasa değişikliği referandumu]]nda [[Hüsamettin Cindoruk]] liderliğindeki parti 'Hayır' oyu kullanacağını açıklarken, eski genel başkan [[Süleyman Soylu]] 'Evet' oyu vereceğini açıklamış ve partiden ihraç edilmiştir. ANAP-DYP birleşmesinden sonra değişim ve kurumsallaşma aşamasından geçen parti, İşçi Kolları komisyonu kurma, Engelli Çalıştayları düzenleme gibi hareketlerle Türkiye'de ilklere imza atmıştır. 2011'de gerçekleşecek olağan büyük kongre öncesi gerçekleştirilen [[Süleyman Demirel]]-[[Mesut Yılmaz]]-Hüsamettin Cindoruk görüşmesi gündeme damga vurdu. Görüşmeden sonra [[Tansu Çiller]]'in yeniden genel başkan olacağına ilişkin beklentiler artsa da, Tansu Çiller tabandan gelen taleplere karşılık vermedi.<ref>{{Web kaynağı|url = http://www.milliyet.com.tr/demirel-ile-mesut-yilmaz-ve-cindoruk-gorusmesinde-ciller-surprizi/siyaset/siyasetdetay/14.12.2010/1326312/default.htm|başlık = Demirel ile Mesut Yılmaz ve Cindoruk görüşmesinde "Çiller" sürprizi|tarih = 14 Aralık 2010|yayıncı = [[Milliyet (gazete)|Milliyet]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20161011190342/http://www.milliyet.com.tr/demirel-ile-mesut-yilmaz-ve-cindoruk-gorusmesinde-ciller-surprizi/siyaset/siyasetdetay/14.12.2010/1326312/default.htm|arşivtarihi = 11 Ekim 2016|ölüurl = hayır}}</ref>
+
+15 Ocak 2011 tarihinde yapılan Demokrat Parti 10. Olağan Büyük Kongresi'nde, [[Ahmet Özal]], [[Rifat Serdaroğlu]] ve [[Salih Uzun]]'un da aday olduğu kongrede genel başkanlığa [[Namık Kemal Zeybek]] seçilmiştir.<ref>{{Web kaynağı|url = https://www.cnnturk.com/2011/turkiye/01/15/kiratin.yeni.genel.baskani.zeybek/603346.0/index.html|başlık = 'Kırat'ın yeni genel başkanı Zeybek|tarih = 16 Ocak 2011|yayıncı = [[CNN Türk]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720194927/https://www.cnnturk.com/2011/turkiye/01/15/kiratin.yeni.genel.baskani.zeybek/603346.0/index.html|arşivtarihi = 20 Temmuz 2018|ölüurl =evet}}</ref> Parti, 2011'e kadar TBMM'de 1 sandalye ile temsil ediliyordu. 2007 seçimlerinde meclise giren DP milletvekili [[Mesut Yılmaz]], [[Namık Kemal Zeybek]]'in genel başkan seçilmesiyle partiden istifa etti. Nisan 2011'de [[Bağımsız Türkiye Partisi]] ile DP çatısı altında ittifak anlaşması yapılmış ve seçime birlikte girme kararı alınmıştır. 2011 seçimlerinden ''binde altı'' oyla ayrılan Demokrat Parti'de, Genel Başkan [[Namık Kemal Zeybek]], 6 Mayıs 2012 günü Genel Kongre yapılması kararı aldı. Kongreye az bir süre kala, genel başkan [[Namık Kemal Zeybek]], genel başkanlığa yeniden aday olmayacağını ancak partinin alt kademelerinde çalışmaya devam edeceğini açıkladı. Kongreden önce [[Nevzat Ercan]], [[Ufuk Söylemez]], [[Ergun Özdemir]], [[Osman Çilsal]] ve Fatih Sinan Yılmaz adaylıklarını açıkladı. Tüm adayların birinci ve ikinci turun ardından adaylıktan çekilmesiyle, Büyük Anadolu Oteli'nde gerçekleşen Demokrat Parti 8. Olağanüstü Büyük Kongresinin salt çoğunluk aranmayan üçüncü turunda [[Gültekin Uysal]], 444 delegenin oyunu alarak DP'nin yeni genel başkanı oldu.
+
+2012 yılının ikinci yarısında Demokrat Partili Bodrum Belediye Başkanı [[Mehmet Kocadon]], hakkındaki suçlamalar nedeniyle görevden alındı ve cezaevine girdi. Mehmet Kocadon 100 gün cezaevinde kaldıktan sonra aklanarak serbest bırakıldı ve belediye başkanlığı görevine iade edildi. Cezaevinden çıktıktan sonra Mehmet Kocadon'la görüşen Genel Başkan [[Gültekin Uysal]], Kocadon'un yeniden Demokrat Parti'den belediye başkan adayı olacağını açıklasa da Kocadon daha sonra partiden istifa ederek [[Cumhuriyet Halk Partisi]]ne geçti.
+
+Demokrat Parti, 2012 yılında TBMM Performans raporu yayınladı ve [[Türkiye Büyük Millet Meclisi|TBMM]] ile ilgili bütün izlenimlerini, kelime kelime kamuoyuna sundu.<ref>{{Web kaynağı|url = http://www.radikal.com.tr/turkiye/meclis-687-kez-pkk-dedi-1105437/|başlık = Meclis 687 kez PKK dedi|tarih = 26 Ekim 2012|yayıncı = [[Radikal (gazete)|Radikal]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720165720/http://www.radikal.com.tr/turkiye/meclis-687-kez-pkk-dedi-1105437/|arşivtarihi = 20 Temmuz 2018|ölüurl = hayır}}</ref>
+
+2013 yılında [[Milliyetçi Hareket Partisi|MHP]]'den ihraç edilen Fethiye Belediye Başkanı [[Behçet Saatcı]]<ref>{{Web kaynağı|url = http://www.haberler.com/fethiye-dp-de-behcet-saatci-sevinci-5324513-haberi/|başlık = 'Fethiye DP'de Behçet Saatcı Sevinci|tarih = 19 Kasım 2013|yayıncı = Haberler.com|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720225141/https://www.haberler.com/fethiye-dp-de-behcet-saatci-sevinci-5324513-haberi/|arşivtarihi = 20 Temmuz 2018|ölüurl = hayır}}</ref> ve AK Parti'den istifa eden Bursa'nın Karacabey ilçesi Belediye Başkanı Ergün Koç Demokrat Parti'ye katıldı.<ref>{{Web kaynağı|url = http://www.dp.org.tr/Default.aspx?islem=haberDetay&modul=5&id=4442#.Us8mcvQW2uM|başlık = Genel Başkan Gültekin Uysal, Bursa-Karacabey Belediye Başkanı Ergün Koç'un Demokrat Parti'ye katılım töreninde konuştu: Yolsuzluğa adı karışan bakanların dokunulmazlık zırhlarını kaldırın|tarih = 25 Aralık 2013|yayıncı = Demokrat Parti|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720165826/http://www.dp.org.tr/Default.aspx?islem=haberDetay&modul=5&id=4442#.Us8mcvQW2uM|arşivtarihi = 20 Temmuz 2018|ölüurl =evet}}</ref>
+
+2013 yılında, Demokrat Parti'nin Balgat'taki genel merkezine Ankara Büyükşehir Belediye Meclisi tarafından kültür tesisi niteliği verilmiştir. Bu kararla ticari amaçla kullanılamayacak olan genel merkez binası, maddi değerini kaybetmiştir. Demokrat Parti, bu olayların ardından çok sert açıklamalar yaparak "Türkiye'nin en eski siyasi partisi olan Demokrat Parti üzerinde oynanmak istenen oyunlar sonuç vermeyecektir" ifadelerini kullandı.<ref>{{Web kaynağı|url = http://www.milliyet.com.tr/tarihi-anap-binasi-kultur-tesisi-/gundem/detay/1807709/default.htm|başlık = Tarihi ANAP binası 'kültür tesisi' oluyor|tarih = 15 Aralık 2013|yayıncı = [[Milliyet (gazete)|Milliyet]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720165653/http://www.milliyet.com.tr/tarihi-anap-binasi-kultur-tesisi-/gundem/detay/1807709/default.htm|arşivtarihi = 20 Temmuz 2018|ölüurl = hayır}}</ref>
+
+Partinin 2 Şubat 2014'te yapılan 11. Olağan Kongresinde Gültekin Uysal 753 delegenin oyunu alarak ilk turda yeniden genel başkanlığa seçildi. Parti, [[2014 Türkiye yerel seçimleri|2014 Yerel Seçimlerinde]] [[Fethiye]], [[Haymana]] ve [[Eğirdir]] başta olmak üzere 7 ilçe, 7 belde belediyesi kazandı.
+
+[[2014 Türkiye cumhurbaşkanlığı seçimi|2014 Cumhurbaşkanlığı seçimlerinde]] [[Ekmeleddin İhsanoğlu]]'nu destekledi. İhsanoğlu'na jest olarak kendilerine ait olan Celâl Bayar Köşkü'nü çalışma ofisi olarak sunsalar da, Ekmeleddin İhsanoğlu tarafsız görünmek adına bu jesti kabul etmedi.
+
+2015 seçimlerinden önce parti yönetimi, DP Genel Merkezi'ne kültür tesisi niteliği verilmesi ve 'KIRAT' ambleminin kullanım hakkıyla ilgili hukuki girişimlerde bulundu. 2014'ün son ayında Anayasa Mahkemesi 'KIRAT' ambleminin Demokrat Parti tarafından kullanılmasına karar vererek, [[Doğru Yol Partisi (2007)|Doğru Yol Partisi]] ile [[Yeni Türkiye Partisi (2023)|Muhafazakâr Yükseliş Partisi]]'nin parti amblemlerinde kırat logosunun kullanılmasını yasakladı.<ref>{{Web kaynağı|url = https://www.sabah.com.tr/gundem/2014/12/24/kirati-artik-sadece-demokrat-parti-kullanacak|başlık = Kırat'ı artık sadece Demokrat Parti kullanacak|tarih = 24 Aralık 2014|yayıncı = [[Sabah (gazete)|Sabah]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720165655/https://www.sabah.com.tr/gundem/2014/12/24/kirati-artik-sadece-demokrat-parti-kullanacak|arşivtarihi = 20 Temmuz 2018|ölüurl =evet}}</ref>
+
+Mayıs 2015'te Ankara 8. İdare Mahkemesi, DP'nin genel merkez olarak kullandığı binanın "sosyal kültürel tesise" dönüştürülmesini öngören Büyükşehir Belediye Meclisi kararını iptal etti.<ref>{{Web kaynağı|url = http://www.hurriyet.com.tr/mahkeme-karariyla-genel-merkez-28984077|başlık = Mahkeme kararıyla 'Genel Merkez'|tarih = 14 Mayıs 2015|yayıncı = [[Hürriyet (gazete)|Hürriyet]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720194920/http://www.hurriyet.com.tr/mahkeme-karariyla-genel-merkez-28984077|arşivtarihi = 20 Temmuz 2018|ölüurl = hayır}}</ref>
+
+2015 seçimlerine tek başına katılma kararı alan parti, toplam 75.217 oy aldı. 1 Kasım 2015'te tekrarlanan genel seçimlerde 69.319 oyda kaldı.
+
+8 Mart 2016 tarihli [[Milat (gazete)|Milat Gazetesi]]'nde, Demokrat Parti'nin 12 milyon liralık mobilya alımı yaptığı ve yapılan alımın bedelinin [[Erciyes Anadolu Holding|Boydak Holding]] tarafından karşılandığı <ref>{{Web kaynağı|url = http://www.milatgazetesi.com/boydak-holding-ten-dp-ye-12-milyonluk-kiyak-haber-79632|başlık = Boydak Holding'den DP'ye 12 milyonluk 'kıyak'!|tarih = 8 Mart 2016|yayıncı = [[Milat (gazete)|Milat]]|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20170916182625/http://www.milatgazetesi.com/boydak-holding-ten-dp-ye-12-milyonluk-kiyak-haber-79632|arşivtarihi = 16 Eylül 2017|ölüurl =evet}}</ref> iddia edildi. Demokrat Parti, haberleri sert bir dilde yalanlayarak gazete yazarı Enes Babacan hakkında suç duyurusunda bulundu.<ref>{{Web kaynağı|url=http://www.dp.org.tr/Default.aspx?islem=haberDetay&modul=5&id=47778#.Vz-qh5GLTIV|başlık=Milat gazetesinde Enes Babacan imzalı habere partimiz tarafından yayınlanan tekzip metnidir.|erişimtarihi=20 Temmuz 2018|arşivtarihi=20 Temmuz 2018|arşivurl=https://web.archive.org/web/20180720195056/http://www.dp.org.tr/Default.aspx?islem=haberDetay&modul=5&id=47778#.Vz-qh5GLTIV|tarih=9 Mart 2016|ölüurl=evet|yayıncı=Demokrat Parti}}</ref>
+
+2016 yılında MHP'de genel başkan ve muhalifler arasında yaşanan krizden sonra [[Meral Akşener]]'in Demokrat Parti'ye geçerek genel başkanlığı devralacağı iddia edildi.<ref>{{Web kaynağı|url=http://www.milliyet.com.tr/5-parti-yolda-siyaset-2271503/|başlık=Arşivlenmiş kopya|erişimtarihi=3 Temmuz 2016|arşivurl=https://web.archive.org/web/20160702155917/http://www.milliyet.com.tr/5-parti-yolda-siyaset-2271503/|arşivtarihi=2 Temmuz 2016|ölüurl=hayır}}</ref> DP'nin Meral Akşener'in "tavşan partisi" olacağı iddiaları üzerine bir açıklama yapan Gültekin Uysal, "Demokrat Parti satılık değildir" diyerek bu tür haberleri yalanladı.<ref>{{Web kaynağı|url = http://www.dp.org.tr/Default.aspx?islem=haberDetay&modul=5&id=51779#.V3lpA7iLTIU|başlık = Genel Başkanımız, Bursa’da düzenlenen basın toplantısında gündemi değerlendirdi|tarih = 2 Temmuz 2016|yayıncı = Demokrat Parti|erişimtarihi = 20 Temmuz 2018|arşivurl = https://web.archive.org/web/20180720194943/http://www.dp.org.tr/Default.aspx?islem=haberDetay&modul=5&id=51779#.V3lpA7iLTIU|arşivtarihi = 20 Temmuz 2018|ölüurl =evet}}</ref>
+
+[[2018 Türkiye genel seçimleri|2018 yılında yapılan genel seçimlerde]] [[Cumhuriyet Halk Partisi]], [[İYİ Parti]] ve [[Saadet Partisi]] ile birlikte [[Millet İttifakı]] çatısı altında giren parti, genel başkan Gültekin Uysal'ın İYİ Parti'den Afyonkarahisar milletvekili seçilmesiyle mecliste temsil edilme hakkı kazandı. 18 Aralık 2020 tarihinde [[Milliyetçi Hareket Partisi|MHP]]'den ihraç edilen Ordu milletvekili [[Cemal Enginyurt]]'un katılımıyla temsili iki kişi oldu.<ref>{{Web kaynağı|url=https://tr.sputniknews.com/20201218/mhpden-ihrac-edilen-cemal-enginyurt-demokrat-partiye-gecti-1043428713.html|başlık=MHP'den ihraç edilen Cemal Enginyurt, Demokrat Parti'ye geçti|erişimtarihi=8 Haziran 2022|tarih=18 Aralık 2020|dil=Türkçe|çalışma=Sputnik Türkiye|ad=Sputnik|soyadı=Türkiye|arşivurl=https://web.archive.org/web/20220608142609/https://tr.sputniknews.com/20201218/mhpden-ihrac-edilen-cemal-enginyurt-demokrat-partiye-gecti-1043428713.html|arşivtarihi=8 Haziran 2022|ölüurl=hayır}}</ref>
+
+5 Mart 2022 tarihinde, partinin 14. olağan kongresi yapıldı.<ref>{{Web kaynağı|url = https://www.milliyet.com.tr/siyaset/dpnin-14uncu-olagan-kongresi-yarin-yapiliyor-6712729|başlık = DP’nin 14’üncü olağan kongresi yarın yapılıyor|erişimtarihi = 5 Mart 2022|dil = Türkçe|çalışma = Milliyet|arşivurl = https://web.archive.org/web/20220305130600/https://www.milliyet.com.tr/siyaset/dpnin-14uncu-olagan-kongresi-yarin-yapiliyor-6712729|arşivtarihi = 5 Mart 2022}}</ref> Gültekin Uysal, tekrar genel başkan seçildi.<ref>{{Web kaynağı|url = https://www.milliyet.com.tr/siyaset/gultekin-uysal-yeniden-dp-genel-baskani-secildi-6713422|başlık = Gültekin Uysal, yeniden DP genel başkanı seçildi|erişimtarihi =6 Mart 2022|dil =Türkçe|çalışma = Milliyet|arşivurl = https://web.archive.org/web/20220306143516/https://www.milliyet.com.tr/siyaset/gultekin-uysal-yeniden-dp-genel-baskani-secildi-6713422|arşivtarihi = 6 Mart 2022}}</ref>
+
+Demokrat Parti, [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] [[Cumhuriyet Halk Partisi]] listelerinden katılma kararı aldı.<ref>{{Web kaynağı|url=https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|başlık=Millet İttifakı’nın protokol değişikliği YSK’ye sunuldu|erişimtarihi=11 Nisan 2023|arşivtarihi=10 Nisan 2023|arşivurl=https://web.archive.org/web/20230410001742/https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|tarih=7 Nisan 2023|ölüurl=hayır}}</ref> CHP listelerinden DP için 3 kişilik yer ayrıldı.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c84mvnjny2wo|başlık=CHP'nin aday listesinde Millet İttifakı'ndaki diğer 5 partiden 76 aday da yer aldı.|erişimtarihi=11 Nisan 2023|arşivtarihi=10 Nisan 2023|arşivurl=https://web.archive.org/web/20230410072142/https://www.bbc.com/turkce/articles/c84mvnjny2wo|tarih=9 Nisan 2023|ölüurl=hayır}}</ref> Seçimler sonucunda üçü de milletvekili oldu.<ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/middleeast/turkey/2605202310|başlık=DEVA Partisi grup kurabilmek için CHP’den 5 vekil daha isteyebilir|erişimtarihi=31 Mayıs 2023|arşivtarihi=26 Mayıs 2023|arşivurl=https://web.archive.org/web/20230526094244/https://www.rudaw.net/turkish/middleeast/turkey/2605202310|çalışma=rudaw.net}}</ref>
+
+Demokrat Parti'de 17 Kasım 2024'te 15. olağan kongre yaşanmıştır, kongrede oy kullanan 778 delegeden 765'inin oyunu alarak Gültekin Uysal yeniden genel başkanlığa seçildi.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/demokrat-partide-buyuk-kongre-tamamlandi-gultekin-uysal-yeniden-genel-baskan-secildi,3RrhmHauMkSvvFodN-u6Dw|başlık=Demokrat Parti'de Büyük Kongre tamamlandı: Gültekin Uysal yeniden genel başkan seçildi|erişimtarihi=21 Kasım 2024|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20241118012105/https://www.ntv.com.tr/turkiye/demokrat-partide-buyuk-kongre-tamamlandi-gultekin-uysal-yeniden-genel-baskan-secildi,3RrhmHauMkSvvFodN-u6Dw|arşivtarihi=18 Kasım 2024|ölüurl=hayır}}</ref> Genel başkanlık yarışında aday olabilmek için imza toplayan [[İlay Aksoy]]’un adaylığı, bazı delegelerin imzalarını geri çekmesi ve bazı imzaların geçersiz sayılması gerekçesiyle reddedildi. Bu durum salonda gerginliğe yol açtı. Aksoy, karara sert tepki göstererek, “''Bugün kendi partinize darbe yaptınız. Bu kadar insanın iradesini hiçe saydınız''” ifadelerini kullandı.<ref>{{Web kaynağı|url=https://www.haberler.com/politika/demokrat-partisi-kongresinde-buyuk-gerginlik-18055813-haberi/|başlık=Demokrat Parti kongresinde büyük gerginlik|erişimtarihi=21 Kasım 2024|tarih=17 Kasım 2024|dil=Türkçe|çalışma=Haberler|arşivurl=https://web.archive.org/web/20241118020617/https://www.haberler.com/politika/demokrat-partisi-kongresinde-buyuk-gerginlik-18055813-haberi/|arşivtarihi=18 Kasım 2024|ölüurl=hayır}}</ref> 20 Kasım 2024'te İlay Aksoy kongrenin iptali için dava açtığını duyurdu.<ref>{{Web kaynağı|url=https://www.aydinlik.com.tr/haber/demokrat-partide-kongre-krizi-iptal-icin-dava-acildi-ilay-aksoy-acikladi-demokrat-parti-kongresi-iptal-mi-edilecek-496076|başlık=Demokrat Parti'de kongre krizi: İptali için dava açıldı|erişimtarihi=21 Kasım 2024|tarih=20 Kasım 2024|dil=Türkçe|çalışma=Aydınlık|soyadı=Aydınlık|arşivurl=https://web.archive.org/web/20241121010300/https://www.aydinlik.com.tr/haber/demokrat-partide-kongre-krizi-iptal-icin-dava-acildi-ilay-aksoy-acikladi-demokrat-parti-kongresi-iptal-mi-edilecek-496076|arşivtarihi=21 Kasım 2024|ölüurl=hayır}}</ref>
+
+Kongre'nin ardından, partinin "merkez sağın yeni toparlanma adresi" olma hedefinin başarısız olduğu ve kongrenin 2025'in Mart yerine aceleyle 2024'ün Kasım ayında yapıldığı yönünde eleştirilerde bulunan İzmir Milletvekili Salih Uzun ve İstanbul Milletvekili Cemal Enginyurt, bu sebeplerle partilerinden istifa etti ve DP'nin parlamentodaki sandalye sayısı 1'e düştü.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/cj9n4v3gmdmo|başlık=Cemal Enginyurt ve Salih Uzun Demokrat Parti'den istifa etti|erişimtarihi=21 Kasım 2024|tarih=18 Kasım 2024|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20241119225428/https://www.bbc.com/turkce/articles/cj9n4v3gmdmo|arşivtarihi=19 Kasım 2024|ölüurl=hayır}}</ref>
+
+== Gençlik Kolları ==
+Demokrat Parti Gençlik Kolları'nın marka ismi Demokrat Gençlik'tir. Partinin yeniden yapılanması kapsamında Demokrat Parti Gençlik Kolları'nın ardılı olarak 3 Ocak 2020 tarihinde [[Berkay Güloğlu]] tarafından kuruldu.<ref>{{Web kaynağı|url=https://www.yeniasya.com.tr/gundem/demokrat-parti-genclerin-yuvasidir_509682|başlık=Arşivlenmiş kopya|erişimtarihi=24 Şubat 2020|arşivurl=https://web.archive.org/web/20200224200924/https://www.yeniasya.com.tr/gundem/demokrat-parti-genclerin-yuvasidir_509682|arşivtarihi=24 Şubat 2020|ölüurl=evet}}</ref> Kuruluşunda Demokrat Parti'nin ve eski Gençlik Kolları'nın benimsediği hürriyetçi demokrasi ilkesini benimsedi.<ref>{{Web kaynağı|url=https://www.yeniasya.com.tr/gundem/demokrat-parti-genclerin-yuvasidir_509682|başlık=Demokrat Parti gençlerin yuvasıdır|erişimtarihi=19 Ekim 2022|çalışma=YENİ ASYA - Gerçekten haber verir|arşivurl=https://web.archive.org/web/20200224200924/https://www.yeniasya.com.tr/gundem/demokrat-parti-genclerin-yuvasidir_509682|arşivtarihi=24 Şubat 2020|ölüurl=hayır}}</ref> Zaman içerisinde görev değişiklikleriyle ve partinin teşkilatlanma ve yeniden yapılanma sürecinin hızlanmasıyla Demokrat Gençlik'te de bir yeniden yapılanma ihtiyacı ortaya çıktı ve bunun sonucunda başkanlık görevini 13 Temmuz 2022 tarihinde [[Arda Yılmaz]] devralarak yeni genel idare kurulu ve başkanlık divanını mevcut üyelerle yeniden şekillendirdi.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/demokrat-partide-yeni-atamalar-kadin-ve-genclik-kollari-baskanlari-degisti-haber-1573159|başlık=Demokrat Parti’de yeni atamalar: Kadın ve gençlik kolları başkanları değişti|erişimtarihi=19 Ekim 2022|tarih=13 Temmuz 2022|dil=tr-TR|çalışma =gazeteduvar.com.tr|ad=Gazete|soyadı=Duvar|arşivurl=https://web.archive.org/web/20221019072842/https://www.gazeteduvar.com.tr/demokrat-partide-yeni-atamalar-kadin-ve-genclik-kollari-baskanlari-degisti-haber-1573159|arşivtarihi=19 Ekim 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.dp.org.tr/teskilat-gorevlisi/arda-yilmaz|başlık=Arda Yılmaz {{!}} Demokrat Parti|erişimtarihi=19 Ekim 2022|çalışma=www.dp.org.tr|arşivurl=https://web.archive.org/web/20221019072840/https://www.dp.org.tr/teskilat-gorevlisi/arda-yilmaz|arşivtarihi=19 Ekim 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=http://www.ankaramasasi.com/haber/1646081/demokrat-parti-genclik-kollari-genel-baskanligina-atama|başlık=Demokrat Parti Gençlik Kolları Genel Başkanlığına atama!|erişimtarihi=19 Ekim 2022|dil=Türkçe|çalışma=Ankara Masası|arşivurl=https://web.archive.org/web/20221019073005/https://www.ankaramasasi.com/haber/1646081/demokrat-parti-genclik-kollari-genel-baskanligina-atama|arşivtarihi=19 Ekim 2022|ölüurl=hayır}}</ref> 07 Ekim 2022 tarihinde açıklanan yeni başkanlık divanında standart yapılanmadan farklı olarak, göç ve kalkınma politikalarından sorumlu genel başkan yardımcılığı, sosyal politikalar ve kadın haklarından sorumlu genel başkan yardımcılığı, tabiatı koruma ve hayvan haklarından sorumlu genel başkan yardımcılığı, kültür ve spordan sorumlu genel başkan yardımcılığı ve üniversite ve gençlik politikalarından sorumlu genel başkan yardımcılığı gibi yeni pozisyonlara da yer verildi.<ref>{{Web kaynağı|url=http://www.ankaramasasi.com/haber/1822344/demokrat-parti-genclik-kollari-baskanliginda-gorev-dagilimi|başlık=Demokrat Parti Gençlik Kolları Başkanlığında görev dağılımı|erişimtarihi=19 Ekim 2022|dil=Türkçe|çalışma=Ankara Masası|arşivurl=https://web.archive.org/web/20221022062942/https://www.ankaramasasi.com/haber/1822344/demokrat-parti-genclik-kollari-baskanliginda-gorev-dagilimi|arşivtarihi=22 Ekim 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://twitter.com/gencdemokratgm/status/1578098769886748672/photo/1|başlık=Gençlere nefes, Demokrat Gençlik’ten gelecek.|erişimtarihi=19 Ekim 2022|arşivtarihi=3 Aralık 2022|arşivurl=https://web.archive.org/web/20221203013104/https://twitter.com/gencdemokratgm/status/1578098769886748672/photo/1|dil=Türkçe|çalışma=Twitter}}</ref>
+
+=== Genel başkanları ===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Mehmet Aghar in 2023.jpg|75px]]
+! scope="row" align="left" | [[Mehmet Ağar]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1951|10|22}}}}
+| 27 Mayıs 2007
+| 6 Ocak 2008
+| {{ayd|2007|5|27|2008|1|6}}
+|-
+| 2
+| [[Dosya:Süleyman Soylu in Tehran 01.jpg|75px]]
+! scope="row" align="left" | [[Süleyman Soylu]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1969|11|21}}}}
+| 6 Ocak 2008
+| 16 Mayıs 2009
+| {{ayd|2008|1|6|2009|5|16}}
+|-
+| 3
+| 
+! scope="row" align="left" | [[Hüsamettin Cindoruk]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1933|6|8}}}}
+| 16 Mayıs 2009
+| 15 Ocak 2011
+| {{ayd|2009|5|16|2011|1|15}}
+|-
+| 4
+| 
+! scope="row" align="left" | [[Namık Kemal Zeybek]]<br />{{Küçük|{{Doğum yılı ve yaşı|1944}}}}
+| 15 Ocak 2011
+| 6 Mayıs 2012
+| {{ayd|2011|1|15|2012|5|6}}
+|-
+| 5
+| [[Dosya:Gültekin Uysal 2023.png|75px]]
+! scope="row" align="left" | [[Gültekin Uysal]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1976|4|3}}}}
+| 6 Mayıs 2012
+| ''Görevde''
+| {{ayd|2012|5|6|sep=and|duration=on}}
+|}
+
+== Milletvekilleri ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi 
+|-
+|'''1'''
+|[[Haydar Altıntaş]]
+|[[İzmir milletvekilleri listesi|İzmir (I)]]
+|Genel Başkan Yardımcısı<br>Parti Sözcüsü 
+|-
+|-
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |'''Kaynak:'''<ref>{{Web kaynağı|url = https://www5.tbmm.gov.tr//develop/owa/milletvekillerimiz_sd.sonuc?p_donem=27&adi=&soyadi=&il=&parti=DP&kelime=|başlık = TÜRKİYE BÜYÜK MİLLET MECLİSİ|website = www5.tbmm.gov.tr|arşivengelli = evet|erişimtarihi = 31 Ocak 2023|arşivurl = https://web.archive.org/web/20230131013326/https://www5.tbmm.gov.tr//develop/owa/milletvekillerimiz_sd.sonuc?p_donem=27&adi=&soyadi=&il=&parti=DP&kelime=|arşivtarihi = 31 Ocak 2023|ölüurl = hayır}}</ref>
+|-
+|}
+{{gizli içerik-son}}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+! #
+!İsim
+!İl
+!İlçe 
+!Belde
+|-
+|'''1''' 
+|Mesut Avcıoğlu 
+|[[Antalya (il)|Antalya]] 
+|[[Kumluca]] 
+|
+|-
+|'''2''' 
+|Engin Deniz 
+|[[Erzincan (il)|Erzincan]] 
+|[[Üzümlü]] 
+|[[Altınbaşak, Üzümlü|Altınbaşak]]
+|-
+|'''3''' 
+|İsmail Arslan 
+|[[Yalova (il)|Yalova]] 
+|[[Çiftlikköy]] 
+|[[Taşköprü, Çiftlikköy|Taşköprü]]  
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |'''Kaynak:'''<ref>{{Web kaynağı|url = https://www.dp.org.tr/teskilat/belediye-baskanlari|başlık = Belediye Başkanları &#124; Demokrat Parti|website = www.dp.org.tr|arşivurl = https://web.archive.org/web/20210917201417/https://www.dp.org.tr/teskilat/belediye-baskanlari|arşivtarihi = 17 Eylül 2021}}</ref>
+|-
+|}
+{{gizli içerik-son}}
+
+== Demokrat Parti ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=3| Oy
+! colspan=2| Sandalye
+! rowspan=2| Meclis
+! rowspan=2| Sıra
+|-
+! #
+! %
+! ± [[Yüzde noktası|Y]]
+! #
+! ±
+|-
+| [[2007 Türkiye genel seçimleri|2007]]|| [[Dosya:Mehmet_Aghar_in_2023.jpg|orta|çerçevesiz|100x100pik]]
+----[[Mehmet Ağar]]
+|| 1,898,873 || {{Yüzde çubuğu|5.41|%5,41|EE151F}}|| {{azalış}} 4,13 || {{Composition bar|0|550|hex=#EE151F}}|| {{sabit}}|| rowspan="4" {{N/A|Baraj Altında Kaldı}} || 4. 
+|-
+| [[2011 Türkiye genel seçimleri|2011]]|| [[Namık Kemal Zeybek]]|| 279,480 || {{Yüzde çubuğu|0.65|%0,65|EE151F}}|| {{azalış}} 4,77 || {{Composition bar|0|550|hex=#EE151F}}|| {{sabit}}|| 7.
+|-
+| [[Haziran 2015 Türkiye genel seçimleri|2015 Haziran]]|| rowspan="4" | [[Dosya:Gültekin Uysal 2023.png|orta|çerçevesiz|100x100pik]]
+----[[Gültekin Uysal]]
+|| 75,217 || {{Yüzde çubuğu|0.17|%0,17|EE151F}}|| {{azalış}} 0,49 || {{Composition bar|0|550|hex=#EE151F}}|| {{sabit}}|| 9.
+|-
+| [[Kasım 2015 Türkiye genel seçimleri|2015 Kasım]]|| 69,319 || {{Yüzde çubuğu|0.14|%0,14|EE151F}} || {{azalış}} 0,02 || {{Composition bar|0|550|hex=#EE151F}} || {{sabit}} || 10.
+|-
+| [[2018 Türkiye genel seçimleri|2018]]|| — 
+|—
+|—
+|{{Composition bar|1|600|hex={{Siyasi parti renk|Demokrat Parti (2007)}}}}<ref group="Not">Seçimlere İYİ Parti listelerinden katıldı. Gültekin Uysal milletvekili seçildi.</ref>
+|{{Artış}}1|| rowspan="2" {{hayır2|Muhalefet}} || rowspan="2" | — 
+|-
+| [[2018 Türkiye genel seçimleri|2023]] 
+|—
+|—
+|—
+|{{Composition bar|3|600|hex={{Siyasi parti renk|Demokrat Parti (2007)}}}}<ref group="Not">Seçimlere CHP listelerinden 3 adayla katılmıştır.</ref>
+|{{Artış}}2
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=3| İl Genel Meclisi +<br> BB İlçe Belediye Meclisi
+! colspan=3| Büyükşehir Belediye
+! colspan=3| Belediye
+! colspan=3| Belediye Meclisi
+|-
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+|-
+| [[2009 Türkiye yerel seçimleri|2009]]
+| [[Süleyman Soylu]]
+| 1.536.847 || {{Yüzde çubuğu|3.84|%3,84|EE151F}}|| {{Composition bar|148|3281|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 179.350 || {{Yüzde çubuğu|0.99|%0,99|FF3333}} || {{Composition bar|0|16|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 1.164.858 || {{Yüzde çubuğu|3.62|%3,62|FF3333}} || {{Composition bar|142|2903|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 1.181.074 || {{Yüzde çubuğu|3.68|%3,68|FF3333}} || {{Composition bar|1843|32392|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+|-
+| [[2014 Türkiye yerel seçimleri|2014]]
+| rowspan="3" | [[Gültekin Uysal]]
+| 325.432 || {{Yüzde çubuğu|0.73|%0,73|FF3333}} || {{Composition bar|164|21749|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 73.530 || {{Yüzde çubuğu|0.21|%0,21|FF3333}} || {{Composition bar|0|30|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 311.947 || {{Yüzde çubuğu|0.75|%0,75|FF3333}} || {{Composition bar|14|1351|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 287.209 || {{Yüzde çubuğu|0.69|%0,69|FF3333}} || {{Composition bar|164|20498|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+|-
+| [[2019 Türkiye yerel seçimleri|2019]]
+| 411.190 || {{Yüzde çubuğu|0.89|%0,89|FF3333}} || {{Composition bar|136|22017|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 243.250 || {{Yüzde çubuğu|0.89|%0,89|FF3333}} || {{Composition bar|0|30|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 415.213 || {{Yüzde çubuğu|0.96|%0,96|FF3333}} || {{Composition bar|8|1355|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 378.093 || {{Yüzde çubuğu|0.88|%0,88|FF3333}} || {{Composition bar|135|20745|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+|-
+|[[2024 Türkiye yerel seçimleri|2024]]
+| 153.642 || {{Yüzde çubuğu|0.34|%0,34|FF3333}} || {{Composition bar|55|22325|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 60.349  || {{Yüzde çubuğu|0.17|%0,17|FF3333}} || {{Composition bar|0|30|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 163.585 || {{Yüzde çubuğu|0.38|%0,38|FF3333}} || {{Composition bar|5|1356|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+| 145.134 || {{Yüzde çubuğu|0.34|%0,34|FF3333}} || {{Composition bar|55|20953|{{Siyasi parti renk|Demokrat Parti (2007)}}}}
+|}
+
+== Notlar ==
+<references group="Not"/>
+
+== Kaynakça ==
+{{Kaynakça}}
+{{Türkiye'deki siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Demokrat Parti (2007)| ]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:2007'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:2007'de kurulan siyasi partiler]]
+[[Kategori:Millet İttifakı]]

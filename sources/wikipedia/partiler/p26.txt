@@ -1,0 +1,94 @@
+{{Diğer anlamı|Millet Partisi}}{{Siyasi parti bilgi kutusu
+| isim = Millet Partisi (1962)
+| kısaltma = MP
+| amblem = Millet Partisi (1962) Logo.png
+| colorcode = {{Siyasi parti renk|Millet Partisi (1962)}}
+| genel başkanı = [[Osman Bölükbaşı]] (1962-1972)<br>[[Cemal Tural]] (1972-1975)<br>[[Celal Kargılı]] (1975-1981)
+| genel sekreteri =
+| kurucusu = [[Osman Bölükbaşı]]
+| slogan =
+| kuruluş = 13 Haziran 1962
+| kapanış = 16 Ekim 1981
+| öncülü = [[Cumhuriyetçi Köylü Millet Partisi]]
+| ardılı =  
+| ideoloji = [[Muhafazakârlık]]<br />[[Türk milliyetçiliği]]
+| pozisyon = [[Sağcılık|Sağ]]
+}}
+
+'''Millet Partisi''' ('''MP'''), 1962-1981 arasında [[Türkiye]]'de faaliyet göstermiş siyasal parti.
+
+==Tarihçe==
+[[1961 Türkiye genel seçimleri|1961 genel seçimleri]]nden sonra [[Cumhuriyetçi Köylü Millet Partisi]] içinde (CKMP) [[İsmet İnönü]]'nün kuracağı koalisyon hükûmetine katılıp katılınmaması konusunda anlaşmazlık çıktı. CKMP'nin koalisyonlara katılmasına karşı çıkarak parti genel başkanlığından ve partiden istifa eden [[Osman Bölükbaşı]]'yla bir grup milletvekili ve senatör 13 Haziran 1962'de Millet Partisi'ni kurdular.<ref>"[http://www.ismetinonu.org.tr/tarihte-bugun-28-haziran/ Cumhuriyetçi Köylü Millet Partisi (CKMP)] {{Webarşiv|url=https://web.archive.org/web/20210702102234/https://www.ismetinonu.org.tr/tarihte-bugun-28-haziran/ |tarih=2 Temmuz 2021 }}", ismetinonu.org.tr</ref> Osman Bölükbaşı partinin genel başkanlığına seçildi. Bundan sonra Osman Bölükbaşı'nın saygınlık ve etkinliği partinin başarısıyla özdeşleşti. Millet Partisi [[1965 Türkiye genel seçimleri|1965 genel seçimlerinde]] %6,16 oy oranıyla 31 milletvekilliği kazanarak üçüncü parti oldu. [[1969 Türkiye genel seçimleri|1969 genel seçimlerinde]] ise %3,22 oyla ancak 6 milletvekilliği kazanabildi.
+
+Osman Bölükbaşı 1972'de genel başkanlık ve aktif siyasetten çekilince Millet Partisi'nin gücü iyice azaldı. Partiyi canlandırmak için aynı yıl eski genelkurmay başkanlarından [[Cemal Tural]] genel başkanlığa getirildi. MP, Cemal Tural'ın genel başkanlığında girilen [[1973 Türkiye genel seçimleri|1973 genel seçimlerinde]] hiç milletvekilliği kazanamadı. 1975'teki genel kongrede [[Celal Kargılı]]'nın genel başkanlığa seçilmesi de partiye canlılık getirmedi. Parti, 12 Eylül Darbesi'nden sonra diğer siyasi partilerle birlikte 1981'de kapatıldı.<ref>"[http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf Cumhuriyet Döneminde Kurulan ve Kapanan Siyasi Partiler] {{Webarşiv|url=https://web.archive.org/web/20180127233824/http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf |tarih=27 Ocak 2018 }}", tesav.org.tr</ref>
+
+== Millet Partisi (1962) ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan="10" | [[Türkiye Büyük Millet Meclisi]]
+|-
+! Seçim
+! Genel Başkan
+! Oy
+! Oran
+! Sandalye
+!±
+!Meclis
+!Sıra
+!Kurulan Hükûmetler
+!Harita
+|-
+| [[1965 Türkiye genel seçimleri|1965]] || rowspan="2"| [[Dosya:Osman Bölükbaşı (cropped).jpg|orta|çerçevesiz|100x100pik]]<hr>[[Osman Bölükbaşı]] || 582.704 || %6,26 || {{Composition bar|31|450|hex={{Siyasi parti renk|Millet Partisi (1962)}}}}
+|—
+|{{Hayır2|Muhalefet}}
+|3.
+|[[29. Türkiye Hükûmeti]]<br>{{Küçük|(Koalisyon)}}
+|[[Dosya:Mp_65.png|çerçevesiz]]
+|-
+| [[1969 Türkiye genel seçimleri|1969]] || 293.849 || %3,23 || {{Composition bar|6|450|hex={{Siyasi parti renk|Millet Partisi (1962)}}}}
+|{{Azalış}}25
+|{{Hayır2|Muhalefet}}
+|4.
+|—
+|[[Dosya:1969_seçimleri_mp.png|çerçevesiz]]
+|-
+| [[1973 Türkiye genel seçimleri|1973]] || [[Dosya:Ahmet Cemal Tural.jpg|orta|çerçevesiz|100x100pik]]<hr>[[Cemal Tural]] || 62.377 || %0,6 || {{Composition bar|0|450|hex={{Siyasi parti renk|Millet Partisi (1962)}}}}
+|{{Azalış}} 6
+|—
+|—
+|—
+|Hiçbir ilde 1. olamadı
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=2| İl Genel Meclisi
+! rowspan=2| Belediye
+! rowspan="2" |Harita
+|-
+! Oy
+! %
+|-
+| [[1963 Türkiye yerel seçimleri|1963]] || rowspan="2"|  [[Dosya:Osman Bölükbaşı (cropped).jpg|orta|çerçevesiz|100x100pik]]<hr>[[Osman Bölükbaşı]] || 295.523 || %3,09 || 6
+| rowspan="3" |Hiçbir ilde 1. olamadı
+|-
+| [[1968 Türkiye yerel seçimleri|1968]] || 318.804 || %3,50 || 12
+|-
+| [[1973 Türkiye yerel seçimleri|1973]] || [[Dosya:Ahmet Cemal Tural.jpg|orta|çerçevesiz|100x100pik]]<hr>[[Cemal Tural]] || 8,967 || %0,09 || 0
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+{{Türkiye'deki eski siyasi partiler}}
+{{Türk milliyetçiliği}}
+
+[[Kategori:1981'de kapatılan siyasi partiler]]
+[[Kategori:1981'de Türkiye'de feshedilmiş oluşumlar]]
+[[Kategori:Türkiye'deki milliyetçi partiler]]
+[[Kategori:Türkiye'deki muhafazakâr partiler]]
+[[Kategori:Türkiye'de kapatılan siyasi partiler]]
+[[Kategori:1962'de Türkiye'de kurulan oluşumlar]]

@@ -12,10 +12,12 @@ Her iki değerlendirmenin ortak sonucu şudur: Yeni görsel özelliklerden önce
 - [ ] Doğrulanan 1950 öncesi veriyi kaynak projeye (hamiKumbasae/turkiye-secim-haritasi) katkı olarak önermek.
 
 ## 2. Analiz özellikleri
-- [ ] İki seçimi yan yana karşılaştırma görünümü.
+- [x] İki seçimi yan yana karşılaştırma görünümü (2.0.0).
 - [x] Parti zaman çizgisi: aynı türdeki seçimlerde ülke geneli oy oranı (1.3.0). Öncül/ardıl partileri birleştirme ve kazanılan il sayısı henüz yok.
-- [ ] Partilerin kuruluş, kapanış ve birleşmelerini zaman çizelgesinde göstermek.
-- [ ] Seçim sonuçlarını nüfus, kentleşme ve göç gibi demografik göstergelerle karşılaştırmak (TÜİK verisi gerekir).
+- [x] Partilerin kuruluş, kapanış ve birleşmelerini zaman çizelgesinde göstermek (2.0.0). Öncül/ardıl bilgisi Vikipedi bilgi kutularına dayanır; birincil kaynakla karşılaştırılmadı.
+- [x] Seçim sonuçlarını nüfus, yoğunluk, nüfus artışı, gelir ve yaşam beklentisiyle karşılaştırmak (2.0.0).
+- [ ] İl bazında kentleşme oranı ve iç göç (TÜİK) verisi; ilçe sınırları değişen illerde dönemin nüfusunu birebir kurmak.
+- [ ] Meclis grafiğinde dönem içi değişiklikler (parti değiştirme, ara seçim) ve Cumhuriyet Senatosu.
 - [ ] İlçe düzeyi (kaynak veri setinde 1961 sonrası mevcut).
 
 ## 3. Arayüz ve erişilebilirlik
@@ -23,4 +25,4 @@ Her iki değerlendirmenin ortak sonucu şudur: Yeni görsel özelliklerden önce
 - [ ] Haritanın klavyeyle gezilebilmesi. Şimdilik birim tablosu, il arama (`/`) ve klavye kısayolları bu işlevi kısmen karşılıyor.
 
 ## 4. Uzun vadeli kapsam
-Depo adı (`TurkSiyasiTarihi`), seçimlerin ötesinde daha geniş bir siyasi tarih platformuna alan bırakıyor. Olası modüller: parlamentolar ve vekil biyografileri, hükûmetler, anayasa değişiklikleri, siyasi partiler. Bu, bakım yükünü belirgin biçimde artıracağından ancak 1. bölüm tamamlandıktan sonra ele alınmalı.
+Depo adı (`TurkSiyasiTarihi`), seçimlerin ötesinde daha geniş bir siyasi tarih platformuna alan bırakıyor. Hükûmetler, cumhurbaşkanları ve partiler 2.0.0'da eklendi. Kalan olası modüller: vekil biyografileri ve anayasa değişiklikleri. Bu, bakım yükünü belirgin biçimde artıracağından ancak 1. bölüm tamamlandıktan sonra ele alınmalı.

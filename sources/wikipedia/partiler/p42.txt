@@ -1,0 +1,63 @@
+{{Siyasi parti bilgi kutusu
+| isim = Islahatçı Demokrasi Partisi
+| colorcode = #FF4500
+| kısaltma = IDP
+| amblem = Islahatçı Demokrasi Partisi.png
+| genel başkanı = [[Aykut Edibali]]
+| genel sekreteri =
+| kurucusu = [[Aykut Edibali]]
+| slogan =
+| kuruluş = 22 Mart 1984<ref name="ref1">{{Web kaynağı |url=http://www.yargitaycb.gov.tr/sayfa/faaliyette-olan-siyasi-partiler/1157 |başlık=Arşivlenmiş kopya |erişimtarihi=22 Kasım 2016 |arşivurl=https://web.archive.org/web/20160528174121/http://www.yargitaycb.gov.tr/sayfa/faaliyette-olan-siyasi-partiler/1157 |arşivtarihi=28 Mayıs 2016 |ölüurl=evet }}</ref>
+| kapanış = 23 Kasım 1992 (ad değişimi)
+| öncülü = [[Yeniden Millî Mücadele Hareketi|Yeniden Milli Mücadele Hareketi]]
+| ardılı = [[Millet Partisi (1992)|Millet Partisi]] 
+| ideoloji = [[Türk milliyetçiliği]]<br />[[Muhafazakârlık]]<br />[[Millî muhafazakârlık]]
+| pozisyon = [[Sağcılık|Sağ]]
+|birleşme=[[Bayrak Partisi (Türkiye)|Bayrak Partisi]]}}
+'''Islahatçı Demokrasi Partisi''' (kısaca '''IDP'''), genel başkanlığını [[Aykut Edibali]]'nin yaptığı, bugünkü [[Millet Partisi (1992)|Millet Partisi]]'nin geçmişteki adı.
+
+== Tarihçe ==
+Parti, 1970'li yıllarda [[Yeniden Millî Mücadele Hareketi|Yeniden Millî Mücâdele Dergisi]] etrafında toplanan 48 kişinin katılımıyla 22 Mart 1984<ref name="ref1" /> tarihinde kuruldu.
+
+Kısa zamanda ülke genelinde teşkilatlanmaya başlayan partinin 1 Aralık 1985'te yapılan birinci olağan genel kurul kongresinde, partinin kurucusu Aykut Edibali tekrar partinin genel başkanı seçildi.
+
+IDP'nin kurulduktan sonra katılma hakkı elde ettiği ilk seçimler Eylül 1986'da yapılan [[1986 Türkiye milletvekili ara seçimleri|milletvekili ara seçimleri]] ile [[1987 Türkiye genel seçimleri]] oldu. Ancak seçimlerden beklenen başarıyı alamayan IDP, [[1989 Türkiye yerel seçimleri]]'nde oy yüzdesini ülke genelinde %1,0'a çıkararak üç ilçe ile 3 belde belediye başkanlıklarını kazandı. IDP, [[1991 Türkiye genel seçimleri]]ne, [[Refah Partisi]] ve [[Milliyetçi Çalışma Partisi]] ile [[Kutsal İttifak (siyasi ittifak)|üçlü ittifak]] kurarak katıldı. Anayasaya göre iki ve daha fazla partinin birleşerek seçime katılmalarının yasak olması sebebiyle bu üç partinin ittifakları kâğıt üzerinde resmî bir belgeye dayanmadı. Bu nedenle, IDP ve MÇP'nin milletvekili adayları seçime katıldıkları bölgelerde Refah Partisi listelerinden aday olarak gösterildiler ve böylelikle IDP toplamda üç milletvekili çıkarmıştır. Bu milletvekilleri bir süre sonra RP'den istifa ederek kendi partilerine döndüler.
+
+25 Temmuz 1992 tarihinde bünyesine [[Bayrak Partisi (Türkiye)|Bayrak Partisi]] dahil oldu.<ref>{{Web kaynağı | url = https://www.tbmm.gov.tr/kutuphane/siyasi_partiler.html | başlık = Siyasi partiler | yayımcı = [[Türkiye Büyük Millet Meclisi]] Kütüphane ve Arşiv Hizmetleri Başkanlığı | arşivurl = https://web.archive.org/web/20170812022200/https://www.tbmm.gov.tr/kutuphane/siyasi_partiler.html | arşivtarihi = 12 Ağustos 2017 | erişimtarihi = 10 Kasım 2017 | ölüurl = evet }}</ref> 23 Kasım 1992<ref>{{Web kaynağı |url=http://www.milletpartisi.org.tr/tarihce |başlık=Arşivlenmiş kopya |erişimtarihi=22 Kasım 2016 |arşivurl=https://web.archive.org/web/20161123200210/http://www.milletpartisi.org.tr/tarihce |arşivtarihi=23 Kasım 2016 |ölüurl=evet }}</ref> tarihinde yapılan büyük kongrede Islahatçı Demokrasi Partisi isim değiştirerek [[Millet Partisi (1992)|Millet Partisi]] adını aldı.
+
+== Islahatçı Demokrasi Partisi ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan=5| [[Türkiye Büyük Millet Meclisi]]
+|-
+! Seçim
+! Genel Başkan
+! Oy
+! Oran
+! Sandalye
+|-
+| [[1987 Türkiye genel seçimleri|1987]] || [[Aykut Edibali]] || 196.272 || % 0,82 || {{Composition bar|0|450|hex=}}
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=2| İl Genel Meclisi
+! rowspan=2| Belediye
+|-
+! Oy
+! %
+|-
+| [[1989 Türkiye yerel seçimleri|1989]] || [[Aykut Edibali]] || 208.725 || % 0,94 || {{Composition bar|7|1984|hex=}}
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+{{Türkiye'deki eski siyasi partiler}}
+
+[[Kategori:Türkiye'deki eski siyasi partiler]]
+[[Kategori:1984'te kurulan siyasi partiler]]
+[[Kategori:1992'de kapatılan siyasi partiler]]
+[[Kategori:Millî muhafazakâr partiler]]

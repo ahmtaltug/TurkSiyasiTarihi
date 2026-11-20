@@ -7,4 +7,5 @@ python3 scripts/build_modern.py build/ext/turkiye-secim-haritasi
 python3 scripts/build_historical.py --wiki sources/wikipedia --src build/ext/turkiye-secim-haritasi --ne build/ne/a1sel.geojson
 scripts/build_geo.sh
 python3 scripts/build_index.py build/ext/turkiye-secim-haritasi
+python3 scripts/build_history.py
 python3 scripts/validate.py

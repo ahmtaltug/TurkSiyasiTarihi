@@ -51,6 +51,29 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   await p.click('#themeBtn'); await p.click('#themeBtn'); await p.waitForTimeout(300);
   if ((await p.evaluate(() => document.documentElement.dataset.theme)) !== 'dark') bad.push('koyu tema uygulanmadı');
   await p.click('#themeBtn');
+  // parti tarihçesi (soy ağacı): CHP'nin iki faaliyet dönemi
+  await p.evaluate(() => { location.hash = 'e=2023'; }); await p.waitForTimeout(800);
+  await p.click('#electionInfo .bar.clickable[data-k="CHP"]');
+  await p.waitForSelector('#partyLin .lin-h', { timeout: 5000 }).catch(() => bad.push('parti tarihçesi açılmadı'));
+  const lin = await p.$eval('#partyLin', (x) => x.textContent).catch(() => '');
+  if (!/1992/.test(lin)) bad.push('CHP tarihçesinde 1992 yeniden kuruluş yok');
+  // karşılaştırma modu
+  await p.click('#cmpBtn'); await p.waitForTimeout(2000);
+  const cmp = await p.evaluate(() => ({ paths: document.querySelectorAll('#map2 path.leaflet-interactive').length, hash: location.hash, rows: document.querySelectorAll('#cmpBox table.cmp tbody tr').length }));
+  if (cmp.paths < 70 || !cmp.hash.includes('c=') || cmp.rows < 3) bad.push('karşılaştırma modu: ' + JSON.stringify(cmp));
+  await p.click('#cmpBtn');
+  // demografi
+  await p.evaluate(() => { document.querySelector('#demoDet').open = true; }); await p.waitForTimeout(1500);
+  const dots = await p.$$eval('#demoBox circle.dp', (c) => c.length);
+  if (dots < 75) bad.push(`demografi grafiği ${dots} il`);
+  // siyasi tarih penceresi
+  await p.click('#histBtn'); await p.waitForSelector('#hchart', { timeout: 5000 }).catch(() => bad.push('siyasi tarih grafiği yok'));
+  const blocks = await p.$$eval('#hchart rect.blk', (r) => r.length);
+  if (blocks < 80) bad.push(`meclis grafiğinde ${blocks} blok`);
+  for (const t of ['govs', 'parties', 'anim']) { await p.click(`#histTabs [data-tab="${t}"]`); await p.waitForTimeout(300); }
+  const govRows = await p.evaluate(() => { document.querySelector('#histTabs [data-tab="govs"]').click(); return document.querySelectorAll('table.govs tbody tr').length; });
+  if (govRows < 70) bad.push(`hükûmet tablosu ${govRows} satır`);
+  await p.keyboard.press('Escape');
   console.log(`${ids.length} seçim; sorunlu: ${bad.length ? bad.join(', ') : 'yok'}; hata: ${errs.length ? errs.join(' | ') : 'yok'}`);
   await b.close();
   process.exit(bad.length || errs.length ? 1 : 0);

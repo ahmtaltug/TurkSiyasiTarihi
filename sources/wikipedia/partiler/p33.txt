@@ -1,0 +1,254 @@
+{{Diğer anlamı|Türkiye İşçi Partisi}}
+{{Siyasi parti bilgi kutusu
+| isim             = Türkiye İşçi Partisi
+| kısaltma         = TİP
+| colorcode        = {{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}
+| amblem           = Türkiye İşçi Partisi.svg
+| genel başkanı    = [[Erkan Baş]]
+| lider1_başlık    = Parti sözcüsü
+| lider1_isim      = [[Sera Kadıgil]]
+| slogan           = ''Değişmek Şart''
+| kuruluş          = {{Açılış tarihi ve yaşı|2017|11|7}}<ref name="Türkiye İşçi Partisi">{{Web kaynağı|url = http://www.yargitaycb.gov.tr/icerik/1342|başlık = Türkiye İşçi Partisi|erişimtarihi = 16 Eylül 2019|arşivurl = https://web.archive.org/web/20190312023949/http://www.yargitaycb.gov.tr/icerik/1342|arşivtarihi = 12 Mart 2019|ölüurl =evet}}</ref>
+| kapanış          = 
+| bölünme          = [[Kızıl Parti]]<ref>{{Web kaynağı|url=https://www.evrensel.net/haber/550240/tipten-ayrilanlarin-onculugunde-kizil-parti-kuruldu|başlık=TİP'ten ayrılanların öncülüğünde Kızıl Parti kuruldu|erişimtarihi=12 Mayıs 2025|tarih=16 Nisan 2025|dil=Türkçe|çalışma=[[Evrensel (gazete)|Evrensel]]|arşivurl=https://web.archive.org/web/20250416141214/https://www.evrensel.net/haber/550240/tipten-ayrilanlarin-onculugunde-kizil-parti-kuruldu|arşivtarihi=16 Nisan 2025|ölüurl=hayır}}</ref><br>[[Sosyalistler Partisi]]{{Kaynak belirt}}
+| birleşme         = 
+| öncülü           = [[Halkın Türkiye Komünist Partisi]]
+| ardılı           = 
+| merkez           = [[Çankaya]], [[Ankara]]
+| gazete           = ÇarkBaşak<ref name="carkbasak2025">[https://tip.org.tr/yayinlar/cark-basak-dergi Türkiye İşçi Partisi Resmî Sitesi: "ÇarkBaşak Dergi"]</ref>
+| öğrenci_kolu     = [[TİP'li Öğrenciler]]<ref>{{Web kaynağı |url=https://tip.org.tr/burolar/tipli-ogrenciler |başlık=Arşivlenmiş kopya |erişimtarihi=1 Kasım 2025 |arşivurl=https://web.archive.org/web/20251115111758/https://www.tip.org.tr/burolar/tipli-ogrenciler |arşivtarihi=15 Kasım 2025 |ölüurl=hayır }}</ref>
+| üyelik           = {{azalış}} 35.130<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1342|başlık=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=1 Nisan 2021|arşivurl=https://web.archive.org/web/20210512210959/https://www.yargitaycb.gov.tr/icerik/1342|arşivtarihi=12 Mayıs 2021|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Sosyalizm]]<ref>{{Web kaynağı|url=https://tip.org.tr/program/|başlık=Sosyalizm Programı|erişimtarihi=19 Nisan 2022|arşivurl=https://web.archive.org/web/20191209092608/https://tip.org.tr/program/|arşivtarihi=9 Aralık 2019|ölüurl=hayır}}</ref>
+*[[Marksizm-Leninizm]]<ref name="tuzuk">{{Web kaynağı|url = https://tip.org.tr/tuzuk/|başlık = Parti tüzüğü|erişimtarihi = 13 Haziran 2022|dil = Türkçe|çalışma = Türkiye İşçi Partisi|arşivurl = https://web.archive.org/web/20181029102417/https://tip.org.tr/tuzuk/|arşivtarihi = 29 Ekim 2018}}</ref>
+*[[Sol popülizm]]<ref>{{Web kaynağı|url=https://birikimdergisi.com/haftalik/10960/iii-tip-ve-yeniden-sol-populizm|başlık=Tanıl Bora|erişimtarihi=2 Nisan 2022|arşivurl=https://web.archive.org/web/20220402000125/https://birikimdergisi.com/haftalik/10960/iii-tip-ve-yeniden-sol-populizm|arşivtarihi=2 Nisan 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.jacobinmag.com/2022/02/turkish-left-hdp-workers-party-tip-elections-akp-erdogan|başlık=After Decades of Repression, the Workers’ Party of Turkey Offers Hope for the Left|erişimtarihi=9 Nisan 2022|arşivurl=https://web.archive.org/web/20220323085248/https://www.jacobinmag.com/2022/02/turkish-left-hdp-workers-party-tip-elections-akp-erdogan|arşivtarihi=23 Mart 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://ilerihaber.org/yazar/devamliliklar-ve-sicramalar-tanil-boraya-yanit-138679|başlık=Devamlılıklar ve Sıçramalar|erişimtarihi=3 Nisan 2022|arşivurl=https://web.archive.org/web/20220331074005/https://ilerihaber.org/yazar/devamliliklar-ve-sicramalar-tanil-boraya-yanit-138679|arşivtarihi=31 Mart 2022|ölüurl=hayır}}</ref>
+*[[İlerlemecilik|İlericilik]]<ref>{{Web kaynağı|url=https://tip.org.tr/basin-aciklamalari/ilerici-kamuoyuna/|başlık=Türkiye İşçi Partisi|erişimtarihi=21 Haziran 2023|arşivurl=https://web.archive.org/web/20230530153043/https://tip.org.tr/basin-aciklamalari/ilerici-kamuoyuna/|arşivtarihi=30 Mayıs 2023|ölüurl=hayır}}</ref>
+*[[Komünizm]]<ref name="tuzuk"/><ref>{{Web kaynağı|url = https://tip.org.tr/komunist/|başlık = Parti dergisi|tarih = 3 Aralık 2020|erişimtarihi = 13 Ağustos 2024|dil = Türkçe|arşivurl = https://web.archive.org/web/20240815100943/https://tip.org.tr/komunist/|arşivtarihi = 15 Ağustos 2024|ölüurl = hayır}}</ref>}}
+| pozisyon         = [[Solculuk|Sol]]{{kb}} ve [[Aşırı sol]]<ref>{{Web kaynağı|url=https://europeelects.eu/turkey/|başlık=Europe Elects|erişimtarihi=3 Nisan 2022|arşivurl=https://web.archive.org/web/20220128084914/https://europeelects.eu/turkey/|arşivtarihi=28 Ocak 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://www.jacobinmag.com/2022/02/turkish-left-hdp-workers-party-tip-elections-akp-erdogan|başlık = Repression, the Workers' Party of Turkey Offers Hope for the Left|yayıncı = Jacobin|erişimtarihi = 9 Nisan 2022|arşivurl = https://web.archive.org/web/20220323085248/https://www.jacobinmag.com/2022/02/turkish-left-hdp-workers-party-tip-elections-akp-erdogan|arşivtarihi = 23 Mart 2022|ölüurl = hayır}}</ref>
+| uluslararası     = 
+| renkler          = {{Color box|#B61F23|border=darkgray}} {{Color box|#FFFFFF|border=darkgray}} [[Kırmızı]] ve [[beyaz]]
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|3|600|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye2_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|2|922|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}[[#Belediye başkanları|Tüm Liste]]
+| bayrak           = Flagoftip.svg
+| internet sitesi  = {{url|tip.org.tr}}
+| ülke             = {{bayraksimge|Türkiye}} [[Türkiye]]
+| ulusal           = [[Emek ve Özgürlük İttifakı]]
+| kurucusu         = [[Erkan Baş]]<br>[[Barış Atay]]<br>[[Metin Çulhaoğlu]]<ref>{{Web kaynağı |url=https://tip.org.tr/parti-aciklamalari/ugurlar-olsun-metin-agabey-sana-sozumuz-devrimdir |başlık=Türkiye İşçi Partisi Resmî Sitesi: "Uğurlar olsun Metin ağabey, sana sözümüz devrimdir" |erişimtarihi=1 Kasım 2025 |arşivurl=https://web.archive.org/web/20251210044104/https://tip.org.tr/parti-aciklamalari/ugurlar-olsun-metin-agabey-sana-sozumuz-devrimdir |arşivtarihi=10 Aralık 2025 |ölüurl=hayır }}</ref>|
+| sandalye3_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye3        = {{Composition bar|1|1282|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}
+| sandalye4_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye4        = {{Composition bar|36|20953|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}
+| kadın_kolu       = [[TİP'li Kadınlar]]<ref>{{Web kaynağı |url=https://tip.org.tr/burolar/tipli-kadinlar |başlık=Arşivlenmiş kopya |erişimtarihi=1 Kasım 2025 |arşivurl=https://web.archive.org/web/20251115125044/https://www.tip.org.tr/burolar/tipli-kadinlar |arşivtarihi=15 Kasım 2025 |ölüurl=hayır }}</ref>
+}}
+'''Türkiye İşçi Partisi''', [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] [[Sosyalizm|sosyalist]] bir [[siyasi parti]]dir. 7 Kasım 2017'de [[Erkan Baş]] ve [[Barış Atay]] liderliğinde kurulan partidir. Parti tüzüğüne göre resmî kısaltması "TİP" şeklindedir. Simgesi ise iç içe geçen çark, başak ve yıldızdır. [[Türkiye Büyük Millet Meclisi]]'nde üç milletvekili ile temsil edilmektedir. Partinin genel başkanı Erkan Baş, sözcüsü ise [[Sera Kadıgil]]'dir. 25 Ağustos 2022'den beri [[Emek ve Özgürlük İttifakı]]'nın bileşenidir.
+
+Partinin kökeni, 2014 yılında [[Türkiye Komünist Partisi (2001)|Türkiye Komünist Partisi]] içindeki ayrışmaya dayanır. Eski genel başkan Erkan Baş liderliğindeki grup, önce [[Halkın Türkiye Komünist Partisi]]'ni kurdu ve 2017 yılında Türkiye İşçi Partisi'ni kurarak yeniden yapılandı.<ref>{{Web kaynağı|başlık = AYM’den TİP’e müjdeli haber: TİP yoluna devam edecek|url = https://www.sozcu.com.tr/2018/gundem/aymden-tipe-mujdeli-haber-tip-yoluna-devam-edecek-2577763/|gazete = Sözcü|tarih = 16 Ağustos 2018|erişimtarihi = 5 Mayıs 2020|arşivurl = https://web.archive.org/web/20180817141410/https://www.sozcu.com.tr/2018/gundem/aymden-tipe-mujdeli-haber-tip-yoluna-devam-edecek-2577763/|arşivtarihi = 17 Ağustos 2018|ölüurl =evet}}</ref> [[2018 Türkiye genel seçimleri]]ne [[Halkların Demokratik Partisi]] listesinden giren parti, iki milletvekili kazandı. [[Emek ve Özgürlük İttifakı]]'nın bileşeni olarak, [[2023 Türkiye genel seçimleri]]ne kendi listesinden girdi ve %1,76 oy alarak dört milletvekili çıkardı; ancak tutuklu olan [[Can Atalay]]'ın milletvekilliği düşürüldü. Türkiye İşçi Partisi'nin bu seçimdeki başarısı, [[1965 Türkiye genel seçimleri|1965]]'ten bu yana Türkiye'de sosyalist bir partinin elde ettiği en yüksek oy oranı oldu. [[2024 Türkiye yerel seçimleri]]nde %0,44 oy oranı aldı.
+
+Türkiye İşçi Partisi, siyasal söylemini [[Marksizm-Leninizm]] temelinde şekillendirmekte ve bu çerçeveyi [[sol popülizm]] unsurlarıyla birleştirmektedir. Parti programı, [[Kapitalist üretim biçimi|kapitalist üretim ilişkileri]], [[emperyalizm]], [[Sosyal eşitsizlik|toplumsal eşitsizlik]] ve [[Irkçılık|yapısal ayrımcılık]] biçimlerine eleştirel bir perspektifle yaklaşmaktadır. Ayrıca parti, [[Ülkelerine göre LGBT hakları|LGBT hakları]], [[çevrecilik]] ve [[feminizm]] gibi ilerici değerleri savunmakta, [[Türkiye Kürtleri|Türkiye'deki Kürt halkının]] ve [[Türkiye'deki azınlıklar|diğer azınlıkların]] haklarını savunmaktadır.
+
+== Tarihçe ==
+
+=== Kuruluşu: 2017 ===
+[[Erkan Baş]], [[Barış Atay]], [[Tuncay Çelen]], [[Metin Çulhaoğlu]]'nun da aralarında olduğu geçmiş [[Türkiye İşçi Partisi (1961)|TİP]] ve [[Türkiye Komünist Partisi (1920)|TKP]] üyesi, çeşitli kitle örgütü ve sendika temsilcisi, işçi, öğrenci ve akademisyenlerin bulunduğu 146 kişi imzasının olduğu çağrı metni kamuoyuna duyuruldu.<ref>[http://tip.org.tr/beyanname.pdf Beyanname] {{Webarşiv|url=https://web.archive.org/web/20180901055202/http://tip.org.tr/beyanname.pdf |tarih=1 Eylül 2018 }}, tip.org.tr.</ref> [[Halkın Türkiye Komünist Partisi]] çevresinin girişimiyle 7 Kasım 2017'de TİP'in yeniden kuruluşu için dilekçe verildi.<ref>[https://odatv.com/yeni-bir-sol-parti-kuruldu-23031852.html Yeni bir sol parti kuruldu] {{Webarşiv|url=https://web.archive.org/web/20190702162842/https://odatv.com/yeni-bir-sol-parti-kuruldu-23031852.html |tarih=2 Temmuz 2019 }}, Oda TV</ref>
+
+=== İlk dönemi: 2018–2023 ===
+[[2018 Türkiye genel seçimleri]]nde [[Halkların Demokratik Partisi]] (HDP) ile işbirliği yapan parti,<ref name=":1">[https://twitter.com/tipgeliyor/status/1023935219768930304 Resmi Twitter Sayfası] {{Webarşiv|url=https://web.archive.org/web/20200404195436/https://twitter.com/tipgeliyor/status/1023935219768930304|tarih=4 Nisan 2020}}, 30.07.2018</ref> adaylarını HDP listelerinden göstermiştir. [[Erkan Baş]], [[İstanbul]] 1. bölge ve [[Barış Atay]], [[Hatay]] milletvekili olarak HDP listelerinden milletvekili seçilmişlerdir.<ref>[https://www.tbmm.gov.tr/develop/owa/milletvekillerimiz_sd.sonuc?p_donem=27&adi=&soyadi=&il=&parti=T%DDP&kelime= Türkiye Büyük Millet Meclisi 27. Dönem Milletvekilleri] {{Webarşiv|url=https://web.archive.org/web/20201216093852/https://www.tbmm.gov.tr/develop/owa/milletvekillerimiz_sd.sonuc?p_donem=27&adi=&soyadi=&il=&parti=T%DDP&kelime=|tarih=16 Aralık 2020}}, TBMM.</ref> Seçimlerden sonra Atay ve Baş, partilerine geri dönmüşlerdir. 2021'de [[Ahmet Şık]] partinin üçüncü milletvekili olarak partiye katılmıştır.<ref>{{Web kaynağı|url=https://twitter.com/tipgenelmerkez/status/1384107261975437315|başlık=Hoş geldin Ahmet Şık! Ahmet Şık'in partimize katılmasıyla şimdi daha güçlü, daha inatçıyız.|erişimtarihi=19 Nisan 2021|arşivtarihi=19 Nisan 2021|arşivurl=https://web.archive.org/web/20210419113134/https://twitter.com/tipgenelmerkez/status/1384107261975437315|dil=Türkçe|çalışma=Twitter}}</ref> 25 Haziran 2021'de [[Cumhuriyet Halk Partisi|CHP]]'den istifa eden milletvekili [[Sera Kadıgil]], yaptığı açıklamayla partiye katıldığını resmen duyurmuştur.<ref>{{Web kaynağı|url=https://mobile.twitter.com/serakadigil/status/1408337709219856386|başlık=Bilin ki bu adımı saray rejiminden kurtuluş mücadelesine köstek olmak için değil, bilakis daha sol bir ağırlık noktasından destek olmak için atıyorum. Hoşçakalın ve merhaba|erişimtarihi=25 Haziran 2021|arşivengelli=evet|dil=Türkçe|çalışma=Twitter|arşivurl=https://web.archive.org/web/20220817113029/https://mobile.twitter.com/serakadigil/status/1408337709219856386|arşivtarihi=17 Ağustos 2022|ölüurl=hayır}}</ref>
+
+=== 2023 seçimlerinden sonrası ve Can Atalay: 2023–günümüz ===
+[[Dosya:Tip-kadikoy.png|küçükresim|Partililer [[Kadıköy]]'de broşür dağıtırken, 2020|200x200pik]]
+2020 yılında seçim yeterliliği kazanan parti, 2023 yılında yapılan [[2023 Türkiye genel seçimleri|genel seçimlerde]] yer almıştır.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/turkiye-isci-partisi-genel-baskani-erkan-bas-partimiz-il-ve-ilce-orgutlenmelerini-tamamlayarak-secimlere-girme-yeterliligi-sagladi,887694|başlık=Türkiye İşçi Partisi seçimlere girme yeterliliğini sağladı|erişimtarihi=10 Nisan 2022|arşivtarihi=10 Nisan 2022|arşivurl=https://web.archive.org/web/20220410182522/https://t24.com.tr/haber/turkiye-isci-partisi-genel-baskani-erkan-bas-partimiz-il-ve-ilce-orgutlenmelerini-tamamlayarak-secimlere-girme-yeterliligi-sagladi,887694|ölüurl=hayır|dil=Türkçe|çalışma=T24}}</ref> Seçimlere sol, demokrat ve ilerici hareket ve partilerin oluşturduğu bir ittifakla girmeyi önceleyen TİP, bu ittifakın oluşturulması için yapılan toplantılarda yer almış, [[Halkların Demokratik Partisi|HDP]], [[Emek Partisi|EMEP]], [[Emekçi Hareket Partisi]] (EHP), [[Toplumsal Özgürlük Partisi|TÖP]], [[Sosyalist Meclisler Federasyonu|SMF]] ve [[Halkevleri]] ile bir araya gelmiştir.<ref name=":0">{{Web kaynağı|url=https://www.gazeteduvar.com.tr/erkan-bas-milyonlarin-3uncu-ittifak-beklentisi-var-haber-1542481|başlık=Erkan Baş: Milyonların ‘3’üncü ittifak’ beklentisi var|erişimtarihi=14 Ocak 2023|arşivtarihi=20 Kasım 2021|arşivurl=https://web.archive.org/web/20211120050855/https://www.gazeteduvar.com.tr/erkan-bas-milyonlarin-3uncu-ittifak-beklentisi-var-haber-1542481|tarih=20 Kasım 2021|ölüurl=hayır|dil=|çalışma=Gazete Duvar|ad=Alan|soyadı=Serkan}}</ref> Yeni ittifakın [[Millet İttifakı|Millet]] ve [[Cumhur İttifakı]]'na alternatif olmasını öngören parti, ilkeleri ve tutumlarıyla uyacak bir ortak aday çıkması durumunda, bu adayı [[2023 Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı seçimlerinde]] destekleyebileceğini belirtmiştir. Baş, bu ittifakın "yeniden kuruluşu" temsil edeceğini belirtmiş ve ittifak sayesinde siyasetin dışına itilen "milyonlarca işçinin, köylünün, gencin, kadının, [[LGBT]]'lerin, yoksulların, yok sayılanların, [[Kürtler]]in, [[Alevilik|Alevilerin]]" etkin rol alabileceği bir yapıya ihtiyaç olduğunu belirtmiştir.<ref name=":0" /> 2023 yılında düzenlenen seçimlerde 1 milyona yakın oy alarak TBMM'ye 4 milletvekili göndermiştir. [[Erkan Baş]], [[Sera Kadıgil]] ve Ahmet Şık İstanbul'dan, [[Can Atalay]] ise Hatay'dan milletvekili seçilmiştir.
+
+Anayasa Mahkemesi'nin 25 Ekim 2023 tarihli hak ihlali kararına rağmen Hatay Milletvekili Atalay'ın tutukluluğunun devam etmesi [[2023-2025 Türkiye anayasa krizi|2023 anayasa krizi]] tartışmalarına neden olmuştur. İlgili mahkemenin hak ihlaline uyulmamasına yönelik kararının TBMM Genel Kurulunda okunmasıyla birlikte 30 Ocak 2024 tarihinde Can Atalay'ın milletvekilliği düşürüldü.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c6p9x0wn6lko|başlık=Can Atalay: Yargıtay kararı okundu, TİP Hatay Milletvekili'nin vekilliği düşürüldü|erişimtarihi=6 Mart 2024|tarih=30 Ocak 2024|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20240130150500/https://www.bbc.com/turkce/articles/c6p9x0wn6lko|arşivtarihi=30 Ocak 2024|ölüurl=hayır}}</ref> Tutuklu bulunduğu cezaevinden yazılı mesaj ileten Atalay, “Bu da oldu, bunu da yaptılar. Anayasa'nın açık; hiçbir kuşkuya yer bırakmayan hükümlerine karşın seçilmiş Hatay milletvekilinin milletvekilliğini ‘düşürdüler' dedi.
+
+Atalay'ın [[Gezi Parkı davası|Gezi Davası]]'nda aldığı hapis cezası nedeniyle tahliye edilmemesi üzerine Baş, Atalay ve diğer Gezi Parkı davası tutuklularına özgürlük talebiyle Hatay'dan Ankara'ya yürüyüş başlattı.<ref>{{Web kaynağı|url=https://www.ilerihaber.org/icerik/tipten-cumhuriyete-ozgurluk-bulusmasi-100-yil-sonra-bir-kez-daha-saraya-meydan-okuyoruz-160249|başlık=TİP’ten ‘Cumhuriyete Özgürlük Buluşması’: '100 yıl sonra, bir kez daha Saray'a meydan okuyoruz'|erişimtarihi=7 Aralık 2023|tarih=20 Temmuz 2020|dil=İngilizce|çalışma=ilerihaber.org|arşivurl=https://web.archive.org/web/20231207181626/https://www.ilerihaber.org/icerik/tipten-cumhuriyete-ozgurluk-bulusmasi-100-yil-sonra-bir-kez-daha-saraya-meydan-okuyoruz-160249|arşivtarihi=7 Aralık 2023|ölüurl=hayır}}</ref> Partinin düzenlediği "Özgürlük Yürüyüşü", 28 günün ardından Ankara'daki Anıtpark'ta sona erdi.
+
+[[2024 Türkiye yerel seçimleri|2024 Yerel Seçimleri]]'nde Hatay'ın Samandağ ilçesinde belediye başkanlığını kazanan TİP'in Nevşehir'in Hacıbektaş ilçesinde desteklediği bağımsız aday Ali Kaim seçimleri kazanırken Belediye Meclisi Seçimleri'nde de parti ilçede birinci sırayı alarak çoğunluğu elde etti.
+
+== İdeoloji ve politikalar ==
+[[Dosya:Workers' Party of Turkey in Warsaw.jpg|küçükresim|Türkiye İşçi Partisi (2026).]]
+Türkiye İşçi Partisi, [[Türkiye]]'de kapitalizm yerine, [[Sosyalizm|sosyalist]] bir sistemin kurulmasını önermekte ve [[neoliberalizm]] karşıtı bir tutum almaktadır.<ref>{{Web kaynağı|url=http://tip.org.tr/program/|başlık=Program|erişimtarihi=3 Nisan 2022|dil=tr-TR|çalışma=Türkiye İşçi Partisi|arşivurl=https://web.archive.org/web/20220315054026/https://tip.org.tr/program/|arşivtarihi=15 Mart 2022|ölüurl=hayır}}</ref> Programını [[Marksizm]] teorisi üzerine inşa eder.<ref>{{Web kaynağı|url=https://birikimdergisi.com/haftalik/10960/iii-tip-ve-yeniden-sol-populizm|başlık=III. TİP ve Yeniden Sol Popülizm - Tanıl Bora|erişimtarihi=3 Nisan 2022|dil=Türkçe|çalışma=birikimdergisi.com|arşivurl=https://web.archive.org/web/20220402000125/https://birikimdergisi.com/haftalik/10960/iii-tip-ve-yeniden-sol-populizm|arşivtarihi=2 Nisan 2022|ölüurl=hayır}}</ref>
+
+[[Mehmet Ali Aybar]] liderliğindeki [[Türkiye İşçi Partisi (1961)|ilk dönem TİP]]'in politikalarına yakın olup aynı zamanda [[Behice Boran]] döneminin politikalarından da beslenmektedir.<ref>{{Web kaynağı|url=https://ilerihaber.org/yazar/devamliliklar-ve-sicramalar-tanil-boraya-yanit-138679|başlık=Devamlılıklar ve Sıçramalar: Tanıl Bora’ya Yanıt|erişimtarihi=3 Nisan 2022|arşivtarihi=31 Mart 2022|arşivurl=https://web.archive.org/web/20220331074005/https://ilerihaber.org/yazar/devamliliklar-ve-sicramalar-tanil-boraya-yanit-138679|ölüurl=hayır|dil=Türkçe|çalışma=ilerihaber.org}}</ref> [[Laiklik]], [[cumhuriyetçilik]] ve [[toplumsal cinsiyet eşitliği]] gibi konular partinin tutum ve politikalarında önemli yere sahiptir.<ref>{{Web kaynağı|url = http://tip.org.tr/basin-aciklamalari/demokrasi-adalet-bagimsizlik-ozgurluk-ve-laikligi-tehdit-eden-odak-bellidir-saray-rejimi/|başlık = Demokrasi, adalet, bağımsızlık, özgürlük ve laikliği tehdit eden odak bellidir: Saray Rejimi|erişimtarihi = 3 Nisan 2022|tarih = 5 Nisan 2021|dil = tr-TR|çalışma = Türkiye İşçi Partisi|arşivengelli = evet|arşivurl = https://web.archive.org/web/20220630044119/https://tip.org.tr/basin-aciklamalari/demokrasi-adalet-bagimsizlik-ozgurluk-ve-laikligi-tehdit-eden-odak-bellidir-saray-rejimi/|arşivtarihi = 30 Haziran 2022|ölüurl = hayır}}</ref> TİP, [[tarikat]] ve [[cemaat]]lerin kamu hizmetlerinden alıkonulması ve [[Seküler devlet|toplumsal hayatta yer almaması]] görüşüne sahiptir.<ref>{{Web kaynağı|url=https://t24.com.tr/video/ahmet-sik-bir-devlet-laik-olmak-zorundadir,44870|başlık=Ahmet Şık: Bir devlet laik olmak zorundadır|erişimtarihi=3 Nisan 2022|arşivtarihi=16 Ocak 2022|arşivurl=https://web.archive.org/web/20220116113421/https://t24.com.tr/video/ahmet-sik-bir-devlet-laik-olmak-zorundadir,44870|ölüurl=hayır|dil=Türkçe|çalışma=T24}}</ref> Parti parasız, eşitlikçi, bilimsel ve laik bir eğitim sistemi öngörmekte ve tarikat ve cemaatlere ait yurt, ev ve okulların da kamulaştırılmasını önermektedir.<ref>{{Web kaynağı|url=https://www.yenihaberden.com/tip-genel-baskani-bas-tarikat-cemaat-okul-ve-yurtlari-kamulastirilmalidir-1695215h.htm|başlık=TİP Genel Başkanı Baş: "Tarikat, cemaat okul ve yurtları kamulaştırılmalıdır"|erişimtarihi=3 Nisan 2022|arşivtarihi=22 Nisan 2022|arşivurl=https://web.archive.org/web/20220422013604/https://www.yenihaberden.com/tip-genel-baskani-bas-tarikat-cemaat-okul-ve-yurtlari-kamulastirilmalidir-1695215h.htm|tarih=11 Ocak 2022|dil=Türkçe|çalışma=Yeni Haber}}</ref> Elektrik, su, doğal gaz ve internet gibi temel hizmetlerin kamulaştırılması ve bu hizmetlerin kâr amacı gütmeden topluma sunulmasını talep etmektedir.<ref>{{Web kaynağı|url=https://fatura.tip.org.tr/|başlık=Cep Dostu Fatura Yasası - Türkiye İşçi Partisi|erişimtarihi=3 Nisan 2022|dil=tr-TR|çalışma=fatura.tip.org.tr|arşivurl=https://web.archive.org/web/20220308055550/https://fatura.tip.org.tr/|arşivtarihi=8 Mart 2022|ölüurl=hayır}}</ref>
+
+Kamucu ve planlı bir ekonomi anlayışıyla yönetilen bir ülke amacıyla siyasette yer alan parti, Kürt sorununda barış ve kardeşlik temelli çözüm arayışını, bölgede ve dünyadaki savaş ortamlarına karşı barışı savunduklarını belirtmektedirler. Ayrıca parti, [[NATO]]'yu "terör örgütü" olarak gördüklerini söylemektedir.<ref>{{Web kaynağı|url=https://twitter.com/tipgenelmerkez/status/1404873281862258694?s=20|başlık=Türkiye İşçi Partisi @tipgenelmerkez — X|erişimtarihi=21 Kasım 2023|dil=Türkçe|çalışma=X (formerly Twitter)|arşivurl=https://web.archive.org/web/20231122133921/https://twitter.com/tipgenelmerkez/status/1404873281862258694?s=20|arşivtarihi=22 Kasım 2023|ölüurl=hayır}}</ref>
+
+"Eşit yurttaşlık" politikası altında işçilerin yanı sıra kadınların, Alevilerin, Kürtlerin, LGBT'lerin, çocukların, engellilerin ve türcülüğe karşı tüm canlıların yaşam hakkını savunduğunu ifade eden parti, dinselleşme karşısında ilericiliği esas aldığını aktarmıştır.<ref>{{Web kaynağı|url=https://tip.org.tr/temel-belgeler/turkiye-isci-partisi-politika-ve-tutum-belgesi-ocak-2022/|başlık=Türkiye İşçi Partisi Politika ve Tutum Belgesi - Ocak 2022|erişimtarihi=21 Kasım 2023|tarih=16 Şubat 2022|dil=tr-TR|çalışma=Türkiye İşçi Partisi|arşivurl=https://web.archive.org/web/20231121235452/https://tip.org.tr/temel-belgeler/turkiye-isci-partisi-politika-ve-tutum-belgesi-ocak-2022/|arşivtarihi=21 Kasım 2023|ölüurl=hayır}}</ref>
+
+7 Ekim 2023 tarihinde başlayan [[İsrail]]'in [[Gazze]] işgali hakkında Erkan Baş, “İşgale karşı direnen [[Filistin Devleti|Filistin]] halkının yanındayız” dedi.<ref>{{Web kaynağı|url=https://www.politikyol.com/tip-lideri-erkan-bas-isgale-karsi-direnen-filistin-halkinin-yanindayiz/|başlık=TİP Lideri Erkan Baş: “İşgale karşı direnen Filistin halkının yanındayız”|erişimtarihi=7 Aralık 2023|arşivtarihi=7 Aralık 2023|arşivurl=https://web.archive.org/web/20231207182323/https://www.politikyol.com/tip-lideri-erkan-bas-isgale-karsi-direnen-filistin-halkinin-yanindayiz/|tarih=17 Ekim 2023|ölüurl=hayır|dil=Türkçe|çalışma=PolitikYol.com {{!}} Yorum, Analiz, Haber Sitesi}}</ref>
+
+== Yapılanma ==
+
+=== Genel başkanlar ===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Erkan Baş 2023.jpg|75px]]
+! scope="row" align="left" | [[Erkan Baş]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1979|7|14}}}}
+| 7 Kasım 2017
+| ''Görevde''
+| {{ayd|2017|11|7|sep=and|duration=on}}
+|}
+
+=== Merkez Yürütme Kurulu üyeleri ===
+Türkiye İşçi Partisi'nde, mevcut olarak Genel Başkan Erkan Baş da dahil olmak üzere 7 MYK üyesi bulunmaktadır.<ref>{{Web kaynağı|url=https://tip.org.tr/yonetim|başlık=Yönetim - Türkiye İşçi Partisi|erişimtarihi=10 Ağustos 2026|dil=tr-TR|çalışma=Türkiye İşçi Partisi|arşivurl=https://web.archive.org/web/20260812082205/https://tip.org.tr/yonetim|arşivtarihi=12 Ağustos 2026|ölüurl=hayır}}</ref>
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Görevi
+|-
+|'''1'''
+|[[Erkan Baş]]
+|Genel Başkan
+|-
+|'''2'''
+|[[Sera Kadıgil]]
+|Parti sözcüsü
+|-
+|'''3'''
+|Doğan Ergün
+|Genel Başkan Yardımcısı
+|-
+|'''4'''
+|İlke Bereketli
+|MYK Üyesi
+|-
+|'''5'''
+|Meltem Kolgazi
+|MYK Üyesi
+|-
+|'''6'''
+|Şerif Özgür Urfa
+|MYK Üyesi
+|-
+|'''7'''
+|Yunus Başaran
+|MYK Üyesi
+|}
+
+== Belediye başkanları ==
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!İl
+!Belediye
+|-
+|'''1'''
+|[[Emrah Karaçay]]
+|[[Hatay]]
+|[[Samandağ|Samandağ Belediyesi]]
+|}
+
+== Milletvekilleri ==
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi
+!Aktiflik
+|-
+|'''1'''
+|[[Ahmet Şık]]
+|rowspan="3"|[[İstanbul milletvekilleri listesi|İstanbul]]
+|
+|rowspan="3"|Aktif
+|-
+|'''2'''
+|[[Erkan Baş]]
+|Türkiye İşçi Partisi Genel Başkanı
+|-
+|'''3'''
+|[[Sera Kadıgil]]
+|Türkiye İşçi Partisi Parti Sözcüsü<br>MYK üyesi
+|-
+|}
+
+== Türkiye İşçi Partisi ve seçimler ==
+=== Genel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2"| Seçim
+! rowspan="2"| Lider
+! colspan="3"| Seçim sonuçları
+! colspan="2"| Sandalye
+! rowspan="2"| Hükûmet
+|-
+! Oy sayısı
+! '''%'''
+! ±
+! #
+! ±
+|-
+![[2018 Türkiye genel seçimleri|2018]] 
+| rowspan="2" |[[Erkan Baş]]
+| colspan="3" |[[Halkların Demokratik Partisi]] (HDP) listelerinden<ref name=":1" />
+|{{Composition bar|2|600|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}
+|_
+|{{Hayır2|Muhalefet}}
+|-
+! [[2023 Türkiye genel seçimleri|2023]]
+| 956.057
+| 1,76 (#8)
+| Yeni
+| {{Composition bar|4|600|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}
+| {{Artış}} 2
+| {{hayır2|Muhalefet}}
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable"
+|+
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+|[[2024 Türkiye yerel seçimleri|2024]]
+|[[Erkan Baş]]
+|281.490
+| 0,55 (#11)
+|Yeni
+|71.108
+| 0,15 (#15)
+|{{Composition bar|1|1393|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}
+|Yeni
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+* {{Resmî site}}
+* {{Facebook|name=Türkiye İşçi Partisi|link=https://tr-tr.facebook.com/tipgenelmerkez|id=tipgenelmerkez}}
+* {{Twitter}}
+* {{Instagram}}
+* {{YouTube|kanal=UCdz16x_67E4vTvYcbl0qgww|başlık=Türkiye İşçi Partisi}}
+
+{{Türkiye'deki komünist partiler}}
+{{Türkiye'deki siyasi partiler}}
+
+[[Kategori:2017'de kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Türkiye'deki komünist partiler]]
+[[Kategori:Türkiye'deki sosyalist partiler]]
+[[Kategori:Emek ve Özgürlük İttifakı]]
+[[Kategori:İşçi partileri]]
+[[Kategori:2017'de Türkiye'de kurulan oluşumlar]]

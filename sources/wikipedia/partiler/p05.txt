@@ -1,0 +1,392 @@
+{{farklı anlam|1983'te kurulan Anavatan Partisi|2011'de aynı isimle kurulan siyasi parti|Anavatan Partisi (2011)}}
+{{Yönlendirme|ANAP}}
+{{Ek kaynak gerekli|tarih=Eylül 2024}}
+{{Siyasi parti bilgi kutusu
+| isim = Anavatan Partisi
+| kısaltma = ANAP
+| colorcode = {{Siyasi parti renk|Anavatan Partisi}}
+| amblem = Anavatanpartisi-logo.png
+| genel başkanı = [[Turgut Özal]] {{Küçük|(1983-1989)}}<br>[[Yıldırım Akbulut]] {{Küçük|(1989-1991)}}<br>[[Mesut Yılmaz]] {{Küçük|(1991-2002)}}<br>[[Ali Talip Özdemir]] {{Küçük|(2003)}}<br>[[Nesrin Nas]] {{Küçük|(2003-2004)}}<br>[[Erkan Mumcu]] {{Küçük|(2005-2008)}}<br>[[Salih Uzun]] {{Küçük|(2008-2009)}}
+| genel sekreteri =
+| kurucusu = [[Turgut Özal]]
+| eski liderleri = [[Turgut Özal]], [[Yıldırım Akbulut]], [[Mesut Yılmaz]], [[Ali Talip Özdemir]], [[Nesrin Nas]], [[Erkan Mumcu]], [[Salih Uzun]] 
+| slogan = ''Türkiye'nin Geleceği''
+| kuruluş = 20 Mayıs 1983 
+| kapanış = 31 Ekim 2009
+| öncülü = <!--ANAP kendisini darbe öncesi partilerin bir antitezi ya da karşıtı olarak görmüştür.-->
+| birleşme = [[Demokrat Parti (2007)|Demokrat Parti]]
+| merkez = 
+| gazete = 
+| üyelik = 
+| ideoloji = {{yalın liste|
+* [[Özalizm]]<ref name="toplumdanbireye">{{Web kaynağı|url=https://gorgondergisi.com/ozalizm/|başlık=Toplumdan Bireye Doğru: Özalizm ve Özalizm’in Türkiyede Yansımaları|erişimtarihi=3 Ekim 2023|arşivurl=https://web.archive.org/web/20230821101011/https://gorgondergisi.com/ozalizm/|arşivtarihi=21 Ağustos 2023|ölüurl=hayır}}</ref>
+* [[Neoliberalizm]]<ref name="toplumdanbireye"/><ref>{{Web kaynağı|url = https://dergipark.org.tr/tr/pub/bseusbed/issue/27390/288731|başlık = Turgut Özal Dönemi Yeni Sağ Devlet ve Ekonomik Liberalizm: Devlet ve Piyasa İlişkisinin Politik Ekonomisi|alıntı = Türkiye’de ise devletçilik politikalarından vazgeçilerek, Neoliberal politikaların uygulandığı 1980’li yıllarda Turgut Özal, önemli bir figür olmuştur.|erişimtarihi = 2 Eylül 2022|arşivtarihi = 2 Eylül 2022|arşivurl = https://web.archive.org/web/20220902202723/https://dergipark.org.tr/tr/pub/bseusbed/issue/27390/288731|tarih =|ölüurl = hayır|website = dergipark.org.tr}}</ref><ref>{{Web kaynağı|url=https://dergipark.org.tr/tr/download/article-file/322798|başlık=The Impact of Motherland Party’s Neoliberal Policies on Labour Markets within the Framework of 3Ds in New Work Life|erişimtarihi=31 Temmuz 2022|arşivurl=https://web.archive.org/web/20220731204355/https://dergipark.org.tr/tr/download/article-file/322798|arşivtarihi=31 Temmuz 2022|ölüurl=hayır}}</ref>
+* [[Yeni sağ]]<ref name="toplumdanbireye"/>
+* [[Ekonomik liberalizm]]<ref name="toplumdanbireye"/><ref name="partiprogramı">{{Web kaynağı|url=https://acikerisim.tbmm.gov.tr/xmlui/handle/11543/693|başlık=Parti programı|erişimtarihi=10 Ekim 2021|arşivurl=https://web.archive.org/web/20211010071743/https://acikerisim.tbmm.gov.tr/xmlui/handle/11543/693|arşivtarihi=10 Ekim 2021|ölüurl=hayır}}</ref>
+* [[Liberal muhafazakârlık]]<ref name="toplumdanbireye"/><ref name="partiprogramı"/>
+* [[Adem-i merkeziyetçilik]]<ref>{{Web kaynağı|url=https://dergipark.org.tr/tr/download/article-file/717836|başlık=KAMU HİZMETİ ANLAYIŞINDA DEĞİŞİM VE YENİ SAĞ POLİTİKALAR|erişimtarihi=3 Ekim 2023|arşivurl=https://web.archive.org/web/20200313225253/https://dergipark.org.tr/tr/download/article-file/717836|arşivtarihi=13 Mart 2020|ölüurl=hayır}}</ref>
+* [[Sivil milliyetçilik]]<ref name="toplumdanbireye"/><ref name="partiprogramı"/>
+* [[Pro-Avrupacılık]]<ref>{{Web kaynağı|url=https://atmer.deu.edu.tr/wp-content/uploads/2020/09/226692.pdf|başlık=Türkiye Cumhuriyeti hükümetlerinin Avrupa Birliği politikaları, 1983-2004.|erişimtarihi=3 Ekim 2023|arşivurl=https://web.archive.org/web/20220106234142/https://atmer.deu.edu.tr/wp-content/uploads/2020/09/226692.pdf|arşivtarihi=6 Ocak 2022|ölüurl=hayır}}</ref>
+}}
+{{daraltılabilir liste | title =Parti içi hizipler:
+|[[Liberalizm|Liberaller]]
+|[[Muhafazakârlık|Muhafazakârlar]]
+|[[Milliyetçilik|Milliyetçiler]]
+}}
+| pozisyon = [[Türkiye'de merkez sağ|Merkez sağ]] 
+| ulusal =
+| uluslararası = 
+| renkler = {{Renk kutusu|#FBBA00}} {{Renk kutusu|#e5231b}} {{Renk kutusu|#FFFFFF}} Sarı, kırmızı ve beyaz
+| internet sitesi = 
+| bayrak = 
+}}
+'''Anavatan Partisi''', 1983 yılında [[Turgut Özal]] tarafından kurulmuş olan eski siyasi parti. Resmî kısaltması "ANAP" şeklindedir. 1983'ten 1991'e kadar aralıksız olarak tek başına iktidarda kalmış, 1996 ile 2002 yılları arasında da çeşitli koalisyon hükûmetlerinin içinde yer almıştır. 31 Ekim 2009 tarihinde [[Demokrat Parti (2007)|Demokrat Parti]] ile birleşmiştir.
+
+== Tarihçe ==
+
+[[12 Eylül Darbesi]]'nden bir süre sonra eski siyasi partiler kapatıldı ve [[1982 Türkiye anayasa referandumu|halk oylaması]]yla kabul edilen [[Türkiye Cumhuriyeti Anayasası|1982 Anayasası]]'yla "yeni bir siyasal düzen" getirilmesi amaçlandı. Bu yeni siyasi düzen bağlamında, "demokrasiye yeniden geçiş" süreci içinde 1983 ilkbaharında yeni siyasi partiler kurulmaya başladı.
+
+ANAP, 20 Mayıs 1983'te, [[Adalet Partisi (1961-1981)|AP]] iktidarı sırasında alınan ve 12 Eylül döneminde de uygulaması sürdürülen [[24 Ocak kararları|24 Ocak 1980 ekonomik önlemler paketini]] hazırlayan, 12 Eylül döneminde bir süre ekonomiden sorumlu başbakan yardımcısı olan [[Turgut Özal]] tarafından kuruldu. ANAP, Özal'ın çevresinde örgütlenmiş, büyük ölçüde kişiselleşmiş bir partiydi. Siyasi kadrosu önemli ölçüde, devlet ve özel sektör deneyimi sırasında Özal'la birlikte çalışmış teknokratlarla, [[Millî Selamet Partisi]] (MSP), [[Milliyetçi Hareket Partisi]] (MHP), [[Adalet Partisi (1961-1981)|Adalet Partisi]] (AP) ve hatta [[Cumhuriyet Halk Partisi]]nden (CHP) gelme, 1980 öncesi dönemde fazla ön planda olmayan siyasetçilerden oluşuyordu. Dört siyasi eğilimi (AP, MSP, MHP, CHP) birleştirmeyi iddia ediyordu. İşçi, memur, çiftçi, esnaf gibi toplumsal katmanları kapsayan "orta direk" temasını kullanarak kendine bir "orta sınıf partisi" görünümü verdi. Bazı büyük sermaye çevrelerinden de destek gördü. Eski parti örgütlerinin dağıldığı bir ortamda görece genç ve dinamik kadrosu, etkili destekleri sayesinde kısa zamanda güçlü ve yaygın bir parti örgütü olmayı başardı. Seçim öncesi siyasal söyleminde ılımlıydı, daha çok ekonomik konulara ağırlık verdi, bürokrasiye karşı çıktı, "devlet millet için vardır" temasını işledi. Ekonomik düzlemde, [[24 Ocak kararları|24 Ocak Kararları]]'nda somutlanan bir "liberalizm"in savunuculuğunu yaptı. [[Millî Güvenlik Konseyi]]nin (MGK) veto barajını aşarak, 12 Eylül'ün temsilcisi olduğu söylenen [[Milliyetçi Demokrasi Partisi]] (MDP) ve sosyal demokrat nitelikte olduğunu ileri süren [[Halkçı Parti]] (HP) ile birlikte [[1983 Türkiye genel seçimleri|6 Kasım 1983 genel seçimlerine]] katılmasına izin verilen üç partiden biri oldu.
+
+ANAP'ın kurucular kurulunda bulunan yedi üye ile genel seçimler öncesinde milletvekili aday listesinden pek çok isim MGK tarafından veto edilmiştir. ANAP'ın kurucuları arasından veto edilen isimler arasında muhafazakâr eğilimli [[Mehmet Altınsoy]], [[Hüsnü Doğan]], [[Cemil Çiçek]] gibi isimlerin yanında [[Devrimci Gençlik|Dev-Genç]] eski üyesi [[Mehmet Cavit Kavak|Cavit Kavak]], liberal görüşlü [[Erol Aksoy]] ve [[Adalet Partisi (1961-1981)|Adalet Partisinde]] siyaset yapmış milliyetçi [[Cavit Şadi Pehlivanoğlu|Şadi Pehlivanoğlu]] bulunmuştur. [[Adnan Kahveci]] ve [[Muzaffer Atılgan]] da kurucular listesinden veto edilen diğer iki isimdir. Ayrıca ANAP'ın 1983 seçimlerinde milletvekili aday listelerinde [[Hasan Celal Güzel]], [[Mehmet Keçeciler]] ve [[Abdülkadir Aksu]] gibi muhafazakâr isimlerin vetosu dikkat çekmiştir.<ref name="f080401">{{dergi kaynağı |ad1=Mahmut Hakkı |soyadı1=Akın |başlık=Turgut Özal ve Anavatan Partisi Muhafazakarlığı |dergi=Muhafazakar Düşünce |tarih=Eylül-Aralık 2018 |sayı=56 |sayfa=127 |url=https://dergipark.org.tr/tr/download/article-file/1008618 |erişimtarihi=18 Temmuz 2022 |arşivurl=https://web.archive.org/web/20240122123334/https://dergipark.org.tr/tr/download/article-file/1008618 |arşivtarihi=22 Ocak 2024 |ölüurl=hayır }}</ref>
+
+=== İktidar dönemi ===
+[[Dosya:Turgut Özal 1986.jpg|sol|küçükresim|upright=0.8|ANAP Genel Başkanı Özal, 1983-1989 arasında başbakanlık yapmıştır. 1989'de cumhurbaşkanlığına seçilmiş ve genel başkanlığı bırakmıştır.]]
+6 Kasım 1983'te yapılan genel seçimlerde %45,14 oy oranıyla 400 üyeli [[Türkiye Büyük Millet Meclisi|TBMM]]'de 211 milletvekilliği kazanarak çoğunluğu sağladı ve tek başına iktidara geldi. ANAP'ın seçim başarısında eski siyasi partilerin devamı olarak kurulan partilerin MGK tarafından veto edilerek seçime sokulmayışlarının etkisi olmuşsa da, kitle iletişim araçlarını kullanmadaki etkililiği, iktisadi konulara ağırlık veren ılımlı söylemi, kullandığı "orta direk", "iş bilirlik, iş bitiricilik" gibi temaların kamuoyundaki etkisi, tek "sivil parti" olma görüntüsü, dört eğilimi birleştirme iddiasıyla klasik [[Sağcılık|sağ]] geleneği önemli ölçüde özümsemesinin yanı sıra 12 Eylül öncesindeki sağ partilerin ortak özelliği olan anti-komünist söylemden uzak durarak sosyal demokrat seçmenler üzerinde de etkili olabilmesi, en etkin ve geniş örgütsel ağı kurmuş olması gibi faktörler rol oynadı.<ref name="ref702">[[Hasan Cemal]], ''Özal Hikâyesi'', [[Bilgi Yayınevi]], Eylül 1989. ISBN 975-494-113-0.</ref>
+
+ANAP Aralık 1983'te, [[Turgut Özal]] başkanlığında tek başına hükûmeti kurdu. 25 Mart 1984'te yapılan [[1984 Türkiye yerel seçimleri|yerel seçimler]]de %41,5 oy alan ANAP, birinci parti konumunu korudu. Bu seçimlere, 6 Kasım 1983 seçimlerine katılmasına izin verilmeyen partiler de katıldı. 28 Eylül 1986'da yapılan [[1986 Türkiye milletvekili ara seçimleri|ara seçimler]]de, ANAP önemli bir gerilemeyle oyların ancak %32,1'ini alabildi. Buna karşılık [[Süleyman Demirel]]'in desteklediği [[Doğru Yol Partisi]] (DYP) seçimlerden kazançlı çıktı. Milliyetçi Demokrasi Partisi 4 Mayıs 1986'da dağılınca milletvekillerinden bir bölümü [[Mehmet Yazar]] başkanlığında [[Hür Demokrat Parti (Türkiye)|Hür Demokrat Partiyi]] (HDP) kurdu; ama bu parti 28 Eylül 1986'daki ara seçimde bir varlık gösteremeyince ANAP'a katıldı.
+
+Sivil yönetime geçme sürecinde, eski politikacılara 1982 Anayasası ile getirilen yasakların kaldırılması gündeme gelince, ANAP iktidarı bu konuyu halk oyuna sundu. Başbakan Özal yasakların sürdürülmesinden yana propaganda yaptıysa da, 6 Eylül 1987'de yapılan [[1987 Türkiye anayasa değişikliği referandumu|halk oylaması]] çok küçük bir farkla yasakların kaldırılması doğrultusunda sonuçlandı. Turgut Özal'ın halk oylaması öncesinde, bir askeri rejim tarafından uygulamaya konmuş siyasi yasakların devam etmesi yönünde coşkulu bir kampanya yürütmesi, başta Özal olmak üzere ANAP'a yönelik olarak "[[demokratikleşme]]" konusunda sert eleştirilerin yöneltilmesine neden oldu.<ref name="ref702"/>
+
+Halk oylamasının yapıldığı gün daha sandıklar kapanmadan Başbakan Özal erken seçimlere gidileceğini açıkladı. 29 Kasım 1987'de yapılan [[1987 Türkiye genel seçimleri|genel seçimler]]de ANAP oylarını düşürmesine rağmen (%36,31) 450 üyeli TBMM'de kazandığı 292 milletvekiliyle çoğunluğunu korudu. [[1989 Türkiye yerel seçimleri|26 Mart 1989 yerel seçimleri]]ndeyse, Başbakan Özal'ın merkezi yönetimle uyumlu çalışabilecek yerel yönetimler seçilmesi gerektiği yolundaki uyarılarına karşın, ANAP ağır bir yenilgiye uğradı. [[Sosyaldemokrat Halkçı Parti]]nin (SHP) zafer elde ettiği seçimlerde ANAP, il genel meclisi seçimlerinde %21,8 oy toplayabildi ve Malatya, Bitlis ve Hakkâri dışında bütün il belediye başkanlıklarını kaybetti. Yerel seçimlerin hemen ardından muhalefet partileri ANAP'ın üçüncü sıraya gerilediği gerekçesiyle erken seçim istedi. ANAP'ın 1,5 yıl gibi bir süre içinde 15 puan oy kaybı yaşaması, 1989 yılında TBMM tarafından yapılacak olan [[1989 Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı seçimi]]nin meşruiyetinin kamuoyunda sorgulanmasına neden oldu. SHP ve DYP'nin boykot ettiği ve 31 Ekim 1989'daki üçüncü turda Özal'ın [[Türkiye Büyük Millet Meclisi|TBMM]]'deki ANAP çoğunluğunun oylarıyla cumhurbaşkanı seçildiği seçimler muhalefet için yeni bir eleştiri konusu oldu.
+
+Cumhurbaşkanı Özal başbakanlığa [[Türkiye Büyük Millet Meclisi başkanları listesi|TBMM Başkanı]] [[Yıldırım Akbulut]]'u atadı. 17 Kasım 1989'daki ANAP I. Olağanüstü Kongresi Turgut Özal'dan boşalan genel başkanlığa Akbulut'u getirdi. Özal başkanlıktan ayrılmasına rağmen, siyasi olayların gelişmesinde belirleyici rolünü sürdürdü. Dış politikayı yönlendirmesi iki dışişleri bakanının, [[Mesut Yılmaz]] ve [[Ali Bozer]]'in istifasına neden oldu.
+
+=== 1990'lar ===
+[[Dosya:Yildirim Akbulut (1988).jpg|küçükresim|1989-1991 yılları arasında ANAP genel başkanı Yıldırım Akbulut.]]
+Partinin milliyetçiler, muhafazakârlar ve liberaller olarak adlandırılan kanatları arasındaki çekişme Özal'ın [[Çankaya Köşkü]]'ne çıkmasıyla daha da belirginleşti. 1985'te yapılan I. Olağan Kongre'de (13-14 Nisan) muhafazakârlar ve liberaller birbirlerine yakın durmuşlar, Turgut Özal'ın suikaste uğradığı [[Özal Suikastı|II. Olağan Kongre]]'de (18-19 Haziran 1988) bu sefer milliyetçiler ile muhafazakârlar, liberallere karşı ittifak yapmıştı. Bu ittifaka basın tarafından "kutsal ittifak" adı verilmişti.<ref name="f080401"/> 3 Mart 1991'de ANAP İstanbul il başkanlığı için yapılan seçimde Cumhurbaşkanı Turgut Özal'ın eşi [[Semra Özal]]'ın aday olmasına aralarında bakanların da bulunduğu muhafazakâr grup karşı çıktı, ama Cumhurbaşkanı Özal'ın da desteklediği Semra Özal il başkanlığına seçildi. Semra Özal'ın adaylığına karşı çıkan ve Turgut Özal'ın "istenmeyen bakanlar" olarak ilan ettiği [[Mehmet Keçeciler]], [[Cemil Çiçek]] ve [[Abdülkadir Aksu]]'dan, Millî Savunma Bakanı Hüsnü Doğan, Özal'ın baskısıyla, Başbakan Akbulut tarafından görevinden alındı (22 Şubat 1991).<ref>[http://gazetearsivi.milliyet.com.tr/ ANAP cadı kazanı] {{Webarşiv|url=https://web.archive.org/web/20170722064111/http://gazetearsivi.milliyet.com.tr/ |tarih=22 Temmuz 2017 }} Milliyet 24/02/1991</ref>
+
+Parti, 1991 Haziran'ında yapılan III. Olağan Kongreye doğru Yılmazcılar, Keçecilerciler, Güzelciler, Akbulutçular olarak dörde bölündü. 15 Haziran 1991'de yapılan olağan kongrenin ilk turunda liberal kanadı temsil eden ve Cumhurbaşkanı Turgut Özal tarafından desteklenen [[Mesut Yılmaz]] 580, Keçeciler ve Muhafazakârlar tarafından desteklenen Yıldırım Akbulut 557 ve Hasan Celal Güzel 20 oy aldı. Güzel'in Akbulut lehine adaylıktan çekilmesine karşın ikinci turda Yılmaz 631, Akbulut 523 oy aldı. Seçimi yitiren Yıldırım Akbulut başbakanlıktan da istifa etti; böylece Türkiye Cumhuriyeti tarihinde ilk kez bir başbakan, görevi başındayken parti içi muhalefet hareketi sonucunda makamını kaybetti. İktidarda giderek yıpranan ANAP, 1987'de olduğu gibi zaman yitirmeden, yeni bir görünümle erken seçime gitme gereği duydu. Aynı zamanda başbakanlığa gelen Yılmaz göreve göreve başlar başlamaz erken seçim kararı aldı. Ağustosta başlayan seçim kampanyasında yeni başbakan ve ANAP genel başkanı Mesut Yılmaz genç ve yıpranmamış bir önder olduğunu vurguladı; girişilen işlerin tamamlanması için ANAP'a oy verilmesini istedi.
+
+20 Ekim 1991'de yapılan [[1991 Türkiye genel seçimleri|genel seçimler]]de oyların %24'ünü toplayan ANAP 115 milletvekili çıkararak ikinci parti durumuna düştü. Seçim sonrasında Yılmaz halkın ANAP'a ana muhalefet görevi verdiğini söyleyerek koalisyon görüşmelerinin dışında kaldı. 1991-1995 yılları arasındaki dönemi muhalefette geçirdi. 1990'lı yıllarla birlikte parti içinde üç eğilim (milliyetçiler, muhafazakârlar, liberaller), yerini "Özalcı"-"Yılmazcı" ayrımına bıraktı. 30 Kasım 1992'de yapılan II. Olağanüstü Kongre'de, olağanüstü kongrenin toplanabilmesi için gereken tüzük kuralları değiştirildiği için, Turgut Özal ve muhafazakârların desteklediği [[Mehmet Keçeciler]]'in adaylığını bile koyamaması nedeniyle partinin yönetimi büyük ölçüde Yılmazcıların eline geçti.<ref>[http://gazetearsivi.milliyet.com.tr ANAP'ta dengeler altüst] {{Webarşiv|url=https://web.archive.org/web/20170722064111/http://gazetearsivi.milliyet.com.tr/ |tarih=22 Temmuz 2017 }} Milliyet 17/11/1992</ref> Mesut Yılmaz'ın tekrar genel başkan olması üzerine Keçeciler önderliğindeki muhalif milletvekillerinin bazıları ([[Yıldırım Akbulut]], [[Hüsnü Doğan]], [[İbrahim Özdemir]], [[Yusuf Bozkurt Özal]], [[Hüseyin Aksoy (siyasetçi)|Hüseyin Aksoy]], [[Halil Şıvgın]], [[Gaffar Yakın]], [[Recep Ercüment Konukman]], [[Engin Güner]], [[Leyla Yeniay Köseoğlu]], [[Osman Ceylan]], [[Tunca Toskay]], [[Feyzi İşbaşaran|Fevzi İşbaşaran]], [[Kemal Naci Ekşi]], [[Esat Canan]]) kongrenin ertesi günü partilerinden istifa ettiler. 3 Aralık'ta da beşi kurucu olmak üzere ([[Cemil Çiçek]], [[Kazım Oksay]], [[Mehmet Altınsoy]], [[Aycan Çakıroğulları]] ve [[Fahir Sabuniş]]) 17. ve 18. dönemde milletvekilliği ve bakanlık yapmış toplam 54 kişi istifa etti. İstifa edenlerden bir kısmı daha sonra ANAP'a dönerken, [[Yusuf Bozkurt Özal|Yusuf Bozkurt Öza]]l, Ercüment Konukman ve Hüsnü Doğan Ekim 1993'te [[Yeni Parti (1993)|Yeni Partiyi]] (YP) kurdular. 28-29 Ağustos 1993 tarihlerinde Ankara'da düzenlenen IV. Olağan Kongre'de, tek aday olarak katılan Yılmaz genel başkan seçildi.
+[[Dosya:Mesut Yilmaz as Turkish Prime Minister.jpg|küçükresim|left||1991-2002 yılları arasında ANAP genel başkanı olan Mesut Yılmaz.]]
+[[Büyük Birlik Partisi|BBP]] adaylarını da listesine aldığı [[1995 Türkiye genel seçimleri|24 Aralık 1995 seçimlerinden]] sonra Anavatan Partisi halk oyu bakımından %19,65 ile 2. parti konumunu korusa da koltuk bakımından üçüncü parti (132 milletvekili) oldu. Seçimlerden sonra, [[Refah Partisi]] (RP) ile ANAP arasında yürütülen koalisyon görüşmelerinin başarısızlıkla noktalanması üzerine, [[Doğru Yol Partisi|DYP]] ile [[53. Türkiye Hükûmeti|ANAYOL hükûmeti]] kuruldu. Ancak hem ANAP Genel Başkanı Mesut Yılmaz ile DYP Genel Başkanı [[Tansu Çiller]] arasındaki geçimsizlik hem de Refah Partisi'nin [[Türkiye Cumhuriyeti Anayasa Mahkemesi|Anayasa Mahkemesine]] yaptığı başvuru sonucunda ANAYOL hükûmetinin güven oylamasının iptal edilmesiyle ANAYOL Hükûmeti ancak 4 ay sürebildi. Refah Partisi ile Doğru Yol Partisi arasında kurulan [[54. Türkiye Hükûmeti|REFAHYOL Hükûmetinin]] sona ermesinin (30 Haziran 1997) ardından, 2 Temmuz 1997'de Mesut Yılmaz'ın başkanlığında kurulan [[55. Türkiye Hükûmeti|ANASOL-D koalisyon hükûmetinde]] [[Demokratik Sol Parti]] (DSP) ve [[Demokrat Türkiye Partisi]] (DTP) de yer aldı.
+
+1998 yılının yaz aylarında patlak veren ve Mesut Yılmaz'ın da adının karıştığı [[Türkbank skandalı]] nedeniyle ANASOL-D hükûmeti toplam 18,5 ay kadar sürebildi. [[Türk Ticaret Bankası|Türkbank]]'ın özelleştirilmesiyle ilgili ihaleyi yapanların ve ihaleye katılanların Başbakan Mesut Yılmaz tarafından yönlendirildiği iddiası nedeniyle, 25 Kasım 1998'de Mesut Yılmaz için verilen gensoru önergesinin [[Türkiye Büyük Millet Meclisi|TBMM]]'de kabul edilmesinden sonra Yılmaz istifa etti; Yılmaz'ın başkanlığındaki 55. Hükûmet, cumhuriyet tarihinin gensoruyla düşürülen ilk hükûmeti olarak tarihe geçti.<ref>[http://www.yenicaggazetesi.com.tr/mesut-yilmazi-da-turkbank-goturmustu-92421h.htm Mesut Yılmaz’ı da Türkbank götürmüştü] {{Webarşiv|url=https://web.archive.org/web/20140221221101/http://www.yenicaggazetesi.com.tr/mesut-yilmazi-da-turkbank-goturmustu-92421h.htm |tarih=21 Şubat 2014 }}, Yeniçağ, 23 Aralık 2013.</ref>
+
+[[1999 Türkiye genel seçimleri|18 Nisan 1999 genel seçimleri]] sonucu %13,22 ile 86 milletvekilliği kazanan ANAP TBMM'deki 4. büyük parti oldu. Anavatan Partisi, 28 Mayıs 1999'da [[Bülent Ecevit]]'in başkanlığında [[Demokratik Sol Parti|DSP]] ve [[Milliyetçi Hareket Partisi|MHP]]'nin de katıldığı [[57. Türkiye Hükûmeti|V Ecevit Hükûmetinde]] hükûmetin en küçük ortağı olarak yer aldı. [[Rahşan Affı]]'nın çıkarılmasında etkili oldu.<ref>{{Web kaynağı|url = https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c051/tbmm21051037.pdf|başlık = 20 Aralık 2000, TBMM|arşivurl = https://web.archive.org/web/20230215001047/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c051/tbmm21051037.pdf|arşivtarihi = 15 Şubat 2023}}</ref>
+
+5 Ağustos 2001 tarihinde yapılan VII. Olağan Kongre'de Mesut Yılmaz büyük bir farkla kazandı. Yılmaz 1210 delegenin oy kullandığı kongrede, 1205 geçerli oydan 921'ini aldı. Diğer adaylardan [[Lütfullah Kayalar]] 260, [[Eyüp Aşık]] 19, [[Vehbi Dinçerler]] 4 ve [[Necla Akben]] de 1 oy aldı.
+
+=== 2000'ler ===
+3 Kasım 2002'de yapılan [[2002 Türkiye genel seçimleri|genel seçimler]] ise ANAP için bir facia oldu; %5,11'lik oy oranıyla tarihinde ilk kez [[Türkiye Büyük Millet Meclisi|TBMM]] dışında kaldı. Seçimlerden hemen sonra 11 Ocak 2003'te yapılan 3. Olağanüstü Kongre'de, aday olmayan Mesut Yılmaz'ın yerine [[Ali Talip Özdemir]] seçildi. Özdemir'in aynı yıl içinde istifa etmesiyle genel başkanlığa [[Nesrin Nas]] seçildi. Şubat 2005'te [[Kültür ve Turizm Bakanlığı (Türkiye)|Kültür ve Turizm Bakanlığı]] ve [[Adalet ve Kalkınma Partisi]]'nden istifa eden [[Isparta (il)|Isparta]] [[Isparta milletvekilleri listesi|milletvekili]] [[Erkan Mumcu]], 2 Nisan 2005 tarihinde yapılan kongrede tek aday olarak genel başkanlığa seçildi. Aynı yıl içinde logosunu ve ANAP olan kısaltmasını ANAVATAN olarak değiştirdi.
+
+ANAVATAN, [[TBMM 22. dönem milletvekilleri listesi|22. dönemde]] [[Adalet ve Kalkınma Partisi]] ve [[Cumhuriyet Halk Partisi]]'nden istifa etmiş milletvekillerinin katılımıyla [[Türkiye Büyük Millet Meclisi|TBMM]]'de grup kurabilecek milletvekili sayısına ulaştı ve 3. parti konumuna geldi. [[2007 Türkiye genel seçimleri|2007 genel seçimleri]] öncesinde [[Doğru Yol Partisi]] ile birleşme kararı aldı, fakat daha sonra bazı nedenlerden dolayı birleşme gerçekleşemedi, aday listelerini geç verdiği gerekçesiyle de genel seçimlere de katılamadı. Mumcu, yıllar sonra katıldığı bir programda tamamen Mehmet Ağar nedeniyle bu koalisyonun gerçekleşemediğini söyledi.
+
+25 Ekim 2008'de yapılan 6. Olağanüstü Büyük Kongre'de, genel başkanlıktan çekilen Mumcu'nun yerine [[Salih Uzun]] seçildi. 31 Ocak 2009'da yapılan tüzük kongresinde alınan kararla daha önce 1983'ten 2005 yılına kadar kullandığı logoyu yeniden kullanmaya başladı.<ref>{{Web kaynağı|url=http://www.haber3.com/anavatan-logosunu-degisiyor-haberi-440256h.htm|başlık=Anavatan logosu değişiyor|erişimtarihi=3 Ocak 2013|arşivurl=https://web.archive.org/web/20150330201012/http://www.haber3.com/anavatan-logosunu-degisiyor-haberi-440256h.htm|arşivtarihi=30 Mart 2015|ölüurl=evet}}</ref> [[2009 Türkiye yerel seçimleri|2009 yerel seçimleri]]nde eski genel başkanlardan [[Mesut Yılmaz]]'ın memleketi olan [[Rize (il)|Rize]] dışında bir varlık gösteremedi. Aldığı binde 7'lik oy oranı, siyasi tabanının tamamen eriyerek eski günlerine nazaran artık bir [[tabela partisi]] konumuna geldiğinin en açık göstergesi oldu.
+
+23 Temmuz 2009'da [[Demokrat Parti (2007)|Demokrat Parti]] (DP) ile birleşme kararı aldı. 31 Ekim 2009 tarihinde [[Ankara]]'da yapılan 10. Olağan Büyük Kongresi'nde, kendini fesih ve Demokrat Parti ile birleşme kararı alındı.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/anavatan-tarih-oldu,1R8kDkYV6kKjeMOVwxFKAQ|başlık=Anavatan tarih oldu|erişimtarihi=22 Ocak 2024|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20240122123438/https://www.ntv.com.tr/turkiye/anavatan-tarih-oldu,1R8kDkYV6kKjeMOVwxFKAQ|arşivtarihi=22 Ocak 2024|ölüurl=hayır}}</ref>
+
+Feshedilip Demokrat Parti ile birleştikten sonra, 16 Kasım 2009 tarihinde [[Emanullah Gündüz]] tarafından [[Yeni Dünya Partisi|Büyük Anavatan Partisi]] adında yeni bir parti kurulmuştur. Parti Anavatan Partisi'nin kurucusu [[Turgut Özal]]'ın görüşlerini savunuyordu. Ardından Büyük Anavatan Partisi ismini [[Yeni Dünya Partisi|Birlik ve Huzur Partisi]] olarak değiştirmiştir. 7 Eylül 2011 tarihinde [[Anavatan Partisi (2011)|aynı adla]] tekrar kurulan partinin Genel Başkanlığına İbrahim Çelebi getirilmiştir.<ref>{{Web kaynağı|url=http://www.kirsehirhaber40.com/haber/haber/3873-son-dakika-anap-yeniden-kuruldu-celebi-genel-baskan.html|başlık=ANAP Yeniden Kuruldu, Çelebi Genel Başkan!|erişimtarihi=18 Ocak 2012|arşivurl=https://archive.today/20130127063338/http://www.kirsehirhaber40.com/haber/haber/3873-son-dakika-anap-yeniden-kuruldu-celebi-genel-baskan.html|arşivtarihi=27 Ocak 2013|ölüurl=evet}}</ref>
+
+== Politikalar ==
+
+ANAP dört eğilime, dolayısıyla CHP'den kaynaklanan eğilime de sahip çıkma iddiasına karşın, siyasi yelpazenin sağında yer alan muhafazakâr bir parti olmuştur. ANAP'ın muhafazakârlığı daha önceki sağ partilere oranla daha kentselleşmiş bir özellik göstermiştir. Özellikle Turgut Özal döneminde, ANAP'ta liderin ağırlığı, daha önceki sağ partilere göre daha belirgin olmuştur. Bütün toplumsal kesimlerden seçmenlere seslenen bir "ana akım parti" niteliği gösteren ANAP, 1983, 1984 ve 1987'de eski sağ partilerin seçmenlerinin büyük bölümünün oylarını kendine çekti. 1980'li yıllarda en güçlü olduğu bölge, 12 Eylül öncesi üç sağ partinin (AP, MSP ve MHP) toplam gücünün en yüksek düzeye eriştiği [[İç Anadolu Bölgesi|Orta Anadolu]]'ya ek olarak [[Güney Marmara]]'ydı. Ama, ülkenin tüm bölgelerinde, kırda ve kentte farklı ölçülerde de olsa, başarılı oldu.
+
+Anavatan Partisi iktidarları süresince Türkiye'de [[Neoliberalizm|neo-liberal]] sisteme geçişi şiddetle desteklemiş ve bu doğrultuda icraatlar ortaya koymuştur. Günümüzde hâlen bu dönemde yaşanan değişimlerin etkilerinin sosyal ve ahlaki hayata yansımaları tartışılmaktadır.
+
+Parti ideoloji olarak [[Adalet Partisi (1961-1981)|Adalet Partisi]] (AP) misyonunun devamı gibi gözükse de uygulama ve politik yaklaşımlarında AP'nin misyonundan farklılık göstermiştir. 12 Eylül Darbesi'nden sonra merkez sağ kulvarı paylaştığı [[Doğru Yol Partisi]]ne (DYP) göre çağdaş, kentli ve bilim yanlısı bir sağ oluşum çizgisi çizmeyi istemiştir.
+
+== Kurucu üyeler ==
+{{sütunlu-liste|3|
+*[[Turgut Özal]]
+*[[Cavit Şadi Pehlivanoğlu]]
+*[[Mehmet Keçeciler]]
+*[[Mesut Yılmaz]]
+*[[Mehmet Cavit Kavak]]
+*[[Adnan Kahveci]]
+*[[Fahir Sabuniş]]
+*[[Cemil Çiçek]]
+*[[Ali Ayağ]]
+*[[Mustafa Rüştü Taşar|Mustafa Taşar]]
+*[[Kaya Erdem]]
+*[[Güneş Taner]]
+*[[Abdullah Tenekeci]]
+*[[Kazım Oksay]]
+*[[Recep Ercüment Konukman]]
+*[[Veysel Atasoy]]
+*[[Halil Şıvgın]]
+*[[Vehbi Dinçerler]]
+*[[Sudi Türel]]
+*[[Mehmet Necat Eldem|Necat Eldem]]
+*[[Ali Tanrıyar]]
+*[[Doğancan Akyürek|Bedrettin Doğancan Akyürek]]
+*[[İbrahim Özdemir]]
+*[[Abdulhalim Aras]]
+*[[Hüsnü Doğan]]
+*[[Leyla Yeniay Köseoğlu]]
+*[[Lütfullah Kayalar]]
+*[[Vural Arıkan]]
+*[[Bedrettin Dalan]]
+*[[Rıfat Diker]]
+*[[Murat Başesgioğlu]]
+*[[Melih Gökçek]]
+*[[Mehmet Altınsoy]]
+}}
+
+=== Genel başkanları ===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Turgut Özal cropped.jpg|75px]]
+! scope="row" align="left" | [[Turgut Özal]]<br />{{Küçük|(1927-1993)}}
+| 20 Mayıs 1983
+| 31 Ekim 1989
+| {{ayd|1983|5|20|1989|10|31}}
+|-
+| 2
+| [[Dosya:Yildirim Akbulut (1988).jpg|75px]]
+! scope="row" align="left" | [[Yıldırım Akbulut]]<br />{{Küçük|(1935-2021)}}
+| 31 Ekim 1989
+| 15 Haziran 1991
+| {{ayd|1989|10|31|1991|6|15}}
+|-
+| 3
+| [[Dosya:Mesut Yilmaz as Turkish Prime Minister.jpg|75px]]
+! scope="row" align="left" | [[Mesut Yılmaz]]<br />{{Küçük|(1947-2020)}}
+| 15 Haziran 1991
+| 27 Kasım 2002
+| {{ayd|1991|6|15|2002|11|27}}
+|-
+| data-sort-value="3.5" | —
+| 
+! scope="row" align="left" | [[Ekrem Pakdemirli]] {{Küçük|(vekil)}}<br />{{Küçük|(1939-2015)}}
+| 27 Kasım 2002
+| 11 Ocak 2003
+| {{ayd|2002|11|27|2003|1|11}}
+|-
+| 4
+| 
+! scope="row" align="left" | [[Ali Talip Özdemir]]<br />{{Küçük|{{Doğum yılı ve yaşı|1953}}}}
+| 11 Ocak 2003
+| 13 Aralık 2003
+| {{ayd|2003|1|11|2003|12|13}}
+|-
+| 5
+| 
+! scope="row" align="left" | [[Nesrin Nas]]<br />{{Küçük|{{Doğum yılı ve yaşı|1958}}}}
+| 13 Aralık 2003
+| 25 Kasım 2004
+| {{ayd|2003|12|13|2004|11|25}}
+|-
+| data-sort-value="5.5" | —
+| 
+! scope="row" align="left" | [[Halil İbrahim Özsoy]] {{Küçük|(vekil)}}<br />{{Küçük|(1938-2018)}}
+| 25 Kasım 2004
+| 2 Nisan 2005
+| {{ayd|2004|11|25|2005|4|2}}
+|-
+| 6
+| 
+! scope="row" align="left" | [[Erkan Mumcu]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1969|5|1}}}}
+| 2 Nisan 2005
+| 25 Ekim 2008
+| {{ayd|2005|4|2|2008|10|25}}
+|-
+| 7
+| 
+! scope="row" align="left" | [[Salih Uzun]]<br />{{Küçük|{{Doğum yılı ve yaşı|1970}}}}
+| 25 Ekim 2008
+| 31 Ekim 2009
+| {{ayd|2008|10|25|2009|10|31}}
+|}
+
+== Anavatan Partisi ve seçimler ==
+
+=== Genel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" | Seçim
+! rowspan="2" | Genel Başkan
+! rowspan="2" |Fotoğraf
+! colspan="3" | Oy
+! colspan="2" | Sandalye
+! rowspan="2" | Meclis
+! rowspan="2" | Sıra
+! rowspan="2" |Kurulan Hükûmetler
+! rowspan="2" |Harita
+|-
+! #
+! %
+! ± 
+! #
+! ±
+|-
+| [[1983 Türkiye genel seçimleri|1983]]
+| rowspan="2" | [[Turgut Özal]]
+| rowspan="2" |[[Dosya:Turgut Özal cropped.jpg|70pik]]
+| 7.833.148
+| {{Yüzde çubuğu|45.14|%45,14|c={{Siyasi parti renk|Anavatan Partisi}}}}
+| ''Yeni''
+| {{Composition bar|211|400|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{artış}} 212
+| {{evet2|İktidar}}
+| '''1.'''
+|[[45. Türkiye Hükûmeti]] 
+|[[Dosya:83_anap.png|çerçevesiz]]
+|-
+| [[1987 Türkiye genel seçimleri|1987]]
+| 8.704.335
+| {{Yüzde çubuğu|36.31|%36,31|c={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 8,83
+| {{Composition bar|292|450|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{artış}} 80
+| {{evet2|İktidar}}
+| '''1.'''
+|[[46. Türkiye Hükûmeti]]
+|[[Dosya:87_anap.png|çerçevesiz]]
+|-
+| [[1991 Türkiye genel seçimleri|1991]]
+| rowspan="4" | [[Mesut Yılmaz]]
+| rowspan="4" |[[Dosya:Mesut Yilmaz as Turkish Prime Minister.jpg|70pik]]
+| 5.862.623
+| {{Yüzde çubuğu|24.01|%24,01|c={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 12,30
+| {{Composition bar|115|450|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 177
+| {{hayır2|Muhalefet}}
+| 2.
+|—
+|[[Dosya:91_anap.png|çerçevesiz]]
+|-
+| [[1995 Türkiye genel seçimleri|1995]]
+| 5.527.288
+| {{Yüzde çubuğu|19.65|%19,65|c={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 4,36
+| {{Composition bar|132|550|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{artış}} 17
+| {{evet2|Koalisyon}}
+| 2.
+|[[53. Türkiye Hükûmeti]]<br>{{Küçük|(Koalisyon)}}<br> [[55. Türkiye Hükûmeti]]<br>{{Küçük|(Koalisyon)}}
+|[[Dosya:Anap_95.png|çerçevesiz]]
+|-
+| [[1999 Türkiye genel seçimleri|1999]]
+| 4.122.929
+| {{Yüzde çubuğu|13.22|%13,22|c={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 6,43
+| {{Composition bar|86|550|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 46
+| {{evet2|Koalisyon}}
+| 4.
+|[[57. Türkiye Hükûmeti]]<br>{{Küçük|(Koalisyon)}}
+|[[Dosya:99_anap_gs.png|çerçevesiz]]
+|-
+| [[2002 Türkiye genel seçimleri|2002]]
+| 1.601.322
+| {{Yüzde çubuğu|5.12|%5,12|c={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 8,10
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+| {{azalış}} 86
+| {{N/A}}
+| 7.
+|—
+|—
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Aday
+! colspan="3" |Turlar
+! rowspan="2" |Sonuç
+|-
+!Oy
+! %
+!Son tur
+|-
+|[[1989 Türkiye cumhurbaşkanlığı seçimi|1989]]
+|[[Dosya:Turgut Özal as Turkish Prime Minister.jpg|76px]]<hr>[[Turgut&nbsp;Özal]]
+|{{Composition bar|263|450|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|{{large|58.4%}}
+|'''3.'''
+|{{evet2| {{Y}} Seçildi}}
+|-
+|[[1993 Türkiye cumhurbaşkanlığı seçimi|1993]]
+|[[Kamran&nbsp;İnan]]
+|{{Composition bar|94|450|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|{{large|20.9%}}
+|3.
+| rowspan="2" {{hayır2|Seçilemedi}}
+|-
+|[[2000 Türkiye cumhurbaşkanlığı seçimi|2000]]
+|[[Dosya:Yildirim Akbulut (1988).jpg|76px]]<hr>[[Yıldırım&nbsp;Akbulut]]
+|{{Composition bar|88|550|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|{{large|16.0%}}
+|2.
+{{küçük|(çekildi)}}
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! rowspan="2" |Fotoğraf
+! colspan="3" | İl Genel Meclisi
+! rowspan=2| Belediye
+! rowspan="2" |Harita
+|-
+! Oy
+! %
+!±
+|-
+| [[1984 Türkiye yerel seçimleri|1984]] || rowspan="2" | [[Turgut Özal]] 
+| rowspan="2" |[[Dosya:Turgut Özal cropped.jpg|70pik]]|| 7.355.796 || {{Yüzde çubuğu|41.52|%41,52|c={{Siyasi parti renk|Anavatan Partisi}}}} 
+|''Yeni''|| {{Composition bar|871|1700|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|[[Dosya:84_anap.png|çerçevesiz]]
+|-
+| [[1989 Türkiye yerel seçimleri|1989]] || 4.828.164 || {{Yüzde çubuğu|21.80|%21,80|c={{Siyasi parti renk|Anavatan Partisi}}}} 
+|{{azalış}} %19,72|| {{Composition bar|570|1984|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|[[Dosya:89anap.png|çerçevesiz]]
+|-
+| [[1994 Türkiye yerel seçimleri|1994]] || rowspan="2" | [[Mesut Yılmaz]] 
+| rowspan="2" |[[Dosya:Mesut Yilmaz as Turkish Prime Minister.jpg|70pik]]|| 5.937.031 || {{Yüzde çubuğu|21.09|%21,09|c={{Siyasi parti renk|Anavatan Partisi}}}} 
+|{{azalış}} %0,72|| {{Composition bar|796|2695|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|[[Dosya:94_anap.png|çerçevesiz]]
+|-
+| [[1999 Türkiye yerel seçimleri|1999]] || 4.730.711 || {{Yüzde çubuğu|15.03|%15,03|c={{Siyasi parti renk|Anavatan Partisi}}}} 
+|{{azalış}}%6,04|| {{Composition bar|779|3200|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|[[Dosya:99_anap.png|çerçevesiz]]
+|-
+| [[2004 Türkiye yerel seçimleri|2004]] || [[Nesrin Nas]] 
+| || 807.842 || {{Yüzde çubuğu|2.50|%2,50|c={{Siyasi parti renk|Anavatan Partisi}}}} 
+| {{azalış}} %12,53|| {{Composition bar|100|3193|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|—
+|-
+| [[2009 Türkiye yerel seçimleri|2009]] || [[Salih Uzun]] 
+| || 309.594 || {{Yüzde çubuğu|0.75|%0,75|c={{Siyasi parti renk|Anavatan Partisi}}}} 
+| {{azalış}} %1,75|| {{Composition bar|17|2903|hex={{Siyasi parti renk|Anavatan Partisi}}}}
+|—
+|}
+
+== Kaynakça ==
+{{kaynakça}}
+{{ANAP Başkanları}}
+{{Türkiye'deki eski siyasi partiler}}
+{{Turgut Özal}}
+{{Otorite kontrolü}}
+
+[[Kategori:Türkiye'deki merkez sağ partiler]]
+[[Kategori:Türkiye'deki eski milliyetçi partiler]]
+[[Kategori:Türkiye'deki eski muhafazakâr partiler]]
+[[Kategori:Türkiye'deki eski liberal partiler]]
+[[Kategori:Liberal muhafazakâr partiler]]
+[[Kategori:1983'te kurulan siyasi partiler]]
+[[Kategori:2009'da kapatılan siyasi partiler]]
+[[Kategori:1983'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:2009'da Türkiye'de feshedilmiş oluşumlar]]

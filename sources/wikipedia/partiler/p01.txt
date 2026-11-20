@@ -1,0 +1,2322 @@
+{{Yönlendirme|CHP}}
+{{Siyasi parti bilgi kutusu
+| isim             = Cumhuriyet Halk Partisi
+| ülke             = {{bayraksimge|Türkiye}} [[Türkiye|Türkiye Cumhuriyeti]]
+| kısaltma         = CHP
+| amblem           = Cumhuriyet Halk Partisi Logo.svg
+| colorcode        = {{Siyasi parti renk|Cumhuriyet Halk Partisi}}
+| genel başkanı    = <!-- CHP şu an resmî kaynaklarda genel başkanını Kemal Kılıçdaroğlu olarak görmektedir ve Yargıtay Cumhuriyet Başsavcılığı resmî sitesinde CHP başkanı "Kemal Kılıçdaroğlu" olarak gözükmektedir. Lütfen değiştirmeyin. -->[[Kemal Kılıçdaroğlu]]<ref>{{Web kaynağı | url = https://www.yargitaycb.gov.tr/sipar/2 | başlık = Yargıtay Cumhuriyet Başsavcılığı Resmî Sitesi CHP Başkanı Kemal Kılıçdaroğlu | erişimtarihi = 26 Mayıs 2026 | ölüurl = hayır | website = yargitaycb.gov.tr | arşivurl = https://web.archive.org/web/20260526112902/https://www.yargitaycb.gov.tr/sipar/2 | arşivtarihi = 26 Mayıs 2026}}</ref><ref>{{Web kaynağı | url = https://chp.org.tr/genel-baskan/ozgecmisi | başlık = CHP Resmî Web Sitesi - CHP başkanı Kemal Kılıçdaroğlu | erişimtarihi = 26 Mayıs 2026 | ölüurl = hayır | website = chp.org.tr | arşivurl = https://web.archive.org/web/20260526104233/https://chp.org.tr/genel-baskan/ozgecmisi | arşivtarihi = 26 Mayıs 2026 }}</ref>
+| lider3_başlık    = [[Türkiye Büyük Millet Meclisi|Grup başkanı]]
+| lider3_isim      = [[Faik Öztrak (1954 doğumlu siyasetçi)|Faik Öztrak]]<ref>{{Web kaynağı|url=https://www.diken.com.tr/chpnin-yeni-grup-baskani-faik-oztrak/|başlık=CHP'nin yeni grup başkanı Faik Öztrak - Diken|erişimtarihi=26 Temmuz 2026|tarih=26 Temmuz 2026|dil=Türkçe|ad=Fazlı|soyadı=Gök|arşivurl=https://web.archive.org/web/20260726162052/https://www.diken.com.tr/chpnin-yeni-grup-baskani-faik-oztrak/|arşivtarihi=26 Temmuz 2026|ölüurl=hayı/ref>
+| slogan           = ''Şimdi Arınma Zamanı''<ref>{{Web kaynağı|url=https://www.diken.com.tr/chp-genel-merkezine-kilicdaroglu-posteri-asildi-simdi-arinma-zamani/|başlık=CHP genel merkezine Kılıçdaroğlu posteri asıldı: 'Şimdi arınma zamanı' - Diken|erişimtarihi=21 Temmuz 2026|tarih=29 Mayıs 2026|dil=Türkçe|ad=Fazlı|soyadı=Gök|arşivurl=https://web.archive.org/web/20260601075046/https://www.diken.com.tr/chp-genel-merkezine-kilicdaroglu-posteri-asildi-simdi-arinma-zamani/|arşivtarihi=1 Haziran 2026|ölüurl=hayır}}</ref>
+| genel sekreteri  = [[Rıfat Turuntay Nalbantoğlu]]
+| sözcüsü          = [[Müslim Sarı]]
+| kuruluş          = {{Açılış tarihi ve yaşı|1923|9|9}} (ilk kuruluş)<br />{{Açılış tarihi ve yaşı|1992|9|9}} (yeniden kuruluş)
+| kapanış          = 16 Ekim 1981
+| birleşme         = {{yalın liste|
+* [[Hürriyet Partisi]] (1958)
+* [[Sosyaldemokrat Halkçı Parti]] (1995)
+* [[Yeni Türkiye Partisi (2002)|Yeni Türkiye Partisi]] (2004)
+* [[Türkiye Değişim Partisi]] (2023)
+* [[Memleket Partisi]] (2025)
+}}
+| bölünme          = {{Daraltılabilir liste
+| bullets = no
+| title = Liste
+| [[Terakkiperver Cumhuriyet Fırkası]]<br>{{Küçük|(1924-1925)}}
+| [[Serbest Cumhuriyet Fırkası]]<br>{{Küçük|(1930)}}
+| [[Demokrat Parti (1946)|Demokrat Parti]]<br>{{Küçük|(1946-1960)}}
+| [[Cumhuriyetçi Güven Partisi]]<br>{{Küçük|(1967-1981)}}
+| [[Cumhuriyetçi Parti (Türkiye)|Cumhuriyetçi Parti]]<br>{{Küçük|(1972-1973)}}
+| [[Sosyaldemokrat Halk Partisi]]<br>{{Küçük|(2002-2010)}}
+| [[Halkın Yükselişi Partisi]]<br>{{Küçük|(2005-2018)}}
+| [[Anadolu Partisi]]<br>{{Küçük|(2014-2015)}}
+| [[Yenilik Partisi]]<br>{{Küçük|(2020-günümüz)}}
+| [[Memleket Partisi]]<br>{{Küçük|(2021-2025)}}
+| [[Yeni Parti (2026)|Yeni Parti]] {{Küçük|(2026-günümüz)}}
+}}
+| öncülü           = *[[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti]]
+*[[Kuvâ-yi Milliye]]
+| ardılı           = {{yalın liste|
+* [[Halkçı Parti]] (1983-1985)
+* [[Sosyal Demokrasi Partisi]] (1983-1985)
+* [[Demokratik Sol Parti]] (1985-günümüz)
+}}
+| merkez           = [[Çankaya]], [[Ankara]], [[Türkiye]]
+| kurucusu         = [[Mustafa Kemal Atatürk]]
+| üyelik           = {{azalış}} 1.879.973<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1110|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20190916182551/https://www.yargitaycb.gov.tr/icerik/1110|arşivtarihi = 16 Eylül 2019}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = [[Sosyal demokrasi]]<ref>{{Web kaynağı|url=http://partiiciegitim.chp.org.tr/dosyalar/mevzuat/CHP-Tuzuk.pdf|başlık=Cumhuriyet Halk Partisi - Parti İçi Eğitim Birimi|erişimtarihi=8 Mayıs 2022|arşivurl=https://web.archive.org/web/20150702001416/http://partiiciegitim.chp.org.tr/dosyalar/mevzuat/CHP-Tuzuk.pdf|arşivtarihi=2 Temmuz 2015|ölüurl=hayır}}</ref><ref>{{Web kaynağı|tarih=6 Ağustos 2020|başlık=The Republican People’s Party (CHP) is Complicit in the Erosion of Democracy in Turkey|url=https://gjia.georgetown.edu/2020/08/06/the-republican-peoples-party-chp-is-complicit-in-the-erosion-of-democracy-in-turkey/|erişimtarihi=1 Şubat 2022|website=Georgetown Journal of International Affairs|dil=İngilizce|arşivurl=https://web.archive.org/web/20220201135355/https://gjia.georgetown.edu/2020/08/06/the-republican-peoples-party-chp-is-complicit-in-the-erosion-of-democracy-in-turkey/|arşivtarihi=1 Şubat 2022|ölüurl=hayır}}</ref><br />[[Kemalizm]]<ref>{{Kitap kaynağı|author=Liza Mügge|bölüm=Brussels Calling: The European organisation of migrants from Turkey|editör1=Dirk Halm|editör2=Zeynep Sezgin|başlık=Migration and Organized Civil Society: Rethinking National Policy|bölümurl=https://books.google.com/books?id=ppYM_NZJsJUC&pg=PA167|yıl=2013|yayıncı=Routledge|isbn=978-1-136-24650-0|sayfa=167}}</ref><ref>{{Web kaynağı|url = https://content.chp.org.tr/file/chp_tuzuk_10_03_2018.pdf|başlık = Chp Parti Tüzüğü|erişimtarihi = 9 Nisan 2023|arşivtarihi = 16 Mart 2019|arşivurl = https://web.archive.org/web/20190316113117/https://content.chp.org.tr/file/chp_tuzuk_10_03_2018.pdf|tarih = 16 Mart 2019|ölüurl = hayır}} Başlık 10: ''"Cumhuriyet Halk Partisi, programındaki anlamlarıyla Atatürkçülüğün “Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik, Devrimcilik” ilkelerine bağlıdır."''</ref><br />[[Sosyal liberalizm]]<ref name="eğilimler">{{haber kaynağı|url=http://www.milliyet.com.tr/iste-chp-nin-4-egilimi/siyaset/siyasetdetay/09.07.2012/1564592/default.htm|başlık=İşte CHP’nin 4 eğilimi|erişimtarihi=6 Kasım 2016|tarih=9 Temmuz 2012|yer=Ankara|yayıncı=Milliyet|soyadı1=Tafolar|ad1=Meriç|arşivurl=https://web.archive.org/web/20150926011326/http://www.milliyet.com.tr/iste-chp-nin-4-egilimi/siyaset/siyasetdetay/09.07.2012/1564592/default.htm|arşivtarihi=26 Eylül 2015|ölüurl=hayır}}</ref><br />[[İlerlemecilik|İlericilik]]<ref>{{Web kaynağı|url=https://progressive-alliance.info/network/parties-and-organisations/|başlık=Parties & Organisations|erişimtarihi=8 Mayıs 2022|arşivurl=https://web.archive.org/web/20200424102948/https://progressive-alliance.info/network/parties-and-organisations/|arşivtarihi=24 Nisan 2020|ölüurl=hayır}}</ref><br />[[Pro-Avrupacılık]]<ref>{{Kitap kaynağı|bölüm=The European Union and the Justice and Development Party|editör1=Alfred Stepan|editör2=Ahmet T. Kuru|başlık=Democracy, Islam, and Secularism in Turkey|bölümurl=https://books.google.com/books?id=di6YdRMZMO0C&pg=PA184|yıl=2012|yayıncı=Columbia University Press|isbn=9780231159333|sayfa=184, paragraph 2}}</ref><br />'''Parti içi düşünceler:'''<br />[[Ulusalcılık]]<ref>{{Web kaynağı|url = https://www.gazeteduvar.com.tr/kilicdaroglu-ruzgari-aksener-bariyeri-makale-1607051|başlık = Kılıçdaroğlu rüzgarı, Akşener bariyeri|erişimtarihi = 7 Haziran 2023|ölüurl = hayır|website = gazeteduvar.com.tr|arşivurl = https://web.archive.org/web/20230308110936/https://www.gazeteduvar.com.tr/kilicdaroglu-ruzgari-aksener-bariyeri-makale-1607051|arşivtarihi = 8 Mart 2023}} Kaynaktan alıntı: ''"Kılıçdaroğlu’nun liderlik ettiği partisindeki ulusalcı, öncülük ettiği Millet İttifakı’ndaki milliyetçi-ülkücü kanadın direncine rağmen..."''</ref><ref>{{Web kaynağı|url = https://t24.com.tr/haber/chpnin-ulusalci-kanadinda-kaftancioglu-rahatsizligi,535881|başlık = CHP'nin 'ulusalcı' kanadında Kaftancıoğlu rahatsızlığı|erişimtarihi = 7 Haziran 2023|ölüurl = hayır|website = t24.com.tr|arşivurl = https://web.archive.org/web/20230403173502/https://t24.com.tr/haber/chpnin-ulusalci-kanadinda-kaftancioglu-rahatsizligi,535881|arşivtarihi = 3 Nisan 2023}}</ref><br>[[Demokratik sosyalizm]]<ref>{{Haber kaynağı|url=https://www.gazeteduvar.com.tr/demokratik-sosyalist-chpli-gencler-harekete-geciyor-haber-1506321|başlık='Demokratik sosyalist' CHP’li gençler harekete geçiyor|erişimtarihi=20 Ocak 2023|tarih=20 Ocak 2023|arşivurl=https://web.archive.org/web/20211126154528/https://www.gazeteduvar.com.tr/demokratik-sosyalist-chpli-gencler-harekete-geciyor-haber-1506321|arşivtarihi=26 Kasım 2021|ölüurl=hayır}}</ref>
+| pozisyon         = [[Merkez sol]]{{Adn|Parti içerisinde daha solda kalan fraksiyonlar da bulunmaktadır.{{Kaynak belirt}} Ayrıca bkz. [[ortanın solu]]}}
+| ulusal           = [[Güç Birliği Cephesi]] (1957-1958)<br>[[Millet İttifakı]] (2018-2023)
+| gençlik_kolu     = [[Cumhuriyet Halk Partisi Gençlik Kolları|CHP Gençlik Kolları]]
+| kol1_başlık      = Kadın kolu
+| kol1             = {{url|https://kadin.chp.org.tr/|2=CHP Kadın Kolları}}
+| uluslararası     = [[Sosyalist Enternasyonal]] (donduruldu)<ref name="halktv">{{Web kaynağı| url = https://halktv.com.tr/siyaset/son-dakika-sosyalist-enternasyonalden-butlan-chpsine-kotu-yeni-partiye-iyi-haber-1058797h| başlık = Arşivlenmiş kopya| erişimtarihi = 1 Ekim 2026| arşivtarihi = 1 Ekim 2026| arşivurl = https://web.archive.org/web/20261001163141/https://halktv.com.tr/siyaset/son-dakika-sosyalist-enternasyonalden-butlan-chpsine-kotu-yeni-partiye-iyi-haber-1058797h| ölüurl = hayır}}</ref> <br />[[İlerici İttifak]]<ref name="program"/><br />'''Tarihsel:'''<br />[[Radikal ve Benzeri Demokratik Partilerin Uluslararası Birliği|Radikal Enternasyonal]]<ref>{{Web kaynağı|başlık=International Entente of Radical and Similar Democratic Parties|url=http://www.lonsea.de/pub/org/928|çalışma=LONSEA – League of Nations Search Engine|erişimtarihi=25 Şubat 2023|arşivurl=https://web.archive.org/web/20230225003057/http://www.lonsea.de/pub/org/928|arşivtarihi=25 Şubat 2023|ölüurl=evet}}</ref><ref>{{Web kaynağı|başlık = Cumhuriyet Halk Partisi'nin diğer ülke partileriyle ilişkisi (1923-1950) / Relationship of Republican People's Party with parties from other countries (1923-1950)|url = https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=s6K0YsD5LRY65bcSueKUVg&no=7hnYaWRMYk3NNcLSIJeGiQ|erişimtarihi = 26 Kasım 2023|website = tez.yok.gov.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20231126103720/https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=s6K0YsD5LRY65bcSueKUVg&no=7hnYaWRMYk3NNcLSIJeGiQ|arşivtarihi = 26 Kasım 2023|ölüurl = evet}}</ref> (ilişkili)
+| avrupa           = [[Avrupa Sosyalistler Partisi]]<ref name="program"/> (ilişkili)
+| renkler          = {{Renk kutusu|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}} {{Renk kutusu|#FFFFFF}} [[Kırmızı]] ve [[beyaz]]<ref>{{Web kaynağı|url = http://kurultay.chp.org.tr/index.html|başlık = Cumhuriyet Halk Partisi - Kurumsal Kimlik|erişimtarihi = 17 Ağustos 2022|dil = Türkçe|çalışma = Kurumsal Kimlik|arşivurl = https://web.archive.org/web/20200420173640/http://kurultay.chp.org.tr/index.html|arşivtarihi = 20 Nisan 2020}}</ref>
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|44|600|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye2_başlık = [[Türkiye'de büyükşehir belediyeleri|Büyükşehir Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|5|30|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye3_başlık = [[Türkiye'nin illeri|İl Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|1|51|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye4_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye4        = {{Composition bar|63|922|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye5_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye5        = {{Composition bar|8|390|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = {{url|https://www.chp.org.tr}}
+| bayrak           = Flag of the Republican People's Party (Turkey).svg
+| sembol           = [[Dosya:CHP six arrows.svg|100px|bağlantı=Altı Ok]]
+| logo_boyutu      = 150px
+| sandalye6_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye6        = {{Composition bar|0|1282|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| sandalye7_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye7        = {{Composition bar|0|20953|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| öğrenci_kolu     = 
+}}
+'''Cumhuriyet Halk Partisi''', [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] [[Sosyal demokrasi|sosyal demokrat]] bir [[siyasi parti]]dir. Parti tüzüğüne göre resmî kısaltması "CHP" şeklindedir. Partinin [[Cumhuriyet Halk Partisi genel başkanları listesi|genel başkanı]] [[Kemal Kılıçdaroğlu]], [[Cumhuriyet Halk Partisi genel sekreterleri listesi|genel sekreteri]] [[Rıfat Turuntay Nalbantoğlu]]'dur. Türkiye Cumhuriyeti'nin kurucusu ve ilk [[Türkiye cumhurbaşkanı|cumhurbaşkanı]] [[Mustafa Kemal Atatürk]] tarafından kurulan parti, Türkiye'nin en eski siyasi partisidir.<ref>{{Web kaynağı|url = https://www.bbc.com/turkce/articles/cy7yy1dy755o|başlık = CHP’nin ideolojisi: Nasıl bir geçmişten geliyor? Nasıl bir geleceğe gidiyor?|erişimtarihi = 9 Nisan 2025|tarih = 31 Temmuz 2023|dil = Türkçe|çalışma = BBC News Türkçe|arşivurl = https://web.archive.org/web/20230801035003/https://www.bbc.com/turkce/articles/cy7yy1dy755o|arşivtarihi = 1 Ağustos 2023}}</ref> Logosu, [[Kemalizm]]'in temel ilkelerini temsil eden [[Altı Ok]]'tan oluşmaktadır: [[cumhuriyetçilik]], [[Reformizm|devrimcilik]], [[Türkiye'de laiklik|laiklik]], [[Popülizm|halkçılık]], [[milliyetçilik]] ve [[devletçilik]]. Şu anda 44 milletvekili ile [[Türkiye Büyük Millet Meclisi|Türkiye Büyük Millet Meclisindeki]] en büyük beşinci partidir. Parti, [[İlerici İttifak]] tam üyesidir ve [[Avrupa Sosyalistler Partisi|Avrupa Sosyalistler Partisinin]] ilişkili üyesidir. 28 Eylül 1978'den beri tam üyesi olduğu [[Sosyalist Enternasyonal]] 1 Ekim 2026 tarihinde Etik Şartı'na aykırılık veya ilgili süreçler gerekçesiyle üyeliğini dondurmuştur.<ref name="halktv" />
+
+Cumhuriyet Halk Partisinin kökeni, [[Türk Kurtuluş Savaşı]] sırasında kurulan çeşitli [[Müdâfaa-i hukuk cemiyetleri|direniş gruplarına]] kadar dayanır; bu grupların çoğu daha önce [[İttihat ve Terakki|İttihat ve Terakki Cemiyeti]] ile bağlantılı kişilerden oluşuyordu. Mustafa Kemal Atatürk'ün liderliğinde bu gruplar, [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti]] adıyla 1919'daki [[Sivas Kongresi]]'nde birleşti.<ref>{{Web kaynağı|url=http://www.atam.gov.tr/wp-content/uploads/%C4%B0hsan-G%C3%9CNE%C5%9E-M%C3%BCdafaa-i-Hukuk-Cemiyetinden-Halk-F%C4%B1rkas%C4%B1na-Ge%C3%A7i%C5%9F.pdf|başlık=Arşivlenmiş kopya|erişimtarihi=18 Ekim 2021|arşivtarihi=12 Temmuz 2018|arşivurl=https://web.archive.org/web/20180712231710/http://www.atam.gov.tr/wp-content/uploads/%C4%B0hsan-G%C3%9CNE%C5%9E-M%C3%BCdafaa-i-Hukuk-Cemiyetinden-Halk-F%C4%B1rkas%C4%B1na-Ge%C3%A7i%C5%9F.pdf|ölüurl=hayır}}</ref> 1923 yılında '''Halk Fırkası''' adıyla siyasi bir örgüt olarak kurulan parti, kısa bir süre sonra '''Cumhuriyet Halk Fırkası''' adını aldı ve Atatürk'ün ilk cumhurbaşkanı olduğu [[Türkiye'de cumhuriyetin ilanı|Türkiye Cumhuriyeti'nin kuruluşunu]] ilan etti.<ref>{{Web kaynağı|url=https://content.chp.org.tr/file/46181.pdf|başlık=Arşivlenmiş kopya|erişimtarihi=18 Ağustos 2021|arşivtarihi=18 Ağustos 2021|arşivurl=https://web.archive.org/web/20210818145732/https://content.chp.org.tr/file/46181.pdf|ölüurl=hayır}}</ref> [[Türkiye'de tek partili dönem|Türkiye'nin tek parti dönemine]] geçmesiyle birlikte, CHP ülkede kapsamlı [[Atatürk Devrimleri|siyasi, kültürel, sosyal ve ekonomik reformların]] uygulanmasında temel araç hâline geldi.
+
+[[II. Dünya Savaşı]]'nın ardından, Atatürk'ün halefi [[İsmet İnönü]] çok partili seçimlere izin verdi ve CHP, [[1950 Türkiye genel seçimleri|1950 genel seçimlerini]] kaybettikten sonra iktidarı [[Barışçıl iktidar geçişi|barışçıl bir şekilde devrederek]] tek parti dönemini sona erdirip [[Türkiye'de çok partili dönem|Türkiye'nin çok partili dönemini]] başlattı. [[27 Mayıs Darbesi|1960 Askerî Darbesi]]'ni izleyen yıllarda parti kademeli olarak [[merkez sol]] çizgiye yöneldi; bu yönelim, 1972 yılında [[Bülent Ecevit]]'in genel başkan [[Cumhuriyet Halk Partisi 21. Olağan Kurultayı|olmasıyla]] birlikte kesinlik kazandı. CHP, dönemin diğer tüm partileriyle birlikte [[12 Eylül Darbesi|1980 Askerî Darbesi]] sonrasında kapatıldı. Parti, 9 Eylül 1992'de [[Deniz Baykal]] tarafından, 1980 öncesi üyelerinin çoğunluğunun katılımıyla, yeniden ve orijinal adıyla kuruldu.<ref>[http://www.chp.org.tr/?page_id=67&page=19 CHP Tarihçesi 12 Eylül Öncesi] {{Webarşiv|url=https://web.archive.org/web/20131226073530/http://www.chp.org.tr/?page_id=67&page=19|tarih=26 Aralık 2013}} ''CHP Resmî İnternet Sitesi''</ref> Yeniden kuruluşundan itibaren en uzun süre görev yapan genel başkan [[Kemal Kılıçdaroğlu]]'dur. Parti, 2002 yılından Temmuz 2026'da [[Yeni Parti (2026)|Yeni Partinin]] [[Türkiye ana muhalefet partisi lideri|ana muhalefet]] statüsünü kazanmasına dek, iktidardaki [[Adalet ve Kalkınma Partisi|Adalet ve Kalkınma Partisine]] karşı ana muhalefet görevini sürdürmüştür.<ref>{{Web kaynağı|url=https://www.chp.org.tr/haberler/chp-tarihi|başlık=History of the CHP.|erişimtarihi=21 Eylül 2021|arşivtarihi=18 Eylül 2021|arşivurl=https://web.archive.org/web/20210918005629/https://chp.org.tr/haberler/chp-tarihi|dil=Türkçe|çalışma=CHP}}</ref>{{TOClimit}}
+
+== Tarihçe ==
+{{Ana|Cumhuriyet Halk Partisi tarihi}}
+
+=== Kuruluşu: 1919-1923 ===
+4-11 Eylül 1919 tarihleri arasında toplanan [[Sivas Kongresi]]'nde, [[Türkiye]]'nin çeşitli bölgelerinde kurulan [[müdâfaa-i hukuk cemiyetleri]], [[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti]] (ARMHC) adı altında birleştirilmiştir. 23 Nisan 1920 tarihinde toplanan [[Türkiye Büyük Millet Meclisi]] ARMHC delegelerinden oluşmuş, ancak 1922'de Meclis, Birinci Grup ve [[İkinci Grup]] adıyla iki gruba ayrılmıştır.<ref>[http://www.chp.org.tr/?page_id=67&page=3 CHP'nin kuruluşu] {{Webarşiv|url=https://web.archive.org/web/20131226073519/http://www.chp.org.tr/?page_id=67&page=3|tarih=26 Aralık 2013}} ''CHP Resmî İnternet Sitesi''</ref> Mustafa Kemal Atatürk'ün takipçileri daha sonra "birinci grup" olarak adlandırılmıştır.
+
+İkinci grup, azınlık olsa da parlamentoda güçlü bir muhalefet oluşturdu. [[Lozan Antlaşması]]'nın kabulü nedeniyle Meclis'te baş gösteren yoğun tartışmalar üzerine Mustafa Kemal Atatürk, 9 Eylül 1923 tarihinde [[Dokuz Umde]] adı verilen siyasi programı ilan etti ve iki gün sonra [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]]'na verilen bir dilekçeyle kendine bağlı milletvekillerinden oluşan Halk Fırkası'nı kurdu. Mayıs 1923'te meclis, Mustafa Kemal ve arkadaşlarının Lozan Antlaşması'nın daha güçlü bir meclis tarafından onaylanmasını sağlamak amacıyla yeni seçimler için bir tasarı hazırladı. Halk Fırkası, [[1923 Türkiye genel seçimleri|1923 seçimlerinden]] sonra resmi olarak kuruldu. İkinci dönem için görev yapan mecliste Lozan Antlaşması kabul edildi, [[Türkiye'de cumhuriyetin ilanı|cumhuriyet ilan edildi]] ve [[Hilâfetin kaldırılması|halifelik kaldırıldı]].<ref>{{Web kaynağı|url = https://www.trtworld.com/magazine/turkey-still-debates-whether-treaty-of-lausanne-was-a-fair-peace-deal-14632|başlık = Turks still debate whether Treaty of Lausanne was fair to Turkey|erişimtarihi = 17 Temmuz 2019|tarih = 26 Ocak 2018|yayıncı = TRT World|yazar = Murat Sofuoğlu|arşivurl = https://web.archive.org/web/20190717180432/https://www.trtworld.com/magazine/turkey-still-debates-whether-treaty-of-lausanne-was-a-fair-peace-deal-14632|arşivtarihi = 17 Temmuz 2019}}</ref>
+
+Partinin resmî kuruluş tarihi 11 Eylül 1923 olmasına rağmen, partinin kuruluş tarihi daha sonradan partileşme kararının alındığı 9 Eylül 1923 olarak kabul edilmiştir.<ref>[[Encyclopædia Britannica|Encyclopædia Britannica Fifteenth Edition]]</ref>
+
+=== Tek parti dönemi: 1923-1946 ===
+
+==== Atatürk dönemi: 1923-1938 ====
+[[Dosya:Atatürk_ve_İnönü_16-06-1936.jpg|sol|küçükresim|[[Mustafa Kemal Atatürk]] ve Başbakan [[İsmet İnönü]], 1936]]
+Türkiye'nin siyasi tarihinde, pratikte Cumhuriyet Halk Partisi [[Jön Türkler]] ve [[İttihat ve Terakki|İttihat ve Terakkinin]] devamı olarak değerlendirilmiştir. Partinin kuruluşunun ardından 1924'te, radikal devrimlere karşı çıkan muhalifler, [[Kâzım Karabekir]] liderliğinde [[Terakkiperver Cumhuriyet Fırkası|Terakkiperver Cumhuriyet Fırkasını]] kurdu. Terakkiperver Cumhuriyet Fırkası, [[Şeyh Said İsyanı]]'na karışmak ve Atatürk'e suikast planlamakla suçlandı. Başbakan İnönü, hükûmete olağanüstü yetkiler veren bir yasa sundu ve sıkıyönetim ilan edildi, CHP dışındaki tüm siyasi partiler yasaklandı, devlet onayı olmayan gazetelerin yayımlanması yasaklandı (bu yasak 1930'a kadar sürdü).<ref name="ck-kaynak">{{kitap kaynağı|başlık=Tek Parti, Cumhuriyet ve Şefler, 1. Baskı|tarih=2016|sayfalar=170, 171|yayıncı=Timaş Yayınları|ad=Cemil|soyadı=Koçak}}<!-- auto-translated by Module:CS1 translator --></ref> Türkiye, [[Serbest Cumhuriyet Fırkası|Serbest Cumhuriyet Fırkasının]] kurulduğu dönem dışında 1946 yılına kadar [[Tek parti rejimi|tek partili rejimde]] yönetildi. 1923'ten 1946'ya kadar, CHP Türkiye'yi dönüştüren kapsamlı [[Sosyoloji|sosyal]], [[kültür]]el, [[ekonomi]]k ve [[hukuk]]i reformlar başlattı. Bu reformlar arasında [[İsviçre Medeni Kanunu]] ve [[İtalyan Ceza Kanunu]]'nun benimsenmesi, sanayileşmenin hızlandırılması, [[toprak reformu]] ve kırsal kalkınma programları, [[İskân Kanunu (1934)|iskân kanunu]], [[laiklik]], [[Türkiye'de kadınlara seçme ve seçilme hakkının tanınması|kadınların seçme ve seçilme hakkı]] ve [[Latin harfleri]]ne geçilmesini sağlayan [[Harf Devrimi]] gibi birçok adım bulunuyordu. Bu dönemde [[ulus inşası]]na öncelik verildi. Bu süreçte [[Atatürk milliyetçiliği|milliyetçilik]] ilkesinin benimsenmesi, [[Dil Devrimi]] ve [[sözdebilim]]sel teorilerin ([[Güneş-Dil Teorisi]] ve [[Türk Tarih Tezi]]) ortaya konulmasıyla [[Türk milliyetçiliği]] ideolojisi yayıldı. Partinin 1927'deki [[Cumhuriyet Halk Fırkası 2. Olağan Kongresi|ikinci olağan kongresinde]], Atatürk Türk tarihindeki son on yılın belirleyiciliğine bir konuşma yaparak gençlere Cumhuriyet'i koruma çağrısında bulundu. [[Atatürk kişi kültü]]nün tarihsel yazımının temelini bu anlatı oluşturduğu öne sürülmüştür.<ref>{{kitap kaynağı|url=https://books.google.com/books?id=duRwPgAACAAJ|başlık=Daring and Caution in Turkish Strategic Culture: Republic at Sea|sayfalar=233|yayıncı=Palgrave Macmillan UK|yıl=2009|author=Malik Mufti|isbn=9780230236387}}</ref> 1930-1939 yılları arasında, CHP ideolojisini netleştirdi ve "[[Altı Ok]]" duyuruldu. Bu dönemde parti tarihsel görüşlerden ayrılarak [[cumhuriyetçilik]], [[milliyetçilik]], [[laiklik]], [[devrimcilik]], [[halkçılık]] ve [[devletçilik]] ilkelerini benimsedi.
+[[Dosya:Cumhuriyet_Halk_Fırkası_Halk_Kürsüsü.jpg|küçükresim|CHP (O zamanki kısaltmasıyla "CHF") 1930'lar boyunca Halk Kürsüsü gibi birçok [[ulus inşası]] projesini gerçekleştirmiştir.]]
+[[Dosya:CHP_4._Büyük_Kurultayı.jpg|küçükresim|Partinin 4. Olağan Kurultayı sırasında [[Türkiye Büyük Millet Meclisi|Büyük Millet Meclisi]] bahçesindeki [[Altı Ok]] heykeli, 1935]]
+29 Mayıs 1935 tarihinde toplanan [[Cumhuriyet Halk Partisi 4. Olağan Kurultayı|4. Olağan Kurultayı]]'da partinin adı, Dil Devrimi doğrultusunda Cumhuriyet Halk Partisi olarak değiştirildi.<ref>[http://www.kaynakyayinlari.com/pinfo.asp?pid=2491 Atatürk'ün CHP Program ve Tüzükleri] {{Webarşiv|url=https://web.archive.org/web/20120111052636/http://www.kaynakyayinlari.com/pinfo.asp?pid=2491|tarih=11 Ocak 2012}}, Doğu Perinçek, Kaynak Yayınları, 2. Basım, sf. 171, ISBN 978-975-343-526-0</ref> 18 Haziran 1936 tarihinde yayımlanan bir genelgeyle bütün illerde parti il başkanlığı valilikle birleştirildi. İçişleri bakanı, parti genel sekreterliği sıfatını üstlendi. 5 Şubat 1937 tarihinde yapılan anayasa değişikliğiyle, CHP'nin "Altı Ok"u [[Teşkîlât-ı Esâsiye Kanunu (1924)|Türkiye Cumhuriyeti Anayasası]]'na resmen dâhil edildi.<ref name="ktay2">[https://web.archive.org/web/20120311204903/http://www.belgenet.com/parti/chpkurultay.html CHP ve Kurultaylar tarihi... (1919-1950)] ''Belgenet.net''</ref>
+
+[[Büyük Buhran]]'ın başlamasıyla birlikte, parti, Başbakan İnönü ve Maliye Bakanı [[Celâl Bayar|Celal Bayar]] tarafından savunulan devletçi ve liberal fraksiyonlara ayrıldı. Atatürk genellikle İsmet İnönü'nün politikalarını destekledi. Türkiye'nin erken dönemde ekonomik gelişimi büyük ölçüde devlet girişimleriyle sağlandı.
+
+==== İnönü dönemi: 1938-1946 ====
+[[Mustafa Kemal Atatürk'ün ölümü ve devlet cenaze töreni|Atatürk'ün ölümünden]] bir gün sonra, [[İsmet İnönü]] ikinci cumhurbaşkanı [[1938 Türkiye cumhurbaşkanlığı seçimi|seçildi]] ve Cumhuriyet Halk Partisi'nin liderliğini üstlendi.<ref name=":22">{{Kitap kaynağı|başlık=Atatürk|sayfalar=182|yayıncı=[[Routledge]]|yıl=2014|ad=A.L.|soyadı=Macfie|isbn=978-1-138-83-647-1|yazarbağı=A. L. Macfie}}</ref> İnönü döneminde, ekonomiye devlet müdahalesi politikası benimsendi ve [[Köy enstitüsü|Köy Enstitüleri]] gibi kırsal kalkınma girişimleri yapıldı. [[Hatay Devleti]] referandum sonucu anavatana katıldı. İnönü, Türkiye'yi [[II. Dünya Savaşı]]'na çekmeye çalışan [[Müttefik Devletler|Müttefik]] ve [[Mihver Devletleri|Mihver]] güçlerine rağmen tarafsızlık politikası benimsedi; bu süreçte, silahlı bir güç olarak tarafsızlığı sağlamak için [[zorunlu askerlik]] ve kısıtlama önlemleri uygulandı. Savaşın ilerleyen sürecinde, [[Irkçılık-Turancılık Davası]]'yla beraber [[Türkçülük|Pan-Türkistler]] partiden uzaklaştırıldı.
+
+[[II. Dünya Savaşı]]'nın ardından İnönü, Türkiye'nin demokratikleşmesini sağlamaya çalıştı. Savaşın sona ermesiyle birlikte, liberal ve devletçi fraksiyonlar arasındaki tartışmalar yeniden ortaya çıktı. [[Dörtlü Takrir]], özellikle Celal Bayar olmak üzere bazı CHP üyelerinin istifasına neden oldu; Bayar daha sonra [[Demokrat Parti (1946)|Demokrat Parti]] (DP)'yi kurdu. İnönü, 1946'da çok partili genel seçim düzenleme kararı aldı. CHP 465 sandalyenin 397'sini kazandı. Demokrat Parti'nin muhalefeti ve [[Amerika Birleşik Devletleri]]'nin çabalarıyla, parti komünizme karşı bir tavır aldı ve bazı kırsal kalkınma programlarını durdurdu.<ref>Demirci, Fatih ''Kadro Hareketi ve Kadrocular'', Dumlupınar Üniversitesi Sosyal Bilimler Dergisi, 2006, sayı 15.</ref><ref>Ergüder, J. ''1927 Komünist Tevkifatı, "İstanbul Ağır Ceza Mahkemesindeki Duruşma"'', Birikim Yayınları, İstanbul, 1978</ref> 1946-1950 yılları arasındaki dönem, İnönü'nün Türkiye'yi Batı ile yakınlaştırdığı bir dönemdir.<ref name=":7">{{Web kaynağı|url=https://www.ismetinonu.org.tr/ismet-inonunun-cumhurbaskanligi-doneminde-yuksekogretimdeki-gelismeler-1938-1950/|başlık=İsmet İnönü'nün Cumhurbaşkanlığı Döneminde Yükseköğretimdeki Gelişmeler (1938-1950)|arşivtarihi=19 Mart 2017|arşivurl=https://web.archive.org/web/20170319101245/http://www.ismetinonu.org.tr/index.php/cumhurbaskanligi-yillari/universite-ozerkligi|website=İnönü Vakfı|ad=Mahmut|soyadı=Adem|ölüurl=hayır}}</ref><ref name=":32">{{Web kaynağı|url=https://www.ismetinonu.org.tr/cok-partili-duzene-gecis/|başlık=I. DEVRİM YOLU ve KARŞI-DEVRİM GİRİŞİMLERİ|arşivtarihi=7 Mayıs 2017|arşivurl=https://web.archive.org/web/20170507015734/http://www.ismetinonu.org.tr/index.php/cok-partili-duzene-gecis|website=İnönü Vakfı|ad=Sina|soyadı=Akşin|ölüurl=hayır}}</ref> [[1950 Türkiye genel seçimleri|1950]] yılında gizli oy açık tasnif ilkesiyle seçimler düzenlendi. İnönü, iktidarın barışçıl bir şekilde değiştirilmesine liderlik etti. 1950 seçimlerinden bu yana, parti parlamentodaki salt çoğunluğu kazanamamıştır.<ref>{{Web kaynağı|url = http://electionresources.org/tr/|başlık = Election Resources on the Internet: Elections to the Turkish Grand National Assembly|erişimtarihi = 17 Temmuz 2019|yazar = Manuel Álvarez-Rivera|arşivurl = https://web.archive.org/web/20070515095530/http://electionresources.org/tr/|arşivtarihi = 15 Mayıs 2007}}</ref>
+
+=== Politika değişiklikleri: 1950-1980 ===
+1950'lerde uygulanan [[çoğunluk sistemi]]nden dolayı, DP nispeten yakın oy oranları almasına rağmen açık ara farkla meclisi kazandı. Bu durum CHP'nin 10 yıl boyunca muhalefette kalmasına neden oldu. Bu süre zarfında, parti politikaları dönüşüm geçirerek [[sosyal demokrasi]]ye doğru yöneldi. İsmet İnönü, iktidarı kaybetmeden önce işçi haklarını yasalaştırdı. 1951'deki [[Cumhuriyet Halk Partisi 9. Olağan Kurultayı|dokuzuncu kurultayda]] gençlik ve kadın kolları kuruldu. 1953'te sendikaların ve meslek odalarının kurulması önerildi ve partinin programına iki meclisli bir parlamento, anayasa mahkemesinin kurulması, seçim güvenliği, yargı bağımsızlığı ve işçilerin grev hakkı gibi konuların desteklenmesi eklendi.<ref name="Ensonhaber">{{Web kaynağı|url = http://www.ensonhaber.com/inonunun-mbkye-gonderdigi-menderes-mektubu-2012-09-24.html|başlık = İnönü'nün MBK'ye gönderdiği Menderes mektubu|tarih = 24 Eylül 2012|çalışma = Ensonhaber|arşivurl = https://web.archive.org/web/20120926013906/http://www.ensonhaber.com/inonunun-mbkye-gonderdigi-menderes-mektubu-2012-09-24.html|arşivtarihi = 26 Eylül 2012}}</ref>
+
+DP ve CHP rakip olsalar da DP iktidarı çoğunlukla [[Kemalizm|Kemalist]] politikaları sürdürdü. Ancak Demokrat Parti yönetimi iktidarının sonlarına doğru giderek otoriterleşti. İnönü, DP taraftarları tarafından defalarca linç girişimine maruz kaldı. DP hükûmeti CHP'ye ait mal varlıklarına el koydu. CHP'nin [[1957 Türkiye genel seçimleri|1957 seçimlerinde]] muhalefet partileriyle seçim ittifakı kurmasını engellendi. Süreci takiben [[27 Mayıs Darbesi|27 Mayıs 1960]] tarihinde Türkiye tarihinde ilk askerî darbe yapıldı. Askerî yönetim döneminde DP kapatıldı ve Başbakan [[Adnan Menderes]] idam edildi. DP'nin politikalarını izleyen siyasi oluşumlar o dönemden beri CHP'yi Menderes'in idamına ilişkin algılanan rolü nedeniyle eleştirmektedir.<ref name="Ensonhaber" />
+
+CHP [[1961 Türkiye genel seçimleri|1961 seçimlerinden]] birinci parti olarak çıktı ve DP'nin halefi [[Adalet Partisi (1961-1981)|Adalet Partisi]] ile [[26. Türkiye Hükûmeti|koalisyon]] kurdu. Türkiye'de kurulan ilk koalisyon hükûmeti yedi ay görev yaptı. İnönü [[1965 Türkiye genel seçimleri|1965 seçimlerine]] kadar diğer [[27. Türkiye Hükûmeti|iki kere]] [[28. Türkiye Hükûmeti|daha hükûmet]] kurdu. Dönemin çalışma bakanı [[Bülent Ecevit]], işçilere grev hakkı ve toplu sözleşme hakkı tanımada etkili oldu, partideki [[Demokratik sol|Demokratik Sol]] hareketin lideri olarak, CHP'nin [[Ortanın solu]] programını benimsemesine katkıda bulundu.<ref>{{web kaynağı|url=http://www.sbe.deu.edu.tr/dergi/cilt10.say%C4%B13/10.3%20esmer.pdf|başlık=Propaganda, Söylem ve Sloganlarla Ortanın Solu|erişimtarihi=17 Temmuz 2019|arşivtarihi=10 Aralık 2021|arşivurl=https://web.archive.org/web/20211210082459/https://sbe.deu.edu.tr/dergi/cilt10.say%C4%B13/10.3%20esmer.pdf|dil=Türkçe|yayıncı=[[Dokuz Eylül Üniversitesi|Dokuz Eylül University]]|yazar=Gülsüm Tütüncü Esmer|ölüurl=evet}}</ref>
+[[Dosya:IICCR_BA572_Bülent_Ecevit_and_Nicolae_Ceaușescu.jpg|küçükresim|[[Bülent Ecevit]] ve [[Nikolay Çavuşesku]],1978]]
+İnönü'nün Ecevit'in politikalarını desteklemesinin ardından [[Turhan Feyzioğlu]] CHP'den ayrılarak [[Cumhuriyetçi Güven Partisi|Güven Partisi]]'ni kurdu. Ecevit'i neden desteklediği sorulduğunda İnönü "Aslında [[Laiklik|laikiz]] dediğimiz günden beri ortanın solundayız" şeklinde yanıt verdi.<ref>{{Web kaynağı|url=http://www.ismetinonu.org.tr/index.php/cumhuriyet-halk-partisinde-gelismeler/ortanin-solu|başlık=İsmet İnönü foundation page by Şerafettin Turan|erişimtarihi=20 Nisan 2023|arşivtarihi=16 Eylül 2018|arşivurl=https://web.archive.org/web/20180916033343/http://www.ismetinonu.org.tr/index.php/cumhuriyet-halk-partisinde-gelismeler/ortanin-solu|dil=Türkçe|ölüurl=evet}}</ref> Feyzioğlu'nun ayrılmasıyla CHP [[1969 Türkiye genel seçimleri|1969 seçimlerine]] [[merkez sol]] bir programla katıldı, ancak partiye olan algı nedeniyle benzer bir sonuç elde etti; Bu algıya göre parti öncelikle eğitimli kentsel elitlere hitap ediyordu. İnönü muhalefet lideri ve CHP'nin lideri olarak 8 Mayıs 1972'ye kadar görev yaptı, ancak [[12 Mart Muhtırası|1971 Muhtırası]]'na yaklaşımı nedeniyle yerine [[Cumhuriyet Halk Partisi 6. Olağanüstü Kurultayı|kurultayda]] [[Bülent Ecevit|Ecevit]] seçildi.
+
+Ecevit belirgin olarak [[Solculuk|sol]] siyasi politikaları benimsedi. [[1973 Türkiye genel seçimleri|1973 seçimlerine]] Ecevit'in liderliğinde katılan CHP seçimlerden zaferle ayrıldı. CHP-[[Millî Selamet Partisi|MSP]] [[37. Türkiye Hükûmeti|koalisyonu]] kuruldu. Bu dönemde [[Türkiye'nin Kıbrıs çıkarması|Kıbrıs'a müdahale]] kararı alındı. 1970'lerde parti, yoğun kutuplaşma döneminde ve siyasi şiddet atmosferinde sendikalar ve solcu gruplarla ilişkilerini sağlamlaştırdı. [[1977 Türkiye genel seçimleri|1977]]'de CHP Ecevit döneminde çok partili siyasi tarihinin en yüksek oy oranını alarak %41'i yakaladı, ancak hükûmeti kurmak için yeterli çoğunluğu sağlayamadı. Ecevit ve rakibi [[Süleyman Demirel]] siyasi istikrarsızlık döneminde sürekli ardı ardına hükûmetler kurdu. [[12 Eylül Darbesi|1980 Askerî Darbesi]] bu durumu sona erdirdi. Bu dönemde tüm siyasi partiler kapatıldı ve önceki dönem siyasetçilerin siyaset yapması yasaklandı.<ref>{{haber kaynağı|url=http://www.stargazete.com/gazete/yazar/savci-ergenekon-u-kenan-evren-e-sormali-asil-113287.htm|başlık=Savcı, Ergenekon'u Kenan Evren'e sormalı asıl!|erişim-tarihi=7 Temmuz 2019|tarih=14 Temmuz 2008|dil=Türkçe|çalışma=Star Gazete|ad=Aziz|soyadı=Ustel|arşivurl=https://web.archive.org/web/20120214193203/http://www.stargazete.com/gazete/yazar/savci-ergenekon-u-kenan-evren-e-sormali-asil-113287.htm|arşivtarihi=14 Şubat 2012|ölüurl=hayır}}</ref>
+
+=== Kapatılması ve yeniden kuruluşu: 1980-2002 ===
+{{Ayrıca bakınız|Halkçı Parti|Sosyal Demokrasi Partisi|Sosyaldemokrat Halkçı Parti|Demokratik Sol Parti}}1981 yılında Cumhuriyet Halk Partisi diğer tüm siyasi partilerle beraber kapatıldı. 1981 yılında kapatılan siyasi partilerin adı ve kısaltması ile yeni siyasi parti kurulamadı. 1985'e gelindiğinde CHP'nin halefi olan [[Halkçı Parti]] (HP) ve [[Sosyal Demokrasi Partisi]] (SODEP) birleşerek [[Sosyaldemokrat Halkçı Parti]]'yi (SHP) oluşturdu, [[Bülent Ecevit]]'in eşi [[Rahşan Ecevit]] ise [[Demokratik Sol Parti]]'yi (DSP) kurdu.<ref name="Ciddi 79">{{Kitap kaynağı|başlık=Kemalism in Turkish Politics: The Republican People's Party, Secularism and Nationalism|tarih=13 Ocak 2009|dil=İngilizce|sayfalar=79|yayıncı=Routledge|ad=Sinan|soyadı=Ciddi|isbn=9781134025596}}</ref>  [[İsmet İnönü]]'nün oğlu [[Erdal İnönü]] ise daha sonradan [[Sosyaldemokrat Halkçı Parti]] (SHP) genel başkanı oldu.
+[[Dosya:Türkiye'de yeni CHP afişi, 1995.webp|küçükresim|"Dünyada Yeni Sol, Türkiye'de Yeni CHP" afişi, 1995]]
+
+1980 öncesi siyasetçilerin siyasi yasaklarının kaldırılmasının ardından [[Deniz Baykal]] ve parti kapatılmadan önce parti yönetimini oluşturan isimler isim hakları konusundaki yasağın kaldırılmasıyla beraber Cumhuriyet Halk Partisi'ni 1992'de yeniden faaliyete geçirdi. Ayrıca parti [[Anayasa Mahkemesi (Türkiye)|Anayasa Mahkemesi]]'nin kararıyla birlikte 1981 yılında Hazine'ye devredilen varlıklarını geri aldı.<ref>{{Web kaynağı|url = https://www.indyturk.com/node/132426/t%C3%BCrkiye-i%C5%9F-bankas%C4%B1%E2%80%99ndaki-chp-hisselerinin-hazine%E2%80%99ye-devrine-miras-hukuku-engel|başlık = Türkiye İş Bankası’ndaki CHP hisselerinin Hazine’ye devrine miras hukuku engel|erişimtarihi = 3 Mayıs 2024|tarih = 14 Şubat 2020|dil = Türkçe|çalışma = Independent Türkçe|arşivurl = https://web.archive.org/web/20210702221329/https://www.indyturk.com/node/132426/t%C3%BCrkiye-i%C5%9F-bankas%C4%B1%E2%80%99ndaki-chp-hisselerinin-hazine%E2%80%99ye-devrine-miras-hukuku-engel|arşivtarihi = 2 Temmuz 2021}}</ref> SHP 1995'te CHP'yle birleşti.<ref name="Ciddi 79" />
+
+1991'den 1996'ya kadar [[Sosyaldemokrat Halkçı Parti|SHP]] ve ardından CHP, [[Doğru Yol Partisi|DYP]] ile [[49. Türkiye Hükûmeti|koalisyon]] [[50. Türkiye Hükûmeti|hükûmet]][[52. Türkiye Hükûmeti|lerinde]] yer aldı. [[28 Şubat Süreci]]'nde [[Necmettin Erbakan]]'ın başbakanlıktan istifa etmesinin ardından Baykal, [[Mesut Yılmaz]]'ın [[55. Türkiye Hükûmeti|koalisyon hükûmetini]] destekledi. Kasım 1998'de [[Türkbank skandalı]] sırasında [[Mesut Yılmaz]] tartışmaya açılınca CHP hükûmete gensoru verdi ve koalisyonu düşürdü. [[1999 Türkiye genel seçimleri|1999 genel seçimlerinde]] CHP %8.71 oy alarak tarihinde ilk kez baraj altında kaldı. [[Deniz Baykal|Baykal]] seçim yenilgisinden kendinin sorumlu olduğunu belirterek 22 Nisan 1999'da genel başkanlıktan istifa etti.
+
+=== Ana muhalefet partisi: 2002-2026 ===
+
+==== Baykal dönemi: 2002-2010 ====
+[[2002 Türkiye genel seçimleri|3 Kasım 2002 genel seçimlerinde]] [[Recep Tayyip Erdoğan]] liderliğinde [[Adalet ve Kalkınma Partisi]] tek başına iktidara geldi. AK Parti seçimlerde %34.4 oy oranıyla 363 milletvekilliği kazanırken CHP %19.39'la 178 milletvekilliğinde kaldı. Kalan milletvekilliklerini bağımsızlar kazandı. Diğer partilerin hiçbiri %10 barajını aşamadı.<ref>[https://web.archive.org/web/20130807213729/http://belgenet.net/ayrinti.php?yil_id=14 2002 Yılı Genel Seçim Sonuçları] ''Belgenet.net''</ref><ref>{{Web kaynağı|url=http://arsiv.ntv.com.tr/modules/secim2007/secim2002/genel.asp|başlık=2002 Yılı Genel Seçim Sonuçları|erişimtarihi=6 Temmuz 2022|arşivtarihi=29 Ocak 2020|arşivurl=https://web.archive.org/web/20200129163453/http://arsiv.ntv.com.tr/modules/secim2007/secim2002/genel.asp|ölüurl=hayır|website=arsiv.ntv.com.tr}}</ref> Cumhuriyet Halk Partisi, 2002 seçimleriyle beraber ana muhalefet partisi oldu ve Temmuz 2026'ya kadar bu konumunu korudu.
+[[Dosya:Protect_Your_Republic_Protest_-_6_(2007-04-14)_edit.jpg|küçükresim|Tandoğan Mitingi'nden bir görüntü, 2007, [[Anıtkabir]]]]
+[[2007 Türkiye genel seçimleri|2007 cumhurbaşkanlığı seçimleri]], CHP'li ve [[Adalet ve Kalkınma Partisi|AK Partili]] politikacılar arasındaki gerilimlerin doruğa çıkmasıyla bir siyasi krize dönüştü. Baykal döneminde CHP, ordu ve yargının "demokratik olmayan" girişimlerine destek verdi. Cumhurbaşkanı adayı [[Abdullah Gül]]'e karşı ortaya çıkan protestolar; Gül'ün İslamcı siyaset geçmişi ve eşinin başörtüsü takması gibi popüler nedenlerle düzenlendi.<ref name="ReferenceA">{{Dergi kaynağı|başlık=A New Electoral Victory for the 'Pro-Islamists' or the 'New Centre-Right'? The Justice and Development Party Phenomenon in the July 2007 Parliamentary Elections in Turkey|tarih=20 Ekim 2009|sayı=4|sayfalar=501-519|dergi=South European Society and Politics|cilt=12|ad=Ali|soyadı=Çarkoğlu|doi=10.1080/13608740701731457|s2cid=153992923|doi-access=ücretsiz}}</ref> CHP'nin seçimi boykot etmesiyle beraber 367 Krizi çıktı. [[27 Nisan Bildirisi|E-muhtıra]] yayınlandı. Olayların ardından erken seçim kararı alındı ve Anayasa'da bazı değişiklikler yapıldı. Cumhurbaşkanının meclis tarafından değil, halk tarafından iki turlu oylamayla seçilmesi kararlaştırıldı; yedi yıl olan görev süresi beş yıla düşürülerek, iki kez seçilebilmesinin önü açıldı.<ref>{{Web kaynağı|url=http://www.memurlar.net/haber/78896/|başlık=Anayasa değişiklik paketi bugün yayımlandı, referandum süreci başladı|erişimtarihi=22 Mart 2014|arşivtarihi=26 Mart 2014|arşivurl=https://web.archive.org/web/20140326032623/http://www.memurlar.net/haber/78896/|tarih=16 Haziran 2007|ölüurl=hayır|yayıncı=memurlar.net}}</ref> Anayasa değişiklikleri, 21 Ekim 2007 tarihinde yapılan [[2007 Türkiye anayasa değişikliği referandumu|halk oylamasında]], %68,95'lik kabul oyuyla yürürlüğe girdi.<ref name="ReferenceA"/><ref>{{Web kaynağı|url=http://arsiv.sabah.com.tr/2007/10/21/haber,92A0CBA9A3784A15893A8B8C4C8646A5.html|başlık=Referandumdan "Evet" çıktı|erişimtarihi=26 Mart 2014|arşivtarihi=3 Mayıs 2014|arşivurl=https://web.archive.org/web/20140503195613/http://arsiv.sabah.com.tr/2007/10/21/haber,92A0CBA9A3784A15893A8B8C4C8646A5.html|tarih=21 Ekim 2007|ölüurl=evet|yayıncı=[[Sabah (gazete)|Sabah]]}}</ref> [[2007 Türkiye cumhurbaşkanlığı seçimi|28 Ağustos 2007 tarihinde]] Abdullah Gül Türkiye'nin 11. cumhurbaşkanı seçildi. Yemin töreni CHP ve [[Türk Silahlı Kuvvetleri genelkurmay başkanları listesi|Genelkurmay Başkanı]] [[Orgeneral]] [[Yaşar Büyükanıt]] tarafından boykot edildi.<ref>{{Haber kaynağı|url=http://www.radikal.com.tr/haber.php?haberno=231647|başlık=Köşk'e ilk davet eşsiz|erişim-tarihi=15 Şubat 2015|arşiv-tarihi=16 Şubat 2015|arşiv-url=https://web.archive.org/web/20150216002809/http://www.radikal.com.tr/haber.php?haberno=231647|dil=Türkçe|çalışma=[[Radikal]]|ad=Hilal|soyadı=Koylu|ölüurl=evet|df=dmy-all}}</ref>
+
+2002 ve 2010 yılları arasında Türkiye'de iki [[2002 Türkiye genel seçimleri|genel]] [[2007 Türkiye genel seçimleri|seçim]] ve iki [[2004 Türkiye yerel seçimleri|yerel]] [[2009 Türkiye yerel seçimleri|seçim]] yapılmış ve bu seçimlerin tamamında CHP %18 ila %23 arasında oy almıştır.
+
+==== Birinci Kılıçdaroğlu dönemi: 2010-2023 ====
+Baykal bir [[Deniz Baykal kaset skandalı|kasetin]] internete sızdırılmasının ardından parti genel başkanlığından istifa ettiğini açıkladı. [[Cumhuriyet Halk Partisi 33. Olağan Kurultayı|22 Mayıs 2010]] tarihinde [[Kemal Kılıçdaroğlu]] yeni parti lideri olarak seçildi.<ref>{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/europe/8672672.stm|başlık=Turkish opposition leader quits over 'sex tape'|tarih=10 Mayıs 2010|yayıncı=BBC News|erişimtarihi=3 Mayıs 2024|arşivurl=https://web.archive.org/web/20211225113432/http://news.bbc.co.uk/2/hi/europe/8672672.stm|arşivtarihi=25 Aralık 2021|ölüurl=hayır}}</ref> Kılıçdaroğlu CHP'yi geleneksel [[Sosyal demokrasi|sosyal demokrat]] imajına geri döndürdü ve partinin [[Laiklik|laik]]-[[Muhafazakârlık|muhafazakar]] karakterini bir kenara bıraktı. Kılıçdaroğlu, dindar seçmenler ve Kürtler arasında bir köprü kurmak üzerine politika yürüttü.<ref name=":6">{{Haber kaynağı|url=https://www.al-monitor.com/originals/2023/04/turkey-erdogan-challenger-attracts-solid-kurdish-support-decisive-vote|başlık=In Turkey, Erdogan challenger attracts solid Kurdish support, a decisive vote|çalışma=Al-Monitor|ad=Mahmut|soyadı=Bozarslan|erişimtarihi=3 Mayıs 2024|arşivurl=https://web.archive.org/web/20240515010358/https://www.al-monitor.com/originals/2023/04/turkey-erdogan-challenger-attracts-solid-kurdish-support-decisive-vote|arşivtarihi=15 Mayıs 2024|ölüurl=hayır}}</ref> Kılıçdaroğlu liderliğindeki CHP, beş seçim boyunca milletvekili seçimlerinde %22 ila %26 arasında oy aldı. Parti [[2010 Türkiye anayasa değişikliği referandumu|2010 anayasa referandumunda]] "hayır" kampanyasını destekledi. Kılıçdaroğlu liderliğinde girilen [[2011 Türkiye genel seçimleri|2011'deki ilk seçimde]] partinin desteği %25'e çıktı, ancak bu oy oranı partinin seçimleri kazanması için yeterli olmadı. Kılıçdaroğlu döneminde CHP, [[Gezi Parkı olayları|2013 Gezi Parkı protestolarına]] büyük bir destek verdi.
+[[Dosya:Kemal_Kılıçdaroğlu_-_Adalet_Yürüyüşü_crop.jpg|küçükresim|upright=0.91|[[Adalet Yürüyüşü (2017)|Adalet Yürüyüşü]]'nde [[Kemal Kılıçdaroğlu]], 2017]]
+İlk doğrudan cumhurbaşkanlığı seçimi olan [[2014 Türkiye cumhurbaşkanlığı seçimi|2014 cumhurbaşkanlığı seçimi]], [[17-25 Aralık Yolsuzluk ve Rüşvet Operasyonu|2013 Türkiye yolsuzluk skandalının]] ardından gerçekleştirildi. [[Recep Tayyip Erdoğan]] ile yarışan CHP ve [[Milliyetçi Hareket Partisi|MHP]]'nin ortak adayı [[Ekmeleddin İhsanoğlu]] %38 oy alarak seçimleri birinci turda kaybetti. [[Haziran 2015 Türkiye genel seçimleri|Haziran 2015 genel seçimlerinde]], [[Halkların Demokratik Partisi]] (HDP) barajı aşarak [[Adalet ve Kalkınma Partisi|AK Parti]]'nin meclis çoğunluğunu kaybetmesine neden oldu.<ref name=":52">{{Haber kaynağı|url=https://www.reuters.com/article/uk-turkey-security-opposition-idUKKCN11019P|başlık=Turkish opposition leader targeted by Kurdish militants - minister|tarih=25 Ağustos 2016|çalışma=Reuters|ad=Ece|soyadı=Toksabay|erişimtarihi=3 Mayıs 2024|arşivurl=https://web.archive.org/web/20230427180409/https://www.reuters.com/article/uk-turkey-security-opposition-idUKKCN11019P|arşivtarihi=27 Nisan 2023|ölüurl=hayır}}</ref> Seçimlerin ardından koalisyon görüşmeleri başarısız oldu. MHP, CHP liderliğindeki bir hükûmette HDP ile birlikte yer almayı reddetti. CHP ise haftalar süren müzakerelerin ardından AK Parti ile hükûmet kurmayı reddetti. [[Kasım 2015 Türkiye genel seçimleri|Kasım ayında yapılan erken seçimde]] AK Parti meclis çoğunluğunu yeniden kazandı.
+
+Kılıçdaroğlu döneminde parti, [[2017 Türkiye anayasa değişikliği referandumu|2017 anayasa referandumunda]] "hayır" kampanyasına öncülük etmiştir.
+
+2017'ye gelindiğinde, MHP'den ayrılan muhalifler [[İYİ Parti]]'yi kurdu. Kılıçdaroğlu İYİ Parti'nin seçimlere katılması için 15 milletvekili transfer ederek yeni partinin yükselişini kolaylaştırdı. [[2018 Türkiye genel seçimleri|2018 genel seçiminde]] CHP, İYİ Parti, [[Saadet Partisi]] ve [[Demokrat Parti (2007)|Demokrat Parti]], AK Parti ve MHP'den oluşan [[Cumhur İttifakı]]'na karşı [[Millet İttifakı]]'nı kurdu.<ref name=":5">{{Web kaynağı|url = https://www.sozcu.com.tr/2018/gundem/millet-ittifaki-resmen-kuruldu-iste-detaylar-2389681/|başlık = The "Nation Alliance" officially forms|erişimtarihi = 18 Eylül 2021|dil = Türkçe|website = amp.dw.com|arşivurl = https://web.archive.org/web/20180505210336/https://www.sozcu.com.tr/2018/gundem/millet-ittifaki-resmen-kuruldu-iste-detaylar-2389681/|arşivtarihi = 5 Mayıs 2018}}</ref><ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/haber/millet-ittifaki-resmen-kuruldu-protokolun-detaylari-ortaya-cikti-969564|başlık = 'Millet ittifakı' resmen kuruldu: Protokolün detayları ortaya çıktı|erişimtarihi = 18 Eylül 2021|website = cumhuriyet.com.tr|arşivurl = https://web.archive.org/web/20210918164801/https://www.cumhuriyet.com.tr/haber/millet-ittifaki-resmen-kuruldu-protokolun-detaylari-ortaya-cikti-969564|arşivtarihi = 18 Eylül 2021}}</ref> CHP'nin oy oranının %22 olmasına rağmen, Millet İttifakı toplamda %33 oy aldı. CHP'nin cumhurbaşkanı adayı [[Muharrem İnce]] %30 oy alarak seçimleri ilk turda kaybetti. Millet İttifakı, CHP'nin büyük kazançlar elde ettiği [[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]] için yeniden kuruldu, bu seçimde CHP'nin neredeyse %30 oy aldığı görüldü. Diğer siyasi partilerle yapılan ittifak, CHP'nin [[2019 İstanbul ara yerel seçimi|İstanbul]] ve [[Ankara'da 2019 Türkiye yerel seçimleri|Ankara]]'yı 25 yılın ardından kazanmasını sağladı.<ref name=":6" />
+
+Kılıçdaroğlu, [[2023 Türkiye genel seçimleri|2023 cumhurbaşkanlığı seçimi]] için CHP ve [[Millet İttifakı]]'nın adayı olarak gösterildi. İstanbul ve Ankara büyükşehir belediye başkanları [[Ekrem İmamoğlu]] ve [[Mansur Yavaş]], Millet İttifakı'ndaki diğer parti liderleriyle birlikte cumhurbaşkanı yardımcısı adaylığıyla kampanyaya dâhil oldu. [[Türkiye ekonomik krizi (2018-günümüz)|Ekonomik krize]], [[COVID-19 pandemisi]]nin yönetim şeklinde ve [[2023 Kahramanmaraş depremleri|Kahramanmaraş depremlerine]] rağmen, Kılıçdaroğlu, ikinci turda oyların %48'ini alarak Erdoğan'a karşı seçimleri kaybetti. Millet İttifakı, iktidardaki Cumhur İttifakı'na karşı parlamentoda azınlık kaldı. Seçimden sonra düzenlenen [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]]'da, [[Özgür Özel]], 2010'dan beri bu görevi sürdüren Kılıçdaroğlu'nu yenerek CHP'nin genel başkanı seçildi.<ref>{{Web kaynağı|url = https://www.reuters.com/world/middle-east/turkeys-main-opposition-elects-ozgur-ozel-new-leader-run-up-local-elections-2023-11-05/|başlık = Turkey's main opposition elects Ozel as new leader in local elections run-up|erişimtarihi = 22 Kasım 2023|website = Reuters|ad2 = Birsen|soyadı2 = Altayli|ad1 = Tuvan|soyadı1 = Gumrukcu|arşivurl = https://web.archive.org/web/20231105010725/https://www.reuters.com/world/middle-east/turkeys-main-opposition-elects-ozgur-ozel-new-leader-run-up-local-elections-2023-11-05/|arşivtarihi = 5 Kasım 2023}}</ref>
+
+==== Özel dönemi, mutlak butlan krizi ve bölünme: 2023-2026 ====
+[[Dosya:Özgür Özel kurultaya sesleniyor 4 kasım 2023.jpg|küçükresim|upright=0.91|[[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]]'da [[Özgür Özel]], 2023]]{{Ana|Cumhuriyet Halk Partisi 38. Olağan Kurultayı|2026 Cumhuriyet Halk Partisi mutlak butlan krizi|Ekrem İmamoğlu'nun tutuklanması}}
+[[2023 Türkiye genel seçimleri|2023 seçimlerindeki]] yenilginin ardından parti içinde İBB Başkanı [[Ekrem İmamoğlu]] ve Grup Başkanı [[Özgür Özel]] önderliğinde "değişimciler" olarak adlandırılan bir muhalefet hareketi doğdu. 4-5 Kasım 2023'te düzenlenen [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay'da]] Özgür Özel, [[Kemal Kılıçdaroğlu]]'nu mağlup ederek genel başkan seçildi. Bu liderlik değişimi, [[2024 Türkiye yerel seçimleri|31 Mart 2024 yerel seçimlerinde]] CHP'nin %37,81 oy oranıyla 47 yıl sonra Türkiye genelinde birinci parti konumuna yükselmesiyle sonuçlandı.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/articles/crgdklmmeyno|başlık=Yerel seçim sonuçları: CHP’nin 47 yıl sonra elde ettiği seçim zaferi ne anlama geliyor?|erişimtarihi=15 Haziran 2026|tarih=1 Nisan 2024|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260526180356/https://www.bbc.com/turkce/articles/crgdklmmeyno|arşivtarihi=26 Mayıs 2026|ölüurl=hayır}}</ref>
+
+2024 yılında Özgür Özel liderliğinde parti, [[1977 Türkiye yerel seçimleri|46 yıl aradan sonra]] birinci parti oldu ve ülke genelinde 22 yıl sonra ilk kez AK Partiyi geçti. [[2024 Türkiye yerel seçimleri|2024 yerel seçimlerinde]] parti, [[Hatay Büyükşehir Belediyesi|Hatay]] hariç mevcut büyükşehirlerinin hepsini korudu ve [[Bursa Büyükşehir Belediyesi|Bursa]], [[Balıkesir Büyükşehir Belediyesi|Balıkesir]], [[Denizli Büyükşehir Belediyesi|Denizli]] ve [[Manisa Büyükşehir Belediyesi|Manisa]] Büyükşehir Belediyelerini kazandı.
+[[Dosya:İmamoglu on secim kampanyası, 08.03.2025.jpg|küçükresim|230x230pik|Gözaltına alınmadan bir hafta önce ön seçim kampanyasında [[Ekrem İmamoğlu]], 2025]]
+Seçim zaferinin ardından erken seçim tartışmaları hızlanırken, partinin muhtemel cumhurbaşkanı adayı olarak öne çıkan Ekrem İmamoğlu, çeşitli iddialarla yargı kıskacına alındı. Mart 2025'te 14 milyon 850 binden fazla seçmenin katılımıyla yapılan önseçimde mutlak bir zaferle CHP'nin cumhurbaşkanı adayı ilan edilen İmamoğlu,<ref name=":CB122">{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c4gem3mevzzo|başlık=15 milyona yakın kişinin katıldığı belirtilen ön seçim sonrası İmamoğlu resmen CHP adayı ilan edildi|erişimtarihi=23 Mart 2025|ölüurl=hayır|arşivurl=https://web.archive.org/web/20260228135613/https://www.bbc.com/turkce/articles/c4gem3mevzzo|arşivtarihi=28 Şubat 2026}}</ref> tam da bu süreçte siyasal casusluk ve çıkar amaçlı suç örgütü kurma iddialarıyla tutuklandı.<ref>{{Haber kaynağı|url=https://www.hrw.org/tr/news/2025/03/25/turkiye-court-jails-istanbul-mayor|başlık=Türkiye: İstanbul Büyükşehir Belediye Başkanı Tutuklandı|erişimtarihi=16 Haziran 2026|tarih=25 Mart 2025|yayıncı=Human Rights Watch|arşivurl=https://web.archive.org/web/20260613021450/https://www.hrw.org/tr/news/2025/03/25/turkiye-court-jails-istanbul-mayor|arşivtarihi=13 Haziran 2026|ölüurl=hayır}}</ref><ref>{{Web kaynağı | url = https://www.aa.com.tr/tr/gundem/casusluk-sorusturmasinda-imamoglu-ve-3-sanik-hakkindaki-iddianame-kabul-edildi/3833668 | başlık = "Casusluk" soruşturmasında İmamoğlu ve 3 sanık hakkındaki iddianame kabul edildi | erişimtarihi = 15 Haziran 2026 | tarih = 18 Şubat 2026 | yayıncı = Anadolu Ajansı | arşivtarihi = 18 Şubat 2026 | arşivurl = https://web.archive.org/web/20260218124349/https://www.aa.com.tr/tr/gundem/casusluk-sorusturmasinda-imamoglu-ve-3-sanik-hakkindaki-iddianame-kabul-edildi/3833668 | ölüurl = hayır}}</ref> Bu gelişme parti içerisinde ve ülke genelinde [[2025 Türkiye protestoları|büyük protestolara]] yol açtı.
+[[Dosya:Özgür Özel rally in İzmir, May 2026 43.jpg|küçükresim|345x345pik|Mutlak butlan kararı sonrası Özgür Özel'in İzmir'deki ilk mitingi]]
+Özel liderliğindeki parti yönetiminin iktidarın "Ankara merkezli siyaset" çağrılarını reddetmesinin ardından CHP, tarihinin en büyük hukuki ve siyasi krizlerinden biriyle karşı karşıya kaldı. 21 Mayıs 2026'da Ankara Bölge Adliye Mahkemesi, kurultayda usulsüzlük yapıldığı iddiasıyla Özel'in genel başkanlığını "[[mutlak butlan]]" kararıyla düşürdü.<ref>{{Web kaynağı | url = https://www.aa.com.tr/tr/gundem/kurultay-davasinda-kilicdaroglu-yonetiminin-chp-yonetimini-devralmasina-karar-verildi/3944890 | başlık = Kurultay davasında Kılıçdaroğlu yönetiminin CHP yönetimini devralmasına karar verildi | erişimtarihi = 27 Mayıs 2026 | tarih = 21 Mayıs 2026 | dil = Türkçe | çalışma = Anadolu Ajansı}}</ref> 24 Mayıs 2026'da CHP Genel Merkezi polis eşliğinde eski genel başkan Kemal Kılıçdaroğlu'na devredilirken; Özel ve destekçileri kararı tanımayarak TBMM'ye yürüdü ve meclis grubunu partinin fiili genel merkezi ilan etti.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/ceqpw2wv7qeo|başlık=Polis eşliğinde tahliye: CHP Genel Merkezi'nde neler yaşandı?|erişimtarihi=15 Haziran 2026|tarih=24 Mayıs 2026|yayıncı=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260609082718/https://www.bbc.com/turkce/articles/ceqpw2wv7qeo|arşivtarihi=9 Haziran 2026|ölüurl=hayır}}</ref><ref name="DWYuruyus2">{{Web kaynağı|url=https://www.dw.com/tr/%C3%B6zg%C3%BCr-%C3%B6zelin-tarihi-meclis-y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC/a-77280999|başlık=Özgür Özel'in tarihi Meclis yürüyüşü|erişimtarihi=15 Haziran 2026|tarih=24 Mayıs 2026|yayıncı=Deutsche Welle|arşivurl=https://web.archive.org/web/20260620105335/https://www.dw.com/tr/%C3%B6zg%C3%BCr-%C3%B6zelin-tarihi-meclis-y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC/a-77280999|arşivtarihi=20 Haziran 2026|ölüurl=hayır}}</ref> Yönetimi devralan Kılıçdaroğlu ekibi, Özel'i destekleyen milletvekillerini ve il başkanlarını partiden ihraç etmeye başladı ve 833 delegenin topladığı olağanüstü kurultay talebini reddetti.<ref name="YetkinReportIhrac2">{{Web kaynağı|url=https://yetkinreport.com/2026/06/10/kilicdaroglu-9-muhalifini-chpden-ihrac-etti-bolunmeye-bir-adim-daha/|başlık=Kılıçdaroğlu, 9 muhalifini CHP'den ihraç etti: bölünmeye bir adım daha|erişimtarihi=15 Haziran 2026|tarih=10 Haziran 2026|yayıncı=Yetkin Report|yazar=Murat Yetkin|arşivurl=https://web.archive.org/web/20260724114926/https://yetkinreport.com/2026/06/10/kilicdaroglu-9-muhalifini-chpden-ihrac-etti-bolunmeye-bir-adim-daha/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref><ref name=":BBCMedyascope">{{Haber kaynağı|url=https://www.bbc.com/turkce/articles/cgevnnyxl84o|başlık=CHP'de olağanüstü kurultay hareketliliği|erişimtarihi=17 Haziran 2026|tarih=17 Haziran 2026|yayıncı=BBC News Türkçe|arşivurl=https://web.archive.org/web/20260617024941/https://www.bbc.com/turkce/articles/cgevnnyxl84o|arşivtarihi=17 Haziran 2026|ölüurl=hayır}}</ref>
+
+Kılıçdaroğlu'nun Özel ve İmamoğlu'nu "FETÖ destekçisi" olmakla suçlaması ve uzlaşı yollarının tamamen kapanmasının ardından, aralarında İzmir Büyükşehir Belediye Başkanı [[Cemil Tugay]]'ın da bulunduğu çok sayıda belediye başkanı ve milletvekili CHP'den istifa etti.<ref>{{Web kaynağı | url = https://t24.com.tr/politika/kemal-kilicdaroglu-aciklama-yapiyor,1335913?_t=1784032066145 | başlık = Kılıçdaroğlu: 'FETÖ’, Özgür Özel’e destek veriyor | erişimtarihi = 14 Temmuz 2026 | tarih = 13 Temmuz 2026 | dil = Türkçe | çalışma = T24 | arşivurl = https://web.archive.org/web/20260905162156/https://t24.com.tr/politika/kemal-kilicdaroglu-aciklama-yapiyor,1335913?_t=1784032066145 | arşivtarihi = 5 Eylül 2026}}</ref><ref>{{Haber kaynağı|url=https://x.com/drcemiltugay/status/2067674592249090356|başlık=Dr. Cemil Tugay (@drcemiltugay) on X|erişimtarihi=18 Haziran 2026|dil=İngilizce|çalışma=X (formerly Twitter)}}</ref> Krizin nihayetinde Özgür Özel, 21 Temmuz 2026 tarihinde TBMM grup kürsüsünde yaptığı veda konuşmasında iktidarın "kontrollü muhalefet" dayatmasını reddettiklerini belirterek; Ekrem İmamoğlu, Mansur Yavaş ve meclisteki CHP çoğunluğu ile birlikte sosyal demokrat çizgide yeni bir siyasi parti kuracaklarını ilan etti.<ref name=":OzelGrupIlan">{{Haber kaynağı|url=https://www.sozcu.com.tr/ozgur-ozel-son-kez-chp-grup-kursusunde-p338426|başlık=Özgür Özel yeni partiyi ilan etti!|erişimtarihi=21 Temmuz 2026|tarih=21 Temmuz 2026|yayıncı=Sözcü|arşivtarihi=21 Temmuz 2026|arşivurl=https://web.archive.org/web/20260721104456/https://www.sozcu.com.tr/ozgur-ozel-son-kez-chp-grup-kursusunde-p338426|ölüurl=hayır}}</ref> 
+24 Temmuz 2026 tarihinde CHP'den istifa eden 91 milletvekili ile beraber [[Yeni Parti (2026)|Yeni Parti]]'nin resmî kuruluşu, [[Türkiye Büyük Millet Meclisi]] aritmetiğinde büyük bir değişime neden oldu. Cumhuriyet Halk Partisi'nden kitlesel olarak ayrılan 91 milletvekilinin katılımıyla Yeni Parti, [[Adalet ve Kalkınma Partisi]]'nin ardından TBMM'deki en büyük ikinci siyasi oluşum ve resmî olarak [[Türkiye ana muhalefet partisi lideri|Türkiye ana muhalefet partisi]] konumuna yükseldi.<ref>{{Web kaynağı|url=https://medyascope.tv/2026/05/25/chp-genel-merkezine-operasyon-aliser-delek-anlasilan-yeni-parti-geliyor/|başlık=CHP Genel Merkezi'ne operasyon - Alişer Delek: "Anlaşılan yeni parti geliyor"|erişimtarihi=15 Haziran 2026|tarih=25 Mayıs 2026|yayıncı=Medyascope|arşivurl=https://web.archive.org/web/20260724105457/https://medyascope.tv/2026/05/25/chp-genel-merkezine-operasyon-aliser-delek-anlasilan-yeni-parti-geliyor/|arşivtarihi=24 Temmuz 2026|ölüurl=hayır}}</ref> Bu geçişle birlikte Cumhuriyet Halk Partisi, milletvekili sayısı bakımından beşinci sıraya geriledi. Kurucular Kurulu tarafından oy birliğiyle genel başkanlığa seçilen Özgür Özel, sonbaharda büyük kongreyi toplamayı hedeflediklerini ve [[Bir sonraki Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı seçimlerinde]] [[Ekrem İmamoğlu]]'nu destekleme çizgisini koruyacaklarını açıkladı.
+
+=== İkinci Kılıçdaroğlu dönemi: 2026-günümüz ===
+24 Temmuz'daki kitlesel istifalar ve [[Yeni Parti (2026)|Yeni Partinin]] kuruluşunun ardından Kemal Kılıçdaroğlu liderliğindeki CHP yönetimi, partinin yapısını yeniden şekillendirmeye başladı. Ağustos 2026'nın sonlarında, "mutlak butlan" kararının Yargıtay 3. Hukuk Dairesindeki temyiz aşamasında CHP tarafı itirazlarından feragat ederek Ankara Bölge Adliye Mahkemesinin verdiği iptal kararının kesinleşmesinin önünü açmaya çalıştı.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/chp-mutlak-butlan-temyiz-basvurusunu-geri-cekti-p352596|başlık=CHP yönetimi 'mutlak butlan' davasında temyiz başvurusunu geri çekti|erişimtarihi=4 Eylül 2026|tarih=25 Ağustos 2026|yayıncı=Sözcü|arşivurl=https://web.archive.org/web/20260831101413/https://www.sozcu.com.tr/chp-mutlak-butlan-temyiz-basvurusunu-geri-cekti-p352596|arşivtarihi=31 Ağustos 2026|ölüurl=hayır}}</ref>
+
+Merkez yönetiminin yerel örgütlere yaptığı atamalar ise tabanda çeşitli reaksiyonlarla karşılaştı. Atanan yeni il başkanlarının, tabandaki boykotlar nedeniyle bazı ilçelerde görev devir teslimi yapacak ilçe yönetimi bulmakta zorlandığı ve parti içi hiyerarşide kopukluklar yaşandığı kamuoyuna yansıdı.<ref>{{Haber kaynağı|url=https://www.indyturk.com/node/781957|başlık=Özgür Özel: Butlan yönetimi CHP'den uzaklaştırılmalı|erişimtarihi=4 Eylül 2026|tarih=2 Eylül 2026|yayıncı=Independent Türkçe}}</ref>
+
+== İdeoloji ve politikalar ==
+[[Dosya:CHP six arrows.svg|küçükresim|Atatürk'ün [[Atatürk İlkeleri|altı temel ilkesi]] [[Altı Ok]] ile sembolize edilmiştir.|upright=0.91]]CHP [[sosyal demokrasi]] ve [[Kemalizm]]'i benimseyen merkez sol bir siyasi partidir.<ref>{{Web kaynağı|url=http://partiiciegitim.chp.org.tr/dosyalar/mevzuat/CHP-Tuzuk.pdf|başlık=Cumhuriyet Halk Partisi – Parti İçi Eğitim Birimi|erişimtarihi=1 Ocak 2017|arşivtarihi=13 Nisan 2022|arşivurl=https://web.archive.org/web/20220413193234/https://partiokulu.chp.org.tr/|ölüurl=evet}}</ref><ref name="HalmSezgin20132">{{Kitap kaynağı|başlık=Migration and Organized Civil Society: Rethinking National Policy|bölüm=Brussels Calling: The European organisation of migrants from Turkey|sayfa=167|yayıncı=Routledge|bölümurl=https://books.google.com/books?id=ppYM_NZJsJUC&pg=PA167|yıl=2013|author=Liza Mügge|isbn=978-1-136-24650-0|editör1=Dirk Halm|editör2=Zeynep Sezgin}}</ref><ref>{{Haber kaynağı|url=https://www.aljazeera.com/news/2019/07/erdogan-turkey-aims-jointly-produce-400s-russia-190715164732765.html|başlık=New test for Erdogan: What's at stake in Turkish local elections?|erişimtarihi=15 Temmuz 2019|tarih=29 Mart 2019|yer=İstanbul|yayıncı=Al Jazeera|author=Uras, Umut|arşivurl=https://web.archive.org/web/20190715172707/https://www.aljazeera.com/news/2019/07/erdogan-turkey-aims-jointly-produce-400s-russia-190715164732765.html|arşivtarihi=15 Temmuz 2019|ölüurl=hayır}}</ref> Cumhuriyet Halk Partisi, programının temel ideolojik dayanaklarının üç ana veçhesi olduğunu bunların ise: [[Atatürk Devrimleri|Atatürk'ün modernleşme devrimi]] ve [[Altı Ok|altı ok ilkeleri]], sosyal demokrasinin evrensel ilkeleri ve Anadolu ve Trakya'nın tarihsel birikimi olduğunu belirtmiştir.<ref>{{Web kaynağı|url = https://content.chp.org.tr/1d48b01630ef43d9b2edf45d55842cae.pdf|başlık = Cumhuriyet Halk Partisi Programı|erişimtarihi = 7 Mayıs 2024|çalışma =content.chp.org.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20240425110616/https://content.chp.org.tr/1d48b01630ef43d9b2edf45d55842cae.pdf|arşivtarihi = 25 Nisan 2024|ölüurl =}}</ref> Bu kapsamda CHP kendisini "Cumhuriyet'in kurucu ilke ve değerlerine bağlı, çağdaş bir sosyal demokrat parti" olarak tanımlamaktadır.<ref>[http://www.chp.org.tr/wp-content/uploads/Se%C3%A7im_Bildirgesi-.pdf Seçim Bildirgesi (''Election Manifesto'')], ''Cumhuriyet Halk Partisi'', page 4. {{in lang|tr}} {{webarşiv|url=https://web.archive.org/web/20110427232355/http://www.chp.org.tr/wp-content/uploads/Se%C3%A7im_Bildirgesi-.pdf|tarih=27 Nisan 2011}}</ref><ref name="Nordsieck2">{{Web kaynağı|url = http://parties-and-elections.eu/turkey.html|başlık = Turkey|erişimtarihi = 1 Eylül 2018|website = Parties and Elections in Europe|yıl = 2018|ad = Wolfram|soyadı = Nordsieck|arşivurl = https://web.archive.org/web/20121015185741/http://parties-and-elections.eu/turkey.html|arşivtarihi = 15 Ekim 2012}}</ref>
+
+=== Altı Ok ilkeleri ===
+{{Ana|Altı Ok}}
+
+Altı Ok ilkelerinin muhtevası zaman içinde değişime uğramakla birlikte en son 2015 Parti Programı'nda tanımlanmıştır.<ref name=":0">{{Web kaynağı|url = https://chp.azureedge.net/1d48b01630ef43d9b2edf45d55842cae.pdf|başlık = CHP Parti Programı|erişimtarihi = 25 Haziran 2021|arşivurl = https://web.archive.org/web/20190509051049/https://chp.azureedge.net/1d48b01630ef43d9b2edf45d55842cae.pdf|arşivtarihi = 9 Mayıs 2019}}</ref> Parti programında bu ilkeler şöyle tanımlanmıştır: Cumhuriyetçilik ilkesi, egemenliğin ulusta olduğunu ve millî iradenin temel alındığı bir devlet düzenini savunur.<ref name=":0" /> [[Atatürk milliyetçiliği|Milliyetçilik ilkesi]], Türkiye'nin din, dil, ırk ve etnik köken değil, siyasal bir birlik etrafında kurulduğunu vurgular.<ref name=":0" /> Halkçılık ilkesi, siyasal meşruiyetin halkın iradesine dayandığını ve halkın korunması için çözümlerin halkla birlikte bulunması gerektiğini savunur.<ref name=":0" /> Devletçilik ilkesi, devletin halka hizmet için yapılandığını, katılımcı yönetimi ve demokratik hukuk devletini öngörür.<ref name=":0" /> Laiklik ilkesi, din ve devlet işlerinin ayrı tutulması gerektiğini vurgular ve insan haklarının temel taşı olduğunu belirtir.<ref name=":0" /> Devrimcilik ilkesi, çağdaş medeniyet hedefini sürdürmeyi ve demokratik hukuk devleti kurallarına bağlı kalarak köklü değişim sürecini devam ettirmeyi amaçlar.<ref name=":0" />
+
+=== Dış politika ===
+{{Ayrıca bakınız|Yurtta sulh, cihanda sulh}}Cumhuriyet Halk Partisi, [[Türkiye'nin Avrupa Birliği üyelik süreci|Türkiye'nin Avrupa Birliği üyeliğini]], Türkiye'nin [[NATO]] üyeliğini ve ittifakın genişlemesini desteklemektedir.<ref>{{Kitap kaynağı|başlık=Democracy, Islam, and Secularism in Turkey|bölüm=The European Union and the Justice and Development Party|bölümurl=https://books.google.com/books?id=di6YdRMZMO0C&pg=PA184|sayfa=184, paragraph 2|yayıncı=Columbia University Press|yıl=2012|isbn=9780231159333|editör1=Alfred Stepan|editör2=Ahmet T. Kuru}}</ref><ref>{{Web kaynağı|url = https://www.wsj.com/articles/turkeys-top-election-challenger-pledges-closer-ties-to-nato-and-eu-bee59738|başlık = Turkey's Top Election Challenger Pledges Closer Ties to NATO and EU|erişimtarihi = 5 Ekim 2023|website = [[The Wall Street Journal|Wall Street Journal]]|arşivengelli = evet|arşivurl = https://web.archive.org/web/20230524025048/https://www.wsj.com/articles/turkeys-top-election-challenger-pledges-closer-ties-to-nato-and-eu-bee59738|arşivtarihi = 24 Mayıs 2023|ölüurl = hayır}}</ref>
+Parti milletvekilleri hem [[Finlandiya]]'nın hem de [[İsveç]]'in NATO'ya katılımı lehine ezici bir çoğunlukla oy kullandılar.<ref>{{Web kaynağı|url = https://www.voaturkce.com/a/isvec-icin-gozler-2024un-basinda-tbmmde/7413513.html|başlık = İsveç için gözler artık 2024'ün başında TBMM'de|tarih = 26 Aralık 2023|dil = Türkçe|yayıncı = VOA Türkçe|ölüurl = evet|arşivurl = https://web.archive.org/web/20231226234315/https://www.voaturkce.com/a/isvec-icin-gozler-2024un-basinda-tbmmde/7413513.html|arşivtarihi = 26 Aralık 2023}}</ref> Parti, [[Sosyalist Enternasyonal]]<ref>[http://www.socialistinternational.org/maps/english/europe.htm Socialist International – List of member parties] {{webarşiv|url=https://web.archive.org/web/20070807101854/http://www.socialistinternational.org/maps/english/europe.htm|tarih=7 Ağustos 2007}}</ref> ve [[İlerici İttifak]]<ref>{{Web kaynağı|url = http://progressive-alliance.info/network/parties-and-organisations/|başlık = Parties & Organisations|erişimtarihi = 19 Nisan 2019|yayıncı = [[İlerici İttifak|Progressive Alliance]]|arşivengelli = evet|arşivurl = https://web.archive.org/web/20180215123034/http://progressive-alliance.info/network/parties-and-organisations/|arşivtarihi = 15 Şubat 2018|ölüurl = hayır}}</ref> içinde önemli bir konuma sahiptir ve [[Avrupa Sosyalistler Partisi]]'nin ilişkili üyesidir. Ayrıca parti, 2014 yılında Sosyalist Enternasyonal'i [[Kuzey Kıbrıs Türk Cumhuriyeti|Kuzey Kıbrıs]]'ta bulunan [[Cumhuriyetçi Türk Partisi]]'ni tam üye olarak kabul etmeye çağırmıştır.<ref>{{Web kaynağı|url=https://www.cumhuriyetciturkpartisi.org/tuzuk.html|başlık=Parti Tüzüğü|erişimtarihi=17 Temmuz 2019|arşivtarihi=10 Haziran 2020|arşivurl=https://web.archive.org/web/20200610000731/https://cumhuriyetciturkpartisi.org/tuzuk.html|tarih=22 Mayıs 2016|dil=Türkçe|yayıncı=cumhuriyetciturkpartisi.org|ölüurl=evet}}</ref>
+
+== Yapılanma ==
+[[Dosya:Flag of the Republican People's Party (Turkey).svg|küçükresim|CHP'nin kırmızı zemin üzerinde Altı Ok'lu amblemi|upright=0.91]]
+
+=== Partinin amblemi ===
+{{Ana|Altı Ok}}
+
+[[Altı Ok]], Cumhuriyet Halk Partisi'nin temel ilkelerini temsil eden [[Sembol|simgedir]]. Aynı zamanda kırmızı zemin üzerine beyaz Altı Ok simgesi partinin bayrağı olarak kullanılmaktadır. Cumhuriyet Halk Partisi'nin amblemi, yıllar boyunca değişikliklere uğramıştır. Ancak orijinal Altı Ok amblemi hiç değişmemiştir.<ref>{{Web kaynağı|url=http://kurultay.chp.org.tr/index.html|başlık=Cumhuriyet Halk Partisi - Kurumsal Kimlik|arşivtarihi=20 Nisan 2020|arşivurl=https://web.archive.org/web/20200420173640/http://kurultay.chp.org.tr/index.html|website=Kurumsal Kimlik}}</ref>
+
+=== Partinin ekonomisi ===
+[[Mustafa Kemal Atatürk]]'ün vasiyetle [[Türkiye İş Bankası]]'nın kendine ait olan %28.1 oranındaki hissesini partiye bırakmıştır. Fakat bankanın elde ettiği gelirin CHP'ye düşen kısmı partiye değil [[Türk Dil Kurumu]]'na ve [[Türk Tarih Kurumu]]'na aktarılmaktadır. Parti sadece yönetimde söz sahibidir.<ref>{{Web kaynağı|url=https://www.isbank.com.tr/bankamizi-taniyin/bankamiz-aciklamasi|başlık=Bankamız Açıklaması &#124; Türkiye İş Bankası A.Ş.|erişimtarihi=26 Temmuz 2022|arşivtarihi=23 Şubat 2020|arşivurl=https://web.archive.org/web/20200223131046/https://www.isbank.com.tr/bankamizi-taniyin/bankamiz-aciklamasi|ölüurl=hayır|website=www.isbank.com.tr|ad=Türkiye İş Bankası|soyadı=A.Ş}}</ref>
+
+=== Genel başkanlar ===
+{{Ana|Cumhuriyet Halk Partisi genel başkanları listesi}}
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Ataturk1930s.jpg|75px]]
+! scope="row" align="left" | [[Mustafa Kemal Atatürk]]<br />{{Küçük|(1881-1938)}}
+| [[Sivas Kongresi|9 Eylül 1923]]
+| [[Mustafa Kemal Atatürk'ün ölümü ve devlet cenaze töreni|10 Kasım 1938]]
+| {{ayd|1923|9|9|1938|11|10}}
+|-
+| data-sort-value="1.5" | —
+| [[Dosya:Mahmut Celâl Bayar.jpg|75px]]
+! scope="row" align="left" | [[Celâl Bayar]] {{Küçük|(vekil)}}<ref>Genel Başkan Vekili olarak</ref><br />{{Küçük|(1883-1986)}}
+| 10 Kasım 1938
+| 26 Aralık 1938
+| {{ayd|1938|11|10|1938|12|26}}
+|-
+| 2
+| [[Dosya:Inonu Ismet (cropped).jpg|75px]]
+! scope="row" align="left" | [[İsmet İnönü]]<br />{{Küçük|(1884-1973)}}
+| [[Cumhuriyet Halk Partisi 1. Olağanüstü Kurultayı|26 Aralık 1938]]
+| [[Cumhuriyet Halk Partisi 5. Olağanüstü Kurultayı|8 Mayıs 1972]]
+| {{ayd|1938|12|26|1972|5|8}}
+|-
+| data-sort-value="2.5" | —
+| [[Dosya:Kâmil Kırıkoğlu.jpg|75px]]
+! scope="row" align="left" | [[Kâmil Kırıkoğlu]] {{Küçük|(vekil)}}<ref name=GenelSekreter>Genel Sekreter olarak</ref><br />{{Küçük|(1914-1979)}}
+| 8 Mayıs 1972
+| 14 Mayıs 1972
+| {{ayd|1972|5|8|1972|5|14}}
+|-
+| 3
+| [[Dosya:IICCR BA572 Bülent Ecevit and Nicolae Ceaușescu (cropped).jpg|75px]]
+! scope="row" align="left" | [[Bülent Ecevit]]<br />{{Küçük|(1925-2006)}}
+| [[Cumhuriyet Halk Partisi 6. Olağanüstü Kurultayı|14 Mayıs 1972]]
+| 30 Ekim 1980{{Adn|[[12 Eylül Darbesi]]'nin ardından Gelibolu'daki askerî tesislerde gözetim altına alınan genel başkan Ecevit, 11 Ekim 1980'de serbest bırakılmıştır. [[Milli Güvenlik Konseyi]]'nin genel başkanların konuşmasını ve siyaset yapmasını yasaklaması üzerine 30 Ekim 1980'de istifa etmiştir.}}
+| {{ayd|1972|5|14|1980|10|30}}
+|-
+| data-sort-value="3.5" | —
+| [[Dosya:Mustafa Üstündağ 1977.png|75px]]
+! scope="row" align="left" | [[Mustafa Üstündağ (siyasetçi)|Mustafa Üstündağ]] {{Küçük|(vekil)}}<ref name=GenelSekreter/><br />{{Küçük|(1933-1983)}}
+| 30 Ekim 1980
+| 16 Ekim 1981{{Adn|2533 Sayılı Siyasi Partilerin Feshine Dair Kanun uyarınca [[Milli Güvenlik Konseyi]] tarafından görevden alınmıştır.}}
+| {{ayd|1980|10|30|1981|10|16}}
+|-
+| 4
+| [[Dosya:Deniz Baykal headshot.jpg|75px]]
+! scope="row" align="left" | [[Deniz Baykal]]<br />{{Küçük|(1938-2023)}}
+| 9 Eylül 1992
+| 18 Şubat 1995
+| {{ayd|1992|9|9|1995|2|18}}
+|-
+| 5
+| [[Dosya:Hikmet Çetin.jpg|75px]]
+! scope="row" align="left" | [[Hikmet Çetin]]<br />{{Küçük|{{doğum yılı ve yaşı|1937}}}}
+| 18 Şubat 1995
+| 11 Eylül 1995
+| {{ayd|1995|2|18|1995|9|11}}
+|-
+| 4
+| [[Dosya:Deniz Baykal headshot.jpg|75px]]
+! scope="row" align="left" | [[Deniz Baykal]]<br />{{Küçük|(1938-2023)}}
+| 11 Eylül 1995
+| 22 Nisan 1999
+| {{ayd|1995|9|11|1999|4|22}}
+|-
+| data-sort-value="4.5" | —
+| [[Dosya:Cevdet Selvi.jpg|75px]]
+! scope="row" align="left" | [[Cevdet Selvi]] {{Küçük|(vekil)}}<ref name=GenelBaskanYard>Genel Başkan Yardımcısı olarak</ref><br />{{Küçük|(1943-2026)}}
+| 22 Nisan 1999
+| 23 Mayıs 1999
+| {{ayd|1999|4|22|1999|5|23}}
+|-
+| 6
+| [[Dosya:Altan Öymen in 2020 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Altan Öymen]]<br />{{Küçük|(1932-2025)}}
+| 23 Mayıs 1999
+| 30 Eylül 2000
+| {{ayd|1999|5|23|2000|9|30}}
+|-
+| 4
+| [[Dosya:Deniz Baykal headshot.jpg|75px]]
+! scope="row" align="left" | [[Deniz Baykal]]<br />{{Küçük|(1938-2023)}}
+| 30 Eylül 2000
+| 10 Mayıs 2010
+| {{ayd|2000|9|30|2010|5|10}}
+|-
+| data-sort-value="6.5" | —
+| [[Dosya:Cevdet Selvi.jpg|75px]]
+! scope="row" align="left" | [[Cevdet Selvi]] {{Küçük|(vekil)}}<ref name=GenelBaskanYard/><br />{{Küçük|(1943-2026)}}
+| 10 Mayıs 2010
+| 22 Mayıs 2010
+| {{ayd|2010|5|10|2010|5|22}}
+|-
+| 7
+| [[Dosya:Kemal Kılıçdaroğlu 2 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Kemal Kılıçdaroğlu]]<br />{{Küçük|{{doğum tarihi ve yaşı|1948|12|17}}}}
+| [[Cumhuriyet Halk Partisi 33. Olağan Kurultayı|22 Mayıs 2010]]
+| 8 Kasım 2023
+| {{ayd|2010|5|22|2023|11|8}}
+|-
+| 8
+| [[Dosya:Özgür Özel, September 17 2023 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Özgür Özel]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1974|9|21}}}}
+| [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|8 Kasım 2023]]
+| 21 Mayıs 2026{{Adn|21 Mayıs 2026 tarihinde verilen "[[mutlak butlan]]" kararıyla Ankara Bölge Adliye Mahkemesi 36. Hukuk Dairesi tarafından görevden alınmıştır ancak kararı tanımamıştır. 24 Temmuz 2026 tarihinde CHP'den istifa ederek [[Yeni Parti (2026)|Yeni Parti]]'yi kurmuştur.}}
+| {{ayd|2023|11|8|2026|5|21}}
+|-
+| 7
+| [[Dosya:Kemal Kılıçdaroğlu in 2024 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Kemal Kılıçdaroğlu]] {{Küçük|(tedbiren)}}<br />{{Küçük|{{doğum tarihi ve yaşı|1948|12|17}}}}
+| 21 Mayıs 2026
+| ''Görevde''
+| {{ayd|2026|5|21|sep=and|duration=on}}
+|}
+
+=== Genel sekreterler ===
+{{Ana|Cumhuriyet Halk Partisi genel sekreterleri listesi}}
+
+{{div sütunu|colwidth=20em}}
+* [[Recep Peker]] (1923–1924)
+* [[Cemil Uybadın]] (1924–1925)
+* [[Saffet Arıkan]] (1925–1931)
+* [[Recep Peker]] (1931–1935)
+* [[Şükrü Kaya]] (1935–1939)
+* [[Refik Saydam]] (1939–1941)
+* [[Faik Öztrak (1882 doğumlu siyasetçi)|Faik Öztrak]] (1941–1942)
+* [[Ahmet Fikri Tüzer]] (1942)
+* [[Memduh Şevket Esendal]] (1942–1945)
+* [[Nafi Atuf Kansu]] (1945–1947)
+* [[Tevfik Fikret Sılay]] (1947–1950)
+* [[Kasım Gülek]] (1950–1959)
+* [[İsmail Rüştü Aksal]] (1959–1962)
+* [[Kemal Satır]] (1962–1966)
+* [[Bülent Ecevit]] (1966–1971)
+* [[Şeref Bakşık]] (1971)
+* [[Kâmil Kırıkoğlu|Kamil Kırıkoğlu]] (1971–1973)
+* [[Orhan Eyüboğlu]] (1973–1978)
+* [[Mustafa Üstündağ (siyasetçi)|Mustafa Üstündağ]] (1978–1981)
+* [[Ertuğrul Günay]] (1992–1995)
+* [[Adnan Keskin]] (1995–1999)
+* [[Tarhan Erdem]] (1999–2000)
+* [[Oya Araslı]] (2000)
+* [[Önder Sav]] (2000–2010)
+* [[Süheyl Batum]] (2010)
+* [[Bihlun Tamaylıgil]] (2010–2014)
+* [[Gürsel Tekin]] (2014–2016)
+* [[Kamil Okyay Sındır]] (2016–2018)
+* [[Akif Hamzaçebi]] (2018–2019)
+* [[Muharrem Erkek]] (2019–2020)
+* [[Selin Sayek Böke]] (2020–2023)
+* [[Neslihan Hancıoğlu]] (2023)
+* [[Selin Sayek Böke]] (2023–2026)
+* [[Rıfat Turuntay Nalbantoğlu]] (2026–günümüz){{div sütunu-son}}
+
+=== Merkez Yönetim Kurulu üyeleri ===
+Partinin mevcut Merkez Yönetim Kurulu üyeleri; 21 Mayıs 2026'daki mutlak butlan kararı ve [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]]'ın iptali sonrasında, 2 Haziran 2026'da Ankara 3. İcra Dairesi Müdürlüğünce göreve iade edilen eski parti organları arasından [[Kemal Kılıçdaroğlu]] tarafından belirlenmiştir.<ref name=":2">{{Haber kaynağı|url=https://www.sozcu.com.tr/ilk-kez-bir-parti-meclisi-ni-icra-atadi-p323007|başlık=İlk kez bir Parti Meclisi’ni icra atadı|erişimtarihi=6 Eylül 2026|tarih=27 Mayıs 2026|dil=Türkçe|çalışma=Sözcü|ad=Haber|soyadı=Merkezi|arşivtarihi=6 Eylül 2026|arşivurl=https://web.archive.org/web/20260906161434/https://www.sozcu.com.tr/ilk-kez-bir-parti-meclisi-ni-icra-atadi-p323007|ölüurl=hayır}}</ref> 
+{| class="wikitable"
+|-
+!#
+!İsim
+!Görev
+|-
+|1 
+|[[Kemal Kılıçdaroğlu]]
+|Genel başkan
+|-
+|2
+|[[Rıfat Turuntay Nalbantoğlu]]
+|Genel sekreter
+|-
+|3 
+|Adnan Demirci 
+| rowspan="16" |MYK üyesi
+|-
+|4 
+|Ahmet Hakan Uyanık 
+|-
+|5
+|Alirıza Erbay
+|-
+|6
+|[[Bülent Kuşoğlu]]
+|-
+|7
+|[[Cemal Canpolat]]
+|-
+|8
+|[[Deniz Demir (siyasetçi)|Deniz Demir]]
+|-
+|9
+|Devrim Barış Çelik
+|-
+|10
+|[[Gamze Akkuş İlgezdi]]
+|-
+|11
+|Hasan Efe Uyar
+|-
+|12
+|[[Müslim Sarı]]
+|-
+|13
+|Necdet Saraç
+|-
+|14
+|Nevaf Bilek
+|-
+|15
+|[[Orhan Sarıbal]]
+|-
+|16
+|[[Semra Dinçer (siyasetçi)|Semra Dinçer]]
+|-
+|17
+|Tahsin Tarhan
+|-
+|18
+|[[Yıldırım Kaya]]
+|}
+
+=== Yüksek Disiplin Kurulu üyeleri ===
+21 Mayıs 2026'da mahkemenin verdiği mutlak butlan kararının ardından, 27 Mayıs 2026'da [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]] geçersiz sayılarak Ankara 3. İcra Dairesi Müdürlüğü tarafından [[Cumhuriyet Halk Partisi 37. Olağan Kurultayı|37. Olağan Kurultay]]'da seçilen Yüksek Disiplin Kurulu üyeleri göreve getirildi.<ref name=":2" /> 
+{| class="wikitable"
+!#
+!İsim
+!Görev
+|-
+|1 
+|[[Mahir Polat (siyasetçi)|Mahir Polat]] 
+|YDK Başkanı 
+|-
+|2 
+|Ahmet Ersen Özsoy 
+|YDK Başkan yardımcısı 
+|-
+|3 
+|Sezgin Kaya 
+|YDK sekreteri 
+|-
+|4 
+|Bülent Maraklı 
+| rowspan="15" |YDK üyesi
+|-
+|5 
+|Cem Artantaş 
+|-
+|6 
+|Deniz Atar 
+|-
+|7
+|Doğuşcan Aydın Aygün
+|-
+|8 
+|Ebru Okay 
+|-
+|9 
+|Garip Erdoğan
+|-
+|10
+|Gonca Yelda Orhan 
+|-
+|11
+|Gülsüm Filorinalı  
+|-
+|12 
+|[[Gülşah Deniz Atalar]]
+|-
+|13 
+|[[Mustafa Serdar Soydan|Mustafa Serdar Soyhan]] 
+|-
+|14
+|Saniye Barut 
+|-
+|15 
+|Yiğit Acar   
+|-
+|16
+|Erdoğan Kılıç
+|-
+|17
+|Mustafa Kemal Yılmaz
+|-
+|18
+|Subutay Özgür
+|}
+
+=== Parti Meclisi üyeleri ===
+21 Mayıs 2026'da mahkemenin verdiği mutlak butlan kararının ardından, 27 Mayıs 2026'da [[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]] geçersiz sayılarak Ankara 3. İcra Dairesi Müdürlüğü tarafından [[Cumhuriyet Halk Partisi 37. Olağan Kurultayı|37. Olağan Kurultay]]'da seçilen Parti Meclisi üyeleri göreve getirildi.<ref name=":2" /> Bunun ardından, karara karşı çıkan Parti Meclisi üyeleri, tüzük gereği 45 gün içinde olağanüstü kurultaya gidilmesini sağlamak amacıyla toplu istifa kararı aldı. Parti tüzüğüne dayanarak sunulan 28 istifa ile PM üye sayısı 29'a düşerek kritik eşik olan 40 üyenin altına geriledi.<ref>{{Web kaynağı | url = https://gazeteoksijen.com/turkiye/ozgur-ozel-ekibi-parti-meclisinden-istifa-etme-karari-aldi-278489 | başlık = Özel cephesinden kurultay hamlesi: CHP Parti Meclisi'nin 57 üyesinden 28'i istifa etti | erişimtarihi = 6 Eylül 2026 | dil = Türkçe | çalışma = Gazete Oksijen | arşivtarihi = 6 Eylül 2026 | arşivurl = https://web.archive.org/web/20260906114901/https://gazeteoksijen.com/turkiye/ozgur-ozel-ekibi-parti-meclisinden-istifa-etme-karari-aldi-278489 | ölüurl = hayır}}</ref> Ancak parti yönetimi, mahkeme sürecindeki tedbir kararını gerekçe göstererek Tüzük koşullarının uygulanamayacağını belirterek kurultaya gitme talebini reddetti.<ref>{{Web kaynağı | url = https://www.aa.com.tr/tr/gundem/chp-genel-baskani-kilicdaroglu-tedbir-karari-kalktiktan-sonra-kurultay-yapilir/3949728 | başlık = CHP Genel Başkanı Kılıçdaroğlu: Tedbir kararı kalktıktan sonra kurultay yapılır | erişimtarihi = 6 Eylül 2026 | tarih = 27 Mayıs 2026 | dil = Türkçe | çalışma = Anadolu Ajansı | arşivurl = https://web.archive.org/web/20260630113456/https://www.aa.com.tr/tr/gundem/chp-genel-baskani-kilicdaroglu-tedbir-karari-kalktiktan-sonra-kurultay-yapilir/3949728 | arşivtarihi = 30 Haziran 2026}}</ref>
+{| class="wikitable"
+!#
+!İsim
+|-
+|1
+|[[Kemal Kılıçdaroğlu]]
+|-
+|2
+|Erbil Aydınlık
+|-
+|3
+|[[Turan Aydoğan]]
+|-
+|4
+|[[Aysu Bankoğlu]]
+|-
+|5
+|Nevaf Bilek
+|-
+|6
+|[[Cemal Canpolat]]
+|-
+|7
+|Devrim Barış Çelik
+|-
+|8
+|[[Ayşe Eser Danışoğlu]]
+|-
+|9
+|[[Deniz Demir (siyasetçi)|Deniz Demir]]
+|-
+|10
+|Adnan Demirci
+|-
+|11
+|Semra Dinçer
+|-
+|12
+|Alirıza Erbay
+|-
+|13
+|[[Gürsel Erol]]
+|-
+|14
+|[[Gökçe Gökçen]]
+|-
+|15
+|[[Akif Hamzaçebi]]
+|-
+|16
+|[[Neslihan Hancıoğlu]]
+|-
+|17
+|[[Yıldırım Kaya]]
+|-
+|18
+|[[Bülent Kuşoğlu]]
+|-
+|19
+|[[Rıfat Turuntay Nalbantoğlu]]
+|-
+|20
+|[[Yaşar Seyman]]
+|-
+|21
+|Burhan Şenatalar
+|-
+|22
+|[[Berhan Şimşek]]
+|-
+|23
+|[[Tahsin Tarhan]]
+|-
+|24
+|[[Erdoğan Toprak]]
+|-
+|25
+|[[Mehmet Tüm]]
+|-
+|26
+|Ahmet Hakan Uyanık
+|-
+|27
+|Hasan Efe Uyar
+|-
+|28
+|Pınar Uzun Okakın
+|-
+|29
+|Emre Yılmaz
+|}
+
+=== Gençlik Kolları ===
+{{Ana|Cumhuriyet Halk Partisi Gençlik Kolları}}
+
+17 Şubat 1954 tarihli CHP Genel İdare Kurulu toplantısında [[Suphi Baykam]]'ın başkanlığında [[Cumhuriyet Halk Partisi Gençlik Kolları|Gençlik Kolları]] Merkez Yönetim Kurulunun atanmasıyla resmen kurulan ve Türkiye'nin ilk gençlik örgütlenmesi olan CHP Gençlik Kolları, ilk kurultayını 1-2 Ağustos 1961 tarihinde gerçekleştirmiştir. İlk kurulan gençlik kolları yönetiminde, daha sonra CHP Genel Başkanı ve Başbakan olacak olan [[Bülent Ecevit]] de yer almaktadır. [[12 Eylül Darbesi|12 Eylül 1980 Darbesi]]'ne kadar 10 tane kurultay yapılmış ve darbe sonrası partinin kapatılmasıyla gençlik kolları da kapatılmıştır.
+
+CHP'nin 2. kuruluşundan sonra da faaliyetlerine devam eden CHP Gençlik Kolları, Cumhuriyet Halk Partisine bağlı gençlik yapılanması olup genel başkanlığa bağlı il ve ilçe örgütlenmesi şeklinde çalışmaktadır. Gençler arasında CHP örgütlenmesini sağlar. 17. kurultayını 1 Aralık 2024 tarihinde gerçekleştirmiştir.
+
+Mutlak butlan kararının ardından CHP'de genel merkez yönetiminin fiilen değişmesi sonucunda Gençlik Kolları Genel Başkanı [[Cem Aydın (siyasetçi)|Cem Aydın]], yeni yönetimin talimatlarına uymayacağını ve kararı tanımadıklarını belirterek, "Bizim genel başkanımız kurultayda seçilen Özgür Özel'dir" çıkışında bulunmuştur.<ref>{{Web kaynağı | url = https://www.cumhuriyet.com.tr/siyaset/chp-genclik-kollari-baskani-cem-aydindan-net-mesaj-genel-baskanimiz-ozeldir-2507852 | başlık = CHP Gençlik Kolları Başkanı Cem Aydın'dan net mesaj: 'Genel başkanımız Özel'dir' | erişimtarihi = 15 Haziran 2026 | tarih = 24 Mayıs 2026 | yayıncı = Cumhuriyet}}</ref> Partinin kurulacağının duyurulmasının ardından CHP Gençlik Kolları Genel Başkanı Cem Aydın, CHP'nin fiilen kapatıldığını belirterek yeni partiye geçiş yapma çağrısı yapmıştır.<ref>{{Haber kaynağı|url=https://x.com/cm_aydin/status/2079592626433532396|başlık=Cem Aydın (@cm_aydin) on X|erişimtarihi=22 Temmuz 2026|tarih=21 Temmuz 2026|dil=en-US|çalışma=X (formerly Twitter)}}</ref>
+
+=== Halkçı Liseliler ===
+Halkçı Liseliler komisyonu, 19 Mayıs 2014 tarihinde dönemin genel başkan özel danışmanı Recep Cengiz tarafından partiye resmi olarak bağlı olmadan kurulmuştur. Kurucu genel başkanı Doğukan Kurnaz'dır. 2015'ten itibaren örgütlü bir şekilde faaliyet göstermeye başlamıştır. Halkçı Liseliler, zaman içinde farklı dönemlere yayılan çeşitli örgütlenme ve etkinliklerle kendini göstermiştir. 2 Şubat 2023 tarihinde gerçekleştirilmiş kurultayda Bertuğ Diler oyların çoğunluğunu alarak başkan olarak seçilmiştir. 6 Şubat 2025 tarihinde gençlik kolları başkanı Cem Aydın'ın imzasıyla Sude Ulusan göreve getirilmiştir.
+
+23 Kasım 2023 tarihinde Gençlik Kolları Genel Merkezi, 2014 yılından beridir faaliyette bulunan CHP Lise Komisyonlarının feshedilmesine ve örgütlenmenin Halkçı Liseliler (Kısaltma: Halk-Lis) adıyla kurulacak yapılanma üzerinden devam etmesine Cumhuriyet Halk Partisi genel başkanı [[Özgür Özel]], gençlik kolları genel başkanı Gençosman Killik ve Halkçı Liseliler genel başkanı Bertuğ Diler ile yapılan görüşmeler sonucu resmî olarak karar vermiştir.{{Kaynak belirt}} Halkçı Liseliler, [[Yeni Parti (2026)|Yeni Partiye]] geçmiştir.
+
+== Kurultaylar ==
+{| class="wikitable"
+|-
+!Kurultay
+!Tarih
+!Genel başkan
+!Seçim Nedeni
+|-
+|[[Sivas Kongresi]]
+|4-11 Eylül 1919<ref>{{Web kaynağı|url = https://ataturkansiklopedisi.gov.tr/bilgi/sivas-kongresi/|başlık = Sivas Kongresi|erişimtarihi =8 Aralık 2024|tarih =28 Şubat 2021|dil =Türkçe|çalışma = Atatürk Ansiklopedisi|arşivurl = https://web.archive.org/web/20210815234624/https://ataturkansiklopedisi.gov.tr/bilgi/sivas-kongresi/|arşivtarihi = 15 Ağustos 2021}}</ref>
+|rowspan="4"|[[Mustafa Kemal Atatürk]]
+|[[Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti|ARMHC]]'nin kuruluşu
+|-
+|[[Cumhuriyet Halk Fırkası 2. Olağan Kongresi|2. Olağan Kurultay]]
+|15-23 Ekim 1927<ref>Tuncay Dursun, ''Tek Parti Dönemindeki Cumhuriyet Halk Partisi Büyük Kurultayları,'' Kültür Bakanlığı yay., Ankara 2002, s.11-33</ref>
+|rowspan="3"|Başkanlık (Tüzük ve Cemiyetler Kanunu Gereği)
+|-
+|[[Cumhuriyet Halk Fırkası 3. Olağan Kongresi|3. Olağan Kurultay]]
+|10-18 Mayıs 1931<ref>{{Kitap kaynağı|url=https://psi520.cankaya.edu.tr/uploads/files/CHF%20Ucuncu%20Buyuk%20Kongre%201931.pdf|başlık=CHF Üçüncü Büyük Kongre Zabıtları (10-18 Mayıs 1931)|erişimtarihi=4 Eylül 2024|tarih=1931|dil=Türkçe|yayıncı=İstanbul Devlet Matbaası|arşivurl=https://web.archive.org/web/20240729232038/https://psi520.cankaya.edu.tr/uploads/files/CHF%20Ucuncu%20Buyuk%20Kongre%201931.pdf|arşivtarihi=29 Temmuz 2024|ölüurl=hayır}}</ref>
+|-
+|[[4. Cumhuriyet Halk Partisi Olağan Kurultayı|4. Olağan Kurultay]]
+|9-16 Mayıs 1935<ref>Aysal, Necdet (2017). “Tek Parti Döneminde Cumhuriyet Halk Partisi Dördüncü Büyük Kurultayı (9-16 Mayıs 1935)”. History Studies, 9 (1), 21-45.</ref>
+|-
+|[[Cumhuriyet Halk Partisi 1. Olağanüstü Kurultayı|1. Olağanüstü Kurultay]] 
+|26 Aralık 1938
+|rowspan="20"|[[İsmet İnönü]]
+|[[Mustafa Kemal Atatürk'ün ölümü ve devlet cenaze töreni|Mustafa Kemal Atatürk'ün ölümü]]
+|-
+|[[5. Cumhuriyet Halk Partisi Olağan Kurultayı|5. Olağan Kurultay]]
+|29 Mayıs-3 Haziran 1939<ref>{{Akademik dergi kaynağı|url=https://acikerisim.tbmm.gov.tr/items/469ce83d-1148-4091-8c9d-e7b1ebd90934|başlık=Cumhuriyet Halk Partisi Beşinci Büyük Kurultay zabıtları 29 Mayıs 1939-3 Haziran 1939|tarih=1969|dil=Türkçe|ad=Cumhuriyet Halk|soyadı=Partisi|erişim-tarihi=16 Kasım 2024|arşivurl=https://web.archive.org/web/20241203060550/https://acikerisim.tbmm.gov.tr/items/469ce83d-1148-4091-8c9d-e7b1ebd90934|arşivtarihi=3 Aralık 2024|ölüurl=hayır}}</ref>
+|rowspan="2"|Başkanlık (Tüzük ve Cemiyetler Kanunu Gereği)
+|-
+|[[6. Cumhuriyet Halk Partisi Olağan Kurultayı|6. Olağan Kurultay]]
+|8 Haziran 1943
+|-
+|[[2. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|2. Olağanüstü Kurultay]] 
+|10 Mayıs 1946
+|Genel başkanın çağrısı
+|-
+|[[7. Cumhuriyet Halk Partisi Olağan Kurultayı|7. Olağan Kurultay]]
+|19 Kasım 1947
+|rowspan="4"|Başkanlık (Tüzük ve Cemiyetler Kanunu Gereği)
+|-
+|[[8. Cumhuriyet Halk Partisi Olağan Kurultayı|8. Olağan Kurultay]]
+|29 Haziran 1950
+|-
+|[[9. Cumhuriyet Halk Partisi Olağan Kurultayı|9. Olağan Kurultay]]
+|26 Kasım 1951
+|-
+|[[Cumhuriyet Halk Partisi 10. Olağan Kurultayı|10. Olağan Kurultay]]
+|22-26 Haziran 1953<ref>Bakoğlu, A. (2000), Türk basınında 1950-1954 dönemi Cumhuriyet Halk Partisi'nin demokrasi konusundaki muhalefeti, Yüksek Lisans Tezi, İstanbul: İstanbul Üniversitesi, Sosyal Bilimler Enstitüsü</ref>
+|-
+|[[3. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|3. Olağanüstü Kurultay]] 
+|7 Mart 1954
+|Genel başkanın çağrısı
+|-
+|[[11. Cumhuriyet Halk Partisi Olağan Kurultayı|11. Olağan Kurultay]]
+|26-30 Temmuz 1954<ref>Babaoğlu, R. (2019). Seçim Yenilgisi, Parti İçi Muhalefet Ve Hizipleşme Tartışmalarının Gölgesinde Cumhuriyet Halk Partisi XI. Kurultayı (26-30 Temmuz 1954). OPUS International Journal of Society Researches, 13(19), 2679-2708. <nowiki>https://doi.org/10.26466/opus.591533</nowiki></ref>
+|rowspan="7"|Başkanlık (Tüzük ve Cemiyetler Kanunu Gereği)
+|-
+|[[12. Cumhuriyet Halk Partisi Olağan Kurultayı|12. Olağan Kurultay]]
+|21 Mayıs 1956
+|-
+|[[13. Cumhuriyet Halk Partisi Olağan Kurultayı|13. Olağan Kurultay]]
+|9 Eylül 1957
+|-
+|[[14. Cumhuriyet Halk Partisi Olağan Kurultayı|14. Olağan Kurultay]]
+|12 Ocak 1959
+|-
+|[[15. Cumhuriyet Halk Partisi Olağan Kurultayı|15. Olağan Kurultay]]
+|24 Ağustos 1961
+|-
+|[[16. Cumhuriyet Halk Partisi Olağan Kurultayı|16. Olağan Kurultay]]
+|14 Aralık 1962
+|-
+|[[17. Cumhuriyet Halk Partisi Olağan Kurultayı|17. Olağan Kurultay]]
+|16 Ekim 1964
+|-
+|[[Cumhuriyet Halk Partisi 18. Olağan Kurultayı|18. Olağan Kurultay]]
+|18-22 Ekim 1966<ref>{{Web kaynağı|url = https://egazete.cumhuriyet.com.tr/oku/192/1966-10-18/0|başlık = Cumhuriyet Gazetesi E-Arşivi (18 Ekim 1966, Manşet sayfası)|erişimtarihi = 7 Aralık 2024|çalışma =egazete.cumhuriyet.com.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20241208000913/https://egazete.cumhuriyet.com.tr/oku/192/1966-10-18/0|arşivtarihi = 8 Aralık 2024|ölüurl = hayır}}</ref><ref>{{Web kaynağı|url = https://egazete.cumhuriyet.com.tr/oku/192/1966-10-19/0|başlık = Cumhuriyet Gazetesi E-Arşivi (19 Ekim 1966, Manşet sayfası)|erişimtarihi = 7 Aralık 2024|çalışma =egazete.cumhuriyet.com.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20241207210409/https://egazete.cumhuriyet.com.tr/oku/192/1966-10-19/0|arşivtarihi = 7 Aralık 2024|ölüurl = hayır}}</ref><ref>{{Web kaynağı|url = https://egazete.cumhuriyet.com.tr/oku/192/1966-10-20/0|başlık = Cumhuriyet Gazetesi E-Arşivi (20 Ekim 1966, Manşet sayfası)|erişimtarihi = 7 Aralık 2024|çalışma =egazete.cumhuriyet.com.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20241208031015/https://egazete.cumhuriyet.com.tr/oku/192/1966-10-20/0|arşivtarihi = 8 Aralık 2024|ölüurl = hayır}}</ref><ref>{{Web kaynağı|url = https://egazete.cumhuriyet.com.tr/oku/192/1966-10-21/0|başlık = Cumhuriyet Gazetesi E-Arşivi (21 Ekim 1966, Manşet sayfası)|erişimtarihi = 7 Aralık 2024|çalışma =egazete.cumhuriyet.com.tr|arşivurl = https://web.archive.org/web/20241208013944/https://egazete.cumhuriyet.com.tr/oku/192/1966-10-21/0|arşivtarihi = 8 Aralık 2024|arşivengelli = evet|ölüurl = hayır}}</ref><ref>{{Web kaynağı|url = https://egazete.cumhuriyet.com.tr/oku/192/1966-10-22/0|başlık = Cumhuriyet Gazetesi E-Arşivi (22 Ekim 1966, Manşet sayfası)|erişimtarihi = 7 Aralık 2024|çalışma =egazete.cumhuriyet.com.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20241207180418/https://egazete.cumhuriyet.com.tr/oku/192/1966-10-22/0|arşivtarihi = 7 Aralık 2024|ölüurl = hayır}}</ref><ref>{{Web kaynağı|url = https://egazete.cumhuriyet.com.tr/oku/192/1966-10-23/0|başlık = Cumhuriyet Gazetesi E-Arşivi (23 Ekim 1966, Manşet sayfası)|erişimtarihi = 21 Aralık 2024|çalışma =egazete.cumhuriyet.com.tr|arşivurl = https://web.archive.org/web/20241222193757/https://egazete.cumhuriyet.com.tr/oku/192/1966-10-23/0|arşivtarihi = 22 Aralık 2024}}</ref>
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[4. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|4. Olağanüstü Kurultay]] 
+|28 Nisan 1967
+|Genel başkanın çağrısı
+|-
+|[[19. Cumhuriyet Halk Partisi Olağan Kurultayı|19. Olağan Kurultay]]
+|18 Ekim 1968
+|rowspan="2"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[20. Cumhuriyet Halk Partisi Olağan Kurultayı|20. Olağan Kurultay]]
+|3 Temmuz 1970
+|-
+|[[Cumhuriyet Halk Partisi 5. Olağanüstü Kurultayı|5. Olağanüstü Kurultay]] 
+|6-7 Mayıs 1972
+|[[Kâmil Kırıkoğlu]] {{Küçük|(vekil)}}
+|Genel başkanın çağrısı
+|-
+|[[Cumhuriyet Halk Partisi 6. Olağanüstü Kurultayı|6. Olağanüstü Kurultay]] 
+|14 Mayıs 1972
+|rowspan="7"|[[Bülent Ecevit]]
+|[[İsmet İnönü]]'nün istifası
+|-
+|[[Cumhuriyet Halk Partisi 21. Olağan Kurultayı|21. Olağan Kurultay]]
+|30 Haziran-2 Temmuz 1972<ref>{{Kitap kaynağı|url=https://acikerisim.tbmm.gov.tr/bitstreams/3f150aab-8196-4daa-90c7-e4c9fa4f9fe8/download|başlık=Cumhuriyet Halk Partisi Tüzüğü (30 Haziran-2 Temmuz 1972'de düzenlenen kurultayda kabul edilmiştir)|erişimtarihi=13 Kasım 2024|tarih=1972|sayfa=2|yayıncı=Cumhuriyet Halk Partisi}}</ref>
+|rowspan="3"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[22. Cumhuriyet Halk Partisi Olağan Kurultayı|22. Olağan Kurultay]]
+|14-16 Aralık 1974<ref>{{Web kaynağı | url = https://www.gastearsivi.com/gazete/milliyet2/1974-12-14/1 | başlık = 14 Aralık 1974 Tarihli Milliyet Gazetesi Sayfa 1 | erişimtarihi = 7 Eylül 2025 | dil = Türkçe | çalışma = www.gastearsivi.com | arşivengelli = evet | arşivtarihi = 6 Ocak 2026 | arşivurl = https://web.archive.org/web/20260106201215/https://www.gastearsivi.com/gazete/milliyet2/1974-12-14/1 | ölüurl = hayır}}</ref><ref>{{Web kaynağı | url = https://egazete.cumhuriyet.com.tr/oku/192/1974-12-16/0 | başlık = Cumhuriyet Gazetesi E-Arşivi (16 Aralık 1974) | erişimtarihi = 7 Eylül 2025 | çalışma = egazete.cumhuriyet.com.tr | arşivengelli = evet | arşivtarihi = 31 Ekim 2025 | arşivurl = https://web.archive.org/web/20251031111225/https://egazete.cumhuriyet.com.tr/oku/192/1974-12-16/0 | ölüurl = hayır}}</ref>
+|-
+|[[23. Cumhuriyet Halk Partisi Olağan Kurultayı|23. Olağan Kurultay]]
+|27-30 Kasım 1976<ref>{{Akademik dergi kaynağı|url=https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/3C/T0052108.pdf|başlık=Sosyalist enternasyonal ve CHP|tarih=2005|ad=Zeycan|soyadı=Gül|arşivtarihi=31 Ekim 2025|arşivurl=https://web.archive.org/web/20251031115501/https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/3C/T0052108.pdf|erişim-tarihi=7 Eylül 2025|ölüurl=hayır}}</ref><ref>{{Web kaynağı | url = https://egazete.cumhuriyet.com.tr/oku/192/1976-11-27/0 | başlık = Cumhuriyet Gazetesi E-Arşivi (27 Kasım 1976) | erişimtarihi = 7 Eylül 2025 | çalışma = egazete.cumhuriyet.com.tr | arşivengelli = evet | arşivtarihi = 31 Ekim 2025 | arşivurl = https://web.archive.org/web/20251031101139/https://egazete.cumhuriyet.com.tr/oku/192/1976-11-27/0 | ölüurl = hayır}}</ref><ref>{{Web kaynağı | url = https://www.gastearsivi.com/gazete/milliyet2/1976-11-27/1 | başlık = 27 Kasım 1976 Tarihli Milliyet Gazetesi Sayfa 1 | erişimtarihi = 7 Eylül 2025 | dil = Türkçe | çalışma = www.gastearsivi.com | arşivengelli = evet | arşivtarihi = 6 Ocak 2026 | arşivurl = https://web.archive.org/web/20260106080620/https://www.gastearsivi.com/gazete/milliyet2/1976-11-27/1 | ölüurl = hayır}}</ref><ref>{{Web kaynağı | url = https://www.gastearsivi.com/gazete/milliyet2/1976-12-01/1 | başlık = 1 Aralık 1976 Tarihli Milliyet Gazetesi Sayfa 1 | erişimtarihi = 7 Eylül 2025 | dil = Türkçe | çalışma = www.gastearsivi.com | arşivengelli = evet | arşivtarihi = 6 Ocak 2026 | arşivurl = https://web.archive.org/web/20260106062122/https://www.gastearsivi.com/gazete/milliyet2/1976-12-01/1 | ölüurl = hayır}}</ref>
+|-
+|[[7. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|7. Olağanüstü Kurultay]] 
+|14 Kasım 1978
+|Genel başkanın çağrısı
+|-
+|[[24. Cumhuriyet Halk Partisi Olağan Kurultayı|24. Olağan Kurultay]]
+|24 Mayıs 1979
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[8. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|8. Olağanüstü Kurultay]] 
+|4 Kasım 1979
+|Genel başkanın çağrısı
+|-
+|[[25. Cumhuriyet Halk Partisi Olağan Kurultayı|25. Olağan Kurultay]]
+|9 Eylül 1992
+|[[Deniz Baykal]]
+|rowspan="4"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[26. Cumhuriyet Halk Partisi Olağan Kurultayı|26. Olağan Kurultay]]
+|18 Şubat 1995 
+|[[Hikmet Çetin]]
+|-
+|[[27. Cumhuriyet Halk Partisi Olağan Kurultayı|27. Olağan Kurultay]]
+|9-10 Eylül 1995
+|rowspan="2"|[[Deniz Baykal]]
+|-
+|[[28. Cumhuriyet Halk Partisi Olağan Kurultayı|28. Olağan Kurultay]]
+|23-24 Mayıs 1998
+|-
+|[[Cumhuriyet Halk Partisi 9. Olağanüstü Kurultayı|9. Olağanüstü Kurultay]]
+|22-23 Mayıs 1999
+|rowspan="2"|[[Altan Öymen]]
+|[[Deniz Baykal]]'ın istifası
+|-
+|[[10. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|10. Olağanüstü Kurultay]] 
+|26-27 Haziran 1999
+|rowspan="2"|Genel başkanın çağrısı
+|-
+|[[Cumhuriyet Halk Partisi 11. Olağanüstü Kurultayı|11. Olağanüstü Kurultay]]
+|30 Eylül-1 Ekim 2000
+|rowspan="8"|[[Deniz Baykal]]
+|-
+|[[29. Cumhuriyet Halk Partisi Olağan Kurultayı|29. Olağan Kurultay]]
+|30 Haziran-1 Temmuz 2001
+|rowspan="2"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[30. Cumhuriyet Halk Partisi Olağan Kurultayı|30. Olağan Kurultay]]
+|23-24 Ekim 2003
+|-
+|[[12. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|12. Olağanüstü Kurultay]] 
+|3 Temmuz 2004
+|rowspan="2"|Genel başkanın çağrısı
+|-
+|[[Cumhuriyet Halk Partisi 13. Olağanüstü Kurultayı|13. Olağanüstü Kurultay]] 
+|29-30 Ocak 2005
+|-
+|[[Cumhuriyet Halk Partisi 31. Olağan Kurultayı|31. Olağan Kurultay]]
+|19-20 Kasım 2005
+|rowspan="2"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[Cumhuriyet Halk Partisi 32. Olağan Kurultayı|32. Olağan Kurultay]]
+|26-27 Nisan 2008
+|-
+|[[14. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|14. Olağanüstü Kurultay]] 
+|21 Aralık 2008
+|Genel başkanın çağrısı
+|-
+|[[Cumhuriyet Halk Partisi 33. Olağan Kurultayı|33. Olağan Kurultay]]
+|22-23 Mayıs 2010
+|rowspan="10"|[[Kemal Kılıçdaroğlu]]
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[15. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|15. Olağanüstü Kurultay]] 
+|18-19 Aralık 2010
+|rowspan="3"|Genel başkanın çağrısı
+|-
+|[[16. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|16. Olağanüstü Kurultay]] 
+|26 Şubat 2012
+|-
+|[[17. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|17. Olağanüstü Kurultay]] 
+|27 Şubat 2012
+|-
+|[[Cumhuriyet Halk Partisi 34. Olağan Kurultayı|34. Olağan Kurultay]]
+|17-18 Temmuz 2012
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[Cumhuriyet Halk Partisi 18. Olağanüstü Kurultayı|18. Olağanüstü Kurultay]] 
+|5-6 Eylül 2014
+|Genel başkanın çağrısı
+|-
+|[[Cumhuriyet Halk Partisi 35. Olağan Kurultayı|35. Olağan Kurultay]]
+|16-17 Ocak 2016
+|rowspan="2"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[Cumhuriyet Halk Partisi 36. Olağan Kurultayı|36. Olağan Kurultay]]
+|3-4 Şubat 2018
+|-
+|[[19. Cumhuriyet Halk Partisi Olağanüstü Kurultayı|19. Olağanüstü Kurultay]] 
+|9<ref>{{Web kaynağı|url = https://www.aa.com.tr/tr/politika/chpnin-19-olaganustu-kurultayi-basladi/1084000|başlık = CHP'nin 19. Olağanüstü Kurultayı başladı|erişimtarihi = 8 Aralık 2024|tarih = 9 Mart 2018|çalışma =Anadolu Ajansı.com.tr|arşivengelli = evet|arşivurl = https://web.archive.org/web/20241208174651/https://www.aa.com.tr/tr/politika/chpnin-19-olaganustu-kurultayi-basladi/1084000|arşivtarihi = 8 Aralık 2024|ölüurl = hayır}}</ref>-10 Mart<ref name=":1" /> 2018
+|Genel başkanın çağrısı<ref name=":1">{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/chp-19-olaganustu-kurultayi-tamamlandi/1085346|başlık=CHP 19. Olağanüstü Kurultayı tamamlandı|erişimtarihi=6 Ağustos 2024|çalışma=Anadolu Ajansı.com.tr|arşivurl=https://web.archive.org/web/20240806191249/https://www.aa.com.tr/tr/politika/chp-19-olaganustu-kurultayi-tamamlandi/1085346|arşivtarihi=6 Ağustos 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://www.aa.com.tr/tr/politika/chp-olaganustu-kurultaya-gidiyor/1062772|başlık = CHP olağanüstü kurultaya gidiyor|erişimtarihi = 8 Aralık 2024|tarih = Şubat 2018|çalışma =Anadolu Ajansı.com.tr|yayıncı = Anadolu Ajansı|arşivurl = https://web.archive.org/web/20180216234222/https://www.aa.com.tr/tr/politika/chp-olaganustu-kurultaya-gidiyor/1062772|arşivtarihi = 16 Şubat 2018}}</ref>
+|-
+|[[Cumhuriyet Halk Partisi 37. Olağan Kurultayı|37. Olağan Kurultay]]
+|25-26 Temmuz 2020
+|rowspan="2"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği) 
+|-
+|[[Cumhuriyet Halk Partisi 38. Olağan Kurultayı|38. Olağan Kurultay]]
+|4-5 Kasım 2023
+| rowspan="5" |[[Özgür Özel]]
+|-
+|[[Cumhuriyet Halk Partisi 20. Olağanüstü Kurultayı|20. Olağanüstü Kurultay]]
+|6-9 Eylül 2024
+|rowspan="2"|Genel başkanın çağrısı<ref>{{Web kaynağı|url=https://halktv.com.tr/makale/ozel-kacti-dedirtmemek-icin-kurultay-kararini-ben-aldim-858936|başlık=Özel: Kaçtı dedirtmemek için kurultay kararını ben aldım|erişimtarihi=6 Ağustos 2024|tarih=6 Ağustos 2024|dil=Türkçe|çalışma=Halk TV|arşivurl=https://web.archive.org/web/20240806102405/https://halktv.com.tr/makale/ozel-kacti-dedirtmemek-icin-kurultay-kararini-ben-aldim-858936|arşivtarihi=6 Ağustos 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://medyascope.tv/2025/03/21/chp-olaganustu-kurultaya-gidiyor/|başlık = Özgür Özel duyurdu: CHP olağanüstü kurultaya gidiyor|erişimtarihi = 21 Mart 2025|tarih = 21 Mart 2025|dil = Türkçe|çalışma = Medyascope|ad = Haber|soyadı = Merkezi|arşivurl = https://web.archive.org/web/20250321135221/https://medyascope.tv/2025/03/21/chp-olaganustu-kurultaya-gidiyor/|arşivtarihi = 21 Mart 2025}}</ref>
+|-
+|[[Cumhuriyet Halk Partisi 21. Olağanüstü Kurultayı|21. Olağanüstü Kurultay]]
+|6 Nisan 2025
+|-
+|[[Cumhuriyet Halk Partisi 22. Olağanüstü Kurultayı|22. Olağanüstü Kurultay]] 
+|21 Eylül 2025
+|rowspan="1"|Delegelerin çağrısı<ref>{{Web kaynağı | url = https://www.cumhuriyet.com.tr/turkiye/son-dakika-900-un-uzerinde-delege-imzasiyla-chp-olaganustu-kurultay-karari-aldi-2432674 | başlık = Son Dakika… 900’ün üzerinde delege imzasıyla CHP Olağanüstü Kurultay kararı aldı… | erişimtarihi = 6 Eylül 2025 | tarih = 6 Eylül 2025 | dil = Türkçe | çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]] | ad = Haber | soyadı = Merkezi | arşivurl = https://web.archive.org/web/20250905212120/https://www.cumhuriyet.com.tr/turkiye/son-dakika-900-un-uzerinde-delege-imzasiyla-chp-olaganustu-kurultay-karari-aldi-2432674 | arşivtarihi = 5 Eylül 2025}}</ref><ref>{{Web kaynağı | url = https://halktv.com.tr/gundem/son-dakikachp-olaganustu-kurultaya-gidiyor-969288h | başlık = CHP Olağanüstü Kurultaya Gidiyor | tarih = 6 Eylül 2025 | erişimtarihi = 6 Eylül 2025 | çalışma = halktv.com.tr | arşivengelli = evet | arşivtarihi = 5 Eylül 2025 | arşivurl = https://web.archive.org/web/20250905211122/https://halktv.com.tr/gundem/son-dakikachp-olaganustu-kurultaya-gidiyor-969288h | ölüurl = hayır}}</ref>
+|-
+|[[Cumhuriyet Halk Partisi 39. Olağan Kurultayı|39. Olağan Kurultay]]
+|28-30 Kasım 2025
+|rowspan="1"|Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|}
+
+== Belediye başkanları ==
+{| class="wikitable" style="font-size:80%;"
+!#
+!Adı
+!İl
+!İlçe
+!Belde
+|-
+| rowspan="2" |'''1'''
+|Zeydan Karalar
+| rowspan="7" |[[Adana (il)|Adana]]
+| rowspan="2" |[[Adana belediye başkanları listesi|Büyükşehir]]
+|Görevden Uzaklaştırıldı.
+|-
+|Güngör Geçer (Başkanvekili)
+|
+|-
+|'''2'''
+|Kemal Özdemir
+|[[Aladağ]]
+|
+|-
+|'''3'''
+|Sıtkı Keskin (Başkanvekili)
+|[[Çukurova, Adana|Çukurova]]
+|
+|-
+|'''4'''
+|Ali Bedrettin Karataş
+|[[Karataş, Adana|Karataş]]
+|
+|-
+| rowspan="2" |'''5'''
+|Oya Tekin
+| rowspan="2" |[[Seyhan]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Hasibe Akkan (Başkanvekili) 
+|
+|-
+|'''6'''
+|[[Abdurrahman Tutdere]]
+| rowspan="3" |[[Adıyaman (il)|Adıyaman]]
+| rowspan="3" |[[Adıyaman|Merkez]]
+|
+|-
+|'''7'''
+|Hasarı Talaş
+|[[Kömür, Adıyaman|Kömür]]
+|-
+|'''8'''
+|Abuzer Aydın
+|[[Yaylakonak, Adıyaman|Yaylakonak]]
+|-
+|'''9'''
+|Zehra Özyol
+|[[Amasya (il)|Amasya]]
+|[[Gümüşhacıköy]]
+|
+|-
+| rowspan="2" |'''10'''
+|Erdal Beşikçioğlu
+| rowspan="3" |[[Ankara (il)|Ankara]]
+| rowspan="2" |[[Etimesgut]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Seda Dilber (Başkanvekili)
+|
+|-
+|'''11'''
+|Fethi Yaşar
+|[[Yenimahalle]]
+|
+|-
+|'''12'''
+|Mustafa Geyikçi
+| rowspan="5" |Antalya
+|[[Finike]]
+|
+|-
+|'''13'''
+|Mehmet Ali Yılmaz
+|[[Gazipaşa]]
+|
+|-
+|'''14'''
+|Mesut Kocagöz
+|[[Kepez]]
+|
+|-
+|'''15'''
+|Mehmet Çiçek (Başkanvekili)
+|[[Manavgat]]
+|
+|-
+|'''16'''
+|Ümit Uysal
+|Muratpaşa
+|-
+|'''17'''
+|[[Ahmet Akın]]
+| rowspan="4" |[[Balıkesir (il)|Balıkesir]]
+|[[Balıkesir belediye başkanları listesi|Büyükşehir]]
+|
+|-
+|'''18'''
+|Hakan Şehirli
+|[[Altıeylül]]
+|
+|-
+|'''19'''
+|Mesut Akbıyık
+|[[Karesi]]
+|
+|-
+|'''20'''
+|Ali Koyuncu
+|[[Savaştepe]]
+|
+|-
+|'''21'''
+|Ali Okan Yücel
+|[[Burdur (il)|Burdur]]
+|[[Çavdır]]
+|
+|-
+|'''22'''
+|Mustafa Cebeci
+|[[Çorum (il)|Çorum]]
+|[[Oğuzlar, Çorum|Oğuzlar]]
+|
+|-
+|'''23'''
+|Yüksel Kepenek
+| rowspan="2" |[[Denizli (il)|Denizli]]
+|[[Honaz]]
+|
+|-
+|'''24'''
+|Ali Rıza Ertemur
+|[[Pamukkale, Denizli|Pamukkale]]
+|
+|-
+|'''25'''
+|Habil Dökmeci
+|[[Eskişehir (il)|Eskişehir]]
+|[[Sivrihisar]]
+|
+|-
+|'''26'''
+|Arif Hikmet Kılıç
+|[[Erzurum (il)|Erzurum]]
+|[[Çat]]
+|
+|-
+|'''27'''
+|Ali Doğan
+|[[Gaziantep (il)|Gaziantep]]
+|[[Nizip]]
+|
+|-
+|'''28'''
+|Necmi Sıbıç
+|[[Giresun (il)|Giresun]]
+|[[Bulancak]]
+|
+|-
+|'''29'''
+| [[Nuri Aslan]] (Başkanvekili)
+| rowspan="11" |[[İstanbul (il)|İstanbul]]
+|[[İstanbul|Büyükşehir]]
+|
+|-
+| rowspan="2" |'''30'''
+|Utku Caner Çaykara
+| rowspan="2" |[[Avcılar]]
+|Görevden Uzaklaştırıldı.
+|-
+|Yüksel Can (Başkanvekili)
+|
+|-
+|'''31'''
+|Ömer Rasim Şişman (Başkanvekili)
+|[[Beşiktaş]]
+|
+|-
+| rowspan="2" |'''32'''
+|Mehmet Murat Çalık
+| rowspan="2" |[[Beylikdüzü]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Önder Serkan Çebi (Başkanvekili)
+|
+|-
+| rowspan="2" |'''33'''
+|Mithat Bülent Özmen
+| rowspan="2" |[[Eyüpsultan]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Cafer Parlak (Başkanvekili)
+|
+|-
+|'''34'''
+|[[Gökhan Yüksel]]
+|[[Kartal, İstanbul|Kartal]]
+|
+|-
+| rowspan="2" |'''35'''
+|Bora Balcıoğlu
+| rowspan="2" |[[Silivri]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Yalçın Ekici (Başkanvekili)
+|
+|-
+|'''36'''
+|Onur Yiğit
+| rowspan="5" |[[İzmir (il)|İzmir]]
+|[[Balçova]]
+|
+|-
+| rowspan="2" |'''37'''
+|Görkem Duman
+| rowspan="2" |[[Buca]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Hüseyin Benzer (Başkanvekili)
+|
+|-
+|'''38'''
+|[[Behice Yıldız Ünsal|Yıldız Ünsal]]
+|[[Karşıyaka]]
+|
+|-
+|'''39'''
+|Erman Uzun
+|[[Narlıdere]]
+|
+|-
+|'''40'''
+|Erkan Gürbüz
+| rowspan="2" |[[Kahramanmaraş (il)|Kahramanmaraş]]
+|[[Elbistan]]
+|
+|-
+|'''41'''
+|İlhami Bozan
+|[[Nurhak]]
+|
+|-
+|'''42'''
+|Mustafa Bozcu
+|[[Karaman (il)|Karaman]]
+|[[Ermenek]]
+|
+|-
+|'''43'''
+|Ömer Faruk Eroğlu
+|[[Kayseri (il)|Kayseri]]
+|[[Sarız]]
+|
+|-
+|'''44'''
+|Ali Koyuncu
+|[[Kilis (il)|Kilis]]
+|[[Polateli]]
+|
+|-
+|'''45'''
+|Ümit Akpınar
+| rowspan="2" |[[Konya (il)|Konya]]
+|[[Ereğli]]
+|
+|-
+|'''46'''
+|Nurettin Akbuğa
+|[[Tuzlukçu]]
+|
+|-
+| rowspan="2" |'''47'''
+|Vahap Seçer
+| rowspan="9" |[[Mersin (il)|Mersin]]
+| rowspan="2" |[[Mersin belediye başkanları listesi|Büyükşehir]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Gülşah Yıldırım Genç (Başkanvekili)
+|
+|-
+|'''48'''
+|Özkan Kılıçarpa
+|[[Aydıncık, Mersin|Aydıncık]]
+|
+|-
+|'''49'''
+|Turgut Selağzı (Başkanvekili)
+|Mezitli
+|
+|-
+| rowspan="2" |'''50'''
+|Mustafa Turgut
+| rowspan="2" |[[Silifke]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Oğuzhan Kökten (Başkanvekili)
+|
+|-
+|'''51'''
+|Abdurrahman Yıldız
+|[[Toroslar, Mersin|Toroslar]]
+|
+|-
+| rowspan="2" |'''52'''
+|Abdullah Özyiğit
+| rowspan="2" |[[Yenişehir, Mersin|Yenişehir]]
+|Tutuklu (Görevden Uzaklaştırıldı.)
+|-
+|Çağdaş Dutlu (Başkanvekili)
+|
+|-
+|'''53'''
+|Tamer Mandalinci
+| rowspan="2" |[[Muğla (il)|Muğla]]
+|[[Bodrum, Muğla|Bodrum]]
+|
+|-
+|'''54'''
+|Alim Karaca
+|[[Fethiye]]
+|
+|-
+|'''55'''
+|Remzi Çetin
+|[[Muş (il)|Muş]]
+|[[Malazgirt]]
+|[[Konakkuran, Malazgirt|Konakkuran]]
+|-
+|'''56'''
+|Taner İnce
+| rowspan="2" |[[Nevşehir (il)|Nevşehir]]
+|[[Derinkuyu]]
+|
+|-
+|'''57'''
+|Sefer Neslihanoğlu
+|[[Kozaklı]]
+|
+|-
+|'''58'''
+|Muammer Afşar
+| rowspan="2" |[[Niğde (il)|Niğde]]
+|[[Niğde|Merkez]]
+|[[Bağlama, Niğde|Bağlama]]
+|-
+|'''59'''
+|Ramazan Oya
+|[[Bor, Niğde|Bor]]
+|[[Kemerhisar, Bor|Kemerhisar]]
+|-
+|'''60'''
+|Nihat Arda Şahin
+|[[Sakarya]]
+|[[Sapanca]]
+|
+|-
+|'''61'''
+|Hayrettin Kaya
+|[[Sinop (il)|Sinop]]
+|[[Ayancık]]
+|
+|-
+|'''62'''
+|Hayatı Akbulut
+|[[Sivas (il)|Sivas]]
+|[[Altınyayla, Sivas|Altınyayla]]
+|[[Deliilyas, Altınyayla|Deliilyas]]
+|-
+|'''63'''
+|Mustafa Onur Bozkurter
+| rowspan="3" |[[Marmaraereğlisi|Tekirdağ]]
+|[[Marmaraereğlisi]]
+|
+|-
+|'''64'''
+|Varol Türel
+|[[Muratlı]]
+|
+|-
+|'''65'''
+|Abdül Taşyasan
+|[[Saray, Tekirdağ|Saray]]
+|
+|-
+|'''66'''
+|Tuncer Uzunoğlu
+| rowspan="3" |[[Tokat (il)|Tokat]]
+|[[Niksar]]
+|[[Yazıcık, Niksar|Yazıcık]]
+|-
+|'''67'''
+|Mehmet Erdem Ural
+|[[Turhal]]
+|
+|-
+|'''68'''
+|Şükrü Sargın
+|[[Zile]]
+|
+|-
+|'''69'''
+|Ümit Tayhava
+| rowspan="3" |[[Tunceli (il)|Tunceli]]
+|[[Mazgirt]]
+|
+|-
+|'''70'''
+|Ali Emrah Tekin
+|[[Nazımiye]]
+|
+|-
+|'''71'''
+|Müslüm Tosun
+|[[Pülümür]]
+|
+|-
+|'''72'''
+|Ali Erbezci
+|Uşak
+|Sivaslı
+|Selçikler
+|-
+|'''73'''
+|Doğan Çitil
+|Yalova
+|Altınova
+|Kaytaztepe
+|-
+|'''74'''
+|Halil Posbıyık
+| rowspan="2" |[[Zonguldak (il)|Zonguldak]]
+|[[Karadeniz Ereğli|Ereğli]]
+|
+|-
+|'''75'''
+|Bülent Kantarcı
+|[[Çaycuma]]
+|
+|- class="sortbottom"
+| colspan="5" style="background-color:#EAECF0;text-align:center" |'''Kaynak:'''<ref>{{Web kaynağı|url=https://chp.org.tr/yerel-yonetimler/buyuksehir-belediye-baskanlari|başlık=Cumhuriyet Halk Partisi|website=chp.org.tr|erişimtarihi=23 Temmuz 2022|arşivurl=https://web.archive.org/web/20220511224413/https://chp.org.tr/yerel-yonetimler/buyuksehir-belediye-baskanlari|arşivtarihi=11 Mayıs 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://chp.org.tr/yerel-yonetimler/il-belediye-baskanlari|başlık=Cumhuriyet Halk Partisi|website=chp.org.tr|erişimtarihi=23 Temmuz 2022|arşivurl=https://web.archive.org/web/20220608194655/https://chp.org.tr/yerel-yonetimler/il-belediye-baskanlari|arşivtarihi=8 Haziran 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://chp.org.tr/yerel-yonetimler/adana/ilce-belediye-baskanlari|başlık=Cumhuriyet Halk Partisi|website=chp.org.tr|erişimtarihi=23 Temmuz 2022|arşivurl=https://web.archive.org/web/20220608222938/https://chp.org.tr/yerel-yonetimler/adana/ilce-belediye-baskanlari|arşivtarihi=8 Haziran 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://chp.org.tr/yerel-yonetimler/adiyaman/belde-belediye-baskanlari|başlık=Cumhuriyet Halk Partisi|website=chp.org.tr|erişimtarihi=23 Temmuz 2022|arşivurl=https://web.archive.org/web/20220608231959/https://chp.org.tr/yerel-yonetimler/adiyaman/belde-belediye-baskanlari|arşivtarihi=8 Haziran 2022|ölüurl=hayır}}</ref>
+|}
+
+== TBMM Grubu ==
+Mutlak butlan kararının ardından genel merkez binasından tahliye edilen Özel yönetimi, TBMM bünyesindeki CHP meclis grubunu fiili bir yönetim hâline getirmiştir. Bu süreçte, genel başkanlık görevinden uzaklaştırılan Özel, hukuken elinde bulundurduğu "CHP TBMM Grup Başkanı" sıfatıyla meclis grubundaki liderliğini sürdürmüştür.
+
+Buna karşılık Kılıçdaroğlu yönetimi, Özel'i bu görevden de uzaklaştırmak için 27 Mayıs 2026 tarihinde TBMM Başkanlığına dilekçe sunarak Özgür Özel'in grup başkanı seçildiği oylamanın parti tüzüğüne ve yönetmeliğine aykırı olarak usulsüz gerçekleştirildiğini savundu ve seçimin geçersiz sayılmasını talep etmiştir.<ref>{{Web kaynağı | url = https://bianet.org/haber/kilicdaroglu-ozelin-meclis-grup-baskani-oldugu-secimin-iptalini-istedi-319975 | başlık = Kılıçdaroğlu, Özel'in Meclis Grup Başkanı olduğu seçimin iptalini istedi | erişimtarihi = 6 Eylül 2026 | tarih = 27 Mayıs 2026 | yayıncı = Bianet | arşivtarihi = 7 Eylül 2026 | arşivurl = https://web.archive.org/web/20260907052216/https://bianet.org/haber/kilicdaroglu-ozelin-meclis-grup-baskani-oldugu-secimin-iptalini-istedi-319975 | ölüurl = hayır}}</ref> Meclis Başkanlığına yapılan görevden alma başvurusuna rağmen görevinden ayrılmayan Özgür Özel, 2 Haziran 2026'da partisinin meclis grup toplantısında yaptığı konuşmada kurultayı hazmedemeyenlerin "iktidar ortaklığı" ve yargı eliyle partiyi ele geçirmeye çalıştığını savunarak meclis grubunu teslim etmeyeceklerini ilan etti.<ref>{{Web kaynağı | url = https://bianet.org/haber/ozel-karsimizda-mutlak-sultanla-mutlak-butlanin-ittifaki-var-320112 | başlık = Özel: Karşımızda mutlak sultanla mutlak butlanın ittifakı var | erişimtarihi = 6 Eylül 2026 | tarih = 2 Haziran 2026 | yayıncı = Bianet | arşivtarihi = 6 Eylül 2026 | arşivurl = https://web.archive.org/web/20260906202024/https://bianet.org/haber/ozel-karsimizda-mutlak-sultanla-mutlak-butlanin-ittifaki-var-320112 | ölüurl = hayır}}</ref>  CHP TBMM Grubu'ndaki yönetim krizi, CHP'li 91 milletvekilinin partilerinden ayrılarak [[Yeni Parti (2026)|Yeni Parti]]'yi kurmasıyla sona erdi.
+
+26 Temmuz 2026'da [[Faik Öztrak (1954 doğumlu siyasetçi)|Faik Öztrak]] partinin TBMM Grup Başkanı olarak seçilmiştir.<ref>{{Web kaynağı | url = https://medyascope.tv/2026/07/26/faik-oztrak-chp-grup-baskani-secildi/ | başlık = Faik Öztrak CHP Grup Başkanı seçildi, “üçüncü yol” diyenler müdahale olduğunu iddia etti | erişimtarihi = 6 Eylül 2026 | tarih = 26 Temmuz 2026 | dil = Türkçe | çalışma = Medyascope | ad = Özgecan | soyadı = Özgenç | arşivtarihi = 6 Eylül 2026 | arşivurl = https://web.archive.org/web/20260906183310/https://medyascope.tv/2026/07/26/faik-oztrak-chp-grup-baskani-secildi/ | ölüurl = hayır}}</ref>
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Görevi
+!Görev başlangıcı
+|-
+|'''1'''
+|[[Faik Öztrak (1954 doğumlu siyasetçi)|Faik Öztrak]]
+|Grup Başkanı
+| rowspan="4" |26 Temmuz 2026 
+|-
+|'''2'''
+|[[Rahmi Aşkın Türeli]]
+| rowspan="2" |Grup Başkanvekili
+|-
+|'''3'''
+|[[Sevda Erdan Kılıç]]
+|-
+|'''4'''
+|[[Serkan Sarı]]
+|Yedek Grup
+Başkanvekili
+|}
+
+== Milletvekilleri ==
+{| class="wikitable" style="font-size:75%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi 
+|-
+|'''1'''
+|[[Müzeyyen Şevkin]]
+|[[Adana milletvekilleri listesi|Adana]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu üyesi
+|-
+|'''2'''
+|[[Deniz Demir (siyasetçi)|Deniz Demir]]
+|[[Ankara milletvekilleri listesi|Ankara]]
+|Milli Eğitim, Kültür, Gençlik Ve Spor Komisyonu üyesi
+|-
+|'''3'''
+|[[Semra Dinçer (siyasetçi)|Semra Dinçer]]
+|[[Muğla milletvekilleri listesi|Muğla]]
+|Genel Başkan Yardımcısı
+|-
+|'''4'''
+|[[Sururi Çorabatır]]
+|[[Antalya milletvekilleri listesi|Antalya]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu üyesi
+|-
+|'''5'''
+|[[Hüseyin Yıldız (1967 doğumlu siyasetçi)|Hüseyin Yıldız]]
+|[[Aydın milletvekilleri listesi|Aydın]]
+|Kit Komisyonu üyesi
+|-
+|'''6'''
+|[[Serkan Sarı]]
+|[[Balıkesir milletvekilleri listesi|Balıkesir]]
+|Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu üyesi
+|-
+|'''7'''
+|[[Aysu Bankoğlu]]
+|[[Bartın milletvekilleri listesi|Bartın]]
+|Genel Başkan Yardımcısı
+|-
+|'''8'''
+|[[Türker Ateş]]
+|[[Bolu milletvekilleri listesi|Bolu]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu üyesi
+|-
+|'''9'''
+|[[Orhan Sarıbal]]
+|[[Bursa milletvekilleri listesi|Bursa]]
+|Tarım, Orman Ve Köyişleri Komisyonu üyesi
+|-
+|'''10'''
+|[[Gülizar Biçer Karaca]]
+|[[Denizli milletvekilleri listesi|Denizli]]
+|TBMM Başkanvekili
+|-
+|'''11'''
+|[[Ahmet Baran Yazgan]]
+|[[Edirne milletvekilleri listesi|Edirne]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu üyesi
+|-
+|'''12'''
+|[[Gürsel Erol]]
+|[[Elazığ milletvekilleri listesi|Elazığ]]
+|Çevre Komisyonu üyesi
+|-
+|'''13'''
+|[[Jale Nur Süllü]]
+|[[Eskişehir milletvekilleri listesi|Eskişehir]]
+|Avrupa Birliği Uyum Komisyonu üyesi
+|-
+|'''14'''
+|[[Hasan Öztürkmen]]
+|[[Gaziantep milletvekilleri listesi|Gaziantep]]
+|Güvenlik Ve İstihbarat Komisyonu üyesi
+|-
+|'''15'''
+|[[Mehmet Güzelmansur]]
+|rowspan="2"|[[Hatay milletvekilleri listesi|Hatay]]
+|Dışişleri Komisyonu üyesi
+|-
+|'''16'''
+|[[Nermin Yıldırım Kara]]
+|Çevre Komisyonu üyesi
+|-
+|'''17'''
+|[[Engin Altay]]
+|rowspan="7"|[[İstanbul milletvekilleri listesi|İstanbul]]
+|Karadeniz Ekonomik İşbirliği Parlamenter Asamblesi üyesi
+|-
+|'''18'''
+|[[Erdoğan Toprak]]
+|İçişleri Komisyonu Üyesi
+|-
+|'''19'''
+|[[Gamze Akkuş İlgezdi]]
+|Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu üyesi
+|-
+|'''20'''
+|[[İlhan Kesici]]
+|NATO Parlamenter Asamblesi üyesi
+|-
+|'''21'''
+|[[Oğuz Kaan Salıcı]]
+|Dışişleri Komisyonu üyesi
+|-
+|'''22'''
+|[[Enis Berberoğlu|Kadri Enis Berberoğlu]]
+|Avrupa Birliği Uyum Komisyonu üyesi
+|-
+|'''23'''
+|[[Yüksel Mansur Kılınç]]
+|Güvenlik Ve İstihbarat Komisyonu üyesi / Dijital Mecralar Komisyonu üyesi
+|-
+|'''24'''
+|[[Rahmi Aşkın Türeli]]
+
+|rowspan="3"|[[İzmir milletvekilleri listesi|İzmir]]
+|Plan Ve Bütçe Komisyonu üyesi
+|-
+|'''25'''
+|[[Rıfat Turuntay Nalbantoğlu]]
+|İçişleri Komisyonu üyesi
+|-
+|'''26'''
+|[[Sevda Erdan Kılıç]]
+|Anayasa Komisyonu üyesi
+|-
+|'''27'''
+|[[Ali Öztunç]]
+|[[Kahramanmaraş milletvekilleri listesi|Kahramanmaraş]]
+|İçişleri Komisyonu üyesi
+|-
+|'''28'''
+|[[İnan Akgün Alp]]
+|[[Kars milletvekilleri listesi|Kars]]
+|Adalet Komisyonu üyesi
+|-
+|'''29'''
+|[[Cevdet Akay]]
+|[[Karabük milletvekilleri listesi|Karabük]]
+|Plan Ve Bütçe Komisyonu üyesi
+|-
+|'''30'''
+|[[Vecdi Gündoğdu]]
+|[[Kırklareli milletvekilleri listesi|Kırklareli]]
+|Çevre Komisyonu üyesi
+|-
+|'''31'''
+|[[Barış Bektaş]]
+|[[Konya milletvekilleri listesi|Konya]]
+|Anayasa Komisyonu üyesi
+|-
+|'''32'''
+|[[Selma Aliye Kavaf]]
+|[[Manisa milletvekilleri listesi|Manisa]]
+|Anayasa Komisyonu üyesi
+|-
+|'''33'''
+|[[Gülcan Kış]]
+|[[Mersin milletvekilleri listesi|Mersin]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu üyesi
+|-
+|'''34'''
+|[[Ömer Fethi Gürer]]
+|[[Niğde milletvekilleri listesi|Niğde]]
+|Tarım, Orman Ve Köyişleri Komisyonu üyesi
+|-
+|'''35'''
+|[[Mustafa Adıgüzel]]
+|[[Ordu milletvekilleri listesi|Ordu]]
+|Milli Eğitim, Kültür, Gençlik Ve Spor Komisyonu üyesi
+|-
+|'''36'''
+|[[Cem Avşar]]
+|[[İstanbul milletvekilleri listesi|İstanbul]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu üyesi
+|-
+|'''37'''
+|[[Faik Öztrak (1954 doğumlu siyasetçi)|Faik Öztrak]]
+| rowspan="3" |[[Tekirdağ milletvekilleri listesi|Tekirdağ]]
+|Ekonomi Politikaları Genel Başkan Yardımcısı
+|-
+|'''38'''
+|[[İlhami Özcan Aygun]]
+|Tarım, Orman Ve Köyişleri Komisyonu üyesi
+|-
+|'''39'''
+|[[Nurten Yontar]]
+|Kadın Erkek Fırsat Eşitliği Komisyonu üyesi
+|-
+|'''40'''
+|[[Kadim Durmaz]]
+|[[Tokat milletvekilleri listesi|Tokat]]
+|Kamu İktisadi Teşebbüsleri Komisyonu üyesi
+|-
+|'''41'''
+|[[Ali Karaoba]]
+|[[Uşak milletvekilleri listesi|Uşak]]
+|Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu üyesi
+|-
+|'''42'''
+|[[Tahsin Becan]]
+|[[Yalova milletvekilleri listesi|Yalova]]
+|Milli Savunma Komisyonu üyesi
+|-
+|'''43'''
+|[[Mahir Polat (siyasetçi)|Mahir Polat]]
+|[[İzmir milletvekilleri listesi|İzmir]]
+|Çevre Komisyonu üyesi
+|-
+|'''44'''
+|[[Ediz Ün]]
+|[[Edirne milletvekilleri listesi|Edirne]]
+|
+|}
+
+== Cumhuriyet Halk Partisi ve seçimler ==
+
+=== Milletvekilliği seçimleri ===
+{| class="wikitable" text-align:right;"
+!rowspan="2"|Seçim
+!rowspan="2"|Lider
+!colspan="3"|Seçim sonuçları
+!colspan="2"|Sandalye
+!rowspan="2"|Hükûmet
+|-
+!Oy sayısı
+!'''%'''
+!±
+!#
+!±
+|-
+![[1927 Türkiye genel seçimleri|1927]]
+|rowspan="3"|[[Mustafa Kemal Atatürk]]
+|Bilinmiyor
+|100,0 (#1)
+|Yeni
+|{{Composition bar|335|335|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|Yeni
+|{{evet2|[[5. Türkiye Hükûmeti|IV. İnönü]] {{Küçük|(1927-1930)}}<br> [[6. Türkiye Hükûmeti|V. İnönü]] {{Küçük|(1930-1931)}}}}
+|-
+![[1931 Türkiye genel seçimleri|1931]]
+|Bilinmiyor
+|100,0 (#1)
+|{{Sabit}}
+|{{Composition bar|287|317|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 48
+|{{evet2|[[7. Türkiye Hükûmeti|VI. İnönü]]}}
+|-
+![[1935 Türkiye genel seçimleri|1935]]
+|Bilinmiyor
+|100,0 (#1)
+|{{Sabit}}
+|{{Composition bar|401|428|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 114
+|{{evet2|[[8. Türkiye Hükûmeti|VII. İnönü]] {{Küçük|(1935-1937)}}<br> [[9. Türkiye Hükûmeti|I. Bayar]] {{Küçük|(1937-1938)}}<br> [[10. Türkiye Hükûmeti|II. Bayar]] {{Küçük|(1938-1939)}}<br> [[11. Türkiye Hükûmeti|I. Saydam]] {{Küçük|(1939)}}}}
+|-
+![[1939 Türkiye genel seçimleri|1939]]
+|rowspan="9" |[[İsmet İnönü]]
+|Bilinmiyor
+|100,0 (#1)
+|{{Sabit}}
+|{{Composition bar|466|470|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 65
+|{{evet2|[[12. Türkiye Hükûmeti|II. Saydam]] {{Küçük|(1939-1942)}}<br> [[13. Türkiye Hükûmeti|I. Saracoğlu]] {{Küçük|(1942-1943)}}}}
+|-
+![[1943 Türkiye genel seçimleri|1943]]
+|Bilinmiyor
+|100,0 (#1)
+|{{Sabit}}
+|{{Composition bar|488|492|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 22
+|{{evet2|[[14. Türkiye Hükûmeti|II. Saracoğlu]]}}
+|-
+![[1946 Türkiye genel seçimleri|1946]]
+|4.150.000~
+|85,4 (#1)
+|{{azalış}} 14,6
+|{{Composition bar|397|465|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 91
+|{{evet2|[[15. Türkiye Hükûmeti|Peker]] {{Küçük|(1946-1947)}}<br>[[16. Türkiye Hükûmeti|I. Saka]] {{Küçük|(1947-1948)}}<br>[[17. Türkiye Hükûmeti|II. Saka]] {{Küçük|(1948-1949)}}<br>[[18. Türkiye Hükûmeti|Günaltay]] {{Küçük|(1949-1950)}}}}
+|-
+![[1950 Türkiye genel seçimleri|1950]]
+|3.176.561
+|39,45 (#2)
+|{{azalış}} 45,9
+|{{Composition bar|69|487|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 328
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[1954 Türkiye genel seçimleri|1954]]
+|3.161.696
+|35,36 (#2)
+|{{azalış}} 4,09
+|{{Composition bar|31|541|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 38
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[1957 Türkiye genel seçimleri|1957]]
+|3.753.136
+|41,09 (#2)
+|{{artış}} 4,73
+|{{Composition bar|178|610|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 147
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[1961 Türkiye genel seçimleri|1961]]
+|3.724.752
+|36,74 (#1)
+|{{azalış}} 4,35
+|{{Composition bar|173|450|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 5
+|{{evet2|[[26. Türkiye Hükûmeti|VIII. İnönü]] {{Küçük|(1961-1962)}}<br>[[27. Türkiye Hükûmeti|IX. İnönü]] {{Küçük|(1962-1963)}}<br>[[28. Türkiye Hükûmeti|X. İnönü]] {{Küçük|(1963-1965)}}}}
+|-
+![[1965 Türkiye genel seçimleri|1965]]
+|2.675.785
+|28,75 (#2)
+|{{azalış}} 7,99
+|{{Composition bar|134|450|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 39
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[1969 Türkiye genel seçimleri|1969]]
+|2.487.163
+|27,37 (#2)
+|{{azalış}} 1,38
+|{{Composition bar|143|450|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 9
+|{{kısmen|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]] {{Küçük|(1970-1971)}}<br>[[33. Türkiye Hükûmeti|I. Erim]] {{Küçük|(1971)}}<br>[[34. Türkiye Hükûmeti|II. Erim]] {{Küçük|(1971-1972)}}<br>[[35. Türkiye Hükûmeti|Melen]] {{Küçük|(1972-1973)}}}}
+|-
+![[1973 Türkiye genel seçimleri|1973]]
+|rowspan="2"|[[Bülent Ecevit]]
+|3.570.583
+|33,30 (#1)
+|{{artış}} 5,93
+|{{Composition bar|185|450|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 42
+|{{kısmen|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]<br>{{Küçük|(1973-1974, 1974-1977)}}<br>[[37. Türkiye Hükûmeti|I. Ecevit]] {{Küçük|(1974)}}}}
+|-
+![[1977 Türkiye genel seçimleri|1977]]
+|6.136.171
+|41,38 (#1)
+|{{artış}} 8,08
+|{{Composition bar|213|450|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 28
+|{{kısmen|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]<br>{{Küçük|(1977-1978, 1979-1980)}}<br>[[40. Türkiye Hükûmeti|II. Ecevit]] {{Küçük|(1977)}}<br>[[42. Türkiye Hükûmeti|III. Ecevit]] {{Küçük|(1978-1979)}}}}
+|-
+![[1995 Türkiye genel seçimleri|1995]]
+|rowspan="4"|[[Deniz Baykal]]
+|3.011.076
+|10,71 (#5)
+|{{azalış}} 30,67
+|{{Composition bar|49|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 164
+|{{hayır2|Muhalefet}}
+|-
+![[1999 Türkiye genel seçimleri|1999]]
+|2.716.096
+|8,71 (#6)
+|{{azalış}} 2,00
+|{{Composition bar|0|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 49
+|{{N/A|[[Seçim barajı]]nın altında kaldı}}
+|-
+![[2002 Türkiye genel seçimleri|2002]]
+|6.114.843
+|19,39 (#2)
+|{{artış}} 10,68
+|{{Composition bar|178|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 178
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[2007 Türkiye genel seçimleri|2007]]
+|7.300.234
+|20,88 (#2)
+|{{artış}} 1,49
+|{{Composition bar|112|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 65
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[2011 Türkiye genel seçimleri|2011]]
+|rowspan="5"|[[Kemal Kılıçdaroğlu]]
+|11.155.972
+|25,98 (#2)
+|{{artış}} 5,11
+|{{Composition bar|135|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 23
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[Haziran 2015 Türkiye genel seçimleri|2015 (Haziran)]]
+|11.518.139
+|24,95 (#2)
+|{{azalış}} 1,03
+|{{Composition bar|132|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 3
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[Kasım 2015 Türkiye genel seçimleri|2015 (Kasım)]]
+|12.111.812
+|25,32 (#2)
+|{{artış}} 0,37
+|{{Composition bar|134|550|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 2
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[2018 Türkiye genel seçimleri|2018]]
+|11.271.240
+|22,64 (#2)
+|{{azalış}} 2,68
+|{{Composition bar|146|600|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 12
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|-
+![[2023 Türkiye genel seçimleri|2023]]
+|13.802.183
+|25,35 (#2)
+|{{Artış}} 2,70
+|{{Composition bar|169|600|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 23
+|{{hayır2|[[Türkiye ana muhalefet partisi lideri|Ana muhalefet]]}}
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+
+==== İki dereceli ====
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+ 
+|-
+! scope="col" | Seçim
+! scope="col" | Aday
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | Son tur
+! scope="col" | Sonuç
+|-
+! scope="row" | [[1923 Türkiye cumhurbaşkanlığı seçimi|1923]]
+| align="left" | [[Mustafa Kemal Atatürk]]
+| {{Composition bar|158|286|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %55,24
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1927 Türkiye cumhurbaşkanlığı seçimi|1927]]
+| align="left" | [[Mustafa Kemal Atatürk]]
+| {{Composition bar|288|316|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %91,10
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1931 Türkiye genel seçimleri|1931]]
+| align="left" | [[Mustafa Kemal Atatürk]]
+| {{Composition bar|289|317|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %91,10
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1935 Türkiye cumhurbaşkanlığı seçimi|1935]]
+| align="left" | [[Mustafa Kemal Atatürk]]
+| {{Composition bar|386|399|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %96,70
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1938 Türkiye cumhurbaşkanlığı seçimi|1938]]
+| align="left" | [[İsmet İnönü]]
+| {{Composition bar|348|399|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %87,20
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1939 Türkiye cumhurbaşkanlığı seçimi|1939]]
+| align="left" | [[İsmet İnönü]]
+| {{Composition bar|249|413|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %60,20
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1943 Türkiye cumhurbaşkanlığı seçimi|1943]]
+| align="left" | [[İsmet İnönü]]
+| {{Composition bar|435|455|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %65,60
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1946 Türkiye cumhurbaşkanlığı seçimi|1946]]
+| align="left" | [[İsmet İnönü]]
+| {{Composition bar|388|465|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %83,40
+| 1.
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1950 Türkiye cumhurbaşkanlığı seçimi|1950]]
+| align="left" | [[İsmet İnönü]]
+| {{Composition bar|66|487|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %13,50
+| 1.
+| {{hayır2|Seçilemedi}}
+|-
+! scope="row" | [[1954 Türkiye cumhurbaşkanlığı seçimi|1954]]
+| align="left" | [[İsmet İnönü]]
+| {{Composition bar|27|541|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %5,00
+| 1.
+| {{hayır2|Seçilemedi}}
+|-
+! scope="row" | [[1957 Türkiye cumhurbaşkanlığı seçimi|1957]]
+| colspan="5" | ''Seçimi boykot etti''
+|-
+! scope="row" | [[1961 Türkiye cumhurbaşkanlığı seçimi|1961]]
+| align="left" | [[Cemal Gürsel]]
+| colspan="3" | ''Dışarıdan desteklendi''
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1966 Türkiye cumhurbaşkanlığı seçimi|1966]]
+| align="left" | [[Cevdet Sunay]]
+| colspan="3" | ''Dışarıdan desteklendi''
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1973 Türkiye cumhurbaşkanlığı seçimi|1973]]
+| align="left" | [[Fahri Korutürk]]
+| colspan="3" | ''Dışarıdan desteklendi''
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[1980 Türkiye cumhurbaşkanlığı seçimi|1980]]
+| align="left" | [[Muhsin Batur]]
+| {{Composition bar|291|634|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %45,90
+| 98.
+| {{N/A|Seçim tamamlanamadı}}
+|-
+! scope="row" | [[1989 Türkiye cumhurbaşkanlığı seçimi|1989]]
+| colspan="5" | ''Parti [[12 Eylül Darbesi]] sonrası kapatıldığı için 1981-1992 yılları arasında faaliyet dışıydı''
+|-
+! scope="row" | [[1993 Türkiye cumhurbaşkanlığı seçimi|1993]]
+| align="left" | [[İsmail Cem]]
+| {{Composition bar|27|450|{{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+| %6,00
+| 3.
+| {{hayır2|Seçilemedi}}
+|-
+! scope="row" | [[2000 Türkiye cumhurbaşkanlığı seçimi|2000]]
+| colspan="5" | ''TBMM'de temsil edilmediği için katılamadı''
+|-
+! scope="row" | [[2007 Türkiye cumhurbaşkanlığı seçimi|2007]]
+| colspan="5" | ''Seçimi boykot etti''
+|}
+
+==== Tek dereceli ====
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+
+|-
+! scope="col" rowspan="2" | Seçim
+! scope="col" rowspan="2" | Aday
+! rowspan="2" |İttifak
+! colspan="3" scope="col" | Birinci tur
+! colspan="3" scope="col" | İkinci tur
+! scope="col" rowspan="2" | Sonuç
+|-
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | ±
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+!±
+|-
+! scope="row" | [[2014 Türkiye cumhurbaşkanlığı seçimi|2014]]
+| align="left" | [[Ekmeleddin İhsanoğlu]]
+|[[Milliyetçi Hareket Partisi|MHP]]-CHP
+| 15.587.720
+| %38,44
+| Yeni
+| {{N/A|—}}
+| {{N/A|—}}
+| {{N/A|—}}
+| {{hayır2|Seçilemedi}}
+|-
+! scope="row" | [[2018 Türkiye cumhurbaşkanlığı seçimi|2018]]
+| align="left" | [[Muharrem İnce]]
+| {{N/A|—}}
+| 15.340.321
+| %30,64
+| {{azalış}} 7,80
+| {{N/A|—}}
+| {{N/A|—}}
+| {{N/A|—}}
+| {{hayır2|Seçilemedi}}
+|-
+! scope="row" | [[2023 Türkiye cumhurbaşkanlığı seçimi#İkinci tur|2023]]
+| align="left" | [[Kemal Kılıçdaroğlu]]
+|[[Millet İttifakı]]
+| 24.595.178
+| %44,88
+| {{artış}} 14,24
+| 25.504.724
+| %47,82
+|Yeni
+| {{hayır2|Seçilemedi}}
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center;"
+!rowspan="2"|Seçim
+!rowspan="2"|Lider
+!colspan="3"|Belediye Meclisleri
+!colspan="4"|Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[1930 Türkiye yerel seçimleri|1930]]
+| rowspan="4" |[[İsmet İnönü]]
+|Bilinmiyor
+|(#1)
+|Bilinmiyor
+|Bilinmiyor
+|(#1)
+|{{Composition bar|478|502|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|Yeni
+|-
+![[1950 Türkiye yerel seçimleri|1950]] 
+|570.606
+|37,50 (#2)
+| Bilinmiyor
+| Bilinmiyor
+|Bilinmiyor
+|{{Composition bar|248|626|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 223
+|-
+![[1963 Türkiye yerel seçimleri|1963]]
+| 3.458.972 || 36,22 (#2)
+|{{azalış}} 0,83|| 1.062.432
+|35,7 (#2)
+|{{Composition bar|337|1045|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 91
+|-
+![[1968 Türkiye yerel seçimleri|1968]]
+| 2.542.644 || 27,90 (#2)
+|{{azalış}} 8,32|| 994.938
+|30,7 (#2)
+|{{Composition bar|289|1252|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 48
+|-
+![[1973 Türkiye yerel seçimleri|1973]]
+| rowspan="2" |[[Bülent Ecevit]]
+|3.708.687 
+|37,09 (#1)
+|{{Artış}} 9,19|| 1.716.302
+|39,6 (#1)
+|{{Composition bar|551|1640|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 48
+|-
+![[1977 Türkiye yerel seçimleri|1977]] 
+|5.161.426 
+|41,73 (#1) 
+|{{Artış}} 4,64
+|2.682.282
+|45,7 (#1)
+|{{Composition bar|714|1730|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 262
+|-
+![[1994 Türkiye yerel seçimleri|1994]]
+| rowspan="4" |[[Deniz Baykal]]
+|1.297.371
+|4,61 (#7)
+|{{azalış}} 37,12|| 869.921
+|4,4 (#7)
+|{{Composition bar|65|2695|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 649
+|-
+![[1999 Türkiye yerel seçimleri|1999]]
+|3.487.483 
+|11,08 (#6)
+|{{Artış}} 6,47
+|3.227.096
+|13,8 (#5)
+|{{Composition bar|376|3200|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 311
+|-
+![[2004 Türkiye yerel seçimleri|2004]]
+|5.883.696 
+|18,23 (#2)
+|{{Artış}} 7,15
+|4.988.427
+|20,7 (#2)
+|{{Composition bar|467|3193|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 91
+|-
+![[2009 Türkiye yerel seçimleri|2009]]
+|9.229.936 
+|23,08 (#2)
+|{{Artış}} 4,85
+|7.960.562
+|24,7 (#2)
+|{{Composition bar|523|2903|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 56
+|-
+![[2014 Türkiye yerel seçimleri|2014]]
+| rowspan="2" |[[Kemal Kılıçdaroğlu]]
+|11.493.758
+|25,62 (#2)
+|{{Artış}} 2,54
+|11.008.961
+|26,45 (#2)
+|{{Composition bar|232|1381|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 291
+|-
+![[2019 Türkiye yerel seçimleri|2019]] 
+|13.218.754 
+|28,57 (#2) 
+|{{Artış}} 2,95
+|12.868.053
+|29,81 (#2)
+|{{Composition bar|252|1389|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 20
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|[[Özgür Özel]]
+|15.200.699
+|35,48 (#1)
+|{{Artış}} 6,91
+|15.406.586
+|35,80 (#1)
+|{{Composition bar|433|1389|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 181
+|}
+
+=== Ara genel seçimler === 
+{|class="wikitable" style="text-align:center;"
+!Seçim
+!Lider
+!Bölge(ler)
+!Oy sayısı
+!%
+!Sandalye
+|-
+![[1951 Türkiye milletvekili ara seçimleri|1951]] 
+| rowspan="3" |[[İsmet İnönü]] 
+|[[Aydın (il)|Aydın]], [[Balıkesir (il)|Balıkesir]], [[Bilecik (il)|Bilecik]], [[Bitlis (il)|Bitlis]], [[Bursa]],<br>[[Çanakkale (il)|Çanakkale]], [[Denizli]], [[Eskişehir]],<br>[[Gümüşhane]], [[İstanbul (il)|İstanbul]], [[İzmir (il)|İzmir]],<br>[[Kastamonu (il)|Kastamonu]], [[Kırşehir (il)|Kırşehir]], [[Muğla]],<br>[[Sinop (il)|Sinop]], [[Sivas]], [[Zonguldak (il)|Zonguldak]]
+|687.668
+|38,68 (#2) 
+|{{Composition bar|2|20|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|-
+![[1966 Türkiye milletvekili ara seçimleri|1966]] 
+|[[Hatay]]
+|36.096
+|33,88 (#2) 
+|{{Composition bar|0|1|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}} 
+|-
+![[1968 Türkiye milletvekili ara seçimleri|1968]] 
+|[[Adana]], [[Şanlıurfa|Urfa]], [[Çorum (il)|Çorum]], [[Diyarbakır]], [[İstanbul]]
+|295.069
+|28,13 (#2) 
+|{{Composition bar|0|5|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|-
+![[1975 Türkiye milletvekili ara seçimleri|1975]] 
+| rowspan="2" |[[Bülent Ecevit]]
+|[[Amasya (il)|Amasya]], [[Bursa]], [[Eskişehir]], [[Niğde (il)|Niğde]], [[Şanlıurfa|Urfa]],<br>[[Zonguldak (il)|Zonguldak]]
+|409.387
+|37,98 (#2) 
+|{{Composition bar|1|6|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|-
+![[1979 Türkiye milletvekili ara seçimleri|1979]] 
+|[[Konya]], [[Manisa]], [[Edirne (il)|Edirne]], [[Muğla]], [[Aydın]]
+|367.317
+|29,33 (#2) 
+|{{Composition bar|0|5|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|-
+![[2003 Türkiye milletvekili ara seçimleri|2003]]
+|[[Deniz Baykal]]
+|[[Siirt]]
+|8.972
+|13,08 (#2) 
+|{{Composition bar|0|3|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|}
+
+=== Ara yerel seçimler ===
+{|class="wikitable" style="text-align:center;"
+! rowspan="2"|Seçim
+! rowspan="2"|Aday
+! colspan="3"|Seçim sonuçları
+! rowspan="2"|Not
+|-
+!Oy sayısı
+!%
+!±
+|-
+![[2019 İstanbul ara yerel seçimi|2019 İstanbul]]
+|[[Ekrem İmamoğlu]] 
+|4.742.082 
+|54,22 (#1) 
+|{{artış}} 5,45
+|Ekrem İmamoğlu, İstanbul Büyükşehir Belediye Başkanlığına seçildi.<br>[[İstanbul'da 1989 Türkiye yerel seçimleri|1989]] yılında belediyeyi kazanan [[Sosyaldemokrat Halkçı Parti|SHP]]'nin ardından CHP ilk kez İstanbul'u kazandı.
+|}
+
+=== Senatörlük seçimleri ===
+{|class="wikitable" style="text-align:center;"
+|-
+!rowspan="2"|Seçim
+!rowspan="2"|Lider
+!colspan="3"|Seçim sonuçları
+!colspan="2"|Sandalye
+|-
+!Oy sayısı 
+!'''%''' 
+!±
+!#
+!±
+|-
+![[1961 Türkiye senato seçimleri|1961]]
+| rowspan="4" |[[İsmet İnönü]]
+|3.734.285
+|37,0 (#1)
+|Yeni
+|{{Composition bar|36|150|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|Yeni
+|-
+![[1964 Türkiye senato seçimleri|1964]] 
+|1.125.783 
+|40,8 (#1) 
+|{{artış}} 3,8
+|{{Composition bar|19|51|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 17
+|-
+![[1966 Türkiye senato seçimleri|1966]] 
+|877.066 
+|29,6 (#2) 
+|{{azalış}} 11,2
+|{{Composition bar|13|52|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 6
+|-
+![[1968 Türkiye senato seçimleri|1968]] 
+|899.444 
+|27,1 (#2) 
+|{{azalış}} 2,5
+|{{Composition bar|13|53|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{Sabit}}
+|-
+![[1973 Türkiye senato seçimleri|1973]] 
+| rowspan="4" |[[Bülent Ecevit]]
+|1.412.051
+|33,6 (#1) 
+|{{artış}} 6,5
+|{{Composition bar|25|52|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 12
+|-
+![[1975 Türkiye senato seçimleri|1975]] 
+|2.281.470 
+|43,4 (#1) 
+|{{artış}} 9,8
+|{{Composition bar|25|54|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{Sabit}}
+|-
+![[1977 Türkiye senato seçimleri|1977]] 
+|2.037.875 
+|42,3 (#1) 
+|{{azalış}} 1,1
+|{{Composition bar|28|50|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{artış}} 3
+|-
+![[1979 Türkiye senato seçimleri|1979]] 
+|1.378.224 
+|29,2 (#2) 
+|{{azalış}} 13,1
+|{{Composition bar|12|50|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}
+|{{azalış}} 16
+|}
+
+=== Seçim şarkıları ===
+Bu liste, CHP'nin yeniden kurulduğu 1993'ten sonra çıkan şarkıları içerir.
+{{Div sütunu|colwidth=20em}}
+
+==== [[1994 Türkiye yerel seçimleri|1994 yerel seçimleri]] ====
+
+* Gel Gel Gel <ref>{{Web kaynağı|url=http://ww25.cengizgulebay.com/?page_id=195&subid1=20231226-0641-49df-9b0b-0a596e010c3f|erişimtarihi=25 Aralık 2023|çalışma=ww25.cengizgulebay.com|başlık=Arşivlenmiş kopya|arşivurl=https://web.archive.org/web/20231225194216/http://ww25.cengizgulebay.com/?page_id=195&subid1=20231226-0641-49df-9b0b-0a596e010c3f|arşivtarihi=25 Aralık 2023|ölüurl=hayır}}</ref>
+* Adaylar içinden biz seni seçtik (2004) {{Kaynak belirt}}
+* Yolumuz Deniz (2009) {{Kaynak belirt}}
+
+==== [[1995 Türkiye genel seçimleri|1995 genel seçimleri]] ====
+* [[Sen Memleketimsin]]<ref>https://youtube.com/Q1aKvTzxQC8?t=74{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2002 Türkiye genel seçimleri|2002 genel seçimleri]] ====
+
+* Haydi Anadolu<ref>https://youtube.com/p0SKiivc5Qs{{Ölü bağlantı|date=Ağustos 2024 }}</ref><ref>{{Haber kaynağı|url=https://www.hurriyet.com.tr/gundem/haydi-anadolu-artik-chpli-60850|başlık=Haydi Anadolu Artık CHP'li|yayıncı=Hürriyet|erişimtarihi=18 Ağustos 2021|arşivurl=https://web.archive.org/web/20210818124152/https://www.hurriyet.com.tr/gundem/haydi-anadolu-artik-chpli-60850|arşivtarihi=18 Ağustos 2021|ölüurl=hayır}}</ref>
+
+==== [[2004 Türkiye yerel seçimleri|2004 yerel seçimleri]] ====
+
+* Oylarımız CHP'ye<ref>https://youtube.com/Fvi7OCNno6w{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2007 Türkiye genel seçimleri|2007 genel seçimleri]] ====
+
+* Şimdi CHP Zamanı<ref>https://youtube.com/XsdCWfd4p5M{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2009 Türkiye yerel seçimleri|2009 yerel seçimleri]] ====
+
+* CHP'nin Açamadığı Kapı<ref>https://youtube.com/Ore-AT3YGe0{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Yolumuz Deniz<ref>https://youtube.com/DH2pyEdWjvE{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Gel Gel<ref>https://youtube.com/--Zoa4Yzu-w{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2011 Türkiye genel seçimleri|2011 genel seçimleri]] ====
+
+* CHP'yle El Ele<ref>https://youtube.com/6EFV8Hom8FA{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* AKP Güle Güle<ref>https://youtube.com/aPJOCTBBUL4{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Ak Dediler Kara Çıktı<ref>https://youtube.com/rj8uiUOEgxY{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* CHP, CHP Umudum Sensin<ref name=TGS2011>https://youtube.com/B2yl6R4jo6Y{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* CHP, Güzel Günler Göreceğiz<ref name=TGS2011/>
+
+==== [[2014 Türkiye cumhurbaşkanlığı seçimi|2014 cumhurbaşkanlığı seçimleri]] ve [[2014 Türkiye yerel seçimleri|yerel seçimleri]] ====
+
+* Bir Islıkta Sen Çal<ref>https://youtube.com/Pr_LT_JjqGY{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Zamanı Geldi<ref>https://youtube.com/JyfdjvYXgvw{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Ekmeli ekmeli<ref>https://youtube.com/JtAe2-cW7ug{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Güldür Yüzümüzü<ref>https://youtube.com/CxsMq4tAaOs{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Varlık İçinde Birlik İçinde Özgür Biçimde<ref>https://youtube.com/ZVOWrl61Jpo{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Kılıçdaroğlu<ref>https://youtube.com/tesfuX3dk4I{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[Haziran 2015 Türkiye genel seçimleri|Haziran 2015]] ve [[Kasım 2015 Türkiye genel seçimleri|Kasım 2015 genel seçimleri]] ====
+
+* Yaşanacak Bir Türkiye<ref>https://youtube.com/nJLAV_O2b68{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Önce Türkiye<ref>https://youtube.com/9My8P1aN9gU{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* CHP'nin Vakti Geldi<ref>https://youtube.com/ESA1n0EJpaQ{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Gel Kemal Kılıçdaroğlu<ref>https://youtube.com/rfifm_ptIYU{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2017 Türkiye anayasa değişikliği referandumu|2017 anayasa değişikliği referandumu]] ====
+
+* Hayır Olur<ref>{{Web kaynağı |url=https://www.youtube.com/watch?v=YUXwDi_d0IY |başlık=Arşivlenmiş kopya |erişimtarihi=5 Mart 2022 |arşivurl=https://web.archive.org/web/20220305114152/https://www.youtube.com/watch?v=YUXwDi_d0IY |arşivtarihi=5 Mart 2022 |ölüurl=hayır }}</ref>
+
+==== [[2018 Türkiye cumhurbaşkanlığı seçimi|2018 cumhurbaşkanlığı seçimleri]] ve [[2018 Türkiye genel seçimleri|genel seçimleri]] ====
+
+* Türkiye Tamam Diyor<ref>https://youtube.com/zruwf2bnAzA{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Memleket Deyince<ref>https://youtube.com/WROwnxqfwPk{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Artık Tamam<ref>https://youtube.com/nfcG55o9aJo{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Muharrem İnce<ref>https://youtube.com/50Ypd-EdudI?si=h4NCUT8tcY2d57Vh{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]] ====
+
+* Martın Sonu Bahar<ref>https://youtube.com/1XDKYuTSBeI{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Mavi Güzel Günlere<ref>https://youtube.com/5yDKCCgwL1w{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Her Şey Çok Güzel Olacak<ref>https://youtube.com/baoV3gqP2cE{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Mansur Yavaş Geliyor<ref>https://youtube.com/m3eNu_rBN58{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Adana Gibi Başkan<ref>https://youtube.com/uFOmTBkmRbM{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Aşkla İzmir<ref>https://youtube.com/s0MYk8jwmp0{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Özlem İle Yeniden<ref>https://youtube.com/yfsXaL8z_QU{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Biz Birlikte Yaparız<ref>https://youtube.com/hhcqJCV97ls{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Mersin için Vahap Seçer<ref>https://youtube.com/mzLET_IKje8?si=IrHHArFjbTE18yQf{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+
+==== [[2023 Türkiye cumhurbaşkanlığı seçimi|''2023 cumhurbaşkanlığı seçimi'']] ====
+* Sana söz yine baharlar gelecek<ref>https://youtube.com/6oUxwffVw8k{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+* Haydi Türkiye haydi kazanalım<ref>{{Web kaynağı |url=https://www.youtube.com/watch?v=5Bnk-LPKV7A |başlık=Arşivlenmiş kopya |erişimtarihi=31 Mayıs 2023 |arşivurl=https://web.archive.org/web/20230531203304/https://www.youtube.com/watch?v=5Bnk-LPKV7A |arşivtarihi=31 Mayıs 2023 |ölüurl=hayır }}</ref> 
+==== [[2024 Türkiye yerel seçimleri|2024 yerel seçimleri]] ====
+* İşimiz Gücümüz Türkiye (Anlıyorsun Değil Mi)<ref>https://youtube.com/4yyBXt8pv3g{{Ölü bağlantı|date=Ağustos 2024 }}</ref>
+{{Div sütunu-son}}
+
+== Logolar ==
+<gallery>
+Dosya:CHP logo (1992-2015).svg|1992-2015 yılları arasında kullanılan logo
+Dosya:CHP logo (2000).svg|2000 yılında kullanılan logo
+Dosya:CHP logo (2016).svg|2014-2016 yılları arasında kullanılan logo
+Dosya:Cumhuriyet Halk Partisi Logo.svg|2015-2024 yılları arasında ve 2026 yılından itibaren günümüzde kullanılan logo
+Dosya:CHP logo (horizantal).svg|2015-2024 yılları arasında ve 2026 yılından itibaren günümüzde kullanılan logo (yatay)
+Dosya:CHP 100th year logo.svg|100. yıl logosu
+Dosya:CHP logo (2024, vertical red).svg|2024-2026 yılları arasında kullanılan logo 
+Dosya:CHP logo (2024, horizantal red).svg|2024-2026 yılları arasında kullanılan logo (yatay)
+Dosya:CHP logo (2024, vertical white).svg|2024-2026 yılları arasında kullanılan logo (beyaz)
+Dosya:CHP logo (2024, horizantal white).svg|2024-2026 yılları arasında kullanılan logo (beyaz yatay) 
+</gallery>
+
+== Ayrıca bakınız ==
+* [[Altı Ok]]
+* [[Atatürk İlkeleri]]
+* [[İstanbul Şildi]]
+* [[Atatürk Kupası (1963-1964)]]
+* [[Adalet Yürüyüşü (2017)|Adalet Yürüyüşü]]
+* [[Şero]]
+
+== Notlar ==
+{{Not listesi}}
+
+== Kaynakça ==
+;Genel
+* [[Hikmet Bila]], ''CHP 1919-1999'', Doğan Kitap, İstanbul 1999.
+* ''Yeni Türkiye'', Türk Demokrasisi Özel Sayısı, Ankara 1997.
+* Ayşe Kadıoğlu, ''Zaman Lekesi'', İBÜY, İstanbul 2006.
+* Tarık Zafer Tunaya, ''Devrim Hareketleri İçinde Atatürk ve Atatürkçülük'', İBÜY, İstanbul 2002
+* Can Dündar, ''Karaoğlan'', 2004
+* Cumhuriyet Gazetesi, ''Cumhuriyetin 80 yılı'', 2003
+* İletişim Yayınları, ''Cumhuriyet Dönemi Türkiye Ansiklopedisi'', İstanbul 1983
+* Seçim Sonuçları, ''Belgenet İnternet Sitesi''
+*Hikmet Bila, CHP Nasıl İktidar Olur?, Doğan Kitap, İstanbul, 2020
+;Özel
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+* {{Facebook|iletisim.chp|'''CHP İletişim'''|link=https://www.facebook.com/iletisim.chp}}
+* [[WhatsApp]]'ta [https://www.whatsapp.com/channel/0029VaDwpSXK0IBepOn4ik3N '''Cumhuriyet Halk Partisi''']
+* {{Resmî site|https://www.chp.org.tr/|ad=}}
+* {{Twitter|herkesicinCHP|}}
+* {{Instagram|chp|}}
+* {{Facebook|100044325824951|}}
+* {{YouTube|kullanıcı=chpgenelmerkezi|başlık=}}
+
+{{Türkiye'deki siyasi partiler}}
+{{Atatürk İlkeleri}}{{Cumhuriyet Halk Partisi}}{{Otorite kontrolü}}
+
+[[Kategori:Cumhuriyet Halk Partisi| ]]

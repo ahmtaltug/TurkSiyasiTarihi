@@ -1,0 +1,82 @@
+{{Kuruluş bilgi kutusu
+| adı = Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti
+| eski_adı = 
+| resim = Sivas Congress September 1919.jpg
+| rçerçeve = 
+| rboyut = <!-- varsayılan 200px. -->
+| alt = <!-- Görüntünün alt metni. -->
+| başlık = [[Sivas Kongresi]] delegeleri.
+| harita = 
+| hboyut = <!-- Harita boyutu, isteğe bağlı, varsayılan 250px. -->
+| halt = <!-- Haritanın alt metni. -->
+| htanım = 
+| harita2 = 
+| kısaltma = 
+| slogan = 
+| öncül = [[Müdâfaa-i hukuk cemiyetleri]]<br>Millî ve vatani cemiyetler<br>Redd-i ilhak heyetleri
+| birleştiği =
+| birleşimi = 
+| ardıl = [[Cumhuriyet Halk Partisi|Halk Fırkası]]
+| kuruluş = {{Açılış tarihi ve yaşı|1919|9|7}} <!-- {{Açılış tarihi ve yaşı|YYYY|AA|GG}} -->
+| kurucu =
+| kuruluş_yeri =
+| kapanış = {{Açılış tarihi ve yaşı|1923|9|9}} <!-- {{Açılış tarihi ve yaşı|YYYY|AA|GG}} Kapanış yerine kullanabilirsiniz. -->
+| tür = <!-- [[Sivil toplum kuruluşu|STK]], [[Uluslararası örgüt|UAÖ]], Uluslararası sivil toplum örgütü, vb. -->
+| statü = [[Dernek]] <!-- özel, anlaşmalı, vakıf, vb. -->
+| amaç = Millî hakları ve [[Osmanlı İmparatorluğu|Osmanlı]]'nın menfaatlerini savunmak <!-- Örneğin: insani, barışı koruma amaçlı, vb. --> 
+| merkez = [[Sivas]]<br>[[Ankara]]
+| konum = 
+| koordinatlar = <!-- {{Koordinat}} şablonu kullanarak. -->
+| bölge_hizmet = 
+| üyeler = 
+| dil = [[Türkçe]]
+| genel = <!-- Genel Sekreter -->
+| lider_unvanı = Umumi Reis
+| lider_adı = [[Mustafa Kemal Atatürk|Mustafa Kemal Paşa]]
+| lider_partisi =
+| lider_unvanı2 = 
+| lider_adı2 = 
+| lider_unvanı3 = 
+| lider_adı3 = 
+| lider_unvanı4 = 
+| lider_adı4 = 
+| kilit_insanlar = <!-- Önemli kişiler. --> 
+| ana_organ = [[Heyet-i Temsiliye]] <!-- kurul, yönetim kurulu, vb. -->
+| ana_kurum = <!-- Eğer alt organizasyonu varsa. -->
+| üyelik = 
+| bütçe = 
+| personel = 
+| gönüllü =  
+| websitesi = <!-- {{url|example.com}} -->
+| notlar = 
+}}
+'''Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti''', [[Mondros Mütarekesi]]'nden sonra [[Anadolu]]'nun ve [[Rumeli]]'nin çeşitli şehirlerinde, işgallere karşı kurulan millî cemiyetlerin 7 Eylül 1919 tarihinde [[Sivas Kongresi]]'nde birleştirilmesinden sonra oluşan yeni cemiyete verilen isimdir. Kurucusu, ilk ve tek başkanı [[Mustafa Kemal Atatürk|Mustafa Kemal Paşa]]'dır.<ref>{{Web kaynağı | url = https://ataturkansiklopedisi.gov.tr/bilgi/anadolu-ve-rumeli-mudafaa-i-hukuk-cemiyeti/ | başlık = Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti | arşivtarihi = 30 Eylül 2024|arşivurl=https://web.archive.org/web/20240930133200/https://ataturkansiklopedisi.gov.tr/bilgi/anadolu-ve-rumeli-mudafaa-i-hukuk-cemiyeti/ | çalışma = Nurcan TOKSOY | yayıncı = Atatürk Ansiklopedisi}}</ref>
+
+13 Ekim 1919 tarihinde ''Müdafaa-i Hukuk Teşkilatına Dair Nizamname'' hazırlandı ve bu nizamname tüm Müdafaa-i Hukuk Cemiyetlerine gönderildi.
+
+Bu nizamnameye göre Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti, ''vatanın maruz kaldığı olaylar ile ve tamamen aynı maksatla millî vicdandan doğmuş olup her türlü fırka cereyanının dışındadır.''
+
+Cemiyetin amacı, ''Osmanlı vatanının bütünlüğünü, saltanat ve hilafetin makamı ile millî bağımsızlığın korunmasında Kuvayımilliye'yi etkin ve İrâde-i Milliye'yi hâkim kılmaktır.''
+
+Bütün Müslüman topluluğu cemiyetin doğal üyesidir. Örgütlenme, köy ve mahallelerden başlayarak nahiye, kaza, liva, vilayet, müstakil liva taksimatına bağlı olacaktır.
+
+Müdafaa-i Hukuk hareketi, İstanbul hükûmetince ittihatçılıkla, Bolşeviklikle, saltanata ve hilafete başkaldırıcılıkla, cumhuriyetçilikle suçlandı.
+
+Sivas Kongresi'nde fırkacılıkla ilgili uzun tartışmalardan sonra, Meclis-i Millî toplanıncaya kadar geleneksel ittihatçı yörüngesinde gelişen siyasetten uzak durularak, halkın birliğini bütünlüğünü sağlamanın zorunluluğu benimsendi ve 5 Eylül 1919 tarihinde ''İttihat ve Terakki Cemiyetini yeniden canlandırmaya çalışmayacaklarına, mevcut siyasi partilerden hiçbirinin siyasi amaçlarına hizmetçi olmayacaklarına'' ilişkin yemin metni hazırlandı.
+
+Heyet-i Temsiliye Anadolu'da geçici hükûmet rolünü oynadı çünkü Heyet-i Temsiliye ulusal örgütlerin amaç ve ilkelerini eldeki araçlarla yurdun her tarafına yayıyor, halka açıklıyor, örgüte güç kazandırmaya çalışıyor, mevcut ulusal örgütlerin varlığını ve devamlılığını sağlamak için çaba gösteriyor, bu örgütleri bir noktada birleştirmeye, bunlar arasında uyumlu bir bağ kurmaya özen gösteriyordu.
+
+Cemiyet bir yandan ulusal eylemi halka indirici çalışmalar yaparken öbür yandan da Müdafaa-i Hukuk karşıtı olan Damat Ferit Paşa hükûmetine karşı yoğun bir eyleme girişti ve bu hükûmetin yıkılmasını sağladı.
+
+21 Mart 1921 tarihinde tüm vilayet ve mutasarrıflıklara gönderilen bir genelgede ARMHC'nin ülke ve millete yönelik görevlerini daha iyi yapabilmek için bu örgütlerin Meclis Başkanlığı ile daha iyi ve düzenli ilişki kurmaları istendi ve MH Merkez Heyetini oluşturan kişilerin ad ve şöhretlerinin Meclis Başkanlığına bildirilmesi belirtildi.
+
+Cemiyet, [[Türk Kurtuluş Savaşı|Kurtuluş Savaşı]]'ndan sonra [[Cumhuriyet Halk Partisi|Halk Fırkası]]'na dönüştü.<ref>{{Dergi kaynağı | başlık = Müdafaa-i Hukuk Cemiyeti’nden Halk Fırkasına Geçiş | dergi = Atatürk Araştırma Merkezi Dergisi | sayı = 8 | url = https://www.atam.gov.tr/wp-content/uploads/%c4%b0hsan-G%c3%9cNE%c5%9e-M%c3%bcdafaa-i-Hukuk-Cemiyetinden-Halk-F%c4%b1rkas%c4%b1na-Ge%c3%a7i%c5%9f.pdf | ad = Prof. Dr. İhsan | soyadı = Güneş | cilt = XIX | tarih = Temmuz 2003 | erişimtarihi = 31 Mayıs 2020 | arşivurl = https://web.archive.org/web/20180712231710/http://www.atam.gov.tr/wp-content/uploads/%C4%B0hsan-G%C3%9CNE%C5%9E-M%C3%BCdafaa-i-Hukuk-Cemiyetinden-Halk-F%C4%B1rkas%C4%B1na-Ge%C3%A7i%C5%9F.pdf | arşivtarihi = 12 Temmuz 2018 | ölüurl = hayır}}</ref>
+
+== Kaynakça ==
+{{kaynakça}}
+
+{{Türk Kurtuluş Savaşı}}
+
+[[Kategori:Müdâfaa-i hukuk cemiyetleri]]
+[[Kategori:Osmanlı İmparatorluğu'ndaki kuruluşlar]]
+[[Kategori:1919'da Türkiye]]

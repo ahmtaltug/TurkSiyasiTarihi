@@ -1,0 +1,244 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Hür Dava Partisi
+| kısaltma         = HÜDA PAR
+| colorcode        = {{Siyasi parti renk|Hür Dava Partisi}}
+| amblem           = HÜDAPAR logo.png
+| genel başkanı    = [[Zekeriya Yapıcıoğlu]]
+| genel sekreteri  = Mehmet Hüseyin Yılmaz<ref name="hudapar.org"/>
+| kurucusu         = Mehmet Hüseyin Yılmaz
+| lider1_isim      = [[Serkan Ramanlı]]<ref name="hudapar.org"/><br>Yunus Emiroğlu<ref name="hudapar.org"/>
+| lider1_başlık    = Parti sözcüsü
+| lider2_isim      = [[Şehzade Demir]]<ref name="hudapar.org"/><br>Halef Yılmaz<ref name="hudapar.org"/>
+| lider2_başlık    = Genel başkan vekili
+| slogan           = ''Dürüst siyaset, gerçek adalet!''
+| kuruluş          = 19 Aralık 2012
+| merkez           = [[Pursaklar]], [[Ankara]]
+| gazete           = 
+| üyelik           = {{artış}} 16.939<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1145|başlık=Hür Dava Partisi|erişimtarihi=30 Ağustos 2020|arşivurl=https://web.archive.org/web/20211205130301/https://www.yargitaycb.gov.tr/icerik/1145|çalışma=Yargıtay Cumhuriyet Başsavcılığı|arşivtarihi=5 Aralık 2021|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[İslamcılık]]<ref>{{Web kaynağı|url = https://hudapar.org/files/uploads/file/file_bfec288a21.pdf|başlık=Wayback Machine|arşivurl = https://web.archive.org/web/20220120184702/https://hudapar.org/files/uploads/file/file_bfec288a21.pdf|arşivtarihi = 20 Ocak 2022}}</ref>
+*[[Anti-Kemalizm]]<ref>{Web kaynağı|url=https://hudapar.org/haberler/mersin-milletvekilimiz-faruk-dinc-ten-kemalist-dayatmalara-tepki-basortusuyle-ugrasmak-yerine-bilimle-ugrassayd%C4%B1k-bu-durumda-olmazd%C4%B1k</ref><ref>{{Web kaynağı|url=https://www.veryansintv.com/huda-parli-vekil-yine-kemalizmi-hedef-aldi</ref>
+*[[Azınlık hakları]]<ref>{{Web kaynağı|url=https://hudapar.org/web/1095/anadilde-egitimin-onundeki-engeller-kaldirilmali.jsp|başlık=Hür Dava Partisi|erişimtarihi=30 Ocak 2023|arşivurl=https://web.archive.org/web/20230130222741/https://hudapar.org/web/1095/anadilde-egitimin-onundeki-engeller-kaldirilmali.jsp|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://hudapar.org/parti/parti-programi-76/genel-merkez/|başlık=Hür Dava Partisi|erişimtarihi=30 Ocak 2023|arşivurl=https://web.archive.org/web/20230130223256/https://hudapar.org/parti/parti-programi-76/genel-merkez/|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/kurdistan/110120227-amp|başlık=Kürt kimliği anayasada tanınmalı|erişimtarihi=30 Ocak 2023|arşivurl=https://web.archive.org/web/20230130223601/https://www.rudaw.net/turkish/kurdistan/110120227-amp|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref>
+*[[İslami köktendincilik]]<ref name="kaynak aposto">{{Web kaynağı|url=https://aposto.com/s/huda-par-yerelde-ozerklik-kanunda-seriat|başlık= HÜDA PAR: Yerelde özerklik, kanunda şeriat|erişimtarihi=4 Nisan 2023|arşivurl=https://web.archive.org/web/20230402075908/aposto.com/s/huda-par-yerelde-ozerklik-kanunda-seriat|arşivtarihi=2 Nisan 2023}}</ref>
+*[[Ümmetçilik]]<ref name="kaynakmg"/>
+*[[Sosyal muhafazakârlık]]<ref>{{Web kaynağı|url=https://t24.com.tr/haber/huda-pardan-escinsellere-yonelik-nefret-soylemi-ve-hdpye-tehdit,243011|başlık=HÜDA PAR|erişimtarihi=30 Ocak 2023|arşivurl=https://web.archive.org/web/20230130222624/https://t24.com.tr/amp/haber/huda-pardan-escinsellere-yonelik-nefret-soylemi-ve-hdpye-tehdit,243011|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/tugce-kazazdan-huda-para-lgbt-tesekkuru-1981297|başlık=Tuğçe Kazaz|erişimtarihi=30 Ocak 2023|arşivurl=https://web.archive.org/web/20230130222624/https://www.cumhuriyet.com.tr/amp/siyaset/tugce-kazazdan-huda-para-lgbt-tesekkuru-1981297|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref>
+*[[Federalizm]]<ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/kurdistan/110120227|erişimtarihi=5 Nisan 2023|çalışma=rudaw.net|başlık=Kürt kimliği anayasada tanınmalı|arşivurl=https://web.archive.org/web/20230130225107/https://www.rudaw.net/turkish/kurdistan/110120227|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.yenicaggazetesi.com.tr/mobi/-161689h.htm|başlık='Evet'çi Hüda-Par, federasyon istiyor!|erişimtarihi=30 Ocak 2023|arşivurl=https://web.archive.org/web/20230130223741/https://www.yenicaggazetesi.com.tr/mobi/-161689h.htm|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref>
+}}
+| dil              = [[Türkçe]]
+| pozisyon         = [[Aşırı sağ]]<ref>{{Web kaynağı|url = https://www.trtworld.com/turkey/turkey-elections-2018-understanding-political-parties-18224|başlık = Turkey elections: Understanding the political parties|erişimtarihi = 18 Mayıs 2023|ölüurl = hayır|website = trtworld.com|arşivurl = https://web.archive.org/web/20230410020535/https://www.trtworld.com/turkey/turkey-elections-2018-understanding-political-parties-18224|arşivtarihi = 10 Nisan 2023}} ''"HUDA-PAR is a far-right, conservative party with a primarily Kurdish voter base."''</ref><ref>{{Web kaynağı|url = https://www.kurdishpeace.org/research/womens-liberation-and-leadership/what-turkeys-elections-mean-for-kurdish-women/|başlık = What Turkey’s Elections Mean for Kurdish Women|erişimtarihi = 18 Mayıs 2023|ölüurl = hayır|website = kurdishpeace.org|arşivurl = https://web.archive.org/web/20230518191415/https://www.kurdishpeace.org/research/womens-liberation-and-leadership/what-turkeys-elections-mean-for-kurdish-women/|arşivtarihi = 18 Mayıs 2023}} ''"Nowhere is this more clear than in the AKP’s alliance with the far-right Islamist Free Cause Party (HUDA-PAR)."''</ref>
+| renkler          = {{Color box|#00964C|border=darkgray}} {{Color box|#FDD007|border=darkgray}} [[Yeşil]], [[sarı]]
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|4|600|{{Siyasi parti renk|Hür Dava Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye3_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|1|390|{{Siyasi parti renk|Hür Dava Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = [http://hudapar.org/ hudapar.org]
+| ülke             = {{TUR}}
+| sandalye4_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye4        = {{Composition bar|23|20953|{{Siyasi parti renk|Hür Dava Partisi}}}}
+| kol1_başlık      = Silahlı kanat
+| kol1             = {{bayraksimge resim|Kurdish Hezbollah flag.svg}} [[Hizbullah (Türkiye)|Hizbullah]] (gayriresmi, parti tarafından reddedildi)<ref>[http://www.haberdiyarbakir.com/hur-dava-partisi-huda-par-resmen-kuruldu-55761h/ Hür Dava Partisi (Hüda-Par) Resmen Kuruldu] {{Webarşiv|url=https://web.archive.org/web/20160304054928/http://www.haberdiyarbakir.com/hur-dava-partisi-huda-par-resmen-kuruldu-55761h/ |tarih=4 Mart 2016 }}. Haberdiyarbakir.com (2012-12-17). Retrieved on 2013-02-09.</ref>
+}}
+'''Hür Dava Partisi''', 19 Aralık 2012 tarihinde kurulan ve [[Türkiye]]'de faaliyet gösteren bir siyasi partidir. Parti tüzüğüne göre resmî kısaltması "HÜDA PAR" şeklindedir. Simgesi, açık vaziyette bir kitap ve arkasından doğmakta olan güneştir. [[Türkiye Büyük Millet Meclisi|TBMM]]'de 4 [[milletvekili]] ile temsil edilmektedir. Genel başkanı [[Zekeriya Yapıcıoğlu]]'dur.
+
+== Tarihçe ==
+HÜDA PAR 19 Aralık 2012'de kuruldu. Kurucu genel başkanı Mehmet Hüseyin Yılmaz'dan sonra 1. ve 2. olağan kongreleri sonucunda genel başkanlığa Zekeriya Yapıcıoğlu seçilmiş, 21 Mayıs 2018'de bu görevden istifa etmiştir.<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/yerel-haberler/diyarbakir/zekeriya-yapicioglu-istifa-etti-12815194|başlık=Zekeriya Yapıcıoğlu İstifa Etti|erişimtarihi=27 Nisan 2023|dil=Türkçe|çalışma=Milliyet|arşivurl=https://web.archive.org/web/20230404072923/https://www.milliyet.com.tr/yerel-haberler/diyarbakir/zekeriya-yapicioglu-istifa-etti-12815194|arşivtarihi=4 Nisan 2023|ölüurl=hayır}}</ref> 3. Olağan kongresinde genel başkanlığa [[İshak Sağlam]] seçilmiş, 7 Ekim 2018 tarihinden 2 Haziran 2021 tarihine kadar bu görevi yürütmüştür. Hür Dava Partisinin 2 Haziran 2021 tarihinde yapılan 4. olağan kongresinde genel başkanlığa yeniden Zekeriya Yapıcıoğlu seçilmiştir.
+
+[[2023 Türkiye genel seçimleri]]nde [[Adalet ve Kalkınma Partisi|AK Parti]] listelerinden seçime gireceğini açıklayan Hür Dava Partisi, [[Cumhur İttifakı]]na dahil olmadan ittifaka dışarıdan destek vereceğini açıkladı.<ref>{{Web kaynağı|url = https://www.birgun.net/haber/hudapar-secime-ak-parti-listelerinden-girecegiz-426065|başlık = HÜDAPAR: Seçime AK Parti listelerinden gireceğiz|erişimtarihi = 24 Mart 2023|ölüurl = hayır|website = birgun.net|arşivurl = https://web.archive.org/web/20230324150846/https://www.birgun.net/amp/haber/hudapar-secime-ak-parti-listelerinden-girecegiz-426065|arşivtarihi = 24 Mart 2023}} Haberden alıntı: "''İttifaka dahil olmayan HÜDAPAR, Cumhur İttifakı'na 'dışarıdan' destek verecek.''"</ref> 9 Nisan 2023 tarihinde genel başkan Zekeriya Yapıcıoğlu da dahil 4 HÜDA PAR üyesi isim, [[Adalet ve Kalkınma Partisi|AK Parti'den]] aday oldu ve seçilerek milletvekili oldu.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c168k9z1l2go|başlık=Seçim sonuçları: HÜDA PAR, 4 adayının da AKP listelerinden milletvekili seçildiğini açıkladı|erişimtarihi=18 Mayıs 2023|tarih=15 Mayıs 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230517175826/https://www.bbc.com/turkce/articles/c168k9z1l2go|arşivtarihi=17 Mayıs 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://www.bbc.com/turkce/articles/c168k9z1l2go|başlık = HÜDA PAR'ın AKP listelerinden Meclis'e giren dört milletvekili de bugün yemin ediyor|erişimtarihi = 2 Haziran 2023|tarih = 15 Mayıs 2023|dil = Türkçe|çalışma = BBC News Türkçe|arşivurl = https://web.archive.org/web/20230515100523/https://www.bbc.com/turkce/articles/c168k9z1l2go|arşivtarihi = 15 Mayıs 2023}}</ref>
+
+== İdeoloji ==
+HÜDA PAR, [[İslam]] kimliğini ve İslam [[ümmet]]ini temel alır. HÜDA PAR sözcüsü Serkan Ramanlı partinin [[Kürt milliyetçiliği|Kürt milliyetçisi]] olduğu iddiasını reddetti ve yaptığı açıklamada, "Biz Kürt milliyetçisi bir parti değiliz. Biz her türlü milliyetçiliği ayakları altına almış bir partiyiz. Biz [[Müslüman]]ız. Bize göre bütün Müslümanlar kardeştir." dedi.<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/siyaset/huda-par-sozcusu-ramanli-biz-her-turlu-milliyetciligi-ayaklarimizin-altina-almis-bir-partiyiz-2066201|başlık = HÜDA PAR Sözcüsü Ramanlı: Biz her türlü milliyetçiliği ayaklarımızın altına almış bir partiyiz|erişimtarihi = 30 Mart 2023|ölüurl = hayır|website = cumhuriyet.com.tr|arşivurl = https://web.archive.org/web/20230329172944/https://www.cumhuriyet.com.tr/siyaset/huda-par-sozcusu-ramanli-biz-her-turlu-milliyetciligi-ayaklarimizin-altina-almis-bir-partiyiz-2066201|arşivtarihi = 29 Mart 2023}}</ref> 2018-2021 döneminde HÜDA PAR genel başkanı olan [[İshak Sağlam]] ise, [[Milliyetçilik|milliyetçiliğin]] [[Ayrılıkçılık|bölücülük]] ve yıkıcılık olduğunu, [[Osmanlı İmparatorluğu]]'nu yıkanın da "milliyetçi zihniyet" olduğunu söyledi.<ref>{{Web kaynağı|url = https://www.medyafaresi.com/haber/erdogan-mhpye-bolucu-diyen-huda-par-baskani-ile-sarayda-ne-gorustu/952754|başlık = Erdoğan, MHP'ye bölücü diyen HÜDA PAR Başkanı ile Sarayda ne görüştü?|erişimtarihi = 30 Mart 2023|ölüurl = hayır|website = medyafaresi.com|arşivurl = https://web.archive.org/web/20230330172555/https://www.medyafaresi.com/haber/erdogan-mhpye-bolucu-diyen-huda-par-baskani-ile-sarayda-ne-gorustu/952754|arşivtarihi = 30 Mart 2023}}</ref>
+
+Kürt milliyetçiliğini reddeden HÜDA PAR, özellikle Kürt Müslümanların kurduğu ve örgütlendiği bir siyasi parti olmakla beraber, Kürtlük üzerinden Müslümanlık yapmayacağını, partinin [[Ümmetçilik|ümmetçi]] bir çizgide olacağını belirtmiştir. Partinin kuruluş dönemlerinde yapılan bir açıklamada, partinin "[[Türkçülük|Türkçü]]", "[[Kürt milliyetçiliği|Kürtçü]]", "[[Atatürkçülük|Kemalist]]", "[[Abdullah Öcalan|Apoist]]" siyasi tutumlara kesinlikle karşı olduğu ve partinin bu ideolojilere benzemeyeceği belirtildi.<ref name="kaynakmg">{{Web kaynağı|url = https://www.milatgazetesi.com/haber/hur-dava-partisi-huda-par-musluman-muhalefetin-161249/|başlık = Hür Dava Partisi (HÜDA-PAR): Müslüman Muhalefetin Yeni Dili Olabilir Mi?|erişimtarihi = 31 Mart 2023|ölüurl = hayır|website = milatgazetesi.com|arşivurl = https://web.archive.org/web/20230331102050/https://www.milatgazetesi.com/haber/hur-dava-partisi-huda-par-musluman-muhalefetin-161249/|arşivtarihi = 31 Mart 2023}}</ref>
+
+Yapıcıoğlu'nun "Şeyh Said, hem arif, hem [[Mücahit|mücahid]], hem kâmil bir [[Mürşit|mürşid]], hem [[Şehit|şehid]], hem ilmiyle amil bir alimdir" sözleriyle [[Şeyh Said]] yanlısı bir tutum sergilediği de bilinmektedir.<ref>{{Web kaynağı|url=https://twitter.com/zyapicioglu/status/1559617355805777922?t=lb2S7EicpRuYAv__rU928A&s=09|başlık=Güneş balçıkla sıvanmaz!|erişimtarihi=27 Nisan 2023|tarih=16 Ağustos 2022|dil=Türkçe|çalışma=Twitter|arşivurl=https://web.archive.org/web/20230427165129/https://twitter.com/zyapicioglu/status/1559617355805777922?t=lb2S7EicpRuYAv__rU928A&s=09|arşivtarihi=27 Nisan 2023|ölüurl=hayır}}</ref>
+
+Faizsiz bir ekonomi modelini benimseyen HÜDA PAR, ana dilde eğitimi de savunmaktadır.<ref>{{Web kaynağı|url=https://twitter.com/isaguvendik/status/1403322147125313542?t=lb2S7EicpRuYAv__rU928A&s=09|başlık=Adil bir anayasa için...|erişimtarihi=27 Nisan 2023|tarih=11 Haziran 2021|dil=Türkçe|çalışma=Twitter|arşivurl=https://web.archive.org/web/20230427165619/https://twitter.com/isaguvendik/status/1403322147125313542?t=lb2S7EicpRuYAv__rU928A&s=09|arşivtarihi=27 Nisan 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://ilkha.com/siyaset/huda-par-faiz-indirimi-onemli-ancak-piyasanin-beklentileri-icin-guclu-bir-irade-gosterilmeli-178391|başlık=HÜDA PAR: Faiz indirimi önemli ancak piyasanın beklentileri için güçlü bir irade gösterilmeli|erişimtarihi=27 Nisan 2023|çalışma=ilkha.com|arşivurl=https://web.archive.org/web/20211122161635/https://ilkha.com/siyaset/huda-par-faiz-indirimi-onemli-ancak-piyasanin-beklentileri-icin-guclu-bir-irade-gosterilmeli-178391|arşivtarihi=22 Kasım 2021|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.indyturk.com/node/343946/siyaset/h%C3%BCda-par%E2%80%99dan-bakan-sel%C3%A7uk%E2%80%99-%E2%80%9Canadilde-e%C4%9Fitim%E2%80%9D-tepkisi|başlık=HÜDA PAR’dan Bakan Selçuk’a “anadilde eğitim” tepkisi|erişimtarihi=27 Nisan 2023|tarih=12 Nisan 2021|dil=Türkçe|çalışma=Independent Türkçe|arşivurl=https://web.archive.org/web/20220814102706/https://www.indyturk.com/node/343946/siyaset/h%C3%BCda-par%E2%80%99dan-bakan-sel%C3%A7uk%E2%80%99-%E2%80%9Canadilde-e%C4%9Fitim%E2%80%9D-tepkisi|arşivtarihi=14 Ağustos 2022|ölüurl=hayır}}</ref> Parti, [[LGBT]] haklarına da karşı çıkmaktadır.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/huda-pardan-escinsellere-yonelik-nefret-soylemi-ve-hdpye-tehdit,243011|başlık=HÜDA PAR'dan HDP'ye 'eşcinsel' tehdidi|erişimtarihi=27 Nisan 2023|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20230311091248/https://t24.com.tr/haber/huda-pardan-escinsellere-yonelik-nefret-soylemi-ve-hdpye-tehdit,243011|arşivtarihi=11 Mart 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/tugce-kazazdan-huda-para-lgbt-tesekkuru-1981297|başlık=Tuğçe Kazaz'dan HÜDA-PAR'a 'LGBT' teşekkürü|erişimtarihi=27 Nisan 2023|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl=https://web.archive.org/web/20230130222624/https://www.cumhuriyet.com.tr/amp/siyaset/tugce-kazazdan-huda-para-lgbt-tesekkuru-1981297|arşivtarihi=30 Ocak 2023|ölüurl=hayır}}</ref> Ayrıca parti, Türk devletinin Kürtlerden özür dilemesi gerektiğini ve milliyetçilik kavramına karşı olduklarını belirtmektedir.<ref>{{Kitap kaynağı|url=https://www.worldcat.org/oclc/980165979|başlık=Kurdish Hizbullah in Turkey : Islamism, violence and the state|tarih=2017|yer=Londra|ad=Mehmet|soyadı=Kurt|isbn=978-1-78680-037-4|oclc=980165979|erişim-tarihi=27 Nisan 2023|arşivurl=https://web.archive.org/web/20200611160705/http://www.worldcat.org/oclc/980165979|arşivtarihi=11 Haziran 2020|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/kurdistan/281020172|başlık=HÜDA-PAR: Devlet Kürtlerden özür dilemeli|erişimtarihi=27 Nisan 2023|çalışma=rudaw.net|arşivurl=https://web.archive.org/web/20180507083909/http://www.rudaw.net/turkish/kurdistan/281020172|arşivtarihi=7 Mayıs 2018|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/kurdistan/011020203|başlık=HÜDA-PAR: Kitaptan Kürtlerin ismini çıkarmakla Kürtler yok olmaz|erişimtarihi=27 Nisan 2023|tarih=1 Ekim 2020|çalışma=rudaw.net|arşivurl=https://web.archive.org/web/20201101111054/https://www.rudaw.net/turkish/kurdistan/011020203|arşivtarihi=1 Kasım 2020|ölüurl=hayır}}</ref>
+
+27 Mart 2021'de yapılan bir habere göre İshak Sağlam "5 darbeci general yazıyor, biz de bunu ilah seviyesine çıkarıyoruz. ‘Bunu eleştiremezsiniz, değiştiremezsiniz, değiştirilmesini teklif dahi edemezsiniz’ düşüncesi akla ve mantığa uygun değil." diyerek [[Türkiye Cumhuriyeti Anayasası]]'nın ilk 4 maddesinin değiştirebileceğini söylemiştir.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/haber/huda-par-anayasanin-ilk-4-maddesini-hedef-aldi-1823582|başlık=HÜDA-PAR Anayasa'nın ilk 4 maddesini hedef aldı|erişimtarihi=27 Mart 2021|arşivtarihi=27 Mart 2021|arşivengelli=evet|arşivurl=https://web.archive.org/web/20210327082227/https://www.cumhuriyet.com.tr/haber/huda-par-anayasanin-ilk-4-maddesini-hedef-aldi-1823582|ölüurl=hayır|dil=Türkçe|çalışma=[[Cumhuriyet (gazete)|Cumhuriyet]]}}</ref>
+
+== Tartışmalar ==
+7 Ekim 2014 Diyarbakır'da yapılan [[Kobani Olayları|Kobani olayları]] sırasında HÜDA PAR yanlılarından [[Yasin Börü'nün öldürülmesi|Yasin Börü]], Riyat Güneş, Ahmet Dakak ve Hasan Gökgöz öldürüldü.<ref>[http://www.radikal.com.tr/turkiye/yasin-boru-cinayeti-saniginin-olay-gunu-askerde-oldugu-ortaya-cikti-1336823/ "Yasin Börü cinayeti sanığının, olay günü askerde olduğu ortaya çıktı"] {{Webarşiv|url=https://web.archive.org/web/20161005105356/http://www.radikal.com.tr/turkiye/yasin-boru-cinayeti-saniginin-olay-gunu-askerde-oldugu-ortaya-cikti-1336823/|tarih=5 Ekim 2016}} ''[[Radikal (gazete)|Radikal]]. 16 Nisan 2015. En son 3 Ekim 2016 tarihinde erişildi.''</ref><ref>[http://bianet.org/bianet/insan-haklari/163313-diyarbakir-da-34-kisiye-yasin-boru-davasi Diyarbakır’da 34 Kişiye "Yasin Börü" Davası] {{Webarşiv|url=https://web.archive.org/web/20161003193341/http://bianet.org/bianet/insan-haklari/163313-diyarbakir-da-34-kisiye-yasin-boru-davasi|tarih=3 Ekim 2016}} [[Bianet]]. 26 Mart 2015. En son 3 Ekim 2016 tarihinde erişildi.</ref>
+
+HÜDA PAR üyesi ve Yeni İhya Der başkanı Aytaç Baran, 9 Haziran 2015'te [[YDG-H]] üyeleri tarafından [[Diyarbakır]]'da uğradığı silahlı saldırı sonucu öldü.<ref>[http://www.radikal.com.tr/turkiye/diyarbakirda-yeni-ihya-der-baskani-aytac-baran-olduruldu-1375925/ "Diyarbakır'da Yeni İhya Der Başkanı Aytaç Baran öldürüldü"] {{Webarşiv|url=https://web.archive.org/web/20161005171211/http://www.radikal.com.tr/turkiye/diyarbakirda-yeni-ihya-der-baskani-aytac-baran-olduruldu-1375925/|tarih=5 Ekim 2016}} ''[[Radikal (gazete)|Radikal]]''. 9 Haziran 2015. En son 4 Ekim 2016 tarihinde erişildi.</ref> Saldırının ardından [[Kürt Hizbullahı|Hizbullah]] üyelerince gerçekleştirilen silahlı saldırılarda [[Halkların Demokratik Partisi|HDP]]’li Bayram Özelçi, Bayram Dağtan ve Emin Ensen öldü, 10’dan fazla kişi de yaralandı.<ref>[http://www.radikal.com.tr/turkiye/diyarbakirda-oldurulen-3-kisi-defnedildi-1376474/ "Diyarbakır'da öldürülen 3 kişi defnedildi"] {{Webarşiv|url=https://web.archive.org/web/20161005141123/http://www.radikal.com.tr/turkiye/diyarbakirda-oldurulen-3-kisi-defnedildi-1376474/|tarih=5 Ekim 2016}} ''[[Radikal (gazete)|Radikal]]''. 10 Haziran 2015. En son 4 Ekim 2016 tarihinde erişildi.</ref> Olaylarla ilgili davada, 26 yaşındaki Mehmet Dağ "silahlı terör örgütüne üye olmak" suçundan altı yıl, üç ay hapis cezasına çarptırıldı, diğer tüm sanıklar bu suçtan beraat ettiler.<ref>[http://www.radikal.com.tr/turkiye/pkk-hizbullah-catismasinda-karar-1521629/ "PKK/Hizbullah çatışmasında karar"] {{Webarşiv|url=https://web.archive.org/web/20161005171207/http://www.radikal.com.tr/turkiye/pkk-hizbullah-catismasinda-karar-1521629/|tarih=5 Ekim 2016}} ''[[Radikal (gazete)|Radikal]]''. 3 Mart 2016. En son 4 Ekim 2016 tarihinde erişildi.</ref>
+
+=== Hizbullah ile bağlantısı ===
+HÜDA PAR, kuruluşundan itibaren Hizbullah ile ilişkilendirilmiştir.<ref>{{Web kaynağı|url=https://tr.euronews.com/2023/03/13/huda-par-nasil-kuruldu-siyasi-cizgisi-ve-hizbullah-ile-baglantisi-ne|başlık=HÜDA-PAR nasıl kuruldu, siyasi çizgisi ve Hizbullah ile bağlantısı ne?|erişimtarihi=4 Nisan 2023|tarih=13 Mart 2023|dil=Türkçe|çalışma=euronews|ad=Dilek|soyadı=Gul|arşivurl=https://web.archive.org/web/20230404013737/https://tr.euronews.com/2023/03/13/huda-par-nasil-kuruldu-siyasi-cizgisi-ve-hizbullah-ile-baglantisi-ne|arşivtarihi=4 Nisan 2023|ölüurl=hayır}}</ref> Hizbullah'ı hedef alan Beykoz Operasyonu sonucu tutuklananlar ve ailelerine destek olmak amacıyla 2004 yılında [[Mustazaflar ile Dayanışma Derneği|Mustazaflarla Dayanışma Derneği (Mustazaf-Der)]] kuruldu. Dernek, 2012 yılında Hizbullah'ın devamı olduğu gerekçesiyle kapatıldı. Derneğin kapatılması üzerine propaganda imkanı ve siyasi partilerin kapatılmasının derneklere göre daha zor olması nedeniyle 2013 yılında Hür Dava Partisi adıyla partileşti.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2023/yazarlar/aytunc-erkin/beykozdaki-hizbullah-operasyonunu-yoneten-emniyet-muduru-niyazi-palabiyik-ilk-kez-konustu-ve-isyan-etti-7637357/|başlık=Beykoz’daki Hizbullah Operasyonunu Yöneten Emniyet Müdürü Niyazi Palabıyık ilk kez konuştu ve isyan etti|erişimtarihi=18 Mayıs 2023|yazarlar=Aytunç Erkin|tarih=30 Mart 2023|dil=Türkçe|çalışma=|yayıncı=Sözcü Gazetesi|arşivurl=https://web.archive.org/web/20230518195213/https://www.sozcu.com.tr/2023/yazarlar/aytunc-erkin/beykozdaki-hizbullah-operasyonunu-yoneten-emniyet-muduru-niyazi-palabiyik-ilk-kez-konustu-ve-isyan-etti-7637357/|arşivtarihi=18 Mayıs 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/middleeast/turkey/110920224|başlık=Mustazaf-Der 10 yıl sonra yeniden açıldı|erişimtarihi=18 Mayıs 2023|tarih=11 Eylül 2022|çalışma=rudaw.net|arşivurl=https://web.archive.org/web/20230518210725/https://www.rudaw.net/turkish/middleeast/turkey/110920224|arşivtarihi=18 Mayıs 2023|ölüurl=hayır}}</ref><ref name="diyanetraporu">{{Kitap kaynağı|url=https://www.goodreads.com/book/show/49058518-din--sosyal-te-ekk-ller-geleneksel-din--k-lt-rel-olu-umlar-ve-yeni-din|başlık=Dinî-Sosyal Teşekküller, Geleneksel Dinî-Kültürel Oluşumlar ve Yeni Dinî Yönelişler|erişimtarihi=13 Aralık 2022|arşivtarihi=13 Aralık 2022|arşivurl=https://web.archive.org/web/20221213132754/https://www.goodreads.com/book/show/49058518-din--sosyal-te-ekk-ller-geleneksel-din--k-lt-rel-olu-umlar-ve-yeni-din|ölüurl=hayır|dil=Türkçe|sayfa=|sayfalar=122-125|yayıncı=Diyanet İşleri Başkanlığı}}</ref>
+
+Zekeriya Yapıcıoğlu, "''Hizbullah bana göre bir terör örgütü değil.''" demiştir.<ref>{{Web kaynağı|url=https://www.youtube.com/watch?v=iiV7XwDI7U0|başlık=HÜDA PAR Genel Başkanı Zekeriya Yapıcıoğlu: Hizbullah bana göre bir terör örgütü değil|erişimtarihi=22 Mayıs 2023|tarih=24 Mart 2022|yayıncı=[[Yeni Şafak]]|arşivurl=https://web.archive.org/web/20230521224609/https://www.youtube.com/watch?v=iiV7XwDI7U0&feature=youtu.be|arşivtarihi=21 Mayıs 2023|ölüurl=hayır}}</ref> HÜDA PAR genel başkan yardımcısı Yılmaz, Yargıtayın 2012'de Hizbullah bağlantısı sebebiyle kapattığı Mustazaf-Der'in genel başkanlığını yapmıştır.<ref name="kaynak aposto" /> HÜDA PAR genel başkan vekili İshak Sağlam ile Diyarbakır il başkanı Faruk Dinç'in daha önce Hizbullah davasında hapis cezalarına çarptırıldığı ortaya çıktı.<ref name="kaynak aposto" /><ref>{{Web kaynağı|url=https://www.birgun.net/haber/akp-den-aday-gosterilen-hudapar-li-dinc-hizbullah-davasinda-hapis-yatmis-431293|başlık=AKP'den aday gösterilen HÜDAPAR'lı Dinç, Hizbullah davasında hapis yatmış|erişimtarihi=27 Nisan 2023|arşivtarihi=25 Nisan 2023|arşivurl=https://web.archive.org/web/20230425054314/https://www.birgun.net/haber/akp-den-aday-gosterilen-hudapar-li-dinc-hizbullah-davasinda-hapis-yatmis-431293|ölüurl=hayır|dil=Türkçe|çalışma=birgun.net}}</ref> HÜDA PAR Merkez İstişare Kurulu üyesi Nasuh Sevinik'in Hizbullah'ta yöneticilik yaptığı iddia edildi.<ref>{{Web kaynağı|url=https://www.birgun.net/haber/hudapar-merkez-istisare-kurulu-uyesi-nasuh-sevinik-in-hizbullah-ta-yoneticilik-yaptigi-ortaya-cikti-429144|başlık=HÜDAPAR Merkez İstişare Kurulu üyesi Nasuh Sevinik'in Hizbullah'ta yöneticilik yaptığı ortaya çıktı|erişimtarihi=27 Nisan 2023|arşivtarihi=25 Nisan 2023|arşivurl=https://web.archive.org/web/20230425055815/https://www.birgun.net/haber/hudapar-merkez-istisare-kurulu-uyesi-nasuh-sevinik-in-hizbullah-ta-yoneticilik-yaptigi-ortaya-cikti-429144|ölüurl=hayır|dil=Türkçe|çalışma=birgun.net}}</ref> [[2023 Türkiye genel seçimleri]] öncesinde [[Cumhur İttifakı]] ile müzakereler sırasında ve sonrasında HÜDA PAR'ın Hizbullah ile bağlantısı olduğu iddialarının yer aldığı 47 haber sayfasına erişim engeli kararları uygulamaya kondu.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/huda-parla-ilgili-47-haber-ve-paylasim-hakkinda-erisim-engeli-karari-haber-1608833|başlık=HÜDA PAR'la ilgili 47 haber ve paylaşım hakkında erişim engeli kararı|erişimtarihi=4 Nisan 2023|arşivtarihi=4 Nisan 2023|arşivurl=https://web.archive.org/web/20230404154042/https://www.gazeteduvar.com.tr/huda-parla-ilgili-47-haber-ve-paylasim-hakkinda-erisim-engeli-karari-haber-1608833|tarih=17 Mart 2023|ölüurl=hayır|dil=tr-TR}}</ref><ref>{{Web kaynağı|url=https://t24.com.tr/haber/fatih-altayli-huda-par-yazilarina-erisim-engeli-getiren-hakim-sezgin-baran-korkmaz-in-mal-varligi-uzerindeki-tedbiri-kaldirarak-gundeme-gelen-yasin-karaca,1102105|başlık=Fatih Altaylı: HÜDA PAR yazılarına “erişim engeli” getiren hâkim, Sezgin Baran Korkmaz’ın mal varlığı üzerindeki tedbiri kaldırarak gündeme gelen Yasin Karaca|erişimtarihi=4 Nisan 2023|arşivtarihi=3 Nisan 2023|arşivurl=https://web.archive.org/web/20230403151527/http://t24.com.tr/haber/fatih-altayli-huda-par-yazilarina-erisim-engeli-getiren-hakim-sezgin-baran-korkmaz-in-mal-varligi-uzerindeki-tedbiri-kaldirarak-gundeme-gelen-yasin-karaca,1102105|ölüurl=hayır|dil=Türkçe|çalışma=T24}}</ref>
+
+HÜDA PAR lideri [[Zekeriya Yapıcıoğlu]], 2012'de Hizbullah bağlantısı gerekçesiyle kapatılan Mustazaf-Der davasıyla ilgili AİHM tarafından "hak ihlali" kararı verilmesi üzerine yeniden görülen davada "FETÖ kumpası" eski kararın kaldırılarak Mustazaf-Der'in beraat ettiğini ve yeniden faaliyetlerine devam ettiğini belirterek partilerinin [[Kürt Hizbullahı|Hizbullah]] ile bağı olduğu iddiasının doğru olmadığını söyledi ve "biz şiddetin her türlüsünü reddediyoruz" dedi. Zekeriya Yapıcıoğlu yaptığı açıklamada; "Onlarca defa söyledim. Biz Hizbullah'ın devamı falan değiliz, biz onun mirasçısı değiliz, biz başka bir örgütün de devamı ya da siyasi kolu değiliz" ifadelerini kullandı.<ref>{{video kaynağı |yazarlar= Zekeriya Yapıcıoğlu, Ahmet Hakan, Abdulkadir Selvi |yıl= 2023 |başlık= Zekeriya Yapıcıoğlu: "Biz şiddetin her türlüsünü reddediyoruz" |url= https://www.youtube.com/watch?v=GVCwhNxn21A |dil= Türkçe |yayıncı= CNN TÜRK |erişimtarihi= 11 Nisan 2023 |zaman= 2:44 ile 2:55 arası |arşivurl= https://web.archive.org/web/20230411113539/https://www.youtube.com/watch?v=GVCwhNxn21A |arşivtarihi= 11 Nisan 2023 |ölüurl= hayır }}</ref>
+
+Hizbullah'ın liderliğini üstlenmiş olan [[Edip Gümüş]], HÜDA PAR'ın Eski Genel Başkanı [[Mehmet Yavuz]]'un ölümü ve daha sonra HÜDA PAR Adana İl Başkanı Sacit Pişgin'in öldürülmesi üzerine taziye mesajları yayınlamış, HÜDA PAR ise Hizbullah'ın [[Beykoz]]'da öldürülen lideri [[Hüseyin Velioğlu]]'nun posterini "Şehit Rehber" yazısıyla genel kongrenin düzenlendiği salona asmıştır.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/hizbullahin-liderini-rehber-sayiyorlar-wp7692114|başlık=Hizbullah’ın liderini rehber sayıyorlar|erişimtarihi=9 Ekim 2024|arşivtarihi=9 Ekim 2024|arşivurl=https://web.archive.org/web/20241009002508/https://www.sozcu.com.tr/hizbullahin-liderini-rehber-sayiyorlar-wp7692114|tarih=23 Mayıs 2023|dil=Türkçe|çalışma=Sözcü.com.tr}}</ref><ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/hizbullah-parti-kuruyor,ll77wiUfV0K_MAurnPqmMg|başlık='Hizbullah' parti kuruyor|erişimtarihi=9 Ekim 2024|arşivtarihi=2 Mayıs 2023|arşivurl=https://web.archive.org/web/20230502131052/https://www.ntv.com.tr/turkiye/hizbullah-parti-kuruyor,ll77wiUfV0K_MAurnPqmMg|dil=Türkçe|çalışma=ntv.com.tr}}</ref><ref>{{Haber kaynağı|url=https://ilkha.com/guncel/hizbullah-cemaati-rehberi-gumusten-yavuz-icin-taziye-mesaji-102287|başlık=Hizbullah Cemaati Rehberi Gümüş'ten Yavuz için taziye mesajı|erişimtarihi=9 Ekim 2024|arşivtarihi=16 Aralık 2019|arşivurl=https://web.archive.org/web/20191216075412/https://ilkha.com/guncel/hizbullah-cemaati-rehberi-gumusten-yavuz-icin-taziye-mesaji-102287|tarih=10 Ağustos 2019|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://ilkha.com/arabi/guncel/340960/hizbullah-cemaati-rehberi-gumus-sacid-kardesim-seni-sehit-edenler-rezil-olacaklar!|başlık=Hizbullah Cemaati Rehberi Gümüş: Sacid kardeşim, seni şehit edenler rezil olacaklar!|erişimtarihi=9 Ekim 2024|arşivurl=https://web.archive.org/web/20241228141217/https://ilkha.com/arabi/guncel/340960/hizbullah-cemaati-rehberi-gumus-sacid-kardesim-seni-sehit-edenler-rezil-olacaklar!|arşivtarihi=28 Aralık 2024|ölüurl=hayır}}</ref> HÜDA PAR Genel Başkanı Zekeriya Yapıcıoğlu, Hizbullah lideri Edip Gümüş'ün ailesine taziye ziyaretinde bulunmuştur.<ref>{{Web kaynağı|url = https://www.hur24.com/yapicioglu-gumus-ailesine-taziye-ziyaretinde-bulundu-26953h.htm|başlık = Yapıcıoğlu, Gümüş ailesine taziye ziyaretinde bulundu|erişimtarihi = 25 Mart 2025|tarih = 22 Şubat 2017|dil = Türkçe|çalışma = Hür 24|arşivurl = https://web.archive.org/web/20250419024921/https://www.hur24.com/yapicioglu-gumus-ailesine-taziye-ziyaretinde-bulundu-26953h.htm|arşivtarihi = 19 Nisan 2025}}</ref>
+
+== Genel başkanlar ==
+{| class="wikitable" style="text-align:center; font-size:90%"
+|-
+! #
+! Başkan
+! Görev Başlangıcı
+! Görev Bitişi
+|-
+| '''1''' || [[Mehmet Hüseyin Yılmaz]] || 19 Aralık 2012 || 30 Haziran 2013
+|-
+| '''2''' || [[Zekeriya Yapıcıoğlu]] || 30 Haziran 2013 || 21 Mayıs 2018
+|-
+| — || [[Mehmet Yavuz]] {{Küçük|(vekil)}} || 21 Mayıs 2018 || 7 Ekim 2018
+|-
+| '''3''' || [[İshak Sağlam]] || 7 Ekim 2018 || 2 Haziran 2021
+|-
+| '''(2)''' || [[Zekeriya Yapıcıoğlu]] || 2 Haziran 2021 || Görevde
+|}
+
+== Milletvekilleri ==
+{| class="wikitable" style="font-size:90%"
+!#
+!Adı
+!Seçim bölgesi
+!Görevi
+|-
+|'''1'''
+|[[Serkan Ramanlı]]
+|[[Batman milletvekilleri listesi|Batman]]
+|Genel Başkan Yardımcısı ve Parti Sözcüsü<ref name="hudapar.org">{{Web kaynağı|url=https://hudapar.org/kadromuz|başlık=Kadromuz|erişimtarihi=26 Mayıs 2024|çalışma=hudapar.org|arşivurl=https://web.archive.org/web/20240525172123/https://hudapar.org/kadromuz|arşivtarihi=25 Mayıs 2024|ölüurl=hayır}}</ref><br>İnsan Haklarını İnceleme Komisyonu Üyesi
+|-
+|'''2'''
+|[[Şehzade Demir]]
+|[[Gaziantep milletvekilleri listesi|Gaziantep]]
+|Genel Başkan Vekili<ref name="hudapar.org"/><br>Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|-
+|'''3'''
+|[[Zekeriya Yapıcıoğlu]]
+|[[İstanbul milletvekilleri listesi|İstanbul (III)]]
+|Genel Başkan<ref name="hudapar.org"/>
+|-
+|'''4'''
+|[[Faruk Dinç]]
+|[[Mersin milletvekilleri listesi|Mersin]]
+|Genel Başkan Yardımcısı<ref name="hudapar.org"/>
+|}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+! #
+! İsim
+! İl
+! İlçe 
+! Belde
+|-
+| '''1'''|| Samir Özhan || [[Batman (il)|Batman]] || [[Gercüş]] || [[Kayapınar, Gercüş|Kayapınar]]
+|-
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |
+|-
+|}
+{{gizli içerik-son}}
+== Başkanlık divanı ==
+{| class="wikitable" style="font-size:90%"
+|-
+!#
+!Adı
+!Görevi
+!Kaynak
+|-
+| 1 || [[Zekeriya Yapıcıoğlu]] || Genel Başkan
+|rowspan="16"|<ref name="hudapar.org"/>
+|-
+| 2 || [[Şehzade Demir]] || Genel Başkan Vekili<br>(Siyasi İşler Başkanı)
+|-
+| 3 || Halef Yılmaz || Genel Başkan Vekili<br>(Teşkilat Başkanı)
+|-
+| 4 || Mehmet Hüseyin Yılmaz || Genel Sekreter
+|-
+| 5 || [[İshak Sağlam]] || Genel Başkan Yardımcısı<br>(İnsan Hakları ve Hukuk İşleri Başkanı)
+|-
+| 6 || [[Serkan Ramanlı]] || Genel Başkan Yardımcısı<br>(Seçim İşleri ve Yerel Yönetimler Başkanı)<br>(Parti Sözcüsü) 
+|-
+| 7 || Hüseyin İmir || Genel Başkan Yardımcısı<br>(Dış İlişkiler Başkanı)
+|-
+| 8 || Mehmet Eşin || Genel Başkan Yardımcısı<br>(Halkla İlişkiler Başkanı)
+|-
+| 9 || Aynur Sülün || Genel Başkan Yardımcısı<br>(Kadın ve Aile Başkanı) 
+|-
+| 10 || Yahya Oğraş || Genel Başkan Yardımcısı<br>(Eğitim İşleri Başkanı) 
+|-
+| 11 || Abdullah Aslan || Genel Başkan Yardımcısı<br>(Sosyal İşler Başkanı) 
+|-
+| 12 || Yunus Emiroğlu || Genel Başkan Yardımcısı<br>(Medya Başkanı)<br>(Parti Sözcüsü)
+|-
+| 13 || Mehmet Şah Gültekin || Genel Başkan Yardımcısı<br>(İktisat Başkanı) 
+|-
+| 14 || Hamdin Aslan || Genel Başkan Yardımcısı<br>(Mali ve İdari İşler Başkanı)
+|-
+| 15 || [[Faruk Dinç]] || Genel Başkan Yardımcısı<br>(Gençlik Politikaları Başkanı) 
+|-
+| 16 || Mahmut İrtem || Genel Başkan Yardımcısı<br>(AR-GE Başkanı)
+|}
+
+== Seçimler ==
+=== Yerel seçimler ===
+HÜDA PAR'ın [[2014 Türkiye yerel seçimleri|2014 yerel seçimleri]]nde oy oranı Ağrı'da %1,37, Batman'da %7,80, Bingöl'de %3,06, Bitlis'te %5,58, Diyarbakır'da %4,77, Mardin'de %2, Muş'ta %1,46, Siirt'te %1,16, Şırnak'ta %2,32 ve Van'da %0,65 oldu.<ref>[http://www.milliyet.com.tr/2014YerelSecim/hudapar/PartiDetay.htm "HUDAPAR İstatistikleri"] {{Webarşiv|url=https://web.archive.org/web/20161021062327/http://www.milliyet.com.tr/2014YerelSecim/hudapar/PartiDetay.htm |tarih=21 Ekim 2016 }} ''[[Milliyet (gazete)|Milliyet]]''. En son 4 Ekim 2016 tarihinde erişildi.</ref> [[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]]ne katılmadı.<ref>{{haber kaynağı |başlık=HÜDA PAR’dan flaş yerel seçim kararı |url=https://www.sabah.com.tr/gundem/2019/01/12/huda-pardan-flas-yerel-secim-karari |erişimtarihi=20 Mart 2020 |yayıncı=sabah.com.tr |arşivurl=https://web.archive.org/web/20200320164032/https://www.sabah.com.tr/gundem/2019/01/12/huda-pardan-flas-yerel-secim-karari |arşivtarihi=20 Mart 2020 |ölüurl=hayır }}</ref> 3 Ocak 2024'te Genel Başkan Yardımcısı Mahmut Şahin HÜDA PAR'ın 2024 yerel seçimlerine katılacağını açıkladı.<ref>{{Web kaynağı|url=https://www.trthaber.com/haber/turkiye/huda-pardan-yerel-secim-aciklamasi-826001.html|başlık=HÜDA PAR'dan yerel seçim açıklaması|erişimtarihi=26 Ocak 2024|tarih=3 Ocak 2024|dil=Türkçe|çalışma = [[TRT Haber]]|arşivurl=https://web.archive.org/web/20240126185914/https://www.trthaber.com/haber/turkiye/huda-pardan-yerel-secim-aciklamasi-826001.html|arşivtarihi=26 Ocak 2024|ölüurl=hayır}}</ref>
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=2| İl Genel Meclisi+<br> BB İlçe Belediye Meclisi
+! rowspan=2| Belediye
+|-
+! Oy
+! %
+|- 
+| [[2014 Türkiye yerel seçimleri|2014]] || rowspan="2" | [[Zekeriya Yapıcıoğlu]] || 97.216 || {{Yüzde çubuğu|0.22|%0,22|#bb0000}} || {{Composition bar|0|1351|{{Siyasi parti renk|Hür Dava Partisi}}}}
+|-
+|[[2024 Türkiye yerel seçimleri|2024]]
+|275.358 
+|{{Yüzde çubuğu|0.64|%0,64|#bb0000}}
+|{{Composition bar|1|1385|{{Siyasi parti renk|Hür Dava Partisi}}}}
+|}
+
+=== Genel seçimler ===
+HÜDA PAR, 7 Haziran 2015'te yapılan [[Haziran 2015 Türkiye genel seçimleri|genel seçimlerde]] Adana, Bitlis, Şırnak, Van, Şanlıurfa, Bingöl, Batman ve Diyarbakır'dan bağımsız adayları destekledi fakat seçilen olmadı.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/huda-parin-bagimsiz-adaylari,SDIcVv-NQEKxuE8Pl4C7TA|başlık=HÜDA PAR'ın bağımsız adayları meclise girebildi mi?|erişimtarihi=27 Nisan 2023|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20230405065632/https://www.ntv.com.tr/turkiye/huda-parin-bagimsiz-adaylari,SDIcVv-NQEKxuE8Pl4C7TA|arşivtarihi=5 Nisan 2023|ölüurl=hayır}}</ref> 1 Kasım 2015'te yapılan [[Kasım 2015 Türkiye genel seçimleri|genel seçimlere]] ise katılmadı.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/1-kasimdaki-secime-katilmayacak,uaYAYOJ-2U-Yt4AqjNumFw|başlık=HÜDA PAR 1 Kasım'daki seçime katılmayacak|erişimtarihi=27 Nisan 2023|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20230405045953/https://www.ntv.com.tr/turkiye/1-kasimdaki-secime-katilmayacak,uaYAYOJ-2U-Yt4AqjNumFw|arşivtarihi=5 Nisan 2023|ölüurl=hayır}}</ref> Parti 2018 genel seçimlerinde 157.612 oy ile oyların %0,31'ini kazanarak baraj altında kaldı ve meclise giremedi.<ref>{{Web kaynağı|url=http://www.ysk.gov.tr/doc/dosyalar/docs/24Haziran2018/KesinSecimSonuclari/2018MV-96C.pdf|başlık=27. Dönem Milletvekili Genel Seçimi Yurt içi, Yurt dışı ve Gümrük Sandıkları Dahil Milletvekili Genel Seçimi|erişimtarihi=25 Ocak 2020|arşivtarihi=10 Ocak 2020|arşivurl=https://web.archive.org/web/20200110071115/http://www.ysk.gov.tr/doc/dosyalar/docs/24Haziran2018/KesinSecimSonuclari/2018MV-96C.pdf|ölüurl=evet}}</ref> 2023 genel seçimlerine AK Parti listelerinden dahil oldu ve AK Parti listelerinde HÜDA PAR'a 4 kişilik kontenjan ayrıldı.<ref>{{Web kaynağı|url=https://gazetememur.com/gundem/ak-parti-huda-pardan-4-adayi-listeye-koydu,pHCbKB5zMkOpFd3Hj5PLTw|başlık=Ak Parti, Hüda Par'dan 4 adayı listeye koydu|erişimtarihi=15 Mayıs 2023|arşivtarihi=30 Nisan 2023|arşivurl=https://web.archive.org/web/20230430000943/https://gazetememur.com/gundem/ak-parti-huda-pardan-4-adayi-listeye-koydu,pHCbKB5zMkOpFd3Hj5PLTw|ölüurl=hayır|dil=Türkçe}}</ref> Seçimler sonucunda dördü de milletvekili oldu.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c168k9z1l2go|başlık=Seçim sonuçları: HÜDA PAR, 4 adayının da AKP listelerinden milletvekili seçildiğini açıkladı|erişimtarihi=31 Mayıs 2023|arşivtarihi=30 Mayıs 2023|arşivurl=https://web.archive.org/web/20230530130644/https://www.bbc.com/turkce/articles/c168k9z1l2go|tarih=15 Mayıs 2023|dil=Türkçe|çalışma=BBC News Türkçe}}</ref>
+
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan="6" | [[Türkiye Büyük Millet Meclisi]]
+|-
+! Seçim
+! Genel Başkan
+! Oy
+! Oran
+! Sandalye
+!±
+|-
+| [[2018 Türkiye genel seçimleri|2018]] || [[Mehmet Yavuz]]|| 157.612 || {{Yüzde çubuğu|0.31|%0,31|#bb0000}} || {{Composition bar|0|600|{{Siyasi parti renk|Hür Dava Partisi}}}}
+| -
+|-
+|[[2023 Türkiye genel seçimleri|2023]]
+|[[Zekeriya Yapıcıoğlu]]
+| colspan="2" |<small>Seçimlere AK Parti listelerinden katıldı.</small>
+|{{Composition bar|4|600|{{Siyasi parti renk|Hür Dava Partisi}}}}
+| {{Artış}}4
+|}
+
+== Ayrıca Bakınız ==
+
+* [[Mustazaflar ile Dayanışma Derneği|Mustazaflar ile Dayanışma Derneği - Mustazaflar Der]]
+* [[Hizbullah (Türkiye)|Hizbullah]]
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+* {{Resmî site|hudapar.org}}
+{{Kürt siyasi hareketi}}
+{{Türkiye'deki siyasi partiler}}
+
+[[Kategori:2012'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:2012'de kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Türkiye'deki muhafazakâr partiler]]
+[[Kategori:Türkiye'deki İslamcı partiler]]
+[[Kategori:Türkiye'deki aşırı sağcı partiler]]
+[[Kategori:Sosyal muhafazakâr partiler]]

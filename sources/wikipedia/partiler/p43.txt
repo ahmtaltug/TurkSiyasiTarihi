@@ -1,0 +1,75 @@
+{{Siyasi parti bilgi kutusu
+| isim = Demokratik Halk Partisi
+| kısaltma = DEHAP
+| colorcode = {{Siyasi parti renk|Demokratik Halk Partisi (Türkiye)}}
+| amblem = DEHAP-logo.png
+| genel başkanı = [[Tuncer Bakırhan]]
+| genel sekreteri = [[Aysel Tuğluk]]
+| kurucusu = [[Mehmet Abbasoğlu (siyasetçi)|Mehmet Abbasoğlu]]
+| kuruluş = 24 Ekim 1997
+| kapanış = 19 Kasım 2005<ref>"[http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf Cumhuriyet Döneminde Kurulan ve Kapanan Siyasi Partiler] {{Webarşiv|url=https://web.archive.org/web/20180127233824/http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf |tarih=27 Ocak 2018 }}", tesav.org.tr</ref>
+| öncülü = [[Halkın Demokrasi Partisi]]
+| ardılı = [[Özgür Toplum Partisi]] [[Demokratik Toplum Partisi]]
+| ideoloji = {{yalın liste|
+*[[Kürt milliyetçiliği]]
+*[[Demokratik sosyalizm]]
+*[[Sol milliyetçilik]]
+'''Parti içi düşünceler:'''
+*[[Ayrılıkçılık]]
+*[[Federalizm]]
+*[[Sosyalizm]]
+}} 
+| pozisyon = [[Solculuk|Sol]]
+}}
+'''Demokratik Halk Partisi''' (kısaca '''DEHAP'''), [[Kürtler]]in 1980'li yılların sonlarına doğru [[Türkiye]]'de siyasal yaşama katılmak amacıyla girişimde bulundukları [[Halkın Emek Partisi|HEP]]-[[Demokrasi Partisi|DEP]]-[[Halkın Demokrasi Partisi|HADEP]] vb. siyasal parti denemelerinin 2005 yılı itibarıyla en sonuncusudur. DEHAP, [[Demokratik Toplum Partisi|DTP]]'nin kurulması sürecinde kendisini feshederek [[Demokratik Toplum Hareketi (Türkiye)|DTH]] sürecine katılmıştır.
+
+== Demokratik Halk Partisi ve seçimler ==
+=== Genel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="3" |Seçim
+! rowspan="3" |Genel Başkan
+! colspan="3" |Oy
+! colspan="2" rowspan="2" |Sandalye
+! rowspan="3" |Meclisteki Durumu
+! rowspan="3" |Meclisteki Sırası
+! rowspan="3" |Dahil Olduğu Hükûmet
+! rowspan="3" |Harita
+|-
+! rowspan="2" |#
+! rowspan="2" |%
+! rowspan="2" |±
+|-
+!#
+!±
+|-
+![[2002 Türkiye genel seçimleri|2002]]
+|[[Dosya:HEDEP Co-Chair - Tuncer Bakirhan (cropped).png|orta|çerçevesiz|101x101pik]][[Tuncer Bakırhan]]
+|1,960,660
+|{{Yüzde çubuğu|2.80|%6,21|FFDD00|border-color=y}}
+| -
+|{{Composition bar|0|550|hex=#FFDD00}}
+| -
+| -
+| -
+| -
+|[[Dosya:2002 dehap.png|küçükresim]]
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+*[https://web.archive.org/web/20050331065041/http://www.dehap.org.tr:80/ DEHAP ağ sayfası]
+
+{{Türk siyasi parti-taslak}}
+{{Kürt siyasi hareketi}}
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Türkiye'de kapatılan siyasi partiler]]
+[[Kategori:1997'de kurulan siyasi partiler]]
+[[Kategori:2005'te kapatılan siyasi partiler]]
+[[Kategori:Demokratik Toplum Hareketi]]
+[[Kategori:2005'te Türkiye'de feshedilmiş oluşumlar]]
+[[Kategori:Kürt siyasi hareketi]]
+[[Kategori:1997'de Türkiye'de kurulan oluşumlar]]

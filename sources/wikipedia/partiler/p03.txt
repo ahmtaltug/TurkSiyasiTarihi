@@ -1,0 +1,1105 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Milliyetçi Hareket Partisi
+| colorcode        = {{Siyasi parti renk|Milliyetçi Hareket Partisi}}
+| kısaltma         = MHP
+| amblem           = Milliyetçi Hareket Partisi Logo.svg<!--Güncel parti logosu. Logoyu lütfen değiştirmeyin, resmî internet sitesinde de bu kullanılıyor. -->
+| amblem_boyutu    = 240px
+| genel başkanı    = [[Devlet Bahçeli]]
+| genel sekreteri  = [[İsmet Büyükataman]]
+| lider1_başlık    = Kurucu
+| lider1_isim      = [[Alparslan Türkeş]]
+| slogan           = ''Vakit Tamamdır Söz Konusu Vatandır''<br>''Vazgeçilmez Yeminle''
+| kuruluş          = {{Açılış tarihi ve yaşı|1969|2|9}}<br>{{Açılış tarihi ve yaşı|1983|7|7}} <small>(yeniden kuruluş)</small><ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/sipar/4|başlık=Yargıtay Cumhuriyet Başsavcılığı - Milliyetçi Hareket Partisi|erişimtarihi=18 Eylül 2026|arşivurl=https://web.archive.org/web/20260915023908/https://www.yargitaycb.gov.tr/sipar/4|arşivtarihi=15 Eylül 2026|ölüurl=hayır}}</ref><br>{{Açılış tarihi ve yaşı|1993|1|24}} <small>(yeniden kuruluş)</small>
+| kapanış          = 16 Ekim 1981 (1993'te tekrar açıldı)
+| bölünme          = {{Daraltılabilir liste
+| bullets = no
+| title = Liste
+| [[Büyük Birlik Partisi]] (1993)
+| [[Aydınlık Türkiye Partisi]] (1998-2010)
+| [[İYİ Parti]] (2017)
+}}
+| birleşme         = [[Aydınlık Türkiye Partisi]] (2010)
+| öncülü           = [[Cumhuriyetçi Köylü Millet Partisi]] (1969)<br> [[Milliyetçi Çalışma Partisi]] (1993)
+| ardılı           = [[Muhafazakâr Parti (Türkiye)|Muhafazakâr Parti]] (1983)<br>[[Milliyetçi Çalışma Partisi]] (1985)
+| merkez           = [[Balgat]], [[Çankaya]], [[Ankara]]<ref>{{Web kaynağı|url=http://www.mhp.org.tr/htmldocs/iletisim/adres_telefon/mhp/adres_ve_telefonlar.html/site/bize-ulas%C4%B1n|başlık=Arşivlenmiş kopya|erişimtarihi=6 Şubat 2020|arşivurl=https://web.archive.org/web/20200205163606/http://www.mhp.org.tr/htmldocs/iletisim/adres_telefon/mhp/adres_ve_telefonlar.html/site/bize-ulas%25C4%25B1n|arşivtarihi=5 Şubat 2020|ölüurl=evet}}</ref>
+| gazete           = ''Türkgün''
+| televizyon       = [[Bengü Türk TV|Bengütürk TV]], Alptürk TV
+| gençlik_kolu     = [[Ülkü Ocakları]] (ilişkili){{refn|<ref name="Martin-Prager 2019">{{Kitap kaynağı |soyadı1=Martin |ad1=Augustus |soyadı2=Prager |ad2=Fynnwin |yıl=2019 |bölüm=Part II: The Terrorists – Violent Ideologies: Terrorism From the Left and Right |bölümurl=https://books.google.com/books?id=f8p-DwAAQBAJ&pg=PA302 |başlık=Terrorism: An International Perspective |yer=[[Thousand Oaks, Kaliforniya|Thousand Oaks, California]] |yayıncı=[[SAGE Publications]] |sayfa=302 |isbn=9781526459954 |lccn=2018948259 |arşivtarihi=13 Ocak 2023 |arşivurl=https://web.archive.org/web/20230113184247/https://books.google.com/books?id=f8p-DwAAQBAJ&pg=PA302 |ölüurl=hayır}}</ref><ref name="A9-0149/2022">{{Web kaynağı|soyadı=Sánchez Amor|ad=N.|tarih=25 Mayıs 2022|başlık=Document A9-0149/2022: REPORT on the 2021 Commission Report on Turkey|url=https://www.europarl.europa.eu/doceo/document/A-9-2022-0149_EN.html|ölüurl=hayır|yer=Bruxelles|yayıncı=[[Avrupa Parlamentosu|European Parliament]]|arşivurl=https://web.archive.org/web/20220827013558/https://www.europarl.europa.eu/doceo/document/A-9-2022-0149_EN.html|arşivtarihi=27 Ağustos 2022|erişimtarihi=28 Kasım 2022|alıntı=The European Parliament [...] is concerned by the attempts by the [[Government of Turkey|Turkish Government]] to influence members of the [[Turks in Europe|Turkish diaspora in the EU]], such as through the Presidency for Turks Abroad and Related Communities (YTB) and the [[Turkish-Islamic Union for Religious Affairs]] (DITIB), which could interfere with democratic processes in some Member States; remains worried that the racist right-wing extremist movement Ülkü Ocakları, also known as the Grey Wolves, which is closely linked to the ruling coalition Nationalist Movement Party (MHP), is spreading not only in Turkey but also in EU Member States; calls for the EU and its Member States to examine the possibility of banning their associations in EU countries; calls on the Member States to closely monitor the racist activities of this organisation and to fight back to curtail its influence;}}</ref><ref name="Taspinar 2005">{{Kitap kaynağı |soyadı=Taspinar |ad=Omer |yıl=2005 |bölüm=The Kurdish Question in Turkish Politics |bölümurl=https://books.google.com/books?id=RSCBJwBgfDIC&pg=PA92 |başlık=Kurdish Nationalism and Political Islam in Turkey: Kemalist Identity in Transition |yer=[[New York]] and [[Londra]] |yayıncı=[[Routledge]] |seri=Middle East Studies: History, Politics & Law |sayfalar=92-94|doi=10.4324/9780203327036 |isbn=9780415512848 |erişimtarihi=17 Kasım 2021 |arşivtarihi=13 Ocak 2023 |arşivurl=https://web.archive.org/web/20230113184249/https://books.google.com/books?id=RSCBJwBgfDIC&pg=PA92 |ölüurl=hayır}}</ref><ref name="Naylor 2006">{{Kitap kaynağı |soyadı=Naylor |ad=R. T. |yıl=2006 |bölüm=Striking Out! – Al-Qaida Cells in the Global Petrie Dish |bölümurl=https://books.google.com/books?id=XnrvAIB4PzkC&pg=PA296 |başlık=Satanic Purses: Money, Myth, and Misinformation in the War on Terror |yer=[[Montreal]] |yayıncı=[[McGill–Queen's University Press]] |sayfa=296 |isbn=9780773531505 |erişimtarihi=17 Kasım 2021 |arşivtarihi=13 Ocak 2023 |arşivurl=https://web.archive.org/web/20230113184247/https://books.google.com/books?id=XnrvAIB4PzkC&pg=PA296 |ölüurl=hayır}}</ref><ref name="hurriyet 2011">{{Haber kaynağı|başlık=Video shows Turkish police singing Grey Wolf march|url=http://www.hurriyetdailynews.com/default.aspx?pageid=438&n=elite-police-force-sings-grey-wolf-marches-2011-04-25|iş=[[Hürriyet Daily News]]|tarih=25 Nisan 2011|arşivurl=https://web.archive.org/web/20171019081819/http://www.hurriyetdailynews.com/default.aspx?pageid=438&n=elite-police-force-sings-grey-wolf-marches-2011-04-25|arşivtarihi=19 Ekim 2017|alıntı=The Grey Wolves, also commonly referred to as the Ülkü Ocakları (Idealist Hearths), are a youth organization with close links to the MHP.}} [https://newsturkish.com/elite-police-force-sings-grey-wolf-marches-2011-04-25.html Alt URL] {{Webarşiv|url=https://web.archive.org/web/20200801134527/https://newsturkish.com/elite-police-force-sings-grey-wolf-marches-2011-04-25.html |tarih=1 Ağustos 2020 }}</ref>}}
+| üyelik           = {{artış}} 501.122<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1158|başlık=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=14 Temmuz 2025|arşivurl=https://web.archive.org/web/20150214104944/http://www.yargitaycb.gov.tr/Partiler/mhp.html|arşivtarihi=14 Şubat 2015|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+* [[Ülkücülük]]<ref name="mhp.org.tr">{{Web kaynağı|url=https://www.mhp.org.tr/usr_img/_mhp2007/kitaplar/mhp_parti_programi_2009_opt.pdf|başlık=Arşivlenmiş kopya|erişimtarihi=28 Mayıs 2022|arşivurl=https://web.archive.org/web/20220305115238/http://www.mhp.org.tr/usr_img/_mhp2007/kitaplar/mhp_parti_programi_2009_opt.pdf|arşivtarihi=5 Mart 2022|ölüurl=hayır}}</ref>
+* [[Türk milliyetçiliği]]{{refn|<ref>{{Akademik dergi kaynağı |author=Arman, Murat Necip|başlık=The Sources Of Banality In Transforming Turkish Nationalism|dergi= CEU Political Science Journal|sayı=2|tarih= 2007 |sayfalar=133-151}}</ref><ref name="ReferenceA">{{konferans kaynağı|author=Eissenstat, Howard. |başlık=Anatolianism: The History of a Failed Metaphor of Turkish Nationalism|konferans=Middle East Studies Association Conference|yer=Washington, D.C.|tarih= November 2002}}</ref><ref>{{Akademik dergi kaynağı|author=Tachau, Frank. |başlık=The Search for National Identity among the Turks|dergi= Die Welt des Islams|seri= New Series|cilt= 8|sayı=3 |tarih=1963|sayfalar=165-176}}</ref><ref name="Cook">{{Akademik dergi kaynağı |ad=Steven A. |soyadı=Cook |başlık=Recent History: The Rise of the Justice and Development Party |dergi=U.S.-Turkey Relations: A New Partnership to|yayıncı=Council on Foreign Relations |yıl=2012 |sayfa=52}}</ref>}}
+* [[Türk-İslam sentezi]]<ref name="mhp.org.tr"/>
+* [[9 Işık Doktrini|Dokuz Işık]]<ref name="mhp.org.tr"/>}}{{daraltılabilir liste | title =Parti içi düşünceler:
+|[[Kemalizm|Atatürkçülük]]{{refn|<ref>{{Web kaynağı|url=https://www.hurriyet.com.tr/gundem/mhpli-cetin-ataturkun-partisinin-devami-mhpdir-40510475|başlık=Arşivlenmiş kopya|erişimtarihi=28 Mayıs 2022|arşivurl=https://web.archive.org/web/20220430160628/https://www.hurriyet.com.tr/gundem/mhpli-cetin-ataturkun-partisinin-devami-mhpdir-40510475|arşivtarihi=30 Nisan 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.yenicaggazetesi.com.tr/alparslan-turkesten-muhtesem-ataturk-tanimi-ataturke-iste-bu-yuzden-dusmanlar-454721h.htm|başlık=Arşivlenmiş kopya|erişimtarihi=28 Mayıs 2022|arşivurl=https://web.archive.org/web/20210601135137/https://www.yenicaggazetesi.com.tr/alparslan-turkesten-muhtesem-ataturk-tanimi-ataturke-iste-bu-yuzden-dusmanlar-454721h.htm|arşivtarihi=1 Haziran 2021|ölüurl=hayır}}</ref>}}
+|[[Turancılık]]<ref>{{Kitap kaynağı|soyadı1=Söyler|ad1=Mehtap|başlık=The Turkish Deep State: State Consolidation, Civil-Military Relations and Democracy|tarih=2015|yayıncı=Routledge|isbn=9781317668800|sayfa=119|url=https://books.google.com/books?id=CcKgBgAAQBAJ|dil=İngilizce|erişimtarihi=28 Mayıs 2022|arşivurl=https://web.archive.org/web/20211203094333/https://books.google.com/books?id=CcKgBgAAQBAJ|arşivtarihi=3 Aralık 2021|ölüurl=hayır}}</ref>
+|[[Avrupa şüpheciliği]]<ref>{{Web kaynağı|başlık = Euroscepticism: Party Ideology Meets Strategy|url = https://www.researchgate.net/publication/233292008|arşivurl = https://web.archive.org/web/20190527090639/https://www.researchgate.net/publication/233292008|arşivtarihi = 27 Mayıs 2019}}</ref>
+|[[Kültürel milliyetçilik]]{{refn|<ref name="Cook"/><ref>{{Akademik dergi kaynağı |ad=Fatma Müge |soyadı=Göçek |başlık=The Transformation of Turkey: Redefining State and Society from the Ottoman Empire to the Modern Era |yayıncı=I.B. Tauris |yıl=2011 |sayfa=56}}</ref><ref>{{Akademik dergi kaynağı |ad=Nathalie |soyadı=Tocci |yazarbağı=Nathalie Tocci |başlık=Turkey and the European Union |dergi=The Routledge Handbook of Modern Turkey |yayıncı=Routledge |yıl=2012 |sayfa=241}}</ref>}}
+|[[Sağ popülizm]]{{refn|<ref name="Farnen">{{Kitap kaynağı|editör1-soyadı=Farnen|editör1-ad=Russell F.|başlık=Nationalism, Ethnicity, and Identity: Cross National and Comparative Perspectives|tarih=2004|yayıncı=Transaction Secularism Publishers|isbn=9781412829366|sayfa=252|alıntı=..the nationalist-fascist Turkish National Movement Party (MHP).}}</ref><ref>{{Kitap kaynağı|soyadı1=Abadan-Unat|ad1=Nermin|başlık=Turks in Europe: From Guest Worker to Transnational Citizen|tarih=2011|yayıncı=Berghahn Books|yer=New York|isbn=9781845454258|sayfa=19|alıntı=...the fascist Nationalist Movement Party...}}</ref>}}
+|[[Sosyal muhafazakârlık]]<ref>{{Akademik dergi kaynağı|başlık=Turkey's Radical Right and the Kurdish Issue: The MHP's Reaction to the "Democratic Opening"|ad=Ödül|soyadı=Celep|yıl=2010|dergi=[[Insight Turkey]]|cilt=12|sayı=2}}</ref>
+|[[Millî muhafazakârlık]]<ref>{{Kitap kaynağı|başlık=Turkey and the European Union: Domestic Politics, Economic Integration and International Dynamics|yayıncı=Routledge|yıl=2004|sayfa=127|ad=Ali|soyadı=Carkoglu}}</ref>
+|[[Neo-faşizm]]{{refn|<ref name="Arıkan"/><ref name="Jacoby 2012 112"/><ref name="globalsecurity"/><ref name="thearabweekly"/><ref name="oxac"/>}}
+}}
+| pozisyon         = [[Aşırı sağ]]{{refn|<ref>[https://books.google.com/books?id=QnP1CwAAQBAJ&dq=Far-right+Nationalist+Movement+Party&pg=PA46 Turkey Recent Economic and Political Developments Yearbook Volume 1 - Strategic Information and Developments] {{Webarşiv|url=https://web.archive.org/web/20230514124743/https://books.google.com/books?id=QnP1CwAAQBAJ&dq=Far-right+Nationalist+Movement+Party&pg=PA46 |tarih=14 Mayıs 2023 }}. P.46. Published in July 2015 and updated annually. International Business Publications, Washington, USA. Accessed via Google books. Retrieved 16 February 2017.</ref><ref>[https://books.google.com/books?id=E0VDAwAAQBAJ&dq=Far-right+Nationalist+Movement+Party&pg=PA180 Global Turkey in Europe II. Energy, Migration, Civil Society and Citizenship Issues in Turkey-EU Relations.] {{Webarşiv|url=https://web.archive.org/web/20230406175856/https://books.google.com/books?id=E0VDAwAAQBAJ&dq=Far-right+Nationalist+Movement+Party&pg=PA180 |tarih=6 Nisan 2023 }} p.&nbsp;180. First published by Edizioni Nuova Cultura in 2014. Published in Rome, Italy. Accessed via Google books. Retrieved 16 February 2017.</ref><ref>[https://www.independent.co.uk/news/turkish-far-right-on-the-rise-1088461.html Turkish far right on the rise.] {{Webarşiv|url=https://web.archive.org/web/20131220012836/http://www.independent.co.uk/news/turkish-far-right-on-the-rise-1088461.html |tarih=20 Aralık 2013 }} The Independent. Author - Justin Huggler. Published 19 April 1999. Retrieved 16 February 2017.</ref><ref>{{Haber kaynağı |tarih= 13 Haziran 2011 |başlık= Turkey election: Victorious Erdogan pledges 'consensus' |url= https://www.bbc.co.uk/news/world-europe-13744972 |iş= BBC News |erişimtarihi= 27 Ekim 2019 |arşivurl= https://web.archive.org/web/20211104050815/https://www.bbc.co.uk/news/world-europe-13744972 |arşivtarihi= 4 Kasım 2021 |ölüurl= hayır }}</ref><ref>{{Haber kaynağı |tarih= 13 Haziran 2011 |başlık= Turkey's Erdogan wins election |url= https://www.rte.ie/news/2011/0612/302276-turkey/ |iş= RTÉ |erişimtarihi= 27 Ekim 2019 |arşivurl= https://web.archive.org/web/20211104040229/https://www.rte.ie/news/2011/0612/302276-turkey/ |arşivtarihi= 4 Kasım 2021 |ölüurl= hayır }}</ref><ref>{{Haber kaynağı |soyadı= Uras |ad= Umut |tarih= 29 Mart 2019 |başlık= New test for Erdogan: What's at stake in Turkish local elections? |url= https://www.aljazeera.com/news/2019/03/test-erdogan-stake-turkish-local-elections-190327190617999.html |iş= Al Jazeera |erişimtarihi= 27 Ekim 2019 |arşivurl= https://web.archive.org/web/20200922091423/https://www.aljazeera.com/news/2019/03/test-erdogan-stake-turkish-local-elections-190327190617999.html |arşivtarihi= 22 Eylül 2020 |ölüurl= hayır }}</ref>}}
+| ulusal           = [[Cumhur İttifakı]]
+| renkler          = {{Color box|#E30613|border=darkgray}} {{Color box|#53565A|border=darkgray}} [[Kırmızı]] ve [[gri]]
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|46|600|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye3_başlık = [[Türkiye'nin illeri|İl Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|8|51|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| sandalye4_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye4        = {{Composition bar|112|922|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| sandalye5_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye5        = {{Composition bar|98|390|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| sandalye6_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye6        = {{Composition bar|207|1282|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| sandalye7_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye7        = {{Composition bar|2715|20953|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| internet sitesi  = [http://www.mhp.org.tr mhp.org.tr]
+| bayrak           = Flag of the Nationalist Movement Party.svg
+| sembol           = [[Dosya:Election symbol of MHP.svg|75px]]
+| ülke             = {{TUR}}
+}}
+'''Milliyetçi Hareket Partisi''', 9 Şubat 1969 tarihinde [[Alparslan Türkeş]] liderliğinde kurulan ve [[Türkiye]]'de etkinlik gösteren bir siyasi partidir. Parti tüzüğüne göre resmî kısaltması "MHP" şeklindedir. Simgesi üç hilaldir. [[Türkiye Büyük Millet Meclisi]]nde, [[Adalet ve Kalkınma Partisi]] tarafından kurulan [[67. Türkiye Hükûmeti|67. Hükûmeti]] destekleyen 46 milletvekiliyle bir grubu bulunur. Genel başkanı [[Devlet Bahçeli]] olan parti ideoloji olarak; [[aşırı sağ]]cı, [[Aşırı milliyetçilik|aşırı milliyetçi]] ve [[Avrupa şüpheciliği|Avrupa şüphecisidir]]. Parti, kendisi olmadığını söylese de genellikle [[Neo-faşizm|neo-faşist]] olarak tanımlanır.<ref>{{Web kaynağı|url=https://abcgazetesi.com.tr/devlet-bahceli-fasizmle-milliyetciligi-irkla-milleti-bir-ve-ayni-gormek-cahilliktir-809360|başlık=Devlet Bahçeli: "Faşizmle milliyetçiliği, ırkla milleti bir ve aynı görmek cahilliktir"|erişimtarihi=4 Haziran 2026|tarih=3 Mayıs 2025|dil=Türkçe|çalışma=ABC Haber}}</ref>{{refn|<ref name="Arıkan">{{Kitap kaynağı |ad=E. Burak |soyadı=Arıkan |başlık=The Programme of the Nationalist Action Party: An Iron Hand in a Velvet Glove? |iş=Turkey Before and After Atatürk |yayıncı=Frank Cass |yıl=1999 |sayfa=122}}</ref><ref name="Jacoby 2012 112">{{Kitap kaynağı |ad=Tim |soyadı=Jacoby |başlık=Fascism, Civility and the Crisis of the Turkish State |iş=Political Civility in the Middle East |yayıncı=Routledge |yıl=2012 |sayfa=112}}</ref><ref name="globalsecurity">{{Web kaynağı|url=https://www.globalsecurity.org/military/world/europe/tu-political-party-mhp.htm|başlık=Turkey - Nationalist Movement Party (MHP Milliyetçi Hareket Partisi)|erişimtarihi=13 Mayıs 2024|çalışma=globalsecurity.org|arşivurl=https://web.archive.org/web/20220120152146/https://www.globalsecurity.org/military/world/europe/tu-political-party-mhp.htm|arşivtarihi=20 Ocak 2022|ölüurl=hayır}}</ref><ref name="thearabweekly">{{Web kaynağı|url = https://thearabweekly.com/grey-wolves-turkeys-neo-fascist-group-banned-france|başlık = Grey Wolves, Turkey's neo-fascist group that is banned in France|arşivurl = https://web.archive.org/web/20201110092312/https://thearabweekly.com/grey-wolves-turkeys-neo-fascist-group-banned-france|arşivtarihi = 10 Kasım 2020}}</ref><ref name="oxac">{{Akademik dergi kaynağı|url=https://www.academia.edu/74939630/The_Construction_of_Nationalist_Politics_in_Turkey_The_MHP_1965_1980|başlık=The Construction of Nationalist Politics in Turkey: The MHP: 1965-1980.|ad=Ali|soyadı=Erken|erişim-tarihi=13 Mayıs 2024|arşivurl=https://web.archive.org/web/20240513130738/https://www.academia.edu/74939630/The_Construction_of_Nationalist_Politics_in_Turkey_The_MHP_1965_1980|arşivtarihi=13 Mayıs 2024|ölüurl=hayır}}</ref>}} ve bazı şiddet yanlısı [[Yarı askerî|paramiliter gruplar]]<ref name="Sullivan 2011 236">{{Kitap kaynağı |ad=Colleen |soyadı=Sullivan |başlık=Grey Wolves |iş=The SAGE Encyclopedia of Terrorism |basım=Second|yayıncı=Sage |yıl=2011 |sayfa=236}}</ref> ve [[Türk mafyası|organize suç örgütleri]] ile bağlantılıdır.
+
+Parti, 1965'te [[Cumhuriyetçi Köylü Millet Partisi]]'nin lideri olan, daha önce [[Türk Kara Kuvvetleri]]'nde albaylık yapmış olan [[Alparslan Türkeş]] tarafından 1969 yılında kuruldu. 20. yüzyılın ikinci yarısı boyunca esas olarak [[Türkçülük|Türkçü]] ve [[Türk milliyetçiliği|Türk milliyetçisi]] bir siyasi gündem izledi. [[Devlet Bahçeli]], 1997'de Türkeş'in ölümünden sonra liderliği devraldı. Partinin gençlik kolu, 1970'lerde Türkiye'de yaşanan [[Türkiye'de sağ-sol çatışması|sağ-sol çatışmasında]] aktif bir taraf olan [[Ülkü Ocakları]]'dır.
+
+Alparslan Türkeş, [[Cumhuriyet Halk Partisi]]'ni (CHP) kurucusu [[Mustafa Kemal Atatürk]]'ün milliyetçi ilkelerinden çok uzaklaşmakla eleştirdikten sonra, CHP Atatürk'ün ideolojik çizgisinden sapmasaydı MHP'yi kurmayacağını iddia etti.<ref name="ulkuocaklari.org.tr">{{Web kaynağı|url=http://www.ulkuocaklari.org.tr/biz-kimiz-saday-alisov.html|başlık=Biz Kimiz? – Ahmet Şefki Kuzulu - Ülkü Ocakları Eğitim ve Kültür Vakfı|erişimtarihi=16 Kasım 2015|arşivurl=https://web.archive.org/web/20170302233245/http://www.ulkuocaklari.org.tr/biz-kimiz-saday-alisov.html|arşivtarihi=2 Mart 2017|ölüurl=evet}}</ref> MHP, [[1973 Türkiye genel seçimleri|1973]] ve [[1977 Türkiye genel seçimleri|1977 genel seçimleri]]nde [[Milliyetçi Cephe hükûmetleri]]nde yer almaya yetecek kadar sandalye kazandı. Parti, [[12 Eylül Darbesi|12 Eylül 1980 Darbesi]]'nden sonra kapatıldı, ancak 1993'te orijinal adıyla yeniden kuruldu. Türkeş'in ölümü ve Devlet Bahçeli'nin halefi olarak [[1997 Milliyetçi Hareket Partisi Olağanüstü Kongresi|seçilmesi]]nden sonra parti, [[1999 Türkiye genel seçimleri|1999 genel seçimleri]]nde oyların %18'ini ve 129 sandalyeyi alarak tarihinin en iyi seçim sonucunu aldı. Bahçeli, [[Demokratik Sol Parti]] (DSP) ve [[Anavatan Partisi]] (ANAP) ile [[57. Türkiye Hükûmeti|koalisyon]]a girdikten sonra başbakan yardımcısı oldu, ancak erken seçim çağrıları 2002'de hükûmetin dağılmasına neden oldu. [[2002 Türkiye genel seçimleri|2002 genel seçimleri]]nde MHP, yeni kurulan [[Adalet ve Kalkınma Partisi|AK Parti]]'nin çoğunluğu kazanmasının ardından %10'luk barajın altına düşmüş ve meclisteki tüm temsiliyetini kaybetmiştir.
+
+Parti, oyların %14,27'sini aldığı [[2007 Türkiye genel seçimleri|2007 genel seçimleri]]nden sonra, hükûmet ile [[PKK|ayrılıkçılar]] arasındaki [[Çözüm Süreci|barış görüşmeleri]]ne şiddetle karşı çıkmış ve AK Parti hükûmetini yolsuzluk ve otoriterlik üzerinden şiddetle eleştirmiştir. Bununla birlikte, [[2007 Türkiye cumhurbaşkanlığı seçimi|2007 cumhurbaşkanlığı seçimleri]] ve [[Türkiye'de başörtüsü yasağı|başörtüsü yasağının kaldırılması]] gibi durumlarda AK Parti ile birlikte hareket etmiştir. Bahçeli, 2016'dan bu yana [[Recep Tayyip Erdoğan]]'ı ve AK Parti'yi açıkça desteklemektedir. Bu durum, [[2016 Milliyetçi Hareket Partisi Olağanüstü Kongresi|parti içinde bir bölünmeye]] neden oldu ve [[Meral Akşener]]'in daha ılımlı bir hareket olan [[İYİ Parti]]'yi kurmak için MHP'den ayrılmasına neden oldu. MHP, [[2017 Türkiye anayasa değişikliği referandumu|2017 referandumu]]nda 'Evet' seçeneğini destekledi ve [[2018 Türkiye genel seçimleri|2018 genel seçimlerinden itibaren]] AK Parti ile [[Cumhur İttifakı]]'nı oluşturdu.<ref name=":1">{{Haber kaynağı|iş=[[Reuters]]|tarih=21 Şubat 2018|başlık=Erdogan's AKP says to ally with nationalists for 2019 elections|url=https://www.reuters.com/article/us-turkey-election-regulation/erdogans-akp-says-to-ally-with-nationalists-for-2019-elections-idUSKCN1G52DP|erişimtarihi=30 Ocak 2022|arşivurl=https://web.archive.org/web/20220130112920/https://www.reuters.com/article/us-turkey-election-regulation/erdogans-akp-says-to-ally-with-nationalists-for-2019-elections-idUSKCN1G52DP|arşivtarihi=30 Ocak 2022|ölüurl=hayır}}</ref> Günümüzde de AK Parti liderliğindeki Cumhur İttifakı'nın bir parçasıdır.
+
+==Tarihçe ==
+=== 1969-1980 ===
+[[Dosya:MHP Symbol.svg|sol|küçükresim|upright=0.55|Partinin kırmızı zeminde üç hilalli sembolü]]
+MHP, 8-9 Şubat 1969 günlerinde [[Adana]]'da yapılan genel kongrede [[Cumhuriyetçi Köylü Millet Partisi]]'nin adını Milliyetçi Hareket Partisi olarak değiştirmesiyle kurulmuştur.<ref>{{Web kaynağı|url = http://www.mhp.org.tr/mhp_tarihce.php|başlık = MHP Tarihçe|yayımcı = mhp.org.tr|erişimtarihi = 28 Şubat 2015|dil = Türkçe|arşivengelli = evet|arşivurl = https://web.archive.org/web/20120207214641/http://www.mhp.org.tr/mhp_tarihce.php|arşivtarihi = 7 Şubat 2012|ölüurl =}}</ref> Büyük Kongreden sonra toplanan ilk genel idare kurulunda partinin amblemi "Üç Hilâl" olarak kararlaştırılmış ve aynı toplantıda [[Ülkü Ocakları]] için de "Hilâl İçinde Kurt" amblemi benimsenmiştir. MHP'nin bir de [[Türkler]]in özgürlüğünü temsil ettiğine inanılan [[Bozkurt (mitoloji)|bozkurt]] işareti vardır.
+[[Dosya:Wolfsgruß Graue Woelfe.jpg|küçükresim|upright=0.91|"Bozkurt işareti" olarak adlandırılan sembol, partililer tarafından sıklıkla kullanılmaktadır.|upright=0.91]]
+MHP, katıldığı ilk genel seçim olan [[1969 Türkiye genel seçimleri|1969 genel seçimleri]]nde %3 oy aldı. Adana'dan milletvekili seçilen [[Alparslan Türkeş]] partisinin tek milletvekili oldu; MHP 1973'e kadar MHP mecliste bir kişiyle temsil edildi. [[1973 Türkiye genel seçimleri|1973 genel seçimleri]]nde 3 milletvekiliyle meclise girdi. 1 Nisan 1975'te [[39. Türkiye Hükûmeti|I. Milliyetçi Cephe Hükûmeti]]'ne girdi. Alparslan Türkeş ve [[Mustafa Kemal Erkovan]] kabinede yer aldı. 5 Haziran 1977'de yapılan [[1977 Türkiye genel seçimleri|genel seçimler]]de oy oranını %3.4'ten, %6.4'e çıkartarak 16 milletvekiliyle mecliste grup oluşturdu ve senatoya bir üye soktu, bu seçimin ardından kurulan [[41. Türkiye Hükûmeti|II. Milliyetçi Cephe Hükûmeti]]'nde ise biri başbakan yardımcılığı olmak üzere beş bakanlıkla temsil edilerek büyük bir atılımda bulundu.<ref>[[Alparslan Türkeş]], [[Agah Oktay Güner]], [[Cengiz Gökçek]], [[Gün Sazak]] ve [[Sadi Somuncuoğlu]].</ref>
+
+Milliyetçi Hareket Partisi, milliyetçi muhafazakâr tabana seslendi. [[Millî Selamet Partisi]] (MSP) ile görüş farklılığı [[milliyetçilik]] üzerindeydi. [[Alparslan Türkeş]] "Başbuğ" olarak nitelendiriliyordu. MHP, Ülkücü Gençlik Derneği (ÜGD), Milliyetçi İşçi Sendikaları Konfederasyonu (MİSK) ve Polis Birliği Derneği (POL-BİR) kuruluşlarıyla toplumsal örgütlenmeye gitti. Birçok MHP'li 1970'lerdeki çatışmalarda sol görüşlüler tarafından öldürüldü. Ülkücülerin çatışmalara çekilmesinin fitilini, Ankara Erkek Teknik Yüksek Öğretmen Okulu öğrencisi ülkücü [[Ertuğrul Dursun Önkuzu]]'nun sol görüşlü öğrencilerce 3 gün boyunca işkence edilerek, 23 Kasım 1970 tarihinde öldürülmesi olayı ateşledi. Bu olaydan sonra, sol görüşlü gençlerle, ülkücü gençler sık sık çatıştı. Ülkücü gazeteci, yazar ve milletvekili [[İlhan Egemen Darendelioğlu|İlhan Darendelioğlu]], milletvekili ve bakan [[Gün Sazak]], MHP İstanbul İl Başkanı [[Recep Haşatlı]] ve oğlu sol örgütlerin düzenlediği faili meçhul suikastlerde öldürüldüler.
+
+MHP 1975'ten [[12 Eylül Darbesi]]'ne kadar bütün yurtta yaşanan terör olaylarında, [[Ülkü Ocakları]]'nın partiyle ilişkilendirilip suçlanmasıyla karşılaştı. [[Ülkücülük|Bozkurtlar]] veya "komando" olarak nitelenen gençler ile sosyalist sol militanların çatışması birçok kaynakta ülkenin bir iç savaşa sürüklendiği şeklinde yorumlandı ve askerler darbeden sonraki bildirilerinde en çok buna vurgu yaptılar. Bozkurtların baş sloganı ''Tanrı Türk'ü Korusun'' şeklindeydi. Parti bazılarınca [[nasyonal sosyalizm|nasyonal sosyalistlikle]] suçlandı, [[Solculuk|sol]] görüş taraftarlarınca [[faşist]]likle itham edildi. Partililer her iki suçlamayı da reddetti ve [[Mustafa Kemal Atatürk|Atatürk]] ilkelerine uygun olarak "Türk-İslam Ülküsü" (Ülkücülük) görüşünü savunduklarını dile getirdiler. MHP içindeki çalkantılarda görüşleri ırkçılığa yakın olarak tanımlananlar zamanla partiden atıldı. [[Alparslan Türkeş|Türkeş]], 1976'da [[Mekke]]'ye gidip hacı oldu. 1977'de MSP'den umudunu kestiğini açıklayan [[Necip Fazıl Kısakürek]]'in desteğini kazandı. MHP'nin resmî günlük gazetesi ''Hergün'' gazetesiydi. Daha akademik olan ''[[Ortadoğu (gazete)|Ortadoğu]]'' gazetesinde milliyetçi ve mukaddesatçı profesörler yazıyordu. ''Bayrak'', ''[[Millet (gazete)|Millet]]'' ve ''[[Millî Ülkü (gazete)|''Millî Ülkü'']]'' gazeteleri ile [[Adalet Partisi (1961-1981)|Adalet Partisi]]'nin yayın organları da partiye destek veriyordu. [[Töre (dergi)|Töre]] dergisi partinin görüşlerini bilimsel tabanda araştırıyordu.
+
+===12 Eylül Dönemi (1980-1983)===
+{{Ana|12 Eylül Darbesi}}
+[[12 Eylül Darbesi]]'nden sonra MHP, diğer partiler gibi 16 Ekim 1981'de kapatıldı. MHP ve Ülkücü kuruluşlar hakkında 1981 yılının Nisan ayında hazırlanan iddianame ile açılan davada toplam 389 sanıktan Türkeş ile birlikte idamı istenenlerin sayısı 49 iken; 212 sanık için de farklı sürelerde ağır hapis cezası istendi. 6 yıl süren MHP ve Ülkücü Kuruluşlar Davası'nın ardından, tüm sanıkların arasından 5 idam ve 9 ömür boyu hapis kararı çıkarken; 219 sanık çeşitli hapis cezalarına çarptırıldı.<ref>[https://gcris.pau.edu.tr/bitstream/11499/2059/1/Merve%20G%c3%bcndo%c4%9fan.pdf Milliyetçi Siyasette Bir Fikir ve Aksiyon Adamı; Agah Oktay Güner] {{Webarşiv|url=https://web.archive.org/web/20240724125705/https://gcris.pau.edu.tr/bitstream/11499/2059/1/Merve%20G%C3%BCndo%C4%9Fan.pdf |tarih=24 Temmuz 2024 }}, Merve Gündoğan, 2017</ref> Alparslan Türkeş de bu dava sonucunda 9 yılı geçkin hapis cezasına çarptırılmış ve bilfiil 4,5 yıl cezaevinde yatmıştır.<ref name="indyturk.com">{{haber kaynağı |soyadı1=Yıldırım |ad1=Tercan |başlık=“Devletçi milliyetçilikten milletçi milliyetçiliğe”: Muhsin Yazıcıoğlu (1) |url=https://www.indyturk.com/node/154256/t%C3%BCrkiyeden-sesler/%E2%80%9Cdevlet%C3%A7i-milliyet%C3%A7ilikten-millet%C3%A7i-milliyet%C3%A7ili%C4%9Fe%E2%80%9D-muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu |erişimtarihi=27 Temmuz 2022 |yayıncı=Independent Türkçe |tarih=28 Mart 2020 |arşivurl=https://web.archive.org/web/20220727063254/https://www.indyturk.com/node/154256/t%C3%BCrkiyeden-sesler/%E2%80%9Cdevlet%C3%A7i-milliyet%C3%A7ilikten-millet%C3%A7i-milliyet%C3%A7ili%C4%9Fe%E2%80%9D-muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu |arşivtarihi=27 Temmuz 2022 |ölüurl=hayır }}</ref> 12 Eylül dönemi boyunca 9 ülkücü görüşlü idam edildi.<ref>[https://www.benguturk.com/tarihin-kara-lekesi-12-eylul-darbesi-dar-agacinda-dokuz-karanfil "Tarihin Kara Lekesi: 12 Eylül Darbesi"] {{Webarşiv|url=https://web.archive.org/web/20240912120938/https://www.benguturk.com/tarihin-kara-lekesi-12-eylul-darbesi-dar-agacinda-dokuz-karanfil |tarih=12 Eylül 2024 }}, benguturk.com</ref>
+
+=== 1983-1993 ===
+{{Ana|Muhafazakâr Parti (Türkiye)|Milliyetçi Çalışma Partisi}}
+12 Eylül 1980 Darbesi'nin ardından kapatılan MHP çizgisi, 1983 yılında yeni siyasal partiler kurulmasına izin verilince [[Mehmet Pamak]] tarafından kurulan [[Muhafazakâr Parti (Türkiye)|Muhafazakâr Parti]] tarafından temsil edilmiştir. Bu parti 1985 yılında adını [[Milliyetçi Çalışma Partisi]] olarak değiştirmiştir. [[1987 Türkiye anayasa değişikliği referandumu|1987 referandumundan]] sonra Türkeş'in siyasi yasağı kalkınca, MHP'nin tarihsel lideri, [[Milliyetçi Çalışma Partisi|MÇP]] genel başkanı olmuştur.
+
+7 Temmuz 1992'de, Ülkücü Gençlik Derneği eski genel başkanı ve Sivas milletvekili [[Muhsin Yazıcıoğlu]], Türkeş'i eleştirerek arkadaşlarıyla birlikte MÇP'den istifa etti.<ref name="indyturk.com"/> MÇP'den ayrılan Yazıcıoğlu ve bir grup arkadaşı, 29 Ocak 1993'te [[Büyük Birlik Partisi]]ni (BBP) kurdu ve Yazıcıoğlu partinin genel başkanı oldu.
+
+=== 1993-1997 ===
+27 Aralık 1992'de, 1979 yılındaki delegeleriyle toplanan MÇP Kurultayı, [[Sadi Somuncuoğlu]]'nun tüm çabalarına karşın MÇP'nin feshine, 24 Ocak 1993 tarihinde yapılan olağanüstü kongreyle ise partinin adının MHP olarak değiştirilmesine karar vermiştir.
+
+[[1994 Türkiye yerel seçimleri|1994 yerel seçimleri]]nde [[Amasya]], [[Çankırı]], [[Erzincan]], [[Kars]], [[Kastamonu]], [[Kırşehir]] ve [[Yozgat]] illerinin belediyeleriyle birlikte toplam 118 belediye başkanlığını kazandı.
+
+[[1995 Türkiye genel seçimleri|Aralık 1995 genel seçimleri]]nde %8,2 oy alan MHP, %10'luk [[seçim barajı]]nı aşamadığı için milletvekili çıkaramadı.
+
+=== 1997-2002 ===
+MHP Genel Başkanı [[Alparslan Türkeş]]'in ölümünden sonra, [[1997 Milliyetçi Hareket Partisi Olağanüstü Kongresi|18 Mayıs 1997 tarihinde gerçekleştirilen parti kongresinde]] 6 aday genel başkanlık için yarıştı. Birinci tur oylamada [[Tuğrul Türkeş]] 412, [[Devlet Bahçeli]] 359, [[Ramiz Ongun]] 231, [[Enis Öksüz]] 104, [[Muharrem Şemsek]] 80, İbrahim Çiftçi 13 oy aldı. Çıkan kavga nedeniyle kongre ileri bir tarihe ertelendi. 6 Temmuz 1997'de yapılan ikinci tur oylamada Alparslan Türkeş'in oğlu [[Tuğrul Türkeş]] 487 oy alırken, 697 oy alan [[Devlet Bahçeli]] genel başkanlığa seçildi. 23 Kasım 1997'de yapılan olağan kongrede Bahçeli ve Türkeş, genel başkanlık için tekrar karşı karşıya geldi. Yapılan seçimde 483 oy alan rakibi karşısında 671 oy alan Bahçeli tekrar genel başkan seçildi.<ref>{{kitap kaynağı |soyadı1=Suavi Aydın |ad1=Yüksel Taşkın |başlık=1960'tan Günümüze Türkiye Tarihi |tarih=2014 |yayıncı=İletişim Yayınları |yer=İstanbul |isbn=978-975-05-1462-3 |sayfa=452 |basım=2014}}</ref>
+
+[[1999 Türkiye yerel seçimleri|1999 yerel seçimleri]]nde [[Afyonkarahisar]], [[Aksaray]], [[Amasya]], [[Bayburt]], [[Çankırı]], [[Erzincan]], [[Erzurum]], [[Gümüşhane]], [[Iğdır]], [[Isparta]], [[Kastamonu]], [[Karaman]], [[Kırıkkale]], [[Kırklareli]], [[Kırşehir]], [[Malatya]], [[Muş]], [[Niğde]], [[Osmaniye]], [[Uşak]] ve [[Yozgat]] illerinin belediyeleriyle beraber toplam 498 belediye kazandı.
+
+MHP, [[1999 Türkiye genel seçimleri]]nde %17.98 oy alarak DSP'nin ardından en çok oy alan ikinci parti oldu ve 129 milletvekili çıkardı.<ref>{{Web kaynağı|url = http://www.belgenet.net/ayrinti.php?yil_id=13|başlık = 1999 Yılı Genel Seçim Sonuçları|yayımcı = belgenet.net|erişimtarihi = 28 Şubat 2015|dil = Türkçe|arşivengelli = evet|arşivurl = https://web.archive.org/web/20120427210516/http://www.belgenet.net/ayrinti.php?yil_id=13|arşivtarihi = 27 Nisan 2012|ölüurl =}}</ref> Kurulan [[Demokratik Sol Parti|DSP]]-MHP-[[Anavatan Partisi|ANAP]] koalisyonunda, biri başbakan yardımcılığı olmak üzere 12 bakanlık alarak, ikinci büyük koalisyon ortağı oldu. [[57. Türkiye Hükûmeti|V. Ecevit Hükûmeti]]'ne katılırken [[Rahşan Ecevit]]'le sorun yaşayan MHP, yine de koalisyonda uyumla çalıştı, ancak ekonominin çökmesi üzerine dışarıdan getirilen [[Kemal Derviş]] ile uyuşamadı.{{kaynak belirt}} Parti, [[Rahşan Affı]]'na destek verdi ve af yasasının çıkarılmasını sağladı. Eylül 2002'ye gelindiğinde [[Türkiye Büyük Millet Meclisi|TBMM]]'de 125 milletvekili kalmıştı.
+
+Daha sonra iktidardayken Genel Başkan [[Devlet Bahçeli]]'nin isteği üzerine Temmuz 2002'de alınan kararla erken seçime gidildi. 3 Kasım 2002 tarihinde yapılan [[2002 Türkiye genel seçimleri|genel seçimlerde]] MHP için büyük bir yıkım oldu ve %18 olan oy oranı %8.3'e düştüğünden MHP parlamentoya giremedi.
+
+===2002-2016===
+[[Dosya:MHP Igdir.jpg|küçükresim|Partinin [[Iğdır (il)|Iğdır]] İl Başkanlığı binası|200x200pik]]
+2002 seçimlerinde partinin seçim barajı altında kalarak [[Türkiye Büyük Millet Meclisi|TBMM]]'de temsil edilme imkanını yitirmesinden sonra Genel Başkan Bahçeli, "Sorumluluk şahsıma aittir" diyerek, 2003'te toplanacak olağanüstü kurultayda genel başkanlığı bırakacağını açıkladı. 12 Ekim 2003'te toplanan parti kongresinde Bahçeli, en yakın rakibi Ramiz Ongun'un 300 oyuna karşılık 688 oy alarak yeniden genel başkan seçildi.
+
+[[2004 Türkiye yerel seçimleri|2004 yerel seçimlerinde]]'nde [[Kastamonu]], [[Niğde]], [[Gümüşhane]], [[Iğdır]] illerinin belediyeleriyle beraber toplam 247 belediye kazandı. 1999'da kazandığı [[Kırklareli]] [[Cumhuriyet Halk Partisi|CHP]]'ye diğer şehirler [[Adalet ve Kalkınma Partisi|AK Parti]]'ye geçti.
+
+[[2007 Türkiye genel seçimleri]]nde %14.29 oy alarak 71 milletvekilliği kazanmış ve mecliste yeniden grup kurmuştur.
+
+[[2009 Türkiye yerel seçimleri|2009 yerel seçimleri]]nde, biri büyükşehir olmak üzere 10 ilin belediye başkanlığını, toplamda da 490 belediye başkanlığı kazanmıştır. Bu seçimde [[Adalet ve Kalkınma Partisi|AK Parti]]'nin elindeki [[Adana]], [[Balıkesir]], [[Isparta]], [[Manisa]], [[Karabük]], [[Osmaniye]], [[Uşak]] ve [[Demokratik Sol Parti|DSP]]'nin elinde bulundurduğu [[Bartın]] belediye başkanlıklarını kazanırken kendi elinde bulundurduğu [[Niğde]] belediyesi [[Adalet ve Kalkınma Partisi|AK Parti]]'ye geçti. Ayrıca [[Gümüşhane]] ve [[Kastamonu]] belediyelerini de tekrar kazandı.
+
+[[Dosya:Devlet Bahçeli Ankara Miting 3.jpg|küçükresim|Partinin Ankara mitingi, 2015|upright=0.91]]
+[[2011 Türkiye genel seçimleri]]nde %14,27 oy almış ve mecliste 53 milletvekilliği kazanmıştır. [[Iğdır]]'da en yüksek oyu almıştır.
+
+[[2014 Türkiye yerel seçimleri]]nde [[Adalet ve Kalkınma Partisi|AK Parti]]'nin elinde bulundurduğu [[Kars]]'ı ve [[Cumhuriyet Halk Partisi|CHP]]'nin elinde bulundurduğu [[Mersin]]'i kazandı. [[Adana]], [[Isparta]], [[Karabük]], [[Manisa]], [[Bartın]] ve [[Osmaniye]] belediyelerini de tekrar kazanırken, [[Balıkesir]], [[Kastamonu]], [[Gümüşhane]] ve [[Uşak]] belediyeleri [[Adalet ve Kalkınma Partisi|AK Parti]]'ye geçti. Ayrıca il belediyeleriyle beraber 116 belediye kazandı.
+
+[[Haziran 2015 Türkiye genel seçimleri]]nde %16,29 oy alarak 80 milletvekilliği kazanmış ve yeniden grup kurmuştur. Birinci olabildiği tek il ise [[Devlet Bahçeli]]'nin memleketi [[Osmaniye]] olmuştur.
+
+[[Kasım 2015 Türkiye genel seçimleri]]nde %11.94 oy alarak 40 milletvekili çıkartmıştır ve grup kurmuştur.
+
+==== Kurultay süreci ====
+[[Dosya:Meral Akşener delivering a speech.jpg|sol|küçükresim|Meral Akşener ve muhalifler, 2016]]
+[[Kasım 2015 Türkiye genel seçimleri|Kasım 2015 genel seçimleri]]nden sonra MHP'de 547 delege olağanüstü kurultay taleplerini MHP Genel Merkezi'ne iletti. [[Meral Akşener]], [[Sinan Oğan]] ve [[Koray Aydın]] kurultay çağrısında bulundu ve genel başkan adayı olduklarını açıkladılar. Fakat Bahçeli yaptığı açıklamayla kurultay çağrılarını reddetti, kurultay tarihi olarak 18 Mart 2018 tarihini işaret etti.<ref name=":0">{{Web kaynağı|url=https://www.bbc.com/turkce/haberler/2016/04/160408_mhp_karar|başlık=Yargı, MHP için kurultay kararı verdi|erişimtarihi=13 Mayıs 2024|tarih=8 Nisan 2016|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20170312094043/http://www.bbc.com/turkce/haberler/2016/04/160408_mhp_karar|arşivtarihi=12 Mart 2017|ölüurl=hayır}}</ref> Muhaliflerin avukatları "Kurultay Çağrı Heyeti" oluşturularak, partinin olağanüstü kurultaya götürülmesi talebiyle Ankara 12. Sulh Hukuk Mahkemesinde dava açtı. Parti yönetimi imzalarla ilgili açılan davada karar vermek için Ankara 2. Sulh Ceza Mahkemesinden süre istedi.<ref name=":0" />
+
+Bahçeli'ye karşı genel başkanlığını ilan eden 6 muhalif adayın katılımıyla MHP'nin [[2016 Milliyetçi Hareket Partisi Olağanüstü Kongresi|6. Olağanüstü Büyük Kongresi]] toplandı. Tüzük kurultayı olarak tanımlanan kongrede, genel merkez aksini iddia etse de kurultay toplanma sayısına ulaşıldığı noter huzurunda teyit edildi. Kongrede kabul edilen değişiklik önerileriyle parti tüzüğündeki 13 madde yenilendi. Değişikliklerle birlikte parti tüzüğündeki 'olağanüstü kurultaylarda genel başkan seçimi yapılmasını' engelleyen madde 'seçim yapılabilir' şeklinde değiştirildi.<ref>{{Web kaynağı|url=http://www.dw.com/tr/mhpde-neler-oluyor/a-19341948|başlık=MHP'de neler oluyor?|erişimtarihi=23 Haziran 2016|arşivtarihi=23 Haziran 2016|arşivurl=https://web.archive.org/web/20160623111518/http://www.dw.com/tr/mhpde-neler-oluyor/a-19341948|ölüurl=hayır}}</ref>
+
+10 Temmuz'da yapılması beklenen seçimli kongre YSK tarafından iptal edildi.<ref>{{Web kaynağı|url=http://www.diken.com.tr/ysk-kararini-verdi-mhpde-10-temmuzda-kongre-yapilamaz/|başlık=YSK kararını verdi: MHP’de 10 Temmuz’da kongre yapılamaz|erişimtarihi=11 Temmuz 2016|arşivtarihi=2 Temmuz 2016|arşivurl=https://web.archive.org/web/20160702140259/http://www.diken.com.tr/ysk-kararini-verdi-mhpde-10-temmuzda-kongre-yapilamaz/|dil=Türkçe|yayıncı=Diken}}</ref> Bu da, parti içi muhalefette tepkiye yol açtı ve [[İYİ Parti]]'nin kurulmasına neden oldu.
+
+=== 2016-günümüz ===
+[[Dosya:MHP 12th ordinary congress.jpg|küçükresim|Partinin 12. olağan kurultayı, 2018|upright=0.91]]
+[[2018 Türkiye genel seçimleri|2018 genel seçimleri]]nde [[Adalet ve Kalkınma Partisi|AK Parti]] ile [[Cumhur İttifakı]]'nı kuran MHP, %11,10 oy alarak 49 milletvekili kazandı. [[2018 Türkiye cumhurbaşkanlığı seçimi|2018 Türkiye cumhurbaşkanlığı seçimleri]]nde aday çıkarmayarak [[Adalet ve Kalkınma Partisi|AK Parti]] Genel Başkanı ve mevcut Cumhurbaşkanı [[Recep Tayyip Erdoğan]]'ı destekledi.
+
+[[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]]nde [[Adalet ve Kalkınma Partisi|AK Parti]] ile [[Cumhur İttifakı]]'nı devam ettiren MHP; [[Adalet ve Kalkınma Partisi|AK Parti]]'nin elindeki [[Amasya]], [[Bayburt]], [[Çankırı]], [[Erzincan]], [[Karaman]], [[Kastamonu]] ve [[Kütahya]] belediye başkanlıklarını kazanırken [[Bartın]], [[Karabük]], [[Manisa]] ve [[Osmaniye]] belediyelerini de tekrar kazandı. [[Isparta]] belediyesi [[Adalet ve Kalkınma Partisi|AK Parti]]'ye, [[Adana]] ve [[Mersin]] belediyeleri [[Cumhuriyet Halk Partisi|CHP]]'ye ve [[Kars]] belediyesi [[Halkların Demokratik Partisi|HDP]]'ye karşı kaybedildi. MHP il belediyeleriyle birlikte 234 belediye kazandı.
+
+[[2023 Türkiye genel seçimleri|2023 genel seçimleri]]nde de [[Adalet ve Kalkınma Partisi|AK Parti]] ile [[Cumhur İttifakı]]'nı devam ettiren MHP, %10,07 oy alarak 50 milletvekili kazandı. [[2023 Türkiye cumhurbaşkanlığı seçimi|2023 Türkiye cumhurbaşkanlığı seçimleri]]nde aday çıkarmayarak [[Adalet ve Kalkınma Partisi|AK Parti]] Genel Başkanı ve mevcut Cumhurbaşkanı [[Recep Tayyip Erdoğan]]'ı destekledi.
+
+[[2024 Türkiye yerel seçimleri|2024 yerel seçimleri]]nde de [[Adalet ve Kalkınma Partisi|AK Parti]] ile [[Cumhur İttifakı]]'nı devam ettiren MHP; [[Adalet ve Kalkınma Partisi|AK Parti]]'nin elindeki [[Gümüşhane]] ve [[Tokat]] belediye başkanlıklarını, [[Cumhuriyet Halk Partisi|CHP]]'nin elindeki [[Kırklareli]] belediye başkanlığını ve [[Halkların Demokratik Partisi|HDP]]'nin elindeki [[Kars]] belediye başkanlığını kazanırken [[Çankırı]], [[Erzincan]], [[Karaman]] ve [[Osmaniye]] belediyelerini de tekrar kazandı. [[Bayburt]] ve [[Karabük]] belediyeleri [[Adalet ve Kalkınma Partisi|AK Parti]]'ye ve [[Amasya]], [[Bartın]], [[Kastamonu]], [[Kütahya]] ve [[Manisa]] belediyeleri [[Cumhuriyet Halk Partisi|CHP]]'ye karşı kaybedildi. MHP il belediyeleriyle birlikte 130 belediye kazandı.
+
+== İdeoloji ve politikalar ==
+{{Ana|Dokuz Işık}}
+{{Başlık genişlet}}
+MHP'nin görüşünü milliyetçiliğin baskın olduğu, [[İslam]]'ın şekillendirdiği  [[Türk milliyetçiliği]]ni temel alan [[9 Işık Doktrini|Dokuz Işık]] doktrini temsil etmektedir. Parti [[aşırı sağ]] yelpazede konumlandırılır.<ref name="arama.hurriyet.com.tr">{{web kaynağı|url=http://arama.hurriyet.com.tr/arsivnews.aspx?id=9471370|başlık=MHP artık Avrupalı bir aşırı sağ parti ve anamuhalefet adayı|erişimtarihi=28 Şubat 2015|arşivtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150228152931/http://arama.hurriyet.com.tr/arsivnews.aspx?id=9471370|tarih=20 Temmuz 2008|ölüurl=evet|dil=Türkçe|yayımcı=hurriyet.com.tr|yazar=Ali Dağlar}}</ref><ref name="independent.co.uk">{{web kaynağı|url=http://www.independent.co.uk/news/turkish-far-right-on-the-rise-1088461.html|başlık=Turkish far right on the rise|erişimtarihi=28 Şubat 2015|arşivtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150228152114/http://www.independent.co.uk/news/turkish-far-right-on-the-rise-1088461.html|tarih=20 Nisan 1999|ölüurl=hayır|dil=İngilizce|yayımcı=independent.co.uk}}</ref><ref name="spiegel.de">{{web kaynağı|url=http://www.spiegel.de/international/turkey-and-the-eu-will-they-split-before-they-marry-a-377789.html|başlık=Turkey and the EU: Will they Split before they Marry?|erişimtarihi=28 Şubat 2015|arşivtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150228152357/http://www.spiegel.de/international/turkey-and-the-eu-will-they-split-before-they-marry-a-377789.html|tarih=3 Ekim 2005|ölüurl=hayır|dil=İngilizce|yayımcı=spiegel.de}}</ref>
+
+'''HDP'ye muhalefet'''
+
+MHP, ideolojik farklılıklar sebebiyle çoğu zaman sol görüşlü ve Kürt yanlısı [[HDP]] ile görüş ayrılığı yaşamıştır. Çoğu zaman MHP, HDP'yi PKK'nın uzantısı olarak nitelendirmiş, milletvekillerinin dokunulmazlıklarının kaldırılmasını ve partinin kapatılmasını talep etmiştir.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-56108368|başlık=MHP'nin 'HDP kapatılsın' çağrısı karşısında AKP'de hangi görüş ağırlık kazanıyor?|erişimtarihi=29 Ekim 2025|tarih=18 Şubat 2021|yayıncı=[[BBC Türkçe]]|arşivurl=https://web.archive.org/web/20240819221206/https://www.bbc.com/turkce/haberler-turkiye-56108368|arşivtarihi=19 Ağustos 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.youtube.com/live/0fcIgWTKOMU?si=VDaDrkLQGzUdHBpj|başlık=MHP Genel Başkanı Devlet Bahçeli: "Gözümüzde PKK Neyse HDP Odur."|erişimtarihi=29 Ekim 2025|tarih=13 Kasım 2022}}</ref>
+
+== Yayın organları ==
+{{Başlık genişlet}}
+[[Dosya:Türkgün Gazetesi Logo.png|küçükresim|Türkgün logosu|upright=0.91]]Eylül 2018'de partiye yakın bir yayın organı olarak kurulan Türkgün gazetesi, günlük olarak yayınlanmaya devam etmektedir. Gazete, Türk milliyetçiliği ideolojisine yakın bir çizgide faaliyet göstermektedir.<ref>{{Web kaynağı|url=http://t24.com.tr/haber/mhpnin-yeni-gazetesi-turkgun-cikti-biz-tarafiz,708538|başlık=Arşivlenmiş kopya|erişimtarihi=21 Şubat 2019|arşivtarihi=22 Şubat 2019|arşivurl=https://web.archive.org/web/20190222152140/https://t24.com.tr/haber/mhpnin-yeni-gazetesi-turkgun-cikti-biz-tarafiz,708538|ölüurl=hayır}}</ref>
+
+== Yapılanma ==
+=== Genel başkanları ===
+9 Şubat 1969'da açılan Milliyetçi Hareket Partisi'nin bugüne kadar genel başkanlığı yapan kişilerin listesi.
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| 
+! scope="row" align="left" | [[Alparslan Türkeş]]<br />{{Küçük|(1917-1997)}}
+| 8 Şubat 1969
+| 16 Ekim 1981<ref>{{Web kaynağı|url=https://www.resmigazete.gov.tr/arsiv/17486_1.pdf|başlık=1981'''—'''1993 yılları arasında kapalı kaldı.|erişimtarihi=24 Kasım 2023|arşivurl=https://web.archive.org/web/20210912121231/https://www.resmigazete.gov.tr/arsiv/17486_1.pdf|arşivtarihi=12 Eylül 2021|ölüurl=hayır}}</ref>
+| {{ayd|1969|2|8|1981|10|16}}
+|-
+| (1)
+| 
+! scope="row" align="left" | [[Alparslan Türkeş]]<br />{{Küçük|(1917-1997)}}
+| 24 Ocak 1993
+| 4 Nisan 1997
+| {{ayd|1993|1|24|1997|4|4}}
+|-
+| data-sort-value="1.5" | —
+| 
+! scope="row" align="left" | Muhittin Çolak {{Küçük|(vekil)}}<ref name="Genel Başkan Vekili olarak">Genel Başkan Vekili olarak</ref><br />{{Küçük|{{doğum yılı ve yaşı|1948}}}}
+| 5 Nisan 1997
+| 10 Haziran 1997
+| {{ayd|1997|4|5|1997|6|10}}
+|-
+| data-sort-value="1.6" | —
+| 
+! scope="row" align="left" | [[Tuğrul Türkeş]] {{Küçük|(vekil)}}<ref name="Genel Başkan Vekili olarak" /><br />{{Küçük|{{doğum tarihi ve yaşı|1954|12|1}}}}
+| 10 Haziran 1997
+| 6 Temmuz 1997
+| {{ayd|1997|6|10|1997|7|6}}
+|-
+| 2
+| [[Dosya:Devlet Bahçeli VOA 2015 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Devlet Bahçeli]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1948|1|1}}}}
+| 6 Temmuz 1997
+| ''Görevde''
+| {{ayd|1997|7|6|sep=and|duration=on}}
+|}
+
+=== Başkanlık Divanı üyeleri ===
+{| class="wikitable" style="text-align:center; font-size:90%"
+|-
+! #
+! Adı
+! Görevi
+|-
+| '''1''' || [[Devlet Bahçeli]] || Genel Başkan
+|-
+| '''2''' || [[Semih Yalçın|Edip Semih Yalçın]] || Genel Başkan Yardımcısı (Teşkilat İşleri)
+|-
+| '''3''' || [[Feti Yıldız]] || Genel Başkan Yardımcısı (Hukuk ve Seçim İşleri)
+|-
+| '''4''' || [[Mustafa Kalaycı]] || Genel Başkan Yardımcısı (Siyasi İşler, Parlamento ve Yürütme ile İlişkiler)
+|-
+| '''5''' || [[İsmail Faruk Aksu]] || Genel Başkan Yardımcısı (Ekonomik ve Sosyal Politikalar)
+|-
+| '''6''' || [[İsmail Özdemir]] || Genel Başkan Yardımcısı (Medya, İletişim ve Dijital Mecralar)
+|-
+| '''7''' || [[Mevlüt Karakaya]] || Genel Başkan Yardımcısı (Mali İşler)
+|-
+| '''8''' || [[İlyas Topsakal]] || Genel Başkan Yardımcısı (Türk Dünyası ve Uluslararası İlişkiler)
+|-
+| '''9''' || Özgür Bayraktar || Genel Başkan Yardımcısı (Araştırma ve Strateji Geliştirme)
+|-
+| '''10''' || [[Sadir Durmaz]] || Genel Başkan Yardımcısı (Yerel Yönetimler)
+|-
+| '''11''' || [[Ahmet Selim Yurdakul]] || Genel Başkan Yardımcısı (Aile, Kadın ve Yan Kuruluşlar)
+|-
+| '''12''' || [[Yaşar Yıldırım]] || Genel Başkan Yardımcısı (Mesleki ve Sivil Toplum Kuruluşları ile İlişkiler)
+|-
+| '''13''' || [[Zühal Topcu|Zuhal Topçu]] || Genel Başkan Yardımcısı (Parti İçi Eğitim, Siyaset ve Liderlik Okulu)
+|-
+| '''14''' || [[İsmet Büyükataman]] || Genel Sekreter
+|-
+| '''15''' || [[Tamer Osmanağaoğlu]] || Genel Sekreter Yardımcısı (İdari, Mali ve Teknik İşler)
+|-
+| '''16''' || [[Vahit Kayrıcı]] || Genel Sekreter Yardımcısı (Siyasi ve Sosyal İşler ile Protokol İşleri)
+|-
+|}
+
+=== Merkez Yönetim Kurulu üyeleri ===
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="text-align:center; font-size:90%"
+|-
+! #
+! Adı
+|-
+|'''1'''
+|[[Semih Yalçın]]
+|-
+|'''2'''
+|[[Feti Yıldız]]
+|-
+|'''3'''
+|[[Mustafa Kalaycı]]
+|-
+|'''4'''
+|[[İsmail Faruk Aksu]]
+|-
+|'''5'''
+|[[Sadir Durmaz]]
+|-
+|'''6'''
+|[[İzzet Ulvi Yönter]]
+|-
+|'''7'''
+|[[İsmail Özdemir]]
+|-
+|'''8'''
+|[[Mevlüt Karakaya]]
+|-
+|'''9'''
+|[[Kamil Aydın]]
+|-
+|'''10'''
+|[[Filiz Kılıç]]
+|-
+|'''11'''
+|[[Yaşar Yıldırım]]
+|-
+|'''12'''
+|[[Pelin Yılık]]
+|-
+|'''13'''
+|[[İsmet Büyükataman]]
+|-
+|'''14'''
+|[[Tamer Osmanağaoğlu]]
+|-
+|'''15'''
+|[[Mehmet Celal Fendoğlu]]
+|-
+|'''16'''
+|[[Abdurrahman Başkan]]
+|-
+|'''17'''
+|[[Vahit Kayrıcı]]
+|-
+|'''18'''
+|[[Levent Uysal]]
+|-
+|'''19'''
+|[[İlyas Topsakal]]
+|-
+|'''20'''
+|[[Ekrem Gökay Yüksel]]
+|-
+|'''21'''
+|[[Muhammed Levent Bülbül]]
+|-
+|'''22'''
+|[[Konur Alp Koçak]]
+|-
+|'''23'''
+|[[Yücel Bulut]]
+|-
+|'''24'''
+|[[Fevzi Zırhlıoğlu]]
+|-
+|'''25'''
+|[[Ahmet Selim Yurdakul]]
+|-
+|'''26'''
+|Ali Uçak
+|-
+|'''27'''
+|Özgür Bayraktar
+|-
+|'''28'''
+|Fevzi Altuntaş
+|-
+|'''29'''
+|[[Hayati Arkaz]]
+|-
+|'''30'''
+|Fatih Çetinkaya
+|-
+|'''31'''
+|Murat Kotra
+|-
+|'''32'''
+|Seçkin Odabaşı
+|-
+|'''33'''
+|[[Cemal Akın]]
+|-
+|'''34'''
+|[[Zühal Topcu|Zühal Topçu]]
+|-
+|'''35'''
+|[[Hasan Kalyoncu]]
+|-
+|'''36'''
+|Bahadır Bumin Özarslan
+|-
+|'''37'''
+|[[Erkan Haberal]]
+|-
+|'''38'''
+|Ahmet Kürtaş Azkur
+|-
+|'''39'''
+|Davut Haskırış
+|-
+|'''40'''
+|Muhammet Hanifi Macit
+|-
+|'''41'''
+|İbrahim Özbay
+|-
+|'''42'''
+|Yavuz Tellioğlu
+|-
+|'''43'''
+|Turan Şener
+|-
+|'''44'''
+|Turan Şahin
+|-
+|'''45'''
+|Güzide Çıpan
+|-
+|'''46'''
+|Metehan Özkan
+|-
+|'''47'''
+|Mustafa Ertekin
+|-
+|'''48'''
+|Emine Güven Öztürk
+|-
+|'''49'''
+|Esma Özdaşlı
+|-
+|'''50'''
+|Osman Gür
+|-
+|'''51'''
+|Timur Şerif Şaşmaz
+|-
+|'''52'''
+|Abdülaziz Sekman
+|-
+|'''53'''
+|Tamer Çakıroğlu
+|-
+|'''54'''
+|Hüseyin Zafer Gülseven
+|-
+|'''55'''
+|Hüseyin Korkmaz
+|-
+|'''56'''
+|Umutcan Yıldırım
+|-
+|'''57'''
+|Hayri Bulut
+|-
+|'''58'''
+|Hümmet Tatar
+|-
+|'''59'''
+|Bünyamin Köken
+|-
+|'''60'''
+|Mustafa Çavuş
+|-
+|'''61'''
+|Metin Arı
+|-
+|'''62'''
+|Mustafa İzgioğlu
+|-
+|'''63'''
+|Umut Bağlı
+|-
+|'''64'''
+|Nazif Koray Nügü
+|-
+|'''65'''
+|Birol Gür
+|-
+|'''66'''
+|Mahmut Cüneyt Göz
+|-
+|'''67'''
+|Volkan Uygunuçarlar
+|-
+|'''68'''
+|Şahin Kartal
+|-
+|'''69'''
+|Mahmut Tatlısu
+|-
+|'''70'''
+|Necdet Öztürkçü
+|-
+|'''71'''
+|Muhammet Fatih Yaşar
+|-
+|'''72'''
+|İlker Yücel
+|-
+|'''73'''
+|Özmen Alp Giray Erdemir
+|-
+|'''74'''
+|Özer Karakayıcı
+|-
+|'''75'''
+|Alp Yıldız
+|}
+{{gizli içerik-son}}
+
+=== Merkez Disiplin Kurulu üyeleri ===
+{| class="wikitable" style="text-align:center; font-size:90%"
+|-
+! #
+! Adı
+|-
+|'''1'''
+|Abdullah Bahadır Alperen
+|-
+|'''2'''
+|Kürşat Türker Ercan
+|-
+|'''3'''
+|Ahmet Korhan Mastı
+|-
+|'''4'''
+|Hilal Elmas
+|-
+|'''5'''
+|Tülin Tuncay
+|-
+|'''6'''
+|Nihat Ünver
+|-
+|'''7'''
+|Fikret Gökberk Osmanağaoğlu
+|-
+|'''8'''
+|Hatice Akkaya
+|-
+|'''9'''
+|İlker İpek
+|}
+
+== Milletvekilleri ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Seçim bölgesi
+!Görevi
+|-
+|'''1'''
+|[[Muharrem Varlı]]
+|rowspan="2" | [[Adana milletvekilleri listesi|Adana]]
+|Tarım, Orman Ve Köyişleri Komisyonu Başkanvekili
+|-
+|'''2'''
+|[[Ayşe Sibel Ersoy]]
+|Kadın Erkek Fırsat Eşitliği Komisyonu Üyesi
+|-
+|'''3'''
+|[[Mehmet Taytak]]
+|[[Afyonkarahisar milletvekilleri listesi|Afyonkarahisar]]
+|Dilekçe Komisyonu Üyesi
+|-
+|'''4'''
+|[[Mevlüt Karakaya]]
+|[[Ankara milletvekilleri listesi|Ankara (I)]]
+|Kamu İktisadi Teşebbüsleri Komisyonu Sözcüsü<br>NATO Parlamenter Asamblesi Üyesi<br>Parlamentolararası Birlik Üyesi<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''5'''
+|[[Sadir Durmaz]]
+|[[Ankara milletvekilleri listesi|Ankara (II)]]
+|Çevre Komisyonu Sözcüsü<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''6'''
+|[[Yaşar Yıldırım]]
+|[[Ankara milletvekilleri listesi|Ankara (III)]]
+|Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''7'''
+|[[Abdurrahman Başkan]]
+|rowspan="2" | [[Antalya milletvekilleri listesi|Antalya]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu Üyesi<br>MYK üyesi
+|-
+|'''8'''
+|[[Hilmi Durgun]]
+|Tarım, Orman Ve Köyişleri Komisyonu Üyesi
+|-
+|'''9'''
+|[[Ekrem Gökay Yüksel]]
+|[[Balıkesir milletvekilleri listesi|Balıkesir]]
+|Çevre Komisyonu Üyesi<br>MYK üyesi
+|-
+|'''10'''
+|[[İsmet Büyükataman]]
+|[[Bursa milletvekilleri listesi|Bursa (I)]]
+|Genel Sekreter<br>MYK üyesi
+|-
+|'''11'''
+|[[Fevzi Zırhlıoğlu]]
+|[[Bursa milletvekilleri listesi|Bursa (II)]]
+|Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu Üyesi<br>MYK üyesi
+|-
+|'''12'''
+|[[Pelin Yılık]]
+|[[Çankırı milletvekilleri listesi|Çankırı]]
+|Kadın Erkek Fırsat Eşitliği Komisyonu Sözcüsü<br>Sağlık, Aile, Çalışma Ve Sosyal İşler Komisyonu Katip Üyesi<br>Avrupa Konseyi Parlamenter Meclisi Üyesi<br>MYK üyesi
+|-
+|'''13'''
+|[[Vahit Kayrıcı]]
+|[[Çorum milletvekilleri listesi|Çorum]]
+|Genel Sekreter Yardımcısı<br>MYK üyesi
+|-
+|'''14'''
+|[[Semih Işıkver]]
+|[[Elazığ milletvekilleri listesi|Elazığ]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu Üyesi
+|-
+|'''15'''
+|[[Kamil Aydın]]
+|[[Erzurum milletvekilleri listesi|Erzurum]]
+|Dışişleri Komisyonu Üyesi<br>NATO Parlamenter Asamblesi Üyesi<br>Avrupa Güvenlik ve İşbirliği Teşkilatı Parlamenter Asamblesi Üyesi<br>MYK üyesi
+|-
+|'''16'''
+|[[Sermet Atay]]
+|[[Gaziantep milletvekilleri listesi|Gaziantep]]
+|Türkiye Büyük Millet Meclisi İdare Amiri
+|-
+|'''17'''
+|[[Ertuğrul Gazi Konal]]
+|[[Giresun milletvekilleri listesi|Giresun]]
+|Bayındırlık, İmar, Ulaştırma Ve Turizm Komisyonu Üyesi
+|-
+|'''18'''
+|[[Musa Küçük]]
+|[[Gümüşhane milletvekilleri listesi|Gümüşhane]]
+|-
+|'''19'''
+|[[Lütfi Kaşıkçı]]
+|[[Hatay milletvekilleri listesi|Hatay]]
+|Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|-
+|'''20'''
+|[[Semih Yalçın|Edip Semih Yalçın]]
+|rowspan="2" | [[İstanbul milletvekilleri listesi|İstanbul (I)]]
+|Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''21'''
+|[[İzzet Ulvi Yönter]]
+|Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi Ve Teknoloji Komisyonu Üyesi<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''22'''
+|[[Celal Adan]]
+|[[İstanbul milletvekilleri listesi|İstanbul (II)]]
+|Türkiye Büyük Millet Meclisi Başkanvekili
+|-
+|'''23'''
+|[[Feti Yıldız]]
+|rowspan="2" | [[İstanbul milletvekilleri listesi|İstanbul (III)]]
+|Anayasa Komisyonu Üyesi<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''24'''
+|[[İsmail Faruk Aksu]]
+|Plan Ve Bütçe Komisyonu Başkanvekili<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''25'''
+|[[Tamer Osmanağaoğlu]]
+|[[İzmir milletvekilleri listesi|İzmir]]
+|Güvenlik Ve İstihbarat Komisyonu Üyesi<br>Genel Sekreter Yardımcısı<br>MYK üyesi
+|-
+|'''26'''
+|[[Zuhal Karakoç Dora]]
+|[[Kahramanmaraş milletvekilleri listesi|Kahramanmaraş]]
+|Avrupa Birliği Uyum Komisyonu Sözcüsü<br>Milli Savunma Komisyonu Sözcüsü<br>Türkiye - Avrupa Birliği Karma Parlamento Komisyonu Üyesi<br>Güney Doğu Avrupa İşbirliği Süreci Parlamenter Asamblesi Üyesi
+|-
+|'''27'''
+|[[İsmail Özdemir]]
+|rowspan="2" | [[Kayseri milletvekilleri listesi|Kayseri]]
+|Dışişleri Komisyonu Üyesi<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''28'''
+|[[Mustafa Baki Ersoy]]
+|Plan Ve Bütçe Komisyonu Üyesi
+|-
+|'''29'''
+|[[Halil Öztürk (siyasetçi)|Halil Öztürk]]
+|[[Kırıkkale milletvekilleri listesi|Kırıkkale]]
+|Adalet Komisyonu Üyesi
+|-
+|'''30'''
+|[[Saffet Sancaklı]]
+|[[Kocaeli milletvekilleri listesi|Kocaeli]]
+|
+|-
+|'''31'''
+|[[Mustafa Kalaycı]]
+|rowspan="2" | [[Konya milletvekilleri listesi|Konya]]
+|Plan Ve Bütçe Komisyonu Üyesi<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''32'''
+|[[Konur Alp Koçak]]
+|Avrupa Birliği Uyum Komisyonu Üyesi<br>Milli Savunma Komisyonu Üyesi<br>Avrupa Konseyi Parlamenter Meclisi Üyesi<br>Türkiye - Avrupa Birliği Karma Parlamento Komisyonu Eş Başkan Yardımcısı<br>İslam İşbirliği Teşkilatı Üyesi Ülkeler Parlamenter Birliği Üyesi<br>MYK üyesi
+|-
+|'''33'''
+|[[Ahmet Erbaş]]
+|[[Kütahya milletvekilleri listesi|Kütahya]]
+|İçişleri Komisyonu Başkanvekili
+|-
+|'''34'''
+|[[Mehmet Celal Fendoğlu]]
+|[[Malatya milletvekilleri listesi|Malatya]]
+|MYK üyesi
+|-
+|'''35'''
+|[[Erkan Akçay]]
+|[[Manisa milletvekilleri listesi|Manisa]]
+|TBMM Grup Başkanvekili
+|-
+|'''36'''
+|[[Levent Uysal]]
+|[[Mersin milletvekilleri listesi|Mersin]]
+|Dijital Mecralar Komisyonu Katip Üyesi<br>Akdeniz Parlamenter Asamblesi Üyesi<br>Akdeniz İçin Birlik Parlamenter Asamblesi Üyesi<br>MYK üyesi
+|-
+|'''37'''
+|[[Filiz Kılıç]]
+|[[Nevşehir milletvekilleri listesi|Nevşehir]]
+|Milli Eğitim, Kültür, Gençlik Ve Spor Komisyonu Başkanvekili<br>TBMM Grup Başkanvekili<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/nevsehir-milletvekili-filiz-kilic-mhpnin-yeni-grup-baskanvekili-oldu/3193065|başlık=Nevşehir Milletvekili Filiz Kılıç, MHP'nin yeni Grup Başkanvekili oldu|erişimtarihi=13 Mayıs 2024|çalışma=[[Anadolu Ajansı]]|arşivurl=https://web.archive.org/web/20240512230238/https://www.aa.com.tr/tr/politika/nevsehir-milletvekili-filiz-kilic-mhpnin-yeni-grup-baskanvekili-oldu/3193065|arşivtarihi=12 Mayıs 2024|ölüurl=hayır}}</ref><br>Türk Devletleri Parlamenter Asamblesi Üyesi<br>MYK üyesi
+|-
+|'''38'''
+|[[Cumali İnce]]
+|[[Niğde milletvekilleri listesi|Niğde]]
+|
+|-
+|'''39'''
+|[[Naci Şanlıtürk]]
+|[[Ordu milletvekilleri listesi|Ordu]]
+|İnsan Haklarını İnceleme Komisyonu Sözcüsü
+|-
+|'''40'''
+|[[Devlet Bahçeli]]
+|[[Osmaniye milletvekilleri listesi|Osmaniye]]
+|Genel Başkan ve TBMM Grup Başkanı
+|-
+|'''41'''
+|[[Muhammed Levent Bülbül|Muhammet Levent Bülbül]]
+|[[Sakarya milletvekilleri listesi|Sakarya]]
+|Anayasa Komisyonu Üyesi<br>MYK üyesi
+|-
+|'''42'''
+|[[İlyas Topsakal]]
+|[[Samsun milletvekilleri listesi|Samsun]]
+|Milli Eğitim, Kültür, Gençlik Ve Spor Komisyonu Üyesi<br>Asya Parlamenter Asamblesi Üyesi<br>Karadeniz Ekonomik İşbirliği Parlamenter Asamblesi Üyesi<br>Genel Başkan Yardımcısı<br>MYK üyesi
+|-
+|'''43'''
+|[[Ahmet Özyürek]]
+|[[Sivas milletvekilleri listesi|Sivas]]
+|
+|-
+|'''44'''
+|[[İbrahim Özyavuz]]
+|[[Şanlıurfa milletvekilleri listesi|Şanlıurfa]]
+|
+|-
+|'''45'''
+|[[Yücel Bulut]]
+|[[Tokat milletvekilleri listesi|Tokat]]
+|Adalet Komisyonu Üyesi<br>MYK üyesi
+|-
+|'''46'''
+|[[İbrahim Ethem Sedef]]
+|[[Yozgat milletvekilleri listesi|Yozgat]]
+|Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|}
+{{gizli içerik-son}}
+
+== Kurultaylar ==
+{| class="wikitable" style="text-align:center; font-size:90%"
+|+
+! Kurultay
+! Tarih
+! Genel Başkan
+! Seçim Nedeni
+|-
+| 1. Olağan Kurultay
+| 30 Kasım 1985
+| rowspan="8" |[[Alparslan Türkeş]]
+| [[Muhafazakâr Parti (Türkiye)|Partinin adı]], [[Milliyetçi Çalışma Partisi]] olarak değiştirildi
+|-
+| 1. Olağanüstü Kurultay
+| 19 Nisan 1987
+| rowspan=2| Genel başkanın çağrısı
+|-
+| 2. Olağanüstü Kurultay
+| 4 Ekim 1987
+|-
+| 2. Olağan Kurultay
+| Bilinmiyor
+| Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+| 3. Olağanüstü Kurultay
+| 27 Kasım 1988
+| Genel başkanın çağrısı
+|-
+| 3. Olağan Kurultay
+| 29 Aralık 1991
+| Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+| 4. Olağanüstü Kurultay
+| 24 Ocak 1993
+| [[Milliyetçi Çalışma Partisi|Partinin adı]], Milliyetçi Hareket Partisi olarak değiştirildi
+|-
+| 4. Olağan Kurultay
+| 9 Ekim 1994
+| Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+| rowspan=2| [[1997 Milliyetçi Hareket Partisi Olağanüstü Kongresi|5. Olağanüstü Kurultay]]
+| 18 Mayıs 1997 (1)
+| rowspan=9| [[Devlet Bahçeli]]
+| rowspan=2| [[Alparslan Türkeş|Alparslan Türkeş'in]] ölümü
+|-
+| 6 Temmuz 1997 (2)
+|-
+| 5. Olağan Kurultay
+| 23 Kasım 1997
+| rowspan=7| Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+| 6. Olağan Kurultay
+| 5 Kasım 2000
+|-
+| 7. Olağan Kurultay
+| 12 Ekim 2003
+|-
+| 8. Olağan Kurultay
+| 19 Kasım 2006
+|-
+| 9. Olağan Kurultay
+| 5 Kasım 2009
+|-
+| 10. Olağan Kurultay
+| 4 Kasım 2012
+|-
+| 11. Olağan Kurultay
+| 21 Mart 2015
+|-
+| <s>[[2016 Milliyetçi Hareket Partisi Olağanüstü Kongresi|6. Olağanüstü Kurultay]]</s>
+| <s>19 Haziran 2016</s>
+| İptal edildi
+| Tüzük değişikliği
+|-
+| 12. Olağan Kurultay
+| 18 Mart 2018
+| rowspan=3| [[Devlet Bahçeli]]
+| rowspan=3| Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+| 13. Olağan Kurultay
+| 18 Mart 2021
+|-
+| 14. Olağan Kurultay
+| 17 Mart 2024
+|-
+|}
+
+== Seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Lider
+! colspan=3| Seçim sonuçları
+! colspan=2| Sandalye
+! rowspan=2| Hükûmet
+|-
+! Oy
+! %
+! ±
+! #
+! ±
+|-
+! [[1969 Türkiye genel seçimleri|1969]]
+| rowspan=4| <!-- Yoruma çevrildi: [[Dosya:MBKTürkeş.jpg|küçükresim|upright=0.73]] -->[[Alparslan Türkeş]]
+| 274.225
+| 3,02 (#6)
+| Yeni
+| {{Composition bar|1|450|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| Yeni
+| {{hayır2|Muhalefet}}
+|-
+! [[1973 Türkiye genel seçimleri|1973]]
+| 362.208
+| 3,38 (#6)
+| {{artış}} 0,36
+| {{Composition bar|3|450|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 2
+| {{kısmen|Muhalefet {{Küçük|(1973-1975)}}<br>[[39. Türkiye Hükûmeti|IV. Demirel]] {{Küçük|(1975-1977)}}}}
+|-
+! [[1977 Türkiye genel seçimleri|1977]]
+| 951.544
+| 6,42 (#4)
+| {{artış}} 3,04
+| {{Composition bar|16|450|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 13
+| {{kısmen|Muhalefet {{Küçük|(1977, 1978-1980)}}<br>[[41. Türkiye Hükûmeti|V. Demirel]] {{Küçük|(1977-1978)}}}}
+|-
+! [[1995 Türkiye genel seçimleri|1995]]
+| 2.301.343
+| 8,18 (#6)
+| {{artış}} 1,76
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 16
+| {{N/A|Baraj Altında Kaldı}}
+|-
+! [[1999 Türkiye genel seçimleri|1999]]
+| rowspan=8| [[Dosya:Devlet Bahçeli VOA 2015 (cropped).jpg|küçükresim|upright=0.45]][[Devlet Bahçeli]]
+| 5.606.634
+| 17,98 (#2)
+| {{artış}} 9,80
+| {{Composition bar|129|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 129
+| {{evet2|[[57. Türkiye Hükûmeti|V. Ecevit]]}}
+|-
+! [[2002 Türkiye genel seçimleri|2002]]
+| 2.629.808
+| 8,35 (#5)
+| {{azalış}} 9,63
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 129
+| {{N/A|Baraj Altında Kaldı}}
+|-
+! [[2007 Türkiye genel seçimleri|2007]]
+| 5.001.869
+| 14,27 (#3)
+| {{artış}} 5,92
+| {{Composition bar|71|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 71
+| rowspan="4" {{hayır2|Muhalefet}}
+|-
+! [[2011 Türkiye genel seçimleri|2011]]
+| 5.585.513
+| 13,01 (#3)
+| {{azalış}} 1,26
+| {{Composition bar|53|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 18
+|-
+! [[Haziran 2015 Türkiye genel seçimleri|2015 (Haziran)]]
+| 7.520.006
+| 16,29 (#3)
+| {{artış}} 3,28
+| {{Composition bar|80|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 27 
+|-
+! [[Kasım 2015 Türkiye genel seçimleri|2015 (Kasım)]]
+| 5.694.136
+| 11,90 (#3)
+| {{azalış}} 4,39
+| {{Composition bar|40|550|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 40 
+|-
+! [[2018 Türkiye genel seçimleri|2018]]
+| 5.466.775
+| 11,10 (#3)
+| {{azalış}} 0,80
+| {{Composition bar|49|600|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 9
+| {{kısmen|[[66. Türkiye Hükûmeti|IV. Erdoğan]] {{Küçük|(dışarıdan destek)}}}}
+|-
+! [[2023 Türkiye genel seçimleri|2023]]
+| 5.484.820
+| 10,07 (#3)
+| {{azalış}} 1,03
+| {{Composition bar|50|600|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 1 
+| {{kısmen|[[67. Türkiye Hükûmeti|V. Erdoğan]] {{Küçük|(dışarıdan destek)}}}}
+|-
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+==== Tek dereceli ====
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Aday
+! colspan=2| Birinci tur
+! colspan=2| İkinci tur
+! rowspan=2| Sıra
+|-
+! Oy
+! %
+! Oy
+! %
+|-
+! [[2014 Türkiye cumhurbaşkanlığı seçimi|2014]]
+| [[Dosya:Ekmeleddin İhsanoğlu (1) (cropped).jpg|95x95pik]]<hr>[[Ekmeleddin İhsanoğlu]]<hr>[[Cumhuriyet Halk Partisi|CHP]]-MHP ortak adayı || 15.587.720 || 38.44% (#2) || {{N/A|—}} || {{N/A|—}} || {{hayır2|Seçilemedi}}
+|-
+! [[2018 Türkiye cumhurbaşkanlığı seçimi|2018]]
+| [[Dosya:Recep Tayyip Erdoğan 2018 (cropped).jpg|102x102pik]]<hr>[[Recep Tayyip Erdoğan]]<hr>[[Cumhur İttifakı]] ortak adayı || 26.324.482 || 52.59% (#1) || {{N/A|—}} || {{N/A|—}} || {{evet2| {{Y}} Seçildi}}
+|-
+! [[2023 Türkiye cumhurbaşkanlığı seçimi|2023]]
+| [[Dosya:Recep Tayyip Erdogan in Ukraine.jpg|76px]]<hr>[[Recep Tayyip Erdoğan]]<hr>[[Cumhur İttifakı]] ortak adayı || 27.133.849 || 49.52% (#1) || 27.725.131 || 52.16% (#1) || {{evet2| {{Y}} Seçildi}}
+|-
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Lider
+! colspan=3| Belediye Meclisleri
+! colspan=4| Belediye Başkanlığı
+|-
+! Oy
+! %
+! ±
+! Oy
+! %
+! #
+! ±
+|-
+! [[1973 Türkiye yerel seçimleri|1973]]
+| rowspan="3" | <!-- Yoruma çevrildi: [[Dosya:MBKTürkeş.jpg|küçükresim|upright=0.83]] -->[[Alparslan Türkeş]]
+| 133.089
+| 1,33 (#7)
+| Yeni
+| 34.923
+| 0,8 (#7)
+| {{Composition bar|5|1640|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| Yeni
+|-
+! [[1977 Türkiye yerel seçimleri|1977]] 
+| 819.136
+| 6,62 (#4) 
+| {{artış}} 5,29
+| 820.212
+| 6,7 (#4)
+| {{Composition bar|55|1730|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 50
+|-
+! [[1994 Türkiye yerel seçimleri|1994]] 
+| 2.239.117
+| 7,95 (#6) 
+| {{artış}} 1,33
+| 1.500.523
+| 7,5 (#6)
+| {{Composition bar|118|2695|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 63
+|-
+! [[1999 Türkiye yerel seçimleri|1999]] 
+| rowspan=6| [[Dosya:Devlet Bahçeli VOA 2015 (cropped).jpg|küçükresim|upright=0.6]][[Devlet Bahçeli]]
+| 5.401.597
+| 17,17 (#2) 
+| {{artış}} 9,22
+| 3.541.220
+| 15,2 (#4)
+| {{Composition bar|499|3219|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 381
+|-
+! [[2004 Türkiye yerel seçimleri|2004]] 
+| 3.372.249
+| 10,45 (#3) 
+| {{azalış}} 6,72
+| 2.441.190
+| 10,1 (#3)
+| {{Composition bar|247|3193|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 252
+|-
+! [[2009 Türkiye yerel seçimleri|2009]] 
+| 5.336.695
+| 16,27 (#3) 
+| {{artış}} 5,82
+| 5.315.180
+| 16,5 (#3)
+| {{Composition bar|483|2903|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 236
+|-
+! [[2014 Türkiye yerel seçimleri|2014]] 
+| 7.399.119
+| 17,82 (#3) 
+| {{artış}} 1,55
+| 7.391.458
+| 17,7 (#3)
+| {{Composition bar|166|1351|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 317
+|-
+! [[2019 Türkiye yerel seçimleri|2019]] 
+| 3.209.416
+| 7,46  (#3) 
+| {{azalış}} 10,36
+| 3.211.038
+| 7,4 (#4)
+| {{Composition bar|233|1355|hex={{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{artış}} 67
+|-
+! [[2024 Türkiye yerel seçimleri|2024]]
+| 3.017.009
+| 6,58 (#4)
+| {{Azalış}} 0,88
+| 2.297.662
+| 4,98 (#5)
+| {{Composition bar|148|1389|{{Siyasi parti renk|Milliyetçi Hareket Partisi}}}}
+| {{azalış}} 85
+|-
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+{{Commons kategori|Nationalist Movement Party}}
+* {{Resmî site|www.mhp.org.tr}}
+* {{İnstagram|milliyetcihareketpartisi}}
+* {{Twitter|MHP_Bilgi}}
+
+{{Türkiye'deki siyasi partiler}}
+{{MHP Başkanları}}
+{{Ülkücülük}}
+{{Antikomünizm}}
+{{Türk milliyetçiliği}}
+{{Otorite kontrolü}}
+[[Kategori:Milliyetçi Hareket Partisi| ]]
+[[Kategori:Türkiye'deki milliyetçi partiler]]
+[[Kategori:Türkiye'deki muhafazakâr partiler]]
+[[Kategori:Ülkücü partiler]]
+[[Kategori:Türkiye'de antikomünizm]]
+[[Kategori:1969'da kurulan siyasi partiler]]
+[[Kategori:1993'te kurulan siyasi partiler]]
+[[Kategori:Millî muhafazakâr partiler]]
+[[Kategori:1969'da Türkiye'de kurulan oluşumlar]]
+[[Kategori:1993'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Cumhur İttifakı]]
+[[Kategori:Türkiye'deki aşırı sağcı partiler]]

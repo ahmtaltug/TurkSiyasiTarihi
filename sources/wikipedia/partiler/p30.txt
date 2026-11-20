@@ -1,0 +1,371 @@
+{{Karıştırma|Refah Partisi}}
+{{Siyasi parti bilgi kutusu
+| isim             = Yeniden Refah Partisi
+| kısaltma         = Yeniden Refah {{küçük|(resmî)}}<br>YRP {{küçük|(gayriresmî)}}
+| colorcode        = {{Siyasi parti renk|Yeniden Refah Partisi}}
+| amblem           = Yeniden Refah Partisi logo.svg
+| genel başkanı    = [[Fatih Erbakan]]
+| genel sekreteri  = [[Bülent Osman Osmanağaoğlu]]
+| slogan           = ''Biz Farklıyız!''
+| kuruluş          = {{Açılış tarihi ve yaşı|2018|11|23}}
+| kurucusu         = [[Fatih Erbakan]]
+| merkez           = [[Çankaya]], [[Ankara]]<ref>[http://yenidenrefahpartisi.org.tr/page/parti-tuzugu/12 YENİDEN REFAH PARTİSİ TÜZÜĞÜ] {{Webarşiv|url=https://web.archive.org/web/20200320054500/http://yenidenrefahpartisi.org.tr/page/parti-tuzugu/12 |tarih=20 Mart 2020 }}, YENİDEN REFAH PARTİSİ TÜZÜĞÜ</ref>
+| üyelik           = {{artış}} 703.085<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1481|başlık=Yeniden Refah Partisi|arşivurl=https://web.archive.org/web/20230429233955/https://www.yargitaycb.gov.tr/icerik/1481|arşivtarihi=29 Nisan 2023}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Millî Görüş]]{{refn|<ref>{{Web kaynağı|url = https://www.indyturk.com/node/541796/siyaset/fatih-erbakan-milli-g%C3%B6r%C3%BC%C5%9F-olarak-ne-masa-ba%C5%9F%C4%B1ndakilerle-ne-de-kasa|başlık = Fatih Erbakan: Millî Görüş olarak ne masa başındakilerle ne de kasa başındakilerle birlikteyiz|erişimtarihi = 5 Ekim 2022|arşivtarihi = 14 Ağustos 2022|arşivurl = https://web.archive.org/web/20220814102232/https://www.indyturk.com/node/541796/siyaset/fatih-erbakan-milli-g%C3%B6r%C3%BC%C5%9F-olarak-ne-masa-ba%C5%9F%C4%B1ndakilerle-ne-de-kasa|tarih =|ölüurl = hayır|website = indyturk.com}}</ref><ref>{{Web kaynağı|url = https://www.haberturk.com/denizli-haberleri/98016736-fatih-erbakan-milli-gorus-heyecanini-yeniden-refah-partisi-catisi-altinda-yasiyoruzfatih|başlık = Fatih Erbakan: “Millî görüş heyecanını Yeniden Refah Partisi çatısı altında yaşıyoruz”. Fatih Erbakan, Yeniden Refah Partisi Denizli İl Kongresinde konuştu|erişimtarihi = 5 Ekim 2022|arşivtarihi = 19 Ağustos 2022|arşivurl = https://web.archive.org/web/20220819061317/https://www.haberturk.com/denizli-haberleri/98016736-fatih-erbakan-milli-gorus-heyecanini-yeniden-refah-partisi-catisi-altinda-yasiyoruzfatih|tarih =|ölüurl = hayır|website = haberturk.com}}</ref>}}
+*[[İslamcılık]]{{refn|<ref name="duvarenglish.com"/><ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/haber/yeniden-refah-partisinden-hilafet-paylasimi-seriat-i-garra-i-muhammediyyeyi-ilan-edecegimiz-gunler-yakindir-1817882|başlık = Yeniden Refah Partisi'nden hilafet paylaşımı: "Şeriat-ı Garra-i Muhammediyye'yi ilan edeceğimiz günler yakındır"|erişimtarihi = 5 Ekim 2022|arşivtarihi = 3 Mart 2021|arşivurl = https://web.archive.org/web/20210303113746/https://www.cumhuriyet.com.tr/haber/yeniden-refah-partisinden-hilafet-paylasimi-seriat-i-garra-i-muhammediyyeyi-ilan-edecegimiz-gunler-yakindir-1817882|tarih =|ölüurl = hayır|website = cumhuriyet.com}}</ref><ref>{{Web kaynağı|url = https://daktilo1984.com/forum/yeniden-refah-partisi-uzerine/|başlık = Yeniden Refah Partisi Üzerine|erişimtarihi = 5 Ekim 2022|arşivtarihi = 27 Ağustos 2022|arşivurl = https://web.archive.org/web/20220827170026/https://daktilo1984.com/forum/yeniden-refah-partisi-uzerine/|tarih =|ölüurl = hayır|website = daktilo1984.com}}</ref>}}
+*[[Ümmetçilik]]{{refn|<ref>{{Web kaynağı|url = https://erbakanvakfi.org.tr/batman-ummet-kardesligi-konferansi-2/|başlık = Batman "Ümmet Kardeşliği" konferansı|erişimtarihi = 5 Ekim 2022|arşivtarihi = 26 Eylül 2022|arşivurl = https://web.archive.org/web/20220926124259/https://erbakanvakfi.org.tr/batman-ummet-kardesligi-konferansi-2/|tarih =|ölüurl = hayır|website = erbakanvakfi.org.tr}}</ref><ref>{{Web kaynağı|url = https://www.politikyol.com/refah-partisi-lideri-fatih-erbakandan-filistin-icin-baris-gucu-cagrisi/|başlık = Yeniden Refah Partisi Lideri Fatih Erbakan’dan Filistin için "Barış Gücü" çağrısı|erişimtarihi = 5 Ekim 2022|arşivtarihi = 11 Mayıs 2021|arşivurl = https://web.archive.org/web/20210511135418/https://www.politikyol.com/refah-partisi-lideri-fatih-erbakandan-filistin-icin-baris-gucu-cagrisi/|tarih =|ölüurl = hayır|website = politikyol.com}}</ref>}}
+*[[Sosyal muhafazakârlık]]{{refn|<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/haber/fatih-erbakandan-istanbul-sozlesmesi-kararina-destek-1821996|başlık = Fatih Erbakan'dan 'İstanbul Sözleşmesi' kararına destek|erişimtarihi = 5 Ekim 2022|arşivtarihi = 20 Mart 2021|arşivurl = https://web.archive.org/web/20210320132342/https://www.cumhuriyet.com.tr/haber/fatih-erbakandan-istanbul-sozlesmesi-kararina-destek-1821996|tarih =|ölüurl = hayır|website = cumhuriyet.com.tr}}</ref><ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/siyaset/fatih-erbakan-lgbtilari-hedef-aldi-sapkinligina-gecit-vermeyecegiz-1951863|başlık = Fatih Erbakan, LGBTİ+'ları hedef aldı: "Sapkınlığına geçit vermeyeceğiz"|erişimtarihi = 5 Ekim 2022|arşivtarihi = 27 Haziran 2022|arşivurl = https://web.archive.org/web/20220627125114/https://www.cumhuriyet.com.tr/siyaset/fatih-erbakan-lgbtilari-hedef-aldi-sapkinligina-gecit-vermeyecegiz-1951863|tarih =|ölüurl = hayır|website = cumhuriyet.com.tr}}</ref>}}
+*[[Yeni Osmanlıcılık]]{{refn|<ref>{{Web kaynağı|url = https://www.dha.com.tr/politika/fatih-erbakan-yeniden-refah-partisinin-ilk-mitingini-duzenledi-1611435|başlık = Fatih Erbakan "Yeniden Refah Partisi"nin ilk mitingini düzenledi. Osmanlı Padişahı Abdulhamid'in torunu Abdulhamid Kayıhan Osmanoğlu'nun kurucuları arasında yer aldığı "Yeniden Refah Partisi" Eyüp Sultan Meydanı'nda düzenlenen mitingle tanıtıldı.|erişimtarihi = 5 Ekim 2022|arşivtarihi = 26 Eylül 2022|arşivurl = https://web.archive.org/web/20220926131302/https://www.dha.com.tr/politika/fatih-erbakan-yeniden-refah-partisinin-ilk-mitingini-duzenledi-1611435|tarih =|ölüurl = hayır|website = dha.com}}</ref><ref>{{Web kaynağı|url = https://www.odatv4.com/guncel/o-parti-liderinin-basdanismani-olan-abdulhamidin-torunu-boyle-tehdit-etti-osmanli-uzerinden-siyaset-yapanlar-bilsinler-ki-biz-geriye-donersek-14062037-185726|başlık = O parti liderinin Başdanışmanı olan Abdülhamid’in torunu böyle tehdit etti: Osmanlı üzerinden siyaset yapanlar bilsinler ki biz geriye dönersek...|erişimtarihi = 5 Ekim 2022|arşivtarihi = 31 Ağustos 2022|arşivurl = https://web.archive.org/web/20220831095637/https://www.odatv4.com/guncel/o-parti-liderinin-basdanismani-olan-abdulhamidin-torunu-boyle-tehdit-etti-osmanli-uzerinden-siyaset-yapanlar-bilsinler-ki-biz-geriye-donersek-14062037-185726|tarih =|ölüurl = hayır|website = odatv4.com}}</ref>}}
+*[[Antisiyonizm]]{{refn|<ref>{{Web kaynağı|url = https://www.indyturk.com/node/537381/siyaset/fatih-erbakan-abd-i%CC%87srail-ter%C3%B6r-devletini-engellemek-i%C3%A7in-suriyelilerin|başlık = Fatih Erbakan: ABD-İsrail terör devletini engellemek için Suriyelilerin gönderilmesi şart|erişimtarihi = 5 Ekim 2022|arşivtarihi = 8 Ağustos 2022|arşivurl = https://web.archive.org/web/20220808191400/https://www.indyturk.com/node/537381/siyaset/fatih-erbakan-abd-i%CC%87srail-ter%C3%B6r-devletini-engellemek-i%C3%A7in-suriyelilerin|tarih =|ölüurl = hayır|website = indyturk.com}}</ref><ref>{{Web kaynağı|url = https://www.aa.com.tr/tr/politika/yeniden-refah-partisi-genel-baskani-erbakandan-israile-ilhak-plani-tepkisi/1899796|başlık = Yeniden Refah Partisi Genel Başkanı Erbakan'dan İsrail'e "ilhak planı" tepkisi|erişimtarihi = 5 Ekim 2022|arşivtarihi = 9 Temmuz 2020|arşivurl = https://web.archive.org/web/20200709171411/https://www.aa.com.tr/tr/politika/yeniden-refah-partisi-genel-baskani-erbakandan-israile-ilhak-plani-tepkisi/1899796|tarih =|ölüurl = hayır|website = aa.com.tr}}</ref>}}
+*[[Avrupa şüpheciliği]]<ref>{{Web kaynağı|url = https://www.indyturk.com/node/534556/siyaset/erbakan-ab-kap%C4%B1s%C4%B1nda-60-senedir-bekletilen-t%C3%BCrkiye-i%CC%87sve%C3%A7-ve-finlandiyay%C4%B1-2-ay|başlık = Erbakan: AB kapısında 60 senedir bekletilen Türkiye, İsveç ve Finlandiya'yı 2 ay NATO'nun kapısında bekletememiştir|erişimtarihi = 5 Ekim 2022|arşivtarihi = 29 Temmuz 2022|arşivurl = https://web.archive.org/web/20220729201719/https://www.indyturk.com/node/534556/siyaset/erbakan-ab-kap%C4%B1s%C4%B1nda-60-senedir-bekletilen-t%C3%BCrkiye-i%CC%87sve%C3%A7-ve-finlandiyay%C4%B1-2-ay|tarih =|ölüurl = hayır|website = indyturk.com}}</ref>
+*[[Aşırı muhafazakârlık]]<ref>{{Web kaynağı|url=https://www.aljazeera.com/news/2023/5/11/turkeys-elections-what-are-the-key-alliances-promising|başlık=Turkey’s elections: What are the key alliances promising?|erişimtarihi=11 Mart 2025|tarih=11 Mayıs 2023|dil=İngilizce|çalışma=aljazeera.com|ad=Umut|soyadı=Uras|arşivurl=https://web.archive.org/web/20250209061018/https://www.aljazeera.com/news/2023/5/11/turkeys-elections-what-are-the-key-alliances-promising|arşivtarihi=9 Şubat 2025|ölüurl=hayır}} Kaynaktan alıntı: ''"the ultraconservative New Welfare Party (YRP)."''</ref>
+}}
+| pozisyon         = [[Sağcılık|Sağ]]<ref name="duvarenglish.com">{{Web kaynağı|url = https://www.duvarenglish.com/ruling-akp-looks-to-extend-alliance-with-two-parties-news-62003|başlık = Ruling AKP looks to extend alliance with two parties|erişimtarihi = 26 Aralık 2024|dil = İngilizce|ölüurl = hayır|website = duvarenglish.com|arşivurl = https://web.archive.org/web/20230311023943/https://www.duvarenglish.com/ruling-akp-looks-to-extend-alliance-with-two-parties-news-62003|arşivtarihi = 11 Mart 2023}} Kaynaktan alıntı: "''The YRP is a right-wing Islamist party coming from the same political tradition with the AKP''"</ref> ve [[aşırı sağ]]<ref>{{Web kaynağı|url = https://www.duvarenglish.com/turkish-far-right-unprecedentedly-consolidates-voters-news-62418|başlık = Turkish far-right 'unprecedentedly' consolidates voters|erişimtarihi = 17 Mayıs 2023|dil = İngilizce|ölüurl = hayır|website = duvarenglish.com|arşivurl = https://web.archive.org/web/20230516163859/https://www.duvarenglish.com/turkish-far-right-unprecedentedly-consolidates-voters-news-62418|arşivtarihi = 16 Mayıs 2023}} Kaynaktan alıntı: ''"the far-right Islamist New Welfare Party (YRP)"''</ref>
+| ulusal           = [[Cumhur İttifakı]] {{Küçük|(2023-2024)}}
+| gençlik_kolu     = Genç Refah
+| renkler          = {{Color box|{{Siyasi parti renk|Yeniden Refah Partisi}}|border=darkgray}} {{Color box|#FFFFFF|border=darkgray}} [[Kırmızı]] ve [[beyaz]]
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|3|600|{{Siyasi parti renk|Yeniden Refah Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye3_başlık = [[Türkiye'nin illeri|İl Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|1|51|{{Siyasi parti renk|Yeniden Refah Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye4_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye4        = {{Composition bar|17|922|{{Siyasi parti renk|Yeniden Refah Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = [https://www.yenidenrefahpartisi.org.tr yenidenrefahpartisi.org.tr]
+| ülke             = {{bayraksimge|Türkiye}} [[Türkiye|Türkiye Cumhuriyeti]]
+| bayrak           = 
+| öncülü           = [[Saadet Partisi]]
+| lider1_başlık    = Genel başkan vekilleri
+| lider1_isim      = [[Sacit Günbey]]<br>[[Doğan Aydal]]
+| sandalye5_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye5        = {{Composition bar|6|390|{{Siyasi parti renk|Yeniden Refah Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye6_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye6        = {{Composition bar|21|1282|{{Siyasi parti renk|Yeniden Refah Partisi}}}}
+| sandalye7_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye7        = {{Composition bar|1004|20953|{{Siyasi parti renk|Yeniden Refah Partisi}}}}
+}}
+'''Yeniden Refah Partisi''', 23 Kasım 2018 tarihinde [[Fatih Erbakan]] liderliğinde kurulan ve [[Türkiye]]'de faaliyet gösteren [[Millî Görüş]] ideolojisine bağlı siyasi partidir. Parti tüzüğüne göre resmî kısaltması "Yeniden Refah" şeklindedir. Simgesi hilal içerisinde başaktır. [[Türkiye Büyük Millet Meclisi|TBMM]]'de 3 milletvekili ile temsil edilmektedir. Genel başkanı Fatih Erbakan'dır.<ref>[http://www.hurriyet.com.tr/gundem/yeniden-refah-kuruldu-41029333 Yeniden Refah Kuruldu] {{Webarşiv|url=https://web.archive.org/web/20181125085405/http://www.hurriyet.com.tr/gundem/yeniden-refah-kuruldu-41029333 |tarih=25 Kasım 2018 }}, Hürriyet</ref>
+
+30 Mart 2021 tarihinde [[Yüksek Seçim Kurulu (Türkiye)|YSK]] tarafından yayınlanan seçime girebilecek partilerin açıklandığı listede kendisine yer buldu. [[2023 Türkiye genel seçimleri]] ile ilk kez büyük bir seçime katıldı. [[2024 Türkiye yerel seçimleri]]nde ise en çok oy alan 3. parti oldu.
+
+== Tarihçe ==
+[[Millî Görüş]] çizgisinde ilerleyen parti "milletimiz için biz varız" sloganı ile kuruldu. Yeniden Refah Partisi, hedefini daha önceki Millî Görüş partilerinde olduğu gibi "''önce ahlak ve maneviyat''" ilkesi ile "''Yeniden büyük Türkiye''" öncülüğünde yeni bir dünya ve adil düzeni kurmak olarak belirtmiştir.
+
+Parti temeli [[Necmettin Erbakan Vakfı]] kadrolarından oluşturuldu. Yaptığı ilk kongrede 44 bin kişinin üstünde katılım ile Türk siyasi tarihinin en büyük kongrelerinden birini gerçekleştirerek adını duyurmuştur.{{refn|<ref>{{Web kaynağı|url=https://www.dunyabulteni.net/guncel/yeniden-refah-partisi-nde-ilk-kongreye-rekor-katilim-h453507.html|başlık=Yeniden Refah Partisi'nde ilk kongreye rekor katılım|erişimtarihi=31 Mart 2021|arşivtarihi=19 Kasım 2019|arşivurl=https://web.archive.org/web/20191119040404/https://www.dunyabulteni.net/guncel/yeniden-refah-partisi-nde-ilk-kongreye-rekor-katilim-h453507.html|dil=Türkçe|ad=Türkiye ve Dünya Haberleri, Analizler, Yorumlar, Makaleler, Araştırma|soyadı=Dosyaları}}</ref><ref>{{Web kaynağı|url=https://www.tamgaturk.com/haber/yeniden-refah-partisi-ne-zaman-kuruldu-genel-baskani-kimdir/59751/Yeniden|başlık=Refah Partisi Ne Zaman Kuruldu? Genel Başkanı Kimdir?|erişimtarihi=6 Haziran 2023|arşivurl=https://web.archive.org/web/20230606160827/https://www.tamgaturk.com/haber/yeniden-refah-partisi-ne-zaman-kuruldu-genel-baskani-kimdir/59751/Yeniden|arşivtarihi=6 Haziran 2023|ölüurl=hayır}}</ref>}} Ayrıca partinin ilk mitingi 9 Şubat 2020 tarihinde Sakarya Demokrasi Meydanı'ndaki alanda "Kudüs Mitingi" olarak gerçekleşmiştir. 6 Kasım 2022 tarihinde gerçekleştirilen Yeniden Refah Partisi 2. Olağan Büyük Kongresinde Emniyet verilerine göre 65.000; gayriresmî verilere göre de 80.000 kişi ile gerçekleşmiştir.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/fatih-erbakandan-kongre-aciklamasi-turk-siyasi-tarihinde-gorulmemis-olay-2000562|başlık=Fatih Erbakan'dan kongre açıklaması: Türk siyasi tarihinde görülmemiş olay|erişimtarihi=6 Haziran 2023|arşivurl=https://web.archive.org/web/20230606154729/https://www.cumhuriyet.com.tr/siyaset/fatih-erbakandan-kongre-aciklamasi-turk-siyasi-tarihinde-gorulmemis-olay-2000562|arşivtarihi=6 Haziran 2023|ölüurl=hayır}}</ref>
+
+[[2023 Türkiye cumhurbaşkanlığı seçimi]] için önce genel başkan [[Fatih Erbakan]] aday gösterilmiş, adaylığı imza toplama aşamasındayken parti [[Cumhur İttifakı]]na katılma kararı alması sonrası adaylıktan çekilmiştir.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/2023-secim/yeniden-refah-partisi-cumhur-ittifakinda-fatih-erbakan-adayliktan-cekildi,QhBhwU3Bck6t10DGxnADMg|başlık=Yeniden Refah Partisi Cumhur İttifakı'nda (Fatih Erbakan adaylıktan çekildi)|erişimtarihi=24 Mart 2023|arşivurl=https://web.archive.org/web/20230324151501/https://www.ntv.com.tr/2023-secim/yeniden-refah-partisi-cumhur-ittifakinda-fatih-erbakan-adayliktan-cekildi,QhBhwU3Bck6t10DGxnADMg|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref>
+
+=== Saadet Partisi Genel Merkezi ===
+[[Necmettin Erbakan]]'ın da genel başkanlığını yaptığı [[Saadet Partisi]], [[Balgat]]'ta bulunan ve yıllardır [[Millî Görüş]] çizgisinde ilerleyen bütün siyasi partilerin genel merkezi konumunda olan binada faaliyetlerini sürdürmekteydi. Ancak Yeniden Refah Partisi Genel Başkanı [[Fatih Erbakan]], Saadet Partisi'nin artık Millî Görüş çizgisinden çıktığını ve söz konusu binanın kirasını ödemediğini ileri sürerek haciz işlemleri başlattı.<ref>{{Web kaynağı|url=https://www.internethaber.com/saadet-partisi-genel-merkez-binasina-haciz-geldi-bina-bosaltildi-2013967h.htm|başlık=Saadet Partisi Genel Merkez binasına haciz geldi bina boşaltıldı|erişimtarihi=31 Mart 2021|arşivtarihi=12 Nisan 2019|arşivurl=https://web.archive.org/web/20190412133450/https://www.internethaber.com/saadet-partisi-genel-merkez-binasina-haciz-geldi-bina-bosaltildi-2013967h.htm|tarih=4 Kasım 2019|dil=tr-TR|ad=Internet|soyadı=Haber}}</ref> Bunun üzerine Saadet Partisi binayı 11 Nisan 2019'da tahliye etti. Tahliye işleminin ardından Yeniden Refah, genel merkez olarak bu binaya taşınmıştır.<ref>[https://www.aa.com.tr/tr/politika/yeniden-refah-partisi-tabelasini-asti/1536327# Yeniden Refah Partisi tabelasını astı] {{Webarşiv|url=https://web.archive.org/web/20190720164258/https://www.aa.com.tr/tr/politika/yeniden-refah-partisi-tabelasini-asti/1536327 |tarih=20 Temmuz 2019 }}, 19.07.2019</ref>
+
+=== Necmettin Erbakan üzerine tartışma ===
+Millî Görüş çizgisindeki iki parti arasında [[Necmettin Erbakan]] hayatta olsaydı siyasi olarak kimin tarafında olurdu sorusu üzerine tartışma çıktı. [[Saadet Partisi]] Genel Başkanı [[Temel Karamollaoğlu]], "Necmettin Erbakan hayatta olsa [[Cumhuriyet Halk Partisi|CHP]] ile birlikte olurdu" dedi. Yeniden Refah Partisi Genel Başkanı [[Fatih Erbakan]] ise Necmettin Erbakan hayatta olsaydı asla CHP ile birlikte olmayacağını belirtti ve tek başına da kalsa Millî Görüş çizgisinden ödün vermeden mücadelesine devam ederdi dedi.<ref>{{Web kaynağı|url = https://www.ensonhaber.com/politika/fatih-erbakandan-temel-karamollaogluna-erbakan-hoca-cevabi|başlık = Fatih Erbakan'dan Temel Karamollaoğlu'na 'Erbakan Hoca' cevabı|erişimtarihi = 18 Ocak 2023|arşivtarihi = 17 Ocak 2023|arşivurl = https://web.archive.org/web/20230117210818/https://www.ensonhaber.com/politika/fatih-erbakandan-temel-karamollaogluna-erbakan-hoca-cevabi|tarih =|ölüurl = hayır|website = ensonhaber.com}}</ref>
+
+=== 2018-2023 dönemi ===
+
+Yeniden Refah Partisi, 2023 yılından önce genel seçimlere girmemiştir. 2021 yılında [[Afyonkarahisar]]’ın [[Sinanpaşa]] ilçesine bağlı [[Güney, Sinanpaşa|Güney]] beldesinde yapılan belediye başkanlığını seçimine katılmıştır.<ref name=":0">{{Web kaynağı|url=https://www.hurriyet.com.tr/gundem/afyonkarahisarin-guney-beldesinde-secimin-kazanini-belli-oldu-41826512|başlık=Afyonkarahisar'ın Güney beldesinde seçimin kazanını belli oldu|arşivtarihi=6 Haziran 2021|arşivurl=https://web.archive.org/web/20210606211142/https://www.hurriyet.com.tr/gundem/afyonkarahisarin-guney-beldesinde-secimin-kazanini-belli-oldu-41826512|tarih=6 Haziran 2021|yayıncı=hurriyet.com.tr}}</ref> 1709 oyun kullanıldığı seçimde geçerli 1606 oyun 1021'ini alan AK Parti adayı Erol Karabacak belediye başkanı seçildi. Seçimi altıncı tamamlayan Yeniden Refah Partisi adayı ise 7 oy almıştır.<ref name=":0" />
+
+Yeniden Refah Partisi, 2022 yılında [[Çankırı]]’nın [[Orta, Çankırı|Orta]] ilçesine bağlı [[Dodurga, Orta|Dodurga]] beldesinde yapılan belediye başkanlığını seçimine katılarak 1411 seçmenin bulunduğu beldede "Yeniden Refah Partisi" adayı Hakan Kuşcu 47 oy alarak ikinci parti oldu.<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/gundem/dodurgada-secim-sonuclari-belli-oldu-6783720|başlık=Dodurga'da seçim sonuçları belli oldu - Son Dakika Haberler Milliyet|erişimtarihi=4 Temmuz 2022|arşivtarihi=4 Temmuz 2022|arşivurl=https://web.archive.org/web/20220704032634/https://www.milliyet.com.tr/amp/gundem/dodurgada-secim-sonuclari-belli-oldu-6783720|ölüurl=hayır|website=www.milliyet.com.tr}}</ref>
+
+=== 2023 genel seçimleri ===
+
+[[Fatih Erbakan]], Yeniden Refah Partisi'nin [[Cumhur İttifakı|Cumhur]] ve [[Millet İttifakı|Millet]] dahil olmak üzere hiçbir ittifaka katılmadan [[2023 Türkiye genel seçimleri|seçimlere]] tek başına gireceğini açıkladı. Erbakan yaptığı açıklamada; ''"En başından beri söyledik, bizim derdimiz Milli Görüş zihniyetinin Türkiye’de iktidara gelmesi. Bu olmadıktan sonra, Milli Görüş’ün kırmızı çizgilerine riayet edilmeyecekse bizim herhangi bir ittifakın içerisinde yer almamızın hiçbir anlamı yok."'' dedi.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/yeniden-refah-partisi-secime-tek-basimiza-girecegiz-2019371|başlık=Yeniden Refah Partisi: Seçime tek başımıza gireceğiz|erişimtarihi=7 Ocak 2023|arşivtarihi=7 Ocak 2023|arşivurl=https://web.archive.org/web/20230107141457/https://www.cumhuriyet.com.tr/siyaset/yeniden-refah-partisi-secime-tek-basimiza-girecegiz-2019371|tarih=|ölüurl=hayır|website=cumhuriyet.com.tr}}</ref> Fatih Erbakan, Yeniden Refah Partisi'nin baraj probleminin olmadığını iddia etti ve parti oyunun %8'e çıktığını söyledi. Bu oy oranını genel merkezin yaptığı anketlere dayandırdı.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/fatih-erbakan-genel-merkezimizin-yaptigi-ankette-oylarimiz-yuzde-8-cikti,1085324|başlık=Fatih Erbakan: Genel merkezimizin yaptığı ankette, oylarımız yüzde 8 çıktı|erişimtarihi=16 Ocak 2023|arşivtarihi=14 Ocak 2023|arşivurl=https://web.archive.org/web/20230114110548/https://t24.com.tr/haber/fatih-erbakan-genel-merkezimizin-yaptigi-ankette-oylarimiz-yuzde-8-cikti,1085324|tarih=|ölüurl=hayır|website=t24.com.tr}}</ref>
+
+20 Mart 2023 tarihinde Yeniden Refah Partisi, Cumhur İttifakı'ndan partiye gelen ittifaka üyelik teklifini reddederek Cumhur İttifakı'na katılmama kararı aldı.<ref>{{Web kaynağı|url=https://www.haberturk.com/son-dakika-yeniden-refah-partisi-nden-cumhur-ittifaki-na-katilmama-karari-3575198|başlık=Yeniden Refah Partisi'nden Cumhur İttifakı'na katılmama kararı|erişimtarihi=20 Mart 2023|arşivtarihi=20 Mart 2023|arşivurl=https://web.archive.org/web/20230320131521/https://www.haberturk.com/son-dakika-yeniden-refah-partisi-nden-cumhur-ittifaki-na-katilmama-karari-3575198|ölüurl=hayır|website=haberturk.com}}</ref> 24 Mart 2023 tarihinde ise Cumhur İttifakı'na katılma kararı aldı.<ref>{{Web kaynağı|url=https://www.haberler.com/guncel/son-dakika-yeniden-refah-partisi-cumhur-ittifaki-15719398-haberi/|başlık=Son Dakika: Yeniden Refah Partisi Cumhur İttifakı'na katıldı|erişimtarihi=24 Mart 2023|arşivtarihi=24 Mart 2023|arşivurl=https://web.archive.org/web/20230324132546/https://www.haberler.com/guncel/son-dakika-yeniden-refah-partisi-cumhur-ittifaki-15719398-haberi/|tarih=24 Mart 2023|dil=Türkçe|çalışma=haberler.com}}</ref> 14 Mayıs 2023 tarihinde yapılan Türkiye genel seçimlerinde Cumhur İttifakı'ndan seçimlere katılan Yeniden Refah Partisi, 1.527.048 seçmenden aldığı oy ile %2,8 oranıyla seçimde 6. parti oldu ve 5 milletvekili meclise girdi.<ref>{{Web kaynağı|url=https://www.resmigazete.gov.tr/eskiler/2023/05/20230530M1-1.pdf|başlık=Yüksek Seçim Kurulunun 30/05/2023 Tarihli ve 2023/1255 Sayılı Kararı|erişimtarihi=31 Mayıs 2023|arşivtarihi=30 Mayıs 2023|arşivurl=https://web.archive.org/web/20230530144637/https://www.resmigazete.gov.tr/eskiler/2023/05/20230530M1-1.pdf|tarih=30 Mayıs 2023|çalışma=[[T.C. Resmî Gazete]]|yayıncı=[[Yüksek Seçim Kurulu (Türkiye)|Yüksek Seçim Kurulu]]}}</ref>
+
+=== 2024 yerel seçimleri ===
+
+24 Kasım 2023 tarihinde Yeniden Refah Partisi Genel Merkezinde yapılan tanıtım toplantısıyla ilk etapta [[Malatya]], [[Bayburt]] il merkezi, [[Pendik]] ve [[Gölbaşı, Ankara|Gölbaşı'nın]] da aralarında olduğu 42 ilçe ve 5 belde için belediye başkan adayları açıklandı.<ref>{{Web kaynağı|url=https://twitter.com/rprefahpartisi/status/1728010223422714309|başlık=Belediye Başkanları Aday Tanıtım Toplantısı|erişimtarihi=28 Kasım 2023|dil=Türkçe|çalışma=X (formerly Twitter)|arşivurl=https://web.archive.org/web/20231205144429/https://twitter.com/rprefahpartisi/status/1728010223422714309|arşivtarihi=5 Aralık 2023|ölüurl=hayır}}</ref> Ardından 2 Aralık 2023 tarihinde İl Başkanları Toplantısı öncesi [[Kırıkkale]] ve [[Yalova]] il merkezi, [[Manisa]], aralarında [[Ümraniye]] ve [[Sarıçam, Adana|Sarıçam'ın]] da bulunduğu 63 ilçe ve 21 beldenin daha adayları duyuruldu.<ref>{{Web kaynağı|url=https://twitter.com/rprefahpartisi/status/1730847004392313078|başlık=Belediye Başkanları Aday Tanıtım Toplantısı|erişimtarihi=6 Aralık 2023|arşivtarihi=7 Aralık 2023|arşivurl=https://web.archive.org/web/20231207180122/https://twitter.com/rprefahpartisi/status/1730847004392313078|ölüurl=hayır|dil=Türkçe|çalışma=X (formerly Twitter)}}</ref>
+
+3 Şubat 2024'te Yeniden Refah Partisi lideri [[Fatih Erbakan]] yaptığı açıklamada İstanbul, Ankara ve İzmir'de kendi adaylarıyla girme kararı aldı ve [[2024 Türkiye yerel seçimleri|2024 yerel seçimlerinde]] ittifak yapmama kararı aldı.<ref>{{Haber kaynağı|url=https://www.ensonhaber.com/gundem/yeniden-refah-partisi-ittifak-kararini-acikladi|başlık=Yeniden Refah Partisi ittifak kararını açıkladı.|erişimtarihi=3 Şubat 2024|arşivtarihi=3 Şubat 2024|arşivurl=https://web.archive.org/web/20240203120541/https://www.ensonhaber.com/gundem/yeniden-refah-partisi-ittifak-kararini-acikladi|tarih=3 Şubat 2024|ölüurl=hayır|yayıncı=Ensonhaber}}</ref> [[2024 Türkiye yerel seçimleri|2024 yerel seçimlerinde]] %6,19 oy alarak başta [[Şanlıurfa Büyükşehir Belediyesi]] ve [[Yozgat]] olmak üzere 39 ilçe ve 19 belde olmak üzere 62 belediyede seçimleri kazandı.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/yeniden-refah-yrp-yerel-secimde-ne-kadar-oy-aldi-kac-belediye-kazandi-p35840|başlık=Yeniden Refah (YRP) yerel seçimde ne kadar oy aldı, kaç belediye kazandı? - Sözcü Gazetesi|erişimtarihi=5 Nisan 2024|tarih=1 Nisan 2024|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]|arşivurl=https://web.archive.org/web/20240404194514/https://www.sozcu.com.tr/yeniden-refah-yrp-yerel-secimde-ne-kadar-oy-aldi-kac-belediye-kazandi-p35840|arşivtarihi=4 Nisan 2024|ölüurl=hayır}}</ref>
+
+== Politikalar ==
+Yeniden Refah Partisi, [[Millî Görüş]] ilkelerini benimser. Millî üretim, millî kalkınma, yoksulluğun tamamen bitirilmesi ve [[Türkiye]]'nin dışa bağımlılığını tamamen ortadan kaldırma hedefleri olduğunu belirtir. [[Necmettin Erbakan]]'ın Millî Görüş'ün hedeflerinden biri olarak tanımladığı "adil düzen" vurgusunu benimser. Yeniden Refah, vatandaşların maddi ve manevi sıkıntılarından kurtulmasının partinin temel ilkelerinden biri olduğunu iddia eder.<ref>{{Web kaynağı|url=https://yenidenrefahpartisi.org.tr/page/parti-programi/14|başlık=Yeniden Refah Partisi Programı|erişimtarihi=20 Kasım 2022|arşivtarihi=16 Şubat 2019|arşivurl=https://web.archive.org/web/20190216220253/https://yenidenrefahpartisi.org.tr/page/parti-programi/14|tarih=|ölüurl=hayır|website=yenidenrefahpartisi.org.tr}}</ref>
+
+Millî Görüş hareketi ilk ortaya çıktığından beri sürdürülen [[faiz]]e katı biçimde karşıtlığı Yeniden Refah Partisi devam ettirmektedir. Fatih Erbakan, faizi haksız kazanç ve zulüm olarak ele aldı ve [[İslam]]'da da yasaklanmış olduğunu ifade etti.<ref>{{Web kaynağı|url=https://twitter.com/rprefahpartisi/status/1591129352208384000|başlık=Fatih Erbakan: Faiz haksız kazançtır. Bir zulümdür. Dinimizde bu sebepten yasaklamıştır.|erişimtarihi=16 Ocak 2023|arşivtarihi=17 Ocak 2023|arşivurl=https://web.archive.org/web/20230117045236/https://twitter.com/rprefahpartisi/status/1591129352208384000|tarih=|ölüurl=hayır|website=twitter.com}}</ref> Fatih Erbakan iktidara geldiklerinde faizi tamamen kaldırma görüşündedir.<ref>{{Web kaynağı|url=https://www.dha.com.tr/yerel-haberler/sivas/fatih-erbakan-ummet-icin-calisan-kadrolar-mill-2032563|başlık=Fatih Erbakan: Ümmet için çalışan kadrolar milli görüşten çıkacak|erişimtarihi=16 Ocak 2023|arşivtarihi=16 Ocak 2023|arşivurl=https://web.archive.org/web/20230116071548/https://www.dha.com.tr/yerel-haberler/sivas/fatih-erbakan-ummet-icin-calisan-kadrolar-mill-2032563|tarih=|ölüurl=hayır|website=dha.com.tr}}</ref>
+
+Yeniden Refah, tüm dünyada [[Müslüman]]ların birlik olmasından yanadır ve Türkiye öncülüğünde bir [[İslam]] birliği olması gerektiğini savunur. Parti [[Ümmetçilik|ümmetçi]] düşünceler barındırır.<ref>{{Web kaynağı|url=https://www.yeniakit.com.tr/haber/fatih-erbakandan-islam-birligi-aciklamasi-1636619.html|başlık=Fatih Erbakan'dan İslam birliği açıklaması|erişimtarihi=20 Kasım 2022|arşivtarihi=13 Mart 2022|arşivurl=https://web.archive.org/web/20220313150136/https://www.yeniakit.com.tr/haber/fatih-erbakandan-islam-birligi-aciklamasi-1636619.html|tarih=|ölüurl=hayır|website=yeniakit.com.tr}}</ref> Bununla birlikte dini ve sosyal olarak [[Muhafazakârlık|muhafazakâr]] duruşa sahiptir. Toplumsal ahlakın, ahlaki ve manevi değerlerin muhafaza edilmesinden yanadır. Eşcinselliğin yaygınlaşmasına ve övülmesine karşı olan genel başkan Fatih Erbakan, iktidara geldiklerinde tüm eşcinsel derneklerin kapatılacağını iddia etti. "''Eşcinsellik, tüm dinlerde yasaklanmış bir sapkınlık''" yorumunda bulundu.<ref>{{Web kaynağı|url=https://www.ensonhaber.com/gundem/fatih-erbakan-iktidara-gelince-lgbti-derneklerini-kapatacagiz|başlık=Fatih Erbakan: İktidara gelince LGBTİ derneklerini kapatacağız|erişimtarihi=20 Kasım 2022|arşivtarihi=12 Kasım 2022|arşivurl=https://web.archive.org/web/20221112151441/https://www.ensonhaber.com/gundem/fatih-erbakan-iktidara-gelince-lgbti-derneklerini-kapatacagiz|tarih=|ölüurl=hayır|website=ensonhaber.com}}</ref> Parti, [[İstanbul Sözleşmesi]]'ne ve [[feminizm]]e de karşıdır.{{refn|<ref>{{Web kaynağı|url=https://www.diken.com.tr/erbakana-gore-ha-fasizm-ha-feminizm/|başlık=Fatih Erbakan’a göre ha faşizm ha feminizm|erişimtarihi=6 Nisan 2023|arşivtarihi=21 Mart 2023|arşivurl=https://web.archive.org/web/20230321223750/https://www.diken.com.tr/erbakana-gore-ha-fasizm-ha-feminizm/|ölüurl=hayır|website=diken.com.tr}}</ref><ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/fatih-erbakan-istanbul-sozlesmesini-hedef-aldi-haber-1582439|başlık=Fatih Erbakan İstanbul Sözleşmesi'ni hedef aldı|erişimtarihi=20 Kasım 2022|arşivtarihi=25 Eylül 2022|arşivurl=https://web.archive.org/web/20220925093138/https://www.gazeteduvar.com.tr/fatih-erbakan-istanbul-sozlesmesini-hedef-aldi-haber-1582439|tarih=|ölüurl=hayır|website=gazeteduvar.com.tr}}</ref>}}
+
+Parti lideri Fatih Erbakan, kendisine yöneltilen "Atatürk devrimlerine karşı mısınız?" sorusuna; "''Bizim Atatürk ile herhangi bir sorunumuz yok... Yerli ve millî bir lider. Türkiye'nin kalkınması, tam bağımsızlığı için mücadele etmiş... askerliğiyle de, askeri dehâsıyla da hayırla yad ettiğimiz bir insan.''" cevabını verdi.<ref>{{video kaynağı|url=https://youtube.com/watch?v=dBqovby7wVY|başlık=Atatürk devrimlerine karşı mısınız?|erişimtarihi=20 Kasım 2022|arşivtarihi=20 Kasım 2022|arşivurl=https://web.archive.org/web/20221120175042/https://www.youtube.com/watch?v=dBqovby7wVY|yazarlar=Fatih Erbakan|id=|biçim=|dil=Türkçe|yayıncı=Yeniden Refah Partisi Youtube Kanalı|ortam=|yıl=2020|zaman=|isbn=|oclc=|ölüurl=hayır}}</ref>
+
+=== COVID-19 pandemisi ===
+Yeniden Refah Partisi, [[COVID-19 pandemisi|pandemi döneminde]] insanlara aşının zorunlu olmasına karşı oldu ve aşı karşıtı bir tutumu benimsedi.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/fatih-erbakan-karantinamiz-abartildi-asi-olmayacagiz-haber-1540709|başlık=Fatih Erbakan: Karantinamız abartıldı, aşı olmayacağız|erişimtarihi=20 Kasım 2022|arşivtarihi=4 Kasım 2021|arşivurl=https://web.archive.org/web/20211104114600/https://www.gazeteduvar.com.tr/fatih-erbakan-karantinamiz-abartildi-asi-olmayacagiz-haber-1540709|tarih=|ölüurl=hayır|website=gazeteduvar.com.tr}}</ref>
+
+== Parti içi yapılanma ==
+
+=== Parti amblemi ===
+Yeniden Refah amblemi, 1983 yılında kurulan ve 1998 yılında kapatılan [[Refah Partisi]]'nin amblemine oldukça benzerlik göstermektedir. Logoda; maddi kalkınma olarak başak, manevi kalkınma olarak hilal temsil edilmektedir.
+
+=== Merkez Yürütme Kurulu üyeleri ===
+Yeniden Refah Partisi Merkez Yürütme Kurulu, Genel Başkan, Genel Başkan Yardımcıları, Genel Sekreter, Genel Muhasip ve TBMM Grup Başkan Vekillerinden meydana gelir. Genel Başkan Yardımcıları, Genel Sekreter ve Genel Muhasip, Merkez Karar Yürütme Kurulu veya parti üyeleri arasından Genel Başkan tarafından atanır. Genel Başkan Yardımcılarının sayısı ve görev alanları Genel Başkan tarafından belirlenir.<ref>{{Web kaynağı|url=https://yenidenrefahpartisi.org.tr/page/parti-tuzugu/12|başlık=PARTİ TÜZÜĞÜ {{!}} Yeniden Refah Partisi|erişimtarihi=10 Eylül 2023|arşivtarihi=14 Mayıs 2023|arşivurl=https://web.archive.org/web/20230514200339/https://yenidenrefahpartisi.org.tr/page/parti-tuzugu/12|ölüurl=hayır|dil=TR|çalışma=yenidenrefahpartisi.org.tr}}</ref>
+{|class="wikitable" style="text-align:center; font-size:90%;"
+!#
+!Adı
+!Görevi <ref>{{Web kaynağı|url = https://yenidenrefahpartisi.org.tr/cat/myk|başlık = Merkez Yürütme Kurulu üyeleri|erişimtarihi = 20 Mart 2019|tarih = 3 Nisan 2019|arşivurl = https://web.archive.org/web/20190320093915/https://yenidenrefahpartisi.org.tr/cat/myk|arşivtarihi = 20 Mart 2019}}</ref>
+|-
+!1
+|[[Fatih Erbakan]]
+|Genel Başkan
+|-
+!2
+|[[Sacit Günbey]]
+|Genel Başkanvekili
+|-
+!3
+|Doğan Aydal
+|Genel Başkanvekili (Ar-Ge Başkanı)
+|-
+!4
+|[[Suat Kılıç]]
+|Genel Başkan Yardımcısı (Siyasi İşler Başkanı)
+|-
+!5
+|Nurettin Gül
+|Genel Başkan Yardımcısı (Teşkilat Başkanı)
+|-
+!6
+|[[Doğan Bekin]]
+|Genel Başkan Yardımcısı (Dış İlişkiler Başkanı)
+|-
+!7
+|Muhammed Fatih Müjdeci
+|Genel Başkan Yardımcısı (Tanıtım ve Medya Başkanı)
+|-
+!8
+|Fatih Öztek
+|Genel Başkan Yardımcısı (Ekonomik İşler Başkanı)
+|-
+!9
+|Naim Öztürk
+|Genel Başkan Yardımcısı (Eğitim Başkanı)
+|-
+!10
+|Mehmet Fatih Uğurlu
+|Genel Başkan Yardımcısı (STK ile İlişkiler Başkanı)
+|-
+!11
+|Cemil Çolak
+|Genel Başkan Yardımcısı (Halkla İlişkiler Başkanı)
+|-
+!12
+|Mehmet Altınöz
+|Genel Başkan Yardımcısı (Genel Muhasip ve Mali İşler Başkanı)
+|-
+!13
+|Selçuk Geyveli
+|Genel Başkan Yardımcısı (Sosyal İşler Başkanı)
+|-
+!14
+|Cengiz Zor
+|Genel Başkan Yardımcısı (Seçim İşleri Başkanı)
+|-
+!15
+|[[Mehmet Aşıla]]
+|Genel Başkan Yardımcısı (Yurtdışı Vatandaşlar Başkanı)
+|-
+!16
+|Mehmet Kaderli
+|Genel Başkan Yardımcısı (Mahalli İdareler Başkanı)
+|-
+!17
+|Davut Konakcı
+|Genel Başkan Yardımcısı (Engelli Vatandaşlar Başkanı)
+|-
+!18
+|Mustafa Sezgin
+|Genel Başkan Yardımcısı (Gençlik Başkanı)
+|-
+!19
+|Bülent Osman Osmanağaoğlu
+|Genel Başkan Yardımcısı (Genel Sekreter)
+|}
+
+== Yeniden Refah Partisi ve seçimler ==
+
+=== Milletvekilliği seçimleri ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Seçim sonuçları
+! colspan="2" |Sandalye
+! rowspan="2" |Hükûmet
+|-
+!Oy sayısı
+!'''%'''
+!±
+!#
+!±
+|-
+![[2023 Türkiye genel seçimleri|2023]]
+|[[Fatih Erbakan]]
+|1.527.048
+|2,80 (#6)
+|Yeni
+|{{Composition bar|5|600|hex={{Siyasi parti renk|Yeniden Refah Partisi}}}}
+|Yeni
+|{{kısmen|[[67. Türkiye Hükûmeti|V. Erdoğan]]<br>{{Küçük|(dışarıdan destek, 2023-2024)}}<br>Muhalefet<br>{{Küçük|(2024-günümüz)}}}}
+|}
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan="2" |Seçim
+!rowspan="2"|Aday
+! colspan="3" |Birinci tur
+!colspan="2"|İkinci tur
+!rowspan="2"|Sonuç
+|-
+!Oy sayısı
+! %
+!±
+!Oy sayısı
+! %
+|-
+![[2023 Türkiye cumhurbaşkanlığı seçimi#İkinci tur|2023]]
+|[[Dosya:Recep Tayyip Erdogan in Ukraine.jpg|76px]]<hr>[[Recep Tayyip Erdoğan]]<hr>[[Cumhur İttifakı]] ortak adayı
+|27.133.849
+|49.52%  (#1)
+|—
+|27.725.131
+|52.16% (#1)
+|{{evet2| {{Y}} Seçildi}}
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|[[Fatih Erbakan]]
+|3.190.511
+|7,0 (#3)
+|Yeni
+|2.851.784
+|6,2 (#3)
+|{{Composition bar|60|1389|hex={{Siyasi parti renk|Yeniden Refah Partisi}}}}
+|Yeni
+|}
+
+== Milletvekilleri ==
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi 
+|-
+|'''1'''
+|[[Fatih Erbakan]]
+|[[İstanbul milletvekilleri listesi|İstanbul (II)]]
+|Genel Başkan
+|-
+|'''2'''
+|[[Doğan Bekin]]
+|[[İstanbul milletvekilleri listesi|İstanbul (III)]]
+|Genel Başkan Yardımcısı<br>Avrupa Birliği Uyum Komisyonu Üyesi
+|-
+|'''3'''
+|[[Mehmet Aşıla]]
+|[[Kocaeli milletvekilleri listesi|Kocaeli]]
+|Genel Başkan Yardımcısı<br>Kamu İktisadi Teşebbüsleri Komisyonu Üyesi
+|}
+
+== Genel başkanları ==
+{| class="wikitable" style="font-size:90%;"
+|-
+! # !! İsim !! Resim !! Görev Başlangıcı !! Görev Bitişi !! Görev Süresi
+|- 
+! style="background:{{Siyasi parti renk|Yeniden Refah Partisi}}; color:white;"| 1
+| [[Fatih Erbakan]]
+| [[Dosya:Fatiherbakan (cropped).jpg|60px]]
+| 23 Kasım 2018
+| ''Görevde''
+| {{Yıl ve gün cinsinden yaşı|2018|11|23}}
+|}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:60%;"
+! #
+!İsim
+!İl
+!İlçe 
+!Belde
+|-
+| '''1''' || Halil Aygün ||rowspan="2"|[[Afyonkarahisar (il)|Afyonkarahisar]] || [[Afyonkarahisar|Merkez]] || [[Salar, Afyonkarahisar|Salar]]
+|-
+| '''2''' || Üzeyir Kasap ||  [[Çay, Afyonkarahisar|Çay]] || [[Karamıkkaracaören, Çay|Karamıkkaracaören]] 
+|-
+| '''3''' || Kemal Tartar || [[Bingöl (il)|Bingöl]] || [[Genç, Bingöl|Genç]] ||
+|-
+| '''4''' || Sezayi Pütün || [[Denizli (il)|Denizli]] || [[Beyağaç]] ||
+|-
+| '''5''' || İbrahim Ormanoğlu|| rowspan="2"|[[Elazığ (il)|Elazığ]] ||[[Elazığ|Merkez]] || [[Akçakiraz, Elazığ|Akçakiraz]] 
+|-
+| '''6''' || Zafer Altınışık || [[Alacakaya]] ||
+|-
+| '''7''' || Bekir Öztekin || rowspan="2"|[[Gaziantep (il)|Gaziantep]] || [[Oğuzeli]] ||
+|-
+| '''8''' || Mehmet Kaya || [[Yavuzeli]] ||
+|-
+| '''9''' || Selim Cüce || [[Kahramanmaraş (il)|Kahramanmaraş]] || [[Göksun]] || 
+|-
+| '''10''' || Ali Okumuş ||rowspan="2"|[[Kütahya (il)|Kütahya]] || [[Simav]] || [[Güney, Simav|Güney]]
+|-
+| '''11''' || Veysel Tekin ||  [[Tavşanlı]] || [[Tepecik, Tavşanlı|Tepecik]] 
+|-
+| '''12''' || Selçuk Yıldız||rowspan="3"|[[Sakarya]] || [[Geyve]] || 
+|-
+| '''13''' || Mehmet Murat Çoruhlu ||[[Karapürçek]] || 
+|-
+| '''14''' || Kadir Yazgan ||[[Kaynarca]] || 
+|-
+| '''15''' || Şerif Ün ||[[Samsun (il)|Samsun]] || [[Kavak, Samsun|Kavak]] ||
+|-
+| '''16''' || Hasan Kara || [[Sinop (il)|Sinop]] || [[Boyabat]] ||
+|-
+| '''17''' || [[Nihat Çiftçi]] ||[[Şanlıurfa (il)|Şanlıurfa]] ||[[Karaköprü]] ||
+|-
+| '''18''' || [[Kazım Arslan (1959 doğumlu siyasetçi)|Kazım Arslan]] || [[Yozgat (il)|Yozgat]] || [[Yozgat|Merkez]] ||
+|-
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |
+|-
+|}
+{{gizli içerik-son}}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+* {{facebook|yenidenrefahpartisi}}
+* {{twitter|rprefahpartisi}}
+* {{Instagram|rprefahpartisi}}
+* [[YouTube|Youtube]]'da [https://youtube.com/rprefahpartisi Yeniden Refah Partisi] {{Webarşiv|url=https://web.archive.org/web/20210121050707/https://www.youtube.com/rprefahpartisi |tarih=21 Ocak 2021 }}
+*[[Telegram (yazılım)|Telegram]]'da [https://t.me/rprefahpartisi Yeniden Refah Partisi] {{Webarşiv|url=https://web.archive.org/web/20210122024811/https://t.me/rprefahpartisi |tarih=22 Ocak 2021 }}
+* [https://web.archive.org/web/20181209124239/https://www.yargitaycb.gov.tr/sayfa/faaliyette-olan-siyasi-partiler/1481 Yargıtay Cum. Başs.]
+
+{{Türkiye'deki siyasi partiler}}
+{{Millî Görüş}}
+{{Otorite kontrolü}}
+
+[[Kategori:2018'de kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Türkiye'deki İslamcı partiler]]
+[[Kategori:Sosyal muhafazakâr partiler]]
+[[Kategori:Cumhur İttifakı]]
+[[Kategori:Türkiye'deki aşırı sağcı partiler]]
+[[Kategori:2018'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Aşı karşıtlığı]]

@@ -1,0 +1,346 @@
+/* Türkiye Seçim Atlası — siyasi tarih görünümü: meclis sandalye dağılımı, hükûmetler, cumhurbaşkanları, partiler ve olaylar.
+   Veri: data/history.json (scripts/build_history.py). Ortak yardımcılar app.js'teki window.Atlas'tan gelir. */
+(() => {
+  'use strict';
+  const $ = (s) => document.querySelector(s);
+  const A = () => window.Atlas;
+  const dlg = $('#historyDlg'), body = $('#histBody');
+  if (!dlg) return;
+  const TODAY = new Date().toISOString().slice(0, 10);
+  const pad = (n) => String(n).padStart(2, '0');
+  const yf = (s) => { const [y, m, d] = String(s || TODAY).split('-').map(Number); return y + ((m || 1) - 1) / 12 + ((d || 1) - 1) / 365; };
+  const fromYf = (t) => { const y = Math.floor(t), mf = (t - y) * 12, m = Math.min(12, Math.floor(mf) + 1), d = Math.min(28, Math.floor((mf - m + 1) * 30) + 1); return `${y}-${pad(m)}-${pad(d)}`; };
+  const esc = (s) => A().esc(s);
+  const days = (a, b) => Math.round((new Date(b || TODAY) - new Date(a)) / 864e5);
+  // Meclisin bulunmadığı askerî yönetim dönemleri
+  const GAPS = [['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
+  const MARK = { '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
+  let H = null, tab = 'chart', pin = null, partySel = null;
+  const anim = { on: false, t: 1908, timer: null, speed: 1, types: null };
+
+  // ------------------------------------------------------------------ renkler
+  const dark = () => A().isDark();
+  function nameColor(name, leg) {
+    if (name === 'Boş' || name === 'Belirtilmemiş') return dark() ? '#4a4f57' : '#cdc8bf';
+    if (name === 'Askerî Hükûmet' || /^Askerî yönetim/.test(name)) return dark() ? '#6b7280' : '#4b5563';
+    if (name === 'Geçici Hükûmet' || name === 'Vekâleten' || name === 'Bağımsız' || name === 'Bağımsızlar') return dark() ? '#8b929c' : '#9aa0a8';
+    const k = (leg && leg.keys && leg.keys[name]) || A().partyKey(name);
+    return A().pColor(k || name);
+  }
+  const seriesId = (name, leg) => (leg && leg.keys && leg.keys[name]) || A().partyKey(name) || name;
+  function shortName(name, leg) {
+    const k = seriesId(name, leg);
+    if (A().state.parties[k]) return A().pLabel(k);
+    const p = A().findParty(name);
+    return (p && p.short && p.short.split(/\s/)[0]) || name;
+  }
+  const surname = (n) => String(n).replace(/^Askerî yönetim — /, '').replace(/\s*\(.*\)$/, '').trim().split(' ').slice(-1)[0];
+
+  // ------------------------------------------------------------------ açma / sekmeler
+  async function open(which, date, partyTitle) {
+    if (!dlg.open) dlg.showModal();
+    body.innerHTML = '<p class="hint">Yükleniyor…</p>';
+    try { H = await A().loadHistory(); } catch (e) { body.innerHTML = `<p class="note warn">Veri yüklenemedi: ${esc(e.message)}</p>`; return; }
+    if (date) { pin = date; anim.t = Math.max(1908, yf(date)); }
+    if (partyTitle) partySel = partyTitle;
+    setTab(which || tab);
+  }
+  function setTab(t) {
+    if (t !== 'anim') stopAnim();
+    tab = t;
+    document.querySelectorAll('#histTabs [data-tab]').forEach((b) => { const on = b.dataset.tab === t; b.classList.toggle('active', on); b.setAttribute('aria-selected', String(on)); });
+    ({ chart: renderChart, govs: renderGovs, parties: renderParties, anim: renderAnim })[t]();
+  }
+  document.querySelectorAll('#histTabs [data-tab]').forEach((b) => b.addEventListener('click', () => setTab(b.dataset.tab)));
+  dlg.addEventListener('close', stopAnim);
+
+  // ------------------------------------------------------------------ yardımcı sorgular
+  const inRange = (x, d) => x.start && x.start <= d && (!x.end || d < x.end);
+  function legAt(d) {
+    if (GAPS.some(([a, b]) => a <= d && d < b)) return null;
+    let cur = null;
+    for (const l of H.parliament) if (l.date <= d) cur = l;
+    return cur;
+  }
+  const govAt = (d) => H.governments.find((g) => inRange(g, d));
+  const presAt = (d) => H.presidents.find((p) => inRange(p, d));
+  const govParties = (g) => g.parties.map((p) => p.name).filter((n) => n !== 'Bağımsızlar');
+  const alivePartiesAt = (d) => H.parties.filter((p) => !p.alliance && p.periods.some(([a, b]) => a && a <= d && (!b || d < b)));
+
+  function infoHtml(d) {
+    const leg = legAt(d), g = govAt(d), p = presAt(d);
+    let h = `<div class="hc-date">${esc(A().fmtDate(d))}</div>`;
+    if (d < '1920-04-23') h += '<p class="note">Osmanlı dönemi: hükûmet ve meclis bileşimi bu görünümde yer almıyor.</p>';
+    if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
+    if (g) {
+      const ps = govParties(g);
+      h += `<div class="hc-row"><span class="muted">Hükûmet</span> <b>${esc(g.name)}</b> · ${esc(g.title)} ${esc(g.head)} <span class="muted">(${esc(A().fmtDate(g.start))} – ${g.end ? esc(A().fmtDate(g.end)) : 'görevde'}, ${A().nf.format(days(g.start, g.end))} gün)</span></div>`;
+      h += `<div class="hc-row">${ps.map((n) => `<span class="pchip"><span class="sw" style="background:${nameColor(n)}"></span>${esc(n)}</span>`).join(' ')} <span class="tag ${g.kind === 'koalisyon' ? 'k' : ''}">${esc(g.kind)}</span></div>`;
+      h += `<div class="hc-row small ${g.confidence.failed ? 'down' : 'muted'}">Güvenoyu: ${esc(g.confidence.text || '—')}${g.confidence.failed ? ' — hükûmet güvenoyu alamadı' : ''}</div>`;
+    }
+    const gap = GAPS.find(([a, b]) => a <= d && d < b);
+    if (gap) h += `<p class="note">Meclis kapalı: ${esc(gap[2])} yönetimi (${esc(A().fmtDate(gap[0]))} – ${esc(A().fmtDate(gap[1]))}).</p>`;
+    if (leg) {
+      const meta = A().state.index.find((e) => e.id === leg.id);
+      const ent = Object.entries(leg.seats).sort((a, b) => b[1] - a[1]);
+      h += `<div class="hc-row"><span class="muted">Meclis</span> <b>${esc(meta ? meta.title : leg.id)}</b> sonrası, ${A().nf.format(leg.total)} sandalye` +
+        (meta ? ` <button type="button" class="linkbtn" data-go="${esc(leg.id)}">haritada aç</button>` : '') + '</div>';
+      h += '<div class="hc-seats">' + ent.map(([n, v]) => `<span class="pchip" title="${esc(n)}"><span class="sw" style="background:${nameColor(n, leg)}"></span>${esc(shortName(n, leg))} <b>${v}</b> <span class="muted">%${(100 * v / leg.total).toLocaleString('tr-TR', { maximumFractionDigits: 1 })}</span></span>`).join(' ') + '</div>';
+    }
+    return h;
+  }
+  function bindGo(root) {
+    root.querySelectorAll('[data-go]').forEach((b) => b.addEventListener('click', () => { dlg.close(); A().go(b.dataset.go); }));
+  }
+
+  // ------------------------------------------------------------------ 1) meclis ve hükûmetler grafiği
+  function renderChart() {
+    const legs = H.parliament.slice().sort((a, b) => a.date.localeCompare(b.date));
+    // seri sırası: toplam sandalye-yılı büyük olan alta
+    const weight = {}, label = {}, sample = {};
+    legs.forEach((l, i) => {
+      const end = yf(legs[i + 1] ? legs[i + 1].date : TODAY) - yf(l.date);
+      for (const [n, v] of Object.entries(l.seats)) {
+        const s = seriesId(n, l);
+        weight[s] = (weight[s] || 0) + v / l.total * end; label[s] = n; sample[s] = l;
+      }
+    });
+    const tail = ['Bağımsız', 'Diğer', 'Boş', 'Belirtilmemiş'];
+    const order = Object.keys(weight).sort((a, b) => (tail.includes(a) - tail.includes(b)) || weight[b] - weight[a]);
+    const box = body;
+    const Wc = Math.max(980, box.clientWidth - 8);
+    const L0 = 128, R0 = 14, X0 = 1920, X1 = yf(TODAY) + 0.4;
+    const X = (t) => L0 + (t - X0) / (X1 - X0) * (Wc - L0 - R0);
+    const rows = { ev: [0, 26], pres: [28, 22], pm: [52, 16], gov: [70, 26], seat: [102, 300] };
+    const Hc = rows.seat[0] + rows.seat[1] + 26;
+    let s = `<svg class="hchart" id="hchart" viewBox="0 0 ${Wc} ${Hc}" width="${Wc}" height="${Hc}" role="img" aria-label="1920'den bugüne meclis sandalye dağılımı, hükûmetler ve cumhurbaşkanları">`;
+    s += `<defs><pattern id="gapHatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="2" height="6" class="gh"/></pattern></defs>`;
+    // satır etiketleri
+    const rl = (y, t) => `<text class="rl" x="${L0 - 8}" y="${y}" text-anchor="end">${t}</text>`;
+    s += rl(rows.pres[0] + 15, 'Cumhurbaşkanı') + rl(rows.pm[0] + 12, 'Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(seçim sonrası)');
+    // yatay kılavuz çizgileri
+    const sy = (f) => rows.seat[0] + rows.seat[1] * (1 - f);
+    for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
+    // I. TBMM ve askerî dönemler
+    s += `<rect x="${X(yf('1920-04-23'))}" y="${rows.seat[0]}" width="${X(yf('1923-06-28')) - X(yf('1920-04-23'))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>I. TBMM (1920–1923): Birinci ve İkinci Grup; sayısal dağılım derlenmedi</title></rect>`;
+    for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>`;
+    // sandalye blokları
+    const labels = [];
+    legs.forEach((l, i) => {
+      let x0 = yf(l.date), x1 = yf(legs[i + 1] ? legs[i + 1].date : TODAY) + (legs[i + 1] ? 0 : 0.4);
+      const gap = GAPS.find(([a]) => yf(a) > x0 && yf(a) < x1);
+      if (gap) x1 = yf(gap[0]);
+      let acc = 0;
+      const byS = {};
+      for (const [n, v] of Object.entries(l.seats)) { const k = seriesId(n, l); byS[k] = byS[k] || { v: 0, n }; byS[k].v += v; }
+      for (const k of order) {
+        if (!byS[k]) continue;
+        const f = byS[k].v / l.total, y = sy(acc + f), hh = rows.seat[1] * f;
+        s += `<rect class="blk" x="${X(x0).toFixed(1)}" y="${y.toFixed(1)}" width="${(X(x1) - X(x0)).toFixed(1)}" height="${hh.toFixed(1)}" fill="${nameColor(byS[k].n, l)}"/>`;
+        if (hh > 13 && X(x1) - X(x0) > 30) labels.push({ x: (X(x0) + X(x1)) / 2, y: y + hh / 2 + 4, t: shortName(byS[k].n, l), w: X(x1) - X(x0) });
+        acc += f;
+      }
+      s += `<line class="sep" x1="${X(x0)}" x2="${X(x0)}" y1="${rows.seat[0]}" y2="${rows.seat[0] + rows.seat[1]}"/>`;
+    });
+    for (const lb of labels) if (lb.t.length * 6.2 < lb.w + 6) s += `<text class="bl" x="${lb.x}" y="${lb.y}" text-anchor="middle">${esc(lb.t)}</text>`;
+    // cumhurbaşkanları
+    for (const p of H.presidents) {
+      const x0 = X(yf(p.start)), x1 = X(yf(p.end)), w = x1 - x0;
+      s += `<rect class="band" x="${x0}" y="${rows.pres[0]}" width="${Math.max(1, w)}" height="${rows.pres[1]}" fill="${nameColor(p.party || p.name)}"><title>${esc(p.name)} (${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'})${p.party ? ' · ' + esc(p.party) : ''}${p.note ? ' · ' + esc(p.note) : ''}</title></rect>`;
+      const nm = /^Askerî/.test(p.name) ? surname(p.name.replace(/ \(.*/, '')) : p.name === 'Vekâleten' ? '' : surname(p.name);
+      if (nm && w > nm.length * 6.4 + 6) s += `<text class="bt" x="${x0 + w / 2}" y="${rows.pres[0] + 15}" text-anchor="middle">${esc(nm)}</text>`;
+    }
+    // hükûmet başkanları (aynı kişinin art arda hükûmetleri tek blok)
+    const ten = [];
+    for (const g of H.governments) {
+      const last = ten[ten.length - 1];
+      if (last && last.head === g.head && last.end === g.start) { last.end = g.end; last.n++; } else ten.push({ head: g.head, start: g.start, end: g.end, n: 1 });
+    }
+    ten.forEach((t, i) => {
+      const x0 = X(yf(t.start)), w = X(yf(t.end)) - x0;
+      s += `<rect class="pmb ${i % 2 ? 'alt' : ''}" x="${x0}" y="${rows.pm[0]}" width="${Math.max(1, w)}" height="${rows.pm[1]}"><title>${esc(t.head)}: ${esc(A().fmtDate(t.start))} – ${t.end ? esc(A().fmtDate(t.end)) : 'görevde'} (${t.n} hükûmet)</title></rect>`;
+      const nm = surname(t.head);
+      if (w > nm.length * 5.8 + 4) s += `<text class="pmt" x="${x0 + w / 2}" y="${rows.pm[0] + 12}" text-anchor="middle">${esc(nm)}</text>`;
+    });
+    // hükûmet partileri (koalisyonlarda üst üste şeritler) ve güvenoyu
+    for (const g of H.governments) {
+      const x0 = X(yf(g.start)), w = Math.max(1, X(yf(g.end)) - x0);
+      const ps = govParties(g).length ? govParties(g) : g.parties.map((p) => p.name);
+      const hh = rows.gov[1] / ps.length;
+      ps.forEach((n, j) => { s += `<rect class="band" x="${x0}" y="${rows.gov[0] + j * hh}" width="${w}" height="${hh}" fill="${nameColor(n)}"><title>${esc(g.name)} — ${esc(g.head)} · ${esc(ps.join(' + '))} · Güvenoyu: ${esc(g.confidence.text || '—')}</title></rect>`; });
+      s += `<line class="gsep" x1="${x0}" x2="${x0}" y1="${rows.gov[0]}" y2="${rows.gov[0] + rows.gov[1]}"/>`;
+      if (g.confidence.failed) s += `<text class="fail" x="${x0 + w / 2}" y="${rows.gov[0] + rows.gov[1] - 6}" text-anchor="middle">✕<title>${esc(g.name)} güvenoyu alamadı (${esc(g.confidence.text)})</title></text>`;
+    }
+    // olay çizgileri
+    let lastX = -1e9, lvl = 0;
+    for (const [d, t] of Object.entries(MARK)) {
+      const x = X(yf(d));
+      lvl = x - lastX < 130 ? 1 - lvl : 0; lastX = x;   // yakın etiketler iki satıra
+      s += `<line class="evl" x1="${x}" x2="${x}" y1="${rows.ev[0] + 2 + lvl * 12}" y2="${rows.seat[0] + rows.seat[1]}"/><text class="evt" x="${x + (x > Wc - 200 ? -3 : 3)}" y="${rows.ev[0] + 10 + lvl * 12}" text-anchor="${x > Wc - 200 ? 'end' : 'start'}">${esc(t)}</text>`;
+    }
+    // eksen
+    const ay = rows.seat[0] + rows.seat[1];
+    for (let y = 1920; y <= X1; y += 5) {
+      const x = X(y);
+      s += `<line class="tick" x1="${x}" x2="${x}" y1="${ay}" y2="${ay + (y % 10 ? 3 : 6)}"/>` + (y % 10 ? '' : `<text class="ax" x="${x}" y="${ay + 17}" text-anchor="middle">${y}</text>`);
+    }
+    s += `<line class="cur" id="hcCur" x1="0" x2="0" y1="${rows.pres[0]}" y2="${ay}" visibility="hidden"/>`;
+    s += `<rect id="hcHit" x="${L0}" y="0" width="${Wc - L0 - R0}" height="${ay}" fill="transparent"/></svg>`;
+
+    const legend = order.filter((k) => !['Boş', 'Belirtilmemiş'].includes(k)).map((k) => `<span class="pchip" title="${esc(label[k])}"><span class="sw" style="background:${nameColor(label[k], sample[k])}"></span>${esc(shortName(label[k], sample[k]))}</span>`).join(' ');
+    body.innerHTML = `<p class="hint">Fareyi grafiğin üzerinde gezdirin ya da tıklayın: o tarihteki meclis, hükûmet ve cumhurbaşkanı aşağıda yazar.</p>` +
+      `<div class="hc-scroll">${s}</div><div class="hc-info" id="hcInfo"></div><div class="hc-legend">${legend}</div>` +
+      `<p class="note small">Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur; dönem içindeki parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
+      `1935–1943'te "Belirtilmemiş", seçim maddelerinin bilgi kutusunda CHP dışında sayılan ama partisi verilmeyen sandalyelerdir. Hükûmet bandında koalisyon ortakları üst üste şeritler hâlinde, sırasıyla gösterilir; ✕ güvenoyu alamayan hükûmeti işaretler. ` +
+      `Kaynak: Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve seçim maddeleri; 1950 sonrası sandalyeler bu sitenin seçim verisinden.</p>`;
+    const svg = $('#hchart'), hit = $('#hcHit'), cur = $('#hcCur'), info = $('#hcInfo');
+    const show = (d) => {
+      const x = X(yf(d));
+      cur.setAttribute('x1', x); cur.setAttribute('x2', x); cur.setAttribute('visibility', 'visible');
+      info.innerHTML = infoHtml(d); bindGo(info);
+    };
+    const tAt = (ev) => {
+      const r = svg.getBoundingClientRect();
+      const px = (ev.clientX - r.left) * (Wc / r.width);
+      return X0 + (px - L0) / (Wc - L0 - R0) * (X1 - X0);
+    };
+    hit.addEventListener('mousemove', (ev) => { const t = tAt(ev); if (t >= 1920 && t <= X1) show(fromYf(Math.min(t, yf(TODAY)))); });
+    hit.addEventListener('mouseleave', () => { if (pin) show(pin); });
+    hit.addEventListener('click', (ev) => { pin = fromYf(Math.min(tAt(ev), yf(TODAY))); show(pin); });
+    const start = pin && pin >= '1920' ? pin : TODAY;
+    show(start);
+    // seçili tarihi görünür alana kaydır
+    const sc = body.querySelector('.hc-scroll');
+    sc.scrollLeft = Math.max(0, X(yf(start)) - sc.clientWidth / 2);
+  }
+
+  // ------------------------------------------------------------------ 2) hükûmetler tablosu
+  function renderGovs() {
+    const G = H.governments.filter((g) => g.start);
+    const pm = G.filter((g) => g.title !== 'Cumhurbaşkanı');
+    const dur = (g) => days(g.start, g.end);
+    const coal = G.filter((g) => g.kind === 'koalisyon');
+    const longest = pm.reduce((a, b) => (dur(b) > dur(a) ? b : a)), shortest = pm.reduce((a, b) => (dur(b) < dur(a) ? b : a));
+    const failed = G.filter((g) => g.confidence.failed);
+    const avg = pm.reduce((a, g) => a + dur(g), 0) / pm.length;
+    let h = `<div class="stats"><div><b>${G.length}</b><span>hükûmet (1920–)</span></div><div><b>${coal.length}</b><span>koalisyon ya da çok partili</span></div>` +
+      `<div><b>${A().nf.format(Math.round(avg))}</b><span>gün ortalama süre (başbakanlı hükûmetler)</span></div><div><b>${failed.length}</b><span>güvenoyu alamayan</span></div></div>`;
+    h += `<p class="small">En uzun: ${esc(longest.name)} (${esc(longest.head)}, ${A().nf.format(dur(longest))} gün). En kısa: ${esc(shortest.name)} (${esc(shortest.head)}, ${A().nf.format(dur(shortest))} gün). ` +
+      `Güvenoyu alamayanlar: ${failed.map((g) => `${esc(g.name)} (${esc(g.head)}, ${esc(g.confidence.text)})`).join('; ')}.</p>`;
+    h += `<div class="filters"><label><input type="checkbox" id="gCoal"> Yalnız koalisyonlar</label> <input type="search" id="gSearch" placeholder="Başbakan ya da parti ara…" aria-label="Hükûmetlerde ara"></div>`;
+    h += '<div class="tbl-scroll"><table class="utable govs"><thead><tr><th>Hükûmet</th><th>Başkan</th><th>Başlangıç</th><th>Bitiş</th><th class="num">Gün</th><th>Partiler</th><th>Güvenoyu</th></tr></thead><tbody>';
+    for (const g of G) {
+      const ps = g.parties.map((p) => `<span class="pchip" title="${esc(p.note || '')}"><span class="sw" style="background:${nameColor(p.name)}"></span>${esc(shortName(p.name))}${p.note ? '*' : ''}</span>`).join(' ');
+      h += `<tr class="${g.kind === 'koalisyon' ? 'coal' : ''}" data-q="${esc((g.name + ' ' + g.head + ' ' + g.parties.map((p) => p.name).join(' ')).toLocaleLowerCase('tr'))}">` +
+        `<td>${esc(g.name.replace(' Türkiye Hükûmeti', '. hükûmet').replace('..', '.'))}<div class="muted small">${esc(g.kind)}${g.election && g.election !== '—' ? ' · ' + esc(g.election) + ' meclisi' : ''}</div></td>` +
+        `<td>${esc(g.head)}<div class="muted small">${esc(g.title)}</div></td><td>${esc(A().fmtDate(g.start))}</td><td>${g.end ? esc(A().fmtDate(g.end)) : 'görevde'}</td>` +
+        `<td class="num">${A().nf.format(dur(g))}</td><td>${ps}</td><td class="${g.confidence.failed ? 'down' : ''}">${esc(g.confidence.text || '—')}</td></tr>`;
+    }
+    h += '</tbody></table></div><p class="note small">Güvenoyu sütunu "kabul/katılan" biçimindedir. * işaretli partiler hükûmette dönemin yalnız bir bölümünde yer aldı (üzerine gelince tarih yazar). 2018\'den sonra cumhurbaşkanlığı hükûmet sisteminde güvenoyu yoktur. Kaynak: Vikipedi "Türkiye hükûmetleri listesi".</p>';
+    body.innerHTML = h;
+    const apply = () => {
+      const q = $('#gSearch').value.trim().toLocaleLowerCase('tr'), c = $('#gCoal').checked;
+      body.querySelectorAll('table.govs tbody tr').forEach((tr) => { tr.hidden = (c && !tr.classList.contains('coal')) || (q && !tr.dataset.q.includes(q)); });
+    };
+    $('#gCoal').addEventListener('change', apply); $('#gSearch').addEventListener('input', apply);
+  }
+
+  // ------------------------------------------------------------------ 3) partiler (zaman çizelgesi + soy ağacı)
+  function renderParties() {
+    const P = H.parties.filter((p) => p.founded).slice().sort((a, b) => a.founded.localeCompare(b.founded));
+    const W = Math.max(760, Math.min(1100, body.clientWidth - 380)), L0 = 230, X0 = 1889, X1 = yf(TODAY) + 0.5, RH = 17;
+    const X = (t) => L0 + (t - X0) / (X1 - X0) * (W - L0 - 10);
+    const Hh = P.length * RH + 28;
+    let s = `<svg class="gantt" viewBox="0 0 ${W} ${Hh}" width="${W}" height="${Hh}" role="img" aria-label="Partilerin kuruluş ve kapanış zaman çizelgesi">`;
+    for (let y = 1890; y <= X1; y += 10) s += `<line class="grid" x1="${X(y)}" x2="${X(y)}" y1="0" y2="${Hh - 20}"/><text class="ax" x="${X(y)}" y="${Hh - 6}" text-anchor="middle">${y}</text>`;
+    for (const [d, t] of Object.entries(MARK)) s += `<line class="evl" x1="${X(yf(d))}" x2="${X(yf(d))}" y1="0" y2="${Hh - 20}"><title>${esc(t)}</title></line>`;
+    P.forEach((p, i) => {
+      const y = i * RH + 2, col = nameColor(p.name) || '#888';
+      s += `<g class="prow${partySel === p.title ? ' sel' : ''}" data-t="${esc(p.title)}" tabindex="0" role="button" aria-label="${esc(p.name)}">`;
+      s += `<rect class="hit" x="0" y="${y - 1}" width="${W}" height="${RH}"/>`;
+      s += `<text class="pn${p.alliance ? ' al' : ''}" x="${L0 - 6}" y="${y + 11}" text-anchor="end">${esc(p.name.length > 34 ? p.name.slice(0, 33) + '…' : p.name)}</text>`;
+      for (const [a, b] of p.periods) {
+        if (!a) continue;
+        s += `<rect class="pb${p.alliance ? ' al' : ''}" x="${X(yf(a))}" y="${y + 2}" width="${Math.max(2, X(yf(b)) - X(yf(a)))}" height="${RH - 5}" rx="2" fill="${col}"><title>${esc(p.name)}: ${esc(A().fmtDate(a))} – ${b ? esc(A().fmtDate(b)) : 'günümüz'}</title></rect>`;
+      }
+      for (const r of H.renames.filter((r) => r.party === p.title)) s += `<path class="rn" d="M${X(yf(r.date))} ${y + 1}l4 6.5l-4 6.5l-4 -6.5z"><title>${esc(A().fmtDate(r.date))}: ${esc(r.from)} → ${esc(r.to)}</title></path>`;
+      s += '</g>';
+    });
+    s += '</svg>';
+    body.innerHTML = `<div class="filters"><input type="search" id="pSearch" placeholder="Parti ara…" aria-label="Partilerde ara"> <span class="muted small">Çubuk: faaliyet dönemi · ◆ ad değişikliği · italik: ittifak. Satıra tıklayınca soy ağacı açılır.</span></div>` +
+      `<div class="pl-grid"><div class="hc-scroll">${s}</div><div class="pl-info" id="plInfo"><p class="hint">Bir partiye tıklayın.</p></div></div>` +
+      `<p class="note small">${H.parties.length} parti ve ittifak: Türkiye'de meclise girmiş, hükûmette yer almış ya da bu sitedeki seçimlerde öne çıkmış partiler. Tarihler ve öncül/ardıl ilişkileri Vikipedi bilgi kutularından derlenmiştir; birden çok kez kapatılıp açılan partilerin dönemleri madde metnine göre elle girildi.</p>`;
+    const showP = (t) => {
+      partySel = t;
+      const p = A().partyByTitle(t), box = $('#plInfo');
+      box.innerHTML = A().lineageHtml(p); A().bindLineage(box);
+      body.querySelectorAll('.prow').forEach((g) => g.classList.toggle('sel', g.dataset.t === t));
+    };
+    body.querySelectorAll('.prow').forEach((g) => {
+      g.addEventListener('click', () => showP(g.dataset.t));
+      g.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); showP(g.dataset.t); } });
+    });
+    $('#pSearch').addEventListener('input', (e) => {
+      const q = e.target.value.trim().toLocaleLowerCase('tr');
+      body.querySelectorAll('.prow').forEach((g) => g.classList.toggle('dim', !!q && !g.textContent.toLocaleLowerCase('tr').includes(q) && !g.dataset.t.toLocaleLowerCase('tr').includes(q)));
+    });
+    if (partySel) { showP(partySel); const g = body.querySelector('.prow.sel'); if (g) g.scrollIntoView({ block: 'center' }); }
+  }
+
+  // ------------------------------------------------------------------ 4) olaylar ve animasyon
+  const TYPES = ['kuruluş', 'kapanış', 'ad değişikliği', 'ittifak', 'hükûmet', 'güvenoyu', 'cumhurbaşkanı', 'darbe', 'sistem'];
+  function renderAnim() {
+    if (!anim.types) anim.types = new Set(TYPES.filter((t) => t !== 'hükûmet'));
+    const lab = A().EV_LABEL;
+    body.innerHTML = `<div class="anim-ctl"><button type="button" class="btn" id="aPlay">▶ Oynat</button>` +
+      `<input type="range" id="aRange" min="1908" max="${yf(TODAY).toFixed(2)}" step="0.05" value="${anim.t}" aria-label="Tarih">` +
+      `<label class="lbl">Hız <select id="aSpeed"><option value="0.5">0,5×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select></label></div>` +
+      `<div class="chips small" id="aTypes">${TYPES.map((t) => `<button type="button" class="chip ${anim.types.has(t) ? 'on' : ''}" data-t="${esc(t)}" aria-pressed="${anim.types.has(t)}"><span class="et et-${esc(t.replace(/\s/g, '-'))} sq"></span>${esc(lab[t] || t)}</button>`).join('')}</div>` +
+      `<div class="anim-grid"><div><div class="a-year" id="aYear"></div><div id="aHemi"></div><div id="aInfo"></div></div><div><h3>Olaylar</h3><ol class="a-events" id="aEvents"></ol><h3 id="aAliveH">Faal partiler</h3><div id="aAlive" class="hc-seats"></div></div></div>`;
+    $('#aSpeed').value = String(anim.speed);
+    $('#aPlay').addEventListener('click', () => (anim.on ? stopAnim() : startAnim()));
+    $('#aRange').addEventListener('input', (e) => { stopAnim(); anim.t = Number(e.target.value); drawAnim(); });
+    $('#aSpeed').addEventListener('change', (e) => { anim.speed = Number(e.target.value); });
+    body.querySelectorAll('#aTypes .chip').forEach((c) => c.addEventListener('click', () => {
+      const t = c.dataset.t; anim.types.has(t) ? anim.types.delete(t) : anim.types.add(t);
+      c.classList.toggle('on'); c.setAttribute('aria-pressed', String(anim.types.has(t))); drawAnim();
+    }));
+    drawAnim();
+  }
+  let lastLeg = null;
+  function drawAnim() {
+    const d = fromYf(anim.t);
+    const yEl = $('#aYear'); if (!yEl) return;
+    yEl.textContent = A().fmtDate(d).replace(/^\d+ /, '');
+    $('#aRange').value = anim.t;
+    const leg = legAt(d);
+    if (leg !== lastLeg) {
+      lastLeg = leg;
+      $('#aHemi').innerHTML = leg ? A().hemicycle(Object.entries(leg.seats).sort((a, b) => b[1] - a[1]).map(([n, v]) => [seriesId(n, leg) === n && !A().state.parties[n] ? 'Bilinmiyor' : seriesId(n, leg), v])) : '<p class="note">Bu tarihte seçilmiş meclis bileşimi yok.</p>';
+    }
+    $('#aInfo').innerHTML = infoHtml(d); bindGo($('#aInfo'));
+    const ev = H.events.filter((e) => e.date <= d && anim.types.has(e.type)).slice(-14).reverse();
+    $('#aEvents').innerHTML = ev.map((e, i) => `<li class="${i === 0 && yf(d) - yf(e.date) < 1 ? 'new' : ''}"><span class="muted">${esc(A().fmtDate(e.date))}</span> <span class="et et-${esc(e.type.replace(/\s/g, '-'))}">${esc(A().EV_LABEL[e.type] || e.type)}</span>${esc(e.text)}</li>`).join('') || '<li class="muted">Bu tarihe kadar seçili türde olay yok.</li>';
+    const alive = alivePartiesAt(d);
+    $('#aAliveH').textContent = `Faal partiler (${alive.length} / derlenen ${H.parties.filter((p) => !p.alliance).length})`;
+    $('#aAlive').innerHTML = alive.map((p) => `<span class="pchip"><span class="sw" style="background:${nameColor(p.name)}"></span>${esc(p.name)}</span>`).join(' ');
+  }
+  function startAnim() {
+    if (anim.t >= yf(TODAY) - 0.05) anim.t = 1908;
+    anim.on = true; $('#aPlay').textContent = '❚❚ Durdur';
+    const tick = () => {
+      if (!anim.on) return;
+      anim.t = Math.min(yf(TODAY), anim.t + 0.08 * anim.speed);
+      drawAnim();
+      if (anim.t >= yf(TODAY)) { stopAnim(); return; }
+      anim.timer = setTimeout(tick, 90);
+    };
+    tick();
+  }
+  function stopAnim() {
+    anim.on = false; clearTimeout(anim.timer);
+    const b = $('#aPlay'); if (b) b.textContent = '▶ Oynat';
+  }
+
+  window.AtlasHistory = { open };
+})();
