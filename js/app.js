@@ -29,7 +29,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '2.2.0';
+  const VERSION = '2.3.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
