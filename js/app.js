@@ -30,7 +30,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '3.1.4';
+  const VERSION = '3.2.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -374,6 +374,12 @@
         ent.map(([k, v]) => { const o = old[k] || 0, df = v - o; return `<tr><td><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))}</td><td class="num">${o}</td><td class="num">${v}</td><td class="num ${df > 0 ? 'up' : df < 0 ? 'down' : ''}">${df > 0 ? '+' : df < 0 ? '−' : '±'}${Math.abs(df)}</td></tr>`; }).join('') +
         `</tbody></table><p class="hint small">Toplam ${nf.format(n.total_seats || 0)} sandalye. Fark; parti değiştirmeleri, yeni kurulan partileri, istifaları ve ölümleri yansıtır.</p>`;
       h += `<h3>İl belediye başkanlıkları (büyükşehir ya da il merkezi)</h3>` + bars(Object.entries(n.mayors || {}), null);
+      const ch = (d.changes || []).slice(0, 12);
+      if (ch.length) {
+        h += '<h3>Son değişiklikler</h3><ul class="changes">' + ch.map((c) => c.kind === 'belediye'
+          ? `<li><span class="muted">${esc(fmtDate(c.date))}</span> <b>${esc(c.il)}</b>: <span class="sw" style="background:${pColor(c.from)}"></span>${esc(pLabel(c.from))} → <span class="sw" style="background:${pColor(c.to)}"></span>${esc(pLabel(c.to))}${c.who ? ` <span class="muted">(${esc(c.who)})</span>` : ''}</li>`
+          : `<li><span class="muted">${esc(fmtDate(c.date))}</span> TBMM, <span class="sw" style="background:${pColor(c.party)}"></span>${esc(pLabel(c.party))}: ${c.from} → <b>${c.to}</b></li>`).join('') + '</ul>';
+      } else h += '<p class="hint small">Değişiklik günlüğü, otomatik güncelleme bir değişiklik bulduğunda dolmaya başlar.</p>';
     } else if (n.seats && Object.keys(n.seats).length) {
       const lbl = d.id === '1930yerel' ? 'Kazanılan seçim bölgesi (belediye)' : (d.groupLabel || 'Dağılım');
       h += `<h3>${esc(lbl)}</h3>` + bars(Object.entries(n.seats).slice(0, 10), null);
@@ -723,7 +729,21 @@
     let h = '';
     if (d.notes && d.notes.length) h += '<h3>Notlar</h3>' + d.notes.filter(Boolean).map((n) => `<p class="note">${esc(n)}</p>`).join('');
     if (d.sources && d.sources.length) h += '<h3>Kaynak</h3>' + d.sources.map((s) => `<p class="src"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></p>`).join('');
+    h += '<p class="report"><a class="report-link" href="#" target="_blank" rel="noopener">Bu kayıtta hata mı var? Bildirin</a></p>';
     $('#notesBox').innerHTML = h;
+    bindReport($('#notesBox'), () => d.title + (state.unit && d.units[state.unit] ? ' — ' + d.units[state.unit].name : ''));
+  }
+
+  // GitHub hata formu: kayıt alanı o anki bağlantıyla dolu açılır
+  const REPO = 'https://github.com/ahmtaltug/TurkSiyasiTarihi';
+  function issueUrl(title) {
+    return `${REPO}/issues/new?template=veri-hatasi.yml&title=${encodeURIComponent('[Veri] ' + (title || ''))}&kayit=${encodeURIComponent(location.href)}`;
+  }
+  function bindReport(root, titleFn) {
+    root.querySelectorAll('.report-link').forEach((a) => {
+      const upd = () => { a.href = issueUrl(titleFn()); };
+      upd(); a.addEventListener('mousedown', upd); a.addEventListener('focus', upd); a.addEventListener('touchstart', upd, { passive: true });
+    });
   }
 
   function selectUnit(id, zoom) {
@@ -1354,7 +1374,7 @@
   }
   let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
   window.Atlas = { state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, lineageHtml, bindLineage,
-                   hemicycle, EV_LABEL, loadElection, isDark: () => T === THEMES.dark, writeHash, ready: appReady, stopPlay: () => { if (state.play.on) stopPlay(); },
+                   hemicycle, EV_LABEL, loadElection, isDark: () => T === THEMES.dark, writeHash, ready: appReady, issueUrl, bindReport, stopPlay: () => { if (state.play.on) stopPlay(); },
                    refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });
 })();

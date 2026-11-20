@@ -1,0 +1,31 @@
+name: Veri ya da tarih hatası
+description: Yanlış sonuç, parti ya da kişi adı, tarih, sınır ya da siyasi tarih bilgisi bildirin.
+title: "[Veri] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Teşekkürler. Düzeltmeyi hızlandırmak için mümkünse bir kaynak ekleyin (YSK, Resmî Gazete, TBMM, TÜİK ya da akademik yayın).
+        Sitedeki veri büyük ölçüde Vikipedi'den derlenmiştir; hata Vikipedi'de de varsa orayı da düzeltmeniz herkese yarar.
+  - type: input
+    id: kayit
+    attributes:
+      label: Kayıt ya da görünüm
+      description: Sitedeki bağlantı (adres çubuğundaki adres) ya da seçim/il adı.
+      placeholder: "https://ahmtaltug.github.io/TurkSiyasiTarihi/#e=1950&u=6"
+    validations:
+      required: true
+  - type: textarea
+    id: hata
+    attributes:
+      label: Ne yanlış?
+      placeholder: "Örnek: 1957'de Kars'ta birinci parti CHP değil DP olmalı."
+    validations:
+      required: true
+  - type: textarea
+    id: kaynak
+    attributes:
+      label: Kaynak
+      description: Doğru bilginin dayanağı (bağlantı, kitap ve sayfa numarası).
+    validations:
+      required: false

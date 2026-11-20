@@ -8,7 +8,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.1.4-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.2.0-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -54,6 +54,10 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 - *Hükûmetler ve güvenoyu:* Cumhuriyet hükûmetleri ve Osmanlı sadrazamları tablosu.
 - *Partiler:* Faaliyet dönemleri ve ad değişiklikleriyle zaman çizelgesi; tıklayınca soy ağacı açılır.
 - *Olaylar ve animasyon:* 1876'dan bugüne oynatılabilir zaman.
+
+**Katkı**
+- Her kaydın panelinde "Bu kayıtta hata mı var? Bildirin" bağlantısı, GitHub'da kaydın bağlantısıyla doldurulmuş bir hata formu açar.
+- Güncel durumdaki yanlış bir bilgi `data/guncel-duzeltmeler.json` ile kaynağıyla birlikte düzeltilebilir.
 
 **Kullanım kolaylığı**
 - Her görünüm paylaşılabilir bağlantıyla açılır (ör. `#e=1946&u=istanbul`, `#v=tarih&t=chart&d=1960-05-27`).
