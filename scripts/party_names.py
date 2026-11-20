@@ -5,6 +5,7 @@ Değer ya bir ad ya da [(başlangıç_yılı, bitiş_yılı, ad), ...] listesidi
 """
 
 NAMES = {
+    'TKöyP': 'Türkiye Köylü Partisi',
     'AK Parti': 'Adalet ve Kalkınma Partisi',
     'ANAP': 'Anavatan Partisi',
     'AP': 'Adalet Partisi',

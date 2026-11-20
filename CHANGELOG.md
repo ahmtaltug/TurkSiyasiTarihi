@@ -1,5 +1,10 @@
 # Değişiklik günlüğü
 
+## 3.3.1 — 2026-11-20
+
+- **Türkiye Köylü Partisi:** 1955 yerel seçiminde yalnız "TKöyP" kısaltmasıyla görünen parti tam adıyla gösterilir. Parti, soy ağacına da eklendi (19 Mayıs 1952 – 16 Ekim 1958; Cumhuriyetçi Millet Partisi ile birleşerek Cumhuriyetçi Köylü Millet Partisi'ni kurdu). 1955 seçiminin notlarına CHP ve CMP'nin seçimi boykot ettiği eklendi.
+- **İngilizce README:** `README.en.md`. Türkçe README'de eksik betikler (`build_ilce.py`, `build_current.py`) ve `js/i18n.js` belgelendi.
+
 ## 3.3.0 — 2026-11-20
 
 - **İlçe düzeyi sonuçlar:** 1950 ve 1955 yerel seçimleri ile 1961 sonrası bütün genel, yerel (belediye başkanlığı), halkoylaması ve cumhurbaşkanlığı seçimlerinde (43 seçim, seçim başına 496–981 ilçe) ilçe sonuçları, seçim tarihindeki ilçe sınırlarıyla. Sonradan kurulan ilçeler, ayrıldıkları ilçeyle birleştirilmiş tarihî şekillerle çizilir; ilçenin o seçimdeki ili dönemin adıyla gösterilir (ör. 1961'de "Bahçe (Adana)"). Panelde "Birim: İl / İlçe"; adreste `&l=ilce`. Kaynak: Türkiye Seçim Haritası veri seti (`scripts/build_ilce.py`).
