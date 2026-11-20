@@ -1,6 +1,6 @@
-# Yol haritası
+# Olası gelecek çalışmalar
 
-Bu liste, projenin iki bağımsız değerlendirmesinden (Claude ve ChatGPT, Kasım 2026) çıkan ve henüz yapılmamış önerileri öncelik sırasıyla toplar.
+3.0.0 projenin tamamlanmış sürümüdür. Bu liste, ileride biri projeyi sürdürmek isterse ele alınabilecek işleri öncelik sırasıyla toplar. İlk sürümü, projenin iki bağımsız değerlendirmesinden (Claude ve ChatGPT, Kasım 2026) çıkarıldı.
 Her iki değerlendirmenin ortak sonucu şudur: Yeni görsel özelliklerden önce **1950 öncesi verinin kaynaklandırılması ve doğrulanması** gelir.
 
 ## 1. Veri doğrulama (en yüksek öncelik)

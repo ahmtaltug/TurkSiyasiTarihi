@@ -8,6 +8,11 @@
 - 1920–1923 arasında devlet başkanı bandında TBMM Başkanı Mustafa Kemal (saltanatın kaldırılmasına dek padişahla birlikte).
 - Vekâleten cumhurbaşkanlığı dönemlerinde vekilin adı: Abdülhalik Renda (1938), Tekin Arıburun (1973), İhsan Sabri Çağlayangil (1980), Hüsamettin Cindoruk (1993).
 - 1919 meclisi, Meclis'in kapalı olduğu aralığın üzerine taşmıyor.
+- Meclis'in kapalı olduğu iki aralık eklendi: 28 Haziran – 13 Aralık 1877 (iki dönem arası) ve 18 Ocak – 18 Nisan 1912 (fesih ve erken seçim).
+- Hürriyet ve İtilaf Fırkası'nın ilk faaliyet dönemi Haziran 1913'te (Mahmud Şevket Paşa suikastı sonrası) biter; kaynak bilgi kutusu Bâbıâli Baskını tarihini veriyordu.
+
+### Proje sayfası
+- README yeniden yazıldı (ekran görüntüleri, kapsam, kaynaklar); `CITATION.cff` atıf dosyası; sosyal medya önizleme görseli (`icons/og.jpg`).
 - Grafikte 1920 öncesinde fareyle gezinme çalışmıyordu; düzeltildi.
 
 ### Yeni
