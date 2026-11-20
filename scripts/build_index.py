@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """data/index.json (seçim listesi) ve data/parties.json (renk/kısa ad) üretir."""
 import json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from party_names import full_name
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = sys.argv[1]  # hamiKumbasae/turkiye-secim-haritasi
 B = lambda p: json.load(open(os.path.join(ROOT, 'build', p)))
@@ -47,6 +49,12 @@ for c in cat:
     path = os.path.join(ROOT, 'data', 'elections', c['id'] + '.json')
     d = json.load(open(path))
     lv, why = reliability(c, d)
+    if d.get('era') == 'cumhuriyet' and d['date'] >= '1950':
+        y = int(d['date'][:4]); keys = set()
+        for u in d['units'].values():
+            for f in ('votes', 'pct', 'seats'): keys |= set(u.get(f) or {})
+        names = {k: full_name(k, y) for k in sorted(keys) if full_name(k, y) and full_name(k, y) != k}
+        if names: d['partyNames'] = names
     d['reliability'] = {'level': lv, 'label': LEVELS[lv], 'why': why}
     c['rel'] = lv
     json.dump(d, open(path, 'w'), ensure_ascii=False, separators=(',', ':'))
@@ -55,7 +63,7 @@ cat.sort(key=lambda c: (c['date'], {'genel': 0, 'cumhurbaskanligi': 1, 'referand
 json.dump(cat, open(os.path.join(ROOT, 'data', 'index.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 
 src = json.load(open(os.path.join(SRC, 'data', 'normalized', 'partiler.json')))
-parties = {k: {'c': v.get('light'), 's': v.get('short', k)} for k, v in src.items()}
+parties = {k: {'c': v.get('light'), 'd': v.get('dark') or v.get('light'), 's': v.get('short', k)} for k, v in src.items()}
 EXTRA = {  # 1950 öncesi ve özel gruplar
     'İttihat ve Terakki': ('#b71c1c', 'İT'), 'Hürriyet ve İtilaf': ('#1565c0', 'HİF'), 'Ahrar': ('#2e7d32', 'Ahrar'),
     'Taşnak': ('#f9a825', 'Taşnak'), 'Sosyalist': ('#ad1457', 'Sos.'), 'Bilinmiyor': ('#bdbdbd', '?'),
@@ -71,8 +79,12 @@ EXTRA = {  # 1950 öncesi ve özel gruplar
 for i, g in enumerate(['Türk', 'Arap', 'Arnavut', 'Rum', 'Ermeni', 'Bulgar', 'Yahudi', 'Sırp', 'Ulah', 'Gürcü', 'Kürt', 'Asuri', 'Süryani', 'Slav']):
     EXTRA[g] = (['#0072B2', '#009E73', '#E69F00', '#56B4E9', '#CC79A7', '#D55E00', '#F0E442', '#7f6000', '#8c564b', '#17becf', '#bcbd22', '#9467bd', '#9467bd', '#7f7f7f'][i], g)
 EXTRA['Türk (?)'] = ('#7fb3d9', 'Türk (?)'); EXTRA['Arap (?)'] = ('#7fcfb7', 'Arap (?)')
+def lighten(h, t=0.25):
+    h = h.lstrip('#'); r, g, b = (int(h[i:i + 2], 16) for i in (0, 2, 4))
+    return '#%02x%02x%02x' % tuple(round(v + (255 - v) * t) for v in (r, g, b))
 for k, (c, s) in EXTRA.items():
-    parties.setdefault(k, {'c': c, 's': s})
+    parties.setdefault(k, {'c': c, 'd': lighten(c), 's': s})
     if not parties[k].get('c'): parties[k]['c'] = c
+    if not parties[k].get('d'): parties[k]['d'] = lighten(parties[k]['c'])
 json.dump(parties, open(os.path.join(ROOT, 'data', 'parties.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 print('seçim', len(cat), 'parti', len(parties))

@@ -409,7 +409,7 @@ ELECTIONS = [
          title='1939 Milletvekili Genel Seçimi (TBMM VI. dönem)', dateLabel='26 Mart 1939',
          cols=dict(unit=0, name=1), level='il',
          page='TBMM 6. dönem milletvekilleri listesi',
-         desc='İki dereceli tek parti seçimi; seçime yalnız CHP listesi katıldı. Hatay Temmuz 1939\'da Türkiye\'ye katıldı; Hatay vekilleri sonradan seçildi. Seçim maddesinin bilgi kutusunda 470 sandalyenin 466\'sı CHP için verilir. Dönem listesi vekillerin mensubiyetini ayırmadığından il düzeyinde yalnız vekil sayısı gösterilir.'),
+         desc='İki dereceli tek parti seçimi; seçime yalnız CHP listesi katıldı. Hatay Devleti Meclisi 29 Haziran 1939\'da Türkiye\'ye katılma kararı aldı ve Hatay ili 7 Temmuz 1939 tarihli kanunla kuruldu; listedeki Hatay vekilleri seçimden sonra seçildi. Seçim maddesinin bilgi kutusunda 470 sandalyenin 466\'sı CHP için verilir. Dönem listesi vekillerin mensubiyetini ayırmadığından il düzeyinde yalnız vekil sayısı gösterilir.'),
     dict(id='1943', file='tbmm7', table=0, date='1943-02-28', era='cumhuriyet', year=1943, type='genel',
          title='1943 Milletvekili Genel Seçimi (TBMM VII. dönem)', dateLabel='15–20 Şubat (ikinci seçmenler) ve 28 Şubat 1943',
          cols=dict(unit=0, name=1), level='il',
@@ -543,6 +543,17 @@ for E in ELECTIONS:
     if unresolved:
         print('ÇÖZÜLEMEDİ', E['id'], sorted(set(unresolved)), file=sys.stderr)
 
+    # kaynakta art arda yinelenen aynı kayıt (ör. 1920 Saruhan'da "Çerkes Reşit" iki kez) tek kişi sayılır
+    for key, u in units.items():
+        ms, out, dup = u['members'], [], []
+        for m in ms:
+            if out and out[-1]['n'] == m['n'] and out[-1].get('g') == m.get('g'):
+                dup.append(m['n']); continue
+            out.append(m)
+        if dup:
+            u['members'] = out
+            u['note'] = (u.get('note', '') + ' ' if u.get('note') else '') + 'Kaynak listede "%s" adı art arda iki kez geçiyor; aynı kişinin yinelenmesi sayılıp bir kez sayıldı.' % '", "'.join(dup)
+
     # birim özetleri
     nat_groups, nat_total = {}, 0
     for key, u in units.items():
@@ -675,7 +686,7 @@ WIKI = lambda t: {'name': 'Vikipedi: ' + t + ' (CC BY-SA 4.0)', 'url': WIKI_URL 
 LOCAL = [
     dict(id='1930yerel', year=1930, date='1930-09-15', dateLabel='Eylül – Ekim 1930', page='1930 Türkiye yerel seçimleri',
          title='1930 Belediye Seçimleri', subtitle='İl merkezi belediyesi; SCF\'nin kazandığı belediyeler',
-         desc='4 Nisan 1930 tarihli Belediyeler Kanunu\'ndan sonra yapılan ilk yerel seçim. Cumhuriyet Halk Fırkası ile yeni kurulan Serbest Cumhuriyet Fırkası katıldı ve kadınlar ilk kez seçme ve seçilme hakkını kullandı. Belediye başkanları meclis üyeleri arasından iki kademeli seçildi. Açıklanan sonuçlara göre 502 seçim bölgesinin 478\'ini CHF, 24\'ünü SCF kazandı. SCF\'nin kazandıkları 2 il merkezi (Samsun ve Silifke), 16 ilçe ve 6 kasabadır. SCF sonuçların baskı ve usulsüzlükle elde edildiğini ileri sürdü.'),
+         desc='Belediyeler Kanunu\'nun 4 Nisan 1930\'da yürürlüğe girmesinden sonra yapılan ilk yerel seçim. Cumhuriyet Halk Fırkası ile yeni kurulan Serbest Cumhuriyet Fırkası katıldı ve kadınlar ilk kez seçme ve seçilme hakkını kullandı. Belediye başkanları meclis üyeleri arasından iki kademeli seçildi. Açıklanan sonuçlara göre 502 seçim bölgesinin 478\'ini CHF, 24\'ünü SCF kazandı. SCF\'nin kazandıkları 2 il merkezi (Samsun ve Silifke), 16 ilçe ve 6 kasabadır. SCF sonuçların baskı ve usulsüzlükle elde edildiğini ileri sürdü.'),
     dict(id='1934yerel', year=1934, date='1934-09-15', dateLabel='Eylül – Ekim 1934', page='1934 Türkiye yerel seçimleri',
          title='1934 Belediye Seçimleri', desc='Serbest Cumhuriyet Fırkası kapatıldıktan sonra yapılan seçime Cumhuriyet Halk Fırkası tek başına katıldı. İl düzeyinde sonuç verisi bulunmadığından harita yalnız dönemin il sınırlarını gösterir.'),
     dict(id='1938yerel', year=1938, date='1938-10-01', dateLabel='1–19 Ekim 1938', page='1938 Türkiye yerel seçimleri',

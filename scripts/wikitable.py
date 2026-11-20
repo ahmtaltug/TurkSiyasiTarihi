@@ -79,6 +79,8 @@ def parse_table(src):
     if cur: raw_rows.append(cur)
     grid, pending = [], {}  # pending[col] = [remaining, cell]
     for rr in raw_rows:
+        if not rr:
+            continue  # hücresiz satırı MediaWiki çıktıya basmaz; birleştirmelere (rowspan) sayılmaz
         row, col = [], 0
         cells = list(rr)
         def fill_pending():
@@ -103,5 +105,11 @@ def parse_table(src):
                 if rs > 1: pending[col] = [rs - 1, cell]
                 col += 1
         fill_pending()
+        # Satır erken bittiyse, daha sağdaki birleştirilmiş (rowspan) hücreler yine bu satırda yer kaplar;
+        # tüketilmezlerse sonraki satırlara kayarlar.
+        for pc in sorted(k for k in pending if k >= col):
+            while col < pc:
+                row.append({'kind': 'd', 'raw': '', 'text': '', 'style': '', 'gap': True}); col += 1
+            fill_pending()
         if row: grid.append(row)
     return grid

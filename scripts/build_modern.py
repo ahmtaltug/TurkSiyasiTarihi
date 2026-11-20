@@ -110,8 +110,73 @@ TYPE_LABEL = {'genel': 'Milletvekili Genel Seçimi', 'yerel': 'Mahalli İdareler
               'senato': 'Cumhuriyet Senatosu Üye Seçimi', 'ara': 'Ara Seçim'}
 
 catalog = []
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from party_names import KEY_FIXES
+
+def fix_keys(rec):
+    """Dönemine uymayan parti anahtarlarını düzeltir (bkz. party_names.KEY_FIXES)."""
+    year = int(rec['date'][:4])
+    applied = []
+    for old, a, b, new, plaka, why in KEY_FIXES:
+        if not (a <= year <= b):
+            continue
+        hit = False
+        def ren(dct):
+            nonlocal hit
+            if dct and old in dct:
+                hit = True
+                v = dct.pop(old)
+                dct[new] = dct.get(new, 0) + v if isinstance(v, (int, float)) and new in dct else v
+        for u in rec['units'].values():
+            for f in ('votes', 'pct', 'seats', 'candidates'):
+                ren(u.get(f))
+            if u.get('winner') == old: u['winner'] = new; hit = True
+        for f in ('votes', 'pct', 'seats'):
+            ren(rec.get('national', {}).get(f))
+        if old in rec.get('parties', []):
+            rec['parties'] = [new if p == old else p for p in rec['parties']]; hit = True
+        if hit:
+            applied.append('"%s" anahtarı "%s" olarak düzeltildi: %s' % (old, new, why))
+            note_party(new)
+    if applied:
+        rec.setdefault('notes', []).extend(applied)
+    # ülke toplamı sıralamasını koru
+    for f in ('votes', 'pct', 'seats'):
+        n = rec.get('national', {}).get(f)
+        if n: rec['national'][f] = dict(sorted(n.items(), key=lambda kv: -(kv[1] or 0)))
+
+# Seçim tarihindeki resmî il adı (bu tarihten önceki seçimlerde eski ad gösterilir).
+# Kaynaklar: Vikipedi il maddeleri (Adana, Artvin, Mersin, Kahramanmaraş, Şanlıurfa, Afyonkarahisar).
+HIST_NAMES = {
+    '1': ('1956-02-02', 'Seyhan'),      # 1933'te Seyhan, Şubat 1956'da yeniden Adana
+    '8': ('1956-02-17', 'Çoruh'),       # 17 Şubat 1956, 6668 sayılı kanun
+    '33': ('2002-06-28', 'İçel'),       # 28 Haziran 2002
+    '46': ('1973-01-01', 'Maraş'),      # 1973 (gün kaynakta yok)
+    '63': ('1984-06-22', 'Urfa'),       # 22 Haziran 1984, 3020 sayılı kanun
+    '3': ('2004-01-01', 'Afyon'),       # 2004 (gün kaynakta yok)
+}
+def hist_names(rec):
+    if rec.get('geo', '').startswith('tr-') is False: return
+    for k, u in rec['units'].items():
+        h = HIST_NAMES.get(k)
+        if h and rec['date'] < h[0] and u['name'] != h[1] and not u['name'].startswith(h[1] + ' ('):
+            u['name'] = '%s (%s)' % (h[1], u['name'])
+
+# Ülke geneli oranların resmî/ansiklopedik değerlerle farkını açıklayan notlar (scripts/verify_wiki.py ve Vikipedi bilgi kutuları)
+NATIONAL_NOTES = {
+    '1950': 'Liste usulü çoğunluk sisteminde ülke geneli oran hesaplama yöntemine göre değişir. Buradaki oranlar il toplamlarından hesaplandı; Vikipedi DP %55,2, CHP %39,6 verir.',
+    '1954': 'Liste usulü çoğunluk sisteminde ülke geneli oran hesaplama yöntemine göre değişir. Buradaki oranlar il toplamlarından hesaplandı; Vikipedi DP %58,4, CHP %35,1 verir.',
+    '1957': 'Liste usulü çoğunluk sisteminde ülke geneli oran hesaplama yöntemine göre değişir. Buradaki oranlar il toplamlarından hesaplandı; Vikipedi DP %48,6, CHP %41,4 verir.',
+    '2018': 'Yalnız ittifaka (partisi işaretlenmeden) verilen oylar ayrı gösterilir; YSK bu oyları ittifak partilerine paylaştırır. Bu yüzden ittifak partilerinin oranı resmî sonuçtan biraz düşüktür (ör. AK Parti: burada %41,8, resmî %42,6).',
+    '2023': 'Yalnız ittifaka (partisi işaretlenmeden) verilen oylar ayrı gösterilir; YSK bu oyları ittifak partilerine paylaştırır. Bu yüzden ittifak partilerinin oranı resmî sonuçtan biraz düşüktür (ör. AK Parti: burada %35,2, resmî %35,6).',
+    '2014cb': 'Kaynak veride yurt dışı ve gümrük oyları yok; ülke geneli yalnız illerin toplamıdır. Resmî sonuç (Vikipedi): Erdoğan %51,79, İhsanoğlu %38,44, Demirtaş %9,76.',
+}
 
 def write(rec):
+    fix_keys(rec)
+    hist_names(rec)
+    if rec['id'] in NATIONAL_NOTES:
+        rec.setdefault('notes', []).insert(0, NATIONAL_NOTES[rec['id']])
     with open(os.path.join(OUT, rec['id'] + '.json'), 'w') as f:
         json.dump(rec, f, ensure_ascii=False, separators=(',', ':'))
     catalog.append({k: rec[k] for k in ('id', 'title', 'date', 'type', 'geo', 'metric', 'subtitle', 'dateLabel') if k in rec})

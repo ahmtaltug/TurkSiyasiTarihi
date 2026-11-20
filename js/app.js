@@ -11,7 +11,12 @@
     ara: { label: 'Ara seçim', color: '#6d6d6d' },
   };
   const ERA_LABEL = { osmanli: 'Osmanlı dönemi', cumhuriyet: 'Cumhuriyet dönemi' };
-  const NODATA = '#d6d3cc';
+  const THEMES = {
+    light: { nodata: '#d6d3cc', lo: '#f4f1ea', land: '#ebe8e1', landStroke: '#cfcac0', border: '#ffffff', hover: '#222222', sel: '#111111', ramp: '#7a2a1d', turnout: '#24557f' },
+    dark: { nodata: '#3b3f46', lo: '#2b2f35', land: '#23272d', landStroke: '#353a41', border: '#16191d', hover: '#f2f2f2', sel: '#ffffff', ramp: '#e07a62', turnout: '#6fa8dc' },
+  };
+  let T = THEMES.light;
+  let NODATA = T.nodata;
   const PALETTE = ['#4e79a7', '#f28e2b', '#59a14f', '#e15759', '#76b7b2', '#edc948', '#b07aa1', '#ff9da7', '#9c755f', '#bab0ac'];
 
   const nf = new Intl.NumberFormat('tr-TR');
@@ -23,7 +28,7 @@
   const state = { index: [], parties: {}, era: 'all', types: new Set(Object.keys(TYPES)), cur: null, data: null,
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true } };
-  const VERSION = '1.1.0';
+  const VERSION = '1.2.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -37,14 +42,15 @@
     let h = 0; for (const ch of String(k)) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
     return PALETTE[h % PALETTE.length];
   }
-  const pColor = (k) => (state.parties[k] && state.parties[k].c) || hashColor(k);
+  const pColor = (k) => (state.parties[k] && (T === THEMES.dark ? state.parties[k].d : state.parties[k].c)) || hashColor(k);
+  const pFull = (k) => (state.data && state.data.partyNames && state.data.partyNames[k]) || '';
   const pLabel = (k) => (state.parties[k] && (/\d{2}$/.test(k) || k.length > 22)) ? state.parties[k].s : k;
   function hexToRgb(h) { h = h.replace('#', ''); if (h.length === 3) h = h.split('').map((c) => c + c).join(''); const n = parseInt(h, 16); return [n >> 16 & 255, n >> 8 & 255, n & 255]; }
   function mix(a, b, t) {
     const A = hexToRgb(a), B = hexToRgb(b);
     return '#' + A.map((v, i) => Math.round(v + (B[i] - v) * t).toString(16).padStart(2, '0')).join('');
   }
-  const RAMP_LO = '#f4f1ea';
+  let RAMP_LO = T.lo;
   const SWING_UP = '#0f766e', SWING_DOWN = '#c2410c';
 
   // ------------------------------------------------------------------ harita
@@ -52,12 +58,23 @@
   map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
   map.attributionControl.addAttribution('Sınırlar: © OpenStreetMap katkıcıları, OCHA/HDX, Natural Earth · Sonuçlar: YSK/TÜİK, Vikipedi (CC BY-SA 4.0)');
   map.setView([39, 35], 6);
-  let worldLayer = null, unitLayer = null;
+  let worldLayer = null, unitLayer = null, hatchLayer = null;
+  state.showHatch = localStorage.getItem('hatch') !== '0';
+  function drawHatch(fc) {
+    if (hatchLayer) { map.removeLayer(hatchLayer); hatchLayer = null; }
+    const d = state.data;
+    if (!state.showHatch || !d || !d.geo || d.level === 'vilayet') return;
+    const feats = fc.features.filter((f) => d.units[f.properties.id] && d.units[f.properties.id].boundary);
+    if (!feats.length) return;
+    hatchLayer = L.geoJSON({ type: 'FeatureCollection', features: feats }, {
+      interactive: false, style: { stroke: false, fill: true, fillColor: 'url(#hatch)', fillOpacity: 1 },
+    }).addTo(map);
+  }
 
   async function loadWorld() {
     const w = await getJSON('data/geo/world.json');
     const fc = topojson.feature(w, w.objects[Object.keys(w.objects)[0]]);
-    worldLayer = L.geoJSON(fc, { interactive: false, style: { fillColor: '#ebe8e1', fillOpacity: 1, color: '#cfcac0', weight: 0.6 } }).addTo(map);
+    worldLayer = L.geoJSON(fc, { interactive: false, style: () => ({ fillColor: T.land, fillOpacity: 1, color: T.landStroke, weight: 0.6 }) }).addTo(map);
   }
 
   async function loadGeo(id) {
@@ -138,16 +155,15 @@
   }
   function rampColor(mode) {
     if (mode === 'party' || mode === 'share') return pColor(state.party);
-    if (mode === 'turnout') return '#24557f';
+    if (mode === 'turnout') return T.turnout;
     if (state.data && state.data.id === '1930yerel') return pColor('Serbest Cumhuriyet Fırkası');
-    return '#7a2a1d';
+    return T.ramp;
   }
 
   function styleFor(u) {
     const d = state.data, mode = state.mode;
-    const base = { weight: 0.7, color: '#ffffff', opacity: 1, fillOpacity: 1 };
-    if (u && u.boundary && d.level !== 'vilayet') { base.dashArray = '4 3'; base.color = '#222'; base.weight = 1.2; }
-    if (!u || u.nodata) return { ...base, fillColor: NODATA, color: base.dashArray ? base.color : '#f4f2ee' };
+    const base = { weight: borderWeight(), color: T.border, opacity: 1, fillOpacity: 1, lineJoin: 'round' };
+    if (!u || u.nodata) return { ...base, fillColor: NODATA };
     if (mode === 'winner') {
       if (!u.winner) return { ...base, fillColor: NODATA };
       let t = 0.85;
@@ -173,6 +189,7 @@
     $('#mapOverlay').hidden = true;
     if (!d.geo) {
       if (unitLayer) { map.removeLayer(unitLayer); unitLayer = null; }
+      if (hatchLayer) { map.removeLayer(hatchLayer); hatchLayer = null; }
       $('#mapOverlay').hidden = false;
       $('#mapOverlay').innerHTML = '<b>Bu kayıt için harita verisi yok.</b><br>Ayrıntılar sağdaki panelde.';
       if (state.geoFamily !== 'otto') { map.fitBounds([[12, 12], [47, 48]]); state.geoFamily = 'otto'; }
@@ -183,11 +200,12 @@
     if (state.data !== d) return; // bu arada başka seçim seçildi
     updateDomain();
     const old = unitLayer;
+    state.fc = fc;
     unitLayer = L.geoJSON(fc, {
       style: (f) => styleFor(d.units[f.properties.id]),
       onEachFeature: (f, layer) => {
         layer.on({
-          mouseover: () => { layer.setStyle({ weight: 2, color: '#222' }); layer.bringToFront(); },
+          mouseover: () => { layer.setStyle({ weight: borderWeight() + 1.4, color: T.hover }); layer.bringToFront(); if (hatchLayer) hatchLayer.bringToFront(); },
           mouseout: () => { unitLayer && unitLayer.resetStyle(layer); markSelected(); },
           click: () => selectUnit(f.properties.id),
         });
@@ -195,6 +213,7 @@
       },
     }).addTo(map);
     if (old) map.removeLayer(old);
+    drawHatch(fc);
     const fam = d.geo.startsWith('h-1877') || ['h-1908', 'h-1912', 'h-1914'].includes(d.geo) ? 'otto' : 'tr';
     if (fam !== state.geoFamily) {
       map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] });
@@ -202,6 +221,10 @@
     }
     markSelected();
     renderLegend();
+  }
+  function borderWeight() {
+    const z = map.getZoom();
+    return z <= 4.5 ? 0.4 : z <= 5.5 ? 0.6 : z <= 6.5 ? 0.8 : z <= 7.5 ? 1.1 : 1.4;
   }
   function updateDomain() {
     const m = state.mode;
@@ -215,7 +238,8 @@
   }
   function markSelected() {
     if (!unitLayer || !state.unit) return;
-    unitLayer.eachLayer((l) => { if (l.feature.properties.id === state.unit) { l.setStyle({ weight: 2.5, color: '#111' }); l.bringToFront(); } });
+    unitLayer.eachLayer((l) => { if (l.feature.properties.id === state.unit) { l.setStyle({ weight: borderWeight() + 1.8, color: T.sel }); l.bringToFront(); } });
+    if (hatchLayer) hatchLayer.bringToFront();
   }
 
   function tooltipHtml(f) {
@@ -223,7 +247,7 @@
     const name = esc((u && u.name) || f.properties.name);
     if (!u || u.nodata) return `<b>${name}</b><span class="muted">${u && u.note ? esc(u.note) : 'Veri yok'}</span>`;
     const parts = [];
-    if (state.mode === 'winner' && u.winner) parts.push(`${esc(pLabel(u.winner))}${u.pct && u.pct[u.winner] != null ? ' ' + pf(u.pct[u.winner]) : ''}`);
+    if (state.mode === 'winner' && u.winner) parts.push(`${esc(pFull(u.winner) || pLabel(u.winner))}${u.pct && u.pct[u.winner] != null ? ' ' + pf(u.pct[u.winner]) : ''}`);
     else if (state.mode === 'party' || state.mode === 'share') parts.push(`${esc(pLabel(state.party))}: ${pf(unitValue(u, state.mode))}`);
     else if (state.mode === 'turnout') parts.push('Katılım ' + pf(u.turnout));
     else if (state.mode === 'swing') { const v = unitValue(u, 'swing'); parts.push(`${esc(pLabel(state.party))}: ${v == null ? 'karşılaştırılamaz' : sgn(v) + ' puan'}`); }
@@ -238,14 +262,14 @@
     if (!d || !d.geo) { el.innerHTML = ''; return; }
     const mode = state.mode;
     let html = '';
-    if (!mode) { el.innerHTML = '<div class="t">Dönemin sınırları</div><div class="muted">İl düzeyinde sonuç verisi yok</div>' + (Object.values(d.units).some((u) => u.boundary) ? '<div class="item"><span class="sw dash"></span><span class="muted">Sınırı tahmine dayanan birim</span></div>' : ''); return; }
+    if (!mode) { el.innerHTML = '<div class="t">Dönemin sınırları</div><div class="muted">İl düzeyinde sonuç verisi yok</div>' + hatchLegend(d); bindHatchToggle(); return; }
     if (mode === 'winner') {
       const cnt = {};
       Object.values(d.units).forEach((u) => { if (u.winner) cnt[u.winner] = (cnt[u.winner] || 0) + 1; });
       const title = d.type === 'referandum' ? 'Sonuç' : d.type === 'cumhurbaskanligi' ? 'Önde olan aday' : d.id === '1930yerel' ? 'İl merkezi belediyesi' : d.id === '1946' ? 'Birinci parti (oy; bilinmiyorsa vekil)' : d.metric === 'members' ? 'Çoğunluk (vekil)' : 'Birinci parti';
       html += `<div class="t">${title}</div>`;
       Object.entries(cnt).sort((a, b) => b[1] - a[1]).forEach(([k, n]) => {
-        html += `<div class="item"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))} <span class="muted">(${n})</span></div>`;
+        html += `<div class="item" title="${esc(pFull(k))}"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))} <span class="muted">(${n})</span></div>`;
       });
       if (Object.values(d.units).some((u) => u.pct && u.winner)) html += '<div class="muted" style="margin-top:4px">Ton koyulaştıkça oy oranı artar</div>';
     } else if (mode === 'swing') {
@@ -261,8 +285,19 @@
       html += `<div class="ramp-l"><span>${nf.format(lo)}</span><span>${nf.format(hi)}</span></div>`;
     }
     html += `<div class="item" style="margin-top:4px"><span class="sw" style="background:${NODATA}"></span><span class="muted">Veri yok / seçim yapılmadı</span></div>`;
-    if (d.level !== 'vilayet' && Object.values(d.units).some((u) => u.boundary)) html += '<div class="item"><span class="sw dash"></span><span class="muted">Sınırı tahmine dayanan birim</span></div>';
+    html += hatchLegend(d);
     el.innerHTML = html;
+    bindHatchToggle();
+  }
+  function hatchLegend(d) {
+    if (d.level === 'vilayet') return '';
+    const n = Object.values(d.units).filter((u) => u.boundary).length;
+    if (!n) return '';
+    return `<label class="item hatch-toggle"><input type="checkbox" id="hatchChk" ${state.showHatch ? 'checked' : ''}><span class="sw hatch"></span><span class="muted">Sınırı tahmine dayanan birim (${n})</span></label>`;
+  }
+  function bindHatchToggle() {
+    const c = document.getElementById('hatchChk');
+    if (c) c.addEventListener('change', () => { state.showHatch = c.checked; localStorage.setItem('hatch', c.checked ? '1' : '0'); if (state.fc) drawHatch(state.fc); });
   }
 
   // ------------------------------------------------------------------ panel
@@ -271,7 +306,7 @@
     return '<div class="bars">' + entries.map(([k, v, extra]) => {
       const w = Math.max(0.5, 100 * v / max);
       const val = opts.pct ? pf(v) : nf.format(v);
-      return `<div class="bar"><span class="lab" title="${esc(k)}"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))}</span>` +
+      return `<div class="bar"><span class="lab" title="${esc(pFull(k) || k)}"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))}</span>` +
         `<span class="tr"><span class="fl" style="display:block;width:${w}%;background:${pColor(k)}"></span></span>` +
         `<span class="val">${val}${extra ? ' · ' + extra : ''}</span></div>`;
     }).join('') + '</div>';
@@ -282,7 +317,8 @@
     const t = TYPES[d.type] || { label: d.type, color: '#666' };
     let h = `<h2>${esc(d.title)}</h2>`;
     h += `<div class="muted">${esc(d.dateLabel || meta.dateLabel || d.date)}${d.subtitle ? ' · ' + esc(d.subtitle) : ''}</div>`;
-    h += `<div class="badges"><span class="badge" style="background:${t.color}1a;color:${t.color}">${t.label}</span><span class="badge">${ERA_LABEL[d.era] || ''}</span>`;
+    const tc = T === THEMES.dark ? mix(t.color, '#ffffff', 0.45) : t.color;
+    h += `<div class="badges"><span class="badge" style="background:${t.color}${T === THEMES.dark ? '40' : '1a'};color:${tc}">${t.label}</span><span class="badge">${ERA_LABEL[d.era] || ''}</span>`;
     if (d.reliability) h += `<span class="badge rel rel-${esc(d.reliability.level)}" title="${esc(d.reliability.why)}">${esc(d.reliability.label)}</span>`;
     if (d.approxBoundaries) h += '<span class="badge">Yaklaşık sınırlar</span>';
     if (d.level) h += `<span class="badge">Birim: ${d.level}</span>`;
@@ -325,7 +361,7 @@
       ms.map(([k, l]) => `<button type="button" data-mode="${k}" class="${k === state.mode ? 'active' : ''}" aria-pressed="${k === state.mode}">${l}</button>`).join('') + '</div>';
     if (state.mode === 'swing' && state.prev) h += `<p class="hint">Karşılaştırma: ${esc(state.prev.title)} (${esc(state.prev.dateLabel || state.prev.date)}). İl sınırları değişmişse yalnız eşleşen iller boyanır.</p>`;
     if (state.mode === 'party' || state.mode === 'share' || state.mode === 'swing') {
-      h += '<select id="partySelect" aria-label="Parti">' + partyChoices(d).map((p) => `<option value="${esc(p)}" ${p === state.party ? 'selected' : ''}>${esc(pLabel(p))}</option>`).join('') + '</select>';
+      h += '<select id="partySelect" aria-label="Parti">' + partyChoices(d).map((p) => `<option value="${esc(p)}" ${p === state.party ? 'selected' : ''}>${esc(pLabel(p))}${pFull(p) && pFull(p) !== pLabel(p) ? ' — ' + esc(pFull(p)) : ''}</option>`).join('') + '</select>';
     }
     box.innerHTML = h;
     box.querySelectorAll('[data-mode]').forEach((b) => b.addEventListener('click', () => { setMode(b.dataset.mode); }));
@@ -698,8 +734,33 @@
     history.replaceState(null, '', '#' + p.toString());
   }
 
+  // ------------------------------------------------------------------ tema (sistem / açık / koyu)
+  const THEME_LABEL = { auto: 'Tema: Sistem', light: 'Tema: Açık', dark: 'Tema: Koyu' };
+  const mq = window.matchMedia('(prefers-color-scheme: dark)');
+  function themePref() { return localStorage.getItem('theme') || 'auto'; }
+  function applyTheme(rerender) {
+    const pref = themePref();
+    const dark = pref === 'dark' || (pref === 'auto' && mq.matches);
+    document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+    T = dark ? THEMES.dark : THEMES.light; NODATA = T.nodata; RAMP_LO = T.lo;
+    const b = $('#themeBtn'); if (b) { b.textContent = THEME_LABEL[pref]; b.setAttribute('aria-label', THEME_LABEL[pref] + ' (değiştirmek için tıklayın)'); }
+    document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#16191d' : '#8d1c1c');
+    if (rerender && state.data) {
+      if (worldLayer) worldLayer.setStyle(() => ({ fillColor: T.land, fillOpacity: 1, color: T.landStroke, weight: 0.6 }));
+      renderElectionInfo(); renderModes(); renderUnit(); renderTable(); renderChips(); restyle();
+    }
+  }
+  function cycleTheme() {
+    const order = ['auto', 'light', 'dark'];
+    localStorage.setItem('theme', order[(order.indexOf(themePref()) + 1) % 3]);
+    applyTheme(true);
+  }
+
   // ------------------------------------------------------------------ başlat
   async function init() {
+    applyTheme(false);
+    mq.addEventListener('change', () => { if (themePref() === 'auto') applyTheme(true); });
+    map.on('zoomend', () => { if (state.data) restyle(); });
     const [idx, parties] = await Promise.all([getJSON('data/index.json'), getJSON('data/parties.json')]);
     state.index = idx; state.parties = parties;
     renderChips(); renderSelect();
@@ -714,6 +775,7 @@
     $('#prevBtn').addEventListener('click', () => step(-1));
     $('#nextBtn').addEventListener('click', () => step(1));
     $('#aboutBtn').addEventListener('click', () => $('#about').showModal());
+    $('#themeBtn').addEventListener('click', cycleTheme);
     $('#playBtn').addEventListener('click', togglePlay);
     $('#speedSel').addEventListener('change', (e) => { state.play.speed = Number(e.target.value); });
     $('#skipEmpty').addEventListener('change', (e) => { state.play.skipEmpty = e.target.checked; updateYearBadge(); });
