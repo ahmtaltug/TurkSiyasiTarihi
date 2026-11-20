@@ -153,16 +153,29 @@ for plaka, pr in sorted(load('data/demographics.json')['provinces'].items(), key
     else:
         units[plaka] = {'name': name, 'nodata': True, 'note': 'Güncel belediye başkanı bilgisi okunamadı.'}; failed.append(name)
 
+# Elle düzeltmeler: Vikipedi'de yanlış ya da gecikmiş bilgi için (data/guncel-duzeltmeler.json)
+today = datetime.date.today().isoformat()
+FIX_PATH = os.path.join(ROOT, 'data', 'guncel-duzeltmeler.json')
+FIX = load('data/guncel-duzeltmeler.json') if os.path.exists(FIX_PATH) else {}
+for plaka, fx in (FIX.get('iller') or {}).items():
+    if plaka in units and (not fx.get('bitis') or today <= fx['bitis']):
+        units[plaka].update({k: fx[k] for k in ('winner', 'mayor') if k in fx})
+        units[plaka]['fixed'] = fx.get('gerekce', 'Elle düzeltildi.')
+for k, v in (FIX.get('tbmm') or {}).items():
+    if not str(k).startswith('_'):
+        seats[k] = v
+
 for u in units.values():
     if u.get('winner') == 'Kayyım':
         u['note'] = 'Belediyeye kayyım atanmış (görevden alınan başkanın yerine vali ya da kaymakam).'
     if u.get('acting'):
         u['note'] = 'Başkan vekâleten görevde.'
+    if u.get('fixed'):
+        u['note'] = (u.get('note', '') + ' Elle düzeltme: ' + u.pop('fixed')).strip()
 mayors = {}
 for u in units.values():
     if u.get('winner'):
         mayors[u['winner']] = mayors.get(u['winner'], 0) + 1
-today = datetime.date.today().isoformat()
 names = {k: FULL.get(k, k) for k in set(seats) | set(mayors)}
 names.update({'Kayyım': 'Kayyım (atanmış yönetici)', 'Bağımsız': 'Bağımsız', 'Boş': 'Boş sandalye'})
 data = {
@@ -186,7 +199,28 @@ data = {
 for k in list(data['units']):
     data['units'][k].pop('acting', None)
 old = json.dumps(load('data/elections/guncel.json'), sort_keys=True) if os.path.exists(out_path) else ''
-cmp_new = dict(data); cmp_old = json.loads(old) if old else {}
+cmp_old = json.loads(old) if old else {}
+
+# değişiklik günlüğü ve aşırı değişim koruması
+changes = []
+for plaka, u in units.items():
+    pu = (cmp_old.get('units') or {}).get(plaka)
+    if pu and pu.get('winner') and u.get('winner') and pu['winner'] != u['winner']:
+        changes.append({'date': today, 'kind': 'belediye', 'il': u['name'], 'from': pu['winner'], 'to': u['winner'], 'who': u.get('mayor', '')})
+old_seats = (cmp_old.get('national') or {}).get('seats') or {}
+seat_moves = 0
+if old_seats:
+    for k in sorted(set(old_seats) | set(seats)):
+        a, b = old_seats.get(k, 0), seats.get(k, 0)
+        if a != b:
+            changes.append({'date': today, 'kind': 'tbmm', 'party': k, 'from': a, 'to': b})
+            seat_moves += abs(b - a)
+n_il = sum(1 for c in changes if c['kind'] == 'belediye')
+if (n_il > 8 or seat_moves > 60) and os.environ.get('GUNCEL_FORCE') != '1':
+    sys.exit('Olağan dışı çok değişiklik (%d il, %d sandalye hareketi): Vikipedi\'de hatalı düzenleme olabilir. '
+             'Kontrol edip doğruysa GUNCEL_FORCE=1 ile yeniden çalıştırın; dosya değiştirilmedi.' % (n_il, seat_moves))
+data['changes'] = (changes + (cmp_old.get('changes') or []))[:120]
+cmp_new = dict(data)
 for x in (cmp_new, cmp_old):
     for f in ('date', 'dateLabel'):
         x.pop(f, None)

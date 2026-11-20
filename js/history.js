@@ -17,7 +17,7 @@
     ['1918-12-21', '1920-01-12', 'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek'], ['1920-03-18', '1920-04-23', 'İstanbul\'un işgali: Meclis-i Mebusan son kez toplandı'], ['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
   const SULTAN = '#8a6d3b', VIZIER = '#b59a6a';
   const MARK = { '1876-12-23': 'I. Meşrutiyet', '1908-07-23': 'II. Meşrutiyet', '1913-01-23': 'Bâbıâli Baskını', '1920-04-23': 'TBMM', '1923-10-29': 'Cumhuriyet', '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
-  let CUR = null, H = null, tab = 'chart', pin = null, partySel = null;
+  let chartShow = null, CUR = null, H = null, tab = 'chart', pin = null, partySel = null;
   const anim = { on: false, t: 1876, timer: null, speed: 1, types: null };
 
   // ------------------------------------------------------------------ renkler
@@ -69,7 +69,17 @@
   document.querySelectorAll('#mainTabs [data-view]').forEach((b) => b.addEventListener('click', () => {
     if (b.dataset.view === 'map') close(); else open(tab, A().state.data && A().state.data.date);
   }));
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !dlg.hidden && !e.target.closest('input, select')) close(); });
+  document.addEventListener('keydown', (e) => {
+    if (dlg.hidden || e.target.closest('input, select, textarea')) return;
+    if (e.key === 'Escape') close();
+    // grafikte ← → bir ay, Shift ile bir yıl
+    if (tab === 'chart' && (e.key === 'ArrowLeft' || e.key === 'ArrowRight') && H) {
+      e.preventDefault();
+      const step = (e.shiftKey ? 1 : 1 / 12) * (e.key === 'ArrowLeft' ? -1 : 1);
+      pin = fromYf(Math.max(1876, Math.min(yf(TODAY), yf(pin || TODAY) + step)));
+      if (chartShow) chartShow(pin, true); setHash();
+    }
+  });
 
   // ------------------------------------------------------------------ yardımcı sorgular
   const inRange = (x, d) => x.start && x.start <= d && (!x.end || d < x.end);
@@ -244,7 +254,7 @@
     s += `<rect id="hcHit" x="${L0}" y="0" width="${Wc - L0 - R0}" height="${ay}" fill="transparent"/></svg>`;
 
     const legend = order.filter((k) => !['Boş', 'Belirtilmemiş'].includes(k)).map((k) => `<span class="pchip" title="${esc(label[k])}"><span class="sw" style="background:${nameColor(label[k], sample[k])}"></span>${esc(shortName(label[k], sample[k]))}</span>`).join(' ');
-    body.innerHTML = `<p class="hint">Fareyi grafiğin üzerinde gezdirin ya da tıklayın: o tarihteki meclis, hükûmet ve cumhurbaşkanı aşağıda yazar.</p>` +
+    body.innerHTML = `<p class="hint">Fareyi grafiğin üzerinde gezdirin ya da tıklayın: o tarihteki meclis, hükûmet ve cumhurbaşkanı aşağıda yazar. Klavyede ← → bir ay, Shift ile bir yıl ilerler.</p>` +
       `<div class="hc-scroll">${s}</div><div class="hc-info" id="hcInfo"></div><div class="hc-legend">${legend}</div>` +
       `<p class="note small">Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur. Dönem içinde yalnız tek parti dönemindeki muhalefet denemeleri (Halk Fırkası'nın kuruluşu 1923, Terakkiperver Cumhuriyet Fırkası 1924–1925, Serbest Cumhuriyet Fırkası 1930) yaklaşık sayılarla işlenmiştir; diğer parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
       `1935–1943'te "Belirtilmemiş", seçim maddelerinin bilgi kutusunda CHP dışında sayılan ama partisi verilmeyen sandalyelerdir. Hükûmet bandında koalisyon ortakları üst üste şeritler hâlinde, sırasıyla gösterilir; ✕ güvenoyu alamayan hükûmeti işaretler. ` +
@@ -265,6 +275,7 @@
     hit.addEventListener('click', (ev) => { pin = fromYf(Math.max(X0, Math.min(tAt(ev), yf(TODAY)))); show(pin); setHash(); });
     const start = pin || TODAY;
     show(start);
+    chartShow = (d, scroll) => { show(d); if (scroll) { const x = X(yf(d)), sc2 = body.querySelector('.hc-scroll'); if (x < sc2.scrollLeft + 40 || x > sc2.scrollLeft + sc2.clientWidth - 40) sc2.scrollLeft = x - sc2.clientWidth / 2; } };
     // seçili tarihi görünür alana kaydır
     const sc = body.querySelector('.hc-scroll');
     sc.scrollLeft = Math.max(0, X(yf(start)) - sc.clientWidth / 2);
@@ -428,6 +439,7 @@
   });
   const hp = new URLSearchParams(location.hash.slice(1));
   if (hp.get('v') === 'tarih') A().ready.then(() => open(['chart', 'govs', 'parties', 'anim'].includes(hp.get('t')) ? hp.get('t') : 'chart', hp.get('d'), hp.get('p')));
+  A().ready.then(() => A().bindReport(document.querySelector('.hd-head'), () => 'Siyasi tarih' + (pin ? ' — ' + A().fmtDate(pin) : '')));
   $('#histShare').addEventListener('click', async (e) => {
     setHash(); const b = e.currentTarget, old = b.innerHTML;
     try { await navigator.clipboard.writeText(location.href); b.textContent = 'Kopyalandı ✓'; } catch (_) { window.prompt('Bağlantıyı kopyalayın:', location.href); }

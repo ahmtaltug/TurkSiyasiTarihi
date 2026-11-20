@@ -1,0 +1,5 @@
+{
+ "_açıklama": "Vikipedi'deki yanlış ya da gecikmiş bilgiyi düzeltmek için. 'iller' anahtarı plaka koduyla: winner (parti anahtarı, ör. CHP, AK Parti, Yeni Parti, Kayyım), mayor (ad), gerekce (kaynakla), bitis (YYYY-AA-GG, isteğe bağlı; bu tarihten sonra Vikipedi değeri kullanılır). 'tbmm' anahtarı: parti -> sandalye.",
+ "iller": {},
+ "tbmm": {}
+}

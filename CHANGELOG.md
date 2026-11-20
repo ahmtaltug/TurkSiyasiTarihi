@@ -1,5 +1,13 @@
 # Değişiklik günlüğü
 
+## 3.2.0 — 2026-11-20
+
+- **Hata bildirimi:** Her kaydın panelinde ve siyasi tarih bölümünde "Hata bildir" bağlantısı; GitHub'da, görüntülenen kaydın bağlantısıyla doldurulmuş bir form açar. Veri hatası ve öneri için iki form şablonu (`.github/ISSUE_TEMPLATE/`).
+- **Güncel durum, son değişiklikler:** Otomatik güncelleme bir il belediyesinin partisi ya da TBMM sandalyeleri değiştiğinde bunu günlüğe yazar; panelde son 12 değişiklik gösterilir.
+- **Güncel durum, koruma:** Bir günde 8'den çok il ya da 60'tan çok sandalye değişirse güncelleme durur ve iş başarısız olur (Vikipedi'de hatalı düzenleme olasılığı); GitHub depo sahibine e-posta gönderir. Doğruysa Actions'tan "force" seçeneğiyle uygulanır.
+- **Güncel durum, elle düzeltme:** `data/guncel-duzeltmeler.json` ile Vikipedi'deki yanlış ya da gecikmiş bir bilgi (il belediye başkanı, TBMM sandalyesi) kaynağıyla birlikte geçersiz kılınabilir; bitiş tarihi verilebilir.
+- **Klavye:** Siyasi tarih grafiğinde ← → bir ay, Shift ile bir yıl ilerler; adres güncellenir.
+
 ## 3.1.4 — 2026-11-20
 
 - Birinci Meclis (1920–1923) grupları meclis dağılımında: 10 Mayıs 1921'e dek grupsuz; sonra Birinci Grup; 22 Temmuz 1922'den itibaren muhalif İkinci Grup (63 milletvekili, İngilizce Vikipedi "Second Group (Turkey)"). Birinci Grubun tek başına üye sayısı kaynaklarda bulunmadığından grupsuzlarla birlikte gösterilir.
