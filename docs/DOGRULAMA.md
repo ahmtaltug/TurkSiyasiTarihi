@@ -1,6 +1,6 @@
 # Veri doğrulama raporu
 
-Son güncelleme: 20 Kasım 2026 (sürüm 1.2.0). Bu rapor, sitedeki tarihî ve siyasi bilgilerin (parti adları, aday adları, il adları, tarihler,
+Son güncelleme: 20 Kasım 2026 (sürüm 1.3.0). Bu rapor, sitedeki tarihî ve siyasi bilgilerin (parti adları, aday adları, il adları, tarihler,
 mebus/milletvekili listeleri) neyle, nasıl karşılaştırıldığını ve neyin **karşılaştırılamadığını** listeler.
 
 Kaynak olarak Türkçe ve İngilizce Vikipedi maddeleri kullanıldı. Birincil kaynaklarla (TBMM Albümü, YSK arşivi, Resmî Gazete)
@@ -33,6 +33,7 @@ Düzeltmeler derleme sırasında uygulanır (`party_names.KEY_FIXES`) ve ilgili 
 - **1950, 1954, 1957:** 0,7–1,0 puan fark var. Liste usulü çoğunluk sisteminde ülke oranı hesaplama yöntemine göre değişir. Vikipedi'nin değerleri seçim notlarına eklendi.
 - **2018, 2023:** Kaynak veri, yalnız ittifaka verilen oyları ayrı tutar; YSK ise bunları ittifak partilerine paylaştırır. 2018'de AK Parti burada %41,8, resmî sonuçta %42,6'dır. Bu durum notlarda açıklandı.
 - **Halkoylamaları (1961–2017) ve 2018, 2023 cumhurbaşkanlığı seçimleri:** Resmî oranlarla 0,05 puan içinde örtüşüyor.
+- **1999:** Kaynak veri seti CHP'yi (Vikipedi: %8,71, sandalye kazanamadı) "Diğer" içinde toplar. Bu durum notta açıklandı.
 - **2014 cumhurbaşkanlığı:** Kaynak veride yurt dışı oyları yok (burada %51,65, resmî %51,79). Bu durum notta açıklandı.
 
 ## 3. İl adları

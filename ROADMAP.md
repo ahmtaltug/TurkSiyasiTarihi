@@ -13,14 +13,14 @@ Her iki değerlendirmenin ortak sonucu şudur: Yeni görsel özelliklerden önce
 
 ## 2. Analiz özellikleri
 - [ ] İki seçimi yan yana karşılaştırma görünümü.
-- [ ] Parti zaman çizgisi: bir partinin (ve öncül/ardıl partilerin) ülke geneli oy oranı ve kazandığı il sayısı.
+- [x] Parti zaman çizgisi: aynı türdeki seçimlerde ülke geneli oy oranı (1.3.0). Öncül/ardıl partileri birleştirme ve kazanılan il sayısı henüz yok.
 - [ ] Partilerin kuruluş, kapanış ve birleşmelerini zaman çizelgesinde göstermek.
 - [ ] Seçim sonuçlarını nüfus, kentleşme ve göç gibi demografik göstergelerle karşılaştırmak (TÜİK verisi gerekir).
 - [ ] İlçe düzeyi (kaynak veri setinde 1961 sonrası mevcut).
 
 ## 3. Arayüz ve erişilebilirlik
 - [ ] İngilizce arayüz.
-- [ ] Haritanın klavyeyle gezilebilmesi (şimdilik birim tablosu bu işlevi kısmen karşılıyor).
+- [ ] Haritanın klavyeyle gezilebilmesi. Şimdilik birim tablosu, il arama (`/`) ve klavye kısayolları bu işlevi kısmen karşılıyor.
 
 ## 4. Uzun vadeli kapsam
 Depo adı (`TurkSiyasiTarihi`), seçimlerin ötesinde daha geniş bir siyasi tarih platformuna alan bırakıyor. Olası modüller: parlamentolar ve vekil biyografileri, hükûmetler, anayasa değişiklikleri, siyasi partiler. Bu, bakım yükünü belirgin biçimde artıracağından ancak 1. bölüm tamamlandıktan sonra ele alınmalı.

@@ -26,6 +26,8 @@ Toplam 88 kayıt vardır. Canlı site: **https://ahmtaltug.github.io/TurkSiyasiT
 - **İl geçmişi ve meclis grafiği:** 1950 sonrası bir ilin aynı türdeki bütün seçimleri tek tabloda listelenir; genel seçimlerde ve Senato seçimlerinde sandalye dağılımı yarım daire grafikle gösterilir.
 
 - **Koyu tema:** Tarayıcı tercihine göre açılır, sağ üstten değiştirilebilir.
+- **Parti geçmişi ve il arama:** Ülke geneli çubuklarından bir partiye tıklayınca, partinin aynı türdeki seçimlerdeki oy oranı grafikle gösterilir. Haritanın sağ üstündeki kutuyla il aranır (kısayol: `/`).
+- **Hızlı ve çevrimdışı:** Komşu seçimler önceden yüklenir. Service worker sayesinde açılmış seçimler internetsiz de görüntülenebilir; site telefona uygulama gibi eklenebilir.
 
 Neyin nasıl doğrulandığı için [docs/DOGRULAMA.md](docs/DOGRULAMA.md), sürüm geçmişi için [CHANGELOG.md](CHANGELOG.md), planlanan işler için [ROADMAP.md](ROADMAP.md) dosyasına bakın.
 

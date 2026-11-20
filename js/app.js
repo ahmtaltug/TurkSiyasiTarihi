@@ -28,7 +28,7 @@
   const state = { index: [], parties: {}, era: 'all', types: new Set(Object.keys(TYPES)), cur: null, data: null,
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true } };
-  const VERSION = '1.2.0';
+  const VERSION = '1.3.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -75,6 +75,7 @@
     const w = await getJSON('data/geo/world.json');
     const fc = topojson.feature(w, w.objects[Object.keys(w.objects)[0]]);
     worldLayer = L.geoJSON(fc, { interactive: false, style: () => ({ fillColor: T.land, fillOpacity: 1, color: T.landStroke, weight: 0.6 }) }).addTo(map);
+    worldLayer.bringToBack();
   }
 
   async function loadGeo(id) {
@@ -306,9 +307,10 @@
     return '<div class="bars">' + entries.map(([k, v, extra]) => {
       const w = Math.max(0.5, 100 * v / max);
       const val = opts.pct ? pf(v) : nf.format(v);
-      return `<div class="bar"><span class="lab" title="${esc(pFull(k) || k)}"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))}</span>` +
+      const tag = opts.click ? `button type="button" class="bar clickable" data-k="${esc(k)}" aria-label="${esc(pLabel(k))}: parti geçmişini göster"` : 'div class="bar"';
+      return `<${tag}><span class="lab" title="${esc(pFull(k) || k)}"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))}</span>` +
         `<span class="tr"><span class="fl" style="display:block;width:${w}%;background:${pColor(k)}"></span></span>` +
-        `<span class="val">${val}${extra ? ' · ' + extra : ''}</span></div>`;
+        `<span class="val">${val}${extra ? ' · ' + extra : ''}</span></${opts.click ? 'button' : 'div'}>`;
     }).join('') + '</div>';
   }
 
@@ -331,7 +333,9 @@
       const ent = Object.entries(n.pct).filter(([k]) => k !== 'Diğer').slice(0, 8)
         .map(([k, v]) => [k, v, n.seats && n.seats[k] ? `${n.seats[k]} snd.` : '']);
       const label = d.type === 'referandum' ? 'Ülke geneli' : d.type === 'cumhurbaskanligi' ? 'Ülke geneli (aday)' : 'Ülke geneli oy';
-      h += `<h3>${label}</h3>` + bars(ent, 100, { pct: true, max: Math.max(...ent.map((e) => e[1])) });
+      const canHist = d.era === 'cumhuriyet' && d.metric === 'votes' && d.type !== 'ara';
+      h += `<h3>${label}</h3>` + bars(ent, 100, { pct: true, max: Math.max(...ent.map((e) => e[1])), click: canHist });
+      if (canHist) h += '<p class="hint small">Bir partiye tıklayınca haritada oy oranı ve aşağıda geçmişi gösterilir.</p><div id="partyHist"></div>';
       if (n.seats && Object.keys(n.seats).length && (d.type === 'genel' || d.type === 'senato')) {
         h += `<h3>${d.type === 'senato' ? 'Bu seçimde kazanılan sandalyeler' : 'Meclis dağılımı'}</h3>` + hemicycle(Object.entries(n.seats).filter((e) => e[1] > 0));
       }
@@ -352,6 +356,12 @@
     }
     if (n.turnout_note) h += `<p class="note">${esc(n.turnout_note)}</p>`;
     $('#electionInfo').innerHTML = h;
+    document.querySelectorAll('#electionInfo .bar.clickable').forEach((b) => b.addEventListener('click', () => {
+      state.party = b.dataset.k;
+      if (modesFor(state.data).some((m) => m[0] === 'party')) setMode('party'); else restyle();
+      renderPartyHistory(b.dataset.k);
+    }));
+    if (partyHistKey && state.data.national && state.data.national.pct && state.data.national.pct[partyHistKey] != null) renderPartyHistory(partyHistKey);
   }
 
   function renderModes() {
@@ -476,6 +486,46 @@
     box.querySelectorAll('tr[data-e]').forEach((tr) => tr.addEventListener('click', () => go(tr.dataset.e, { unit: id, keepMode: true })));
   }
 
+  // ------------------------------------------------------------------ parti geçmişi (aynı türdeki seçimlerde ülke geneli oy)
+  let partyHistKey = null;
+  async function renderPartyHistory(key) {
+    partyHistKey = key;
+    const d = state.data, box = $('#partyHist');
+    if (!box) return;
+    box.innerHTML = '<p class="hint">Yükleniyor…</p>';
+    const name = pFull(key) || key;
+    const fam = family(state.cur);
+    const metas = state.index.filter((e) => family(e) === fam && e.metric === 'votes' && e.era === 'cumhuriyet');
+    const datas = await Promise.all(metas.map((e) => loadElection(e.id).catch(() => null)));
+    if (state.data !== d || partyHistKey !== key) return;
+    // aynı kısaltma farklı yıllarda farklı partiyi gösterebilir: tam adı aynı olanları al
+    const pts = metas.map((e, i) => {
+      const x = datas[i]; if (!x || !x.national || !x.national.pct) return null;
+      const v = x.national.pct[key]; if (v == null) return null;
+      const n = (x.partyNames && x.partyNames[key]) || key;
+      if (n !== name) return null;
+      return { e, y: Number(e.date.slice(0, 4)) + (e.date.slice(5, 7) - 1) / 12, v, seats: x.national.seats && x.national.seats[key] };
+    }).filter(Boolean);
+    // parti bir seçime girmediyse (ör. CHP 1983–1991) çizgi o aralıkta kesilir
+    const segs = []; let cur = [];
+    metas.forEach((e) => { const p = pts.find((q) => q.e === e); if (p) cur.push(p); else if (cur.length) { segs.push(cur); cur = []; } });
+    if (cur.length) segs.push(cur);
+    if (pts.length < 2) { box.innerHTML = `<p class="note">${esc(name)}: aynı türden karşılaştırılabilir başka seçim yok.</p>`; return; }
+    const W = 330, H = 120, x0 = pts[0].y, x1 = pts[pts.length - 1].y, ymax = Math.max(10, Math.ceil(Math.max(...pts.map((p) => p.v)) / 10) * 10);
+    const X = (x) => 26 + (x - x0) / Math.max(1, x1 - x0) * (W - 38), Y = (y) => H - 16 - y / ymax * (H - 28);
+    const c = pColor(key);
+    let svg = `<svg class="spark" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(name)} ülke geneli oy oranı">` +
+      `<line x1="26" x2="${W - 12}" y1="${Y(0)}" y2="${Y(0)}"/><line x1="26" x2="${W - 12}" y1="${Y(ymax / 2)}" y2="${Y(ymax / 2)}" stroke-dasharray="2 3"/>` +
+      `<text x="2" y="${Y(ymax) + 4}" font-size="9">%${ymax}</text><text x="2" y="${Y(ymax / 2) + 3}" font-size="9">%${ymax / 2}</text>` +
+      segs.map((sg) => `<polyline fill="none" stroke="${c}" stroke-width="2.2" points="${sg.map((p) => X(p.y) + ',' + Y(p.v)).join(' ')}"/>`).join('');
+    for (const p of pts) svg += `<circle class="pt${p.e.id === d.id ? ' cur' : ''}" data-e="${esc(p.e.id)}" cx="${X(p.y)}" cy="${Y(p.v)}" r="${p.e.id === d.id ? 4.5 : 3.2}" fill="${c}"><title>${esc(p.e.title)}: ${pf(p.v)}${p.seats ? ' · ' + p.seats + ' sandalye' : ''}</title></circle>`;
+    svg += `<text x="26" y="${H - 3}" font-size="9">${Math.floor(x0)}</text><text x="${W - 12}" y="${H - 3}" font-size="9" text-anchor="end">${Math.floor(x1)}</text></svg>`;
+    const best = pts.reduce((a, b) => (b.v > a.v ? b : a));
+    box.innerHTML = `<div class="ph"><div class="ph-t"><span class="sw" style="background:${c}"></span><b>${esc(name)}</b> — ülke geneli oy, ${pts.length} seçim</div>${svg}` +
+      `<div class="muted small">En yüksek: ${pf(best.v)} (${esc(best.e.date.slice(0, 4))}).${segs.length > 1 ? ' Çizgideki boşluklar, partinin listede ayrı yer almadığı seçimlerdir.' : ''} Noktaya tıklayınca o seçime geçilir.</div></div>`;
+    box.querySelectorAll('circle.pt').forEach((cc) => cc.addEventListener('click', () => go(cc.dataset.e, { keepMode: true })));
+  }
+
   // ------------------------------------------------------------------ meclis sandalye grafiği
   function hemicycle(entries) {
     const total = entries.reduce((a, e) => a + e[1], 0);
@@ -535,7 +585,7 @@
     h += '</tbody></table></details>';
     box.innerHTML = h;
     box.querySelectorAll('[data-sort]').forEach((b) => b.addEventListener('click', () => { tableSort = b.dataset.sort; renderTable(); }));
-    box.querySelectorAll('tbody tr').forEach((tr) => tr.addEventListener('click', () => selectUnit(tr.dataset.u)));
+    box.querySelectorAll('tbody tr').forEach((tr) => tr.addEventListener('click', () => selectUnit(tr.dataset.u, true)));
   }
 
   // ------------------------------------------------------------------ CSV ve paylaşım
@@ -562,10 +612,10 @@
     setTimeout(() => URL.revokeObjectURL(a.href), 2000);
   }
   async function copyLink(btn) {
-    const old = btn.textContent;
-    try { await navigator.clipboard.writeText(location.href); btn.textContent = 'Kopyalandı'; }
+    const old = btn.innerHTML;
+    try { await navigator.clipboard.writeText(location.href); btn.textContent = 'Kopyalandı ✓'; }
     catch (e) { window.prompt('Bağlantıyı kopyalayın:', location.href); }
-    setTimeout(() => { btn.textContent = old; }, 1500);
+    setTimeout(() => { btn.innerHTML = old; }, 1500);
   }
 
   // ------------------------------------------------------------------ zaman atlamalı oynatma
@@ -622,9 +672,24 @@
     $('#notesBox').innerHTML = h;
   }
 
-  function selectUnit(id) {
+  function selectUnit(id, zoom) {
     state.unit = id;
     restyle(); renderUnit(); renderTable(); writeHash();
+    if (zoom && unitLayer) unitLayer.eachLayer((l) => { if (l.feature.properties.id === id) map.flyToBounds(l.getBounds(), { maxZoom: 7.5, padding: [40, 40], duration: 0.6 }); });
+  }
+  function renderSearch() {
+    const d = state.data, dl = $('#unitList'), inp = $('#unitSearch');
+    const units = Object.entries((d && d.units) || {}).filter(([, u]) => !u.nodata).sort((a, b) => a[1].name.localeCompare(b[1].name, 'tr'));
+    inp.disabled = !units.length || !d.geo;
+    inp.placeholder = d && d.level === 'vilayet' ? 'Vilayet ara…' : d && d.level === 'sancak' ? 'Sancak / vilayet ara…' : 'İl ara…';
+    dl.innerHTML = units.map(([, u]) => `<option value="${esc(u.name)}"></option>`).join('');
+  }
+  function searchPick() {
+    const v = $('#unitSearch').value.trim().toLocaleLowerCase('tr');
+    if (!v || !state.data) return;
+    const ents = Object.entries(state.data.units).filter(([, u]) => !u.nodata);
+    const hit = ents.find(([, u]) => u.name.toLocaleLowerCase('tr') === v) || ents.find(([, u]) => u.name.toLocaleLowerCase('tr').includes(v));
+    if (hit) { selectUnit(hit[0], true); $('#unitSearch').value = ''; $('#unitSearch').blur(); }
   }
 
   // ------------------------------------------------------------------ seçim seçimi
@@ -681,8 +746,19 @@
     if (s) { const left = s.offsetLeft - tl.clientWidth / 2; if (left < tl.scrollLeft || s.offsetLeft > tl.scrollLeft + tl.clientWidth - 20) tl.scrollLeft = Math.max(0, left); }
   }
 
+  let loadingTimer = null;
+  function setLoading(on) {
+    clearTimeout(loadingTimer);
+    const el = $('#loading');
+    if (on) loadingTimer = setTimeout(() => { el.hidden = false; }, 180);
+    else el.hidden = true;
+  }
   async function go(id, opts = {}) {
     if (state.play.on && !opts.fromPlay) stopPlay();
+    setLoading(true);
+    try { await goInner(id, opts); } finally { setLoading(false); }
+  }
+  async function goInner(id, opts = {}) {
     const meta = state.index.find((e) => e.id === id) || state.index[state.index.length - 1];
     state.cur = meta;
     $('#electionSelect').value = meta.id;
@@ -702,10 +778,11 @@
     if (opts.party && choices.includes(opts.party)) state.party = opts.party;
     else if (!choices.includes(state.party)) state.party = choices[0];
     if (!(opts.unit && d.units[opts.unit])) { if (!(state.unit && d.units[state.unit])) state.unit = null; } else state.unit = opts.unit;
-    renderElectionInfo(); renderModes(); renderUnit(); renderTable(); renderNotes(); renderTimeline();
+    renderElectionInfo(); renderModes(); renderUnit(); renderTable(); renderNotes(); renderTimeline(); renderSearch();
     await draw();
     writeHash();
     updateYearBadge();
+    if (!opts.fromPlay) prefetchAround();
   }
   function step(dir) {
     const list = filtered();
@@ -743,7 +820,7 @@
     const dark = pref === 'dark' || (pref === 'auto' && mq.matches);
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
     T = dark ? THEMES.dark : THEMES.light; NODATA = T.nodata; RAMP_LO = T.lo;
-    const b = $('#themeBtn'); if (b) { b.textContent = THEME_LABEL[pref]; b.setAttribute('aria-label', THEME_LABEL[pref] + ' (değiştirmek için tıklayın)'); }
+    const b = $('#themeBtn'); if (b) { b.innerHTML = `<span aria-hidden="true">${dark ? '☾' : '☀'}</span><span class="long"> ${THEME_LABEL[pref]}</span>`; b.title = THEME_LABEL[pref] + ' — değiştirmek için tıklayın'; b.setAttribute('aria-label', THEME_LABEL[pref] + ' (değiştirmek için tıklayın)'); }
     document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#16191d' : '#8d1c1c');
     if (rerender && state.data) {
       if (worldLayer) worldLayer.setStyle(() => ({ fillColor: T.land, fillOpacity: 1, color: T.landStroke, weight: 0.6 }));
@@ -776,6 +853,14 @@
     $('#nextBtn').addEventListener('click', () => step(1));
     $('#aboutBtn').addEventListener('click', () => $('#about').showModal());
     $('#themeBtn').addEventListener('click', cycleTheme);
+    $('#unitSearch').addEventListener('change', searchPick);
+    $('#unitSearch').addEventListener('keydown', (e) => { if (e.key === 'Enter') searchPick(); });
+    $('#panelBtn').addEventListener('click', () => {
+      const c = document.querySelector('.layout').classList.toggle('collapsed');
+      $('#panelBtn').textContent = c ? 'Paneli göster' : 'Paneli gizle';
+      $('#panelBtn').setAttribute('aria-expanded', String(!c));
+      setTimeout(() => { map.invalidateSize(); renderTimeline(); }, 50);
+    });
     $('#playBtn').addEventListener('click', togglePlay);
     $('#speedSel').addEventListener('change', (e) => { state.play.speed = Number(e.target.value); });
     $('#skipEmpty').addEventListener('change', (e) => { state.play.skipEmpty = e.target.checked; updateYearBadge(); });
@@ -787,16 +872,40 @@
       if (e.key === 'ArrowLeft') step(-1);
       if (e.key === 'ArrowRight') step(1);
       if (e.key === ' ' && !e.target.closest('button')) { e.preventDefault(); togglePlay(); }
+      if (e.key === '/' ) { e.preventDefault(); $('#unitSearch').focus(); }
+      if (e.key === 'Escape' && state.unit) selectUnit(null);
     });
     window.addEventListener('resize', () => renderTimeline());
     window.addEventListener('hashchange', () => {
       const h = readHash();
       if (h.e && state.index.some((e) => e.id === h.e) && (!state.cur || h.e !== state.cur.id || h.u !== state.unit)) go(h.e, { unit: h.u, mode: h.m, party: h.p });
     });
-    await loadWorld();
     const h = readHash();
     const def = state.index.filter((e) => e.type === 'genel' && e.units > 0).slice(-1)[0];
-    await go(h.e && state.index.some((e) => e.id === h.e) ? h.e : def.id, { unit: h.u, mode: h.m, party: h.p });
+    const first = h.e && state.index.some((e) => e.id === h.e) ? h.e : def.id;
+    // arka plan, ilk seçim ve sınırları aynı anda indir
+    const meta = state.index.find((e) => e.id === first);
+    const world = loadWorld().catch((e) => console.warn('Arka plan yüklenemedi', e));
+    if (meta && meta.geo) loadGeo(meta.geo).catch(() => {});
+    await go(first, { unit: h.u, mode: h.m, party: h.p });
+    await world;
+    if (unitLayer) unitLayer.bringToFront();
+    registerSW();
+  }
+
+  // ------------------------------------------------------------------ önceden yükleme ve çevrimdışı önbellek
+  const idle = window.requestIdleCallback || ((f) => setTimeout(f, 300));
+  function prefetchAround() {
+    const list = filtered(), i = list.findIndex((e) => state.cur && e.id === state.cur.id);
+    if (i < 0) return;
+    idle(() => [list[i + 1], list[i - 1]].filter(Boolean).forEach((e) => {
+      loadElection(e.id).catch(() => {});
+      if (e.geo) loadGeo(e.geo).catch(() => {});
+    }));
+  }
+  function registerSW() {
+    if (!('serviceWorker' in navigator) || !/^https:|^http:\/\/localhost/.test(location.href)) return;
+    navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Service worker kaydedilemedi', e));
   }
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });
 })();

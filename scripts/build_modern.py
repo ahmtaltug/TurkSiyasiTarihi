@@ -169,6 +169,7 @@ NATIONAL_NOTES = {
     '1957': 'Liste usulü çoğunluk sisteminde ülke geneli oran hesaplama yöntemine göre değişir. Buradaki oranlar il toplamlarından hesaplandı; Vikipedi DP %48,6, CHP %41,4 verir.',
     '2018': 'Yalnız ittifaka (partisi işaretlenmeden) verilen oylar ayrı gösterilir; YSK bu oyları ittifak partilerine paylaştırır. Bu yüzden ittifak partilerinin oranı resmî sonuçtan biraz düşüktür (ör. AK Parti: burada %41,8, resmî %42,6).',
     '2023': 'Yalnız ittifaka (partisi işaretlenmeden) verilen oylar ayrı gösterilir; YSK bu oyları ittifak partilerine paylaştırır. Bu yüzden ittifak partilerinin oranı resmî sonuçtan biraz düşüktür (ör. AK Parti: burada %35,2, resmî %35,6).',
+    '1999': 'Kaynak veri seti bu seçimde CHP\'yi (Vikipedi: %8,71, sandalye kazanamadı) ve barajın altında kalan diğer partileri "Diğer" içinde toplar; haritada ayrı görünmezler.',
     '2014cb': 'Kaynak veride yurt dışı ve gümrük oyları yok; ülke geneli yalnız illerin toplamıdır. Resmî sonuç (Vikipedi): Erdoğan %51,79, İhsanoğlu %38,44, Demirtaş %9,76.',
 }
 

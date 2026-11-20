@@ -1,5 +1,26 @@
 # Değişiklik günlüğü
 
+## 1.3.0 — 2026-11-20 (kararlı sürüm)
+
+### Özellikler
+- **Parti geçmişi:** Ülke geneli çubuklarından bir partiye tıklayınca harita o partinin oy oranına geçer. Altta, partinin aynı türdeki bütün seçimlerde aldığı oy grafikle gösterilir. Parti bir seçime girmediyse (ör. CHP 1981–1992) çizgi o aralıkta kesilir. Aynı kısaltma başka bir partiyi gösteriyorsa (ör. DP) o seçim grafiğe alınmaz.
+- **İl arama:** Haritanın sağ üstünde. Seçilen birime harita yakınlaşır; tablodan seçimde de aynısı olur.
+- **Paneli gizle:** Masaüstünde haritayı tam genişlikte göstermek için.
+- **Kısayollar:** `/` il arama, `Esc` seçili birimi kapatır (← → ve boşluk tuşlarına ek).
+- **Çevrimdışı kullanım ve kurulabilirlik:** Service worker, açılmış seçimleri ve sınırları önbellekte tutar. Web uygulaması bildirimi (manifest) ve simgeler eklendi.
+
+### Performans
+- İlk açılışta arka plan haritası, ilk seçim ve sınırları paralel indirilir.
+- Önceki ve sonraki seçim, tarayıcı boştayken önceden yüklenir; geçişler anında olur.
+- Betikler `defer` ile yüklenir. 0,2 saniyeden uzun süren yüklemelerde "Yükleniyor…" göstergesi çıkar.
+
+### Arayüz
+- Mobilde başlık ve kontroller sadeleşti: kısa düğme adları, yatay kaydırılabilen tür çipleri, küçük lejant. Tema düğmesinde ☀/☾ simgesi.
+- Parti geçmişi kartı, seçili seçimi vurgular; noktaya tıklayınca o seçime geçilir.
+
+### Veri
+- 1999 genel seçimine not eklendi: Kaynak veri seti CHP'yi (%8,71, sandalye yok) "Diğer" içinde toplar.
+
 ## 1.2.0 — 2026-11-20
 
 ### Özellikler
