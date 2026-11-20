@@ -29,7 +29,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '3.0.0';
+  const VERSION = '3.0.1';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -948,9 +948,10 @@
   }
   // seçim tarihindeki cumhurbaşkanı ve hükûmet
   function politicalContext(date) {
-    const H = state.hist; if (!H || date < '1920-04-23') return null;
+    const H = state.hist; if (!H || date < '1876') return null;
     const inR = (x) => x.start && x.start <= date && (!x.end || date < x.end);
-    return { pres: H.presidents.find(inR), gov: H.governments.find(inR) };
+    return { pres: H.presidents.find(inR), gov: H.governments.find(inR), sultan: (H.sultans || []).find(inR),
+             vizier: (H.viziers || []).find(inR), tbmm: H.tbmmHead && inR(H.tbmmHead) ? H.tbmmHead : null };
   }
   function renderContextLine() {
     const box = document.getElementById('ctxLine'), d = state.data;
@@ -958,6 +959,9 @@
     const c = politicalContext(d.date);
     if (!c) { box.innerHTML = ''; return; }
     const parts = [];
+    if (c.sultan) parts.push(`Padişah: <b>${esc(c.sultan.name)}</b>`);
+    if (c.vizier) parts.push(`Sadrazam: <b>${esc(c.vizier.name)}</b>`);
+    if (c.tbmm) parts.push(`${esc(c.tbmm.title)}: <b>${esc(c.tbmm.name)}</b>`);
     if (c.pres) parts.push(`Cumhurbaşkanı: <b>${esc(c.pres.name)}</b>`);
     if (c.gov) {
       const ps = c.gov.parties.map((p) => p.name).filter((n) => n !== 'Bağımsızlar');
@@ -1291,6 +1295,7 @@
     $('#version').textContent = 'Sürüm ' + VERSION;
     document.addEventListener('keydown', (e) => {
       if (e.target.closest('select, input, textarea, dialog[open]')) return;
+      if (!document.getElementById('historyDlg').hidden) return;   // siyasi tarih açıkken harita kısayolları kapalı
       if (e.key === 'ArrowLeft') step(-1);
       if (e.key === 'ArrowRight') step(1);
       if (e.key === ' ' && !e.target.closest('button')) { e.preventDefault(); togglePlay(); }
@@ -1332,7 +1337,7 @@
   }
   let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
   window.Atlas = { state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, lineageHtml, bindLineage,
-                   hemicycle, EV_LABEL, isDark: () => T === THEMES.dark, writeHash, ready: appReady,
+                   hemicycle, EV_LABEL, isDark: () => T === THEMES.dark, writeHash, ready: appReady, stopPlay: () => { if (state.play.on) stopPlay(); },
                    refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });
 })();

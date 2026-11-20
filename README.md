@@ -8,7 +8,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.0.0-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.0.1-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -57,7 +57,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 - Açık ve koyu tema (tarayıcı tercihine göre), mobil uyumlu arayüz, klavye kısayolları (← → boşluk / Esc).
 - Çevrimdışı çalışır ve telefona uygulama olarak eklenebilir (PWA).
 
-<img src="docs/img/mobil.jpg" alt="Mobil görünüm" width="260" align="right">
+<p align="center"><img src="docs/img/mobil.jpg" alt="Mobil görünüm" width="240"></p>
 
 ## Kapsam
 
@@ -70,7 +70,6 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 | 1950–2024 | 20 genel, 15 yerel, 8 Senato, 7 halkoylaması, 4 cumhurbaşkanlığı seçimi | İl düzeyinde oy, oran, sandalye, katılım |
 | 2026 | 7 Haziran 2026 ara seçimi | Seçim yapılan birimlerin il toplamı |
 
-<br clear="right">
 
 ## Veri ve güvenilirlik
 

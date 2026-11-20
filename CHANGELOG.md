@@ -1,6 +1,17 @@
 # Değişiklik günlüğü
 
-## 3.0.0 — 2026-11-20 (son sürüm)
+## 3.0.1 — 2026-11-20 (son sürüm)
+
+Projenin tamamlanmış sürümü. 3.0.0 ve önceki sürümlerdeki bütün özellikleri içerir: 1840–2026 arası 88 seçim kaydı döneminin sınırlarıyla haritada; 1876'dan bugüne meclisler, padişahlar, sadrazamlar, cumhurbaşkanları, hükûmetler, partiler ve olaylarla siyasi tarih; karşılaştırma modu, demografik analiz, zaman atlamalı oynatma, açık/koyu tema, çevrimdışı kullanım.
+
+Bu sürümdeki düzeltmeler:
+- Osmanlı ve 1920–1923 seçimlerinin panelinde seçim günündeki padişah, sadrazam ve TBMM Başkanı gösterilir.
+- 1920–1923 Ankara hükûmetlerinin türü "tek parti" yerine "meclis hükûmeti" (Birinci Meclis'te parti yoktu).
+- Siyasi tarih açıkken harita kısayolları (← → boşluk) çalışmaz; siyasi tarihe geçince zaman atlamalı oynatma durur.
+- Adres çubuğuna `#v=tarih…` yazılınca siyasi tarih açılır.
+- Proje sayfası: mobil ekran görüntüsü GitHub'da kapsam tablosunu daraltıyordu; düzeltildi. Her sürüm için etiket ve GitHub sürüm sayfası artık otomatik oluşturulur (`.github/workflows/release.yml`).
+
+## 3.0.0 — 2026-11-20
 
 ### Tarihsel düzeltmeler
 - İstibdat dönemi (1878–1908) grafikte yeniden gerçek ölçeğinde; "İstibdat: Meclis kapalı" diye işaretli.
