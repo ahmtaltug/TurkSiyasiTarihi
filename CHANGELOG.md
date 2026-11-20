@@ -1,5 +1,11 @@
 # Değişiklik günlüğü
 
+## 3.3.0 — 2026-11-20
+
+- **İlçe düzeyi sonuçlar:** 1950 ve 1955 yerel seçimleri ile 1961 sonrası bütün genel, yerel (belediye başkanlığı), halkoylaması ve cumhurbaşkanlığı seçimlerinde (43 seçim, seçim başına 496–981 ilçe) ilçe sonuçları, seçim tarihindeki ilçe sınırlarıyla. Sonradan kurulan ilçeler, ayrıldıkları ilçeyle birleştirilmiş tarihî şekillerle çizilir; ilçenin o seçimdeki ili dönemin adıyla gösterilir (ör. 1961'de "Bahçe (Adana)"). Panelde "Birim: İl / İlçe"; adreste `&l=ilce`. Kaynak: Türkiye Seçim Haritası veri seti (`scripts/build_ilce.py`).
+- **1961 öncesi ve Osmanlı:** 1950, 1954 ve 1957 genel seçimlerinin ve Osmanlı seçimlerinin ilçe (kaza) düzeyinde derlenmiş sonucu bulunamadı. Bu seçimler liste usulüyle il düzeyinde, Osmanlı'da ise iki dereceli yapılıyordu; il altı sonuçlar yayımlanmamış ya da derlenmemiştir.
+- **İngilizce arayüz:** Sağ üstteki düğmeyle Türkçe/İngilizce; tarayıcı dili Türkçe değilse İngilizce açılır, `?lang=en` bağlantısıyla doğrudan. Arayüz, seçim adları, tarihler, sayı biçimleri, siyasi tarih ve "Kaynaklar ve yöntem" çevrildi; seçim açıklamaları, notlar ve özel adlar Türkçe kalır.
+
 ## 3.2.0 — 2026-11-20
 
 - **Hata bildirimi:** Her kaydın panelinde ve siyasi tarih bölümünde "Hata bildir" bağlantısı; GitHub'da, görüntülenen kaydın bağlantısıyla doldurulmuş bir form açar. Veri hatası ve öneri için iki form şablonu (`.github/ISSUE_TEMPLATE/`).

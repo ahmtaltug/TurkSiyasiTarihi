@@ -15,6 +15,11 @@
   // Meclisin bulunmadığı askerî yönetim dönemleri
   const GAPS = [['1877-06-28', '1877-12-13', 'Birinci dönem kapandı; ikinci dönem seçimleri'], ['1878-02-14', '1908-12-17', 'Meclis kapalı: II. Abdülhamid Meclis-i Mebusan\'ı süresiz tatil etti'], ['1912-01-18', '1912-04-18', 'Meclis feshedildi; erken seçim ("Sopalı Seçim")'], ['1912-08-05', '1914-05-14', 'Meclis feshedildi; yeni meclis açılana dek'],
     ['1918-12-21', '1920-01-12', 'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek'], ['1920-03-18', '1920-04-23', 'İstanbul\'un işgali: Meclis-i Mebusan son kez toplandı'], ['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
+  const GAP_EN = { 'Birinci dönem kapandı; ikinci dönem seçimleri': 'first term ended; elections for the second term',
+    "Meclis kapalı: II. Abdülhamid Meclis-i Mebusan'ı süresiz tatil etti": 'Abdülhamid II prorogued the Chamber indefinitely',
+    'Meclis feshedildi; erken seçim ("Sopalı Seçim")': 'parliament dissolved; snap election ("Election of Clubs")', 'Meclis feshedildi; yeni meclis açılana dek': 'parliament dissolved until the new one opened',
+    'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek': 'parliament dissolved by Mehmed VI until the new one opened', "İstanbul'un işgali: Meclis-i Mebusan son kez toplandı": 'occupation of Istanbul: the Chamber met for the last time',
+    'Millî Birlik Komitesi': 'National Unity Committee rule', 'Millî Güvenlik Konseyi': 'National Security Council rule' };
   const SULTAN = '#8a6d3b', VIZIER = '#b59a6a';
   const MARK = { '1876-12-23': 'I. Meşrutiyet', '1908-07-23': 'II. Meşrutiyet', '1913-01-23': 'Bâbıâli Baskını', '1920-04-23': 'TBMM', '1923-10-29': 'Cumhuriyet', '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
   let chartShow = null, CUR = null, H = null, tab = 'chart', pin = null, partySel = null;
@@ -101,11 +106,11 @@
     if (su) h += `<div class="hc-row"><span class="muted">Padişah</span> <span class="sw" style="background:${SULTAN}"></span><b>${esc(su.name)}</b><span class="muted"> · ${esc(A().fmtDate(su.start))} – ${esc(A().fmtDate(su.end))}</span></div>`;
     const vz = (H.viziers || []).find((x) => inRange(x, d));
     if (vz) h += `<div class="hc-row"><span class="muted">Sadrazam</span> <span class="sw" style="background:${VIZIER}"></span><b>${esc(vz.name)}</b><span class="muted"> · ${esc(A().fmtDate(vz.start))} – ${esc(A().fmtDate(vz.end))} (${A().nf.format(days(vz.start, vz.end))} gün)</span></div>`;
-    if (d >= '1920-04-23' && d < '1922-11-17' && vz) h += '<p class="note small">1920–1922 arasında İstanbul\'da Osmanlı hükûmeti, Ankara\'da TBMM hükûmeti birlikte vardı.</p>';
+    if (d >= '1920-04-23' && d < '1922-11-17' && vz) h += `<p class="note small">${A().L("1920–1922 arasında İstanbul'da Osmanlı hükûmeti, Ankara'da TBMM hükûmeti birlikte vardı.", 'In 1920–1922 an Ottoman government in Istanbul and the Grand National Assembly government in Ankara existed side by side.')}</p>`;
     const TH = H.tbmmHead;
     if (TH && inRange(TH, d)) h += `<div class="hc-row"><span class="muted">${esc(TH.title)}</span> <span class="sw" style="background:${nameColor('Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti')}"></span><b>${esc(TH.name)}</b><span class="muted"> · ${esc(A().fmtDate(TH.start))} – ${esc(A().fmtDate(TH.end))}</span></div>`;
-    if (d >= '1920-04-23' && d < '1923-08-11') h += `<p class="note small">Birinci Meclis'te parti yoktu. ${d < '1921-05-10' ? 'Milletvekilleri henüz gruplaşmamıştı; ' : ''}Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921'de, muhalif İkinci Grup 22 Temmuz 1922'de (63 milletvekili) kuruldu. Birinci Grubun üye sayısı kaynaklarda verilmediği için grupsuzlarla birlikte gösterilir.</p>`;
-    if (d >= '1920-01-12' && d < '1920-04-23') h += '<p class="note small">Son Meclis-i Mebusan\'da Müdâfaa-i Hukuk çizgisindeki mebuslar Felâh-ı Vatan grubunu kurdu; grup dağılımı derlenmedi.</p>';
+    if (d >= '1920-04-23' && d < '1923-08-11') h += `<p class="note small">${A().L(`Birinci Meclis'te parti yoktu. ${d < '1921-05-10' ? 'Milletvekilleri henüz gruplaşmamıştı; ' : ''}Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921'de, muhalif İkinci Grup 22 Temmuz 1922'de (63 milletvekili) kuruldu. Birinci Grubun üye sayısı kaynaklarda verilmediği için grupsuzlarla birlikte gösterilir.`, `There were no parties in the First Assembly. ${d < '1921-05-10' ? 'Deputies had not yet formed groups; ' : ''}the Defence of Rights (First) Group was formed on May 10, 1921 and the opposition Second Group on July 22, 1922 (63 deputies). The First Group's membership is not given in the sources, so it is shown together with unaffiliated deputies.`)}</p>`;
+    if (d >= '1920-01-12' && d < '1920-04-23') h += `<p class="note small">${A().L("Son Meclis-i Mebusan'da Müdâfaa-i Hukuk çizgisindeki mebuslar Felâh-ı Vatan grubunu kurdu; grup dağılımı derlenmedi.", 'In the last Ottoman Chamber of Deputies, deputies of the nationalist movement formed the Felâh-ı Vatan group; the group breakdown was not compiled.')}</p>`;
     if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
     if (g) {
       const ps = govParties(g);
@@ -114,7 +119,7 @@
       h += `<div class="hc-row small ${g.confidence.failed ? 'down' : 'muted'}">Güvenoyu: ${esc(g.confidence.text || '—')}${g.confidence.failed ? ' — hükûmet güvenoyu alamadı' : ''}</div>`;
     }
     const gap = GAPS.find(([a, b]) => a <= d && d < b);
-    if (gap) h += `<p class="note">Meclis kapalı: ${esc(gap[2])} yönetimi (${esc(A().fmtDate(gap[0]))} – ${esc(A().fmtDate(gap[1]))}).</p>`;
+    if (gap) h += `<p class="note">${A().L('Meclis kapalı', 'Parliament closed')}: ${esc(A().LANG === 'en' ? (GAP_EN[gap[2]] || gap[2]) : gap[2])} (${esc(A().fmtDate(gap[0]))} – ${esc(A().fmtDate(gap[1]))}).</p>`;
     if (CUR && leg && leg === H.parliament[H.parliament.length - 1]) {
       const ent = Object.entries(CUR.national.seats).sort((a, b) => b[1] - a[1]);
       h += `<div class="hc-row"><span class="muted">Bugünkü TBMM</span> <span class="muted">(${esc(A().fmtDate(CUR.date))}; parti değiştirmeler ve yeni partiler dahil)</span> <button type="button" class="linkbtn" data-go="guncel">haritada aç</button></div>` +
@@ -126,7 +131,7 @@
       if (leg.interim) h += `<div class="hc-row"><span class="tag k">dönem içi değişiklik · ${esc(A().fmtDate(leg.date))}</span> ${esc(leg.change)}</div>`;
       h += `<div class="hc-row"><span class="muted">Meclis</span> <b>${esc(meta ? meta.title : leg.id)}</b> ${leg.interim ? 'dönemi' : 'sonrası'}, ${A().nf.format(leg.total)} ${leg.listed ? 'vekil (listede)' : 'sandalye'}${leg.basis ? ` <span class="muted">· gruplama: ${esc(leg.basis)}</span>` : ''}` +
         (meta ? ` <button type="button" class="linkbtn" data-go="${esc(leg.id)}">haritada aç</button>` : '') + '</div>';
-      h += '<div class="hc-seats">' + ent.map(([n, v]) => `<span class="pchip" title="${esc(n)}"><span class="sw" style="background:${nameColor(n, leg)}"></span>${esc(shortName(n, leg))} <b>${v}</b> <span class="muted">%${(100 * v / leg.total).toLocaleString('tr-TR', { maximumFractionDigits: 1 })}</span></span>`).join(' ') + '</div>';
+      h += '<div class="hc-seats">' + ent.map(([n, v]) => `<span class="pchip" title="${esc(n)}"><span class="sw" style="background:${nameColor(n, leg)}"></span>${esc(shortName(n, leg))} <b>${v}</b> <span class="muted">${A().pct((100 * v / leg.total).toLocaleString(A().LOC, { maximumFractionDigits: 1 }))}</span></span>`).join(' ') + '</div>';
     }
     return h;
   }
@@ -161,9 +166,9 @@
     s += rl(rows.pres[0] + 15, 'Devlet başkanı') + rl(rows.pm[0] + 12, 'Sadrazam / Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(sandalye %)');
     // yatay kılavuz çizgileri
     const sy = (f) => rows.seat[0] + rows.seat[1] * (1 - f);
-    for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
+    for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">${A().pct(f * 100)}</text>`;
     // I. TBMM ve askerî dönemler
-    for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>` +
+    for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>${A().L('Meclis kapalı', 'Parliament closed')}: ${esc(A().LANG === 'en' ? (GAP_EN[who] || who) : who)}</title></rect>` +
       (X(yf(b)) - X(yf(a)) > 60 ? `<text class="gapt" x="${(X(yf(a)) + X(yf(b))) / 2}" y="${rows.seat[0] + rows.seat[1] / 2}" text-anchor="middle">${a < '1900' ? 'İstibdat: ' : ''}Meclis kapalı (${a.slice(0, 4)}–${b.slice(0, 4)})</text>` : '');
     // sandalye blokları
     const labels = [];
@@ -256,9 +261,9 @@
     const legend = order.filter((k) => !['Boş', 'Belirtilmemiş'].includes(k)).map((k) => `<span class="pchip" title="${esc(label[k])}"><span class="sw" style="background:${nameColor(label[k], sample[k])}"></span>${esc(shortName(label[k], sample[k]))}</span>`).join(' ');
     body.innerHTML = `<p class="hint">Fareyi grafiğin üzerinde gezdirin ya da tıklayın: o tarihteki meclis, hükûmet ve cumhurbaşkanı aşağıda yazar. Klavyede ← → bir ay, Shift ile bir yıl ilerler.</p>` +
       `<div class="hc-scroll">${s}</div><div class="hc-info" id="hcInfo"></div><div class="hc-legend">${legend}</div>` +
-      `<p class="note small">Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur. Dönem içinde yalnız tek parti dönemindeki muhalefet denemeleri (Halk Fırkası'nın kuruluşu 1923, Terakkiperver Cumhuriyet Fırkası 1924–1925, Serbest Cumhuriyet Fırkası 1930) yaklaşık sayılarla işlenmiştir; diğer parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
+      `<p class="note small">${A().L(`Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur. Dönem içinde yalnız tek parti dönemindeki muhalefet denemeleri (Halk Fırkası'nın kuruluşu 1923, Terakkiperver Cumhuriyet Fırkası 1924–1925, Serbest Cumhuriyet Fırkası 1930) yaklaşık sayılarla işlenmiştir; diğer parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
       `1935–1943'te "Belirtilmemiş", seçim maddelerinin bilgi kutusunda CHP dışında sayılan ama partisi verilmeyen sandalyelerdir. Hükûmet bandında koalisyon ortakları üst üste şeritler hâlinde, sırasıyla gösterilir; ✕ güvenoyu alamayan hükûmeti işaretler. ` +
-      `1877–1920 meclisleri dönem listelerinden sayılan vekillerdir; gruplama kaynağın sınıflandırmasıdır (1877 dinî, 1908 etnik, 1912–1914 siyasi mensubiyet; 1919 ve I. TBMM için grup verisi yok) ve literatürdeki toplu rakamlarla uyuşmayabilir. Kaynak: Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve seçim maddeleri; 1950 sonrası sandalyeler bu sitenin seçim verisinden.</p>`;
+      `1877–1920 meclisleri dönem listelerinden sayılan vekillerdir; gruplama kaynağın sınıflandırmasıdır (1877 dinî, 1908 etnik, 1912–1914 siyasi mensubiyet; 1919 ve I. TBMM için grup verisi yok) ve literatürdeki toplu rakamlarla uyuşmayabilir. Kaynak: Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve seçim maddeleri; 1950 sonrası sandalyeler bu sitenin seçim verisinden.`, 'Seat shares are the composition right after each general election. Within a term only the opposition parties of the one-party era (the founding of the People\'s Party in 1923, the Progressive Republican Party 1924–1925, the Free Republican Party 1930) are included, with approximate numbers; other party switches, resignations and by-elections are not shown, nor is the Senate. In 1935–1943 "Not specified" are seats not attributed to the CHP in the election infoboxes. Coalition partners are drawn as stacked stripes in the government band; ✕ marks a government that lost its confidence vote. Parliaments of 1877–1920 are deputies counted from the lists of each term; grouping follows the source (1877 religious, 1908 ethnic, 1912–1914 political affiliation) and may differ from figures in the literature. Sources: Turkish Wikipedia lists of governments and presidents and election articles; seats after 1950 from this site\'s election data.')}</p>`;
     const svg = $('#hchart'), hit = $('#hcHit'), cur = $('#hcCur'), info = $('#hcInfo');
     const show = (d) => {
       const x = X(yf(d));
@@ -290,10 +295,10 @@
     const longest = pm.reduce((a, b) => (dur(b) > dur(a) ? b : a)), shortest = pm.reduce((a, b) => (dur(b) < dur(a) ? b : a));
     const failed = G.filter((g) => g.confidence.failed);
     const avg = pm.reduce((a, g) => a + dur(g), 0) / pm.length;
-    let h = `<div class="stats"><div><b>${G.length}</b><span>hükûmet (1920–)</span></div><div><b>${coal.length}</b><span>koalisyon ya da çok partili</span></div>` +
-      `<div><b>${A().nf.format(Math.round(avg))}</b><span>gün ortalama süre (başbakanlı hükûmetler)</span></div><div><b>${failed.length}</b><span>güvenoyu alamayan</span></div></div>`;
-    h += `<p class="small">En uzun: ${esc(longest.name)} (${esc(longest.head)}, ${A().nf.format(dur(longest))} gün). En kısa: ${esc(shortest.name)} (${esc(shortest.head)}, ${A().nf.format(dur(shortest))} gün). ` +
-      `Güvenoyu alamayanlar: ${failed.map((g) => `${esc(g.name)} (${esc(g.head)}, ${esc(g.confidence.text)})`).join('; ')}.</p>`;
+    let h = `<div class="stats"><div><b>${G.length}</b><span>${A().L('hükûmet (1920–)', 'governments (1920–)')}</span></div><div><b>${coal.length}</b><span>${A().L('koalisyon ya da çok partili', 'coalition or multi-party')}</span></div>` +
+      `<div><b>${A().nf.format(Math.round(avg))}</b><span>${A().L('gün ortalama süre (başbakanlı hükûmetler)', 'days average (governments with a PM)')}</span></div><div><b>${failed.length}</b><span>${A().L('güvenoyu alamayan', 'lost a confidence vote')}</span></div></div>`;
+    h += `<p class="small">${A().L('En uzun', 'Longest')}: ${esc(longest.name)} (${esc(longest.head)}, ${A().nf.format(dur(longest))} ${A().L('gün', 'days')}). ${A().L('En kısa', 'Shortest')}: ${esc(shortest.name)} (${esc(shortest.head)}, ${A().nf.format(dur(shortest))} ${A().L('gün', 'days')}). ` +
+      `${A().L('Güvenoyu alamayanlar', 'Lost a confidence vote')}: ${failed.map((g) => `${esc(g.name)} (${esc(g.head)}, ${esc(g.confidence.text)})`).join('; ')}.</p>`;
     h += `<div class="filters"><label><input type="checkbox" id="gCoal"> Yalnız koalisyonlar</label> <input type="search" id="gSearch" placeholder="Başbakan ya da parti ara…" aria-label="Hükûmetlerde ara"></div>`;
     h += '<div class="tbl-scroll"><table class="utable govs"><thead><tr><th>Hükûmet</th><th>Başkan</th><th>Başlangıç</th><th>Bitiş</th><th class="num">Gün</th><th>Partiler</th><th>Güvenoyu</th></tr></thead><tbody>';
     for (const g of G) {
@@ -305,10 +310,10 @@
     }
     h += '</tbody></table></div>';
     const V = H.viziers || [];
-    h += `<h3>Osmanlı sadrazamları (1876–1922)</h3><div class="tbl-scroll"><table class="utable govs"><thead><tr><th>Sadrazam</th><th>Başlangıç</th><th>Bitiş</th><th class="num">Gün</th><th>Padişah</th></tr></thead><tbody>` +
+    h += `<h3>${A().L('Osmanlı sadrazamları (1876–1922)', 'Ottoman grand viziers (1876–1922)')}</h3><div class="tbl-scroll"><table class="utable govs"><thead><tr><th>Sadrazam</th><th>Başlangıç</th><th>Bitiş</th><th class="num">Gün</th><th>Padişah</th></tr></thead><tbody>` +
       V.map((v) => { const su = (H.sultans || []).find((x) => inRange(x, v.start)); return `<tr><td>${esc(v.name)}</td><td>${esc(A().fmtDate(v.start))}</td><td>${esc(A().fmtDate(v.end))}</td><td class="num">${A().nf.format(days(v.start, v.end))}</td><td>${esc(su ? su.name : '')}</td></tr>`; }).join('') +
-      '</tbody></table></div><p class="note small">Kaynak: Vikipedi "Osmanlı sadrazamları listesi". Sadrazamlıkta güvenoyu yoktu; sadrazamı padişah atardı.</p>';
-    h += '<p class="note small">Güvenoyu sütunu "kabul/katılan" biçimindedir. * işaretli partiler hükûmette dönemin yalnız bir bölümünde yer aldı (üzerine gelince tarih yazar). 2018\'den sonra cumhurbaşkanlığı hükûmet sisteminde güvenoyu yoktur. Kaynak: Vikipedi "Türkiye hükûmetleri listesi".</p>';
+      `</tbody></table></div><p class="note small">${A().L('Kaynak: Vikipedi "Osmanlı sadrazamları listesi". Sadrazamlıkta güvenoyu yoktu; sadrazamı padişah atardı.', 'Source: Turkish Wikipedia list of Ottoman grand viziers. There were no confidence votes; the sultan appointed the grand vizier.')}</p>`;
+    h += `<p class="note small">${A().L(`Güvenoyu sütunu "kabul/katılan" biçimindedir. * işaretli partiler hükûmette dönemin yalnız bir bölümünde yer aldı (üzerine gelince tarih yazar). 2018'den sonra cumhurbaşkanlığı hükûmet sisteminde güvenoyu yoktur. Kaynak: Vikipedi "Türkiye hükûmetleri listesi".`, 'The confidence vote column is "in favour/voting". Parties marked * were in government for part of the term only (hover for dates). Since 2018 the presidential system has no confidence votes. Source: Turkish Wikipedia list of governments.')}</p>`;
     body.innerHTML = h;
     const apply = () => {
       const q = $('#gSearch').value.trim().toLocaleLowerCase('tr'), c = $('#gCoal').checked;
@@ -339,9 +344,9 @@
       s += '</g>';
     });
     s += '</svg>';
-    body.innerHTML = `<div class="filters"><input type="search" id="pSearch" placeholder="Parti ara…" aria-label="Partilerde ara"> <span class="muted small">Çubuk: faaliyet dönemi · ◆ ad değişikliği · italik: ittifak. Satıra tıklayınca soy ağacı açılır.</span></div>` +
+    body.innerHTML = `<div class="filters"><input type="search" id="pSearch" placeholder="Parti ara…" aria-label="Partilerde ara"> <span class="muted small">${A().L('Çubuk: faaliyet dönemi · ◆ ad değişikliği · italik: ittifak. Satıra tıklayınca soy ağacı açılır.', 'Bar: active period · ◆ renaming · italic: alliance. Click a row for its lineage.')}</span></div>` +
       `<div class="pl-grid"><div class="hc-scroll">${s}</div><div class="pl-info" id="plInfo"><p class="hint">Bir partiye tıklayın.</p></div></div>` +
-      `<p class="note small">${H.parties.length} parti ve ittifak: Türkiye'de meclise girmiş, hükûmette yer almış ya da bu sitedeki seçimlerde öne çıkmış partiler. Tarihler ve öncül/ardıl ilişkileri Vikipedi bilgi kutularından derlenmiştir; birden çok kez kapatılıp açılan partilerin dönemleri madde metnine göre elle girildi.</p>`;
+      `<p class="note small">${A().L(`${H.parties.length} parti ve ittifak: Türkiye'de meclise girmiş, hükûmette yer almış ya da bu sitedeki seçimlerde öne çıkmış partiler. Tarihler ve öncül/ardıl ilişkileri Vikipedi bilgi kutularından derlenmiştir; birden çok kez kapatılıp açılan partilerin dönemleri madde metnine göre elle girildi.`, `${H.parties.length} parties and alliances that entered parliament, joined a government or feature in this site's elections. Dates and predecessor/successor links come from Wikipedia infoboxes; periods of parties closed and reopened several times were entered by hand from the article text.`)}</p>`;
     const showP = (t) => {
       partySel = t; setHash();
       const p = A().partyByTitle(t), box = $('#plInfo');
@@ -384,7 +389,7 @@
   function drawAnim() {
     const d = fromYf(anim.t);
     const yEl = $('#aYear'); if (!yEl) return;
-    yEl.textContent = A().fmtDate(d).replace(/^\d+ /, '');
+    yEl.textContent = A().fmtDate(d.slice(0, 7));
     $('#aRange').value = anim.t;
     const leg = legAt(d);
     const today = CUR && anim.t >= yf(TODAY) - 0.02 && leg === H.parliament[H.parliament.length - 1];

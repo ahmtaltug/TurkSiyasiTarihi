@@ -95,6 +95,13 @@ Kişi adları tek tek birincil kaynakla karşılaştırılamadı. Ayrıştırma 
 
 Doğrulanamayanlar: Hükûmet tarihleri ve güvenoyu sayıları TBMM tutanaklarıyla; nüfuslar TÜİK yayınlarıyla birebir karşılaştırılmadı.
 
+## 7. İlçe düzeyi sonuçlar (3.3.0)
+
+İlçe sonuçları ve tarihî ilçe şekilleri Türkiye Seçim Haritası veri setinden alındı; birincil kaynakla karşılaştırılmadı. Yapılanlar:
+- Seçim satırlarındaki her geometri kimliği bugünkü ilçe sınırlarına, bölünme öncesi tarihî şekillere ya da veri setinin birleştirme planına (sonradan kurulan ilçenin ayrıldığı ilçeyle birleşimi) eşlendi; 34.927 satırdan 14'ünün geometrisi yok (ör. 1961–1983 Ankara "Merkez"), bunlar haritada boş kalır ve panelde adıyla belirtilir.
+- İlçenin bağlı olduğu il, veri setinin seçim tarihli idari anlık görüntüsünden alındı; il adı o seçimin il düzeyi verisindeki adıdır.
+- İl düzeyinde uygulanan parti anahtarı düzeltmeleri (CGP → GP 1967–1972, DP → Demokratik Parti 1970–1980, MHP → MÇP 1986–1992) ilçe satırlarına da uygulandı.
+
 ## Doğrulanamayanlar
 
 - **1877–1946 vekil sayıları ve kişi adları:** TBMM Albümü ile karşılaştırma gerekir. Bu oturumda TBMM sitesine ağ erişimi verilmedi.
