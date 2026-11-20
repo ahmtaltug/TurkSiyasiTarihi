@@ -105,17 +105,17 @@
     const su = (H.sultans || []).find((x) => inRange(x, d));
     if (su) h += `<div class="hc-row"><span class="muted">Padişah</span> <span class="sw" style="background:${SULTAN}"></span><b>${esc(su.name)}</b><span class="muted"> · ${esc(A().fmtDate(su.start))} – ${esc(A().fmtDate(su.end))}</span></div>`;
     const vz = (H.viziers || []).find((x) => inRange(x, d));
-    if (vz) h += `<div class="hc-row"><span class="muted">Sadrazam</span> <span class="sw" style="background:${VIZIER}"></span><b>${esc(vz.name)}</b><span class="muted"> · ${esc(A().fmtDate(vz.start))} – ${esc(A().fmtDate(vz.end))} (${A().nf.format(days(vz.start, vz.end))} gün)</span></div>`;
+    if (vz) h += `<div class="hc-row"><span class="muted">Sadrazam</span> <span class="sw" style="background:${VIZIER}"></span><b>${esc(vz.name)}</b><span class="muted"> · ${esc(A().fmtDate(vz.start))} – ${esc(A().fmtDate(vz.end))} (${A().nf.format(days(vz.start, vz.end))} ${A().L('gün', 'days')})</span></div>`;
     if (d >= '1920-04-23' && d < '1922-11-17' && vz) h += `<p class="note small">${A().L("1920–1922 arasında İstanbul'da Osmanlı hükûmeti, Ankara'da TBMM hükûmeti birlikte vardı.", 'In 1920–1922 an Ottoman government in Istanbul and the Grand National Assembly government in Ankara existed side by side.')}</p>`;
     const TH = H.tbmmHead;
     if (TH && inRange(TH, d)) h += `<div class="hc-row"><span class="muted">${esc(TH.title)}</span> <span class="sw" style="background:${nameColor('Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti')}"></span><b>${esc(TH.name)}</b><span class="muted"> · ${esc(A().fmtDate(TH.start))} – ${esc(A().fmtDate(TH.end))}</span></div>`;
     if (d >= '1920-04-23' && d < '1923-08-11') h += `<p class="note small">${A().L(`Birinci Meclis'te parti yoktu. ${d < '1921-05-10' ? 'Milletvekilleri henüz gruplaşmamıştı; ' : ''}Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921'de, muhalif İkinci Grup 22 Temmuz 1922'de (63 milletvekili) kuruldu. Birinci Grubun üye sayısı kaynaklarda verilmediği için grupsuzlarla birlikte gösterilir.`, `There were no parties in the First Assembly. ${d < '1921-05-10' ? 'Deputies had not yet formed groups; ' : ''}the Defence of Rights (First) Group was formed on May 10, 1921 and the opposition Second Group on July 22, 1922 (63 deputies). The First Group's membership is not given in the sources, so it is shown together with unaffiliated deputies.`)}</p>`;
     if (d >= '1920-01-12' && d < '1920-04-23') h += `<p class="note small">${A().L("Son Meclis-i Mebusan'da Müdâfaa-i Hukuk çizgisindeki mebuslar Felâh-ı Vatan grubunu kurdu; grup dağılımı derlenmedi.", 'In the last Ottoman Chamber of Deputies, deputies of the nationalist movement formed the Felâh-ı Vatan group; the group breakdown was not compiled.')}</p>`;
-    if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
+    if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(A().nameAtDate(p.party, d))})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
     if (g) {
       const ps = govParties(g);
-      h += `<div class="hc-row"><span class="muted">Hükûmet</span> <b>${esc(g.name)}</b> · ${esc(g.title)} ${esc(g.head)} <span class="muted">(${esc(A().fmtDate(g.start))} – ${g.end ? esc(A().fmtDate(g.end)) : 'görevde'}, ${A().nf.format(days(g.start, g.end))} gün)</span></div>`;
-      h += `<div class="hc-row">${ps.map((n) => `<span class="pchip"><span class="sw" style="background:${nameColor(n)}"></span>${esc(n)}</span>`).join(' ')} <span class="tag ${g.kind === 'koalisyon' ? 'k' : ''}">${esc(g.kind)}</span></div>`;
+      h += `<div class="hc-row"><span class="muted">Hükûmet</span> <b>${esc(g.name)}</b> · ${esc(g.title)} ${esc(g.head)} <span class="muted">(${esc(A().fmtDate(g.start))} – ${g.end ? esc(A().fmtDate(g.end)) : 'görevde'}, ${A().nf.format(days(g.start, g.end))} ${A().L('gün', 'days')})</span></div>`;
+      h += `<div class="hc-row">${ps.map((n) => `<span class="pchip"><span class="sw" style="background:${nameColor(n)}"></span>${esc(A().nameAtDate(n, d))}</span>`).join(' ')} <span class="tag ${g.kind === 'koalisyon' ? 'k' : ''}">${esc(g.kind)}</span></div>`;
       h += `<div class="hc-row small ${g.confidence.failed ? 'down' : 'muted'}">Güvenoyu: ${esc(g.confidence.text || '—')}${g.confidence.failed ? ' — hükûmet güvenoyu alamadı' : ''}</div>`;
     }
     const gap = GAPS.find(([a, b]) => a <= d && d < b);
@@ -159,7 +159,7 @@
     const X = (t) => L0 + (t - X0) / (X1 - X0) * (Wc - L0 - R0);
     const rows = { ev: [0, 38], pres: [40, 22], pm: [64, 16], gov: [82, 26], seat: [114, 300] };
     const Hc = rows.seat[0] + rows.seat[1] + 26;
-    let s = `<svg class="hchart" id="hchart" viewBox="0 0 ${Wc} ${Hc}" width="${Wc}" height="${Hc}" role="img" aria-label="1920'den bugüne meclis sandalye dağılımı, hükûmetler ve cumhurbaşkanları">`;
+    let s = `<svg class="hchart" id="hchart" viewBox="0 0 ${Wc} ${Hc}" width="${Wc}" height="${Hc}" role="img" aria-label="1876'dan bugüne meclis sandalye dağılımı, hükûmetler ve devlet başkanları">`;
     s += `<defs><pattern id="gapHatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="2" height="6" class="gh"/></pattern></defs>`;
     // satır etiketleri
     const rl = (y, t) => `<text class="rl" x="${L0 - 8}" y="${y}" text-anchor="end">${t}</text>`;
@@ -403,7 +403,7 @@
     $('#aEvents').innerHTML = ev.map((e, i) => `<li data-d="${esc(e.date)}" title="Bu tarihe git" class="${i === 0 && yf(d) - yf(e.date) < 1 ? 'new' : ''}"><span class="muted">${esc(A().fmtDate(e.date))}</span> <span class="et et-${esc(e.type.replace(/\s/g, '-'))}">${esc(A().EV_LABEL[e.type] || e.type)}</span>${esc(e.text)}</li>`).join('') || '<li class="muted">Bu tarihe kadar seçili türde olay yok.</li>';
     const alive = alivePartiesAt(d);
     $('#aAliveH').textContent = `Faal partiler (${alive.length} / derlenen ${H.parties.filter((p) => !p.alliance).length})`;
-    $('#aAlive').innerHTML = alive.map((p) => `<span class="pchip"><span class="sw" style="background:${nameColor(p.name)}"></span>${esc(p.name)}</span>`).join(' ');
+    $('#aAlive').innerHTML = alive.map((p) => `<span class="pchip"><span class="sw" style="background:${nameColor(p.name)}"></span>${esc(A().partyNameAt(p, d))}</span>`).join(' ');
   }
   function startAnim() {
     if (anim.t >= yf(TODAY) - 0.05) anim.t = 1876;

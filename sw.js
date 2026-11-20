@@ -1,7 +1,7 @@
 /* Türkiye Seçim Atlası — çevrimdışı önbellek.
    Veri ve sınır dosyaları önce önbellekten; sayfa, kod ve listeler ağdan (yoksa önbellekten). */
-const VERSION = 'secim-atlasi-3.3.2';
-const CORE = ['./', 'index.html', 'css/app.css?v=3.3.2', 'js/app.js?v=3.3.2', 'js/i18n.js?v=3.3.2', 'js/history.js?v=3.3.2', 'vendor/leaflet.js', 'vendor/leaflet.css',
+const VERSION = 'secim-atlasi-3.4.0';
+const CORE = ['./', 'index.html', 'css/app.css?v=3.4.0', 'js/app.js?v=3.4.0', 'js/i18n.js?v=3.4.0', 'js/history.js?v=3.4.0', 'vendor/leaflet.js', 'vendor/leaflet.css',
   'vendor/topojson-client.min.js', 'data/index.json', 'data/parties.json',  'data/geo/world.json', 'favicon.svg'];
 
 self.addEventListener('install', (e) => {
@@ -14,7 +14,8 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== location.origin) return;
-  const immutable = /\/data\/(elections|geo|ilce)\/|\/vendor\//.test(url.pathname);
+  // guncel.json her gün sürüm değişmeden yenilenir: önce ağdan alınmalı
+  const immutable = /\/data\/(elections|geo|ilce)\/|\/vendor\//.test(url.pathname) && !/\/guncel\.json$/.test(url.pathname);
   if (immutable) {
     // önce önbellek: sürüm değişince önbellek adı değişir ve eski dosyalar silinir
     e.respondWith(caches.open(VERSION).then((c) => c.match(e.request).then((hit) => hit || fetch(e.request).then((r) => {

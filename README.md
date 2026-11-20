@@ -10,7 +10,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.3.2-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.4.0-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -26,7 +26,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 |---|---|
 | **88 seçim kaydı + güncel durum** | 1840 Muhassıllık meclisleri, 1877–1919 Meclis-i Mebusan, 1920–1946 TBMM seçimleri, 1950–2023 genel ve yerel seçimler, Senato seçimleri, halkoylamaları, cumhurbaşkanlığı seçimleri ve 2026 ara seçimi. |
 | **Döneminin sınırları** | Osmanlı'da vilayet ve sancaklar, Cumhuriyet'te o yılın illeri ve adları (ör. Seyhan, Çoruh, Urfa, İçel). Tahmine dayanan sınırlar haritada taralıdır. |
-| **Siyasi tarih** | 1876'dan bugüne meclis sandalye dağılımı, padişahlar, sadrazamlar, cumhurbaşkanları, başbakanlar, 73 hükûmet ve koalisyonları, güvenoyları, 57 parti ve 4 ittifakın soy ağacı, 230 olay. |
+| **Siyasi tarih** | 1876'dan bugüne meclis sandalye dağılımı, padişahlar, sadrazamlar, cumhurbaşkanları, başbakanlar, 73 hükûmet ve koalisyonları, güvenoyları, 58 parti ve 4 ittifakın soy ağacı, 230 olay. |
 | **Güncel durum** | TBMM'nin bugünkü sandalye dağılımı ve 81 il belediye başkanının bugünkü partisi; her gün Vikipedi'den otomatik güncellenir. |
 | **İlçe düzeyi** | 1950/1955 yerel seçimleri ve 1961 sonrası bütün seçimlerde ilçe sonuçları, seçim tarihindeki ilçe sınırlarıyla. |
 | **Analiz** | İki seçimi yan yana karşılaştırma, aynı türdeki önceki seçime göre il il değişim, il ve parti geçmişi, demografik göstergelerle korelasyon. |
@@ -48,6 +48,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 **Harita**
 - Görünümler: birinci parti ya da aday, partinin oy oranı, katılım, vekil sayısı, grup payı ve önceki seçime göre değişim.
 - Zaman atlamalı oynatma (0,5×–4×); iki seçim arasındaki siyasi olaylar haritanın üzerinde gösterilir.
+- Seçim paneli: kısa açıklama (seçim sistemi, halkoylamasının konusu, öne çıkan sonuçlar), seçim günündeki cumhurbaşkanı ve hükûmet, genel seçimlerde o meclis döneminin bütün hükûmetleri.
 - İl kartı: oylar, sandalyeler, 1950 öncesi için vekil adları, ilin nüfus göstergeleri ve aynı türdeki bütün seçimlerdeki geçmişi.
 - Parti kartı: ülke geneli oy geçmişi ile kuruluş, kapanış, ad değişiklikleri, öncül ve ardıl partiler, ittifaklar.
 - Karşılaştırma modu, demografik saçılım grafiği, sıralanabilir il tablosu, il arama, CSV indirme.
@@ -141,6 +142,7 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/build_ilce.py` | İlçe sonuçlarını ve her seçimin ilçe sınırlarını üretir. |
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
+| `scripts/descriptions.py` | 1950 sonrası seçim kayıtlarının kısa açıklamaları; `build_modern.py` kullanır, tek başına çalıştırılınca yayındaki veriye yazar. |
 | `scripts/build_history.py` | Hükûmetleri, cumhurbaşkanlarını, meclis dağılımlarını, parti soy ağacını, olayları ve il demografisini Vikipedi metinlerinden `data/history.json` ve `data/demographics.json` dosyalarına derler. |
 | `scripts/build_current.py` | Güncel durumu (TBMM sandalyeleri ve il belediye başkanları) Vikipedi'den derler; `.github/workflows/guncel.yml` ile her gün çalışır. |
 | `scripts/verify_wiki.py` | Parti ve aday adlarını seçimlerin Vikipedi maddeleriyle karşılaştırır (`scripts/fetch_sources.sh --verify` sonrası). |

@@ -173,9 +173,12 @@ NATIONAL_NOTES = {
     '2014cb': 'Kaynak veride yurt dışı ve gümrük oyları yok; ülke geneli yalnız illerin toplamıdır. Resmî sonuç (Vikipedi): Erdoğan %51,79, İhsanoğlu %38,44, Demirtaş %9,76.',
 }
 
+from descriptions import apply as add_description
+
 def write(rec):
     fix_keys(rec)
     hist_names(rec)
+    add_description(rec)
     if rec['id'] in NATIONAL_NOTES:
         rec.setdefault('notes', []).insert(0, NATIONAL_NOTES[rec['id']])
     with open(os.path.join(OUT, rec['id'] + '.json'), 'w') as f:
@@ -206,7 +209,7 @@ for path in sorted(glob.glob(os.path.join(NORM, 'elections', '*', '*.json'))):
                             'bazı illerde gösterilen değer oy değil, belediye meclisindeki sandalye dağılımıdır.']
     REF_KONU = {1961: '1961 Anayasası', 1982: '1982 Anayasası', 1987: 'Siyasi yasakların kaldırılması (Anayasa 4. geçici madde)',
                 1988: 'Yerel seçimlerin bir yıl öne alınması', 2007: 'Cumhurbaşkanının halk tarafından seçilmesi dahil anayasa değişikliği',
-                2010: 'Anayasa değişikliği paketi', 2017: 'Cumhurbaşkanlığı hükümet sistemine geçiş (anayasa değişikliği)'}
+                2010: 'Anayasa değişikliği paketi', 2017: 'Cumhurbaşkanlığı hükûmet sistemine geçiş (anayasa değişikliği)'}
     if tur == 'referandum': rec['subtitle'] = REF_KONU.get(year)
     nat = national(units, d.get('yurtdisi'))
     if d.get('toplamSonuc'):

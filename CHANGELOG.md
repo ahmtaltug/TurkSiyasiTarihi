@@ -1,5 +1,21 @@
 # Değişiklik günlüğü
 
+## 3.4.0 — 2026-11-20
+
+### Yeni
+- **1950 sonrası seçim açıklamaları:** 44 kayıtta (genel seçimler, halkoylamaları, cumhurbaşkanlığı seçimleri, önemli yerel seçimler) kısa açıklama: seçim sistemi, halkoylamasının konusu, öne çıkan sonuçlar. Önceden 1950 sonrası hiçbir kayıtta açıklama yoktu. Metinler `scripts/descriptions.py` dosyasındadır; neyle karşılaştırıldıkları [doğrulama raporunda](docs/DOGRULAMA.md).
+- **Meclis döneminin hükûmetleri:** Genel seçim panelinde, o seçimden çıkan meclisin bütün hükûmetleri (başkan, ortaklar, güvenoyu alamayanlar).
+- Kurumsal olaylara 1987 (siyasi yasakların kaldırılması) ve 2010 (anayasa değişikliği paketi) halkoylamaları eklendi.
+
+### Düzeltmeler
+- **Parti adları:** Olaylar partileri kuruluşta bugünkü adlarıyla yazıyordu (ör. 2012'de "Halkların Eşitlik ve Demokrasi Partisi kuruldu"). Artık kuruluş adı yazılır: Halk Fırkası (1923), Güven Partisi (1967), Sosyalist İktidar Partisi (1993), Yeşiller ve Sol Gelecek Partisi (2012). Eksik ad değişiklikleri (CKMP → MHP 1969, SİP → TKP 2001) eklendi; ad değişikliği günlerinde yinelenen "kuruldu/kapandı" olayları kaldırıldı. Animasyondaki faal partiler, hükûmet ortakları ve cumhurbaşkanının partisi o tarihteki adla gösterilir.
+- **Türkiye İşçi Partisi (1961):** 1971'deki kapatılması ve 1975'te yeniden örgütlenmesi eklendi; önceden 1961–1981 kesintisiz görünüyordu.
+- **Geçerli oy / seçmen:** Ülke toplamları farklı il kümelerinden toplandığı için oran bazı seçimlerde anlamsızdı (1957'de %1,0; 1984 yerelde %138,8). Artık yalnız ikisi de bilinen illerden hesaplanır; eksik veride kaç ilin toplamı olduğu yazar.
+- **Çevrimdışı önbellek:** Her gün güncellenen `guncel.json` kalıcı önbellekte tutuluyordu; uygulamayı yükleyenler yeni sürüm çıkana dek eski güncel durumu görüyordu. Artık önce ağdan alınır.
+- **İngilizce arayüz:** "yeniden kuruldu" olayları yarı çevriliyordu ("re-founded" yerine "yeniden founded"); siyasi tarihte gün sayıları Türkçe kalıyordu.
+- Siyasi tarih grafiğinin erişilebilirlik etiketi "1920'den bugüne" diyordu (grafik 1876'dan başlar). "Kaynaklar ve yöntem"deki meclis grafiği sınırlaması güncellendi. "Hükümet" yazımı sitenin geri kalanıyla uyumlu olarak "hükûmet" oldu.
+- README'de parti sayısı (58), yol haritasında 3.3.0'da biten işler (İngilizce arayüz, ilçe düzeyi) güncellendi.
+
 ## 3.3.2 — 2026-11-20
 
 - **Tek ad:** Depo, uygulamanın adıyla uyumlu olarak `TurkiyeSecimAtlasi` olarak yeniden adlandırıldı. Site adresi artık https://ahmtaltug.github.io/TurkiyeSecimAtlasi/; README, CITATION, hata formları, sürüm notları ve sitedeki bağlantılar güncellendi. Vikipedi isteklerinin kimliği, kaynak veri setinin adıyla karışmaması için `SecimAtlasiBuilder` oldu.
