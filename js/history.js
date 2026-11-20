@@ -138,7 +138,8 @@
     const sy = (f) => rows.seat[0] + rows.seat[1] * (1 - f);
     for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
     // I. TBMM ve askerî dönemler
-    for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>`;
+    for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>` +
+      (X(yf(b)) - X(yf(a)) > 60 ? `<text class="gapt" x="${(X(yf(a)) + X(yf(b))) / 2}" y="${rows.seat[0] + rows.seat[1] / 2}" text-anchor="middle">Meclis kapalı (${a.slice(0, 4)}–${b.slice(0, 4)})</text>` : '');
     // sandalye blokları
     const labels = [];
     legs.forEach((l, i) => {
