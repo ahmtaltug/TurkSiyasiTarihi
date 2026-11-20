@@ -8,6 +8,7 @@
     cumhurbaskanligi: { label: 'Cumhurbaşkanlığı', color: '#6b3fa0' },
     referandum: { label: 'Halkoylaması', color: '#b26b00' },
     senato: { label: 'Senato', color: '#2a5d8f' },
+    guncel: { label: 'Güncel durum', color: '#0f766e' },
     ara: { label: 'Ara seçim', color: '#6d6d6d' },
   };
   const ERA_LABEL = { osmanli: 'Osmanlı dönemi', cumhuriyet: 'Cumhuriyet dönemi' };
@@ -29,7 +30,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '3.0.2';
+  const VERSION = '3.1.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -285,7 +286,7 @@
     if (mode === 'winner') {
       const cnt = {};
       Object.values(d.units).forEach((u) => { if (u.winner) cnt[u.winner] = (cnt[u.winner] || 0) + 1; });
-      const title = d.type === 'referandum' ? 'Sonuç' : d.type === 'cumhurbaskanligi' ? 'Önde olan aday' : d.id === '1930yerel' ? 'İl merkezi belediyesi' : d.id === '1946' ? 'Birinci parti (oy; bilinmiyorsa vekil)' : d.metric === 'members' ? 'Çoğunluk (vekil)' : 'Birinci parti';
+      const title = d.type === 'guncel' ? 'Belediye başkanının bugünkü partisi' : d.type === 'referandum' ? 'Sonuç' : d.type === 'cumhurbaskanligi' ? 'Önde olan aday' : d.id === '1930yerel' ? 'İl merkezi belediyesi' : d.id === '1946' ? 'Birinci parti (oy; bilinmiyorsa vekil)' : d.metric === 'members' ? 'Çoğunluk (vekil)' : 'Birinci parti';
       html += `<div class="t">${title}</div>`;
       Object.entries(cnt).sort((a, b) => b[1] - a[1]).forEach(([k, n]) => {
         html += `<div class="item" title="${esc(pFull(k))}"><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))} <span class="muted">(${n})</span></div>`;
@@ -365,6 +366,14 @@
       if (n.voters && n.valid) kv.push(['Geçerli oy / seçmen', pf(100 * n.valid / n.voters)]);
       if (n.total_seats) kv.push(['Toplam sandalye', nf.format(n.total_seats)]);
       if (kv.length) h += '<dl class="kv">' + kv.map(([a, b]) => `<dt>${a}</dt><dd>${b}</dd>`).join('') + '</dl>';
+    } else if (d.type === 'guncel') {
+      const ent = Object.entries(n.seats || {}).filter((e) => e[1] > 0);
+      h += `<h3>TBMM — bugünkü sandalye dağılımı</h3>` + hemicycle(ent);
+      const old = n.seats2023 || {};
+      h += '<table class="utable cmp"><thead><tr><th>Parti</th><th class="num">2023 seçimi</th><th class="num">Bugün</th><th class="num">Fark</th></tr></thead><tbody>' +
+        ent.map(([k, v]) => { const o = old[k] || 0, df = v - o; return `<tr><td><span class="sw" style="background:${pColor(k)}"></span>${esc(pLabel(k))}</td><td class="num">${o}</td><td class="num">${v}</td><td class="num ${df > 0 ? 'up' : df < 0 ? 'down' : ''}">${df > 0 ? '+' : df < 0 ? '−' : '±'}${Math.abs(df)}</td></tr>`; }).join('') +
+        `</tbody></table><p class="hint small">Toplam ${nf.format(n.total_seats || 0)} sandalye. Fark; parti değiştirmeleri, yeni kurulan partileri, istifaları ve ölümleri yansıtır.</p>`;
+      h += `<h3>İl belediye başkanlıkları (büyükşehir ya da il merkezi)</h3>` + bars(Object.entries(n.mayors || {}), null);
     } else if (n.seats && Object.keys(n.seats).length) {
       const lbl = d.id === '1930yerel' ? 'Kazanılan seçim bölgesi (belediye)' : (d.groupLabel || 'Dağılım');
       h += `<h3>${esc(lbl)}</h3>` + bars(Object.entries(n.seats).slice(0, 10), null);
@@ -424,7 +433,8 @@
       box.innerHTML = h; $('#unitClose').onclick = () => selectUnit(null); return;
     }
     const kv = [];
-    if (u.winner) kv.push([d.type === 'referandum' ? 'Sonuç' : d.type === 'cumhurbaskanligi' ? 'Önde' : d.id === '1930yerel' ? 'İl merkezi' : 'Birinci', esc(pLabel(u.winner)) + (u.winnerBasis === 'seats' ? ' <span class="muted">(vekil sayısına göre)</span>' : '')]);
+    if (u.mayor) kv.push(['Belediye başkanı', esc(u.mayor)]);
+    if (u.winner) kv.push([d.type === 'guncel' ? 'Parti' : d.type === 'referandum' ? 'Sonuç' : d.type === 'cumhurbaskanligi' ? 'Önde' : d.id === '1930yerel' ? 'İl merkezi' : 'Birinci', esc(pLabel(u.winner)) + (u.winnerBasis === 'seats' ? ' <span class="muted">(vekil sayısına göre)</span>' : '')]);
     if (u.voters) kv.push(['Kayıtlı seçmen', nf.format(u.voters)]);
     if (u.valid) kv.push(['Geçerli oy', nf.format(u.valid)]);
     if (u.turnout != null) kv.push(['Katılım', pf(u.turnout)]);
@@ -968,7 +978,7 @@
       const ps = c.gov.parties.map((p) => p.name).filter((n) => n !== 'Bağımsızlar');
       parts.push(`Hükûmet: <b>${esc(c.gov.name)}</b> (${esc(c.gov.title)} ${esc(c.gov.head)}${ps.length ? '; ' + esc(ps.join(' + ')) : ''})`);
     }
-    box.innerHTML = parts.length ? `<p class="ctx">Seçim tarihinde — ${parts.join(' · ')} <button type="button" class="linkbtn" id="ctxOpen">Siyasi tarihte göster</button></p>` : '';
+    box.innerHTML = parts.length ? `<p class="ctx">${d.type === 'guncel' ? 'Bugün' : 'Seçim tarihinde'} — ${parts.join(' · ')} <button type="button" class="linkbtn" id="ctxOpen">Siyasi tarihte göster</button></p>` : '';
     const b = document.getElementById('ctxOpen');
     if (b) b.addEventListener('click', () => window.AtlasHistory && window.AtlasHistory.open('chart', d.date));
   }
@@ -1338,7 +1348,7 @@
   }
   let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
   window.Atlas = { state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, lineageHtml, bindLineage,
-                   hemicycle, EV_LABEL, isDark: () => T === THEMES.dark, writeHash, ready: appReady, stopPlay: () => { if (state.play.on) stopPlay(); },
+                   hemicycle, EV_LABEL, loadElection, isDark: () => T === THEMES.dark, writeHash, ready: appReady, stopPlay: () => { if (state.play.on) stopPlay(); },
                    refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });
 })();

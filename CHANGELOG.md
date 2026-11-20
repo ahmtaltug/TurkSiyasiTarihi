@@ -1,5 +1,12 @@
 # Değişiklik günlüğü
 
+## 3.1.0 — 2026-11-20
+
+- **Güncel durum** (yeni kayıt, "Güncel durum" türü): TBMM'nin bugünkü sandalye dağılımı (2023 seçimine göre farklarla) ve 81 ilin (büyükşehir ya da il merkezi) belediye başkanının bugünkü partisi haritada. Parti değiştirmeler, yeni kurulan partiler (ör. Yeni Parti), vekâleten görevler ve kayyım atamaları yansır.
+- **Otomatik güncelleme:** `.github/workflows/guncel.yml` her gün 06:17'de (TSİ) `scripts/build_current.py` ile Vikipedi'den derler; değişiklik varsa veriyi işler ve siteyi yeniden yayımlar.
+- Siyasi tarihte son meclis döneminde ve animasyonun bugününde güncel TBMM dağılımı gösterilir.
+- 1840 Muhassıllık meclisleri: üyelerin il/sancak dağılımına ya da meclis bileşimine ilişkin derlenebilir bir kaynak bulunamadı; harita ve meclis grafiği eklenmedi.
+
 ## 3.0.2 — 2026-11-20
 
 - Yeni Parti (24 Temmuz 2026) eklendi: parti zaman çizelgesi, soy ağacı (öncülü CHP), olaylar ve "faal partiler". Kaynak: Vikipedi "Yeni Parti (2026)".

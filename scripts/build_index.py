@@ -69,7 +69,7 @@ EXTRA = {  # 1950 öncesi ve özel gruplar
     'Taşnak': ('#f9a825', 'Taşnak'), 'Sosyalist': ('#ad1457', 'Sos.'), 'Bilinmiyor': ('#bdbdbd', '?'),
     'Müdâfaa-i Hukuk (Birinci Grup)': ('#8d1c1c', 'ARMHC'), 'İkinci Grup': ('#6d4c41', 'II. Grup'),
     'Cumhuriyet Halk Fırkası': ('#D80011', 'CHF'), 'Cumhuriyet Halk Partisi': ('#D80011', 'CHP'),
-    'Serbest Cumhuriyet Fırkası': ('#1E90FF', 'SCF'), 'Yeni Parti': ('#C8102E', 'YENİ'), 'Demokrat Parti': ('#348AC9', 'DP'),
+    'Serbest Cumhuriyet Fırkası': ('#1E90FF', 'SCF'), 'Yeni Parti': ('#be185d', 'YENİ'), 'Demokrat Parti': ('#348AC9', 'DP'),
     'Millî Kalkınma Partisi': ('#2e7d32', 'MKP'), 'Millet Partisi': ('#FFA500', 'MP'),
     'Bağımsız': ('#78716c', 'Bğmsz'), 'Diğer': ('#a8a29e', 'Diğer'),
     'Müslüman': ('#00897b', 'Müslüman'), 'Gayrimüslim': ('#7e57c2', 'Gayrimüslim'),
