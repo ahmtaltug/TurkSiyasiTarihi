@@ -59,6 +59,8 @@ for g in govs:
     names = [p['name'] for p in g['parties']]
     g['kind'] = ('askerî' if 'Askerî Hükûmet' in names else 'geçici' if 'Geçici Hükûmet' in names else
                  'koalisyon' if len([n for n in names if n != 'Bağımsızlar']) > 1 else 'tek parti')
+    if g['start'] and g['start'] < '1923-10-29':   # Birinci Meclis'te parti yoktu: meclis hükûmeti sistemi
+        g['kind'] = 'meclis hükûmeti'
 
 # ------------------------------------------------------------------ cumhurbaşkanları
 cbt = parse_tables(open(os.path.join(W, 'cumhurbaskanlari.txt')).read())

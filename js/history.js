@@ -56,6 +56,7 @@
   }
   document.querySelectorAll('#histTabs [data-tab]').forEach((b) => b.addEventListener('click', () => setTab(b.dataset.tab)));
   function show(on) {
+    if (on) A().stopPlay();
     dlg.hidden = !on;
     document.querySelector('.controls').hidden = on; document.querySelector('main.layout').hidden = on;
     document.querySelectorAll('#mainTabs [data-view]').forEach((b) => { const a = (b.dataset.view === 'history') === on; b.classList.toggle('active', a); b.setAttribute('aria-pressed', String(a)); });
@@ -411,6 +412,10 @@
   body.addEventListener('click', (e) => {
     const li = e.target.closest('#aEvents li[data-d]');
     if (li) { stopAnim(); anim.t = Math.max(1876, yf(li.dataset.d)); drawAnim(); setHash(); }
+  });
+  window.addEventListener('hashchange', () => {
+    const q = new URLSearchParams(location.hash.slice(1));
+    if (q.get('v') === 'tarih' && dlg.hidden) open(q.get('t') || 'chart', q.get('d'), q.get('p'));
   });
   const hp = new URLSearchParams(location.hash.slice(1));
   if (hp.get('v') === 'tarih') A().ready.then(() => open(['chart', 'govs', 'parties', 'anim'].includes(hp.get('t')) ? hp.get('t') : 'chart', hp.get('d'), hp.get('p')));

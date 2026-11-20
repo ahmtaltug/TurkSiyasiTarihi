@@ -1,0 +1,22 @@
+# main'e her gönderimde js/app.js içindeki sürüm için etiket ve GitHub sürümü yoksa oluşturur.
+# Sürüm notları CHANGELOG.md'deki ilgili bölümden alınır.
+name: Sürüm
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Etiket ve sürüm notu
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VER=$(grep -oP "const VERSION = '\K[0-9.]+" js/app.js)
+          if gh release view "v$VER" >/dev/null 2>&1; then echo "v$VER zaten yayımlanmış"; exit 0; fi
+          awk -v v="$VER" 'index($0, "## " v " ") == 1 {f=1; next} f && /^## / {exit} f' CHANGELOG.md > notes.md
+          printf '\nCanlı site: https://ahmtaltug.github.io/TurkSiyasiTarihi/\n' >> notes.md
+          gh release create "v$VER" --target "$GITHUB_SHA" --title "Türkiye Seçim Atlası $VER" --notes-file notes.md --latest
