@@ -1,5 +1,11 @@
 # Değişiklik günlüğü
 
+## 3.1.2 — 2026-11-20
+
+- Yakınlaştırmada yalnız çizgi kalınlıkları güncellenir; renk ölçeği, lejant, demografi grafiği ve karşılaştırma paneli artık her yakınlaştırmada baştan çizilmez.
+- Siyasi tarih verisi (seçim panelindeki "seçim tarihinde" satırı için) harita yüklendikten sonra, tarayıcı boştayken indirilir; ilk açılışta haritayla bant genişliği paylaşmaz.
+- Yayımlanan sitede JavaScript ve CSS esbuild ile sıkıştırılır (157 KB'den 120 KB'ye; kaynak dosyalar değişmez).
+
 ## 3.1.1 — 2026-11-20
 
 - Sürüm uyumsuzlukları giderildi: README (kayıt, parti ve olay sayıları, sürüm rozeti), doğrulama raporu, yol haritası ve değişiklik günlüğündeki eski sürüm ve "son sürüm" ifadeleri güncellendi.

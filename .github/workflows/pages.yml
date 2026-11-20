@@ -51,6 +51,8 @@ jobs:
           mkdir -p _site
           cp -r index.html favicon.svg sw.js manifest.webmanifest icons css js vendor data _site/
           touch _site/.nojekyll
+          # yayımlanan kopyada JS ve CSS sıkıştırılır (kaynak dosyalar değişmez)
+          for f in js/app.js js/history.js css/app.css; do npx --yes esbuild@0.24.0 "_site/$f" --minify --allow-overwrite --outfile="_site/$f" --log-level=warning; done
       - uses: actions/configure-pages@v5
         with:
           enablement: true
