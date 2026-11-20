@@ -8,7 +8,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.1.0-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.1.1-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -22,9 +22,9 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 
 | | |
 |---|---|
-| **88 seçim kaydı** | 1840 Muhassıllık meclisleri, 1877–1919 Meclis-i Mebusan, 1920–1946 TBMM seçimleri, 1950–2023 genel ve yerel seçimler, Senato seçimleri, halkoylamaları, cumhurbaşkanlığı seçimleri ve 2026 ara seçimi. |
+| **88 seçim kaydı + güncel durum** | 1840 Muhassıllık meclisleri, 1877–1919 Meclis-i Mebusan, 1920–1946 TBMM seçimleri, 1950–2023 genel ve yerel seçimler, Senato seçimleri, halkoylamaları, cumhurbaşkanlığı seçimleri ve 2026 ara seçimi. |
 | **Döneminin sınırları** | Osmanlı'da vilayet ve sancaklar, Cumhuriyet'te o yılın illeri ve adları (ör. Seyhan, Çoruh, Urfa, İçel). Tahmine dayanan sınırlar haritada taralıdır. |
-| **Siyasi tarih** | 1876'dan bugüne meclis sandalye dağılımı, padişahlar, sadrazamlar, cumhurbaşkanları, başbakanlar, 73 hükûmet ve koalisyonları, güvenoyları, 60 parti ve ittifakın soy ağacı, 228 olay. |
+| **Siyasi tarih** | 1876'dan bugüne meclis sandalye dağılımı, padişahlar, sadrazamlar, cumhurbaşkanları, başbakanlar, 73 hükûmet ve koalisyonları, güvenoyları, 57 parti ve 4 ittifakın soy ağacı, 230 olay. |
 | **Güncel durum** | TBMM'nin bugünkü sandalye dağılımı ve 81 il belediye başkanının bugünkü partisi; her gün Vikipedi'den otomatik güncellenir. |
 | **Analiz** | İki seçimi yan yana karşılaştırma, aynı türdeki önceki seçime göre il il değişim, il ve parti geçmişi, demografik göstergelerle korelasyon. |
 | **Kaynak şeffaflığı** | Her kayıtta güvenilirlik rozeti ve kaynak bağlantısı; neyin nasıl doğrulandığı [doğrulama raporunda](docs/DOGRULAMA.md). |

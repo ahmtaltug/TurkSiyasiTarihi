@@ -4,7 +4,7 @@ title: "Türkiye Seçim Atlası (1840–2026)"
 type: software
 authors:
   - alias: ahmtaltug
-version: 3.1.0
+version: 3.1.1
 date-released: 2026-11-20
 url: "https://ahmtaltug.github.io/TurkSiyasiTarihi/"
 repository-code: "https://github.com/ahmtaltug/TurkSiyasiTarihi"

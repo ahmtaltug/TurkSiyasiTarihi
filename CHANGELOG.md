@@ -1,5 +1,10 @@
 # Değişiklik günlüğü
 
+## 3.1.1 — 2026-11-20
+
+- Sürüm uyumsuzlukları giderildi: README (kayıt, parti ve olay sayıları, sürüm rozeti), doğrulama raporu, yol haritası ve değişiklik günlüğündeki eski sürüm ve "son sürüm" ifadeleri güncellendi.
+- 16:9 tanıtım videosu (`docs/video/tanitim-16x9.mp4`).
+
 ## 3.1.0 — 2026-11-20
 
 - **Güncel durum** (yeni kayıt, "Güncel durum" türü): TBMM'nin bugünkü sandalye dağılımı (2023 seçimine göre farklarla) ve 81 ilin (büyükşehir ya da il merkezi) belediye başkanının bugünkü partisi haritada. Parti değiştirmeler, yeni kurulan partiler (ör. Yeni Parti), vekâleten görevler ve kayyım atamaları yansır.
@@ -13,7 +18,7 @@
 - 21 Mayıs 2026: CHP 38. Olağan Kurultayı hakkındaki "mutlak butlan" kararıyla Özgür Özel'in CHP genel başkanlığının sona ermesi olaylara eklendi.
 - Not: Meclis grafiği seçim sonrası dağılımı gösterir; Yeni Parti'nin TBMM'deki 90 sandalyesi dönem içi değişiklik olduğu için grafikte yer almaz, parti kartında yazar.
 
-## 3.0.1 — 2026-11-20 (son sürüm)
+## 3.0.1 — 2026-11-20
 
 Projenin tamamlanmış sürümü. 3.0.0 ve önceki sürümlerdeki bütün özellikleri içerir: 1840–2026 arası 88 seçim kaydı döneminin sınırlarıyla haritada; 1876'dan bugüne meclisler, padişahlar, sadrazamlar, cumhurbaşkanları, hükûmetler, partiler ve olaylarla siyasi tarih; karşılaştırma modu, demografik analiz, zaman atlamalı oynatma, açık/koyu tema, çevrimdışı kullanım.
 

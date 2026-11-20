@@ -1,6 +1,6 @@
 # Veri doğrulama raporu
 
-Son güncelleme: 20 Kasım 2026 (sürüm 2.0.0). Bu rapor, sitedeki tarihî ve siyasi bilgilerin (parti adları, aday adları, il adları, tarihler,
+Son güncelleme: 20 Kasım 2026 (sürüm 3.1.1). Bu rapor, sitedeki tarihî ve siyasi bilgilerin (parti adları, aday adları, il adları, tarihler,
 mebus/milletvekili listeleri) neyle, nasıl karşılaştırıldığını ve neyin **karşılaştırılamadığını** listeler.
 
 Kaynak olarak Türkçe ve İngilizce Vikipedi maddeleri kullanıldı. Birincil kaynaklarla (TBMM Albümü, YSK arşivi, Resmî Gazete)
@@ -80,7 +80,7 @@ Kişi adları tek tek birincil kaynakla karşılaştırılamadı. Ayrıştırma 
 
 ## 6. Siyasi tarih ve demografi verisi (2.0.0)
 
-`scripts/build_history.py` şu maddeleri ayrıştırır: "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi", 60 parti/ittifak maddesinin bilgi kutusu, "Türkiye'nin illeri nüfuslarına göre" ve il bazında GSYH ile yaşam beklentisi tabloları (İngilizce Vikipedi). Yapılan denetimler ve düzeltmeler:
+`scripts/build_history.py` şu maddeleri ayrıştırır: "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi", 61 parti/ittifak maddesinin bilgi kutusu, "Türkiye'nin illeri nüfuslarına göre" ve il bazında GSYH ile yaşam beklentisi tabloları (İngilizce Vikipedi). Yapılan denetimler ve düzeltmeler:
 
 - **Hükûmetler:** 73 kayıt. Her birinin başlangıcı bir öncekinin bitişiyle karşılaştırıldı: 63 geçiş kesintisiz, 10 geçişte 1 günle 24 gün arasında boşluk var (ör. 20 Kasım 1961, 21 Eylül 1980, 25 Haziran 1993 öncesi). Bunlar yeni hükûmetin kurulmasını bekleyen dönemlerdir ve kaynakta olduğu gibi bırakıldı. Güvenoyu alamayan üç hükûmet (38. Irmak, 40. Ecevit, 51. Çiller) kaynaktaki "Güvensizlik oyu" ibaresinden işaretlendi. Kaynakta 1. İcra Vekilleri Heyeti başkanının adı "Mustafa Kemal A" diye kısaltılmıştı; düzeltildi.
 - **Cumhurbaşkanlığı boşlukları:** 27 Mayıs 1960 – 26 Ekim 1961 ve 12 Eylül 1980 – 9 Kasım 1982 askerî yönetim (Millî Birlik Komitesi ve Millî Güvenlik Konseyi başkanları), 6 Nisan – 12 Eylül 1980 vekâleten görev olarak ayrıldı.
