@@ -120,7 +120,7 @@ for eid, basis in (('1877-1', 'dinî mensubiyet'), ('1877-2', 'dinî mensubiyet'
                    ('1912', 'siyasi mensubiyet (Vikipedi listesi)'), ('1914', 'siyasi mensubiyet (Vikipedi listesi)'), ('1919', None), ('1920', None)):
     d = json.load(open(os.path.join(ROOT, 'data', 'elections', eid + '.json')))
     n = d['national']; tot = n.get('members_initial') or 0
-    seats = dict(n.get('seats') or {}) or {'Grup verisi yok': tot}
+    seats = dict(n.get('seats') or {}) or {'Grup dağılımı derlenmedi': tot}
     parl.append({'id': eid, 'date': d['date'], 'total': sum(seats.values()), 'seats': seats, 'basis': basis or 'grup verisi derlenmedi',
                  'listed': True, 'source': 'data/elections/%s.json' % eid})
 # 1923–1946: seçim maddelerinin bilgi kutuları ve 1946 sonuç tablosu
@@ -174,12 +174,12 @@ for line in open(os.path.join(W, 'partiler', 'index.txt')):
 PERIODS = {
     'Cumhuriyet Halk Partisi': [['1923-09-09', '1981-10-16'], ['1992-09-09', None]],
     'Milliyetçi Hareket Partisi': [['1969-02-09', '1981-10-16'], ['1993-01-24', None]],
-    'Hürriyet ve İtilaf Fırkası': [['1911-11-21', '1913-01-23'], ['1918-11-17', '1919-06-25']],
+    'Hürriyet ve İtilaf Fırkası': [['1911-11-21', '1913-06'], ['1918-11-17', '1919-06-25']],
 }
 PERIOD_NOTES = {
     'Cumhuriyet Halk Partisi': '12 Eylül sonrası 16 Ekim 1981\'de kapatıldı; 9 Eylül 1992\'de yeniden açıldı.',
     'Milliyetçi Hareket Partisi': 'CKMP\'nin 9 Şubat 1969\'da adını değiştirmesiyle oluştu; 1981\'de kapatıldı. Çizgisini sürdüren Muhafazakâr Parti 1985\'te MÇP, 24 Ocak 1993\'te yeniden MHP adını aldı.',
-    'Hürriyet ve İtilaf Fırkası': '1913 Bâbıâli Baskını sonrası faaliyeti durdu; 1918\'de yeniden kuruldu, 1919\'da kapandı.',
+    'Hürriyet ve İtilaf Fırkası': 'Bâbıâli Baskını (Ocak 1913) sonrası baskı altına girdi; Mahmud Şevket Paşa suikastının (Haziran 1913) ardından yöneticileri sürgün edildi ve faaliyeti durdu. 1918\'de yeniden kuruldu, 1919\'da kapandı.',
 }
 seen, uniq = set(), []
 for rec in parties:
@@ -238,6 +238,46 @@ events.append({'date': '1971-03-12', 'type': 'darbe', 'text': '12 Mart 1971 muht
 events.append({'date': '1997-02-28', 'type': 'darbe', 'text': '28 Şubat 1997 Millî Güvenlik Kurulu kararları (Haziran 1997\'de 54. hükûmet istifa etti)'})
 events.append({'date': '2016-07-15', 'type': 'darbe', 'text': '15 Temmuz 2016 darbe girişimi (başarısız oldu)'})
 events.append({'date': '2018-07-09', 'type': 'sistem', 'text': 'Cumhurbaşkanlığı hükûmet sistemi yürürlüğe girdi; başbakanlık kaldırıldı'})
+# Vekâleten görev yapanlar (Anayasa gereği Meclis/Senato başkanı)
+ACTING = {'1938-11-10': 'Abdülhalik Renda (TBMM Başkanı)', '1973-03-28': 'Tekin Arıburun (Cumhuriyet Senatosu Başkanı)',
+          '1980-04-06': 'İhsan Sabri Çağlayangil (Cumhuriyet Senatosu Başkanı)', '1993-04-17': 'Hüsamettin Cindoruk (TBMM Başkanı)'}
+for p in pres_full:
+    if p['name'] == 'Vekâleten' and p['start'] in ACTING:
+        p['name'] = 'Vekâleten — ' + ACTING[p['start']]
+# Osmanlı ve erken Cumhuriyet dönemi kurumsal olayları
+SULTANS = [{'name': 'I. Abdülmecid', 'start': '1839-07-02', 'end': '1861-06-25'}, {'name': 'Abdülaziz', 'start': '1861-06-25', 'end': '1876-05-30'},
+           {'name': 'V. Murad', 'start': '1876-05-30', 'end': '1876-08-31'}, {'name': 'II. Abdülhamid', 'start': '1876-08-31', 'end': '1909-04-27'},
+           {'name': 'V. Mehmed Reşad', 'start': '1909-04-27', 'end': '1918-07-03'}, {'name': 'VI. Mehmed Vahdeddin', 'start': '1918-07-04', 'end': '1922-11-01'}]
+for su in SULTANS:
+    if su['start'] >= '1876':
+        events.append({'date': su['start'], 'type': 'padişah', 'text': '%s tahta çıktı' % su['name']})
+for d, t, x in [
+    ('1876-12-23', 'sistem', 'Kanun-i Esasi ilan edildi (I. Meşrutiyet)'),
+    ('1877-03-19', 'sistem', 'Meclis-i Umumi (Meclis-i Mebusan ve Âyan) ilk kez toplandı'),
+    ('1878-02-14', 'sistem', 'II. Abdülhamid Meclis-i Mebusan\'ı süresiz tatil etti'),
+    ('1908-07-23', 'sistem', 'II. Meşrutiyet ilan edildi'),
+    ('1908-12-17', 'sistem', 'Meclis-i Mebusan yeniden açıldı'),
+    ('1909-04-13', 'olay', '31 Mart Vakası'),
+    ('1913-01-23', 'darbe', 'Bâbıâli Baskını'),
+    ('1918-10-30', 'olay', 'Mondros Mütarekesi imzalandı'),
+    ('1918-12-21', 'sistem', 'VI. Mehmed Meclis-i Mebusan\'ı feshetti'),
+    ('1920-01-12', 'sistem', 'Son Meclis-i Mebusan İstanbul\'da açıldı'),
+    ('1920-01-28', 'olay', 'Misak-ı Millî Meclis-i Mebusan\'da kabul edildi'),
+    ('1920-03-16', 'olay', 'İstanbul İtilaf Devletlerince resmen işgal edildi'),
+    ('1920-04-23', 'sistem', 'Büyük Millet Meclisi Ankara\'da açıldı'),
+    ('1921-01-20', 'sistem', 'Teşkilât-ı Esasiye Kanunu kabul edildi'),
+    ('1921-05-10', 'olay', 'TBMM\'de Müdâfaa-i Hukuk (Birinci) Grubu kuruldu'),
+    ('1922-07', 'olay', 'Muhalif İkinci Grup resmen kuruldu'),
+    ('1922-11-01', 'sistem', 'Saltanat kaldırıldı'),
+    ('1923-10-29', 'sistem', 'Cumhuriyet ilan edildi'),
+    ('1924-03-03', 'sistem', 'Halifelik kaldırıldı'),
+    ('1924-04-20', 'sistem', '1924 Anayasası (Teşkilât-ı Esasiye) kabul edildi'),
+    ('1934-12-05', 'sistem', 'Kadınlara milletvekili seçme ve seçilme hakkı tanındı'),
+    ('1961-07-09', 'sistem', '1961 Anayasası halkoylamasıyla kabul edildi'),
+    ('1982-11-07', 'sistem', '1982 Anayasası halkoylamasıyla kabul edildi'),
+    ('2007-10-21', 'sistem', 'Cumhurbaşkanının halk tarafından seçilmesi halkoylamasıyla kabul edildi'),
+    ('2017-04-16', 'sistem', 'Cumhurbaşkanlığı hükûmet sistemi halkoylamasıyla kabul edildi')]:
+    events.append({'date': d, 'type': t, 'text': x})
 events.sort(key=lambda e: e['date'])
 
 # parti tam adı -> renk anahtarı (data/parties.json) eşlemesi
@@ -267,9 +307,9 @@ hist = {
     'nameKeys': name_keys,
     'governments': govs, 'presidents': pres_full,
     'viziers': viziers,
-    'sultans': [{'name': 'I. Abdülmecid', 'start': '1839-07-02', 'end': '1861-06-25'}, {'name': 'Abdülaziz', 'start': '1861-06-25', 'end': '1876-05-30'},
-                {'name': 'V. Murad', 'start': '1876-05-30', 'end': '1876-08-31'}, {'name': 'II. Abdülhamid', 'start': '1876-08-31', 'end': '1909-04-27'},
-                {'name': 'V. Mehmed Reşad', 'start': '1909-04-27', 'end': '1918-07-03'}, {'name': 'VI. Mehmed Vahdeddin', 'start': '1918-07-04', 'end': '1922-11-01'}], 'parliament': parl, 'parties': parties, 'renames': RENAMES, 'events': events,
+    'sultans': SULTANS,
+    'tbmmHead': {'name': 'Mustafa Kemal', 'title': 'TBMM Başkanı', 'start': '1920-04-24', 'end': '1923-10-29',
+                 'note': 'Saltanatın kaldırılmasına (1 Kasım 1922) dek İstanbul\'da padişah, Ankara\'da TBMM Başkanı vardı; Cumhuriyet\'in ilanına dek devlet başkanlığı yetkisini TBMM Başkanı kullandı.'}, 'parliament': parl, 'parties': parties, 'renames': RENAMES, 'events': events,
 }
 json.dump(hist, open(os.path.join(ROOT, 'data', 'history.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 print('hükûmet', len(govs), 'cumhurbaşkanı', len(pres_full), 'meclis', len(parl), 'parti', len(parties), 'olay', len(events))

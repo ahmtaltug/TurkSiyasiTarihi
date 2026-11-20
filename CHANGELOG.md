@@ -1,5 +1,26 @@
 # Değişiklik günlüğü
 
+## 3.0.0 — 2026-11-20 (son sürüm)
+
+### Tarihsel düzeltmeler
+- İstibdat dönemi (1878–1908) grafikte yeniden gerçek ölçeğinde; "İstibdat: Meclis kapalı" diye işaretli.
+- I. TBMM: "grup yok" ifadesi kaldırıldı. Bilgi kutusu, Birinci Meclis'te parti olmadığını; Birinci Grubun 10 Mayıs 1921'de, İkinci Grubun Temmuz 1922'de kurulduğunu ve grup sayılarının derlenmediğini açıklar. Son Meclis-i Mebusan (1920) için Felâh-ı Vatan notu.
+- 1920–1923 arasında devlet başkanı bandında TBMM Başkanı Mustafa Kemal (saltanatın kaldırılmasına dek padişahla birlikte).
+- Vekâleten cumhurbaşkanlığı dönemlerinde vekilin adı: Abdülhalik Renda (1938), Tekin Arıburun (1973), İhsan Sabri Çağlayangil (1980), Hüsamettin Cindoruk (1993).
+- 1919 meclisi, Meclis'in kapalı olduğu aralığın üzerine taşmıyor.
+- Meclis'in kapalı olduğu iki aralık eklendi: 28 Haziran – 13 Aralık 1877 (iki dönem arası) ve 18 Ocak – 18 Nisan 1912 (fesih ve erken seçim).
+- Hürriyet ve İtilaf Fırkası'nın ilk faaliyet dönemi Haziran 1913'te (Mahmud Şevket Paşa suikastı sonrası) biter; kaynak bilgi kutusu Bâbıâli Baskını tarihini veriyordu.
+
+### Proje sayfası
+- README yeniden yazıldı (ekran görüntüleri, kapsam, kaynaklar); `CITATION.cff` atıf dosyası; sosyal medya önizleme görseli (`icons/og.jpg`).
+- Grafikte 1920 öncesinde fareyle gezinme çalışmıyordu; düzeltildi.
+
+### Yeni
+- 30 kurumsal olay: Kanun-i Esasi, Meclis-i Umumi'nin açılışı ve tatili, II. Meşrutiyet, 31 Mart Vakası, Mondros, Misak-ı Millî, İstanbul'un işgali, TBMM'nin açılışı, Teşkilât-ı Esasiye, saltanat ve halifeliğin kaldırılması, 1924, 1961 ve 1982 anayasaları, kadınlara seçme ve seçilme hakkı (1934), 2007 ve 2017 halkoylamaları, padişahların tahta çıkışı.
+- Siyasi tarih paylaşılabilir bağlantı: `#v=tarih&t=chart&d=1960-05-27` gibi; "Bağlantıyı kopyala" düğmesi.
+- Olaylar listesinde bir olaya tıklayınca animasyon o tarihe gider.
+- Grafik pencere boyutu değişince yeniden çizilir; olay etiketleri üç satıra dağıtılarak çakışmaz.
+
 ## 2.3.0 — 2026-11-20
 - Siyasi tarihe Osmanlı sadrazamları (1876–1922, 43 dönem) eklendi: grafikte, bilgi kutusunda ve hükûmetler sekmesinde ayrı tabloda. Kaynak: Vikipedi "Osmanlı sadrazamları listesi" (31 Mart Vakası tarihi Rumi takvimden düzeltildi).
 - İstibdat dönemi (1879–1907, Meclis kapalı) grafikte kısaltılmış ölçekte.

@@ -1,40 +1,102 @@
-# Türkiye Seçim Atlası (1840–2026)
+<div align="center">
 
-Osmanlı ve Türkiye Cumhuriyeti seçimlerini **döneminin il, sancak ve vilayet sınırlarıyla** gösteren etkileşimli harita.
-Sunucu gerektirmeyen statik bir sitedir; GitHub Pages, Netlify ya da Cloudflare Pages üzerinde ücretsiz barındırılabilir.
+# Türkiye Seçim Atlası
+
+**1840'tan bugüne Osmanlı ve Türkiye Cumhuriyeti seçimleri, döneminin sınırlarıyla haritada.**<br>
+Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi olaylarla birlikte.
+
+[**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
+
+[![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.0.0-8d1c1c)
+![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
+![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
+
+<img src="docs/img/harita.jpg" alt="2023 milletvekili genel seçiminde illere göre birinci parti haritası" width="900">
+
+</div>
+
+## Neler var
+
+| | |
+|---|---|
+| **88 seçim kaydı** | 1840 Muhassıllık meclisleri, 1877–1919 Meclis-i Mebusan, 1920–1946 TBMM seçimleri, 1950–2023 genel ve yerel seçimler, Senato seçimleri, halkoylamaları, cumhurbaşkanlığı seçimleri ve 2026 ara seçimi. |
+| **Döneminin sınırları** | Osmanlı'da vilayet ve sancaklar, Cumhuriyet'te o yılın illeri ve adları (ör. Seyhan, Çoruh, Urfa, İçel). Tahmine dayanan sınırlar haritada taralıdır. |
+| **Siyasi tarih** | 1876'dan bugüne meclis sandalye dağılımı, padişahlar, sadrazamlar, cumhurbaşkanları, başbakanlar, 73 hükûmet ve koalisyonları, güvenoyları, 60 parti ve ittifakın soy ağacı, 228 olay. |
+| **Analiz** | İki seçimi yan yana karşılaştırma, aynı türdeki önceki seçime göre il il değişim, il ve parti geçmişi, demografik göstergelerle korelasyon. |
+| **Kaynak şeffaflığı** | Her kayıtta güvenilirlik rozeti ve kaynak bağlantısı; neyin nasıl doğrulandığı [doğrulama raporunda](docs/DOGRULAMA.md). |
+
+<table>
+<tr>
+<td width="50%"><img src="docs/img/siyasi-tarih.jpg" alt="Meclis, hükûmet ve devlet başkanları grafiği"><br><sub><b>Siyasi tarih:</b> Meclis dağılımı, hükûmetler ve devlet başkanları tek grafikte.</sub></td>
+<td width="50%"><img src="docs/img/karsilastirma.jpg" alt="2018 ve 2023 seçimlerinin yan yana karşılaştırılması"><br><sub><b>Karşılaştırma:</b> İki seçim eşzamanlı haritalarda; il il farklar panelde.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/img/osmanli-1912.jpg" alt="1912 Meclis-i Mebusan seçimi, koyu tema"><br><sub><b>Osmanlı dönemi:</b> 1912 seçimi, sancak başına mebus sayısı (koyu tema).</sub></td>
+<td><img src="docs/img/animasyon.jpg" alt="Olaylar ve animasyon görünümü"><br><sub><b>Olaylar ve animasyon:</b> Seçilen tarihteki meclis, hükûmet ve olaylar.</sub></td>
+</tr>
+</table>
+
+## Özellikler
+
+**Harita**
+- Görünümler: birinci parti ya da aday, partinin oy oranı, katılım, vekil sayısı, grup payı ve önceki seçime göre değişim.
+- Zaman atlamalı oynatma (0,5×–4×); iki seçim arasındaki siyasi olaylar haritanın üzerinde gösterilir.
+- İl kartı: oylar, sandalyeler, 1950 öncesi için vekil adları, ilin nüfus göstergeleri ve aynı türdeki bütün seçimlerdeki geçmişi.
+- Parti kartı: ülke geneli oy geçmişi ile kuruluş, kapanış, ad değişiklikleri, öncül ve ardıl partiler, ittifaklar.
+- Karşılaştırma modu, demografik saçılım grafiği, sıralanabilir il tablosu, il arama, CSV indirme.
+
+**Siyasi tarih**
+- *Meclis ve hükûmetler:* 1876'dan bugüne tek grafik. Meclisin kapalı olduğu dönemler (İstibdat, 1960 ve 1980 askerî yönetimleri) taralıdır.
+- *Hükûmetler ve güvenoyu:* Cumhuriyet hükûmetleri ve Osmanlı sadrazamları tablosu.
+- *Partiler:* Faaliyet dönemleri ve ad değişiklikleriyle zaman çizelgesi; tıklayınca soy ağacı açılır.
+- *Olaylar ve animasyon:* 1876'dan bugüne oynatılabilir zaman.
+
+**Kullanım kolaylığı**
+- Her görünüm paylaşılabilir bağlantıyla açılır (ör. `#e=1946&u=istanbul`, `#v=tarih&t=chart&d=1960-05-27`).
+- Açık ve koyu tema (tarayıcı tercihine göre), mobil uyumlu arayüz, klavye kısayolları (← → boşluk / Esc).
+- Çevrimdışı çalışır ve telefona uygulama olarak eklenebilir (PWA).
+
+<img src="docs/img/mobil.jpg" alt="Mobil görünüm" width="260" align="right">
 
 ## Kapsam
 
 | Dönem | Seçimler | Haritada gösterilen |
 |---|---|---|
-| 1840 | Muhassıllık meclisleri | Açıklama. Derlenmiş seçim sonucu olmadığı için harita yok. |
-| 1877–1919 | Meclis-i Mebusan: 1877 (I ve II), 1908, 1912, 1914, 1919 | Vilayet ya da sancak başına mebus sayısı. Kaynakta varsa dinî, etnik ya da siyasi mensubiyet. |
-| 1920–1946 | TBMM I.–VIII. dönem seçimleri | İl (liva) başına milletvekili ve parti. 1946 için yaklaşık il oyları. |
-| 1930–1946 | Belediye seçimleri | 1930: SCF'nin kazandığı belediyeler ve il merkezleri. 1934–1946: yalnız dönemin sınırları. |
-| 1950–2024 | 20 genel, 15 yerel (belediye başkanlığı ve il genel meclisi), 8 Senato, 7 halkoylaması, 4 cumhurbaşkanlığı (2014, 2018, 2023 iki tur) | İl düzeyinde oy, oran, sandalye ve katılım. |
-| 2026 | 7 Haziran 2026 mahalli idareler ara seçimi | Seçim yapılan birimlerin il toplamı. |
+| 1840 | Muhassıllık meclisleri | Açıklama (derlenmiş sonuç yok) |
+| 1877–1919 | Meclis-i Mebusan: 1877 (I ve II), 1908, 1912, 1914, 1919 | Vilayet ya da sancak başına mebus sayısı; kaynakta varsa mensubiyet |
+| 1920–1946 | TBMM I.–VIII. dönem seçimleri | İl başına milletvekili ve parti; 1946 için yaklaşık il oyları |
+| 1930–1946 | Belediye seçimleri | 1930'da SCF'nin kazandığı belediyeler; diğer yıllarda dönemin sınırları |
+| 1950–2024 | 20 genel, 15 yerel, 8 Senato, 7 halkoylaması, 4 cumhurbaşkanlığı seçimi | İl düzeyinde oy, oran, sandalye, katılım |
+| 2026 | 7 Haziran 2026 ara seçimi | Seçim yapılan birimlerin il toplamı |
 
-Toplam 88 kayıt vardır. Canlı site: **https://ahmtaltug.github.io/TurkSiyasiTarihi/**
+<br clear="right">
 
-### Özellikler
-- **Harita görünümleri:** birinci parti ya da aday, seçilen partinin oy oranı, katılım, vekil sayısı, grup payı ve **değişim** (aynı türden bir önceki seçime göre il il puan farkı).
-- **Zaman atlamalı oynatma:** "Oynat" düğmesi seçili dönem ve türlerdeki seçimleri sırayla gösterir (hız 0,5×–4×; boşluk tuşu). Örneğin yalnız "Genel seçim" açıkken 1877'den 2023'e milletvekili seçimleri art arda oynar.
-- **Ayrıntılar:** Bir il ya da vilayete tıklayınca oylar, sandalyeler ve 1950 öncesi için vekil adları açılır. Sıralanabilir birim tablosu da vardır.
-- **Paylaşma ve indirme:** Adres çubuğu görünümü saklar (ör. `#e=1946&u=istanbul&m=winner`). "Bağlantıyı kopyala" ve "CSV indir" düğmeleri bulunur.
+## Veri ve güvenilirlik
 
-- **Veri güvenilirliği:** Her kayıtta kaynağın türünü gösteren bir rozet vardır (resmî kaynak, ansiklopedik derleme, kısmi/yaklaşık, sonuç verisi yok). Sınırı tahmine dayanan birimler haritada ince çapraz taramayla işaretlidir.
-- **İl geçmişi ve meclis grafiği:** 1950 sonrası bir ilin aynı türdeki bütün seçimleri tek tabloda listelenir; genel seçimlerde ve Senato seçimlerinde sandalye dağılımı yarım daire grafikle gösterilir.
+| Veri | Kaynak |
+|---|---|
+| 1950–2026 sonuçları, 1950–1999 il sınırları | [Türkiye Seçim Haritası açık veri seti](https://github.com/hamiKumbasae/turkiye-secim-haritasi) (CC BY-SA 4.0; YSK, TÜİK/DİE ve Vikipedi'ye dayanır) |
+| 1877–1946 vekil listeleri, hükûmetler, sadrazamlar, cumhurbaşkanları, parti soy ağacı | Türkçe Vikipedi (CC BY-SA 4.0) |
+| İl nüfusu, alan, kişi başı GSYH, yaşam beklentisi | Türkçe ve İngilizce Vikipedi tabloları (TÜİK verisine dayanır) |
+| Arka plan haritası, Osmanlı vilayetlerinin dayandığı bölgeler | [Natural Earth](https://www.naturalearthdata.com/) (kamu malı) |
 
-- **Koyu tema:** Tarayıcı tercihine göre açılır, sağ üstten değiştirilebilir.
-- **Parti geçmişi ve il arama:** Ülke geneli çubuklarından bir partiye tıklayınca, partinin aynı türdeki seçimlerdeki oy oranı grafikle gösterilir. Haritanın sağ üstündeki kutuyla il aranır (kısayol: `/`).
-- **Siyasi tarih (2.0):** 1920'den bugüne meclis sandalye dağılımı, cumhurbaşkanları, başbakanlar ve hükûmetler tek grafikte (koalisyonlar ve güvenoyu alamayan hükûmetler işaretli); hükûmetler tablosu; partilerin kuruluş, kapanış, ad değişikliği, öncül/ardıl ve ittifak bilgisiyle zaman çizelgesi; 1908'den bugüne oynatılabilir olay animasyonu.
-- **Karşılaştırma modu:** İki seçim yan yana, eşzamanlı iki haritada; il bazında değişen birinci partiler ve puan farkları.
-- **Demografik karşılaştırma:** İl nüfusu, yoğunluk, nüfus artışı, kişi başı GSYH ve yaşam beklentisi ile seçim sonucunun saçılım grafiği ve korelasyonu.
-- **Hızlı ve çevrimdışı:** Komşu seçimler önceden yüklenir. Service worker sayesinde açılmış seçimler internetsiz de görüntülenebilir; site telefona uygulama gibi eklenebilir.
+Her seçim kaydında bir **güvenilirlik rozeti** bulunur: resmî kaynak, ansiklopedik derleme, kısmi/yaklaşık ya da sonuç verisi yok.
+Başlıca sınırlamalar:
 
-Neyin nasıl doğrulandığı için [docs/DOGRULAMA.md](docs/DOGRULAMA.md), sürüm geçmişi için [CHANGELOG.md](CHANGELOG.md), planlanan işler için [ROADMAP.md](ROADMAP.md) dosyasına bakın.
+- 1950 öncesi sınırlar yaklaşıktır. 1950 öncesinde il düzeyinde oy yoktur; vekil sayıları ve mensubiyetler gösterilir.
+- 1908–1914 mensubiyetleri Vikipedi listelerinin sınıflandırmasıdır ve literatürdeki toplu rakamlarla uyuşmayabilir.
+- Siyasi tarih verisi birincil kaynaklarla (TBMM tutanakları, Resmî Gazete) karşılaştırılmadı. Meclis grafiği seçim sonrası durumu gösterir.
+- Demografik göstergeler günümüz il sınırlarına göredir. İl düzeyinde kentleşme ve göç verisi yoktur; korelasyon nedensellik göstermez.
 
-## Ücretsiz yayınlama (GitHub Pages)
+Ayrıntılar: [docs/DOGRULAMA.md](docs/DOGRULAMA.md) · Sürüm geçmişi: [CHANGELOG.md](CHANGELOG.md) · Olası gelecek çalışmalar: [ROADMAP.md](ROADMAP.md)
+
+## Atıf
+
+Bu projeyi kullanırsanız [CITATION.cff](CITATION.cff) dosyasındaki bilgilerle atıf yapabilirsiniz; GitHub'daki **Cite this repository** düğmesi de aynı bilgiyi verir.
+Veriyi kullanırken asıl kaynaklarına da atıf yapın.
+
+## Kendi kopyanızı yayınlamak (GitHub Pages)
 
 1. GitHub'da **Settings → Pages → Build and deployment → Source: GitHub Actions** seçin.
 2. `main` dalına her push'ta `.github/workflows/pages.yml` veriyi denetler ve siteyi yayınlar.
@@ -70,6 +132,17 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/validate.py` | Seçim dosyalarının ve sınırların tutarlılığını denetler; CI'da da çalışır. |
 | `tests/smoke.js` | Tarayıcı testi: bütün seçimleri ve görünümleri açar; CI'da her PR'da çalışır. |
 
+### Proje yapısı
+
+| Yol | İçerik |
+|---|---|
+| `index.html`, `css/`, `js/app.js` | Harita bölümü |
+| `js/history.js` | Siyasi tarih bölümü (meclis–hükûmet grafiği, hükûmetler, partiler, olay animasyonu) |
+| `data/elections/`, `data/geo/` | Seçim sonuçları ve dönem sınırları (TopoJSON) |
+| `data/history.json`, `data/demographics.json` | Siyasi tarih ve il demografisi |
+| `sources/wikipedia/` | Derlemede kullanılan Vikipedi metinlerinin sabit kopyaları |
+| `sw.js`, `manifest.webmanifest` | Çevrimdışı önbellek ve uygulama bildirimi |
+
 ### Veri biçimi
 
 `data/index.json` seçimlerin listesidir. `data/elections/<id>.json` dosyalarında şu alanlar bulunur:
@@ -77,7 +150,7 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 `data/geo/<geo>.json` TopoJSON biçimindedir ve özellik kimlikleri `units` anahtarlarıyla eşleşir.
 Yeni bir seçim eklemek için aynı biçimde bir dosya yazmak ve `scripts/build_index.py`'yi çalıştırmak yeterlidir.
 
-## Yöntem ve sınırlamalar
+## Yöntem ve sınırlamalar (ayrıntılı)
 
 - **1950 öncesi sınırlar yaklaşıktır.** Türkiye içindeki birimler, günümüz ilçelerinin o yıldaki il ya da sancak bağlılığına göre
   birleştirildi. Bu, kaldırılan illeri (Gelibolu, Ergani, Genç, Siverek, Kozan, Cebelibereket, Şebinkarahisar, Aksaray, Oltu,

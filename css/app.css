@@ -453,3 +453,7 @@ dialog.wide::backdrop { background: rgba(0,0,0,.4); }
   .history-view .hd-head h2 { display: none; }
 }
 .hchart .gapt { font-size: 12px; font-weight: 600; fill: var(--text2); paint-order: stroke; stroke: var(--soft2); stroke-width: 4px; }
+.et-padişah { background: #efe6d6; color: #6b5226; } .et-olay { background: #e3eef0; color: #2c5d66; }
+:root[data-theme="dark"] .et-padişah { background: #3a301e; color: #e2c48f; } :root[data-theme="dark"] .et-olay { background: #1c3237; color: #9fd0d8; }
+.a-events li[data-d] { cursor: pointer; } .a-events li[data-d]:hover { background: var(--row-hover); }
+#histShare { margin-left: auto; }

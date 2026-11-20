@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Bu projeyi kullanırsanız lütfen aşağıdaki biçimde atıf yapın. Veriyi kullanırken asıl kaynaklarına (YSK, TÜİK, Vikipedi, Türkiye Seçim Haritası veri seti) da atıf yapın."
+title: "Türkiye Seçim Atlası (1840–2026)"
+type: software
+authors:
+  - alias: ahmtaltug
+version: 3.0.0
+date-released: 2026-11-20
+url: "https://ahmtaltug.github.io/TurkSiyasiTarihi/"
+repository-code: "https://github.com/ahmtaltug/TurkSiyasiTarihi"
+license: MIT
+keywords:
+  - Türkiye
+  - Osmanlı İmparatorluğu
+  - seçimler
+  - siyasi tarih
+  - harita
