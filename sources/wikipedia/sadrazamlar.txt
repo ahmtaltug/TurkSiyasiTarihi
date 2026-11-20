@@ -1,0 +1,3002 @@
+[[Dosya:Sadrazamlik-nisanlari.svg|küçükresim|sağ|upright=0.68|Osmanlı sadrazam nişanı]]
+'''Sadrazam''' ({{dil|ota|صدر اعظم|çeviri=Ṣadr-i Âʿẓam}}) ya da '''vezîr-i âzam''' ({{Dil|ota|وزیر اعظم|çeviri=Vezîr-i Âʿẓam}}‎), [[Osmanlı İmparatorluğu]]'nda [[padişah]] adına devlet işlerini yöneten, bugünkü başbakanlık makamına denk gelen en yüksek derecedeki [[devlet adamı]].
+[[Sadrazam]]lık yapmış kişilerin isimleri Osmanlı tarihi dönemlerine göre şu listelerde bulunmaktadır:
+
+* (1299-1453): [[Kuruluş dönemi Osmanlı sadrazamları listesi]]
+* (1453-1579): [[Yükseliş dönemi Osmanlı sadrazamları listesi]]
+* (1579-1699): [[Duraklama dönemi Osmanlı sadrazamları listesi]]
+* (1699-1773): [[Gerileme dönemi Osmanlı sadrazamları listesi]]
+* (1773-1922): [[Dağılma dönemi Osmanlı sadrazamları listesi]]
+
+[[Osmanlı İmparatorluğu]]'nda Kuruluş dönemi 11, Yükseliş dönemi 34, Duraklama Dönemi 82, Gerileme dönemi 48 ve Çöküş dönemi 117 olmak üzere toplam 292 [[sadrazam]] ataması yapıldı. Birden fazla aynı göreve gelen sadrazamlar sayılmazsa, toplamda 218 farklı isim Osmanlı Sadrazamı olarak görev yaptı.
+[[Osmanlı İmparatorluğu]] 623 sene hüküm sürdü. 36 padişah görev yapmış bazıları birden fazla sürelerle görev yaptığında toplamda 39 defa padişahlık [[Cülûs|cülusu]] ve toplam 292 defa sadrazam ataması yapıldı.
+En uzun süre sadrazamlık görevini 1364-1387 yılları arasında toplam 22 yıl süreyle [[Çandarlı Kara Halil Hayrettin Paşa]] yapmıştır.
+En kısa süre sadrazamlık görevini 5 Mart 1656 tarihinde 4 saat süreyle [[Zurnazen Mustafa Paşa]] yapmıştır.
+En fazla sadrazam atamasını 18 sadrazamla [[IV. Mehmed]] yaptı.
+En az sadrazam ataması 1 sadrazamla [[I. Bayezid]]'dir.
+En fazla sadrazamlık görevine 9 kez atanan [[Mehmed Said Paşa]]'dır.
+
+Osmanlıların ilk devirlerinde divanda ulema sınıfından gelme yalnız bir vezir vardı. Daha sonra vezir sayısı artınca birinci vezire vezir-i azam denildi. [[I. Murad]] devrinde [[Çandarlı Ali Paşa]] vezirken [[Kara Timurtaş Paşa]]'ya da vezirlik verilince Ali Paşa'ya birinci vezir yani vezir-i azam denilmişti.{{kdş|Uzunçarşılı|1988|s=502}}
+
+== Sadrazamların listesi ==
+
+{| class="wikitable" style="text-align: center; font-size:90%;"
+|-
+! #
+! Sadrazam
+! Geldiği tarih
+! Gittiği tarih
+! Görev süresi
+! Dönem padişahı
+! Kaynak
+|-
+| colspan="7" |{{Küçük|'''''1299-1453 Kuruluş dönemi Sadrazamları'''''}}
+|- style="border-top:2px solid grey;"  |
+| rowspan="2" | 1
+| rowspan="2" | [[Alâüddin Paşa]]
+| 1320
+| 1324
+| {{Yıla göre zaman|1320|1324}} yıl
+| [[I. Osman]]
+
+| {{kdş|Danişmend|1971|s=7}}{{kdş|Uzunçarşılı|1988|s=581}}{{kdş|Çoban|2005|s=10}}<ref>{{kitap kaynağı|soyadı=İnalcık|ad=Halil|yazarbağı=Halil İnalcık|başlık=Kuruluş Dönemi Osmanlı Sultanları (1302-1481)|yıl=2010|yayıncı=Türkiye Diyanet Vakfı İslam Araştırmaları Merkezi|isbn=9786055586065|yer=İstanbul|sayfa=24}}</ref>{{#tag:ref|[[Alâüddin Paşa]]'nın vezir oluşuyla ilgili olarak [[İsmail Hami Danişmend]] 1320 yılını, [[Joseph von Hammer-Purgstall]] klasik Osmanlı tarihlerine atıfla 1326 ya da 1328 yıllarını, [[Osmanzâde Ahmed Tâib]] 1328 yılını vermektedir. [[Halil İnalcık]] ise [[I. Osman]]'ın son zamanlarında Alâüddin Paşa'nın görev yapmakta olduğunu aktarmaktadır.|group="not"}}
+|-
+| 1324
+| 1331
+| {{Yıla göre zaman|1324|1331}} yıl
+| rowspan="4" | [[Dosya:Paolo Veronese (1528-1588) (Nachfolger) - Sultan Orhan - 2236 - 69 x 54 cm. Bavarian State Painting Collections. Munich, Germany.jpg|orta|60x60pik]]<br/> [[Orhan Gazi]]
+|
+|-
+| 2
+| [[Nizamüddin Ahmed Paşa]]
+| 1331
+| 1348
+| {{Yıla göre zaman|1331|1348}} yıl
+| {{kdş|Danişmend|1971|s=8}}{{kdş|Uzunçarşılı|1988|s=581}}
+|-
+| 3
+| [[Hacı Paşa]]
+| 1348
+| 1360
+| {{Yıla göre zaman|1348|1360}} yıl
+| {{kdş|Danişmend|1971|s=8}}{{kdş|Uzunçarşılı|1988|s=582}}
+|-
+| rowspan="2" | 4
+| rowspan="2" |  [[Sinanüddin Fakih Yusuf Paşa]]
+| 1360
+| Mart 1362
+| {{Yıla göre zaman|1360|1362}} yıl
+| {{kdş|Danişmend|1971|s=8}}
+|-
+| Mart 1362
+| 1364
+| {{Yıla göre zaman|1362|1364}} yıl
+| rowspan="3" | [[I. Murad]]
+| {{kdş|Uzunçarşılı|1988|s=582}}
+|-
+| 5
+| [[Çandarlı Kara Halil Hayreddin Paşa]]
+| 1368
+| 1387
+| {{Yıla göre zaman|1368|1387}} yıl
+| {{kdş|Danişmend|1971|s=8}}{{kdş|Uzunçarşılı|1988|s=583}}{{kdş|Çoban|2005|s=11}}{{#tag:ref|[[Çandarlı Kara Halil Hayreddin Paşa]]'nın vezir oluşuyla ilgili olarak [[İsmail Hami Danişmend]] 1368, [[Osmanzâde Ahmed Tâib]] 1369, [[İsmail Hakkı Uzunçarşılı]] ile [[Joseph von Hammer-Purgstall]] 1371 yılını vermektedir.|group="not"}}
+|-
+| rowspan="3" | 6
+| rowspan="3" | [[Çandarlı Ali Paşa]]
+| 1387
+| Haziran 1389 
+| {{Yıla göre zaman|1387|1389}} yıl
+| {{kdş|Danişmend|1971|s=9}}
+|-
+| 16 Haziran 1389
+| 20 Temmuz 1402
+| {{Yıl ve güne göre yaş|1389|6|16|1402|7|20}}
+| [[I. Bayezid]]
+|{{kdş|Uzunçarşılı|1988|s=583}}
+|-
+| 20 Temmuz 1402
+| 1406
+| {{Yıla göre zaman|1402|1406}} yıl
+| [[Süleyman Çelebi (emir)|Süleyman Çelebi]]
+|{{kdş|Çoban|2005|s=12}}
+|-
+| 7
+| [[Osmancıklı İmamzâde Halil Paşa]]
+| 18 Aralık 1406
+| 1413
+| {{Yıla göre zaman|1406|1413}} yıl
+| rowspan="2" | [[I. Mehmed]]
+| {{kdş|Danişmend|1971|s=9}}
+|-
+| rowspan="2" |  8
+| rowspan="2" |  [[Bayezid Paşa]]
+| 1413
+| 26 Mayıs 1421
+| {{Yıla göre zaman|1413|1421}} yıl
+| {{kdş|Danişmend|1971|s=9}}
+|-
+| 26 Mayıs 1421
+| 1421
+| {{Yıla göre zaman|1421|1421}} yıl
+| rowspan="4" | [[Dosya:Paolo Veronese (Nachfolger) - Sultan Murad II. - 2237 - Bavarian State Painting Collections.jpg|orta|60x60pik]]<br/>  [[II. Murad]]
+| {{kdş|Uzunçarşılı|1988|s=584}}
+|-
+| 9
+| [[Çandarlı (1.) İbrahim Paşa]]
+| 1421
+| 1429
+| {{Yıla göre zaman|1421|1429}} yıl
+| {{kdş|Danişmend|1971|s=9}}{{kdş|Uzunçarşılı|1988|s=584}}
+|-
+| 10
+| [[Koca Mehmed Nizamüddin Paşa]]
+| 1429
+| 1438
+| {{Yıla göre zaman|1429|1438}} yıl
+| {{kdş|Danişmend|1971|s=9}}
+|-
+| rowspan="4" | 11
+| rowspan="4" | [[Çandarlı Halil Paşa]]
+| 1438
+| Ağustos 1444
+| {{Yıla göre zaman|1438|1444}} yıl
+| {{kdş|Danişmend|1971|s=9}}
+|-
+| Ağustos 1444
+| Eylül 1446
+| {{Yıla göre zaman|1444|1446}} yıl
+| [[II. Mehmed|Fâtih Sultan Mehmed]]
+| {{kdş|Uzunçarşılı|1988|s=585}}
+|-
+| Eylül 1446
+| 3 Şubat 1451
+| {{Yıla göre zaman|1446|1451}} yıl
+| [[II. Murad]]
+|
+|-
+| 3 Şubat 1451
+| 1453
+| {{Yıla göre zaman|1451|1453}} yıl
+| [[II. Mehmed|Fâtih Sultan Mehmed]]
+| 
+|- style="border-top:2px solid grey;"  |
+| colspan="7" | {{Küçük|'''''1453-1579 Yükseliş dönemi Sadrazamları'''''}}
+|- style="border-top:2px solid grey;"  |
+|12
+|[[Zağanos Paşa]]
+|1453
+|1456
+| {{Yıla göre zaman|1453|1456}} yıl
+| rowspan="8" |[[Dosya:Bellini, Gentile - Sultan Mehmet II.jpg|orta|93x93pik]]<br/> [[II. Mehmed|Fâtih Sultan Mehmed]]
+|
+|-
+|13
+|[[Veli Mahmud Paşa]]
+|1456
+|1466
+| {{Yıla göre zaman|1456|1466}} yıl
+|
+|-
+|14
+|[[Rum Mehmed Paşa]]
+|1466
+|1469
+| {{Yıla göre zaman|1466|1469}} yıl
+|
+|-
+|15
+|[[İshak Paşa]]
+|1469
+|1472
+| {{Yıla göre zaman|1469|1472}} yıl
+|
+|-
+|16
+|[[Veli Mahmud Paşa]]
+|1472
+|1474
+| {{Yıla göre zaman|1472|1474}} yıl
+|
+|-
+|17
+|[[Gedik Ahmed Paşa]]
+|1474
+|1476
+| {{Yıla göre zaman|1474|1476}} yıl
+|
+|-
+|18
+|[[Hoca Sinan Paşa]]
+|1476
+|1477
+| {{Yıla göre zaman|1476|1477}} yıl
+|
+|-
+|19
+|[[Karamanî Mehmed Paşa]]
+|1477
+|4 Mayıs 1481
+| {{Yıla göre zaman|1477|1481}} yıl
+|
+|-
+|'''(15)'''
+|[[İshak Paşa]]
+|1481
+|1482
+| {{Yıla göre zaman|1481|1482}} yıl
+| rowspan="10" |[[Dosya:Paolo Veronese (Nachfolger) - Sultan Bajozeth II. - 2246 - Bavarian State Painting Collections.jpg|orta|93x93pik]]<br/> [[II. Bayezid]]
+|
+|-
+|20
+|[[Koca Davut Paşa]]
+|1482
+|1497
+| {{Yıla göre zaman|1482|1497}} yıl
+|
+|-
+|21
+|[[Hersekli Ahmed Paşa]]
+|1497
+|1498
+| {{Yıla göre zaman|1497|1498}} yıl
+|
+|-
+|22
+|[[Çandarlı (2.) İbrahim Paşa]]
+|1498
+|1499
+| {{Yıla göre zaman|1498|1499}} yıl
+|
+|-
+|23
+|[[Mesih Paşa]]
+|1499
+|1501
+| {{Yıla göre zaman|1499|1501}} yıl
+|
+|-
+|24
+|[[Hadım Ali Paşa]]
+|1501
+|1503
+| {{Yıla göre zaman|1501|1503}} yıl
+|
+|-
+|'''(21)'''
+|[[Hersekli Ahmed Paşa]]
+|1503
+|1506
+| {{Yıla göre zaman|1503|1506}} yıl
+|
+|-
+|'''(24)'''
+|[[Hadım Ali Paşa]]
+|1506
+|1511
+| {{Yıla göre zaman|1506|1511}} yıl
+|
+|-
+|'''(21)'''
+|[[Hersekli Ahmed Paşa]]
+|1511
+|1511
+| {{Yıla göre zaman|1511|1511}} yıl
+|
+|-
+| rowspan="2" |25
+| rowspan="2" |[[Koca Mustafa Paşa]]
+|1511
+|24 Nisan 1512
+| {{Yıla göre zaman|1511|1512}} yıl
+|
+|-
+|24 Nisan 1512
+| 1512
+| {{Yıla göre zaman|1512|1512}} yıl
+| rowspan="8" |[[Dosya:Yavuz Sultan Selim Han (cropped).jpg|orta|93x93pik]]<br/>[[I. Selim|Yavuz Sultan Selim]]
+|
+|-
+|'''(21)'''
+|[[Hersekli Ahmed Paşa]]
+|1512
+|28 Kasım 1514
+| {{Yıla göre zaman|1512|1514}} yıl
+|
+|-
+|26
+|[[Dukakinoğlu Ahmed Paşa]]
+|18 Aralık 1514
+|Mart 1515
+| {{Yıla göre zaman|1514|1515}} yıl
+|
+|-
+|27
+|[[Hadım Sinan Paşa]]
+|18 Haziran 1515
+|23 Eylül 1515
+| {{Yıl ve güne göre yaş|1515|6|18|1515|9|23}}
+|
+|-
+|'''(21)'''
+|[[Hersekli Ahmed Paşa]]
+|23 Eylül 1515
+|26 Nisan 1516
+| {{Yıl ve güne göre yaş|1515|9|23|1516|4|26}}
+|
+|-
+|'''(27)'''
+|[[Hadım Sinan Paşa]]
+|26 Nisan 1516
+|22 Ocak 1517
+| {{Yıl ve güne göre yaş|1516|4|26|1517|1|22}}
+|
+|-
+|28
+|[[Yunus Paşa]]
+|22 Ocak 1517
+|13 Eylül 1517
+| {{Yıl ve güne göre yaş|1517|1|22|1517|9|13}}
+|
+|-
+| rowspan="2" |29
+| rowspan="2" |[[Pîrî Mehmed Paşa]]
+| 25 Ocak 1518
+| 30 Eylül 1520
+| {{Yıl ve güne göre yaş|1518|1|25|1520|9|30}}
+|
+|-
+| 30 Eylül 1520
+| 27 Haziran 1523
+| {{Yıl ve güne göre yaş|1520|9|30|1523|6|27}}
+| rowspan="10" |[[Dosya:EmperorSuleiman.jpg|orta|93x93pik]]<br/>[[Kanûnî Sultan Süleyman]]
+|
+|-
+|30
+|[[Pargalı İbrahim Paşa]]
+|27 Haziran 1523
+|14 Mart 1536
+|{{Yıl ve güne göre yaş|1523|6|27|1536|3|14}}
+|
+|-
+|31
+|[[Ayas Mehmed Paşa]]
+|14 Mart 1536
+|13 Temmuz 1539
+|{{Yıl ve güne göre yaş|1536|3|14|1539|7|13}}
+|
+|-
+|32
+|[[Lütfi Paşa]]
+|13 Temmuz 1539
+|Nisan 1541
+| {{Yıla göre zaman|1539|1541}} yıl
+|
+|-
+|33
+|[[Hadım Süleyman Paşa]]
+|Nisan 1541
+|28 Kasım 1544
+| {{Yıla göre zaman|1541|1544}} yıl
+|
+|-
+|34
+|[[Damat Rüstem Paşa]]
+|28 Kasım 1544
+|6 Ekim 1553
+|{{Yıl ve güne göre yaş|1544|11|28|1553|10|6}}
+|
+|-
+|35
+|[[Kara Ahmed Paşa]]
+|6 Ekim 1553
+|29 Eylül 1555
+|{{Yıl ve güne göre yaş|1553|10|6|1555|9|29}}
+|
+|-
+|'''(34)'''
+|[[Damat Rüstem Paşa]]
+|29 Eylül 1555
+|10 Temmuz 1561
+|{{Yıl ve güne göre yaş|1555|9|29|1561|7|10}}
+|
+|-
+|36
+|[[Semiz Ali Paşa]] 
+|10 Temmuz 1561
+|28 Haziran 1565
+|{{Yıl ve güne göre yaş|1561|7|10|1565|6|28}}
+|
+|-
+| rowspan="3" |37
+| rowspan="3" |[[Sokollu Mehmed Paşa]]
+|28 Haziran 1565
+|7 Eylül 1566
+|{{Yıl ve güne göre yaş|1565|6|28|1566|9|7}}
+|
+|-
+|7 Eylül 1566
+|15 Aralık 1574
+|{{Yıl ve güne göre yaş|1566|9|7|1574|12|15}}
+| [[II. Selim]]
+|
+|-
+|15 Aralık 1574
+|12 Ekim 1579
+|{{Yıl ve güne göre yaş|1574|12|15|1579|10|12}}
+| [[III. Murad]]
+|
+|- style="border-top:2px solid grey;"  |
+| colspan="7" | {{Küçük|'''''1579-1699 Duraklama dönemi Sadrazamları'''''}}
+|- style="border-top:2px solid grey;"  |
+| 38
+| [[Semiz Ahmed Paşa]]
+| 11 Ekim 1579
+| 28 Nisan 1580
+|{{Yıl ve güne göre yaş|1579|10|11|1580|10|12}}
+| rowspan="11" |[[Dosya:Paolo Veronese (Nachfolger) - Sultan Murad III. - 2239 - Bavarian State Painting Collections.jpg|orta|93x93pik]]<br/>[[III. Murad]]
+|
+|-
+|39
+| [[Lala Mustafa Paşa]]
+| 28 Nisan 1580
+| 7 Ağustos 1580
+|{{Yıl ve güne göre yaş|1580|4|28|1580|8|7}}
+|
+|-
+|40
+| [[Koca Sinan Paşa]]
+| 7 Ağustos 1580
+| 6 Aralık 1582
+|{{Yıl ve güne göre yaş|1580|8|7|1582|12|6}}
+|
+|-
+|41
+| [[Kanijeli Siyavuş Paşa]]
+| 24 Aralık 1582
+| 25 Temmuz 1584
+|{{Yıl ve güne göre yaş|1582|12|24|1584|7|25}}
+|
+|-
+|42
+| [[Özdemiroğlu Osman Paşa]]
+| 28 Temmuz 1584
+| 29 Ekim 1585
+|{{Yıl ve güne göre yaş|1584|7|28|1585|10|29}}
+|
+|-
+|43
+| [[Hadim Mesih Mehmed Paşa]]
+| 1 Kasım 1585
+| 14 Nisan 1586
+|{{Yıl ve güne göre yaş|1585|11|1|1586|4|14}}
+|
+|-
+|'''(41)'''
+| [[Kanijeli Siyavuş Paşa]]
+| 14 Nisan 1586
+| 2 Nisan 1589
+|{{Yıl ve güne göre yaş|1585|11|1|1586|4|14}}
+|
+|-
+|'''(40)'''
+| [[Koca Sinan Paşa]]
+| 14 Nisan 1589
+| 1 Ağustos 1591
+|{{Yıl ve güne göre yaş|1589|4|14|1591|8|1}}
+|
+|-
+|44
+| [[Serdar Ferhat Paşa]]
+| 1 Ağustos 1591
+| 4 Nisan 1592
+|{{Yıl ve güne göre yaş|1591|8|1|1592|4|4}}
+|
+|-
+|'''(41)'''
+| [[Kanijeli Siyavuş Paşa]]
+| 4 Nisan 1592
+| 28 Ocak 1593
+|{{Yıl ve güne göre yaş|1592|4|4|1593|1|28}}
+|
+|-
+| rowspan="2" |'''(40)'''
+| rowspan="2" | [[Koca Sinan Paşa]]
+| 28 Ocak 1593
+| 16 Ocak 1595
+|{{Yıl ve güne göre yaş|1593|1|28|1595|1|16}}
+|
+|-
+| 16 Ocak 1595
+| 16 Şubat 1595
+|{{Yıl ve güne göre yaş|1595|1|16|1595|2|16}}
+| rowspan="13" |[[Dosya:Sultan Mehmet III of the Ottoman Empire.jpg|orta|93x93pik]]<br/>[[III. Mehmed]]
+|
+|-
+|'''(44)'''
+| [[Serdar Ferhat Paşa]]
+| 16 Şubat 1595
+| 7 Temmuz 1595
+|{{Yıl ve güne göre yaş|1595|2|16|1595|7|7}}
+|
+|-
+|'''(40)'''
+| [[Koca Sinan Paşa]]
+| 7 Temmuz 1595
+| 19 Kasım 1595
+|{{Yıl ve güne göre yaş|1595|7|7|1595|11|19}}
+|
+|-
+|45
+| [[Tekeli Lala Mehmed Paşa]]
+| 19 Kasım 1595
+| 28 Kasım 1595
+|{{Yıl ve güne göre yaş|1595|11|19|1595|11|28}}
+|
+|-
+|'''(40)'''
+| [[Koca Sinan Paşa]]
+| 1 Aralık 1595
+| 3 Nisan 1596
+|{{Yıl ve güne göre yaş|1595|12|1|1596|4|3}}
+|
+|-
+|46
+| [[Damat İbrahim Paşa]]
+| 4 Nisan 1596
+| 27 Ekim 1596
+|{{Yıl ve güne göre yaş|1596|4|4|1596|10|27}}
+|
+|-
+|47
+| [[Yusuf Sinan Paşa]]
+| 27 Ekim 1596
+| 5 Aralık 1596
+|{{Yıl ve güne göre yaş|1596|10|27|1596|12|5}}
+|
+|-
+|'''(46)'''
+| [[Damat İbrahim Paşa]]
+| 5 Aralık 1596
+| 3 Kasım 1597
+|{{Yıl ve güne göre yaş|1596|12|5|1597|11|3}}
+|
+|-
+|48
+| [[Hadım Hasan Paşa]]
+| 3 Kasım 1597
+| 9 Nisan 1598
+|{{Yıl ve güne göre yaş|1597|11|3|1598|4|9}}
+|
+|-
+|49
+| [[Cerrah Mehmed Paşa]]
+| 9 Nisan 1598
+| 6 Ocak 1599
+|{{Yıl ve güne göre yaş|1598|4|9|1599|1|6}}
+|
+|-
+|'''(46)'''
+| [[Damat İbrahim Paşa]] 
+| 6 Ocak 1599
+| 10 Temmuz 1601
+|{{Yıl ve güne göre yaş|1599|1|6|1601|7|10}}
+|
+|-
+|50
+| [[Yemişçi Hasan Paşa]]
+| 22 Temmuz 1601
+| 4 Ekim 1603
+|{{Yıl ve güne göre yaş|1601|7|22|1603|10|4}}
+|
+|-
+| rowspan="2" |51
+| rowspan="2" | [[Malkoç Yavuz Ali Paşa]]
+| 16 Ekim 1603
+| 22 Aralık 1603
+|{{Yıl ve güne göre yaş|1603|10|16|1603|12|22}}
+|
+|-
+| 22 Aralık 1603
+| 26 Temmuz 1604
+|{{Yıl ve güne göre yaş|1603|12|22|1604|7|26}}
+| rowspan="7" |[[Dosya:صورة للشاهزاده أحمد 2013-12-19 09-18.jpg|orta|93x93pik]]<br/> [[I. Ahmed]]
+|
+|-
+|52
+| [[Sokolluzade Lala Mehmed Paşa]]
+| 5 Ağustos 1604
+| 21 Haziran 1606
+|{{Yıl ve güne göre yaş|1604|8|5|1606|6|21}}
+|
+|-
+|53
+| [[Boşnak Derviş Mehmed Paşa]]
+| 21 Haziran 1606
+| 9 Aralık 1606
+|{{Yıl ve güne göre yaş|1606|6|21|1606|12|9}}
+|
+|-
+|54
+| [[Kuyucu Murat Paşa]]
+| 11 Aralık 1606
+| 5 Ağustos 1611
+|{{Yıl ve güne göre yaş|1606|12|11|1611|8|5}}
+|
+|-
+|55
+| [[Nasuh Paşa]]
+| 5 Ağustos 1611
+| 17 Ekim 1614
+|{{Yıl ve güne göre yaş|1611|8|5|1614|10|17}}
+|
+|-
+|56
+| [[Öküz Mehmed Paşa]]
+| 17 Ekim 1614
+| 17 Kasım 1616
+|{{Yıl ve güne göre yaş|1614|10|17|1616|11|17}}
+|
+|-
+| rowspan="3" |57
+| rowspan="3" | [[Damat Halil Paşa]] 
+| 17 Kasım 1616
+| 22 Kasım 1617
+||{{Yıl ve güne göre yaş|1616|11|17|1617|11|22}}
+|
+|-
+| 22 Kasım 1617
+| 26 Şubat 1618
+|{{Yıl ve güne göre yaş|1617|11|22|1618|2|26}}
+| [[I. Mustafa|Deli Mustafa]]
+|
+|-
+| 26 Şubat 1618
+| 18 Ocak 1619
+||{{Yıl ve güne göre yaş|1618|2|26|1619|1|18}}
+| rowspan="5" |[[Dosya:Osman 2.jpg|orta|93x93pik]]<br/> [[II. Osman|Genç Osman]]
+|
+|-
+|'''(56)'''
+| [[Öküz Mehmed Paşa]]
+| 18 Ocak 1619
+| 23 Aralık 1619
+|{{Yıl ve güne göre yaş|1619|1|18|1619|12|23}}
+|
+|-
+|58
+| [[İstanköylü Çelebi (Güzelce) Ali Paşa]]
+| 23 Aralık 1619
+| 9 Mart 1621
+|{{Yıl ve güne göre yaş|1619|12|23|1621|3|9}}
+|
+|-
+|59
+| [[Ohrili Hüseyin Paşa]]
+| 9 Mart 1621
+| 17 Eylül 1621
+|{{Yıl ve güne göre yaş|1621|3|9|1621|9|17}}
+|
+|-
+|60
+| [[Dilaver Paşa]]
+| 17 Eylül 1621
+| 20 Mayıs 1622
+|{{Yıl ve güne göre yaş|1621|9|17|1622|5|20}}
+|
+|- 
+|'''(59)'''
+| [[Ohrili Hüseyin Paşa]]
+| 20 Mayıs 1622
+| 20 Mayıs 1622
+|{{Yıl ve güne göre yaş|1622|5|20|1622|5|20}}
+| rowspan="7" |[[Dosya:Mustafa I portrait.jpg|orta|93x93pik]]<br/> [[I. Mustafa|Deli Mustafa]]
+|
+|-
+|61
+| [[Kara Davut Paşa]]
+| 20 Mayıs 1622
+| 13 Haziran 1622
+|{{Yıl ve güne göre yaş|1622|5|20|1622|6|13}}
+|
+|-
+|62
+| [[Mere Hüseyin Paşa]]
+| 13 Haziran 1622
+| 8 Ağustos 1622
+|{{Yıl ve güne göre yaş|1622|6|13|1622|8|8}}
+|
+|-
+|63
+| [[Lefkeli Mustafa Paşa]]
+| 8 Ağustos 1622
+| 21 Eylül 1622
+|{{Yıl ve güne göre yaş|1622|8|8|1622|9|21}}
+|
+|-
+|64
+| [[Gürcü Hadim Mehmed Paşa]]
+| 21 Eylül 1622
+| 5 Şubat 1623
+|{{Yıl ve güne göre yaş|1622|9|21|1623|2|5}}
+|
+|-
+|'''(62)'''
+| [[Mere Hüseyin Paşa]]
+| 5 Şubat 1623 
+| 30 Ağustos 1623
+|{{Yıl ve güne göre yaş|1623|2|5|1623|8|30}}
+|
+|-
+| rowspan="2" |65
+| rowspan="2" |[[Kemankeş Kara Ali Paşa]]
+| 30 Ağustos 1623
+| 10 Eylül 1623
+||{{Yıl ve güne göre yaş|1623|8|30|1623|9|10}}
+|
+|-
+| 10 Eylül 1623
+| 3 Nisan 1624
+||{{Yıl ve güne göre yaş|1623|9|10|1624|4|3}}
+| rowspan="11" |[[Dosya:Murad IV.jpg|orta|93x93pik]]<br/>  [[IV. Murad]]
+|
+|-
+|66
+| [[Çerkes Mehmed Ali Paşa]] 
+| 3 Nisan 1624
+| 28 Ocak 1625
+|{{Yıl ve güne göre yaş|1624|4|3|1625|1|28}}
+|
+|-
+|67
+| [[Hafız Ahmed Paşa]]
+| 8 Şubat 1625
+| 1 Aralık 1626
+|{{Yıl ve güne göre yaş|1625|2|8|1626|12|1}}
+|
+|-
+|'''(57)'''
+| [[Damat Halil Paşa]]
+| 1 Aralık 1626
+| 6 Nisan 1628
+|{{Yıl ve güne göre yaş|1626|12|1|1628|4|6}}
+|
+|-
+|68
+| [[Hüsrev Paşa]]
+| 6 Nisan 1628
+| 25 Ekim 1631
+|{{Yıl ve güne göre yaş|1628|4|6|1631|10|25}}
+|
+|-
+|'''(67)'''
+| [[Hafız Ahmed Paşa]]
+| 25 Ekim 1631
+| 10 Şubat 1632
+|{{Yıl ve güne göre yaş|1631|10|25|1632|2|10}}
+|
+|-
+|69
+| [[Topal Recep Paşa]]
+| 10 Şubat 1632
+| 18 Mayıs 1632
+|{{Yıl ve güne göre yaş|1632|2|10|1632|5|18}}
+|
+|-
+|70
+| [[Tabanıyassı Mehmed Paşa]]
+| 18 Mayıs 1632
+| 2 Şubat 1637
+|{{Yıl ve güne göre yaş|1632|5|18|1637|2|2}}
+|
+|-
+|71
+| [[Bayram Paşa]]
+| 2 Şubat 1637
+| 26 Ağustos 1638
+|{{Yıl ve güne göre yaş|1637|2|2|1638|8|26}}
+|
+|-
+|72
+| [[Tayyar Mehmed Paşa]] 
+| 27 Ağustos 1638
+| 23 Aralık 1638
+|{{Yıl ve güne göre yaş|1638|8|27|1638|12|23}}
+|
+|-
+| rowspan="2" |73
+| rowspan="2" |[[Kemankeş Kara Mustafa Paşa]]
+| 23 Aralık 1638
+| 8 Şubat 1640
+|{{Yıl ve güne göre yaş|1638|12|23|1640|2|8}}
+|
+|-
+| 8 Şubat 1640
+| 31 Ocak 1644
+|{{Yıl ve güne göre yaş|1640|2|8|1644|1|31}}
+| rowspan="6" |[[Dosya:Ibrahim I.jpg|orta|93x93pik]]<br/>  [[İbrahim (Osmanlı padişahı)|I. İbrahim]]
+|
+|-
+|74
+| [[Sultanzade Mehmed Paşa]]
+| 31 Ocak 1644
+| 17 Aralık 1645
+|{{Yıl ve güne göre yaş|1644|1|31|1645|12|17}}
+|
+|-
+|75
+| [[Nevesinli Salih Paşa]]
+| 17 Aralık 1645
+| 16 Eylül 1647
+|{{Yıl ve güne göre yaş|1645|12|17|1647|9|16}}
+|
+|-
+|76
+| [[Kara Musa Paşa]]
+| 16 Eylül 1647
+| 21 Eylül 1647
+|{{Yıl ve güne göre yaş|1647|9|16|1647|9|21}}
+|
+|-
+|77
+| [[Hezarpare Ahmed Paşa]]
+| 21 Eylül 1647
+| 7 Ağustos 1648
+|{{Yıl ve güne göre yaş|1647|9|21|1648|8|7}}
+|
+|-
+| rowspan="2" |78
+| rowspan="2" | [[Sofu Mehmed Paşa]]
+| 7 Ağustos 1648
+| 8 Ağustos 1648
+|{{Yıl ve güne göre yaş|1648|8|7|1648|8|8}}
+|
+|-
+| 8 Ağustos 1648
+| 21 Mayıs 1649
+|{{Yıl ve güne göre yaş|1648|8|8|1649|5|21}}
+| rowspan="20" |[[Dosya:Sultan Mehmed IV (2).jpg|orta|93x93pik]]<br/>   [[IV. Mehmed]]
+|
+|-
+| 79
+| [[Kara Murad Paşa]]
+| 21 Mayıs 1649
+| 5 Ağustos 1651
+|{{Yıl ve güne göre yaş|1649|5|21|1651|8|5}}
+|
+|-
+| 80
+| [[Melek Ahmed Paşa]]
+| 5 Ağustos 1651
+| 21 Ağustos 1651
+|{{Yıl ve güne göre yaş|1651|8|5|1651|8|21}}
+|
+|-
+| 81
+| [[Siyavuş Paşa]]
+| 21 Ağustos 1651
+| 27 Eylül 1651
+|
+|
+|-
+| 82
+| [[Gürcü Mehmed Paşa]] 
+| 27 Eylül 1651
+| 20 Haziran 1652
+|{{Yıl ve güne göre yaş|1651|9|27|1652|6|20}}
+|
+|-
+| 83
+| [[Tarhuncu Ahmed Paşa]]
+| 20 Haziran 1652
+| 21 Mart 1653
+|{{Yıl ve güne göre yaş|1652|6|20|1653|3|21}}
+|
+|-
+| 84
+| [[Bıyıklı Koca Derviş Mehmed Paşa]]
+| 21 Mart 1653
+| 28 Ekim 1654
+|{{Yıl ve güne göre yaş|1653|3|21|1654|10|28}}
+|
+|-
+| 85
+| [[İbşir Mustafa Paşa]]
+| 28 Ekim 1654
+| 11 Mayıs 1655
+|{{Yıl ve güne göre yaş|1654|10|28|1655|5|11}}
+|
+|-
+|'''(79)'''
+| [[Kara Murad Paşa]]
+| 11 Mayıs 1655
+| 19 Ağustos 1655
+|{{Yıl ve güne göre yaş|1655|5|11|1655|9|19}}
+|
+|-
+| 86
+| [[Ermeni Süleyman Paşa]]
+| 19 Ağustos 1655
+| 28 Şubat 1656
+|{{Yıl ve güne göre yaş|1655|8|19|1656|2|28}}
+|
+|-
+| 87
+| [[Deli Hüseyin Paşa]]
+| 28 Şubat 1656
+| 5 Mart 1656
+|{{Yıl ve güne göre yaş|1656|2|28|1656|3|5}}
+|
+|-
+| 88
+| [[Zurnazen Mustafa Paşa]]
+| 5 Mart 1656
+| 5 Mart 1656
+|{{Yıl ve güne göre yaş|1656|3|5|1656|3|5}}
+|
+|-
+| '''(81)'''
+| [[Siyavuş Paşa]]
+| 5 Mart 1656
+| 25 Nisan 1656
+|{{Yıl ve güne göre yaş|1656|3|5|1656|4|25}}
+|
+|-
+| 89
+| [[Boynuyaralı Mehmed Paşa]]
+| 26 Nisan 1656
+| 15 Eylül 1656
+|{{Yıl ve güne göre yaş|1656|4|26|1656|9|15}}
+|
+|-
+| 90
+| [[Köprülü Mehmed Paşa]]
+| 15 Eylül 1656
+| 31 Ekim 1661
+|{{Yıl ve güne göre yaş|1656|9|15|1661|10|31}}
+|
+|-
+| 91
+| [[Köprülü Fazıl Ahmed Paşa]] 
+| 31 Ekim 1661
+| 19 Ekim 1676
+|{{Yıl ve güne göre yaş|1661|10|31|1676|10|19}}
+|
+|-
+| 92
+| [[Merzifonlu Kara Mustafa Paşa]]
+| 19 Ekim 1676
+| 14 Aralık 1683
+|{{Yıl ve güne göre yaş|1676|10|19|1683|12|14}}
+|
+|-
+| 93
+| [[Bayburtlu Kara İbrahim Paşa]]
+| 15 Aralık 1683
+| 18 Kasım 1685
+|{{Yıl ve güne göre yaş|1683|12|15|1685|11|18}}
+|
+|-
+| 94
+| [[Sarı Süleyman Paşa]]
+| 18 Kasım 1685
+| 18 Eylül 1687
+|{{Yıl ve güne göre yaş|1685|11|18|1687|9|18}}
+|
+|-
+| rowspan="2" | 95
+| rowspan="2" | [[Köprülü Damadı Abaza Siyavuş Paşa]]
+| 18 Eylül 1687
+| 8 Kasım 1687
+|{{Yıl ve güne göre yaş|1687|9|18|1687|11|8}}
+|
+|-
+| 8 Kasım 1687
+| 23 Şubat 1688
+|{{Yıl ve güne göre yaş|1687|11|8|1688|2|23}}
+| rowspan="4" |[[Dosya:Süleyman II.jpg|orta|60x60pik]]<br/> [[II. Süleyman (Osmanlı padişahı)|II. Süleyman]]
+|
+|-
+| 96
+| [[Nişancı İsmail Paşa]]
+| 23 Şubat 1688
+| 2 Mayıs 1688
+|{{Yıl ve güne göre yaş|1688|2|23|1688|5|2}}
+|
+|-
+| 97
+| [[Tekirdağlı Bekri Mustafa Paşa]]
+| 30 Mayıs 1688
+| 7 Kasım 1689
+|{{Yıl ve güne göre yaş|1688|5|30|1689|11|7}}
+|
+|-
+| rowspan="2" | 98
+| rowspan="2" | [[Köprülü Fazıl Mustafa Paşa]] 
+| 10 Kasım 1689
+| 22 Haziran 1691
+|{{Yıl ve güne göre yaş|1689|11|10|1691|6|22}}
+|
+|-
+| 22 Haziran 1691
+| 19 Ağustos 1691
+|{{Yıl ve güne göre yaş|1691|6|22|1691|8|19}}
+| rowspan="5" |[[Dosya:Süleyman II.jpg|orta|93x93pik]]<br/> [[II. Ahmed]]
+|
+|-
+| 99
+| [[Bahadırzade Arabacı Ali Paşa]]
+| 24 Ağustos 1691
+| 21 Mart 1692
+|{{Yıl ve güne göre yaş|1691|8|24|1692|3|21}}
+|
+|-
+| 100
+| [[Merzifonlu Çalık Hacı Ali Paşa]]
+| 23 Mart 1692
+| 17 Mart 1693
+|{{Yıl ve güne göre yaş|1692|3|23|1693|3|17}}
+|
+|-
+| 101
+| [[Bozoklu (Bıyıklı) Mustafa Paşa]]
+| 17 Mart 1693
+| Mart 1694
+|{{Yıl ve güne göre yaş|1694|3|13|1695|2|6}}
+|
+|-
+| rowspan="2" | 102
+| rowspan="2" | [[Sürmeli Ali Paşa]] 
+| 13 Mart 1694
+| 6 Şubat 1695 
+|{{Yıl ve güne göre yaş|1694|3|13|1695|2|6}}
+|
+|-
+| 6 Şubat 1695 
+| 22 Nisan 1695
+|{{Yıl ve güne göre yaş|1695|2|6|1695|4|22}}
+| rowspan="2" |[[II. Mustafa]]
+|
+|-
+| 102
+| [[Elmas Mehmed Paşa]]
+| 3 Mayıs 1695
+| 11 Eylül 1697
+|{{Yıl ve güne göre yaş|1695|5|3|1697|9|11}}
+|
+|- style="border-top:2px solid grey;"  |
+| colspan="7" | {{Küçük|'''''1699-1773 Gerileme dönemi Sadrazamları'''''}}
+|- style="border-top:2px solid grey;"  |
+| 103
+|[[Köprülü Amcazade Hacı Hüseyin Paşa]]
+| 17 Eylül 1697
+| 4 Eylül 1702
+|{{Yıl ve güne göre yaş|1697|9|17|1702|9|4}}
+| rowspan="3" |[[II. Mustafa]]
+|
+|-
+| 104
+| [[Daltaban Mustafa Paşa]]
+| 4 Eylül 1702
+| 24 Ocak 1703
+|{{Yıl ve güne göre yaş|1702|9|4|1703|1|24}}
+|
+|-
+| 105
+| [[Rami Mehmed Paşa]]
+| 25 Ocak 1703
+| 22 Ağustos 1703
+|{{Yıl ve güne göre yaş|1703|1|25|1703|8|22}}
+|
+|-
+| 106
+| [[Kavanoz Ahmed Paşa]]
+| 22 Ağustos 1703
+| 16 Kasım 1703
+|{{Yıl ve güne göre yaş|1703|8|22|1703|11|16}}
+| rowspan="14" |[[Dosya:Portrait of Sultan Ahmed III (1673–1736), three-quarter-length, standing, with a view onto the Bosphorus and the Hagia Sophia by Jean-Baptiste Vanmour.jpg|orta|93x93pik]]<br/>  [[III. Ahmed]]
+|
+|-
+| 107
+| [[Damat Hasan Paşa]]
+| 18 Kasım 1703
+| 28 Eylül 1704
+|{{Yıl ve güne göre yaş|1703|11|18|1704|9|28}}
+|
+|-
+| 108
+| [[Kalaylıkoz Hacı Ahmed Paşa]]
+| 28 Eylül 1704
+| 25 Aralık 1704
+|{{Yıl ve güne göre yaş|1704|9|28|1704|12|25}}
+|
+|-
+| 109
+| [[Baltacı Mehmed Paşa]]
+| 25 Aralık 1704
+| 3 Mayıs 1706
+|{{Yıl ve güne göre yaş|1704|12|25|1706|5|3}}
+|
+|-
+| 110
+| [[Damat Çorlulu Ali Paşa]] 
+| 3 Mayıs 1706
+| 15 Haziran 1710
+|{{Yıl ve güne göre yaş|1706|5|3|1710|6|15}}
+|
+|-
+| 111
+| [[Köprülüzade Damat Numan Paşa]]
+| 16 Haziran 1710
+| 17 Ağustos 1710
+|{{Yıl ve güne göre yaş|1710|6|16|1710|8|17}}
+|
+|-
+| '''(109)'''
+| [[Baltacı Mehmed Paşa]]
+| 18 Ağustos 1710
+| 20 Kasım 1711
+|{{Yıl ve güne göre yaş|1710|8|18|1711|11|20}}
+|
+|-
+| 112
+| [[Gürcü Ağa Yusuf Paşa]]
+| 20 Kasım 1711
+| 11 Kasım 1712
+|{{Yıl ve güne göre yaş|1711|11|20|1712|11|11}}
+|
+|-
+| 113
+| [[Silahdar Süleyman Paşa]] 
+| 12 Kasım 1712
+| 6 Nisan 1713
+|{{Yıl ve güne göre yaş|1712|11|12|1713|4|6}}
+|
+|-
+| 114
+| [[Hoca İbrahim Paşa]] 
+| 6 Nisan 1713
+| 7 Nisan 1713
+|{{Yıl ve güne göre yaş|1713|4|6|1713|4|7}}
+|
+|-
+| 115
+| [[Silahdar Damat Ali Paşa]]
+| 27 Nisan 1713
+| 5 Ağustos 1716
+|{{Yıl ve güne göre yaş|1713|4|27|1716|8|5}}
+|
+|-
+| 116
+| [[Hacı Halil Paşa]]
+| 5 Ağustos 1716
+| 26 Ağustos 1717 
+|{{Yıl ve güne göre yaş|1716|8|5|1717|8|26}}
+|
+|-
+| 117
+| [[Nişancı Mehmed Paşa]] 
+| 26 Ağustos 1717 
+| 9 Mayıs 1718
+|{{Yıl ve güne göre yaş|1717|8|26|1718|5|9}}
+|
+|-
+| rowspan="2" | 118
+| rowspan="2" | [[Nevşehirli Damat İbrahim Paşa]]
+| 9 Mayıs 1718
+| 20 Eylül 1730
+|{{Yıl ve güne göre yaş|1718|5|9|1730|9|20}}
+|
+|-
+| 20 Eylül 1730
+| 16 Ekim 1730
+|{{Yıl ve güne göre yaş|1730|9|20|1730|10|16}}
+| rowspan="17" |[[Dosya:Sultan Mahmud I – Jean Baptiste Vanmour.jpg (cropped).jpg|orta|93x93pik]]<br/>   [[I. Mahmud]]
+|
+|-
+| 119
+| [[Silahdar Damat Mehmed Paşa]]
+| 16 Ekim 1730
+| 23 Ocak 1731
+|{{Yıl ve güne göre yaş|1730|10|16|1731|1|23}}
+|
+|-
+| 120
+| [[Kabakulak İbrahim Paşa]]
+| 23 Ocak 1731
+| 11 Eylül 1731
+|{{Yıl ve güne göre yaş|1731|1|23|1731|9|11}}
+|
+|-
+| 121
+| [[Topal Osman Paşa]]
+| 21 Eylül 1731
+| 12 Mart 1732
+|{{Yıl ve güne göre yaş|1731|9|21|1732|3|12}}
+|
+|-
+| 122
+| [[Hekimoğlu Ali Paşa]]
+| 12 Mart 1732
+| 14 Temmuz 1735
+|{{Yıl ve güne göre yaş|1732|3|12|1735|7|14}}
+|
+|-
+| 123
+| [[Gürcü İsmail Paşa]]
+| 14 Temmuz 1735
+| 25 Aralık 1735
+|{{Yıl ve güne göre yaş|1735|7|14|1735|12|25}}
+|
+|-
+| 124
+| [[Silahdar Damat Dimetokalı Mehmed Paşa]]
+| 10 Ocak 1736
+| 5 Ağustos 1737
+|{{Yıl ve güne göre yaş|1736|1|10|1737|8|5}}
+|
+|-
+| 125
+| [[Muhsinzade Abdullah Paşa]]
+| 6 Ağustos 1737
+| 19 Aralık 1737
+|{{Yıl ve güne göre yaş|1737|8|6|1737|12|19}}
+|
+|-
+| 126
+| [[Yeğen Mehmed Paşa]]
+| 19 Aralık 1737
+| 23 Mart 1739
+|{{Yıl ve güne göre yaş|1737|12|19|1739|3|23}}
+|
+|-
+| 127
+| [[Hacı İvazzade Mehmed Paşa]]
+| 17 Mart 1739
+| 23 Haziran 1740
+|{{Yıl ve güne göre yaş|1739|3|23|1740|6|23}}
+|
+|-
+| 128
+| [[Nişancı Şehla Hacı Ahmed Paşa]] 
+| 22 Temmuz 1740
+| 7 Nisan 1742
+|{{Yıl ve güne göre yaş|1740|7|22|1742|4|7}}
+|
+|-
+| '''(122)'''
+| [[Hekimoğlu Ali Paşa]]
+| 21 Nisan 1742
+| 4 Ekim 1742
+|{{Yıl ve güne göre yaş|1742|4|21|1742|10|4}}
+|
+|-
+| 129
+| [[Seyyid Hasan Paşa]]
+| 4 Ekim 1742
+| 10 Ağustos 1746
+|{{Yıl ve güne göre yaş|1742|10|4|1746|8|10}}
+|
+|-
+| 130
+| [[Tiryaki Hacı Mehmed Paşa]]
+| 11 Ağustos 1746
+| 24 Ağustos 1747
+|{{Yıl ve güne göre yaş|1746|8|11|1747|8|24}}
+|
+|-
+| 131
+| [[Seyyid Abdullah Paşa]]
+| 24 Ağustos 1747
+| 2 Ocak 1750
+|{{Yıl ve güne göre yaş|1747|8|24|1750|1|2}}
+|
+|-
+| 132
+| [[Divitdar Mehmed Emin Paşa]]
+| 9 Ocak 1750
+| 1 Temmuz 1752
+|{{Yıl ve güne göre yaş|1750|1|9|1752|7|1}}
+|
+|-
+| rowspan="2" | 133
+| rowspan="2" | [[Çorlulu Köse Bahir Mustafa Paşa]]
+| 1 Temmuz 1752
+| 13 Aralık 1754
+|{{Yıl ve güne göre yaş|1752|7|1|1754|12|13}}
+|
+|-
+| 13 Aralık 1754
+| 16 Şubat 1755
+|{{Yıl ve güne göre yaş|1754|12|13|1755|2|16}}
+| rowspan="7" |[[Dosya:OsmanIII.jpg|orta|93x93pik]]<br/>   [[III. Osman]]
+|
+|-
+| 122
+| [[Hekimoğlu Ali Paşa]]
+| 16 Şubat 1755
+| 19 Mayıs 1755
+|{{Yıl ve güne göre yaş|1755|2|16|1755|5|19}}
+|
+|-
+| 134
+| [[Naili Abdullah Paşa]]
+| 19 Mayıs 1755
+| 24 Ağustos 1755
+|{{Yıl ve güne göre yaş|1755|5|19|1755|8|24}}
+|
+|-
+| 135
+| [[Silahdar Bıyıklı Ali Paşa]] 
+| 24 Ağustos 1755
+| 23 Ekim 1755
+|{{Yıl ve güne göre yaş|1755|8|24|1754|10|23}}
+|
+|-
+| 136
+| [[Yirmisekizzade Mehmed Said Paşa]]
+| 25 Ekim 1755
+| 1 Nisan 1756
+|{{Yıl ve güne göre yaş|1755|10|25|1756|4|1}}
+|
+|-
+| '''(133)'''
+| [[Çorlulu Köse Bahir Mustafa Paşa]]
+| 30 Nisan 1756
+| 3 Aralık 1756
+|{{Yıl ve güne göre yaş|1756|4|30|1756|12|3}}
+|
+|-
+| rowspan="2" | 137
+| rowspan="2" | [[Koca Mehmed Ragıp Paşa]]
+| 12 Ocak 1757
+| 30 Ekim 1757
+|{{Yıl ve güne göre yaş|1757|1|12|1757|10|30}}
+|
+|-
+| 30 Ekim 1757
+| 8 Nisan 1763
+|{{Yıl ve güne göre yaş|1757|10|30|1763|4|8}}
+| rowspan="10" |[[Dosya:Mustafa3.jpg|orta|93x93pik]]<br/> [[III. Mustafa]]
+|
+|-
+| 138
+| [[Tevkii Hamza Hamit Paşa]]
+| 11 Nisan 1763
+| 29 Eylül 1763
+|{{Yıl ve güne göre yaş|1763|4|11|1763|9|29}}
+|
+|-
+| '''(133)'''
+| [[Çorlulu Köse Bahir Mustafa Paşa]]
+| 29 Eylül 1763
+| 30 Mart 1765
+|{{Yıl ve güne göre yaş|1763|9|29|1765|3|30}}
+|
+|-
+| 139
+| [[Muhsinzade Mehmed Paşa]]
+| 30 Mart 1765
+| 7 Ağustos 1768
+|{{Yıl ve güne göre yaş|1765|3|30|1768|8|7}}
+|
+|-
+| 140
+| [[Silahdar Mahir Hamza Paşa]]
+| 7 Ağustos 1768
+| 20 Ekim 1768
+|{{Yıl ve güne göre yaş|1768|8|7|1768|10|20}}
+|
+|-
+| 141
+| [[Yağlıkçızade Mehmed Emin Paşa]]
+| 20 Ekim 1768
+| 12 Ağustos 1769
+|{{Yıl ve güne göre yaş|1768|10|20|1769|8|12}}
+|
+|-
+| 142
+| [[Moldovancı Ali Paşa]]
+| 12 Ağustos 1769
+| 12 Aralık 1769
+|{{Yıl ve güne göre yaş|1769|8|12|1769|12|12}}
+|
+|-
+| 143
+| [[İvazzade Halil Paşa]]
+| 13 Aralık 1769
+| 25 Aralık 1770
+|{{Yıl ve güne göre yaş|1769|12|13|1770|12|25}}
+|
+|-
+| 144
+| [[Silahdar Mehmed Paşa]]
+| 25 Aralık 1770
+| 11 Aralık 1771
+|{{Yıl ve güne göre yaş|1770|12|25|1771|12|11}}
+|
+|-
+| '''(139)'''
+| [[Muhsinzade Mehmed Paşa]]
+| 11 Aralık 1771
+| 6 Ağustos 1773
+|{{Yıl ve güne göre yaş|1771|12|11|1773|8|6}}
+|
+|- style="border-top:2px solid grey;"  |
+| colspan="7" | {{Küçük|'''''1773-1922 Dağılma dönemi Sadrazamları'''''}}
+|- style="border-top:2px solid grey;"  |
+| rowspan="2" | 145
+| rowspan="2" | [[İzzet Mehmed Paşa]]
+| 11 Ağustos 1773
+| 21 Ocak 1774
+|{{Yıl ve güne göre yaş|1773|8|11|1774|1|21}}
+| rowspan="1" | [[III. Mustafa]]
+|
+|-
+| 21 Ocak 1774
+| 7 Temmuz 1775
+|{{Yıl ve güne göre yaş|1774|1|21|1775|7|7}}
+| rowspan=10|[[Dosya:Portrait of Abdülhamid I of the Ottoman Empire.jpg|105x105px]]<br/>[[I. Abdülhamid|I. Abdulhamid]]
+|
+|-
+| 146
+| [[Yağlıkçızade Derviş Mehmed Paşa]]
+| 7 Temmuz 1775
+| 5 Ocak 1777
+|{{Yıl ve güne göre yaş|1775|7|7|1777|1|5}}
+|
+|-
+| 147
+| [[Darendeli Cebecizade Mehmed Paşa]]
+| 5 Ocak 1777
+| 1 Eylül 1778
+|{{Yıl ve güne göre yaş|1777|1|5|1778|9|1}}
+|
+|-
+| 148
+| [[Kalafat Mehmed Paşa]]
+| 1 Eylül 1778
+| 22 Ağustos 1779
+|
+|
+|-
+| 149
+| [[Silahdar Karavezir Seyyid Mehmed Paşa]] 
+| 22 Ağustos 1779
+| 20 Şubat 1781
+|
+|
+|-
+| '''(145)'''
+| [[İzzet Mehmed Paşa]]
+| 20 Şubat 1781
+| 25 Ağustos 1782
+|
+|
+|-
+| 150
+| [[Yeğen Seyyid Mehmed Paşa]]
+| 25 Ağustos 1782
+| 31 Aralık 1782
+|
+|
+|-
+| 151
+| [[Halil Hamid Paşa]]
+| 31 Aralık 1782
+| 30 Nisan 1785
+|
+|
+|-
+| 152
+| [[Hazinedar Şahin Ali Paşa]]
+| 30 Nisan 1785
+| 25 Ocak 1786
+|
+|
+|-
+| 153
+| [[Koca Yusuf Paşa]]
+| 25 Ocak 1786
+| 28 Mayıs 1789
+|
+|
+|-
+| 154
+| [[Kethüda Hasan Paşa]]
+| 28 Mayıs 1789
+| 2 Ocak 1790
+|
+| rowspan="9" |[[Dosya:III. Selim (cropped).jpg|100x100pik]]<br/>[[III. Selim]]
+|
+|-
+| 155
+| [[Cezayirli Gazi Hasan Paşa]]
+| 2 Ocak 1790
+| 30 Mart 1790
+|
+|
+|-
+| 156
+| [[Rusçuklu Çelebizade Şerif Hasan Paşa]]
+| 16 Nisan 1790
+| 12 Şubat 1791
+|
+|
+|-
+| '''(153)'''
+| [[Koca Yusuf Paşa]]
+| 12 Şubat 1791
+| 4 Mayıs 1792
+|
+|
+|-
+| 157
+| [[Damat Melek Mehmed Paşa]]
+| 4 Mayıs 1792
+| 21 Ekim 1794
+|
+|
+|-
+| 158
+| [[Safranbolulu İzzet Mehmed Paşa]] 
+| 21 Ekim 1794
+| 23 Ekim 1798
+|
+|
+|-
+| 159
+| [[Kör Yusuf Ziyaüddin Paşa]]
+| 23 Ekim 1798
+| 24 Haziran 1805
+|
+|
+|-
+| 160
+| [[Bostancıbaşı Hafız İsmail Paşa]]
+| 24 Eylül 1805
+| 13 Ekim 1806
+|
+|
+|-
+| 161
+| [[İbrahim Hilmi Paşa]]
+| 13 Ekim 1806
+| 3 Haziran 1807
+|
+|
+|-
+| 162
+| [[Çelebi Mustafa Paşa]]
+| 3 Haziran 1807
+| 29 Temmuz 1808
+|
+| rowspan=1| [[IV.Mustafa]]
+|
+|-
+| 163
+| [[Alemdar Mustafa Paşa]]
+| 29 Temmuz 1808
+| 15 Kasım 1808
+|
+| rowspan=18|[[Dosya:Mahmud II. Litho.jpg|orta|112x112pik]]<br/>[[II. Mahmud|II.Mahmud]] 
+|
+|-
+| 164
+| [[Çavuşbaşı Memiş Paşa]]
+| 15 Kasım 1808
+| 1 Ocak 1809
+|
+|
+|-
+| 165
+| [[Çarhacı Ali Paşa]]
+| 1 Ocak 1809
+| Mart 1809
+|
+|
+|-
+| '''(159)'''
+| [[Kör Yusuf Ziyaüddin Paşa]]
+| Mart 1809
+| 10 Nisan 1811
+|
+|
+|-
+| 166
+| [[Laz Aziz Ahmed Paşa]]
+| 10 Nisan 1811
+| 5 Eylül 1812
+|
+|
+|-
+| 167
+| [[Hurşid Ahmed Paşa]]
+| 5 Eylül 1812
+| 30 Mart 1815
+|
+|
+|-
+| 168
+| [[Mehmed Emin Rauf Paşa]]
+| 30 Mart 1815
+| 6 Ocak 1818
+|
+|
+|-
+| 169
+| [[Burdurlu Derviş Mehmed Paşa]]
+| 6 Ocak 1818
+| 5 Ocak 1820
+|
+|
+|-
+| 170
+| [[Ispartalı Seyyid Ali Paşa]]
+| 5 Ocak 1820
+| 21 Nisan 1821
+|
+|
+|-
+| 171
+| [[Benderli Ali Paşa]]
+| 21 Nisan 1821
+| 30 Nisan 1821
+|
+|
+|-
+| 172
+| [[Hacı Salih Paşa]]
+| 30 Nisan 1821
+| 11 Kasım 1822
+|
+|
+|-
+| 173
+| [[Deli Abdullah Paşa]]
+| 11 Kasım 1822
+| 4 Mart 1823
+|
+|
+|-
+| 174
+| [[Silahdar Ali Paşa]]
+| 4 Mart 1823
+| Aralık 1823
+|
+|
+|-
+| 175
+| [[Mehmed Said Galip Paşa]]
+| Aralık 1823
+| 15 Eylül 1824
+|
+|
+|-
+| 176
+| [[Benderli Mehmed Selim Sırrı Paşa]]
+| 15 Eylül 1824
+| 26 Ekim 1828
+|
+|
+|-
+| 177
+| [[Topal İzzet Mehmed Paşa]]
+| 26 Ekim 1828
+| 28 Ocak 1829
+|
+|
+|-
+| 178
+| [[Reşid Mehmed Paşa]]
+| 28 Ocak 1829
+| 17 Şubat 1833
+|
+|
+|-
+| '''(168)'''
+| [[Mehmed Emin Rauf Paşa]]
+| 17 Şubat 1833
+| 8 Temmuz 1839
+|
+|
+|-
+| 179
+| [[Koca Hüsrev Mehmed Paşa]]
+| 8 Temmuz 1839
+| 29 Mayıs 1841
+|
+| rowspan=23| [[Dosya:Sultan Abdülmecid - Google Art Project.jpg|102x102px]]<br/>[[Abdülmecid]]
+|
+|-
+| '''(168)'''
+| [[Mehmed Emin Rauf Paşa]]
+| 29 Mayıs 1841
+| 7 Ekim 1841
+|
+|
+|-
+| '''(177)'''
+| [[Topal İzzet Mehmed Paşa]]
+| 7 Ekim 1841
+| 3 Eylül 1842
+|
+|
+|-
+| '''(168)'''
+| [[Mehmed Emin Rauf Paşa]]
+| 3 Eylül 1842
+| 31 Temmuz 1846
+|
+|
+|-
+| 180
+| [[Koca Mustafa Reşid Paşa]]
+| 31 Temmuz 1846
+| 28 Nisan 1848
+|
+|
+|-
+| 181
+| [[İbrahim Sarim Paşa]]
+| 28 Nisan 1848
+| 13 Ağustos 1848
+|
+|
+|-
+| '''(180)'''
+| [[Koca Mustafa Reşid Paşa]]
+| 13 Ağustos 1848
+| 27 Ocak 1852
+|
+|
+|-
+| '''(168)'''
+| [[Mehmed Emin Rauf Paşa]]
+| 27 Ocak 1852
+| 7 Mart 1852
+|
+|
+|-
+| '''(180)'''
+| [[Koca Mustafa Reşid Paşa]]
+| 7 Mart 1852
+| 7 Ağustos 1852
+|
+|
+|-
+| 182
+| [[Mehmed Emin Âli Paşa]]
+| 7 Ağustos 1852
+| 4 Ekim 1852
+|
+|
+|-
+| 183
+| [[Damat Mehmed Ali Paşa]]
+| 4 Ekim 1852
+| 14 Mayıs 1853
+|
+|
+|-
+| 184
+| [[Mustafa Naili Paşa]]
+| 14 Mayıs 1853
+| 30 Mayıs 1854
+|
+|
+|-
+| 185
+| [[Kıbrıslı Mehmed Emin Paşa]]
+| 30 Mayıs 1854
+| 24 Kasım 1854
+|
+|
+|-
+| '''(180)'''
+| [[Koca Mustafa Reşid Paşa]]
+| 24 Kasım 1854
+| 4 Mayıs 1855
+|
+|
+|-
+| '''(182)'''
+| [[Mehmed Emin Âli Paşa]]
+| 4 Mayıs 1855
+| 1 Aralık 1856
+|
+|
+|-
+| '''(180)'''
+| [[Koca Mustafa Reşid Paşa]]
+| 1 Aralık 1856
+| 2 Ağustos 1857
+|
+|
+|-
+| '''(184)'''
+| [[Mustafa Naili Paşa]]
+| 2 Ağustos 1857
+| 23 Ekim 1857
+|
+|
+|-
+| '''(180)'''
+| [[Koca Mustafa Reşid Paşa]]
+| 23 Ekim 1857
+| 7 Ocak 1858
+|
+|
+|-
+| '''(182)'''
+| [[Mehmed Emin Âli Paşa]]
+| 7 Ocak 1858
+| 8 Ekim 1859
+|
+|
+|-
+| '''(185)'''
+| [[Kıbrıslı Mehmed Emin Paşa]]
+| 8 Ekim 1859
+| 24 Aralık 1859
+|
+|
+|-
+| 186
+| [[Mütercim Mehmed Rüşdi Paşa]]
+| 24 Aralık 1859
+| 27 Mayıs 1860
+|
+|
+|-
+| '''(185)'''
+| [[Kıbrıslı Mehmed Emin Paşa]]
+| 27 Mayıs 1860
+| 6 Ağustos 1861
+|
+|
+|-
+| '''(182)'''
+| [[Mehmed Emin Âli Paşa]]
+| 6 Ağustos 1861
+| 22 Kasım 1861
+|
+|
+|-
+| 187
+| [[Keçecizade Fuat Paşa]]
+| 22 Kasım 1861
+| 6 Ocak 1863
+|
+| rowspan="13" | [[Dosya:Abdulaziz.jpg|orta|110x110pik]]<br/>[[Abdülaziz]]
+|
+|-
+| 188
+| [[Yusuf Kâmil Paşa]]
+| 6 Ocak 1863
+| 3 Haziran 1863
+|
+|
+|-
+| '''(187)'''
+| [[Keçecizade Fuat Paşa]]
+| 3 Haziran 1863
+| 5 Haziran 1866
+|
+|
+|-
+| '''(186)'''
+| [[Mütercim Mehmed Rüşdi Paşa]]
+| 5 Haziran 1866
+| 11 Şubat 1867
+|
+|
+|-
+| '''(182)'''
+| [[Mehmed Emin Âli Paşa]]
+| 11 Şubat 1867
+| 7 Eylül 1871
+|
+|
+|-
+| 189
+| [[Mahmud Nedim Paşa]]
+| 7 Eylül 1871
+| 31 Temmuz 1872
+|
+|
+|-
+| 190
+| [[Mithat Paşa]]
+| 31 Temmuz 1872
+| 19 Ekim 1872
+|
+|
+|-
+| '''(186)'''
+| [[Mütercim Mehmed Rüşdi Paşa]]
+| 19 Ekim 1872
+| 15 Mart 1873
+|
+|
+|-
+| 191
+| [[Ahmed Esad Paşa]]
+| 15 Mart 1873
+| 15 Nisan 1873
+|
+|
+|-
+| 192
+| [[Şirvanizade Mehmed Rüşdi Paşa]]
+| 15 Nisan 1873
+| 14 Şubat 1874
+|
+|
+|-
+| 193
+| [[Hüseyin Avni Paşa]]
+| 14 Şubat 1874
+| 25 Nisan 1875
+|
+|
+|-
+| '''(191)'''
+| [[Ahmed Esad Paşa]]
+| 26 Nisan 1875
+| 26 Ağustos 1875
+|
+|
+|-
+| '''(189)'''
+| [[Mahmud Nedim Paşa]]
+| 26 Ağustos 1875
+| 12 Mayıs 1876
+|
+|
+|-
+| '''(186)'''
+| [[Mütercim Mehmed Rüşdi Paşa]]
+| 12 Mayıs 1876
+| 19 Aralık 1876
+|
+| [[V. Murad]]
+|
+|-
+| '''(190)'''
+| [[Mithat Paşa]]
+| 19 Aralık 1876
+| 5 Şubat 1877
+|
+| rowspan="26" |[[Dosya:Abdul Hamid II BNF Gallica (cropped).jpg|106x106pik]]<br/>[[II. Abdülhamid]]
+|
+|-
+| 194
+| [[İbrahim Edhem Paşa]]
+| 5 Şubat 1877
+| 11 Ocak 1878
+|
+|
+|-
+| 195
+| [[Ahmed Hamdi Paşa]]
+| 11 Ocak 1878
+| 4 Şubat 1878
+|
+|
+|-
+| 196
+| [[Ahmed Vefik Paşa]]
+| 4 Şubat 1878
+| 18 Nisan 1878
+|
+|
+|-
+| 197
+| [[Mehmed Sadık Paşa]]
+| 18 Nisan 1878
+| 28 Mayıs 1878
+|
+|
+|-
+| '''(186)'''
+| [[Mütercim Mehmed Rüşdi Paşa]]
+| 28 Mayıs 1878
+| 4 Haziran 1878
+|
+|
+|-
+| 198
+| [[Mehmed Esad Safvet Paşa]]
+| 4 Haziran 1878
+| 4 Aralık 1878
+|
+|
+|-
+| 199
+| [[Tunuslu Hayreddin Paşa]]
+| 4 Aralık 1878
+| 28 Temmuz 1879
+|
+|
+|-
+| 200
+| [[Ahmed Arifi Paşa]]
+| 28 Temmuz 1879
+| 18 Ekim 1879
+|
+|
+|-
+| 201
+| [[Mehmed Said Paşa]]
+| 18 Ekim 1879
+| 9 Haziran 1880
+|
+|
+|-
+| 202
+| [[Cenanizade Mehmed Kadri Paşa]] 
+| 9 Haziran 1880
+| 12 Eylül 1880
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 12 Eylül 1880
+| 2 Mayıs 1882
+|
+|
+|-
+| 203
+| [[Abdurrahman Nureddin Paşa]]
+| 2 Mayıs 1882
+| 12 Temmuz 1882
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 12 Temmuz 1882
+| 30 Kasım 1882
+|
+|
+|-
+| '''(196)'''
+| [[Ahmed Vefik Paşa]]
+| 1 Aralık 1882
+| 3 Aralık 1882
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 3 Aralık 1882
+| 25 Eylül 1885
+|
+|
+|-
+| 204
+| [[Kâmil Paşa]]
+| 25 Eylül 1885
+| 4 Eylül 1891
+|
+|
+|-
+| 205
+| [[Ahmed Cevad Paşa]]
+| 4 Eylül 1891
+| 9 Haziran 1895
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 9 Haziran 1895
+| 2 Ekim 1895
+|
+|
+|-
+| '''(204)'''
+| [[Kâmil Paşa]]
+| 2 Ekim 1895
+| 7 Kasım 1895
+|
+|
+|-
+| 206
+| [[Halil Rifat Paşa]]
+| 7 Kasım 1895
+| 9 Kasım 1901
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 9 Kasım 1901
+| 15 Ocak 1903
+|
+|
+|-
+| 207
+| [[Avlonyalı Mehmed Ferid Paşa]]
+| 15 Ocak 1903
+| 22 Temmuz 1908
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 22 Temmuz 1908
+| 6 Ağustos 1908
+|
+|
+|-
+| '''(204)'''
+| [[Kâmil Paşa]]
+| 6 Ağustos 1908
+| 14 Şubat 1909
+|
+|
+|-
+| 208
+| [[Hüseyin Hilmi Paşa]]
+| 14 Şubat 1909
+| 13 Nisan 1909
+|
+|
+|-
+| 209
+| [[Ahmet Tevfik Okday|Ahmed Tevfik Paşa]]
+| 13 Nisan 1909
+| 5 Mayıs 1909
+|
+| rowspan="9" | [[Dosya:Sultan Mehmed V of the Ottoman Empire.jpg|107x107px]]<br/>[[V. Mehmed]]
+|
+|-
+| '''(208)'''
+| [[Hüseyin Hilmi Paşa]]
+| 5 Mayıs 1909
+| 12 Ocak 1910
+|
+|
+|-
+| 210
+| [[İbrahim Hakkı Paşa]]
+| 12 Ocak 1910
+| 29 Eylül 1911
+|
+|
+|-
+| '''(201)'''
+| [[Mehmed Said Paşa]]
+| 4 Ekim 1911
+| 17 Temmuz 1912
+|
+|
+|-
+| 211
+| [[Ahmed Muhtar Paşa]]
+| 22 Temmuz 1912
+| 29 Ekim 1912
+|
+|
+|-
+| '''(204)'''
+| [[Kâmil Paşa]]
+| 29 Ekim 1912
+| 23 Ocak 1913
+|
+|
+|-
+| 212
+| [[Mahmud Şevket Paşa]]
+| 23 Ocak 1913
+| 11 Haziran 1913
+|
+|
+|-
+| 213
+| [[Said Halim Paşa]]
+| 12 Haziran 1913
+| 3 Şubat 1917
+|
+|
+|-
+| rowspan="2" | 214
+| rowspan="2" |  [[Talat Paşa]]
+| 4 Şubat 1917
+| 3 Temmuz 1918
+| {{Yıl ve güne göre yaş|1917|2|4|1918|7|3}}
+| 
+|-
+| 3 Temmuz 1918
+| 8 Ekim 1918
+| {{Yıl ve güne göre yaş|1918|7|3|1918|10|8}}
+| rowspan="8" |[[Dosya:Sultan Mehmed VI.jpg|orta|93x93pik]]<br/>[[VI. Mehmed]]
+|
+|-
+| 215
+| [[Ahmet İzzet Furgaç|Ahmed İzzet Paşa]]
+| 14 Ekim 1918
+| 8 Kasım 1918
+| {{Yıl ve güne göre yaş|1918|10|14|1918|11|8}}
+|
+|-
+| '''(209)'''
+| [[Ahmet Tevfik Okday|Ahmed Tevfik Paşa]]
+| 11 Kasım 1918
+| 10 Mart 1919
+| {{Yıl ve güne göre yaş|1918|11|11|1919|3|10}}
+|
+|-
+| 216
+| [[Damat Ferit Paşa]]
+| 10 Mart 1919
+| 4 Ekim 1919
+| {{Yıl ve güne göre yaş|1919|3|10|1919|10|4}}
+|
+|-
+| 217
+| [[Ali Rıza Paşa (sadrazam)|Ali Rıza Paşa]]
+| 4 Ekim 1919
+| 2 Mart 1920
+| {{Yıl ve güne göre yaş|1919|10|4|1920|3|2}}
+|
+|-
+| 218
+| [[Salih Hulusi Kezrak|Salih Hulusi Paşa]]
+| 2 Mart 1920
+| 5 Nisan 1920
+| {{Yıl ve güne göre yaş|1920|3|2|1920|4|5}}
+|
+|-
+| '''(216)'''
+| [[Damat Ferit Paşa]]
+| 5 Nisan 1920
+| 18 Ekim 1920
+| {{Yıl ve güne göre yaş|1920|4|5|1920|10|18}}
+|
+|-
+| '''(209)'''
+| [[Ahmet Tevfik Okday|Ahmed Tevfik Paşa]]
+| 21 Ekim 1920
+| 17 Kasım 1922
+| {{Yıl ve güne göre yaş|1920|10|21|1922|11|17}}
+|
+|-
+|}
+
+Bu listede sadrazamların isimlerinde dönemin yazım ve telaffuzları (Mehmed, Ahmed gibi) esas alınmış, ancak isim bütününün mümkün olduğunda Türkçeleştirilmiş halde sunulmasına çalışılmıştır ("ibn Kemaleddin" yerine "Kemaleddinoğlu" gibi). Madde başlıklarında her bir sadrazamın tarihlerde anılan bütün lakaplarının bir araya getirilmesine özen gösterilmiş, tarihlerde söz konusu kişinin ölümünden sonra verilmiş lakaplar ("şehit" gibi) daha ziyade madde içinde belirtilmiştir.
+
+Listedeki sütünlarda sırayla: Sadrazamın adı veya lakabı (''Sadrazam''), sadaret başlangıç tarihi (''başl.''), sadaret sona eriş tarihi (''bitiş''), birden fazla sadrazamlık dönemi söz konusu ise kaçıncı kez bu makama geldiği ve akılda kalıcı kısa notlar (''etnik kökeni, ailesi, akıbeti, ölüm nedeni, hakkında önemli bir detay gibi'') bilgiler bulunmaktadır.
+
+== 1773-1922 Dağılma dönemi Sadrazamları ==
+
+{| border="0" cellspacing="2"
+|- bgcolor="#e5e5e5"
+! [[Sadrazam]]
+! Başl.
+! Bitiş
+! Süre
+! Notlar
+|- bgcolor="#ffffff"
+|[[İzzet Mehmed Paşa]] (1. sadareti)
+|11 Ağustos 1773
+|7 Temmuz 1775
+|1 yıl, 330 gün
+|[[Rumlar|Rum]]<ref name="Erkan64">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 64.</ref> 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Moralı Derviş Mehmed Paşa]]
+|7 Temmuz 1775
+|5 Ocak 1777
+|1 yıl, 183 gün
+|Türk ([[Mora]]lı)
+|- bgcolor="#ffffff"
+|[[Darendeli Cebecizade Mehmed Paşa]]
+|5 Ocak 1777
+|1 Eylül 1778
+|1 yıl, 239 gün
+|Türk ([[Darende]]li)
+|- bgcolor="#e5e5e5"
+|[[Kalafat Mehmed Paşa]]
+|1 Eylül 1778
+|22 Ağustos 1779
+|355 gün
+|[[Pomak]]
+|- bgcolor="#ffffff"
+|[[Silahdar Karavezir Seyyid Mehmed Paşa]] 
+|22 Ağustos 1779
+|20 Şubat 1781
+|1 yıl, 183 gün
+|Türk, ([[Kırşehir]] [[Arabsun köyü]]nden)
+|- bgcolor="#e5e5e5"
+|[[İzzet Mehmed Paşa]] (2. sadareti)
+|20 Şubat 1781
+|25 Ağustos 1782
+|1 yıl, 186 gün
+|[[Rumlar|Rum]] 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Yeğen Seyyid Mehmed Paşa]]
+|25 Ağustos 1782
+|31 Aralık 1782
+|128 gün
+|Türk ([[Alanya|Alaiye]]'li)
+|- bgcolor="#e5e5e5"
+|[[Halil Hamid Paşa]]
+|31 Aralık 1782
+|30 Nisan 1785
+|2 yıl, 121 gün
+|Türk ([[Isparta]]'lı). Sürgünde idam edilmiştir.
+|- bgcolor="#ffffff"
+|[[Hazinedar Şahin Ali Paşa]]
+|30 Nisan 1785
+|25 Ocak 1786
+|270 gün
+|Gürcü
+|- bgcolor="#e5e5e5"
+|[[Koca Yusuf Paşa]] (1. sadareti)
+|25 Ocak 1786
+|28 Mayıs 1789
+|3 yıl, 124 gün
+|Gürcü. 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Kethüda Çerkes Meyyit Hasan Paşa]] (1. sadareti)
+|28 Mayıs 1789
+|2 Ocak 1790
+|219 gün
+|[[Çerkes]]. 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Cezayirli Gazi Hasan Paşa]]
+|2 Ocak 1790
+|30 Mart 1790
+|87 gün
+|[[Pomak]] ([[Drama (il)]]'da büyüme). Savaşta şehit olmuştur.
+|- bgcolor="#ffffff"
+|[[Rusçuklu Çelebizade Şerif Hasan Paşa]]
+|16 Nisan 1790
+|12 Şubat 1791
+|302 gün
+|? ([[Rusçuk]]lu)
+|- bgcolor="#e5e5e5"
+|[[Koca Yusuf Paşa]] (2. ve son sadareti)
+|12 Şubat 1791
+|4 Mayıs 1792
+|447 gün
+|[[Gürcüler|Gürcü]]<ref name="Erkan68">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 68.</ref>. Eceliyle ölmüştür.
+|- bgcolor="#ffffff"
+|[[Damat Melek Mehmed Paşa]]
+|4 Mayıs 1792
+|21 Ekim 1794
+|2 yıl, 170 gün
+|Boşnak<ref name="Erkan68"/>
+|- bgcolor="#e5e5e5"
+|[[Safranbolulu İzzet Mehmed Paşa]] 
+|21 Ekim 1794
+|23 Ekim 1798
+|4 yıl, 3 gün
+|([[Safranbolu]]lu). Sürgünde eceliyle ölmüştür.
+|- bgcolor="#ffffff"
+|[[Kör Yusuf Ziyaüddin Paşa]] (1. sadareti)
+|23 Ekim 1798
+|24 Haziran 1805
+|6 yıl, 246 gün
+|Gürcü<ref name="Erkan69">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 69.</ref>, 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Bostancıbaşı Hafız İsmail Paşa]]
+|24 Eylül 1805
+|13 Ekim 1806
+|1 yıl, 19 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Keçiboynuzu İbrahim Hilmi Paşa]]
+|13 Ekim 1806
+|3 Haziran 1807
+|233 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Çelebi Mustafa Paşa]]
+|3 Haziran 1807
+|29 Temmuz 1808
+|1 yıl, 57 gün
+||Türk.
+|- bgcolor="#ffffff"
+|[[Alemdar Mustafa Paşa]] veya ([[Bayraktar Mustafa Paşa]])
+|29 Temmuz 1808
+|15 Kasım 1808
+|109 gün
+|Türk, ([[Rusçuk]]lu). [[Alemdar Vakası]] şeklinde anılan çatışmada şehit olmuştur.
+|- bgcolor="#e5e5e5"
+|[[Çavuşbaşı Memiş Paşa]]
+|15 Kasım 1808
+|1 Ocak 1809
+|47 gün
+|Türk. Azledilmiş ve eceliyle ölmüştür.
+|- bgcolor="#ffffff"
+|[[Çarhacı Ali Paşa]]
+|1 Ocak 1809
+|Mart 1809
+|59 gün
+||Türk.
+|- bgcolor="#e5e5e5"
+|[[Kör Yusuf Ziyaüddin Paşa]] (2. ve son sadareti)
+|Mart 1809
+|10 Nisan 1811
+|2 yıl, 40 gün
+|Gürcü
+|- bgcolor="#ffffff"
+|[[Laz Aziz Ahmed Paşa]]
+|10 Nisan 1811
+|5 Eylül 1812
+|1 yıl, 149 gün
+|[[Laz]]
+|- bgcolor="#e5e5e5"
+|[[Hurşid Ahmed Paşa]]
+|5 Eylül 1812
+|30 Mart 1815
+|2 yıl, 206 gün
+||Gürcü<ref name="Erkan71">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 71.</ref>.
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Rauf Paşa]] (1. sadareti)
+|30 Mart 1815
+|6 Ocak 1818
+|2 yıl, 283 gün
+|Arap, 5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Burdurlu Derviş Mehmed Paşa]]
+|6 Ocak 1818
+|5 Ocak 1820
+|1 yıl, 364 gün
+|? ([[Burdur]]lu)
+|- bgcolor="#ffffff"
+|[[Ispartalı Seyyid Ali Paşa]]
+|5 Ocak 1820
+|21 Nisan 1821
+|1 yıl, 107 gün
+|Türk ([[Isparta]]lı)
+|- bgcolor="#e5e5e5"
+|[[Benderli Ali Paşa]]
+|21 Nisan 1821
+|30 Nisan 1821
+|9 gün
+|? ([[Bender]]li). Kesin padişah emri ile idam edildiği bilinen son sadrazamdır.
+|- bgcolor="#ffffff"
+|[[Hacı Salih Paşa]]
+|30 Nisan 1821
+|11 Kasım 1822
+|1 yıl, 195 gün
+|[[Sabetaycı]] (?)<ref name="Erkan72">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 72.</ref>
+|- bgcolor="#e5e5e5"
+|[[Bostancıbaşı Deli Abdullah Paşa]]
+|11 Kasım 1822
+|4 Mart 1823
+|113 gün
+||Türk.
+|- bgcolor="#ffffff"
+|[[Turnacızade Silahdar Ali Paşa]]
+|4 Mart 1823
+|Aralık 1823
+|272 gün
+|Arap
+|- bgcolor="#e5e5e5"
+|[[Mehmed Said Galip Paşa]]
+|Aralık 1823
+|15 Eylül 1824
+|289 gün
+||Türk.
+|- bgcolor="#ffffff"
+|[[Benderli Mehmed Selim Sırrı Paşa]]
+|15 Eylül 1824
+|26 Ekim 1828
+|4 yıl, 42 gün
+| ?, ([[Bender]]li)
+|- bgcolor="#e5e5e5"
+|[[Darendeli Topal İzzet Mehmed Paşa]] (1. sadareti)
+|26 Ekim 1828
+|Ocak 1829
+|67 gün
+|Türk, ([[Darende]]li). 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Reşid Mehmed Paşa]]
+|Ocak 1829
+|17 Şubat 1833
+|4 yıl, 48 gün
+|[[Gürcüler|Gürcü]]<ref name="Erkan74">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 74.</ref> 
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Rauf Paşa]] (2. sadareti)
+|17 Şubat 1833
+|8 Temmuz 1839
+|6 yıl, 142 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Koca Mehmed Hüsrev Paşa]]
+|8 Temmuz 1839
+|29 Mayıs 1841
+|1 yıl, 326 gün
+|[[Abazalar|Abaza]]<ref name="Erkan75">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 75.</ref>
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Rauf Paşa]] (3. sadareti)
+|29 Mayıs 1841
+|7 Ekim 1841
+|131 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Darendeli Topal İzzet Mehmed Paşa]] (2. ve son sadareti)
+|7 Ekim 1841
+|3 Eylül 1842
+|331 gün
+|Türk, ([[Darende]]li)
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Rauf Paşa]] (4. sadareti)
+|3 Eylül 1842
+|31 Temmuz 1846
+|3 yıl, 332 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Koca Mustafa Reşid Paşa]] (1. sadareti)
+|31 Temmuz 1846
+|28 Nisan 1848
+|1 yıl, 272 gün
+|6 dönem sadrazamlık yapmıştır.türk
+|- bgcolor="#e5e5e5"
+|[[İbrahim Sarim Paşa]]
+|28 Nisan 1848
+|13 Ağustos 1848
+|107 gün
+|Arap Asıllı Türk
+|- bgcolor="#ffffff"
+|[[Koca Mustafa Reşid Paşa]] (2. sadareti)
+|13 Ağustos 1848
+|27 Ocak 1852
+|3 yıl, 167 gün
+|6 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Rauf Paşa]] (5. ve son sadareti)
+|27 Ocak 1852
+|7 Mart 1852
+|40 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Koca Mustafa Reşid Paşa]] (3. sadareti)
+|7 Mart 1852
+|7 Ağustos 1852
+|153 gün
+|6 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Âli Paşa]] (1. sadareti)
+|7 Ağustos 1852
+|4 Ekim 1852
+|58 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Damat Mehmed Ali Paşa]]
+|4 Ekim 1852
+|14 Mayıs 1853
+|222 gün
+|[[Hemşinli]] <ref>{{Web kaynağı |url=http://rbedrosian.com/Downloads/hscas.pdf |başlık=History and identity among the Hemshin -HOVANN H. SIMONIAN - s.172 |erişimtarihi=17 Mayıs 2025 |arşivurl=https://web.archive.org/web/20211212225800/https://rbedrosian.com/Downloads/hscas.pdf |arşivtarihi=12 Aralık 2021 |ölüurl=hayır }}</ref> Ekim 1852 - 14 Mayıs 1853 tarihleri arasında yedi ay oniki gün sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Giritli Mustafa Naili Paşa]] (1. sadareti)
+|14 Mayıs 1853
+|30 Mayıs 1854
+|1 yıl, 16 gün
+|[[Mısır]]lı Türk. Uzun süre [[Girit]] valiliği yaptığından Giritli şeklinde anılır. 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Emin Paşa]] (1. sadareti)
+|30 Mayıs 1854
+|24 Kasım 1854
+|178 gün
+|Türk ([[Kıbrıs]]lı). 3 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Koca Mustafa Reşid Paşa]] (4. sadareti)
+|24 Kasım 1854
+|4 Mayıs 1855
+|161 gün
+|6 dönem sadrazamlık yapmıştır.türk
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Âli Paşa]] (2. sadareti)
+|4 Mayıs 1855
+|1 Aralık 1856
+|1 yıl, 212 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Koca Mustafa Reşid Paşa]] (5. sadareti)
+|1 Aralık 1856
+|2 Ağustos 1857
+|244 gün
+|6 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Giritli Mustafa Naili Paşa]] (2. ve son sadareti)
+|2 Ağustos 1857
+|23 Ekim 1857
+|82 gün
+|[[Mısır]]lı Türk.
+|- bgcolor="#e5e5e5"
+|[[Koca Mustafa Reşid Paşa]] (6. ve son sadareti)
+|23 Ekim 1857
+|7 Ocak 1858
+|76 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Âli Paşa]] (3. sadareti)
+|7 Ocak 1858
+|8 Ekim 1859
+|1 yıl, 274 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Kıbrıslı Mehmed Emin Paşa]] (2. sadareti)
+|8 Ekim 1859
+|24 Aralık 1859
+|77 gün
+|Türk ([[Kıbrıs]]lı). 3 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Mütercim Mehmed Rüşdi Paşa]] (1. sadareti)
+|24 Aralık 1859
+|27 Mayıs 1860
+|155 gün
+|Türk. 5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Kıbrıslı Mehmed Emin Paşa]] (3. ve son sadareti)
+|27 Mayıs 1860
+|6 Ağustos 1861
+|1 yıl, 71 gün
+|Türk, ([[Kıbrıs]]lı)
+|- bgcolor="#ffffff"
+|[[Mehmed Emin Âli Paşa]] (4. sadareti)
+|6 Ağustos 1861
+|22 Kasım 1861
+|108 gün
+|5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Keçecizade Mehmed Emin Fuad Paşa]] (1. sadareti)
+|22 Kasım 1861
+|6 Ocak 1863
+|1 yıl, 45 gün
+|Türk. 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Yusuf Kamil Paşa]]
+|6 Ocak 1863
+|3 Haziran 1863
+|148 gün
+||Türk.
+|- bgcolor="#e5e5e5"
+|[[Keçecizade Mehmed Emin Fuad Paşa]] (2. ve son sadareti)
+|3 Haziran 1863
+|5 Haziran 1866
+|3 yıl, 3 gün
+|Türk 
+|
+|- bgcolor="#ffffff"
+|[[Mütercim Mehmed Rüşdi Paşa]] (2. sadareti)
+|5 Haziran 1866
+|11 Şubat 1867
+|251 gün
+|Türk. 5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Mehmed Emin Âli Paşa]] (5. ve son sadareti)
+|11 Şubat 1867
+|7 Eylül 1871
+|4 yıl, 209 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Mahmud Nedim Paşa]] (1. sadareti)
+|7 Eylül 1871
+|31 Temmuz 1872
+|328 gün
+|[[Gürcüler|Gürcü]]<ref name="Erkan85">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 85.</ref>, 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Mithat Paşa]] (1. sadareti)
+|31 Temmuz 1872
+|19 Ekim 1872
+|80 gün
+|Türk ?. [[Rusçuk]] kökenli, [[İstanbul]] doğumlu. 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Mütercim Mehmed Rüşdi Paşa]] (3. sadareti)
+| 19 Ekim 1872
+| 15 Mart 1873 
+|147 gün
+|Türk. 5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Sakızlı Ahmed Esad Paşa]] (1. sadareti)
+|15 Mart 1873
+|15 Nisan 1873
+|31 gün
+|Türk ([[Sakız]]lı). 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Şirvanlızade Mehmed Rüşdi Paşa]]
+|15 Nisan 1873
+|14 Şubat 1874
+|305 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Hüseyin Avni Paşa]]
+|14 Şubat 1874
+|25 Nisan 1875
+|1 yıl, 70 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Sakızlı Ahmed Esad Paşa]] (2. ve son sadareti)
+|26 Nisan 1875
+|26 Ağustos 1875
+|122 gün
+|Türk ([[Sakız]]lı)
+|- bgcolor="#e5e5e5"
+|[[Mahmud Nedim Paşa]] (2. ve son sadareti)
+|26 Ağustos 1875
+|12 Mayıs 1876
+|260 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Mütercim Mehmed Rüşdi Paşa]] (4. sadareti)
+|12 Mayıs 1876
+|19 Aralık 1876
+|221 gün
+|Türk. 5 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Mithat Paşa]] (2. sadareti)
+|19 Aralık 1876
+|5 Şubat 1877
+|48 gün
+|Türk. Sürgünde idam edilmiştir. İdamı hakkında farklı görüşler öne sürülmektedir.
+|- bgcolor="#ffffff"
+|[[İbrahim Edhem Paşa]]
+|5 Şubat 1877
+|11 Ocak 1878
+|340 gün
+|[[Rum]]
+|- bgcolor="#e5e5e5"
+|[[Ahmed Hamdi Paşa]]
+|11 Ocak 1878
+|4 Şubat 1878
+|24 gün
+|[[Abazalar|Abaza]]<ref name="Erkan89">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 89.</ref>
+|- bgcolor="#ffffff"
+|[[Ahmed Vefik Paşa]]
+|4 Şubat 1878
+|18 Nisan 1878
+|73 gün
+|Türk ([[İstanbul]]lu)
+|- bgcolor="#e5e5e5"
+|[[Mehmed Sadık Paşa]]
+|18 Nisan 1878
+|28 Mayıs 1878
+|40 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Mütercim Mehmed Rüşdi Paşa]] (5. ve son sadareti)
+|28 Mayıs 1878 
+| 4 Haziran 1878
+|7 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Mehmed Esad Saffet Paşa]]
+|4 Haziran 1878
+|4 Aralık 1878
+|183 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Tunuslu Hayreddin Paşa]]
+| 4 Aralık1878
+|28 Temmuz 1879
+|236 gün
+|[[Abazalar|Abaza]]<ref name="Erkan91">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 91.</ref>
+|- bgcolor="#ffffff"
+|[[Ahmed Arifi Paşa]]
+|28 Temmuz 1879
+|18 Ekim 1879
+|82 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Paşa]] (1. sadareti)
+|18 Ekim 1879
+|9 Haziran 1880
+|235 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Cenanizade Mehmed Kadri Paşa]] 
+|9 Haziran 1880
+|12 Eylül 1880
+|95 gün
+|[[Arap]] ([[Antep]]li [[Cenani ailesi]]nden)
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Paşa]] (2. sadareti)
+|12 Eylül 1880
+|2 Mayıs 1882
+|1 yıl, 232 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Abdurrahman Nureddin Paşa]] (1. sadareti)
+|2 Mayıs 1882
+|12 Temmuz 1882
+|71 gün
+|Türk. dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Paşa]] (3. sadareti)
+|12 Temmuz 1882
+|30 Kasım 1882
+|141 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Ahmed Vefik Paşa]]
+|1 Aralık 1882
+|3 Aralık 1882
+|2 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Paşa]] (4. sadareti)
+|3 Aralık 1882
+|25 Eylül 1885
+|2 yıl, 297 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Kamil Paşa]] (1. sadareti)
+|25 Eylül 1885
+|4 Eylül 1891
+|5 yıl, 345 gün
+|Türk ([[Kıbrıs]]lı). 4 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Kabaağaçlızade Ahmed Cevat Paşa]]
+|4 Eylül 1891
+|9 Haziran 1895
+|3 yıl, 279 gün
+|Türk ([[Afyonkarahisar]] [[Kabaağaç]]lı, [[Şakirpaşalar ailesi]])
+|- bgcolor="#ffffff"
+|[[Küçük Mehmed Said Paşa]] (5. sadareti)
+|9 Haziran 1895
+|2 Ekim 1895
+|115 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Kıbrıslı Mehmed Kamil Paşa]] (2. sadareti)
+|2 Ekim 1895
+|7 Kasım 1895
+|36 gün
+|Türk ([[Kıbrıs]]lı). 4 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Halil Rıfat Paşa]]
+|7 Kasım 1895
+|9 Kasım 1901
+|6 yıl, 4 gün
+|Türk
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Paşa]] (6. sadareti)
+|9 Kasım 1901
+|15 Ocak 1903
+|1 yıl, 67 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Avlonyalı Mehmed Ferid Paşa]]
+|15 Ocak 1903
+|22 Temmuz 1908
+|5 yıl, 190 gün
+|[[Arnavut]].
+|- bgcolor="#e5e5e5"
+|[[Küçük Mehmed Said Paşa]] (7. sadareti)
+|22 Temmuz 1908
+|6 Ağustos 1908
+|15 gün
+|Türk. 8 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Kamil Paşa]] (3. sadareti)
+|6 Ağustos 1908
+|14 Şubat 1909
+|192 gün
+|Türk ([[Kıbrıs]]lı).
+|- bgcolor="#ffffff"
+|[[Hüseyin Hilmi Paşa]] (1. sadareti)
+|14 Şubat 1909
+| 31 Mart 1909
+|45 gün
+|Rum veya Türk
+|- bgcolor="#e5e5e5"
+|[[Ahmed Tevfik Paşa]] (1. sadareti)
+|31 Mart 1909
+|5 Mayıs 1909
+|35 gün
+|Türk. 3 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Hüseyin Hilmi Paşa]] (2. sadareti)
+|5 Mayıs 1909
+|12 Ocak 1910
+|252 gün
+|Rum veya Türk
+|- bgcolor="#e5e5e5"
+|[[İbrahim Hakkı Paşa]]
+|12 Ocak 1910
+|29 Eylül 1911
+|1 yıl, 260 gün
+| Arap
+|- bgcolor="#ffffff"
+|[[Küçük Mehmed Said Paşa]] (8. ve son sadareti)
+|4 Ekim 1911
+|17 Temmuz 1912
+|287 gün
+| Türk
+|- bgcolor="#e5e5e5"
+|[[Gazi Ahmed Muhtar Paşa]]
+|22 Temmuz 1912
+|29 Ekim 1912
+|99 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Kıbrıslı Mehmed Kamil Paşa]] (4. ve son sadareti)
+|29 Ekim 1912
+|23 Ocak 1913
+|86 gün
+|Türk ([[Kıbrıs]]lı)
+|- bgcolor="#e5e5e5"
+|[[Mahmud Şevket Paşa]]
+|23 Ocak 1913
+|11 Haziran 1913
+|139 gün
+|[[Çeçenler|Çeçen]] (?),<ref name="Erkan101">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 101.</ref> [[Çerkezler|Çerkes]]<ref>Nâzım Tektaş, ''Sadrazamlar: Osmanlı'da ikinci adam saltanatı'', Çatı Kitapları, 2002, [http://books.google.com.tr/books?ei=6CHMTM-LN4b-vQOd8fDYDw&ct=result&id=1UppAAAAMAAJ&dq=Sadrazamlar&q=%22%C5%9Eevket+Pa%C5%9Fa%22#search_anchor p.]</ref> ve/veya [[Araplar|Arap]]<ref>Ali Bilgenoğlu, ''Osmanlı Devleti'nde Arap milliyetçi cemiyetler'', Müdafaa-i Hukuk Yayınları, 2007, [http://books.google.com.tr/books?id=KoJrzL-JKAEC&pg=PA87&dq=31+Mart+Olay%C4%B1+s%C4%B1ras%C4%B1ndaki+%C3%BCst%C3%BCn+gayretiyle+y%C4%B1ld%C4%B1z%C4%B1+iyice+parlayan+Mahmut+%C5%9Eevket&hl=tr&ei=2hbMTOqXMoicvgOa2tnhDw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCcQ6AEwAA#v=onepage&q=31%20Mart%20Olay%C4%B1%20s%C4%B1ras%C4%B1ndaki%20%C3%BCst%C3%BCn%20gayretiyle%20y%C4%B1ld%C4%B1z%C4%B1%20iyice%20parlayan%20Mahmut%20%C5%9Eevket&f=false p. 87.]</ref>. Görev başında suikaste uğramıştır.
+|- bgcolor="#ffffff"
+|[[Said Halim Paşa]]
+|12 Haziran 1913
+|3 Şubat 1917
+|3 yıl, 237 gün
+|Arnavut kökenli [[Mısır]]lı. Sürgünde suikaste uğramıştır.
+|- bgcolor="#e5e5e5"
+|[[Talat Paşa]]
+|4 Şubat 1917
+|8 Ekim 1918
+|1 yıl, 246 gün
+|[[Pomak]]<ref>Taner Timur, ''{{Google Kitaplar|plainurl=yes |id=64NpAAAAMAAJ |page=53 }} Türkler ve Ermeniler: 1915 ve Sonrası'', İmge Kitabevi, 2001, ISBN 978-975-533-318-2, p. 53. {{Tr icon}}</ref> ve [[Türkler|Türk]]<ref>[http://yakinplan.com/manset/muslum-ulusoy-talatpasa-ilgili-yazdi/ Müslüm Ulusoy Talat Paşa ile İlgili Yazdı] {{Webarşiv|url=https://web.archive.org/web/20140407110429/http://yakinplan.com/manset/muslum-ulusoy-talatpasa-ilgili-yazdi/ |tarih=7 Nisan 2014 }}, Müslüm Ulusoy, 17Mart 2014.</ref>. Sürgünde suikaste uğramıştır.
+|- bgcolor="#ffffff"
+|[[Furgaç Ahmed İzzet Paşa]]
+|14 Ekim 1918
+|8 Kasım 1918
+|25 gün
+|[[Arnavut]]<ref name="Erkan103">İsmail Hâmi Danişmend, ''Osmanlı Devlet Erkânı'', Türkiye Yayınevi, İstanbul, 1971, p. 103.</ref>. Kendi tercihiyle istifa etmiştir.
+|- bgcolor="#e5e5e5"
+|[[Ahmed Tevfik Paşa]] (2. sadareti)
+|11 Kasım 1918
+|10 Mart 1919
+|119 gün
+|Türk. 3 dönem sadrazamlık yapmıştır.
+|- bgcolor="#ffffff"
+|[[Damat Ferit Paşa]] (1. sadareti)
+|10 Mart 1919
+|4 Ekim 1919
+|208 gün
+|Arnavut. 2 dönem sadrazamlık yapmıştır.
+|- bgcolor="#e5e5e5"
+|[[Ali Rıza Paşa (sadrazam)|Ali Rıza Paşa]]
+|4 Ekim 1919
+|2 Mart 1920
+|150 gün
+|Türk
+|- bgcolor="#ffffff"
+|[[Hulusi Salih Paşa]]
+|2 Mart 1920
+|5 Nisan 1920
+|34 gün
+|[[Abaza]]
+|- bgcolor="#e5e5e5"
+|[[Damat Ferit Paşa]] (2. ve son sadareti)
+|5 Nisan 1920
+|18 Ekim 1920
+|196 gün
+|Arnavut. Sürgünde eceliyle vefat.
+|- bgcolor="#ffffff"
+|[[Ahmed Tevfik Paşa]] (3. ve son sadareti)
+|21 Ekim 1920
+|17 Kasım 1922
+|2 yıl, 27 gün
+|Türk. Son sadrazamdır.
+|}
+
+== Ayrıca bakınız ==
+* [[Osmanlı padişahları listesi]]
+
+== Notlar ==
+<references group="not"/>
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Dış bağlantılar ==
+* [https://web.archive.org/web/20060103224556/http://www.devletarsivleri.gov.tr/yayin/osmanli/rehber_osm/209_2.htm T.C. Devlet Arşivleri]
+
+{{Liste listesi|tarih}}
+{{Osmanlı sadrazamları}}
+{{Osmanlı devlet teşkilatı}}
+{{Osmanlı konuları}}

@@ -1,5 +1,10 @@
 # Değişiklik günlüğü
 
+## 2.3.0 — 2026-11-20
+- Siyasi tarihe Osmanlı sadrazamları (1876–1922, 43 dönem) eklendi: grafikte, bilgi kutusunda ve hükûmetler sekmesinde ayrı tabloda. Kaynak: Vikipedi "Osmanlı sadrazamları listesi" (31 Mart Vakası tarihi Rumi takvimden düzeltildi).
+- İstibdat dönemi (1879–1907, Meclis kapalı) grafikte kısaltılmış ölçekte.
+- 1919 Meclis-i Mebusan ve I. TBMM için "Belirtilmemiş" yerine "Grup verisi yok"; TBMM'de Mayıs 1921 öncesi parti grubu olmadığı notu.
+
 ## 2.2.0 — 2026-11-20
 - 1877–1946 genel seçimlerinde haritanın panelinde meclis (yarım daire) grafiği.
 - Siyasi tarih verisi sürüm parametresiyle yükleniyor; tarayıcı önbelleğindeki eski veri yüzünden 1920 öncesinin boş görünmesi düzeltildi.

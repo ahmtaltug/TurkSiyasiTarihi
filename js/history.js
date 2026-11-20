@@ -15,7 +15,7 @@
   // Meclisin bulunmadığı askerî yönetim dönemleri
   const GAPS = [['1878-02-14', '1908-12-17', 'Meclis kapalı: II. Abdülhamid Meclis-i Mebusan\'ı süresiz tatil etti'], ['1912-08-05', '1914-05-14', 'Meclis feshedildi; yeni meclis açılana dek'],
     ['1918-12-21', '1920-01-12', 'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek'], ['1920-03-18', '1920-04-23', 'İstanbul\'un işgali: Meclis-i Mebusan son kez toplandı'], ['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
-  const SULTAN = '#8a6d3b';
+  const SULTAN = '#8a6d3b', VIZIER = '#b59a6a';
   const MARK = { '1876-12-23': 'I. Meşrutiyet', '1908-07-23': 'II. Meşrutiyet', '1913-01-23': 'Bâbıâli Baskını', '1920-04-23': 'TBMM', '1923-10-29': 'Cumhuriyet', '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
   let H = null, tab = 'chart', pin = null, partySel = null;
   const anim = { on: false, t: 1876, timer: null, speed: 1, types: null };
@@ -23,7 +23,7 @@
   // ------------------------------------------------------------------ renkler
   const dark = () => A().isDark();
   function nameColor(name, leg) {
-    if (name === 'Boş' || name === 'Belirtilmemiş') return dark() ? '#4a4f57' : '#cdc8bf';
+    if (name === 'Boş' || name === 'Belirtilmemiş' || name === 'Grup verisi yok') return dark() ? '#4a4f57' : '#cdc8bf';
     if (name === 'Askerî Hükûmet' || /^Askerî yönetim/.test(name)) return dark() ? '#6b7280' : '#4b5563';
     if (name === 'Geçici Hükûmet' || name === 'Vekâleten' || name === 'Bağımsız' || name === 'Bağımsızlar') return dark() ? '#8b929c' : '#9aa0a8';
     const k = (leg && leg.keys && leg.keys[name]) || A().partyKey(name);
@@ -86,7 +86,10 @@
     let h = `<div class="hc-date">${esc(A().fmtDate(d))}</div>`;
     const su = (H.sultans || []).find((x) => inRange(x, d));
     if (su) h += `<div class="hc-row"><span class="muted">Padişah</span> <span class="sw" style="background:${SULTAN}"></span><b>${esc(su.name)}</b><span class="muted"> · ${esc(A().fmtDate(su.start))} – ${esc(A().fmtDate(su.end))}</span></div>`;
-    if (d < '1920-04-23') h += '<p class="note small">Osmanlı hükûmetleri (sadrazamlar) bu görünümde yer almıyor.</p>';
+    const vz = (H.viziers || []).find((x) => inRange(x, d));
+    if (vz) h += `<div class="hc-row"><span class="muted">Sadrazam</span> <span class="sw" style="background:${VIZIER}"></span><b>${esc(vz.name)}</b><span class="muted"> · ${esc(A().fmtDate(vz.start))} – ${esc(A().fmtDate(vz.end))} (${A().nf.format(days(vz.start, vz.end))} gün)</span></div>`;
+    if (d >= '1920-04-23' && d < '1922-11-17' && vz) h += '<p class="note small">1920–1922 arasında İstanbul\'da Osmanlı hükûmeti, Ankara\'da TBMM hükûmeti birlikte vardı.</p>';
+    if (d >= '1920-04-23' && d < '1921-05-10') h += '<p class="note small">TBMM\'de parti grubu yoktu; Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921\'de kuruldu. Grupların üye sayıları derlenmedi.</p>';
     if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
     if (g) {
       const ps = govParties(g);
@@ -126,20 +129,24 @@
     const box = body;
     const Wc = Math.max(980, box.clientWidth - 8);
     const L0 = 128, R0 = 14, X0 = 1876, X1 = yf(TODAY) + 0.4;
-    const X = (t) => L0 + (t - X0) / (X1 - X0) * (Wc - L0 - R0);
+    // İstibdat dönemi (Meclis kapalı, 1879–1907) kısaltılmış ölçekte
+    const BR = [1879, 1907.5], BW = 4, SPAN = X1 - X0 - (BR[1] - BR[0]) + BW;
+    const U = (t) => (t <= BR[0] ? t - X0 : t >= BR[1] ? BR[0] - X0 + BW + (t - BR[1]) : BR[0] - X0 + (t - BR[0]) / (BR[1] - BR[0]) * BW);
+    const Ui = (u) => (u <= BR[0] - X0 ? X0 + u : u >= BR[0] - X0 + BW ? BR[1] + u - (BR[0] - X0 + BW) : BR[0] + (u - (BR[0] - X0)) / BW * (BR[1] - BR[0]));
+    const X = (t) => L0 + U(t) / SPAN * (Wc - L0 - R0);
     const rows = { ev: [0, 26], pres: [28, 22], pm: [52, 16], gov: [70, 26], seat: [102, 300] };
     const Hc = rows.seat[0] + rows.seat[1] + 26;
     let s = `<svg class="hchart" id="hchart" viewBox="0 0 ${Wc} ${Hc}" width="${Wc}" height="${Hc}" role="img" aria-label="1920'den bugüne meclis sandalye dağılımı, hükûmetler ve cumhurbaşkanları">`;
     s += `<defs><pattern id="gapHatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="2" height="6" class="gh"/></pattern></defs>`;
     // satır etiketleri
     const rl = (y, t) => `<text class="rl" x="${L0 - 8}" y="${y}" text-anchor="end">${t}</text>`;
-    s += rl(rows.pres[0] + 15, 'Devlet başkanı') + rl(rows.pm[0] + 12, 'Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(seçim sonrası)');
+    s += rl(rows.pres[0] + 15, 'Devlet başkanı') + rl(rows.pm[0] + 12, 'Sadrazam / Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(seçim sonrası)');
     // yatay kılavuz çizgileri
     const sy = (f) => rows.seat[0] + rows.seat[1] * (1 - f);
     for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
     // I. TBMM ve askerî dönemler
     for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>` +
-      (X(yf(b)) - X(yf(a)) > 60 ? `<text class="gapt" x="${(X(yf(a)) + X(yf(b))) / 2}" y="${rows.seat[0] + rows.seat[1] / 2}" text-anchor="middle">Meclis kapalı (${a.slice(0, 4)}–${b.slice(0, 4)})</text>` : '');
+      (X(yf(b)) - X(yf(a)) > 60 && a > '1900' ? `<text class="gapt" x="${(X(yf(a)) + X(yf(b))) / 2}" y="${rows.seat[0] + rows.seat[1] / 2}" text-anchor="middle">Meclis kapalı (${a.slice(0, 4)}–${b.slice(0, 4)})</text>` : '');
     // sandalye blokları
     const labels = [];
     legs.forEach((l, i) => {
@@ -178,6 +185,15 @@
       const last = ten[ten.length - 1];
       if (last && last.head === g.head && last.end === g.start) { last.end = g.end; last.n++; } else ten.push({ head: g.head, start: g.start, end: g.end, n: 1 });
     }
+    // Osmanlı sadrazamları (Bâb-ı Âli hükûmetleri)
+    (H.viziers || []).forEach((v, i) => {
+      const x0 = X(yf(v.start)), w = Math.max(1, X(yf(v.end)) - x0);
+      s += `<rect class="pmb ${i % 2 ? 'alt' : ''}" x="${x0}" y="${rows.pm[0]}" width="${w}" height="${rows.pm[1]}"><title>Sadrazam ${esc(v.name)}: ${esc(A().fmtDate(v.start))} – ${esc(A().fmtDate(v.end))}</title></rect>`;
+      s += `<rect class="band" x="${x0}" y="${rows.gov[0]}" width="${w}" height="${rows.gov[1]}" fill="${VIZIER}"><title>Osmanlı hükûmeti — Sadrazam ${esc(v.name)}</title></rect><line class="gsep" x1="${x0}" x2="${x0}" y1="${rows.gov[0]}" y2="${rows.gov[0] + rows.gov[1]}"/>`;
+      let nm = v.name.replace(/ Paşa$/, '').split(' ').slice(-2).join(' ');
+      if (w < nm.length * 5.8 + 4) nm = nm.split(' ').slice(-1)[0];
+      if (w > nm.length * 5.8 + 4) s += `<text class="pmt" x="${x0 + w / 2}" y="${rows.pm[0] + 12}" text-anchor="middle">${esc(nm)}</text>`;
+    });
     ten.forEach((t, i) => {
       const x0 = X(yf(t.start)), w = X(yf(t.end)) - x0;
       s += `<rect class="pmb ${i % 2 ? 'alt' : ''}" x="${x0}" y="${rows.pm[0]}" width="${Math.max(1, w)}" height="${rows.pm[1]}"><title>${esc(t.head)}: ${esc(A().fmtDate(t.start))} – ${t.end ? esc(A().fmtDate(t.end)) : 'görevde'} (${t.n} hükûmet)</title></rect>`;
@@ -202,7 +218,10 @@
     }
     // eksen
     const ay = rows.seat[0] + rows.seat[1];
+    s += `<text class="gapt" transform="translate(${(X(BR[0]) + X(BR[1])) / 2 + 4} ${rows.seat[0] + rows.seat[1] / 2}) rotate(-90)" text-anchor="middle">İstibdat: Meclis kapalı (1878–1908) · ölçek kısaltıldı</text>`;
+    s += `<text class="ax" x="${(X(BR[0]) + X(BR[1])) / 2}" y="${rows.seat[0] + rows.seat[1] + 17}" text-anchor="middle">≈</text>`;
     for (let y = 1880; y <= X1; y += 5) {
+      if (y > BR[0] && y < BR[1]) continue;
       const x = X(y);
       s += `<line class="tick" x1="${x}" x2="${x}" y1="${ay}" y2="${ay + (y % 10 ? 3 : 6)}"/>` + (y % 10 ? '' : `<text class="ax" x="${x}" y="${ay + 17}" text-anchor="middle">${y}</text>`);
     }
@@ -224,7 +243,7 @@
     const tAt = (ev) => {
       const r = svg.getBoundingClientRect();
       const px = (ev.clientX - r.left) * (Wc / r.width);
-      return X0 + (px - L0) / (Wc - L0 - R0) * (X1 - X0);
+      return Ui((px - L0) / (Wc - L0 - R0) * SPAN);
     };
     hit.addEventListener('mousemove', (ev) => { const t = tAt(ev); if (t >= 1920 && t <= X1) show(fromYf(Math.min(t, yf(TODAY)))); });
     hit.addEventListener('mouseleave', () => { if (pin) show(pin); });
@@ -258,7 +277,12 @@
         `<td>${esc(g.head)}<div class="muted small">${esc(g.title)}</div></td><td>${esc(A().fmtDate(g.start))}</td><td>${g.end ? esc(A().fmtDate(g.end)) : 'görevde'}</td>` +
         `<td class="num">${A().nf.format(dur(g))}</td><td>${ps}</td><td class="${g.confidence.failed ? 'down' : ''}">${esc(g.confidence.text || '—')}</td></tr>`;
     }
-    h += '</tbody></table></div><p class="note small">Güvenoyu sütunu "kabul/katılan" biçimindedir. * işaretli partiler hükûmette dönemin yalnız bir bölümünde yer aldı (üzerine gelince tarih yazar). 2018\'den sonra cumhurbaşkanlığı hükûmet sisteminde güvenoyu yoktur. Kaynak: Vikipedi "Türkiye hükûmetleri listesi".</p>';
+    h += '</tbody></table></div>';
+    const V = H.viziers || [];
+    h += `<h3>Osmanlı sadrazamları (1876–1922)</h3><div class="tbl-scroll"><table class="utable govs"><thead><tr><th>Sadrazam</th><th>Başlangıç</th><th>Bitiş</th><th class="num">Gün</th><th>Padişah</th></tr></thead><tbody>` +
+      V.map((v) => { const su = (H.sultans || []).find((x) => inRange(x, v.start)); return `<tr><td>${esc(v.name)}</td><td>${esc(A().fmtDate(v.start))}</td><td>${esc(A().fmtDate(v.end))}</td><td class="num">${A().nf.format(days(v.start, v.end))}</td><td>${esc(su ? su.name : '')}</td></tr>`; }).join('') +
+      '</tbody></table></div><p class="note small">Kaynak: Vikipedi "Osmanlı sadrazamları listesi". Sadrazamlıkta güvenoyu yoktu; sadrazamı padişah atardı.</p>';
+    h += '<p class="note small">Güvenoyu sütunu "kabul/katılan" biçimindedir. * işaretli partiler hükûmette dönemin yalnız bir bölümünde yer aldı (üzerine gelince tarih yazar). 2018\'den sonra cumhurbaşkanlığı hükûmet sisteminde güvenoyu yoktur. Kaynak: Vikipedi "Türkiye hükûmetleri listesi".</p>';
     body.innerHTML = h;
     const apply = () => {
       const q = $('#gSearch').value.trim().toLocaleLowerCase('tr'), c = $('#gCoal').checked;
