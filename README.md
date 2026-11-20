@@ -8,7 +8,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.1.2-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.1.4-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 

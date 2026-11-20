@@ -89,7 +89,8 @@ Kişi adları tek tek birincil kaynakla karşılaştırılamadı. Ayrıştırma 
 - **Demografi:** 81 ilin tamamında nüfus (1927–2025), alan, GSYH ve yaşam beklentisi bulundu. İngilizce tabloda "Istanbul" yazımı eşlemede ayrıca ele alındı.
 
 - **Osmanlı dönemi (2.3.0–3.0.0):** Sadrazamlar Vikipedi "Osmanlı sadrazamları listesi"nden alındı. Listenin ayrıntılı tablosu 31 Mart Vakası'nı Rumi tarihle (31 Mart 1325) yazar; Miladi 13 Nisan 1909'a çevrildi. Padişahların saltanat tarihleri, Meclis'in kapalı olduğu dönemler (14 Şubat 1878 – 17 Aralık 1908, 5 Ağustos 1912 – 14 Mayıs 1914, 21 Aralık 1918 – 12 Ocak 1920, 18 Mart – 23 Nisan 1920) ve kurumsal olay tarihleri elle girildi; birincil kaynakla karşılaştırılmadı.
-- **I. TBMM grupları:** Birinci ve İkinci Grubun üye sayıları kaynaklarda farklı verildiği için derlenmedi. 1920 seçim maddesine göre I. dönemde 349 seçilmiş ve İstanbul'dan gelen 88 vekil vardı (437); 34'ü istifa etti. Dönem listesinde 434 ad sayıldı.
+- **I. TBMM grupları:** İkinci Grubun 63 milletvekiliyle kurulduğu İngilizce Vikipedi "Second Group (Turkey)" maddesinden alındı. Birinci Grubun üye sayısı incelenen maddelerde yok; dağılımda grupsuzlarla birlikte gösterilir. 1920 seçim maddesine göre I. dönemde 349 seçilmiş ve İstanbul'dan gelen 88 vekil vardı (437); 34'ü istifa etti. Dönem listesinde 434 ad sayıldı.
+- **Dönem içi değişiklikler (1923–1930):** Terakkiperver Cumhuriyet Fırkası'na katılan milletvekili sayısı Vikipedi maddesine göre Tunçay'da 29, Tunaya'da 28'dir; 29 kullanıldı. Serbest Cumhuriyet Fırkası'nın 15 milletvekili vardı (Vikipedi). Kapanışlardan sonra bu milletvekilleri partisiz gösterildi; yeniden CHF'ye katılanlar ayrıca izlenmedi.
 - **Vekâleten cumhurbaşkanlığı:** Vekil adları Anayasa'nın öngördüğü Meclis/Senato başkanlarıdır ve elle girildi.
 
 Doğrulanamayanlar: Hükûmet tarihleri ve güvenoyu sayıları TBMM tutanaklarıyla; nüfuslar TÜİK yayınlarıyla birebir karşılaştırılmadı.
