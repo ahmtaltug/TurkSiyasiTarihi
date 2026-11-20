@@ -1,5 +1,11 @@
 # Değişiklik günlüğü
 
+## 3.0.2 — 2026-11-20
+
+- Yeni Parti (24 Temmuz 2026) eklendi: parti zaman çizelgesi, soy ağacı (öncülü CHP), olaylar ve "faal partiler". Kaynak: Vikipedi "Yeni Parti (2026)".
+- 21 Mayıs 2026: CHP 38. Olağan Kurultayı hakkındaki "mutlak butlan" kararıyla Özgür Özel'in CHP genel başkanlığının sona ermesi olaylara eklendi.
+- Not: Meclis grafiği seçim sonrası dağılımı gösterir; Yeni Parti'nin TBMM'deki 90 sandalyesi dönem içi değişiklik olduğu için grafikte yer almaz, parti kartında yazar.
+
 ## 3.0.1 — 2026-11-20 (son sürüm)
 
 Projenin tamamlanmış sürümü. 3.0.0 ve önceki sürümlerdeki bütün özellikleri içerir: 1840–2026 arası 88 seçim kaydı döneminin sınırlarıyla haritada; 1876'dan bugüne meclisler, padişahlar, sadrazamlar, cumhurbaşkanları, hükûmetler, partiler ve olaylarla siyasi tarih; karşılaştırma modu, demografik analiz, zaman atlamalı oynatma, açık/koyu tema, çevrimdışı kullanım.

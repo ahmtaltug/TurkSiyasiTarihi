@@ -29,7 +29,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '3.0.1';
+  const VERSION = '3.0.2';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -928,6 +928,7 @@
     h += `<dt>${p.alliance ? 'Kuruluş – sona eriş' : 'Faaliyet dönemi'}</dt><dd>${per}</dd>`;
     const rn = H.renames.filter((r) => r.party === p.title);
     if (rn.length) h += `<dt>Ad değişiklikleri</dt><dd>${rn.map((r) => `${esc(fmtDate(r.date))}: ${esc(r.from)} → ${esc(r.to)}${r.note ? ` <span class="muted">(${esc(r.note)})</span>` : ''}`).join('<br>')}</dd>`;
+    if (p.tbmm) h += `<dt>TBMM sandalyesi</dt><dd>${p.tbmm[0]} / ${p.tbmm[1]} <span class="muted">(madde bilgi kutusundaki güncel sayı)</span></dd>`;
     h += '</dl>';
     if (p.note) h += `<p class="note">${esc(p.note)}</p>`;
     const rows = [['predecessors', 'Öncülleri (selef)'], ['successors', 'Ardılları (halef)'], ['splits', 'Ayrılanların kurduğu partiler'],

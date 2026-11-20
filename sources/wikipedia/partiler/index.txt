@@ -59,3 +59,4 @@ p58|Demokrat Türkiye Partisi|11756
 p59|Demokrasi ve Atılım Partisi|103935
 p60|Gelecek Partisi|24033
 p61|Muhafazakâr Parti (Türkiye)|x
+p62|Yeni Parti (2026)|115550
