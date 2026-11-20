@@ -1,0 +1,237 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Gelecek Partisi
+| kısaltma         = Gelecek Partisi ya da GELECEK {{küçük|(''resmî'')}}<br>GP {{küçük|(''gayriresmî'')}}
+| colorcode        = {{Siyasi parti renk|Gelecek Partisi}}
+| amblem           = Gelecek-logo.png
+| genel başkanı    = [[Ahmet Davutoğlu]]
+| genel sekreteri  = Hasan Seymen
+| lider1_başlık    = Parti sözcüsü
+| lider1_isim      = Ufuk Karcı
+| kurucusu         = [[Ahmet Davutoğlu]]
+| slogan           = ''İş Çok Mazeret Yok''<br>''Bizim bir Geleceğimiz var''<ref>{{Web kaynağı|url = https://www.birgun.net/haber/ahmet-davutoglu-siyaset-anlayisimiz-gelenege-bagli-ozgurlukculuk-279900|başlık = Ahmet Davutoğlu: Siyaset anlayışımız geleneğe bağlı özgürlükçülük|yazar =|tarih = 12 Aralık 2019|eser =|yayıncı = birgun.net|erişimtarihi = 13 Aralık 2019|arşivurl = https://web.archive.org/web/20191214152936/https://www.birgun.net/haber/ahmet-davutoglu-siyaset-anlayisimiz-gelenege-bagli-ozgurlukculuk-279900|arşivtarihi = 14 Aralık 2019|ölüurl =hayır}}</ref><br>''Güven Huzur Gelecek''<br>''İrade Senin, Gelecek senin''
+| kuruluş          = {{Açılış tarihi ve yaşı|2019|12|12}}
+| öncülü           = [[Adalet ve Kalkınma Partisi]]
+| merkez           = [[Çankaya]], [[Ankara]]<ref>{{Web kaynağı|url = https://tr.euronews.com/2019/12/13/davutoglu-gelecek-partisi-icin-basvuru-dosyasini-bugun-icisleri-bakanligina-sunuyor|başlık = Davutoğlu'nun 'Gelecek Partisi' bugün görücüye çıkıyor|yazar = Menekşe Tokyay|tarih = 13 Aralık 2019|eser =|yayıncı = euronews.com|erişimtarihi = 13 Aralık 2019|arşivurl = https://web.archive.org/web/20191213104712/https://tr.euronews.com/2019/12/13/davutoglu-gelecek-partisi-icin-basvuru-dosyasini-bugun-icisleri-bakanligina-sunuyor|arşivtarihi = 13 Aralık 2019|ölüurl =hayır}}</ref>
+| üyelik           = 59.361<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1573|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20201009234017/https://www.yargitaycb.gov.tr/icerik/1573|arşivtarihi = 9 Ekim 2020}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Muhafazakârlık]]<ref>{{Web kaynağı|url=https://www.al-monitor.com/originals/2019/12/davutoglu-new-party-turkey.html|başlık=Former Erdogan ally establishes new party in Turkey - Al-Monitor: The Pulse of the Middle East|erişimtarihi=8 Mayıs 2022|arşivurl=https://web.archive.org/web/20210419054457/https://www.al-monitor.com/originals/2019/12/davutoglu-new-party-turkey.html|arşivtarihi=19 Nisan 2021|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url= https://www.arabnews.com/node/1598546/middle-east|başlık= What next after Turkey's former PM launches new party?|tarih= 13 Aralık 2019|erişimtarihi= 8 Mayıs 2022|arşivurl= https://web.archive.org/web/20191214144057/https://www.arabnews.com/node/1598546/middle-east|arşivtarihi= 14 Aralık 2019|ölüurl= hayır}}</ref>
+*[[Liberal muhafazakârlık]]<ref>{{Web kaynağı|url=https://www.middleeasteye.net/news/davutoglu-unveils-his-breakaway-future-party-turkey-erdogan|başlık=Arşivlenmiş kopya|erişimtarihi=13 Aralık 2019|arşivurl=https://web.archive.org/web/20191214160031/https://www.middleeasteye.net/news/davutoglu-unveils-his-breakaway-future-party-turkey-erdogan|arşivtarihi=14 Aralık 2019|ölüurl=hayır}}</ref>
+*[[Muhafazakâr liberalizm]]<ref>{{Web kaynağı|url=https://www.birgun.net/haber/ahmet-davutoglu-siyaset-anlayisimiz-gelenege-bagli-ozgurlukculuk-279900|başlık=Ahmet Davutoğlu: Siyaset anlayışımız geleneğe bağlı özgürlükçülük|erişimtarihi=13 Aralık 2019|arşivurl=https://web.archive.org/web/20191213121925/https://www.birgun.net/haber/ahmet-davutoglu-siyaset-anlayisimiz-gelenege-bagli-ozgurlukculuk-279900|arşivtarihi=13 Aralık 2019|ölüurl=hayır}}</ref>
+*[[Ekonomik liberalizm]]<ref>{{Web kaynağı|url=https://gelecekpartisi.org.tr/partimiz/tuzuk|başlık=Arşivlenmiş kopya|erişimtarihi=8 Ekim 2021|arşivurl=https://web.archive.org/web/20210519211321/https://gelecekpartisi.org.tr/partimiz/tuzuk|arşivtarihi=19 Mayıs 2021|ölüurl=evet}}</ref>
+*[[Pro-Avrupacılık]]<ref>{{Web kaynağı|url=https://gelecekpartisi.org.tr/duyuru/davutoglundan-avrupa-birligi-mesaji-kaldigimiz-yerden-iliskileri-devam-ettirmekte-kararliyiz-1682405294|başlık=Davutoğlu’ndan Avrupa Birliği Mesajı: “Kaldığımız Yerden Ilişkileri Devam Ettirmekte Kararlıyız”|erişimtarihi=30 Nisan 2023|arşivurl=https://web.archive.org/web/20230419170636/https://gelecekpartisi.org.tr/duyuru/davutoglundan-avrupa-birligi-mesaji-kaldigimiz-yerden-iliskileri-devam-ettirmekte-kararliyiz-1682405294|arşivtarihi=19 Nisan 2023|ölüurl=evet}}</ref>
+*[[Güçlendirilmiş parlamenter sistem|Parlamenterizm]]<ref>{{Web kaynağı|url = https://www.gazeteduvar.com.tr/politika/2019/12/13/davutoglu-partisini-tanitiyor/|başlık= Davutoğlu: Sıfırdan anayasa, parlamenter sistem - Nergis Demirkaya|website = www.gazeteduvar.com.tr|arşivurl = https://web.archive.org/web/20191213152439/https://www.gazeteduvar.com.tr/politika/2019/12/13/davutoglu-partisini-tanitiyor/|arşivtarihi = 13 Aralık 2019}}</ref>
+}}
+| pozisyon         = [[Merkez sağ]]<ref>{{Web kaynağı|url = https://www.indyturk.com/node/307031/t%C3%BCrkiyeden-sesler/ahmet-davuto%C4%9Flu-islam-ile-demokrasinin-%C3%B6zde-%C3%A7eli%C5%9Fti%C4%9Fi-kanaatinde|başlık = Ahmet Tarık Çelenk &#124; Ahmet Davutoğlu: İslam ile demokrasinin özde çeliştiği kanaatinde değilim|tarih = 27 Ocak 2021|arşivurl = https://web.archive.org/web/20240525185507/https://www.indyturk.com/node/307031/t%C3%BCrkiyeden-sesler/ahmet-davuto%C4%9Flu-islam-ile-demokrasinin-%C3%B6zde-%C3%A7eli%C5%9Fti%C4%9Fi-kanaatinde|arşivtarihi = 25 Mayıs 2024|arşivengelli = evet|erişimtarihi = 13 Nisan 2024|ölüurl = hayır}}</ref> ve [[Sağcılık|sağ]]<ref>{{Web kaynağı|url=https://www.duvarenglish.com/opposition-felicity-and-future-parties-to-form-alliance-for-upcoming-local-elections-news-62888|başlık=Opposition Felicity and Future parties to form alliance for upcoming local elections|tarih=13 Ağustos 2023|erişimtarihi=30 Eylül 2023|arşivurl=https://web.archive.org/web/20230812233414/https://www.duvarenglish.com/opposition-felicity-and-future-parties-to-form-alliance-for-upcoming-local-elections-news-62888|arşivtarihi=12 Ağustos 2023|ölüurl=hayır}}</ref>
+| kapanış          = {{Bitiş tarihi ve yaşı|2026|08|22}}
+| renkler          = {{Color box|#009000|border=darkgray}} {{Color box|{{Siyasi parti renk|Gelecek Partisi}}|border=darkgray}} {{Renk kutusu|#FFFFFF}} [[Yeşil]], [[Yeşil|koyu yeşil]], [[Beyaz]]
+| internet sitesi  = [https://www.gelecekpartisi.org.tr/ gelecekpartisi.org.tr]
+| ülke             = Türkiye
+| ulusal           = [[Altılı Masa]] {{küçük|(2022-2023)}}<br>[[Millet İttifakı]] {{küçük|(2023)}}<br>[[Saadet ve Gelecek İttifakı]] {{küçük|(2023-2025)}}<br>[[Yeni Yol|Yeni Yol İttifakı]] {{küçük|(2025-2026)}}
+| bayrak           = Gelecek Partisi bayrak.png
+}}
+'''Gelecek Partisi''', 12 Aralık 2019 tarihinde [[Ahmet Davutoğlu]] liderliğinde kurulan ve [[Türkiye]]'de faaliyet göstermiş bir siyasi partiydi. Parti tüzüğünde resmî kısaltması "Gelecek Partisi" şeklindeydi. Simgesi çınar yaprağıdır. Genel başkanlığını Ahmet Davutoğlu yapmıştır.
+
+Parti, ülkedeki muhalefet partilerinin önerdiği [[güçlendirilmiş parlamenter sistem]]i desteklemiştir.<ref>{{Haber kaynağı|url=https://www.duvarenglish.com/politics/2019/12/13/davutoglus-future-party-promises-new-constitution-parliamentary-system/|başlık=Davutoğlu’s ‘Future Party’ promises new constitution, parliamentary system|erişimtarihi=23 Aralık 2019|arşivtarihi=23 Aralık 2019|arşivurl=https://web.archive.org/web/20191223151623/https://www.duvarenglish.com/politics/2019/12/13/davutoglus-future-party-promises-new-constitution-parliamentary-system/|ölüurl=evet|eser=Duvar}}</ref>
+
+29 Temmuz 2026 tarihinde Davutoğlu siyasi kariyerini noktalama kararı almış,<ref name=":1">{{Web kaynağı|url=https://www.sozcu.com.tr/ahmet-davutoglu-siyaseti-birakma-karari-aldi-p340791|başlık=Ahmet Davutoğlu siyaseti bırakıyor: Gelecek Partisi feshedildi|erişimtarihi=29 Temmuz 2026|tarih=29 Temmuz 2026|dil=Türkçe|çalışma=www.sozcu.com.tr|arşivurl=https://web.archive.org/web/20260729152752/http://www.sozcu.com.tr/ahmet-davutoglu-siyaseti-birakma-karari-aldi-p340791|arşivtarihi=29 Temmuz 2026|ölüurl=hayır}}</ref> 22 Ağustos 2026 tarihinde yapılan kongre kararıyla Gelecek Partisi siyasi hayatına son vermiştir.<ref name=":2">{{Web kaynağı|url=https://www.aa.com.tr/tr/gundem/gelecek-partisi-feshedildi/4034718|başlık=Gelecek Partisi feshedildi|erişimtarihi=10 Eylül 2026|tarih=22 Ağustos 2026|dil=Türkçe|çalışma=Anadolu Ajansı|arşivtarihi=25 Ağustos 2026|arşivurl=https://web.archive.org/web/20260825010007/https://www.aa.com.tr/tr/gundem/gelecek-partisi-feshedildi/4034718|ölüurl=hayır}}</ref>
+
+==Tarihçe==
+Gelecek Partisi, 12 Aralık 2019'da eski [[Türkiye dışişleri bakanları listesi|dışişleri bakanı]] (2009-2014) ve [[Türkiye başbakanı|başbakan]] (2014-2016) Ahmet Davutoğlu tarafından kuruldu. Cumhurbaşkanı [[Recep Tayyip Erdoğan]]'ın desteğiyle 28 Ağustos 2014'te başbakan seçilen Davutoğlu, daha sonra, iktidarın Türkiye'nin hükûmet biçimini [[parlamenter sistem]]den cumhurbaşkanlığı sistemine dönüştürme hareketlerine karşı çıktı. Erdoğan ile fikir ayrılığı, Davutoğlu'nun [[Ahmet Davutoğlu'nun başbakanlıktan istifa süreci|22 Mayıs 2016'da başbakanlıktan istifasıyla]] sonuçlandı.<ref>{{Web kaynağı|soyadı1 = Letsch|ad1 = Constanze|başlık = Turkish PM Davutoğlu resigns as President Erdoğan tightens grip|url = https://www.theguardian.com/world/2016/may/05/ahmet-davutoglus-future-turkish-prime-minister-balance|website = The Guardian|erişimtarihi = 14 Aralık 2019|arşivurl = https://web.archive.org/web/20191214033309/https://www.theguardian.com/world/2016/may/05/ahmet-davutoglus-future-turkish-prime-minister-balance|arşivtarihi = 14 Aralık 2019|ölüurl =hayır}}</ref>
+
+İstifasının ardından Davutoğlu, partiyi kendisine karşı ihraç istemi ile disipline sevk etmesine neden olan [[Adalet ve Kalkınma Partisi|AK Parti]] hükûmetini sık sık eleştirdi.<ref>{{Web kaynağı|başlık = Former Turkish PM Davutoğlu launches ‘Future Party’|url = http://www.hurriyetdailynews.com/former-turkish-pm-davutoglu-launches-future-party-149816|website = Hürriyet Daily News|erişimtarihi = 14 Aralık 2019|arşivurl = https://web.archive.org/web/20191231232228/http://www.hurriyetdailynews.com/former-turkish-pm-davutoglu-launches-future-party-149816|arşivtarihi = 31 Aralık 2019|ölüurl =hayır}}</ref> Buna karşılık olarak 13 Eylül 2019'da AK Partiden istifa etti. Daha sonra Cumhurbaşkanı Erdoğan'ın yönetimine karşı yeni bir parti kurmaya ilgi duyduğunu ifade etti ve sonunda 12 Aralık 2019'da Gelecek Partisinin kurulduğunu ilan etti. Yeni parti 152 kişiden oluşan ve çok sayıda eski AK Parti yetkilisi ve iştirakini içeren kurucu üyelerden oluşan listesini yayınladı.<ref>{{Web kaynağı|başlık = Gelecek Partisi'nin 154 kişilik kurucular kurulunun en genç üyesi: En azından Davutoğlu'nun diploması var|url = https://www.independentturkish.com/node/103271/siyaset/gelecek-partisinin-154-ki%C5%9Filik-kurucular-kurulunun-en-gen%C3%A7-%C3%BCyesi-en-az%C4%B1ndan|website = Independent Turkish|erişimtarihi = 14 Aralık 2019|arşivurl = https://web.archive.org/web/20200104065027/https://www.independentturkish.com/node/103271/siyaset/gelecek-partisinin-154-ki%C5%9Filik-kurucular-kurulunun-en-gen%C3%A7-%C3%BCyesi-en-az%C4%B1ndan|arşivtarihi = 4 Ocak 2020|ölüurl =evet}}</ref>
+
+Gelecek Partisi, [[Çankaya]]'da bulunan genel merkez binasını 26 Temmuz 2020'de açtı.<ref>{{Web kaynağı|url = https://www.gazeteduvar.com.tr/politika/2020/07/26/gelecek-partisi-genel-merkez-binasinin-acilisi-yapildi/|başlık = Gelecek Partisi Genel Merkez binasının açılışı yapıldı|erişimtarihi = 28 Temmuz 2020|tarih = 26 Temmuz 2020|çalışma =|yayıncı = Gazete Duvar|arşivurl = https://web.archive.org/web/20200728130818/https://www.gazeteduvar.com.tr/politika/2020/07/26/gelecek-partisi-genel-merkez-binasinin-acilisi-yapildi/|arşivtarihi = 28 Temmuz 2020|ölüurl =evet}}</ref> 2 Nisan 2021'de yapılan açıklamada, [[YSK]] tarafından partinin seçimlere girmeye hak kazandığını belirtildi.<ref>{{Web kaynağı|url=https://t24.com.tr/politika/ysk-teyit-etti-gelecek-partisi-secimlere-girmeye-hukuken-hak-kazandi,943220|başlık=YSK teyit etti: Gelecek Partisi seçimlere girmeye hukuken hak kazandı|erişimtarihi=10 Eylül 2026|tarih=2 Nisan 2021|dil=Türkçe|çalışma=T24|arşivtarihi=10 Eylül 2026|arşivurl=https://web.archive.org/web/20260910210540/https://t24.com.tr/politika/ysk-teyit-etti-gelecek-partisi-secimlere-girmeye-hukuken-hak-kazandi,943220|ölüurl=hayır}}</ref>
+
+=== DEVA Partisine birleşme teklifi (2023) ===
+Grup kurma konusunda anlaşma sağlanamayınca [[Demokrasi ve Atılım Partisi|DEVA Partisi]] ve Gelecek Partisinin tamamen birleşerek grup kurması değerlendirildi ve eş genel başkanlık konusu tartışıldı. Ancak DEVA Partisi Genel Başkanı [[Ali Babacan]] eş genel başkanlığı "parti yönetiminde çift başlılık ve mesaj karmaşasına neden olabileceği ve sürdürülebilir olmayacağı" gerekçeleriyle uygun bulmadı.<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/e-arsiv/deva-gelecek-ve-saadet-partileri-arasnda-yaplan-gorusmelere-dair-bilgilendirme|başlık=DEVA, Gelecek ve Saadet Partileri arasında yapılan görüşmelere dair bilgilendirme|yayıncı=DEVA Partisi|erişimtarihi=26 Haziran 2023|arşivurl=https://web.archive.org/web/20230626172840/https://devapartisi.org/parti/e-arsiv/deva-gelecek-ve-saadet-partileri-arasnda-yaplan-gorusmelere-dair-bilgilendirme|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref>
+
+Görüşmelere katılan bir parti yöneticisi, tarafların "Mecliste çatı parti kurularak ileride birleşme ihtimali" düşüncesiyle yola çıktıklarını ancak bunun uygun görülmediğini belirtti. Ayrıca, DEVA Partisi teşkilatlarının çoğunluğunun tüzel kişiliğin dışında grup kurma fikrine sıcak bakmadığı ve [[Saadet Partisi]] ile Gelecek Partisinin görüşmelerinin sürdüğü, ancak sonuç alınamadığı bilgisi paylaşıldı.
+
+=== Saadet Partisi ile ortak grup kurma ===
+6 Temmuz 2023 tarihinde [[Saadet Partisi]] ve Gelecek Partisi yetkilileri TBMM'de ortak bir grup kurulması konusunda anlaşıldığını bildirdiler. "Saadet Partisi-Gelecek Partisi İttifakı" adıyla imzalanan protokol sonrası Gelecek Partisi milletvekilleri olan [[Mustafa Nedim Yamalı]], [[Serap Yazıcı Özbudun]], [[Cemalettin Kani Torun]], [[Sema Silkin Ün]], [[Selim Temurci]], [[İsa Mesih Şahin]], [[Doğan Demir]], [[Mustafa Bilici]], [[Hasan Ekici]] ve [[Selçuk Özdağ]] partilerinden istifa edip Saadet Partisine katılarak Saadet Partisinin TBMM'de bir parti grubu kurmasını sağladılar. Kurulan bu yeni grubun başkanı [[Selçuk Özdağ]] oldu.<ref>{{Web kaynağı|url = https://www.bbc.com/turkce/articles/c10r0l64922o|başlık = Saadet ve Gelecek partileri Meclis'te grup kuracak, yerel seçimde işbirliği yapacak: DEVA Partisi neden çekildi?|erişimtarihi = 6 Temmuz 2023|tarih = 6 Temmuz 2023|dil = Türkçe|çalışma = BBC News Türkçe|arşivengelli = evet|arşivurl = https://web.archive.org/web/20230706132446/https://www.bbc.com/turkce/articles/c10r0l64922o|arşivtarihi = 6 Temmuz 2023|ölüurl = hayır}}</ref>
+
+=== Partiden ayrılan milletvekilleri ===
+
+25 Aralık 2024'te [[Mustafa Nedim Yamalı]], 23 Şubat 2025'te [[Serap Yazıcı Özbudun]], 14 Mayıs 2025'te [[Hasan Ekici]], 7 Ocak 2026'da [[İsa Mesih Şahin]] partiden istifa ederek [[Adalet ve Kalkınma Partisi|AK Partiye]]; 18 Kasım 2025'te [[Doğan Demir]] partiden istifa ederek [[CHP]]'ye katıldı. 19 Temmuz 2025'te [[Selim Temurci]] partiden istifa ederek bağımsız milletvekili olarak devam etmiştir.
+
+=== Fesih ===
+29 Temmuz 2026'da Genel Başkan Ahmet Davutoğlu'nun yaptığı yazılı açıklamayla parti feshedileceğini duyurdu.<ref name=":1" /> 22 Ağustos 2026 tarihinde yapılan kongre kararıyla Gelecek Partisi siyasi hayatına son verdi.<ref name=":2" />
+
+== Başkanlık Kurulu üyeleri ==
+Partinin başkanlık kurulu üyeleri aşağıdaki gibidir.<ref>{{Web kaynağı|url = https://gelecekpartisi.org.tr/kurul/baskanlik-kurulu|başlık = Başkanlık Kurulu|çalışma = Gelecek Partisi|arşivurl = https://web.archive.org/web/20201118000815/https://gelecekpartisi.org.tr/kurul/baskanlik-kurulu|arşivtarihi = 18 Kasım 2020}}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%"
+|-
+! #
+! Adı
+! Görevi
+|-
+| '''1''' || [[Ahmet Davutoğlu]] || Genel Başkan
+|-
+| '''2''' || [[Ayhan Sefer Üstün]] || Genel Başkanı Vekili
+|-
+| '''3''' || [[Hasan Seymen]] || Genel Sekreter
+|-
+| '''4''' || [[İzzettin Küçük]] || Siyasi İşler ve İçişleri Başkanı
+|-
+| '''5''' || Mustafa Yeşilyurt || Teşkilat Başkanı
+|-
+| '''6''' || [[Mustafa Gözel]] || Sivil Toplum ve Halkla İlişkiler Başkanı
+|-
+| '''7''' || [[Ali Aydın (hukukçu)|Ali Aydın]] || Hukuk ve Adalet Politikaları Başkanı
+|-
+| '''8''' || [[Hasan Hüseyin Bozok]] || Yerel Yönetimler Başkanı
+|-
+| '''9''' || [[Rumi Bekiroğlu]] || Seçim İşleri Başkanı
+|-
+| '''10''' || [[Aynur Algül]] || Aile ve Sosyal Politikalar Başkanı 
+|-
+| '''11''' || [[Feridun Bilgin]] || Ekonomi Politikaları Başkanı
+|-
+| '''12''' || [[Engin Keskinel]] || İletişim Başkanı
+|-
+| '''13''' || Ümit Yardım || Dış Politika ve Savunma Başkanı
+|-
+| '''14''' || [[Selami Çalışkan]] || Bilişim ve AR-GE Başkanı
+|-
+| '''15''' || [[Meryem Türktekin]] || İnsan, Doğa ve Çevre Hakları Başkanı
+|-
+| '''16''' || [[Abdullah Başçı]] || İdari ve Mali İşler Başkanı
+|-
+| '''17''' || [[Yeşim Karadağ]] || Kadın Politikaları Başkanı
+|-
+| '''18''' || [[Muhammed Mustafa Çakmakçı]] || Gençlik Politikaları Başkanı
+|-
+| '''19''' || [[Yusuf Ziya Özcan]] || Eğitim ve Bilim Politikaları Başkanı
+|-
+| '''20''' || [[Alptekin Hocaoğlu]] || Sağlık Politikaları Başkanı
+|-
+| '''21''' || [[Burçak Başbuğ Erkan]] || Gıda Güvenliği ve Tarım Başkanı
+|-
+| '''22''' || [[Can Cankesen]] || Çalışma ve Sosyal Güvenlik Başkanı
+|-
+| '''23''' || [[Ferhat Esener]] || Sanayi ve Teknoloji Başkanı
+|-
+| '''24''' || [[Alaattin Fırat]] || Ticaret Başkanı
+|-
+| '''25''' || [[Haydar Çiftçi]] || Şehircilik Başkanı
+|-
+| '''26''' || [[Mehmet Bekhan]] || Kültür ve Turizm Politikaları Başkanı
+|-
+| '''27''' || [[Zekayi Doğan]] || Enerji ve Tabii Kaynaklar Başkanı
+|-
+| '''28''' || [[Mehmet Kuğu]] || Ulaştırma ve Altyapı Başkanı
+|}
+
+== Genel başkanları ==
+{| class="wikitable" style="font-size:90%;"
+|-
+! # !! İsim !! Resim !! Görev Başlangıcı !! Görev Bitişi !! Görev Süresi
+|- 
+! style="background:{{Siyasi parti renk|Gelecek Partisi}}; color:white;"| 1
+| [[Ahmet Davutoğlu]]
+| [[Dosya:Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg|60px]]
+| 19 Aralık 2019
+| 22 Ağustos 2026
+| {{Yıl ve gün cinsinden yaşı|2019|12|19|2026|8|22}}
+|}
+
+== Gelecek Partisi ve seçimler ==
+=== Milletvekilliği seçimleri ===
+Gelecek Partisi [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] [[Cumhuriyet Halk Partisi]] listelerinden katılma kararı aldı.<ref>{{Web kaynağı|url=https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|başlık=Millet İttifakı’nın protokol değişikliği YSK’ye sunuldu|erişimtarihi=11 Nisan 2023|arşivtarihi=10 Nisan 2023|arşivurl=https://web.archive.org/web/20230410001742/https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|tarih=7 Nisan 2023|ölüurl=hayır}}</ref> CHP listelerinden Gelecek Partisi için 19 kişilik yer ayrıldı.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c84mvnjny2wo|başlık=CHP'nin aday listesinde Millet İttifakı'ndaki diğer 5 partiden 76 aday da yer aldı.|erişimtarihi=11 Nisan 2023|arşivtarihi=10 Nisan 2023|arşivurl=https://web.archive.org/web/20230410072142/https://www.bbc.com/turkce/articles/c84mvnjny2wo|tarih=9 Nisan 2023|ölüurl=hayır}}</ref> Seçimler sonucunda 10 kişi milletvekili oldu.<ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/middleeast/turkey/2605202310|başlık=DEVA Partisi grup kurabilmek için CHP’den 5 vekil daha isteyebilir|erişimtarihi=31 Mayıs 2023|arşivtarihi=26 Mayıs 2023|arşivurl=https://web.archive.org/web/20230526094244/https://www.rudaw.net/turkish/middleeast/turkey/2605202310|çalışma=rudaw.net}}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Seçim sonuçları
+! colspan="2" |Sandalye
+! rowspan="2" |Hükûmet
+|-
+!Oy sayısı
+!'''%'''
+!±
+!#
+!±
+|-
+![[2023 Türkiye genel seçimleri|2023]]
+|[[Ahmet Davutoğlu]]
+| colspan="3" |[[Millet İttifakı]]nın ek protokolü gereğince seçimlere [[Cumhuriyet Halk Partisi|CHP]] listelerinden katıldı.
+|{{Composition bar|10|600|hex={{Siyasi parti renk|Gelecek Partisi}}}}
+|{{artış}} 10
+|{{hayır2|Muhalefet}}
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Aday
+! colspan="3" |Birinci tur
+! colspan="2" |İkinci tur
+! rowspan="2" |Sonuç
+|-
+!Oy sayısı
+! %
+!±
+!Oy sayısı
+! %
+|-
+![[2023 Türkiye cumhurbaşkanlığı seçimi#İkinci tur|2023]]
+|[[Dosya:Kemal_Kılıçdaroğlu_in_March_2023_(cropped).png|103x103pik|Kemal Kılıçdaroğlu]]
+----[[Kemal Kılıçdaroğlu]]
+----[[Millet İttifakı]] ortak adayı
+|24.595.178
+|44,88% (#2)
+|—
+|25.504.724
+|47,8% (#2)
+|{{hayır2|Seçilemedi}}
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|[[Ahmet Davutoğlu]]
+|53.898
+|0,11 (#18)
+|Yeni
+|34.212
+|0,07 (#21)
+|{{Composition bar|0|1389|hex={{Siyasi parti renk|Gelecek Partisi}}}}
+|Yeni
+|}
+
+==== Ara yerel seçimler ====
+Gelecek Partisi, 2021 yılında [[Afyonkarahisar]]'ın [[Sinanpaşa]] ilçesine bağlı [[Güney, Sinanpaşa|Güney]] beldesinde yapılan belediye başkanlığı seçimine katılmıştır. 1709 oyun kullanıldığı seçimde geçerli 1606 oyun 1021'ini alan AK Parti adayı Erol Karabacak belediye başkanı seçildi. Seçimi beşinci tamamlayan Gelecek Partisi adayı ise 17 oy almıştır.<ref name=":0">{{Web kaynağı|url = https://www.hurriyet.com.tr/gundem/afyonkarahisarin-guney-beldesinde-secimin-kazanini-belli-oldu-41826512|başlık = Afyonkarahisar'ın Güney beldesinde seçimin kazanını belli oldu|tarih = 6 Haziran 2021|yayıncı = hurriyet.com.tr|arşivurl = https://web.archive.org/web/20210606211142/https://www.hurriyet.com.tr/gundem/afyonkarahisarin-guney-beldesinde-secimin-kazanini-belli-oldu-41826512|arşivtarihi = 6 Haziran 2021}}</ref>
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+* {{Resmî site|https://gelecekpartisi.org.tr/}}
+* {{Facebook|id=GelecekPartiTr}}
+* {{Twitter|id=gelecekpartiTR}}
+* {{İnstagram|id=gelecekpartiTR}}
+* {{YouTube|kullanıcı=@GelecekPartisiTR}}
+
+{{Türkiye'deki eski siyasi partiler}}
+[[Kategori:Gelecek Partisi| ]]
+[[Kategori:Ankara ili merkezli kuruluşlar]]
+[[Kategori:2019'da kurulan siyasi partiler]]
+[[Kategori:2019'da Türkiye'de kurulan oluşumlar]]
+[[Kategori:Türkiye'deki eski muhafazakâr partiler]]
+[[Kategori:Millet İttifakı]]
+[[Kategori:Ahmet Davutoğlu]]
+[[Kategori:2026'da Türkiye'de feshedilmiş oluşumlar]]
+[[Kategori:2026'da kapatılan siyasi partiler]]

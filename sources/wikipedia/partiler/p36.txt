@@ -1,0 +1,509 @@
+{{koruma}}
+{{Siyasi parti bilgi kutusu
+| isim             = Zafer Partisi
+| amblem           = Zafer Partisi Logo.png
+| ülke             = {{bayrak|Türkiye}}
+| colorcode        = {{Siyasi parti renk|Zafer Partisi}}
+| kısaltma         = ZAFER {{küçük|(gayriresmî)}}<br>ZP {{küçük|(gayriresmî)}}
+| genel başkanı    = [[Ümit Özdağ]]
+| genel sekreteri  = [[Cezmi Polat]]
+| kurucusu         = [[Ümit Özdağ]]
+| lider1_başlık    = Parti sözcüsü
+| lider1_isim      = [[Azmi Karamahmutoğlu]]
+| lider2_başlık    = 
+| lider2_isim      = 
+| slogan           = ''Bilim, Birlik, Barış''<br>''Zafer Partisi gelecek, sığınmacılar gidecek!''<br>{{Daraltılabilir liste| title = Diğer sloganlar:
+|''Türkiye'nin Zaferi''
+|''Korkma Zafer yakın!''
+|''Türk devletini, Türk milletine geri vereceğiz''<ref>{{Tweet kaynağı|kullanıcı=SevdaOzbk |numara=1521150322382622721 |başlık=Zafer Partisi Alanya ilçe Başkanlığında yeni üyelere rozet taktık.}}</ref>
+|''Yeter Artık! Göndereceğiz''<ref>{{Web kaynağı|url = https://youtu.be/yHvb-0-4usY?t=484|başlık = Flash Haber TV'de parti genel başkanı Ümit Özdağ'ın 2023 seçim sloganı açıklaması|arşivurl = https://web.archive.org/web/20230119172118/https://youtu.be/yHvb-0-4usY?t=484|arşivtarihi = 19 Ocak 2023}}</ref>
+}}
+| ideoloji         = {{yalın liste|
+*[[Türk milliyetçiliği]]{{refn|<ref name="ozdag-haberturk"/><ref name="ozdag-sozcu">{{Web kaynağı|url=https://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-2-2054459/|başlık=Ümit Özdağ’dan Erdoğan’a ‘Türkçülük’ yanıtı|erişimtarihi=4 Haziran 2022|dil=Türkçe|çalışma=[[Sözcü]]|arşivurl=https://web.archive.org/web/20210904113223/https://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-2-2054459/|arşivtarihi=4 Eylül 2021|ölüurl=hayır}}</ref>}}
+*[[Kemalizm|Atatürkçülük]]<ref name="ozdag-haberturk"/><br />[[Göçmen karşıtlığı]]{{refn|<ref>{{Web kaynağı|url=https://www.habererk.com/politika/zafer-partisi-kurulus-bildirgesini-umit-ozdag-tek-tek-acikladi-h150540.html|başlık=Zafer Partisi Kuruluş Bildirgesini Ümit Özdağ tek tek açıkladı!|website=www.habererk.com|erişimtarihi=12 Mayıs 2022|arşivtarihi=12 Mayıs 2022|arşivurl=https://web.archive.org/web/20220512164428/https://www.habererk.com/politika/zafer-partisi-kurulus-bildirgesini-umit-ozdag-tek-tek-acikladi-h150540.html|ölüurl=evet}}</ref><ref>{{Web kaynağı|url=https://www.diken.com.tr/ozdagdan-anadolu-kalesi-projesi-siginmacilar-icin-sam-yonetimiyle-gorusecek/|başlık=Özdağ'dan 'Anadolu Kalesi' projesi: Sığınmacılar için Şam yönetimiyle görüşecek|tarih=19 Nisan 2022|erişimtarihi=27 Nisan 2022|arşivtarihi=26 Nisan 2022|arşivurl=https://web.archive.org/web/20220426000943/https://www.diken.com.tr/ozdagdan-anadolu-kalesi-projesi-siginmacilar-icin-sam-yonetimiyle-gorusecek/|ölüurl=hayır}}</ref>}}
+*[[Türkçülük]]<ref name="ozdag-sozcu"/>
+*[[Ulusalcılık]]<ref>{{Web kaynağı | url = https://iktibasdergisi.com/2022/12/02/ulusalci-partiler-yeni-bir-ittifak-kuruyor/ | başlık = Ulusalcı partiler yeni bir ittifak kuruyor | erişimtarihi = 4 Şubat 2026 | ölüurl = hayır | website = iktibasdergisi.com | arşivurl = https://web.archive.org/web/20260408100303/https://iktibasdergisi.com/2022/12/02/ulusalci-partiler-yeni-bir-ittifak-kuruyor/ | arşivtarihi = 8 Nisan 2026}}</ref>
+*[[Kültürel milliyetçilik]]<ref>{{Web kaynağı|url=https://www.sonhaber16.com/iste-zafer-partisi-programi/|başlık=İşte Zafer Partisi programı|tarih=9 Eylül 2021|website=sonhaber16.com|erişimtarihi=4 Mayıs 2024|arşivurl=https://web.archive.org/web/20240504220911/https://www.sonhaber16.com/iste-zafer-partisi-programi/|arşivtarihi=4 Mayıs 2024|ölüurl=hayır}}</ref>
+*[[Aşırı milliyetçilik]]{{refn|<ref>{{Web kaynağı|url = https://www.haberler.com/zafer-partisi-nedir-kurucusu-kimdir-zafer-14350811-haberi/|başlık = Zafer Partisi nedir, kurucusu kim, ne zaman kuruldu? Zafer Partisi logosu ne? Zafer Partisi üyeleri kimler?|tarih = 24 Ağustos 2021|erişimtarihi = 30 Ağustos 2021|arşivtarihi = 30 Ağustos 2021|arşivurl = https://web.archive.org/web/20210830104847/https://www.haberler.com/zafer-partisi-nedir-kurucusu-kimdir-zafer-14350811-haberi/|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://t24.com.tr/yazarlar/ali-d-ulusoy/yeni-milliyetcilik-ve-zafer-partisi-fenomeni,35233|başlık=Yeni milliyetçilik ve Zafer Partisi fenomeni|dil=Türkçe|erişimtarihi=16 Haziran 2022|arşivtarihi=17 Mayıs 2022|arşivurl=https://web.archive.org/web/20220517211123/http://t24.com.tr/yazarlar/ali-d-ulusoy/yeni-milliyetcilik-ve-zafer-partisi-fenomeni,35233|ölüurl=hayır}}</ref><ref>{{haber kaynağı | url=https://www.theguardian.com/world/2023/may/24/ultranationalist-leader-backs-kemal-klcdaroglu-for-turkish-presidency | başlık=Ultranationalist leader backs Kemal Kılıçdaroğlu for Turkish presidency | gazete=The Guardian | tarih=24 Mayıs 2023 | soyadı1=Michaelson | ad1=Ruth | erişimtarihi=4 Mayıs 2024 | arşivurl=https://web.archive.org/web/20231201100037/https://www.theguardian.com/world/2023/may/24/ultranationalist-leader-backs-kemal-klcdaroglu-for-turkish-presidency | arşivtarihi=1 Aralık 2023 | ölüurl=hayır }}</ref><ref>{{Haber kaynağı|url=https://www.duvarenglish.com/akp-spokesperson-says-victory-party-and-hdp-cannot-come-together-news-62466|başlık=AKP spokesperson says Victory Party and HDP 'cannot come together'|tarih=25 Mayıs 2023|website=Duvar|erişim-tarihi=25 Haziran 2023|arşivurl=https://web.archive.org/web/20230605125720/https://www.duvarenglish.com/akp-spokesperson-says-victory-party-and-hdp-cannot-come-together-news-62466|arşivtarihi=5 Haziran 2023|ölüurl=hayır}}</ref>}}
+*[[Ekonomik milliyetçilik]]<ref>{{Web kaynağı|url=https://www.haberturk.com/yazarlar/kubra-par-2561/3212733-umit-ozdagin-4-koridorlu-kalkinma-modeli|başlık=Ümit Özdağ’ın 4 koridorlu kalkınma modeli|erişimtarihi=9 Mayıs 2022|tarih=6 Ekim 2021|dil=Türkçe|çalışma=[[Habertürk|Haber Türk]]|arşivurl=https://web.archive.org/web/20220521114608/https://www.haberturk.com/yazarlar/kubra-par-2561/3212733-umit-ozdagin-4-koridorlu-kalkinma-modeli|arşivtarihi=21 Mayıs 2022|ölüurl=hayır}}</ref>
+*[[Parlamenter sistem|Parlamenterizm]]{{refn|<ref name ="myavas"/><ref>{{Web kaynağı|url = https://www.sondakika.com/politika/haber-politika-zafer-partisi-genel-baskani-ozdag-gundemi-14439641/|başlık = Zafer Partisi Genel Başkanı Özdağ, gündemi değerlendirdi|erişimtarihi = 19 Eylül 2022|tarih = 5 Ekim 2021|dil = Türkçe|çalışma =sondakika.com|arşivurl = https://web.archive.org/web/20220920172648/https://www.sondakika.com/politika/haber-politika-zafer-partisi-genel-baskani-ozdag-gundemi-14439641/|arşivtarihi = 20 Eylül 2022}}</ref>}}
+*[[Sağ popülizm]]<ref>{{Web kaynağı|url = https://www.dw.com/tr/avrupadaki-sa%C4%9F-pop%C3%BClizm-t%C3%BCrkiyeye-mi-s%C4%B1%C3%A7rad%C4%B1/a-61865916|başlık = Avrupa'daki sağ popülizm Türkiye'ye mi sıçradı?|erişimtarihi = 14 Ağustos 2022|tarih = 20 Mayıs 2022|dil = Türkçe|çalışma = [[Deutsche Welle]]|arşivurl = https://web.archive.org/web/20220520045141/https://www.dw.com/tr/avrupadaki-sa%C4%9F-pop%C3%BClizm-t%C3%BCrkiyeye-mi-s%C4%B1%C3%A7rad%C4%B1/a-61865916|arşivtarihi = 20 Mayıs 2022}}</ref>
+*[[Avrupa şüpheciliği]]<ref>{{Web kaynağı|url=https://t24.com.tr/video/umit-ozdag-turkiye-deki-siginmacilari-geri-yollamak-icin-kimseden-izin-almayacagiz-burasi-bizim-ulkemiz-kardesim-bedelini-odedik,48916|başlık=Ümit Özdağ: Türkiye’deki sığınmacıları geri yollamak için kimseden izin almayacağız|erişimtarihi=19 Eylül 2022|tarih=25 Temmuz 2022|dil=Türkçe|çalışma=[[T24]]|arşivurl=https://web.archive.org/web/20220725103038/https://t24.com.tr/video/umit-ozdag-turkiye-deki-siginmacilari-geri-yollamak-icin-kimseden-izin-almayacagiz-burasi-bizim-ulkemiz-kardesim-bedelini-odedik,48916|arşivtarihi=25 Temmuz 2022|ölüurl=hayır}}</ref>
+}}
+| kuruluş          = {{Açılış tarihi ve yaşı|2021|8|26}}
+| kapanış          = 
+| birleşme         = 
+| bölünme          = [[İYİ Parti]]
+| ardılı           = 
+| merkez           = [[Çankaya]], [[Ankara]]
+| gazete           = 
+| televizyon       = 
+| ulusal           = [[ATA İttifakı]] {{Küçük|(2023)}}
+| gençlik_kolu     = Zafer Partisi Gençlik Kolları
+| öğrenci_kolu     = 
+| üyelik           = {{artış}} 74.399<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1721|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20211205125803/https://www.yargitaycb.gov.tr/icerik/1721|arşivtarihi = 5 Aralık 2021}}</ref>
+| üyelik_yıl       = 2026
+| pozisyon         = 
+| uluslararası     = 
+| avrupa           = 
+| renkler          = {{Color box|#C00D0E|border=darkgray}}{{Color box|#353B3E|border=darkgray}}{{Color box|#FFFFFF|border=darkgray}} [[Kırmızı]], [[siyah]] ve [[beyaz]]
+| sandalye1_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye1        = {{Composition bar|1|922|hex={{Siyasi parti renk|Zafer Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| marş             = ''Kutlu Olsun''<ref name="Zafer Partisi Kutlu Olsun Marşı">{{Web kaynağı|url = https://www.youtube.com/watch?v=18KYOKutzE0|başlık = Zafer Partisi “Kutlu Olsun" Marşı|eser = [[YouTube]]|erişimtarihi = 31 Ocak 2022|arşivurl = https://web.archive.org/web/20210921140155/https://www.youtube.com/watch?v=18KYOKutzE0&feature=youtu.be|arşivtarihi = 31 Ocak 2022}}</ref>
+| sembol           = 
+| internet sitesi  = {{URL|https://www.zaferpartisi.org.tr|zaferpartisi.org.tr}}
+| bayrak           = Zafer Partisi bayrağı.jpg
+| sandalye2        = {{Composition bar|5|20953|hex={{Siyasi parti renk|Zafer Partisi}}}}
+| sandalye2_başlık = [[Belediye meclisi|Belediye Meclisi]]
+}}
+
+'''Zafer Partisi''', [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] [[Türk milliyetçiliği|milliyetçi]] bir [[siyasi parti]]dir. 26 Ağustos 2021'de [[Ümit Özdağ]]  tarafından kurulan parti, Ayyıldız Hareketi'nin devamı niteliğindedir ve ambleminde ay yıldız şeklinde tasarlanan bir meşale bulunmaktadır. Partinin [[Türkiye Büyük Millet Meclisi]]'nde herhangi bir temsilcisi bulunmamaktadır. Partinin genel başkanı [[Ümit Özdağ]], Partinin sözcüsü [[Azmi Karamahmutoğlu]], genel sekreteri [[Cezmi Polat]]'tır.
+
+[[2023 Türkiye genel seçimleri]]ne, Adalet Partisi ile birlikte [[ATA İttifakı]] çatısı altında katılan Zafer Partisi, seçimlere kendi listesiyle girdi. Parti, %2,23 oranında oy alarak [[Türkiye'de seçim barajı|seçim barajının]] altında kaldı ve Türkiye Büyük Millet Meclisi'nde temsil edilme hakkını elde edemedi. Parti, [[2023 Türkiye cumhurbaşkanlığı seçimi|2023 Türkiye cumhurbaşkanlığı seçimlerinin]] ilk turunda ATA İttifakı'nın ortak adayı [[Sinan Oğan]]'ı, ikinci turunda ise [[Millet İttifakı]]'nın adayı [[Kemal Kılıçdaroğlu]]'nu destekledi.<ref>{{Web kaynağı|url=https://chp.org.tr/haberler/chp-genel-baskani-ve-cumhurbaskani-adayi-kilicdaroglu-ile-zafer-partisi-genel-baskani-ozdagin-ortak-basin-aciklamasi|başlık=CHP Genel Başkanı ve Cumhurbaşkanı Adayı Kılıçdaroğlu ile Zafer Partisi Genel Başkanı Özdağ'ın Ortak Basın Açıklaması|erişimtarihi=31 Temmuz 2025|dil=Türkçe|çalışma=chp.org.tr|arşivurl=https://web.archive.org/web/20250804160955/https://chp.org.tr/haberler/chp-genel-baskani-ve-cumhurbaskani-adayi-kilicdaroglu-ile-zafer-partisi-genel-baskani-ozdagin-ortak-basin-aciklamasi|arşivtarihi=4 Ağustos 2025|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.zaferpartisi.org.tr/Haberler/%E2%80%9Czafer-partisi-olarak-kemal-kilicdaroglu%E2%80%99nu-destekliyoruz%E2%80%9D/|başlık=ZAFER PARTİSİ OLARAK KEMAL KILIÇDAROĞLU’NU DESTEKLİYORUZ|erişimtarihi=31 Temmuz 2025|dil=Türkçe|çalışma=Zafer Partisi Resmi Web Sitesi - Bilim Birlik Barış|arşivurl=https://web.archive.org/web/20250327160549/https://www.zaferpartisi.org.tr/Haberler/%E2%80%9Czafer-partisi-olarak-kemal-kilicdaroglu%E2%80%99nu-destekliyoruz%E2%80%9D/|arşivtarihi=27 Mart 2025|ölüurl=hayır}}</ref> Oğan, ilk turda %5,17 oranında oy aldı, ancak ikinci turda [[Cumhur İttifakı]] adayı [[Recep Tayyip Erdoğan]]'ı destekleme kararı aldı. Bu gelişme üzerine Zafer Partisi ile Oğan arasında görüş ayrılıkları doğdu ve siyasi işbirliği sona erdi. Parti, [[2024 Türkiye yerel seçimleri]]nde %2,44 oy alarak yedinci sırada yer aldı.
+
+Partinin en belirgin politikası, [[düzensiz göç]]le mücadele ve sığınmacıların kademeli olarak ülkelerine geri gönderilmesidir. Zafer Partisi, bu konuda “gönüllü değil, zorunlu geri dönüş” politikasını savunmakta; sınır güvenliği ve iç güvenlik politikalarını öncelikli alanlar olarak belirlemektedir. Partinin genel başkanı Özdağ, "[[:Kategori:Türkiye'de cemaatler|tarikat ve cemaatlerin]] [[bürokrasi]]den temizleneceği, [[Türk mafyası|mafyanın]] [[devlet]] ve [[toplum]] üzerindeki etkisini [[tasfiye]] edeceği, sürdürülebilir planlı [[kalkınma ekonomisi]]ne geçileceği, [[Türkiye başbakanı|başbakanlık]] ve [[bakanlık]] bürokrasilerinin tekrar oluşturulacağı ve [[parlamenter demokrasi]]ye geçileceğini hedeflediklerini" kamuoyuyla paylaştı.<ref name=":2" /> Özdağ, partisini <nowiki>''</nowiki>[[Mustafa Kemal Atatürk|Atatürk]]<nowiki>'ün partisi''</nowiki> olarak nitelendirdi ve [[Kemalizm|Atatürkçülüğü]] benimsediklerini savundu.<ref>[https://youtu.be/9t5_odFIfWc?t=1572 Ümit Özdağ'dan Tekrar Tekrar İzleyeceğiniz Flaş Açıklamalar! | Bahar Feyzan] 1 Ağustos 2023.</ref>
+
+== Tarihçe ==
+
+Parti, genel başkan Ümit Özdağ'ın "2011 yılında başlayan [[Suriye İç Savaşı]]'ndan beri hatalı bulduğu sığınmacı politikalarının Türkiye'ye maddi ve demografik etkisi, [[İYİ Parti]] içindeki anti-demokratik yaklaşımlar ile [[Fethullahçılar|FETÖ]] ve yurt dışı kaynaklı fonlarla bağlantılı kişilerin karar alma mekanizmalarına getirildiği,<ref>{{Web kaynağı|url = https://www.veryansintv.com/yok-boyle-bir-iliski-agi-enver-altaylinin-kadrosu/|başlık = Enver Altaylı'nın ilişki ağı|arşivurl = https://web.archive.org/web/20200218152715/https://www.veryansintv.com/yok-boyle-bir-iliski-agi-enver-altaylinin-kadrosu/|arşivtarihi = 18 Şubat 2020}}</ref> [[Türkçülük]] fikrini benimseyen kesimlerin tasfiyesi" ile ilgili öne sürdüğü iddiaları nedeniyle; dönemin muhalefet partilerinden ayrılan politika, akademi, bürokrasi, güvenlik gibi meslek gruplarına sahip insanlarla 19 Mayıs 2021'de,<ref name=":3">{{Web kaynağı|url = https://www.sondakika.com/haber/haber-istanbul-milletvekili-umit-ozdag-ayyildiz-hareketi-14142645/|başlık = Ümit Özdağ, Ayyıldız Hareketi’nin Genel Eşgüdüm Merkezi’ni açtı|erişimtarihi = 28 Eylül 2021|tarih = 19 Mayıs 2021|dil = Türkçe|çalışma =sondakika.com|arşivurl = https://web.archive.org/web/20210928213410/https://www.sondakika.com/haber/haber-istanbul-milletvekili-umit-ozdag-ayyildiz-hareketi-14142645/|arşivtarihi = 28 Eylül 2021}}</ref> Özdağ'ın ifadesiyle "[[Mustafa Kemal Atatürk|Atatürk]] çizgisinde [[Türk milliyetçiliği]] düsturu oluşturma hedefi"<ref name="ozdag-haberturk">{{Web kaynağı|url=https://www.haberturk.com/umit-ozdag-dan-haberturk-e-aciklamalar-3421214|başlık=Ümit Özdağ'dan Habertürk'e açıklamalar|erişimtarihi=9 Mayıs 2022|tarih=26 Nisan 2022|dil=Türkçe|çalışma=[[Habertürk|Haber Türk]]|arşivurl=https://web.archive.org/web/20220507155246/https://www.haberturk.com/umit-ozdag-dan-haberturk-e-aciklamalar-3421214|arşivtarihi=7 Mayıs 2022|ölüurl=hayır}}</ref> ile Ayyıldız Hareketi adıyla örgütlenmiş ve 26 Ağustos 2021 tarihinde [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]]'na kuruluş dilekçesini vererek resmen kurulmuştur.<ref name="Zafer Partisi Yargıtay">{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1721|başlık=Zafer Partisi|erişimtarihi=23 Nisan 2022|arşivtarihi=5 Aralık 2021|arşivurl=https://web.archive.org/web/20211205125803/https://www.yargitaycb.gov.tr/icerik/1721|tarih=26 Ağustos 2021|çalışma=[[Yargıtay (Türkiye)|Yargıtay Cumhuriyet Başsavcılığı]]}}</ref>
+
+Partiye göre, Zafer Partisi'nin ortaya çıkış sebebi ve başlıca gündemi, "iktidardaki [[Adalet ve Kalkınma Partisi|AK Parti]] ve [[Türkiye cumhurbaşkanı|Cumhurbaşkanı]] [[Recep Tayyip Erdoğan|Erdoğan]]'ın yanı sıra [[Ana muhalefet partisi lideri|ana muhalefet partisi]] olan [[Cumhuriyet Halk Partisi]] başta olmak üzere" bu konu üzerinde yeterince durmadıklarını iddia ettikleri muhalefet partileriyle ters düştükleri ve "stratejik göç mühendisliği" adını verdikleri sığınmacı politikaları,<ref>{{Web kaynağı|url = https://www.youtube.com/watch?v=qBeI4wP9vVk|başlık = Ümit Özdağ, önce bütün sığınmacılar ülkelerine geri dönecek|arşivurl = https://web.archive.org/web/20210904062331/https://www.youtube.com/watch?v=qBeI4wP9vVk|arşivtarihi = 4 Eylül 2021}}</ref> [[yolsuzluk]] iddiaları,<ref>{{Web kaynağı|url = https://www.cnnturk.com/turkiye/umit-ozdagdan-yskya-sert-tepki|başlık = Ümit Özdağ'dan YSK'ya sert tepki|erişimtarihi =24 Nisan 2022|dil =Türkçe|çalışma = [[CNN Türk]]|arşivurl = https://web.archive.org/web/20170419200907/https://www.cnnturk.com/turkiye/umit-ozdagdan-yskya-sert-tepki|arşivtarihi = 19 Nisan 2017}}</ref> "başarısız ekonomi politikaları", mevcut muhalefet partilerinin [[2002 Türkiye genel seçimleri|2002 genel seçimlerinden]] bugüne kadar iktidar olamaması ve ülkenin birkaç siyasi partinin tekelinde hapsolmasıdır.
+
+Parti lideri Ümit Özdağ bu iddialarını ve partisinin kuruluş sebebini kurucusu olduğu 21. Yüzyıl Türkiye Enstitüsü, [[Avrasya Stratejik Araştırmalar Merkezi]] ve çeşitli gazetelerde yayınladığı yazı ve makaleler ile çeşitli kitaplarında öne sürdüğü iddiaları ile ele aldığını aktarmış ve partisinin kurulma amacını belirttiğini söylemiştir.<ref name="auto">{{Web kaynağı|url=https://www.haber3.com/guncel/politika/ayyildiz-hareketi-lideri-umit-ozdag-yeni-partinin-kurucu-uyelerini-tanitti-haberi-6025275|başlık=Ayyıldız Hareketi lideri Ümit Özdağ, yeni partinin kurucu üyelerini tanıttı|arşivtarihi=14 Temmuz 2021|arşivurl=https://web.archive.org/web/20210714122302/https://www.haber3.com/guncel/politika/ayyildiz-hareketi-lideri-umit-ozdag-yeni-partinin-kurucu-uyelerini-tanitti-haberi-6025275|tarih=14 Temmuz 2021|çalışma=haber3.com}}</ref>
+
+{{gizli içerik-başlık
+|title=Kurucu üyeler
+|başlıkbiçimi= font-size: 1.0em;
+|kenarlık= 1px solid lightgrey}}
+{|
+|
+* [[Ümit Özdağ]]
+* Adem Taşkaya
+* Ali Dinçer Çolak
+* Ali Çağlar
+* Ayşe Melda Topyay
+* Bekir Şahin
+* Burak Mengü
+* Bülent Kutlu
+* [[Cezmi Polat]]
+|
+* Dursun Dağaşan
+* Eray Ertürk
+* Erdinç Örencik
+* Erman Diçer
+* Esra Özsüer
+* Fatma Melike Karaaslan
+* Feridun Yıldız
+* Gökhan Türkmenoğlu
+|
+* Hasan Basri Akşener
+* Hüseyin Şahin
+* İbrahim Tuzcu
+* İlkim Yüksel
+* İncilay Gezgin Şekerdağ
+* [[İsmail Koncuk]]
+* İsmail Türk
+* Jülide Sarıkaya Kurdoğlu
+|
+* Kemal Mert
+* Kürşat Dağ
+* Lütfü Şahsuvaroğlu
+* Mehmet Alagöz
+* Mehmet Emin Özbey
+* Murat Yıldız
+* Mustafa Özal
+* Namık Öztürk
+|
+* Neslihan Irvana Tuna
+* Onur Şahin
+* Oğuz Ataman
+* Ömer Turan
+* Özgür Erpolat
+* Roza Kurban
+* Salim Kabasakal
+* Serdar Öztürk
+* Sevdagül Tunçer
+|
+* Seyit Yücel
+* Şevval Erdel
+* Turhan Kaya
+* Tuğba Demirbağ
+* Tuğrul Kıhtır
+* Tuğrul Çağrı Kayalak
+* Uğur Tarhan
+* Vedat Çakıroğlu
+|
+|}
+{{gizli içerik-son}}
+
+=== 2023 genel seçimleri ===
+{{ayrıca bakınız|ATA İttifakı|Sinan Oğan'ın 2023 cumhurbaşkanlığı seçim kampanyası}}
+Özdağ, 2023'te yapılacak olan [[2023 Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı seçiminden]] bir sene önce katıldığı televizyon programında [[Ankara Büyükşehir Belediyesi|Ankara Büyükşehir Belediye]] Başkanı [[Mansur Yavaş]]'ı Cumhurbaşkanlığı adaylığı için göreve davet etmiştir.<ref name="myavas">{{Web kaynağı|url=https://haber.sol.org.tr/haber/zafer-partisi-cumhurbaskani-adayini-acikladi-mansur-yavasi-goreve-cagiriyoruz-331715|başlık=Zafer Partisi cumhurbaşkanı adayını açıkladı: 'Mansur Yavaş'ı göreve çağırıyoruz'|erişimtarihi=7 Mayıs 2022|arşivtarihi=6 Nisan 2022|arşivurl=https://web.archive.org/web/20220406143606/https://haber.sol.org.tr/haber/zafer-partisi-cumhurbaskani-adayini-acikladi-mansur-yavasi-goreve-cagiriyoruz-331715|tarih=6 Nisan 2022|ölüurl=hayır}}</ref> Mansur Yavaş, Cumhurbaşkanlığı adaylığına sıcak bakmayıp partisinin genel başkanı olan Kemal Kılıçdaroğlu'nu desteklemiştir.<ref>{{Web kaynağı|url = https://www.evrensel.net/haber/480109/mansur-yavastan-kemal-kilicdaroglunun-cumhurbaskani-adayligina-destek|başlık = Mansur Yavaş'dan Destek|erişimtarihi = 19 Temmuz 2023|tarih = 22 Ocak 2023|yayıncı = Evrensel|arşivurl = https://web.archive.org/web/20230122174702/https://www.evrensel.net/haber/480109/mansur-yavastan-kemal-kilicdaroglunun-cumhurbaskani-adayligina-destek|arşivtarihi = 22 Ocak 2023}}</ref> [[ATA İttifakı]] görüşmelerinde [[Fatih Altaylı]], Ümit Özdağ ile görüştüğünü; kendisine adaylarının [[Muharrem İnce]] olduğunu söylediğini eğer [[Mansur Yavaş]] aday olursa onu destekleyeceklerini ifade ettiğini yazdı.<ref>{{Haber kaynağı|url=https://www.haberturk.com/yazarlar/fatih-altayli-1001/3569466-ozdag-yavas-aday-yapilmaz-ise-adayimiz-ince|başlık=Özdağ: Yavaş aday yapılmaz ise adayımız İnce|erişimtarihi=14 Mart 2023|arşivtarihi=14 Mart 2023|arşivurl=https://web.archive.org/web/20230314153131/https://www.haberturk.com/yazarlar/fatih-altayli-1001/3569466-ozdag-yavas-aday-yapilmaz-ise-adayimiz-ince|tarih=28 Şubat 2023|ölüurl=hayır|yayıncı=[[Habertürk (gazete)|Habertürk]]|ad=Fatih|soyadı=Altaylı}}</ref> Muharrem İnce 4 Martta "Ben kimsenin yedek adayı değilim." açıklamasında bulundu ve ittifak görüşmesinin yapıldığı [[WhatsApp]] grubuna "Ben bu ittifaktan çekiliyorum, hakkınızı helal edin."<ref>{{Web kaynağı|url=https://sputniknews.com.tr/20230304/umit-ozdag-acikladi-muharrem-ince-ittifaktan-ayrildi-1067813960.html|başlık=Ümit Özdağ: Muharrem İnce ittifaktan çekildi|erişimtarihi=11 Mart 2023|arşivtarihi=11 Mart 2023|arşivurl=https://web.archive.org/web/20230311160416/https://sputniknews.com.tr/20230304/umit-ozdag-acikladi-muharrem-ince-ittifaktan-ayrildi-1067813960.html|tarih=4 Mart 2023|ölüurl=hayır|dil=Türkçe|çalışma=|yayıncı=[[Sputnik (haber ajansı)|Sputnik]]|ad=|soyadı=}}</ref> mesajını gönderip ATA ittifakından ayrıldığını açıkladı.<ref>{{Haber kaynağı|url=https://www.birgun.net/haber/muharrem-ince-den-umit-ozdag-a-salvo-ben-kimsenin-yedek-adayi-degilim-423594|başlık=Muharrem İnce’den Ümit Özdağ’a salvo: Ben kimsenin yedek adayı değilim|erişimtarihi=14 Mart 2023|arşivtarihi=14 Mart 2023|arşivurl=https://web.archive.org/web/20230314153131/https://www.birgun.net/haber/muharrem-ince-den-umit-ozdag-a-salvo-ben-kimsenin-yedek-adayi-degilim-423594|tarih=5 Mart 2023|ölüurl=hayır|yayıncı=[[BirGün]]}}</ref>
+
+[[Mansur Yavaş]] aday olmadığı için ve [[Muharrem İnce|İnce]] ile de anlaşma yapılamadığı için [[2023 Türkiye cumhurbaşkanlığı seçimi|cumhurbaşkanlığı]] seçiminde [[ATA İttifakı]] ile birlikte [[Sinan Oğan]]'ı aday göstermişlerdir.<ref>{{Web kaynağı|url=https://www.haberturk.com/ata-ittifaki-nin-cumhurbaskani-adayi-aciklandi-sinan-ogan-zafer-partisi-genel-baskani-umit-ozdag-acikladi-3572777|başlık=Ata İttifakı'nın Cumhurbaşkanı adayı Sinan Oğan oldu|erişimtarihi=11 Mart 2023|arşivtarihi=11 Mart 2023|arşivurl=https://web.archive.org/web/20230311114331/https://www.haberturk.com/ata-ittifaki-nin-cumhurbaskani-adayi-aciklandi-sinan-ogan-zafer-partisi-genel-baskani-umit-ozdag-acikladi-3572777|tarih=11 Mart 2023|ölüurl=hayır|dil=Türkçe|çalışma=[[Habertürk (gazete)|Habertürk]]}}</ref> Sinan Oğan'ın %5,17 oyu ile 2. tura kalan Cumhurbaşkanlığı seçimi sürecinde [[ATA İttifakı|ATA ittifakı]] dağılmış, Sinan Oğan Cumhurbaşkanı Erdoğan'ı destekleme kararı almıştır, 24 Mayıs 2023 tarihinde Ümit Özdağ ve Kemal Kılıçdaroğlu ortak bir mutabakat metninde anlaştıktan sonra yaptıkları basın açıklamasında Zafer Partisinin 2023 cumhurbaşkanlığı seçimi 2. turunda [[Kemal Kılıçdaroğlu]]'nu destekleyeceğini açıklamıştır.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/son-dakika-kilicdaroglu-ile-ozdag-ortak-aciklama-yapiyor-7693344/|başlık=Ümit Özdağ: Kılıçdaroğlu’nu destekleyeceğiz|erişimtarihi=11 Mart 2023|arşivtarihi=24 Mayıs 2023|arşivurl=https://web.archive.org/web/20230524083506/https://www.sozcu.com.tr/2023/gundem/son-dakika-kilicdaroglu-ile-ozdag-ortak-aciklama-yapiyor-7693344/|tarih=11 Mart 2023|ölüurl=hayır|dil=Türkçe|çalışma=[[Sözcü (gazete)|Sözcü]]}}</ref> Seçimden 2 ay sonra [[Ümit Özdağ]], "Biz [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]] dahil üç bakanlık ve [[Millî İstihbarat Teşkilatı|Millî İstihbarat Teşkilâtı]] konusunda [[Kemal Kılıçdaroğlu|Kemal Bey]]'le mutabık kaldık" açıklamasında bulundu.<ref>{{Web kaynağı|url = https://www.hurriyet.com.tr/gundem/umit-ozdag-gizli-mutabakati-acikladi-kemal-kilicdaroglu-3-bakanlik-ile-mit-baskanligini-verecekti-42299970|başlık = Özdağ gizli mutabakatı açıkladı|erişimtarihi = 19 Temmuz 2023|tarih = 17 Temmuz 2023|yayıncı = Hürriyet|arşivurl = https://web.archive.org/web/20230717090939/https://www.hurriyet.com.tr/gundem/umit-ozdag-gizli-mutabakati-acikladi-kemal-kilicdaroglu-3-bakanlik-ile-mit-baskanligini-verecekti-42299970|arşivtarihi = 17 Temmuz 2023}}</ref> Açıklama, CHP Sözcüsü [[Faik Öztrak (1954 doğumlu siyasetçi)|Faik Öztrak]] tarafından yalanlanmış,<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/turkiye/faik-oztrak-acikladi-chpden-umit-ozdaga-yalanlama-2100173|başlık = CHP'den yalanlama|erişimtarihi = 21 Temmuz 2023|tarih = 17 Temmuz 2023|çalışma =|yayıncı = Cumhuriyet|arşivurl = https://web.archive.org/web/20230718021248/https://www.cumhuriyet.com.tr/turkiye/faik-oztrak-acikladi-chpden-umit-ozdaga-yalanlama-2100173|arşivtarihi = 18 Temmuz 2023}}</ref> daha sonra [[Kemal Kılıçdaroğlu]] katıldığı bir programda bu ifadeleri doğrulamıştır.<ref>{{Web kaynağı|url = https://tele1.com.tr/kilicdaroglu-kurultay-yerel-secimden-once-yapilmali-881900/|başlık = Özdağ ile protokolü doğrulayan Kılıçdaroğlu|erişimtarihi = 21 Temmuz 2023|tarih = 20 Temmuz 2023|yayıncı = Tele1|arşivurl = https://web.archive.org/web/20230720192459/https://tele1.com.tr/kilicdaroglu-kurultay-yerel-secimden-once-yapilmali-881900/|arşivtarihi = 20 Temmuz 2023}}</ref> Ümit Özdağ daha sonra katıldığı başka programda diğer iki bakanlığın ise [[Millî Eğitim Bakanlığı (Türkiye)|Milli Eğitim Bakanlığı]] ve [[Kültür ve Turizm Bakanlığı (Türkiye)|Kültür ve Turizm Bakanlığı]] olduğunu açıkladı.<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/gundem/ilk-kez-aciklandi-kilicdaroglunun-umit-ozdaga-biraktigi-bakanliklar-ortaya-cikti-6999275|başlık=2 bakanlığı da açıkladı|erişimtarihi=1 Eylül 2023|arşivtarihi=1 Eylül 2023|arşivurl=https://web.archive.org/web/20230901070840/https://www.milliyet.com.tr/gundem/ilk-kez-aciklandi-kilicdaroglunun-umit-ozdaga-biraktigi-bakanliklar-ortaya-cikti-6999275|yayıncı=Milliyet}}</ref> seçimden 6 ay sonra  23 Kasım 2023'te [[Ümit Özdağ|Özdağ]], ilk kez protokol metninin tamamını [[X (sosyal ağ)|X]] hesabından yaptığı uzun eleştiri yazısıyla yayımlamıştır.<ref>{{Web kaynağı|url=https://twitter.com/umitozdag/status/1727596160506900701|başlık=Ümit Özdağ Tweet|erişimtarihi=23 Kasım 2023|tarih=23 Kasım 2023|çalışma=Ümit Özdağ|arşivurl=https://web.archive.org/web/20231123140746/https://twitter.com/umitozdag/status/1727596160506900701|arşivtarihi=23 Kasım 2023|ölüurl=hayır}}</ref>
+
+Zafer Partisi genel başkanı [[Ümit Özdağ]] 31 Mart'ta yapılması beklenen yerel seçim için tek başına ittifaksız gireceğini açıklamış ve "''mahallelerinizi sığınmacılardan geri alacaksınız''" ifadesiyle çalışmalarını 4 Temmuz'da başlatmıştır.<ref>{{Web kaynağı|url = https://www.tgrthaber.com.tr/politika/umit-ozdagdan-yerel-secim-hamlesi-vaatleri-madde-madde-siraladi-2895464|başlık = Ümit Özdağ'dan yerel seçim hamlesi|erişimtarihi = 19 Ağustos 2023|tarih = 4 Temmuz 2023|çalışma = Zafer Partisi|yayıncı = TGRT Haber|arşivurl = https://web.archive.org/web/20230704210909/https://www.tgrthaber.com.tr/politika/umit-ozdagdan-yerel-secim-hamlesi-vaatleri-madde-madde-siraladi-2895464|arşivtarihi = 4 Temmuz 2023}}</ref>
+
+[[Türkiye Cumhuriyeti'nin Yüzüncü Yılı|Türkiye Cumhuriyeti'nin 100. yılı]] kutlamaları sırasında [[Ümit Özdağ]] tarafından [[Türk Kurtuluş Savaşı|Kurtuluş Savaşı]]’nda Karadeniz üzerinden gelen silahların Ankara’ya ulaştırılmasında kullanılan İnebolu ile Ankara arasındaki [[İstiklâl Yolu Tarihî Millî Parkı|İstiklal Yolu]] güzergahında 28 Ağustos 2023 tarihinde bir yürüyüş duyuruldu.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/umit-ozdag-istiklal-yolu-zafer-yuruyusune-basladi-7785798/|başlık=Ümit Özdağ ‘İstiklal Yolu Zafer Yürüyüşü’ne başladı|erişimtarihi=28 Eylül 2023|arşivtarihi=29 Ağustos 2023|arşivurl=https://web.archive.org/web/20230829151740/https://www.sozcu.com.tr/2023/gundem/umit-ozdag-istiklal-yolu-zafer-yuruyusune-basladi-7785798/|tarih=28 Ağustos 2023|ölüurl=hayır|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]}}</ref> Parti mensupları, 28 Ağustos'taki yürüyüş öncesinde İnebolu Türk Ocağı'nda buluştu. Ümit Özdağ ve partililer, [[İnebolu Limanı]]'nda bir kağnının arkasına geçerek 14 günde Ankara'ya ulaşan yürüyüşlerini tamamladı. Yürüyüş, Anıtkabir ziyaretiyle sona erdi.{{refn|<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/umit-ozdag-istiklal-yolu-zafer-yuruyusunu-ankarada-tamamladi-7798717/|başlık=Ümit Özdağ ‘İstiklal Yolu Zafer Yürüyüşü’nü Ankara’da tamamladı|erişimtarihi=28 Eylül 2023|arşivtarihi=11 Eylül 2023|arşivurl=https://web.archive.org/web/20230911124743/https://www.sozcu.com.tr/2023/gundem/umit-ozdag-istiklal-yolu-zafer-yuruyusunu-ankarada-tamamladi-7798717/|tarih=10 Eylül 2023|ölüurl=hayır|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]}}</ref><ref>{{Web kaynağı|url=https://zaferpartisi.org.tr/zafer-partisi-istiklal-yolu-zafer-yuruyusu-programi/|başlık=Zafer Partisi "İstiklal Yolu Zafer Yürüyüşü" Programı|erişimtarihi=28 Eylül 2023|arşivtarihi=9 Ekim 2023|arşivurl=https://web.archive.org/web/20231009015422/https://zaferpartisi.org.tr/zafer-partisi-istiklal-yolu-zafer-yuruyusu-programi/|tarih=21 Ağustos 2023|dil=Türkçe|ad=Mehmet Harun|soyadı=Yüksel}}</ref>}} 26 Ekim 2023 tarihinde parti, Türkiye Cumhuriyeti'nin 100. yılına özel olarak tasarlanmış bir hatıra kartı olan "Zafer Kart"ı parti bağışçıları için tanıtmıştır.<ref>{{Web kaynağı|url=https://www.zaferkart.org/|başlık=Zaferkart.org|erişimtarihi=12 Şubat 2024|çalışma=www.zaferkart.org|arşivurl=https://web.archive.org/web/20231217104153/https://www.zaferkart.org/|arşivtarihi=17 Aralık 2023|ölüurl=hayır}}</ref>
+
+=== 2024 yerel seçimleri ===
+21 Eylül 2023'te Zafer Partisi Genel Başkanı [[Ümit Özdağ]], partisinin, 81 ilde aday çıkarma çalışmalarını sürdürdüklerini açıkladı.<ref>{{Web kaynağı|url=https://www.gercekgundem.com/siyaset/umit-ozdag-zafer-partisinin-yerel-secim-kararini-acikladi-436378|başlık=Ümit Özdağ Zafer Partisi'nin yerel seçim kararını açıkladı|erişimtarihi=1 Nisan 2024|tarih=21 Eylül 2023|dil=tr-TR|çalışma=Gerçek Gündem|ad=Gerçek|soyadı=Gündem|arşivurl=https://web.archive.org/web/20240108074328/https://www.gercekgundem.com/siyaset/ataturke-hakaret-ettigi-gerekcesiyle-tutuklanmisti-kilicdaroglu-cocugun-geleceginden-calmaktan-baska-bir-seye-yaramayacak-436375?history=1|arşivtarihi=8 Ocak 2024|ölüurl=hayır}}</ref> 19 Ocak 2024'te Kars ve Iğdır'da aday çıkarmayıp [[Halkların Eşitlik ve Demokrasi Partisi|DEM Parti]]'nin karşısındaki adayları destekleyeceklerini açıkladı. 7 Ocak 2024 tarihinde ise İstanbul Büyükşehir Belediye başkan adayının eski [[Ülkü Ocakları]] Genel Başkanı Azmi Karamahmutoğlu olduğunu açıklamıştır.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/zafer-partisi-nin-istanbul-adayi-turkes-in-son-ulku-ocaklari-genel-baskani-azmi-karamahmutoglu-oldu,1146379|başlık=Zafer Partisi'nin İstanbul adayı, Türkeş’in atadığı son Ülkü Ocakları Genel Başkanı Azmi Karamahmutoğlu oldu|erişimtarihi=1 Nisan 2024|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20240108074306/https://t24.com.tr/haber/zafer-partisi-nin-istanbul-adayi-turkes-in-son-ulku-ocaklari-genel-baskani-azmi-karamahmutoglu-oldu,1146379|arşivtarihi=8 Ocak 2024|ölüurl=hayır}}</ref> Parti'nin 79 ilde gösterdiği hiçbir adayı seçilememiştir.
+
+== Politikalar ==
+
+=== Düzensiz göç ve sığınmacı politikaları ===
+Zafer Partisi, özellikle [[Suriyeliler|Suriyeli sığınmacılar]] olmak üzere Türkiye'ye gelen göçmenlerin, "Türkiye'nin demografik yapısının emperyal güçler tarafından değiştirilmesi" şeklinde bir amaçla getirildiği iddiasını savunmaktadır. Bu iddiaların amacını ise "Türksüzleştirme" adı verilen bir politika olarak değerlendirmektedir. Parti, stratejik göç mühendisliği olduğunu iddia ederek Türkiye'nin demografik yapısının kasıtlı olarak değiştirileceğini öne sürmekte ve bu durumu "örtülü istila" olarak adlandırmaktadır.{{refn|<ref name=":1">{{Web kaynağı|url=https://zaferpartisi.org.tr/kurulus-manifestosu/|başlık=Kuruluş Manifestosu|erişimtarihi=2 Ağustos 2022|arşivtarihi=13 Temmuz 2022|arşivurl=https://web.archive.org/web/20220713230522/https://zaferpartisi.org.tr/kurulus-manifestosu/|tarih=21 Mart 2022|ölüurl=hayır|dil=|çalışma=Zafer Partisi}}</ref><ref>{{Web kaynağı|url=https://twitter.com/umitozdag/status/1457401218922385409|başlık=Özdağ tweet 7 kasım 2021|erişimtarihi=25 Haziran 2023|arşivtarihi=31 Mayıs 2022|arşivurl=https://web.archive.org/web/20220531164645/https://twitter.com/umitozdag/status/1457401218922385409}}</ref>}} Bu nedenle düzensiz  göçmenlerin gönderilmesi gerektiğini savunmaktadır.<ref name=":0">{{Web kaynağı|url=https://zaferpartisi.org.tr/parti-programi/|başlık=Zafer Partisi Parti Programı|erişimtarihi=25 Haziran 2023|arşivtarihi=24 Mart 2022|arşivurl=https://web.archive.org/web/20220324141433/https://zaferpartisi.org.tr/parti-programi/|çalışma=Zafer Partisi}}</ref> Parti, Türkiye'deki sığınmacıların geri gönderilmesini ve gelebilecek yeni göç dalgalarını önlenmesini amaçlayan Anadolu Kalesi projesini kamuoyuna duyurmuştur.<ref>{{Web kaynağı|url=https://zaferpartisi.org.tr/wp-content/uploads/2022/03/Manifesto.pdf|başlık=Zafer Partisi Manifesto|erişimtarihi=25 Haziran 2023|arşivtarihi=28 Nisan 2022|arşivurl=https://web.archive.org/web/20220428091449/https://zaferpartisi.org.tr/wp-content/uploads/2022/03/Manifesto.pdf}}</ref> Partiye göre proje, "sınırda kesintisiz bir korumayı amaçlarken sınır dışında ise istihbarat servisleriyle yeni göç ve terör örgütlerinin sızmalarını engellemeyi" hedeflemektedir.<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/siyaset/ayyildiz-hareketi-lideri-goce-karsi-cozum-anadolu-kalesi-6578163|başlık=göçe karşı çözüm anadolu kalesi|erişimtarihi=25 Haziran 2023|arşivtarihi=27 Ekim 2021|arşivurl=https://web.archive.org/web/20211027070818/https://www.milliyet.com.tr/siyaset/ayyildiz-hareketi-lideri-goce-karsi-cozum-anadolu-kalesi-6578163|tarih=19 Ağustos 2021|yayıncı=Milliyet}}</ref>
+
+=== Dış politika ===
+Parti, "[[Adalet ve Kalkınma Partisi|AK Parti]]'nin 2010 yılından beri uyguladığını iddia ettiği ihvana dayalı" "[[Müslüman Kardeşler]]" siyasi anlayışı yerine "milli menfaatler" adını verdikleri siyasi çizgiye dayalı bir dış politika izleyeceğini açıklamıştır. Partiye göre, bu çerçevede; [[Filistin Devleti|Filistin]]'e destek tamamen kesilecek ve [[İsrail-Filistin çatışması|İsrail-Filistin sorununa]] "milli menfaaatler" çerçevesinde politika üretilecektir.<ref name=":3" />
+
+Zafer Partisi Ermeni soykırımı iddialarını kabul ettirmeye yönelik girişimleri "ideolojik, psikolojik, politik bir savaş" olarak görmektedir. Parti, Ermeni soykırımı iddiaları ile mücadele için Milli Güvenlik Kurulu'na bağlı akademik, diplomatik, politik birimler kurmayı vadetmektedir.<ref name=":2">{{Web kaynağı|url=https://com.com.tr/haberler/turk-devletini-tarikat-ve-cemaatlerden-temizleyecegiz-prof-dr-umit-ozdag-zafer-partisi-179700.html|başlık=Zafer Partisi Lideri Ümit Özdağ: Türk devletini tarikat ve cemaatlerden temizleyeceğiz!|erişimtarihi=19 Mart 2023|arşivtarihi=19 Mart 2023|arşivurl=https://web.archive.org/web/20230319184548/https://com.com.tr/haberler/turk-devletini-tarikat-ve-cemaatlerden-temizleyecegiz-prof-dr-umit-ozdag-zafer-partisi-179700.html|tarih=18 Mart 2023|yayıncı=com.com.tr}}</ref>
+
+Parti, [[Kıbrıs Sorunu]]'nda [[İki devletli çözüm (Kıbrıs)|iki devletli çözümü]] ve [[Kuzey Kıbrıs Türk Cumhuriyeti|KKTC]]'nin bağımsızlığını ve KKTC'deki Türk askerî varlığını savunmaktadır.<ref name=":0" />
+
+=== Ekonomi politikası ===
+Parti, sürdürülebilir üretime dayalı planlı kalkınmayı hedeflemektedir. Tarım ve hayvancılıkta kendi kendine yeterlilik, kamu harcamalarında tasarruf ve yurtdışına kaçırılan kaynakların geri getirilmesini öncelikler. Parti, yolsuzlukla mücadele için adli ve idari yaptırımları tavizsiz uygulayacağını belirtirken, sığınmacılara yapılan yardımların kesilerek üretim faktörlerine kaynak yaratılmasını savunur. Bu politikalar, Osmanlı’dan devralınan borç batağını planlı kalkınma ile ekonomik bağımsızlığa çevirmeyi amaçlayan Atatürkçü bir yaklaşıma dayanır.<ref>{{Web kaynağı|url=https://www.zaferpartisi.org.tr/Haberler/ekonomik-modelimiz-sicak-para-esasina-degil-surdurebilir-uretime-dayalidir/|başlık=Ekonomik Modelimiz: Sıcak Para Esasına Değil, Sürdürebilir Üretime Dayalıdır|yayıncı=Zafer Partisi|erişimtarihi=6 Eylül 2025|arşivurl=https://web.archive.org/web/20250803084840/https://www.zaferpartisi.org.tr/Haberler/ekonomik-modelimiz-sicak-para-esasina-degil-surdurebilir-uretime-dayalidir/|arşivtarihi=3 Ağustos 2025|ölüurl=hayır}}</ref>
+
+== Yapısı ==
+
+=== Partinin ekonomisi ===
+Hazine desteği, genellikle oy oranına bağlı olarak partilere yapılan mali destektir ve belirli bir oy eşiği aşılmadığında verilmemektedir. Parti, son genel seçimlerde %3'ün altında oy aldığı için hazine desteğinden yararlanmamaktadır.<ref>{{Web kaynağı|url=https://tr.euronews.com/2021/11/02/siyasi-partilere-hazine-yard-m-nas-l-belirleniyor-2022-de-hangi-parti-ne-kadar-alacak|başlık=Siyasi partilere hazine yardımı nasıl belirleniyor?|erişimtarihi=10 Ocak 2024|tarih=2 Kasım 2021|dil=Türkçe|çalışma=euronews|arşivurl=https://web.archive.org/web/20220131105132/https://tr.euronews.com/2021/11/02/siyasi-partilere-hazine-yard-m-nas-l-belirleniyor-2022-de-hangi-parti-ne-kadar-alacak|arşivtarihi=31 Ocak 2022|ölüurl=hayır}}</ref>
+
+=== Partinin amblemi ===
+Logonun en üstünde bozkurt şeklinde bulunan alev, aydınlanmayı ve ilerlemeyi hedefleyen "bilim" ateşini ve aynı zamanda bacası tüten/tütmeyen vatanı için ölen tüm haneleri yani ocağı temsil etmekte; Yıldız, Türkiye Cumhuriyetine olan sadakati; Hilal, "barış" getiren Türk birliğini; Tüm bu ocağı kavrayan el ise "birlikteliği" temsil etmektedir.<ref>{{Web kaynağı|url=https://zaferpartisi.org.tr/kurumsal-kimlik/|başlık=Zafer partisi kurumsal kimlik|erişimtarihi=2 Ağustos 2023|arşivtarihi=2 Ağustos 2023|arşivurl=https://web.archive.org/web/20230802071249/https://zaferpartisi.org.tr/kurumsal-kimlik/|ölüurl=hayır|çalışma=Zafer Partisi}}</ref>
+
+=== Genel başkanları ===
+26 Ağustos 2021'de kurulan Zafer Partisi'nin bugüne kadar genel başkanlığını yapanların listesidir.
+{| class="wikitable" style="font-size:90%;"
+!#
+!İsim
+!Resim
+!Görev başlangıcı
+!Görev bitişi
+!Görev süresi
+|-
+! style="background:{{Siyasi parti renk|Zafer Partisi}}; color:white;" |1
+|[[Ümit Özdağ]]
+{{Doğum tarihi ve yaşı|1961|3|3}}
+|[[Dosya:Ümit Özdağ - 24.2.24 (cropped).jpg|123x123pik]]
+|26 Ağustos 2021
+|21 Ocak 2025
+|{{Yıl ve gün cinsinden yaşı|2021|8|26|2025|1|21}}
+|-
+! style="background:{{Siyasi parti renk|Zafer Partisi}}; color:white;" |—
+|Mehmet Ali Şehirlioğlu {{küçük|(vekâleten)}}<ref>{{Web kaynağı|url=https://ankahaber.net/haber/detay/mehmet_ali_sehirlioglu_zafer_partisi_genel_baskan_vekili_olarak_gorevlendirildi_216506|başlık=Mehmet Ali Şehirlioğlu, Zafer Partisi Genel Başkan Vekili olarak görevlendirildi|erişimtarihi=27 Ocak 2025|tarih=21 Ocak 2025|çalışma=ankahaber.net|arşivurl=https://web.archive.org/web/20250121202231/https://ankahaber.net/haber/detay/mehmet_ali_sehirlioglu_zafer_partisi_genel_baskan_vekili_olarak_gorevlendirildi_216506|arşivtarihi=21 Ocak 2025|ölüurl=hayır}}</ref>
+{{Doğum tarihi ve yaşı|1959|8|24}}
+|
+|21 Ocak 2025
+|17 Haziran 2025
+|{{Yıl ve gün cinsinden yaşı|2025|1|21|2025|6|17}}
+|-
+! style="background:{{Siyasi parti renk|Zafer Partisi}}; color:white;" |(1)
+|[[Ümit Özdağ]]
+{{Doğum tarihi ve yaşı|1961|3|3}}
+|[[Dosya:Ümit Özdağ - 24.2.24 (cropped).jpg|123x123pik]]
+|17 Haziran 2025
+|''Görevde''
+|{{Yıl ve gün cinsinden yaşı|2025|6|17|duration=on}}
+|}
+
+=== Başkanlık Divanı ===
+Zafer Partisi'nin Başkanlık Divanı aşağıdaki gibidir.<ref>{{Web kaynağı|url=https://zaferpartisi.org.tr/baskanlik-divani/|başlık=Başkanlık Divanı|erişimtarihi=10 Mayıs 2022|arşivtarihi=4 Mayıs 2022|arşivurl=https://web.archive.org/web/20220504195500/https://zaferpartisi.org.tr/baskanlik-divani/|ölüurl=hayır|çalışma=zaferpartisi.org.tr}}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%"
+!#
+!Adı
+!Görevi
+|-
+|1
+|[[Ümit Özdağ]]
+|Genel Başkan
+|-
+|2
+|[[Cezmi Polat]]
+|Genel Sekreter
+|-
+|3
+|[[Şükrü Sina Gürel]]
+|Genel Başkan Yardımcısı (Dış Politika)
+|-
+|4
+|Mehmet Ali Şehirlioğlu
+|Genel Başkan Yardımcısı (Sağlık Politikaları)
+|-
+|5
+|Seyit Yücel
+|Genel Başkan Yardımcısı (Siyasi İşler)
+|-
+|6
+|Lütfü Şahsuvaroğlu
+|Genel Başkan Yardımcısı (Seçim İşleri)
+|-
+|7
+|Ali Dinçer Çolak
+|Genel Başkan Yardımcısı (Teşkilat)
+|-
+|8
+|Murat Yıldız
+|Genel Başkan Yardımcısı (Hukuk İşleri)
+|-
+|9
+|Uğur Batur
+|Genel Başkan Yardımcısı (Propaganda)
+|-
+|10
+|Yakup Kaptan
+|Genel Başkan Yardımcısı (Mahalli İdareler)
+|-
+|11
+|Fikret Bayır
+|Genel Başkan Yardımcısı (Milli Güvenlik ve Strateji)
+|-
+|12
+|Aslan Yaman
+|Genel Başkan Yardımcısı (Ekonomi)
+|-
+|13
+|Mehmet Alagöz
+|Genel Başkan Yardımcısı (Kalkınma Politikaları)
+|-
+|14
+|Sevdagül Tunçer
+|Genel Başkan Yardımcısı (Basın)
+|-
+|15
+|Erdinç Örencik
+|Genel Başkan Yardımcısı (Avrupa ve Amerika Türklüğü)
+|-
+|16
+|Nezih Karaman
+|Genel Başkan Yardımcısı (Diplomasi)
+|-
+|17
+|Esmaül Hüsna Arslan
+|Genel Başkan Yardımcısı (Bürokrasi İle İlişkiler)
+|-
+|18
+|Mustafa Hakan Akşit
+|Genel Muhasip
+|-
+|19
+|Bayram Kazancı
+|Genel Başkan Yardımcısı (Kurumsal İlişkiler ve İnsan Kaynakları)
+|-
+|20
+|Nilgün Sadıkoğlu Danışman
+|Genel Başkan Yardımcısı (Kadın, Aile ve Çocuk)
+|}
+
+=== Genel İdare Kurulu (GİK) ===
+16 Eylül 2024 itibarıyla<ref>{{Web kaynağı|url=https://zaferpartisi.org.tr/genel-idare-kurulu/|başlık=Genel İdare Kurulu - Zafer Partisi Resmi Web Sitesi|erişimtarihi=16 Eylül 2024|tarih=3 Mart 2022|dil=Türkçe|soyadı=zaferpartisi|arşivurl=https://web.archive.org/web/20240613162941/https://zaferpartisi.org.tr/genel-idare-kurulu/|arşivtarihi=13 Haziran 2024|ölüurl=hayır}}</ref>
+{{div sütunu|colwidth=30em}}
+* Ümit Özdağ
+* Ali Dinçer Çolak
+* İsmail Tanrıöven
+* Sevdagül Tunçer
+* Bayram Kazancı
+* Cezmi Polat
+* Aslan Yaman
+* Lütfü Şahsuvaroğlu
+* Dursun Atabek
+* Erdinç Örencik
+* Tuğrul Kihtir
+* Ferruh Özkan
+* Kemal Mert
+* Mustafa Koray Yücel
+* Murat Yıldız
+* Özgür Erpolat
+* Sedat Timur
+* Seyit Yücel
+* Şevval Erdel
+* Uğur Batur
+* Uğur Tarhan
+* Zehra Çatalbaş
+* Cihan Kolip
+* Esmaül Hüsna Aslan
+* Fikret Bayır
+* Hanna Akyüz
+* İlhan Aksoy
+* İsmail Özgür Berkman
+* Koçak Tükenmez
+* Mahmut Kara
+* Mehmet Ali Şehirlioğlu
+* Mehmet Göktürk Aslan
+* Meltem Canikoğlu
+* Mustafa Hakan Akşit
+* Nezih İlter Karaman
+* Mehmet Alagöz
+* Semih Dikkatli
+* Şükrü Sina Gürel
+* Tuna Ziya Altuna
+{{div sütunu-son}}
+
+==== Yedek üyeler ====
+{{div sütunu|colwidth=30em}}
+* Ahmet Ufuk Türkiş
+* Arif Zeki Akat
+* Ayhan Milci
+* Aykut Azgur
+* Cengiz Türk
+* Çınar Coşkunserçe
+* Fatih Çinan
+* Feridun Yıldız 
+* Gamze Yıldırım Fırat
+* Hasan Doydu
+* İbrahim Gül
+* İlhan Alpboğa
+* Jülide Sarıkaya Kurdoğlu
+* Kadir Uludüz
+* Kenan Kermen
+* Murat Apaydın
+* Murat Evliyaoğlu
+* Roza Kurban
+* Ufuk Doğan
+* Yavuz Selim Ulubaş
+{{div sütunu-son}}
+
+=== Kongreler ===
+{{Vikikaynak|Ümit Özdağ'ın Zafer Partisi'nin 1. Olağanüstü Büyük Kongresi'nde yaptığı konuşma}}
+{| class="wikitable" style="text-align:center; font-size:90%;"
+!Kongre
+!Tarih
+!Seçilen Başkan
+!Seçim Nedeni
+|-
+|[[1. Zafer Partisi Olağanüstü Büyük Kongresi|1. Olağanüstü Büyük Kongre]]<ref>{{Web kaynağı|url=https://zaferpartisi.org.tr/dhelp_lite_zafer_tv/zafer-partisi-1-olaganustu-buyuk-kongresi/|başlık=Zafer Partisi 1. Olağanüstü Büyük Kongresi - Zafer Partisi Resmi Web Sitesi|erişimtarihi=8 Aralık 2024|arşivtarihi=8 Aralık 2024|arşivurl=https://web.archive.org/web/20241208170632/https://zaferpartisi.org.tr/dhelp_lite_zafer_tv/zafer-partisi-1-olaganustu-buyuk-kongresi/|tarih=2 Ekim 2022|ölüurl=evet|dil=Türkçe|soyadı=zaferpartisi}}</ref>
+|2 Ekim 2022
+|[[Ümit Özdağ]] (Tek aday)
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|-
+|[[2. Zafer Partisi Olağan Büyük Kongresi|2. Olağan Büyük Kongre]] <ref>{{Web kaynağı|url=https://ankahaber.net/haber/detay/zafer_partisinin_ikinci_olagan_buyuk_kongresi%E2%80%A6_umit_ozdag_artik_esad_gitmeden_suriyelileri_gonderemeyiz_bahanesi_ortadan_kalkmistir_209222|başlık=Zafer Partisi’nin İkinci Olağan Büyük Kongresi… Ümit Özdağ: “Artık ‘Esad gitmeden Suriyelileri gönderemeyiz’ bahanesi ortadan kalkmıştır”|erişimtarihi=8 Aralık 2024|arşivtarihi=8 Aralık 2024|arşivurl=https://web.archive.org/web/20241208134652/https://ankahaber.net/haber/detay/zafer_partisinin_ikinci_olagan_buyuk_kongresi%E2%80%A6_umit_ozdag_artik_esad_gitmeden_suriyelileri_gonderemeyiz_bahanesi_ortadan_kalkmistir_209222|ölüurl=hayır|çalışma=ankahaber.net}}</ref>
+|8 Aralık 2024
+|[[Ümit Özdağ]] (Tek aday)<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/zafer-partisi-2-olagan-kongresi-ozdag-genel-baskanliga-yeniden-secildi-haber-1740950|başlık=Zafer&nbsp;Partisi 2. Olağan Kongresi: Özdağ, genel başkanlığa yeniden seçildi|erişimtarihi=8 Aralık 2024|arşivtarihi=8 Aralık 2024|arşivurl=https://web.archive.org/web/20241208171335/https://www.gazeteduvar.com.tr/amp/zafer-partisi-2-olagan-kongresi-ozdag-genel-baskanliga-yeniden-secildi-haber-1740950|ölüurl=hayır|çalışma=gazeteduvar.com.tr}}</ref>
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunun gereği)
+|-
+|[[3. Zafer Partisi Olağanüstü Tüzük Kongresi|3. Olağanüstü Tüzük Kongresi]]
+|14 Eylül 2025
+|–
+|Tüzük değişikliği
+|}
+
+== Belediye başkanları ==
+{| class="wikitable" style="font-size:90%;"
+!#
+!İsim
+!İl
+!İlçe
+!Belde
+|-
+|'''1'''
+|Ümit Alagöz
+|[[Burdur (il)|Burdur]]
+|[[Tefenni]]
+|
+|-
+|}
+
+== Zafer Partisi ve seçimler ==
+
+=== Milletvekilliği seçimleri ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan="2"| Lider
+! colspan="3"| Seçim sonuçları
+! colspan="2"| Sandalye
+! rowspan="2"| Hükûmet
+|-
+! Oy sayısı
+! '''%'''
+! ±
+! #
+! ±
+|-
+! [[2023 Türkiye genel seçimleri|2023]]
+| [[Ümit Özdağ]]
+| 1.216.399
+| 2,23 (#7)
+| Yeni
+| {{Composition bar|0|600|hex={{Siyasi parti renk|Zafer Partisi}}}}
+| Yeni
+| {{N/A|[[Seçim barajı]]nın altında kaldı}}
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |İl Genel Meclisi 
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy Sayısı
+!%
+!±
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|[[Ümit Özdağ]]
+|1.118.900
+|2,44 (#7)
+|Yeni
+|1.102.172
+|2,57 (#7)
+|Yeni
+|816.676
+|1,90 (#7)
+|{{Composition bar|0|1385|hex={{Siyasi parti renk|Zafer Partisi}}}}
+|Yeni
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan="2" |Seçim
+!rowspan="2"|Aday
+! colspan="3" |Birinci tur
+!colspan="2"|İkinci tur
+!rowspan="2"|Sonuç
+|-
+!Oy sayısı
+! %
+!±
+!Oy sayısı
+! %
+|-
+![[2023 Türkiye cumhurbaşkanlığı seçimi|2023]]
+|[[Dosya:Dr._Sinan_Oğan_2023_(cropped).jpg|125x125pik]]
+----[[Sinan Oğan]]<hr>[[ATA İttifakı]] ortak adayı
+|2.831.208
+|5,17 (#3)
+|Yeni
+|{{N/A|—}}
+|{{N/A|—}}
+|{{hayır2|Seçilemedi}}
+|}
+
+== Kaynakça ==
+{{Kaynakça|24em}}
+
+== Dış bağlantılar ==
+{{Commons kategori|Victory Party (Turkey)}}
+* {{Resmî site}}
+* {{Twitter}}
+* {{Instagram}}
+* {{Facebook}}
+* {{YouTube|kullanıcı=zaferpartisi|Zafer Partisi}}
+
+{{Türkiye'deki siyasi partiler}}
+[[Kategori:Zafer Partisi| ]]
+[[Kategori:Ankara ili merkezli kuruluşlar]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Türkiye'deki milliyetçi partiler]]
+[[Kategori:2021'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:2021'de kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki aşırı sağcı partiler]]
+[[Kategori:Kemalist partiler]]

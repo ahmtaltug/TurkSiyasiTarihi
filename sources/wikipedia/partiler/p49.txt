@@ -1,0 +1,123 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Serbest Cumhuriyet Fırkası
+| kısaltma         = SCF
+| amblem           = Serbest Cumhuriyet Fırkası logo.svg
+| genel başkanı    = [[Fethi Okyar|Ali Fethi Okyar]]
+| genel sekreteri  = [[Nuri Conker|Mehmet Nuri Conker]]
+| kurucusu         = [[Fethi Okyar|Ali Fethi Okyar]]
+| slogan           = 
+| kuruluş          = 12 Ağustos 1930
+| kapanış          = 17 Kasım 1930
+| öncülü           = [[Cumhuriyet Halk Partisi|Cumhuriyet Halk Fırkası]]
+| ardılı           = [[Demokrat Parti (1946)|Demokrat Parti]] {{küçük|(1946)}}
+| ideoloji         = [[Ekonomik liberalizm]]<ref name="ankara.edu.tr">{{Web kaynağı|url = https://dspace.ankara.edu.tr/xmlui/bitstream/handle/20.500.12575/31809/tez2222.pdf?sequence=1|başlık = Atatürk Döneminde Düşünürlerin Gözüyle Kemalizm ve Türk İnkılabı|arşivurl = https://web.archive.org/web/20210705225814/https://dspace.ankara.edu.tr/xmlui/bitstream/handle/20.500.12575/31809/tez2222.pdf?sequence=1|arşivtarihi = 5 Temmuz 2021}}</ref><br/>[[Liberal demokrasi]]<ref name="ankara.edu.tr"/><br/>[[Liberal Kemalizm]]<ref name="ankara.edu.tr"/>
+| pozisyon         = [[Merkez sağ]]
+| colorcode        = {{Siyasi parti renk|Serbest Cumhuriyet Fırkası}}
+| gazete           = ''[[Serbes Cumhuriyet]]''
+}}
+'''Serbest Cumhuriyet Fırkası''' ya da resmî kısaltmasıyla '''SCF''', [[Türkiye|Türkiye Cumhuriyeti]]'nin ilk yıllarında Cumhurbaşkanı [[Mustafa Kemal Atatürk]]'ün isteği üzerine [[Fethi Okyar|Ali Fethi Okyar]] tarafından kurulan bir [[Siyasi parti|siyasi partiydi]].<ref>{{Web kaynağı|başlık=Free Republican Party and the Beginning of Adnan Menderes’ Political Life|url=https://www.kafkas.edu.tr/dosyalar/sobedergi/file/008/1_0.pdf|arşivurl=https://web.archive.org/web/20181121022233/https://www.kafkas.edu.tr/dosyalar/sobedergi/file/008/1_0.pdf|arşivtarihi=21 Kasım 2018|erişimtarihi=17 Nisan 2026}}</ref> [[Türkiye'de tek partili dönem|Tek parti dönemi]] bağlamında Atatürk, Türkiye'de [[Çok partili sistem|çok partili demokrasi]] geleneğini başlatmak amacıyla iktidardaki [[Cumhuriyet Halk Partisi|Cumhuriyet Halk Fırkası]]'na karşı bir [[muhalefet]] partisi oluşturulmasını istedi; 1924-1925 yıllarındaki [[Terakkiperver Cumhuriyet Fırkası]] deneyiminin ardından bu girişim ülkede çoğulcu sistem kurma yönündeki ikinci deneme oldu.<ref name="McCally S, P. (May 1956)">{{Akademik dergi kaynağı|soyadı=McCally|ad=S.|soyadı2=P.|tarih=1 Mayıs 1956|başlık=Party Government in Turkey|url=https://www.jstor.org/stable/2126986|çalışma=The University of Chicago Press Journals|cilt=18|sayı=2|sayfalar=308-309|doi=|pmc=|pmid=|erişimtarihi=|name-list-style=vanc|arşivurl=https://web.archive.org/web/20250829082520/https://www.jstor.org/stable/2126986|arşivtarihi=29 Ağustos 2025|ölüurl=hayır}}</ref>
+
+Parti programında hem [[Ekonomik liberalizm|ekonomik]] hem de [[Siyasal Liberalizm|siyasal]] açıdan [[Liberalizm|liberal]] görüşleri savunmasına rağmen, özellikle [[laiklik]] başta olmak üzere [[Atatürk Devrimleri|Atatürk'ün reformlarına]] karşı olan kesimlerin kısa sürede desteğini aldı. [[1930 Türkiye yerel seçimleri|1930 yerel seçimlerine]] katılarak 502 belediyeden 31'ini kazanmasının ardından, reformların güçlü bir destekçisi olan Okyar tarafından Kasım 1930'da bizzat feshedildi.<ref name="Çetin, Yetkin (2004)">{{Kitap kaynağı|başlık=Atatürk'ün Vatana İhanetle Suçlandığı S.C.F. Olayı|soyadı=Çetin|ad=Yetkin|yıl=2004|yayıncı=Otopsi Yayınları|yer=İstanbul|isbn=9789758410453|sayfalar=267-273}}</ref> Bazı kaynaklar partinin kapatılması için Cumhuriyet Halk Fırkası tarafından Serbest Cumhuriyet Fırkası yönetimine baskı kurulduğunu iddia eder.<ref name="ddkaynak" />
+
+== Kurulması ==
+[[Dosya:Founders of the Liberal Republican Party of Turkey.jpg|küçükresim|Serbest Cumhuriyet Fırkası kurucuları, soldan sağa: [[Nuri Conker]], [[Fethi Okyar|Ali Fethi Okyar]], [[Ahmet Ağaoğlu (siyasetçi)|Ahmet Ağaoğlu]] ve [[Talat Sönmez|Talât Sönmez]]]]
+1920'lerin sonlarında Türkiye'de halkın bir kesiminde [[Türkiye'de tek partili dönem|tek parti CHF yönetimine]] karşı bir hoşnutsuzluk vardı.<ref name="ddkaynak">{{kitap kaynağı |başlık= "Demokrasiden Darbeye, Babam Adnan Menderes" 2.Baskı |soyadı= Menderes |ad= Aydın |yıl= 2011|sayfa= 153 ve 154|yayıncı= Doğan Egmont Yayıncılık}} Kitapta gösterilen bir başka kaynak: ''Şeref Demir, Türk Siyasi Tarihinde Adnan Menderes s. 43''</ref> 1927-1928 dönemi kuraklığı ve 1930 dünya ekonomik buhranıyla birlikte hükûmetin ağırlaştırdığı vergiler halkın bir kesiminde rahatsızlık yarattı. [[Ahmet Ağaoğlu (siyasetçi)|Ahmet Ağaoğlu]]'nun 1925'te Atatürk'e verdiği raporda belirttiği üzere CHF'de halka karşı tahakküm yapanlar bulunuyordu. Atatürk bir çözüm olarak, iktidar partisi üzerinde denetim yapacak ve işlerin düzelmesine katkı sağlayacak küçük bir muhalefet partisi olması gerektiğini düşündü.<ref name="ddkaynak"/> Mecliste tek partinin bulunması hükûmetin denetlenmesini güçleştiriyordu. Bu nedenle [[Mustafa Kemal Atatürk|Mustafa Kemal]], [[Fethi Okyar|Fethi Bey]]'den [[Cumhuriyetçilik|cumhuriyetçiliğe]] ve [[Laiklik|laikliğe]] sadık bir parti kurmasını istedi. Bunun üzerine Fethi Bey Mustafa Kemal'in tarafsız olmasını şart koşarak 12 Ağustos 1930'da Serbest Cumhuriyet Fırkasını kurdu. Bu partinin [[Cumhuriyet Halk Partisi|Cumhuriyet Halk Fırkası]]ndan ayrılan en önemli yanı, ekonomide [[Ekonomik liberalizm|liberalizm]]i savunmasıydı. Bu partiye bizzat yardımda bulunan Mustafa Kemal CHF'den birçok mebusun bu partiye geçişini [[İsmet İnönü|İsmet Paşa]]'nın tepkisine ve itirazlarına rağmen sağladı. (14 kadar mebusu, ayrıca kız kardeşi [[Makbule Atadan|Makbule Hanım]]'ı ve yakın dostları olan mebusları da ilk üyelerden yaptı.) Böylece yaklaşık 5 yıldır alternatifsiz devam eden İsmet Paşa hükûmetini eleştirecek bir muhalefet yaratmak istedi ve mecliste düşünce özgürlüğü sağlamak istedi. Siyasi söz geçirme güçleri suiistimalinin de önüne geçmek istedi. Partiye katılanlar arasında [[Nuri Conker]] (Genel Sekreter), şair [[Mehmet Emin Yurdakul]], Türkçülük akımının önde gelenlerinden [[Ahmet Ağaoğlu (siyasetçi)|Ahmet Ağaoğlu]], [[İbrahim Süreyya Yiğit|İbrahim Süreyya Paşa]] ve 1950-1960 yılları arasında [[Türkiye başbakanı|başbakanlık]] yapacak olan [[Adnan Menderes]] de bulunuyordu.
+
+== Siyasi pozisyon ve ideoloji ==
+
+Serbest Cumhuriyet Fırkası, Türkiye'de çok partili hayata geçiş denemelerinin ikincisi olarak kurulduğunda, dönemin iktidar partisi Cumhuriyet Halk Fırkası'nın devletçi ve otoriter eğilimlerine karşı [[merkez sağ]] siyasi yelpazede yer alan, liberal bir muhalefet çizgisi benimsemiştir.<ref name=":1">{{Kitap kaynağı|başlık=Serbest Cumhuriyet Fırkası'nın Liberalizm Anlayışı|tarih=2023|sayı=|sayfalar=139-155|yayıncı=Akademik Araştırmalar ve Çalışmalar Dergisi|cilt=|ad=Kerem|soyadı=Yavaşça}}</ref> Partinin temel ideolojisi klasik liberalizm, serbest piyasa ekonomisi ve "Liberal Kemalizm" etrafında şekillenmiştir.<ref name=":1" /><ref name=":2">{{Kitap kaynağı|başlık=Ahmet Ağaoğlu ve Liberalizm Anlayışı|tarih=1993|sayfa=|yayıncı=|ad=Murat|soyadı=Yılmaz}}</ref> SCF; cumhuriyetçilik, milliyetçilik ve laiklik ilkelerine bağlı kalmakla birlikte, bu hedeflerin uygulanmasında CHF'den farklı olarak sivil hakları, ifade özgürlüğünü ve [[Bireycilik|bireyciliği]] ön plana çıkarmıştır.<ref name=":1" />
+
+=== Ekonomi politikaları ===
+Partinin iktisadi yaklaşımının merkezinde serbest piyasa bulunmaktaydı.<ref name=":3">{{Kitap kaynağı|başlık=Serbest Cumhuriyet Fırkası'nda İktisadî Düşünce|tarih=2014|sayı=51|sayfalar=77-92|yayıncı=Elektrik Sosyal Bilimler Dergisi|cilt=|ad=Mehmet Halis|soyadı=Özer}}</ref> [[1929 buhranı|Büyük Buhran]]'ın Türkiye'de yarattığı ağır tahribata karşı SCF, devletin ekonomideki rolünün sınırlandırılmasını ve özel teşebbüsün teşvik edilmesini savunmuştur.<ref name=":3" /> Parti programında; vatandaşın mali ve ekonomik girişimlerine engel olan müdahalelerin reddedildiği açıkça belirtilmiştir.<ref name=":4">{{Kitap kaynağı|başlık=Serbest Cumhuriyet Fırkası Olayı|tarih=1982|sayfa=|yayıncı=|ad=Çetin|soyadı=Yetkin}}</ref> Ayrıca vergi yükünün hafifletilmesi, çiftçiye ucuz kredi sağlanması, yerli sanayinin özel sektör eliyle büyütülmesi, yabancı sermayenin ülkeye girişine izin verilmesi ve devlet tekellerinin kısıtlanması ekonomik hedeflerin temelini oluşturmuştur.<ref name=":3" />
+
+=== Siyasal duruş ve demokratikleşme ===
+SCF, siyasal sistemin daha katılımcı ve şeffaf bir yapıya kavuşması gerektiğini vurgulamıştır.<ref name=":1" /> Dönemin dolaylı seçim yöntemi olan [[iki dereceli seçim]] sistemi yerine halkın iradesinin doğrudan meclise yansımasını sağlayacak [[tek dereceli seçim]] sistemine geçilmesi partinin en büyük siyasal vaatlerinden biridir.<ref name=":4" /> Parti programı ayrıca, kadınlara seçme ve seçilme hakkının verilmesini de açıkça öngörmüştür.<ref name=":4" /> Devlette liyakatin esas alınması, rüşvet ve yolsuzlukla mücadele edilmesi ile dış politikada Milletler Cemiyeti'ne katılımın sağlanması da tüzükte yer alan önemli vizyonlardır.<ref name=":4" />
+=== Ahmet Ağaoğlu'nun ideolojik etkisi ===
+Serbest Cumhuriyet Fırkası'nın siyasi kimliğinin teorik zeminini inşa eden ve ideolojisini şekillendiren en önemli figür, partinin kurucularından olan Türk düşünür ve siyasetçi Ahmet Ağaoğlu'dur.<ref name=":2" /> Tarihçi [[Çetin Yetkin]]'in "parti ideoloğu",<ref name=":4" /> [[Şevket Süreyya Aydemir]]'in ise "fırkanın siyasisi"<ref name=":5">{{Kitap kaynağı|başlık=Tek Adam: Mustafa Kemal|tarih=1963|sayfa=370|yayıncı=|cilt=|ad=Şevket Süreyya|soyadı=Aydemir}}</ref> olarak nitelendirdiği Ağaoğlu; partinin teşkilat yapısını belirleyen nizamnamesini bizzat kaleme almış ve 27 Ağustos 1930'da yayımlanan parti programına son şeklini vermiştir.<ref name=":4" /><ref name=":5" />
+
+Ağaoğlu, Türkiye'de cumhuriyetin kurucu devrimleri ile Batılı liberal değerleri sentezleyerek siyaset bilimi literatürüne "Liberal Kemalizm" kavramını kazandırmıştır.<ref name=":2" /><ref name=":6">{{Kitap kaynağı|başlık=Erken Dönem Cumhuriyet'te Ahmet Ağaoğlu'nun Kemalizm'i Liberal Perspektiften Yorumlama Çalışmaları|tarih=2016|sayfa=|ad=Salih Zeki|soyadı=Haklı}}</ref> Ağaoğlu'na göre, Kemalist modernleşmenin başarılı olabilmesi ve kalıcı hale gelebilmesi için devletçi politikalar terk edilmeli, bireysel özgürlükler genişletilmeli ve sivil toplum güçlendirilmelidir.<ref name=":2" /> O, devletin sadece asayiş ve hukuku sağlamakla görevli bir hakem rolünde olması gerektiğini, ekonomik ve toplumsal dinamizmin ancak özgür bir rekabet ortamında doğabileceğini savunmuştur.<ref name=":2" /><ref name=":6" />
+
+Parti genel başkanı Ali Fethi Okyar, iktidara karşı muhalefeti daha ılımlı bir üslupla yürütürken, Ahmet Ağaoğlu çok daha radikal, tavizsiz ve teorik bir liberal çizgi izlemiştir.<ref name=":2" /><ref name=":6" /> Partinin ömrünün kısa sürmesi ve Kasım 1930'da kendini feshetmesine rağmen Ağaoğlu fikrî mücadelesinden vazgeçmemiş, eski partisi CHF'ye dönmeyi reddederek liberal Kemalist görüşlerini ve iktidarın devletçilik politikalarına yönelik eleştirilerini 1933 yılında çıkarmaya başladığı ''Akın'' gazetesinde sürdürmeye devam etmiştir.<ref name=":6" />
+
+Kendisinin oğlu olan [[Samet Ağaoğlu|Abdüssamet]]'in de babasına benzeyen siyasi düşünceleri bulunmaktadır. Samet Ağaoğlu, kendi siyasi serüveninde [[Demokrat Parti (1946)|Demokrat Parti]]'ye katılmış; [[Adnan Menderes]] hükümetlerinde [[Türkiye başbakan yardımcıları listesi|başbakan yardımcılığı]], [[Türkiye çalışma ve sosyal güvenlik bakanları listesi|çalışma bakanlığı]] ve [[Türkiye sanayi ve teknoloji bakanları listesi|sanayi bakanlığı]] görevlerinde bulunmuştur.<ref>{{Akademik dergi kaynağı|url=https://dergipark.org.tr/tr/pub/telakkisbd/article/1259075|başlık=Çok Yönlü Bir Muharrir ve Fikir-Siyaset Adamı Olarak Samet Ağaoğlu (1909-1982)|tarih=2 Mart 2023|sayı=1|dil=Türkçe|sayfalar=1-9|çalışma=Telakki Sosyal Bilimler Dergisi|cilt=1|ad=Etem Yunus|soyadı=Akbayır|issn=2979-9996}}</ref>
+
+== Olaylı İzmir Mitingi ==
+İlk kez Cumhuriyet Halk Fırkası'na muhalif bir oluşum Türkiye'de halka miting düzenleyecekti. Mitinge olan ilgi hem Fethi Okyar'ın hem de CHF yönetiminin beklediğinden çok daha fazlaydı. İzmir'de büyük bir halk kalabalığı CHF'nin getirdiği düzenden ve icraatlarından memnun değildi. Bir grup CHF il binasının önünde öfkeli bir bekleyişe başladı. Diğer bir grup ise coşkuyla Fethi Okyar'a iltifat tezahüratları atarken, CHF aleyhine ağır eleştirici tezahüratlar başladı. CHF il binasının penceresinden "Sabri Bey" olarak bilinen bir il idarecisi toplanan halka "namussuzlar" diye bağırınca öfkeli halk CHF il binasını taş yağmuruna tuttu. İl binasının camları kırıldı ve halkın öfkesi bitmedi, CHF binası öfkeli halk tarafından basıldı. Olaya dahil olan polis önce havaya, sonra halka ateş açtı ve 12-14 yaşlarında bir çocuğun hayatını kaybetmesiyle sonuçlandı.<ref>{{Web kaynağı|url = https://www.haberturk.com/yazarlar/murat-bardakci/1366837-kurucu-ayar-iste-budur-partili-cumhurbaskani|başlık = Kurucu ayar, işte budur: Partili cumhurbaşkanı!|erişimtarihi = 22 Ağustos 2022|arşivtarihi = 25 Ocak 2017|arşivurl = https://web.archive.org/web/20170125072636/https://www.haberturk.com/yazarlar/murat-bardakci/1366837-kurucu-ayar-iste-budur-partili-cumhurbaskani|tarih =|ölüurl = hayır|website = HaberTurk.com}}</ref><ref>{{Web kaynağı|url = https://medyascope.tv/2021/12/11/roj-girasun-yazdi-yine-de-miting-deyip-gecmemek-gerek/|başlık = Yine de miting deyip geçmemek gerek…|erişimtarihi = 22 Ağustos 2022|arşivtarihi = 10 Aralık 2021|arşivurl = https://web.archive.org/web/20211210212017/https://medyascope.tv/2021/12/11/roj-girasun-yazdi-yine-de-miting-deyip-gecmemek-gerek/|tarih =|ölüurl = hayır|website = medyascope.tv}}</ref>[[Dosya:Serbest Cumhuriyet Fırkası Samsun Vilayet Ocağı.jpg|küçükresim|upright=1.02|SCF Samsun Vilayet Ocağı]]
+Serbest Cumhuriyet Fırkasının iki numarası olarak bilinen Ahmet Ağaoğlu olayı şöyle anlattı:
+
+''"Kalabalığın ortasında bir adamcağız kucağında taşıdığı bir çocuğu birdenbire Fethi Bey'in ayaklarının dibine atarak: 'İşte size bir kurban, başkalarını da veririz. Yalnız sen bizi kurtar.' dedi ve ağlayarak Fethi Bey'in ellerine sarıldı."'' <ref>{{Web kaynağı|url = https://www.indyturk.com/node/60926/haber/o%C4%9Flunun-cans%C4%B1z-bedeniyle-fethi-okyar%E2%80%99-yakla%C5%9Fan-baba-bu-ilk-kurban%C4%B1m%C4%B1z-daha-da|başlık = Oğlunun cansız bedeniyle Fethi Okyar’a yaklaşan baba: Bu ilk kurbanımız, daha da veririz!|erişimtarihi = 22 Ağustos 2022|arşivtarihi = 2 Haziran 2020|arşivurl = https://web.archive.org/web/20200602175100/https://www.indyturk.com/node/60926/haber/o%C4%9Flunun-cans%C4%B1z-bedeniyle-fethi-okyar%E2%80%99-yakla%C5%9Fan-baba-bu-ilk-kurban%C4%B1m%C4%B1z-daha-da|tarih =|ölüurl = hayır|website = indyturk.com}}</ref>
+
+== Cumhuriyet Halk Fırkası basınının SCF'nin üstüne gelmesi ==
+Serbest Cumhuriyet Fırkası, kurulduğu dönemde bile hemen Cumhuriyet Halk Fırkası basınının hedefi olmuştu. Bu olayı [[Cemil Koçak]] "İktidar basını SCF'lileri daha en başından mahkûm etmişti" şeklinde anlatır. O dönem Cumhuriyet Halk Fırkası'nın kontrol ettiği basın Serbest Cumhuriyet Fırkası'na hoş bir karşılama yapmamıştı. Serbest Cumhuriyet Fırkası'nın muhalefet yapabileceği sınırlar daha en başından basın aracılığıyla iktidar tarafından çizilmişti. Serbest Cumhuriyet Fırkası'na yönelik iyi niyetli olmayan ve önyargılı sorular da Cumhuriyet Halk Fırkası'na yakın kişiler tarafından soruldu.<ref>{{kitap kaynağı |başlık= "Tek Parti, Cumhuriyet ve Şefler" 1. Baskı |soyadı= Koçak |ad= Cemil |yıl= 2016|sayfa= 206-207|yayıncı= Timaş Yayınları}}</ref>
+
+== Serbest Cumhuriyet Fırkası ve seçimler ==
+[[Dosya:Fethi Okyar and Liberal Republican Party politicians.jpg|küçükresim|upright=1.02|sağ|SCF Başkanı Okyar, partisinin Aydın teşkilatı üyeleriyle. Fotoğrafta Okyar'ın sağındaki beyaz takım elbiseli kişi, dönemin SCF Aydın İl Başkanı, geleceğin Başbakanı [[Adnan Menderes]]'tir.]]
+'''Yerel seçimler<ref>{{Kitap kaynağı|başlık=Atatürk’ün Vatana İhanetle Suçlandığı S.C.F. Olayı|sayfalar=267-273|yer=İstanbul|yayıncı=Otopsi Yayınları|yıl=2004|ad=Yetkin|soyadı=Çetin|isbn=9789758410453}}</ref>'''
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[1930 Türkiye yerel seçimleri|1930]]
+|[[Fethi Okyar|Ali Fethi Okyar]]
+|#
+|#
+|Yeni
+|#
+|#
+|{{Composition bar|31|502|hex=#1E90FF}}
+|Yeni
+|}
+
+=== Milletvekilleri ===
+Serbest Cumhuriyet Fırkasının toplam 15 milletvekili vardı. Milletvekillerinin tamamı partiye Cumhuriyet Halk Fırkasından geçiş yapmıştır.<ref>{{Dergi kaynağı|url=https://dergipark.org.tr/tr/download/article-file/2727267|başlık=ARŞİV BELGELERİNE GÖRE SERBEST CUMHURİYET FIRKASI|erişim-tarihi=11 Kasım 2024|arşivurl=https://web.archive.org/web/20241111115545/https://dergipark.org.tr/tr/download/article-file/2727267|arşivtarihi=11 Kasım 2024|ölüurl=hayır}}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |TBMM
+! rowspan="2" |Lider
+! colspan="2" |Sandalye
+|-
+!#
+!±
+|-
+![[TBMM 3. dönem milletvekilleri listesi|III]]
+|[[Fethi Okyar|Ali Fethi Okyar]]
+|{{Composition bar|15|335|hex=#1E90FF}}
+|Yeni
+|}
+
+== Feshedilmesi ==
+Parti, 17 Kasım 1930'da kurucusu Fethi Okyar ve parti yöneticilerinin talebiyle feshedildi.<ref name=":0">{{Kitap kaynağı|başlık=Atatürk’ün Vatana İhanetle Suçlandığı S.C.F. Olayı|sayfalar=315-320|yer=İstanbul|yayıncı=Otopsi Yayınları|yıl=2004|ad=Yetkin|soyadı=Çetin|isbn=9789758410453}}</ref>
+
+Serbest Cumhuriyet Fırkasına yakın bir kaynağın iddiasına göre, parti kendi kendini feshetmeye Cumhuriyet Halk Fırkası tarafından zorlanmıştır.<ref name="ddkaynak" /> Bunda olaylı İzmir mitingi sonrası SCF'ye gelen beklenmedik halk desteğinin etkisi büyüktür.
+
+Feshine ve feshine giden sürece dair farklı yaklaşımlar mevcuttur. Bunlardan ilki "Halk Fırkası lehine mobilize olan bürokratik aygıtın" faaliyetlerinin etkili olduğudur. Fethi Bey'in [[İzmir]] ve Batı Anadolu gezisinde yeni muhalefet partisine büyük sevgi gösterileri ve CHF'ye karşı halkın öfkeli tutumunun boyutu beklenilenden fazlaydı. Serbest Cumhuriyet Fırkasının devam etmesi durumunda, beklenilenden çok daha büyük bir halk kitlesini peşinden sürüklemesinden ve partinin kontrol edilemeyecek kadar büyümesinden "Halk Fırkası lehine mobilize olan bürokratik aygıt" endişe ediyordu ve bunun karşısında faaliyet gösteriyordu.<ref>Emrence, C. (2006). 99 Günlük Muhalefet: Serbest Cumhuriyet Fırkası, İletişim Yayınları, İstanbul s. 94-104, 184-186, 188, 195.</ref>
+
+Fethi Okyar'ın anılarına göre, Mustafa Kemal SCF'nin kapatılmasına karşı çıkmıştı. 15 Kasım'daki görüşmede partiyi dağıtma kararını ileten Nuri Conker'le birlikte Fethi Okyar'ı üstelemişti. Mustafa Kemal, Fethi Okyar ayrılsa bile partinin başkaları tarafından yürütülmesi gerektiğini belirtmişti.<ref name=":0" /><ref>{{Kitap kaynağı|başlık=Atatürk, Okyar ve çok partili Türkiye: Fethi Okyar'ın anıları|tarih=1997|sayfalar=157-161|yer=İstanbul|yayıncı=Türkiye İş Bankası Kültür Yayınları|seri=1. Baskı|ad=Osman|soyadı=Okyar|isbn=978-975-458-095-2|ad2=Mehmet|soyadı2=Seyitdanlıoğlu}}</ref> [[Aydın Menderes|Aydın Menderes'in]] iddiasına göre Mustafa Kemal belediye seçimini Serbest Cumhuriyet Fırkası'nın kazanmasına oldukça sinirlenmişti.<ref>{{kitap kaynağı |başlık= "Demokrasiden Darbeye, Babam Adnan Menderes" 2.Baskı |soyadı= Menderes |ad= Aydın |yıl= 2011|sayfa= 155|yayıncı= Doğan Egmont Yayıncılık}}</ref>  Serbest Cumhuriyet Fırkası'nın feshedilmesi sonrası Mustafa Kemal ölümüne kadar bir daha çok partili sisteme geçiş denemesi yapmadı.
+
+Siyaset bilimci [[Maurice Duverger|Duverger]], Atatürk'ün Batılı biçimdeki siyasal demokrasinin koşullarını oluşturma çabasından "nüfusun büyük çoğunluğunun cahil, geri kalmış, okumaz-yazmaz olduğu bir feodal ve tarımcı bir ülkede çok partili ve serbest seçimli Batılı bir sistemin hiçbir anlamı yoktur." şeklinde bahsetmiş ve SCF'yi "rejimin bütün düşmanlarının, özellikle laiklik aleyhtarlarının ve dinci mutaassıpların birleşme yeri" olarak tanımlamıştır.<ref>{{Kitap kaynağı|başlık=Atatürk’ün Vatana İhanetle Suçlanması: Türk Demokrasi Tarihinde "Serbest Cumhuriyet Fırkası"|basım=4. basım|sayfalar=329|yer=İstanbul|yayıncı=Otopsi Yayınları|yıl=2004|ad=Yetkin|soyadı=Çetin}}</ref> [[Roni Margulies]] ise Batılı anlamda demokrasinin her zaman önemli olduğu, halk yeterince eğitimli değil iddiasıyla despot bir tek adam sistemi kurulmaması gerektiği ve çok partili demokrasinin Türkiye'de uygulanmasında herhangi bir sorun olmadığı, CHP'nin çok partili geçişe yeterince istekli olmadığı görüşünü belirtmiştir.<ref>Taraf Gazetesi, Roni Margulies'ın "Solduyu" isimli köşesi</ref>{{Sayfa belirt|tarih=Ağustos 2025}} [[Sina Akşin]]'e göre de fırka kapatıldıktan sonra Fethi Okyar'ın korkuları gerçek çıkmış, [[Menemen Olayı]]'nda Asteğmen [[Mustafa Fehmi Kubilay|Fehmi Kubilay]]'ın öldürülmesi Serbest Fırka'yla ilişkilenmişti.<ref>{{Kitap kaynağı|başlık=Kısa Türkiye tarihi|url=https://archive.org/details/ksaturkiyetarihi0000aksi|tarih=2016|sayfa=[https://archive.org/details/ksaturkiyetarihi0000aksi/page/205 205]|yer=İstanbul|yayıncı=Türkiye İş Bankası Kültür Yayınları|seri=20. baskı|ad=Sina|soyadı=Akşin|isbn=978-9944-88-172-2}}</ref> Bunların ardından Türkiye, 1945'te [[Millî Kalkınma Partisi|Milli Kalkınma Partisi]] ve 1946'da [[Demokrat Parti (1946)|Demokrat Parti]] kurulana kadar yeniden tek partili bir yapıda yönetildi.
+
+== Konuyla ilgili yayınlar ==
+* [[Mete Tunçay|Tunçay, M.]] (1999). ''[[Türkiye Cumhuriyeti’nde Tek Parti Yönetiminin Kurulması 1923-1931|Türkiye Cumhuriyeti'nde Tek Parti Yönetiminin Kurulması (1923-1931)]]'', Tarih Vakfı Yurt Yayınları, İstanbul
+* Yetkin, Ç. (1997). ''Atatürk'ün Başarısız Demokrasi Devrimi: Serbest Cumhuriyet Fırkası'', Toplumsal Dönüşüm Yayıncılık, İstanbul
+* Emrence, C. (2006). ''99 Günlük Muhalefet: Serbest Cumhuriyet Fırkası'', İletişim Yayınları, İstanbul
+* [[Tevfik Çavdar|Çavdar, T.]] (1995). "Serbest Fırka", ''Cumhuriyet Dönemi Türkiye Ansiklopedisi, Cilt 8''. ss. 2052-2059. İletişim Yayınları, İstanbul
+* [[Hasan Rıza Soyak|Soyak, H. R.]] (1973). ''Atatürk'ten Hatıralar Cilt II'', Yapı Kredi Bankası Yayınları, İstanbul
+* {{kitap kaynağı |başlık=Serbest Fırka Hatıraları |ilk=Ahmet |son=Ağaoğlu |yazarlink=Ahmet Ağaoğlu |yayımcı=Baha Matbaası |yer=İstanbul |yıl=1969}}
+* Kacar, M. (2021). ''Belgeleriyle Serbest Cumhuriyet Fırkası'nı Anlamak'', Akademisyen Kitabevi, Ankara
+
+== Kaynakça ==
+{{kaynakça}}
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Serbest Cumhuriyet Fırkası| ]]
+[[Kategori:1930'da Türkiye'de kurulan oluşumlar]]

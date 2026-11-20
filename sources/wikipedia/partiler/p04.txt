@@ -1,0 +1,482 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Demokratik Sol Parti
+| kısaltma         = DSP
+| colorcode        = {{Siyasi parti renk|Demokratik Sol Parti}}
+| amblem           = DSP-logo.png
+| amblem_boyutu    = 100px
+| genel başkanı    = [[Önder Aksakal]]
+| genel sekreteri  = [[Hasan Erçelebi]]
+| kurucusu         = [[Rahşan Ecevit]]
+| slogan           = *''Gözün aydın Türkiye Ak Güvercin geliyor!''
+*''Bu sefer DSP'de!''
+*''Kardeşlik DSP'de!''
+*''Demokratik Soldayız en sağlıklı yoldayız!''
+| kuruluş          = {{Açılış tarihi ve yaşı|1985|11|14}}
+| bölünme          = [[Değişen Türkiye Partisi]]<br>{{Küçük|(1998-2002)}}<br> Toplumcu Demokratik Parti<br>{{Küçük|(2002)}}<ref>{{Web kaynağı|url=https://www.hurriyet.com.tr/gundem/piskinsut-partisini-kurdu-38344416|başlık=Pişkinsüt partisini kurdu|tarih=28 Oca 2002|website=www.hurriyet.com.tr|erişimtarihi=23 Aralık 2023|arşivurl=https://web.archive.org/web/20231223103848/https://www.hurriyet.com.tr/gundem/piskinsut-partisini-kurdu-38344416|arşivtarihi=23 Aralık 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.yenimesaj.com.tr/piskinsut-parti-kurdu-H1063383.htm|başlık=Pişkinsüt parti kurdu|website =www.yenimesaj.com.tr|erişimtarihi=23 Aralık 2023|arşivurl=https://web.archive.org/web/20231223103848/https://www.yenimesaj.com.tr/piskinsut-parti-kurdu-H1063383.htm|arşivtarihi=23 Aralık 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=http://arsiv.ntv.com.tr/news/132482.asp|başlık=Pişkinsüt partisini kurdu|website=arsiv.ntv.com.tr|erişimtarihi=23 Aralık 2023|arşivurl=https://web.archive.org/web/20231223103901/http://arsiv.ntv.com.tr/news/132482.asp|arşivtarihi=23 Aralık 2023|ölüurl=hayır}}</ref><br> [[Yeni Türkiye Partisi (2002)|Yeni Türkiye Partisi]]<br>{{Küçük|(2002-2004)}}<br>[[Demokratik Sol Halk Partisi]]<br>{{Küçük|(2009-2010)}}<br>[[Türkiye Değişim Partisi]]<br>{{Küçük|(2020-2023)}}
+| öncülü           = [[Cumhuriyet Halk Partisi]]
+| merkez           = Mareşal Fevzi Çakmak Cad.17, Beşevler - Ankara, Türkiye
+| üyelik           = {{artış}} 23.058<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1115|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20210121025724/https://www.yargitaycb.gov.tr/icerik/1115|arşivtarihi = 21 Ocak 2021}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Kemalizm|Atatürkçülük]]<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/siyaset/ecevit-irkci-degil-ataturk-milliyetcisiyim-5253154|başlık=Ecevit: Irkçı değil, Atatürk milliyetçisiyim|erişimtarihi=12 Ekim 2022|arşivurl=https://web.archive.org/web/20221012120015/https://www.milliyet.com.tr/siyaset/ecevit-irkci-degil-ataturk-milliyetcisiyim-5253154|arşivtarihi=12 Ekim 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.tv5.com.tr/dspden-ataturke-halk-demokratik-yasamin-disina-atildi|başlık=DSP’den Atatürk’e: Halk, demokratik yaşamın dışına atıldı|erişimtarihi=12 Ekim 2022|arşivurl=https://web.archive.org/web/20221012130027/https://www.tv5.com.tr/dspden-ataturke-halk-demokratik-yasamin-disina-atildi|arşivtarihi=12 Ekim 2022|ölüurl=hayır}}</ref>
+*[[Ulusalcılık]]<ref>{{Web kaynağı|url=http://arsiv.ntv.com.tr/news/172152.asp|başlık=Ecevit’ten ‘ulusal sol’ çağrısı|erişimtarihi=21 Mayıs 2022|arşivurl=https://web.archive.org/web/20220521121530/http://arsiv.ntv.com.tr/news/172152.asp|arşivtarihi=21 Mayıs 2022|ölüurl=hayır}}</ref>
+*[[Sosyal demokrasi]]<ref>{{Web kaynağı | url = https://birikimdergisi.com/dergiler/birikim/1/sayi-120-nisan-1999/2314/chp-ve-dsp-de-solun-bakiyesi-nedir/3256 | başlık = CHP ve DSP'de Solun Bakiyesi Nedir? - Necmi Erdoğan, Tanıl Bora {{!}} Birikim Sayı 120 - Nisan 1999 | erişimtarihi = 26 Kasım 2023 | dil = Türkçe | çalışma = birikimdergisi.com | arşivurl = https://web.archive.org/web/20230407154143/https://birikimdergisi.com/dergiler/birikim/1/sayi-120-nisan-1999/2314/chp-ve-dsp-de-solun-bakiyesi-nedir/3256 | arşivtarihi = 7 Nisan 2023}}</ref>
+*[[Ortanın solu]]<ref>{{Web kaynağı|url=https://dergipark.org.tr/tr/download/article-file/829339|başlık=“ORTANIN SOLU” DÜŞÜNCESİNDE KEMALİZM|erişimtarihi=12 Ekim 2022|arşivurl=https://web.archive.org/web/20221012120013/https://dergipark.org.tr/tr/download/article-file/829339|arşivtarihi=12 Ekim 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=http://www.secim-sonuclari.com/demokratik-sol-parti/1999/ankara.parti|başlık=DSP 1999 Seçim Sonuçları|erişimtarihi=12 Ekim 2022|arşivurl=https://web.archive.org/web/20221012120015/http://www.secim-sonuclari.com/demokratik-sol-parti/1999/ankara.parti|arşivtarihi=12 Ekim 2022|ölüurl=evet}}</ref>
+*[[Antikomünizm|Anti-komünizm]]<ref>{{Web kaynağı|url=https://dergipark.org.tr/en/download/article-file/2127743|başlık=Gazetecilik Yıllarında Bülent Ecevit ve Anti-Komünizm (1950-1961)|erişimtarihi=30 Aralık 2022|arşivurl=https://web.archive.org/web/20221230175748/https://dergipark.org.tr/en/download/article-file/2127743|arşivtarihi=30 Aralık 2022|ölüurl=hayır}}</ref>
+*[[Demokratik sol]]<ref>{{Web kaynağı|url=https://t24.com.tr/yazarlar/fikret-bila/ecevit-in-sol-anlayisi,24391|başlık=Ecevit'in Sol Anlayışı|erişimtarihi=21 Mayıs 2022|arşivurl=https://web.archive.org/web/20191219060027/https://t24.com.tr/yazarlar/fikret-bila/ecevit-in-sol-anlayisi,24391|arşivtarihi=19 Aralık 2019|ölüurl=hayır}}</ref>
+*[[Sol milliyetçilik]]<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/dsp-genel-baskani-aksakal-dsp-sol-kavramini-turkiyede-millilestiren-tek-partidir/1650538|başlık=DSP Genel Başkanı Aksakal: DSP, sol kavramını Türkiye'de millileştiren tek partidir|erişimtarihi=30 Nisan 2022|arşivurl=https://web.archive.org/web/20220430160026/https://www.aa.com.tr/tr/politika/dsp-genel-baskani-aksakal-dsp-sol-kavramini-turkiyede-millilestiren-tek-partidir/1650538|arşivtarihi=30 Nisan 2022|ölüurl=hayır}}</ref>
+*[[Parlamenter sistem|Parlamenterizm]]<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/aksakal-ak-parti-ve-mhpyle-ittifak-konusulabilir-hdpyle-asla-haber-1558247|başlık=Aksakal: AK Parti ve MHP’yle ittifak konuşulabilir, HDP’yle asla|erişimtarihi=13 Ekim 2022|arşivurl=https://web.archive.org/web/20221013143507/https://www.gazeteduvar.com.tr/aksakal-ak-parti-ve-mhpyle-ittifak-konusulabilir-hdpyle-asla-haber-1558247|arşivtarihi=13 Ekim 2022|ölüurl=hayır}}</ref>
+*[[Ecevitçilik]]
+*[[Pro-Avrupacılık]]<ref>{{Web kaynağı|url=https://www.voaturkce.com/a/a-17-a-2002-03-08-2-1-87887567/804952.html|başlık=Ecevit: AB Konusunda Kararlıyız - 2002-03-08|erişimtarihi=26 Kasım 2023|tarih=8 Mart 2002|dil=Türkçe|çalışma=VOA Türkçe|arşivurl=https://web.archive.org/web/20231126200855/https://www.voaturkce.com/a/a-17-a-2002-03-08-2-1-87887567/804952.html|arşivtarihi=26 Kasım 2023|ölüurl=hayır}}</ref>
+}}
+| pozisyon         = [[Merkez sol]]
+| renkler          = {{Color box|{{Siyasi parti renk|Demokratik Sol Parti}}|border=darkgray}} {{Color box|#EE1D23|border=darkgray}} [[Gök mavisi]] ve [[kırmızı]]
+| sandalye2_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|1|922|{{Siyasi parti renk|Demokratik Sol Parti}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye3_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|1|390|{{Siyasi parti renk|Demokratik Sol Parti}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = [http://www.dsp.org.tr dsp.org.tr]
+| ülke             = {{bayraksimge|Türkiye}} [[Türkiye|Türkiye Cumhuriyeti]]
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|1|600|{{Siyasi parti renk|Demokratik Sol Parti}}}} [[#Milletvekilleri|Tüm Liste]]
+| sandalye4_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye4        = {{Composition bar|28|20953|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+}}
+'''Demokratik Sol Parti''', 14 Kasım 1985 tarihinde [[Rahşan Ecevit]] liderliğinde kurulan ve [[Türkiye]]'de faaliyet gösteren siyasi partidir. Parti tüzüğüne göre resmî kısaltması "DSP" şeklindedir. Simgesi ak güvercindir. [[TBMM 28. dönem milletvekilleri listesi|TBMM 28. Dönemi]]'nde 1 milletvekili ile temsil edilmektedir. Genel başkanı [[Önder Aksakal]]'dır.
+
+[[Rahşan Ecevit]]'in kurucu genel başkanlığını yaptığı parti Bülent Ecevit önderliğinde 1990'lı yılların ikinci yarısında ve 2000'li yılların başında [[Türkiye|Türk]] siyasetinde etkili olmuştur. 1999-2002 yılları arasında iktidar olan DSP, [[56. Türkiye Hükûmeti|56.]] ve [[57. Türkiye Hükûmeti]]'ni kurmuştur. Parti, bu etkili konumunu [[2002 Türkiye genel seçimleri|2002 genel seçimleri]] ile kaybetmiş ve akabinde partinin kurucuları olan Ecevit çiftinin aktif siyasetten çekilmesiyle birlikte çöküş sürecine girmiştir. 2010'lu yılların başlarına kadar yerel siyasette etkili olmaya devam eden parti [[2009 Türkiye yerel seçimleri|2009 Yerel Seçimleri]]'ni takip eden süreçte bu etkisini de kaybetmiş ve [[tabela partisi]]ne dönüşmüştür. [[2023 Türkiye genel seçimleri|2023 genel seçimlerinde]] [[Adalet ve Kalkınma Partisi]] listelerinden seçime girip [[Önder Aksakal|1 milletvekili]] çıkarmıştır.
+
+== Tarihçe ==
+=== Kuruluşundan önce ===
+Türkiye'de demokratik solun temelleri, [[ortanın solu]] adıyla 1960'ların başında atıldı. 1963'te demokratik işçi hakları için verilen ve kazanılan mücadeleden doğan bu hareket, [[İsmet İnönü]]'nün başkanlığını yaptığı [[Cumhuriyet Halk Partisi]]nde parti içi muhalefete dönüştü.
+
+[[Ortanın solu]] hareketindeki [[Solculuk|"sol"]] sözcüğü parti içinde ve dışında yoğun tepkilerle karşılaştı; fakat hareketi başlatanların direnci [[Türkiye]]'deki solculuk anlayışına siyasal meşruluk kazandırdı. Ortanın Solu Hareketi bunu, [[Marksizm]]'den farklılığını vurgulayarak yaptı. Hareketi toplumsal ve [[Ulusalcılık|ulusal]] özelliklere dayandırarak, inançlara saygılı [[laiklik|laikliği]] benimsediler. Bu sayede halkın güvenini kazandılar.
+
+[[Bülent Ecevit]]'in öncülüğündeki Ortanın Solu hareketi, 1960'ların sonlarında Demokratik Sol adını benimsedi. Bu hareket [[12 Mart Muhtırası]]'nın ardından adeta bir demokrasi mücadelesine girişerek, askerin siyasete müdahalesine karşı çıktı. Bu konuda İnönü ile ters düşen Ecevit, genel sekreterlik görevinden istifa ederek, parti içinde çalışmalarını daha etkin bir biçimde sürdürdü. Millî Şef [[İsmet İnönü]] parti meclisi seçiminde Ecevit'e yenilerek, bunun üzerine 34 yıllık genel başkanlığını bıraktı.
+
+Ecevit, 14 Mayıs 1972'de [[Mustafa Kemal Atatürk]] ve [[İsmet İnönü]]'nün ardından [[Cumhuriyet Halk Partisi|CHP]]'nin üçüncü genel başkanı oldu. Parti, Ecevit'in genel başkanlığı ve [[demokratik sol]] akımıyla büyük bir ivme kazanarak yükselişe geçti. Bunun en somut göstergesi dönemin CHP'sinin oy oranlarındaki değişimdir. [[1969 Türkiye genel seçimleri|1969 seçimlerinde]] CHP'nin oyları % 27,37'e kadar gerilemişken, [[1973 Türkiye genel seçimleri|1973'te]] % 33.30'a, [[1977 Türkiye genel seçimleri|1977'de]] % 41.38'e yükselmiştir. ''"Umudumuz Karaoğlan!"'' sloganları da 1973 Seçimleri'nde atılmaya başlanmıştır.
+
+[[Türk Silahlı Kuvvetleri]]'nin yaptığı [[12 Eylül Darbesi|12 Eylül 1980 Darbesi]]'nin ardından diğer parti başkanlarıyla beraber Bülent Ecevit de siyasetten uzaklaştırıldı ve bir süre gözaltında tutuldu. Daha sonra bütün partilerin ileri gelenleriyle birlikte 10 yıl süreyle siyasete girmesi yasaklandı. Ecevit gazeteciliğe döndü ve Şubat 1981'de ''Arayış'' dergisini çıkarmaya başladı. ''Arayış''{{'}}a ya da başka kanallara verdiği demeçlerden dolayı yargılandı ve cezaevine girdi. MGK, 16 Ekim 1981'de tüm siyasi partilerle birlikte CHP'de kapattı.
+[[Dosya:Rahşan Ecevit - 28.2.15.JPG|küçükresim|DSP Kurucu Genel Başkanı [[Rahşan Ecevit]], 2015 Ankara Kitap Fuarı'nda]]
+
+=== Kuruluşu ===
+[[12 Eylül Darbesi]]'nden sonra siyaset yasağı getirilen Ecevit, çevresindeki destekçilerini tek tek kaybetti. Bülent Ecevit, bu dönemle ilgili olarak ''"Mücadelenin güçlüklerini göze alamayanlarla yollarımız ayrıldı."'' demiştir. Bülent Ecevit, [[ortanın solu|demokratik sol]] söylemi bir partiyle yeniden hayata döndürmek istiyordu. Bunun sonucunda, yasaklı olan Bülent Ecevit'in yerine eşi [[Rahşan Ecevit]] 14 Kasım 1985'te bu projeyi hayata geçirdi ve Demokratik Sol Parti'yi kurdu. Rahşan Ecevit'in örgütlenme konusunda, kurduğu köylü derneklerinden gelen bir deneyimi vardı. İki odalı bir bodrum katında kurulan partinin gelişiminde rol oynayan etmenlerden biri de budur.
+
+29 Aralık 1986 tarihinde, [[Sosyal Demokrasi Partisi|SODEP]]-[[Halkçı Parti|HP]] birleşmesinden sonra partiden kopan milletvekillerinin kurduğu 'hülle partisi' [[Halk Partisi (Türkiye)|Halk Partisi]] kendini feshederek DSP'ye katıldı. Böylece DSP, 25 milletvekiliyle [[Türkiye Büyük Millet Meclisi|TBMM]]'ye girmiş oldu.<ref>{{Web kaynağı|url = https://www.hurriyet.com.tr/gundem/dspnin-19-yili-243863|başlık = DSP'nin 19 yılı|erişimtarihi = 14 Nisan 2023|dil = Türkçe|çalışma = [[Hürriyet (gazete)|Hürriyet]]|arşivurl = https://web.archive.org/web/20190221130047/https://www.hurriyet.com.tr/gundem/dspnin-19-yili-243863|arşivtarihi = 21 Şubat 2019}}</ref>
+
+14 Haziran 1987 tarihinde Rahşan Ecevit'e muhalif olan grubun gerçekleştirdiği 2. Kurucular Kurulu toplantısında muhalif harekete önderlik eden [[Celal Kürkoğlu]], partiden ihraç edildiği belirtilen kurucu üyelerin katıldığı toplantıda, “Genel Başkan” ilan edildi. Bu süreçte muhalifler ve parti yönetimi karşılıklı suç duyurularında bulunuldu, parti içi tartışmalar, açılan davalarla mahkemelere taşındı. Yaklaşık üç ay süreyle “Genel Başkanlık” iddiasında bulunan Celal Kürkoğlu 14 Eylül 1987'de 15 arkadaşıyla birlikte [[Sosyaldemokrat Halkçı Parti|SHP]]'ye katıldı.
+
+6 Eylül 1987'de siyasi yasakların kalkması yönünde yapılan [[1987 Türkiye anayasa değişikliği referandumu|halkoylaması]] sonucunda eski siyasetçilerin önündeki siyaset yasağı kalktı. Bunun üzerine DSP'nin başına Bülent Ecevit geçti. Bülent Ecevit'in liderliğinde girilen [[1987 Türkiye genel seçimleri|29 Kasım 1987 seçimlerinde]] parti 2.044.576 kişinin oyuyla %8.53'lük bir sonuç aldı ve [[Türkiye Büyük Millet Meclisi|TBMM]] dışında kaldı. Partisi barajı aşıp Meclis'e giremeyince Bülent Ecevit, 30 Kasım 1987'de aktif politikadan çekildiğini açıkladı. Eşi Rahşan Ecevit ile birlikte 2 Aralık 1987'de istifalarını verdiler, ancak baskılar üzerine kurultaya kadar kararı askıya aldılar.
+
+Boşalan genel başkanlığa 7 Mart 1988'de [[Necdet Karababa]] getirildi. Genel başkanlık görevini bir yıldan az sürdüren Karababa'nın görevi bırakmasından sonra, 15 Ocak 1989'da Bülent Ecevit partililer tarafından liderliğe yeniden getirildi. Bu dönemin ardından [[1989 Türkiye yerel seçimleri|26 Mart 1989 yerel seçimleri]]nde % 9,09 oy alan DSP, [[1991 Türkiye genel seçimleri|20 Ekim 1991 genel seçimlerinde]] %10.75 oy alarak TBMM'ye 7 milletvekiliyle girdi. Ecevit de 11 yıl sonra [[Zonguldak milletvekilleri listesi|Zonguldak milletvekili]] olarak yeniden Meclis'e girdi.
+
+9 Eylül 1992'de Cumhuriyet Halk Partisi'nin tekrar kurulmasından sonra bu sayı çeşitli istifalarla 4'e düştü. DSP'nin 3. Olağan Kurultayı 2 Ekim 1994 tarihinde toplandı. Ecevit bu kurultay sonucunda da genel başkanlığını sürdürdü.
+
+DSP'nin oyları [[1995 Türkiye genel seçimleri|24 Aralık 1995 erken genel seçimlerinde]] % 14.64'e, milletvekili sayısı 76'ya yükseldi ve Demokratik Sol Parti solun en büyük partisi konumuna geldi. 6 Mart 1996'da [[Anavatan Partisi]] ve [[Doğru Yol Partisi]], Demokratik Sol Parti'nin dışarıdan desteğiyle [[53. Türkiye Hükûmeti|ANAYOL Hükümeti]] kuruldu. Bu hükûmet [[Refah Partisi]]'nin verdiği [[gensoru]] önergesiyle 28 Haziran 1996'da düştü; yerine DYP ile RP'nin kurduğu [[54. Türkiye Hükûmeti|REFAHYOL Hükümeti]] başa geldi. REFAHYOL Hükûmeti [[28 Şubat Süreci]] içerisinde askerin yoğun baskısı sonucu istifa etti.
+
+Eylül 1996'da kendilerine “Çile Çiçekleri” adını veren [[Erdal Kesebir]] ve 3 arkadaşı, partiden ihraç edildiler.
+
+=== İktidarda olduğu dönem (1997-2002) ===
+[[28 Şubat Süreci]] ile birlikte; Demokratik Sol Parti, [[Anavatan Partisi]] ve [[Demokrat Türkiye Partisi]] ile 30 Haziran 1997'de [[Mesut Yılmaz]]'ın başbakanlığında kurulan [[55. Türkiye Hükûmeti|ANASOL-D Hükümeti]]'nde yer aldı. Bülent Ecevit de 18 yıllık aradan sonra başbakan yardımcısı olarak yeniden hükûmete girdi. 25 Kasım 1998'de Mesut Yılmaz için verilen gensoru önergesi TBMM'de kabul edildi ve Yılmaz başbakanlıktan istifa etti.
+
+[[Dosya:Bülent Ecevit-Davos 2000.jpg|sağ|küçükresim|upright=0.8|Ecevit, DSP Genel Başkanı iken 1999-2002 arasında başbakanlık yapmıştır.]]
+11 Ocak 1999'da ülkeyi seçime götürmek için, diğer partilerin de üzerinde anlaşması üzerine Demokratik Sol Parti tarafından bir [[azınlık hükûmeti]] kuruldu. [[Fazilet Partisi|FP]] dışındaki bütün partilerin ve çeşitli demokratik kitle ve sivil toplum örgütlerinin ortak desteğiyle kurulan DSP azınlık hükûmeti ile [[Bülent Ecevit]] yaklaşık 20 yıl aradan sonra, dördüncü kez başbakanlık koltuğuna oturdu.
+
+Yolsuzlukların ve siyasal yozlaşmanın arttığı bir dönemde Ecevit'in dürüst kişiliği ve DSP'nin yolsuzluğa bulaşmamış yapısı toplumda heyecan, umut ve güven yarattı. Böyle bir ortamda [[PKK]]'nın başının [[Kenya]]'da [[CIA]] ve [[Millî İstihbarat Teşkilatı|MİT]]'nin ortak operasyonu ile yakalanması da olumlu atmosferi pekiştirdi. [[1999 Türkiye genel seçimleri|18 Nisan 1999 Seçimleri]]'nde DSP oylarını %14.65'ten %22,19'a çıkardı ve birinci parti oldu. DSP, [[Anavatan Partisi|ANAP]] ve [[Milliyetçi Hareket Partisi|MHP]] ile birlikte [[57. Türkiye Hükûmeti]] kurdu. DSP, üçüncü kez hükûmette yer alırken, Bülent Ecevit de siyasi yaşamında beşinci kez Başbakanlık görevini üstlenmiş oldu.
+
+Rahşan Ecevit'in önerisiyle gündeme gelen ve çıkarılması konuşulan af yasası, uzun tartışmalar sonunda 22 Aralık 2000'de DSP öncülüğünde çıkarıldı.<ref>{{Web kaynağı|url = https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c051/tbmm21051037.pdf|başlık = 20 Aralık 2000, TBMM|arşivurl = https://web.archive.org/web/20230215001047/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c051/tbmm21051037.pdf|arşivtarihi = 15 Şubat 2023}}</ref> Bu af, kamuoyunda [[Rahşan Affı]] olarak bilinir. 2001 yılında tepkilerin artması üzerine [[Rahşan Ecevit]], "Benim düşündüğüm af katillerin affı değil, garibanların affıydı." dedi.<ref>{{Web kaynağı|url = https://www.hurriyet.com.tr/rahsan-ecevit-benim-istedigim-af-katillerin-affi-degildi-12838|başlık = Rahşan Ecevit: Benim istediğim af, katillerin affı değildi|arşivurl = https://web.archive.org/web/20160915203715/https://www.hurriyet.com.tr/rahsan-ecevit-benim-istedigim-af-katillerin-affi-degildi-12838|arşivtarihi = 15 Eylül 2016}}</ref>
+
+[[Süleyman Demirel]]'in ardından cumhurbaşkanı olan [[Ahmet Necdet Sezer]] ile Hükûmet arasında zaman zaman bazı yasaların iade edilmesiyle yaşanan gerginlik, 19 Şubat 2001 tarihinde yapılan [[Millî Güvenlik Kurulu (Türkiye)|Millî Güvenlik Kurulu]] (MGK) toplantısında doruğa ulaştı. Cumhurbaşkanı Sezer ile yaşadığı tartışma nedeniyle Başbakan Ecevit, MGK toplantısını terk etti. Yaşanan bu kriz ekonomide zor günlerin başlangıcı oldu. Ecevit'in Türkiye'ye çağırdığı [[Dünya Bankası]] Başkan Yardımcısı [[Kemal Derviş]], 13 Mart 2001'de devlet bakanlığına atanarak ekonominin başına geçti.
+
+29 Nisan 2001'de yapılan DSP 5. Olağan Büyük Kurultayında Bülent Ecevit 963 oyla yeniden genel başkan seçilirken, rakibi Aydın milletvekili [[Sema Pişkinsüt]] 68 oy aldı. 35 oy geçersiz sayıldı. Sema Pişkinsüt'ün Kurultay öncesi gerginlik yaratıcı bir üslup kullanarak Ecevit'e yüklenmesi sonucu kurultay gergin geçti. Kurultayın ardından İzmir Milletvekili [[Mehmet Özcan (siyasetçi)|Mehmet Özcan]] ile İstanbul Milletvekili [[Nazire Karakuş]], DSP'den istifa ettiler.
+
+Ecevit, 4 Mayıs 2002 tarihinde aniden rahatsızlanarak [[Başkent Üniversitesi Ankara Hastanesi]]'ne kaldırıldı ve 26 saat süren gözetimin ardından taburcu edildi. Bir süre evinde dinlenen Bülent Ecevit, 17 Mayıs'ta yeniden hastanede tedavi altına alındı ve 11 gün burada kaldı. Bu süreçte, Ecevit'in ilerleyen yaşı ve rahatsızlığı nedeniyle genel başkanlığı ve başbakanlığı devam ettirmesine karşı çıkanlar parti içinde bir bölünmeye neden oldu. Kendilerini “Dokuzlar” olarak adlandıran 9 milletvekili, 25 Haziran'da bir bildiri yayınlayarak, “Ecevitler öncülüğünde Ecevitsiz yaşama geçilmesini” istediler. 8 Temmuz'da Ecevit'in sağ kolu olarak nitelendirilen, Devlet Bakanı ve Başbakan Yardımcısı [[Hüsamettin Özkan]] Ecevit ile yaptığı görüşmeden sonra hükûmetteki görevinden ve partiden istifa ettiğini açıkladı. Daha sonra aralarında Muş Milletvekili [[Zeki Eker]] ve Dışişleri Bakanı [[İsmail Cem]]'in de olduğu bir grup DSP'li bakan ve milletvekili istifa etti.
+
+Yaşanan süreçte, 8 Temmuz 2002'de 128 milletvekili bulunan DSP'nin sandalye sayısı iki hafta içinde yarı yarıya düşerek 64'e indi. Böylece, DSP Meclis'teki en çok milletvekili bulunan parti konumundan dördüncü parti durumuna geldi. DSP'den ayrılan milletvekilleri 22 Temmuz 2002'de [[Yeni Türkiye Partisi (2002)|Yeni Türkiye Partisi]]'ni kurdu. DSP'de yaşanan istifalardan sonra [[57. Türkiye Hükûmeti|57. Hükümet]] TBMM'deki güvenoyu için gereken koltuk sayısının altına indi.<ref>[http://webarsiv.hurriyet.com.tr/2002/07/22/155686.asp Yeni Türkiye kuruldu] {{Webarşiv|url=https://web.archive.org/web/20110815232645/http://webarsiv.hurriyet.com.tr/2002/07/22/155686.asp |tarih=15 Ağustos 2011 }} hurriyet.com.tr Erişim tarihi: 12.3.2011</ref> Koalisyon hükûmetinin geleceğinin tehlikeye girmesi üzerine, koalisyonun en büyük ortağı haline gelen MHP'nin lideri [[Devlet Bahçeli]]'nin erken seçim çağrısı ile TBMM, 31 Temmuz'da, seçime 1 buçuk yıl olmasına rağmen erken genel seçimin 3 Kasım 2002 tarihinde yapılmasını kararlaştırdı. Üçlü koalisyon hükûmeti sırasında yaşanan ekonomik krizin etkileri yeni yeni sarılmışken ve yapılan reformların olumlu sonuçları henüz hissedilmemişken gidilen erken seçim sonucunda DSP ve diğer koalisyon ortakları yüzde 10'luk seçim barajını geçemedi.
+
+===2002 sonrası===
+Ecevit, genel başkanlıktan ayrılma kararını 3 Kasım seçimlerinden önce olduğu gibi, seçimlerden sonra da zaman zaman dile getirdi. Ancak uzunca bir süre DSP'nin kurultay tarihi ile ilgili net bir açıklama yapılmadı. Ecevit, beklenen açıklamayı 22 Mayıs 2004'te yaptı ve Genel Başkan Yardımcısı [[Zeki Sezer]]'e görevi devretmek isteğini belirtti. 24 Temmuz 2004'te toplanan DSP 6. Olağan Kurultay'da, genel başkanlıktan ayrılan Bülent Ecevit'in yerine Zeki Sezer DSP genel başkanlığına seçildi.
+
+[[2004 Türkiye yerel seçimleri]]'nde [[Bartın]], [[Eskişehir]] ve [[Ordu (il)|Ordu]] illerinin belediyeleriyle beraber toplam 30 belediye kazandı.
+
+[[Dosya:DSP Milas, Mugla.JPG|sağ|küçükresim|upright=0.82|2007'de DSP'nin [[Milas]] başkanlığı binası ve Zeki Sezer'in posteri.]]
+[[Bülent Ecevit]]'in 2006'daki vefatından sonra eşi [[Rahşan Ecevit]]'in parti içindeki etkisi azalmasına rağmen devam etti. Demokratik Sol Parti, [[2007 Türkiye genel seçimleri|22 Temmuz 2007 genel seçimlerine]] katılmadı. Bu seçimlerde, CHP listesinden aday olan 13 DSP'li, milletvekili seçilerek, [[parlamento]]ya girdi. Demokratik Sol Parti, [[2009 Türkiye yerel seçimleri|2009 yerel seçimleri]]'nde oy oranını ve belediye başkanlığı sayısını artırmasına rağmen, seçim sonuçlarının beklenenin altında olması gerekçesiyle DSP içinde tartışmalar başladı. Parti, [[Ordu (il)|Ordu]] ve [[Eskişehir]] büyükşehir belediyeleriyle beraber toplam 60 belediye (2 İl, 58 İlçe belediyesi) kazandı. [[Ahmet Tan]], [[Mücahit Pehlivan]], [[Tayfun İçli]] ve [[Recai Birgün]] DSP'nin seçim çalışmalarına katılmayıp CHP İstanbul Büyükşehir Belediyesi başkan adayı [[Kemal Kılıçdaroğlu]]'nun seçim çalışmalarına katıldıkları gerekçesiyle Merkez Disiplin Kuruluna sevk edildiler. 14 Nisan 2009'da Ahmet Tan DSP'den ihraç edilirken diğer milletvekillerine uyarı cezası verildi.<ref>{{Web kaynağı|url=http://aksam.medyator.com/2009/04/14/haber/siyaset/1547/ahmet_tan_dsp_den_ihrac_edildi.html|başlık=Ahmet Tan DSP'den ihraç edildi|erişimtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150402141432/http://aksam.medyator.com/2009/04/14/haber/siyaset/1547/ahmet_tan_dsp_den_ihrac_edildi.html|arşivtarihi=2 Nisan 2015|ölüurl=evet}}</ref> Zeki Sezer de 11 Nisan 2009 günü yaptığı basın toplantısıyla genel başkanlıktan istifasını açıkladı.<ref>[http://www.ntv.com.tr/arsiv/id/24955892/ DSP'de Zeki Sezer istifa etti] {{Webarşiv|url=https://web.archive.org/web/20150402092045/http://www.ntv.com.tr/arsiv/id/24955892/ |tarih=2 Nisan 2015 }} ntv.com.tr. Erişim tarihi: 11.4.2009</ref><ref>{{Web kaynağı|url=http://arsiv.ntv.com.tr/news/415075.asp|başlık=Sezer: Tablo beklentilerimize uygun değil|erişimtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150402143433/http://arsiv.ntv.com.tr/news/415075.asp|arşivtarihi=2 Nisan 2015|ölüurl=evet}}</ref>
+
+17 Mayıs 2009'da yapılan olağanüstü kurultayın 3. turunda kullanılan 834 geçerli oydan 431'ini alan [[Masum Türker]] genel başkanlığa seçildi.<ref>{{Web kaynağı|url=http://www.ntv.com.tr/arsiv/id/24967190/|başlık=DSP'nin yeni lideri Masum Türker|erişimtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150402093422/http://www.ntv.com.tr/arsiv/id/24967190/|arşivtarihi=2 Nisan 2015|ölüurl=hayır}}</ref> Kurultayın hemen ardından 2009 Mayıs'ından 2010 başlarına kadar devam eden süre içerisinde kurucu genel başkan [[Rahşan Ecevit]] ile Eskişehir milletvekili Tayfun İçli, Ankara milletvekilleri [[Emrehan Halıcı]] ve Mücahit Pehlivan, İzmir milletvekili Recai Birgün Demokratik Sol Parti'den istifalarıyla DSP'nin TBMM'deki sandalye sayısı 6'ya düştü.
+
+Haziran 2009'da, DSP'den ayrılan Rahşan Ecevit ve arkadaşları [[Demokratik Sol Halk Partisi]]'ni (DSHP) kurdular.
+
+2011 yılında DSP'nin iki büyükşehir belediye başkanı olan [[Yılmaz Büyükerşen]] ve [[Seyit Torun]] görev sırasında partilerinden istifa ederek [[Cumhuriyet Halk Partisi|CHP]]'ye katıldı ve DSP yalnızca ilçe belediyelerinin yönetiminde söz hakkına sahip bir partiye dönüştü.
+
+6 Haziran 2010'da Ankara'da yapılan 8. Olağan Kurultay'da Masum Türker tekrar genel başkanlığa seçildi.<ref>{{Web kaynağı|url=http://www.ntv.com.tr/arsiv/id/25103612/|başlık=DSP 'Masum Türker'le yola devam' dedi|erişimtarihi=28 Şubat 2015|arşivurl=https://web.archive.org/web/20150402145543/http://www.ntv.com.tr/arsiv/id/25103612/|arşivtarihi=2 Nisan 2015|ölüurl=hayır}}</ref> [[2011 Türkiye genel seçimleri|12 Haziran 2011 Genel Seçimleri]]'nde toplam oyların %0.25'ini aldı. Seçimlerden hemen sonra, seçim sonuçlarındaki başarısızlık nedeniyle parti için muhalefetin yaptığı olağanüstü kurultay talepleri olumlu karşılandı; 10 Temmuz 2011'de, Ankara'da yapılan DSP Olağanüstü Kurultayı'nda, genel başkanlığa yeniden Masum Türker seçildi.<ref>[http://www.aksam.com.tr/dsp-genel-baskanligina-yeniden-turker-secildi--53755h.html DSP Genel Başkanlığı'na yeniden Türker seçildi] {{Webarşiv|url=https://web.archive.org/web/20110713160840/http://www.aksam.com.tr/dsp-genel-baskanligina-yeniden-turker-secildi--53755h.html |tarih=13 Temmuz 2011 }} aksam.com.tr. Erişim tarihi: 11.7.2011</ref>
+
+DSP 9. Olağan Kurultayı, 30 Haziran 2013 tarihinde, [[Ankara Selim Sırrı Tarcan Spor Salonu]]'nda düzenlendi. Kurultayda Genel Başkanı Masum Türker, eski DSP Gençlik Kolları Başkanı [[Emrah Konuralp]]'e karşı, kullanılan 635 oydan 448'ini alarak yeniden Genel Başkan seçildi.<ref>[http://www.hurriyet.com.tr/gundem/23622835.asp Para bitti yeniden doğuyoruz] {{Webarşiv|url=https://web.archive.org/web/20150402133737/http://www.hurriyet.com.tr/gundem/23622835.asp |tarih=2 Nisan 2015 }} hurriyet.com.tr. Erişim tarihi: 1.7.2013</ref>
+
+[[Dosya:DSP election propaganda 2015.png|sağ|küçükresim|upright=0.64|DSP'nin Haziran 2015 genel seçimleri kampanyasından bir poster.]]
+[[2014 Türkiye cumhurbaşkanlığı seçimi|2014 cumhurbaşkanlığı seçimi]]nde [[Ekmeleddin İhsanoğlu]]'nu destekledi.<ref>{{haber kaynağı |başlık=İhsanoğlu’na desteğimiz tam |url=https://www.sozcu.com.tr/2014/gundem/ihsanogluna-destegimiz-tam-556516/ |erişimtarihi=15 Şubat 2022 |yayıncı=Sozcu |tarih=15 Temmuz 2014 |arşivurl=https://web.archive.org/web/20220215123513/https://www.sozcu.com.tr/2014/gundem/ihsanogluna-destegimiz-tam-556516/ |arşivtarihi=15 Şubat 2022 |ölüurl=hayır }}</ref> DSP, Masum Türker liderliğinde girdiği [[Haziran 2015 Türkiye genel seçimleri|7 Haziran 2015 genel seçimlerinde]] %0,19, [[Kasım 2015 Türkiye genel seçimleri|1 Kasım 2015 genel seçimleri]]nde %0,07 oy aldı. Kasım 2015 seçimlerinin ardından, Türker'in genel başkanlıktan ayrılması nedeniyle 13 Aralık 2015'te Ankara'da yapılan olağanüstü kurultayda Genel Başkan Yardımcısı ve Örgüt Kurulu Başkanı [[Önder Aksakal]] genel başkanlığa seçildi.<ref>{{Web kaynağı|başlık = DSP’nin yeni genel başkanı Önder Aksakal oldu|url = http://www.sozcu.com.tr/2015/gundem/dspnin-yeni-genel-baskani-onder-aksakal-oldu-1007876/|yayıncı = [[Sözcü (gazete)|Sözcü]]|erişimtarihi = 14 Aralık 2015|tarih = 14 Aralık 2015|arşivurl = https://web.archive.org/web/20160120021815/http://www.sozcu.com.tr/2015/gundem/dspnin-yeni-genel-baskani-onder-aksakal-oldu-1007876/|arşivtarihi = 20 Ocak 2016|ölüurl =evet}}</ref>
+
+YSK'nın kriterleri karşılamadığı için katılmasına izin vermediği [[2018 Türkiye genel seçimleri|2018 genel seçimleri]]nde [[Millet İttifakı]]'nı destekledi. Seçimlere girmesinin YSK tarafından “tam kanunsuzluk haliyle” engellendiğini savunarak, bu durum karşısında yürütülen iç hukuk yolları tükendiğinden, yaratılan hak ihlalinin tespiti için [[Avrupa İnsan Hakları Sözleşmesi]] kapsamında [[Avrupa İnsan Hakları Mahkemesi]]’ne (AİHM) başvurdu.<ref>{{haber kaynağı |başlık=DSP, seçimde destekleyeceği ittifakı açıkladı |url=https://www.hurriyet.com.tr/gundem/dsp-secimde-destekleyecegi-ittifaki-acikladi-40840688 |erişimtarihi=15 Şubat 2022 |yayıncı=Hurriyet.com.tr |tarih=15 Şubat 2022 |arşivurl=https://web.archive.org/web/20220215134031/https://www.hurriyet.com.tr/gundem/dsp-secimde-destekleyecegi-ittifaki-acikladi-40840688 |arşivtarihi=15 Şubat 2022 |ölüurl=hayır }}</ref>
+
+[[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]]nde 3 ilçe ve 3 belde belediye başkanlığı kazandı.<ref>{{haber kaynağı |başlık=DSP'den yerel seçim değerlendirmesi |url=https://www.ntv.com.tr/2019-yerel-secim/dspden-yerel-secim-degerlendirmesi,xa_QxiODdEWtJc0ypsVcvQ |erişimtarihi=15 Şubat 2022 |ajans=Anadolu Ajansı |yayıncı=ntv.com.tr |tarih=2 Nisan 2019 |arşivurl=https://web.archive.org/web/20220215135234/https://www.ntv.com.tr/2019-yerel-secim/dspden-yerel-secim-degerlendirmesi,xa_QxiODdEWtJc0ypsVcvQ |arşivtarihi=15 Şubat 2022 |ölüurl=hayır }}</ref> 15 Aralık 2019'da Ankara'da toplanan 11. Olağan Kurultay'da Önder Aksakal yeniden genel başkanlığa seçildi.<ref>{{haber kaynağı |başlık=DSP kurultayında Aksakal yeniden seçildi |url=https://www.gazeteduvar.com.tr/politika/2019/12/15/dsp-kurultayinda-aksakal-yeniden-secildi |erişimtarihi=15 Şubat 2022 |yayıncı=Gazete Duvar |tarih=15 Şubat 2022 |arşivurl=https://web.archive.org/web/20220215142046/https://www.gazeteduvar.com.tr/politika/2019/12/15/dsp-kurultayinda-aksakal-yeniden-secildi |arşivtarihi=15 Şubat 2022 |ölüurl=hayır }}</ref>
+
+=== 2023 seçimleri ve parti içi karışıklıklar ===
+{{Ayrıca bakınız|2023 Türkiye cumhurbaşkanlığı seçimi|2023 Türkiye genel seçimleri}}
+[[Adalet ve Kalkınma Partisi|AK Parti]] Genel Başkanvekili [[Binali Yıldırım]]’ın Demokratik Sol Partiyi ziyaret etmesi üzerine eski DSP’li 74 bakan ve milletvekili, CHP Genel Başkanı ve [[Millet İttifakı]] cumhurbaşkanı adayı [[Kemal Kılıçdaroğlu]]’nu desteklediklerini açıkladı. 21. Dönem DSP Samsun Milletvekili [[Tarık Cengiz]], "''Bugün görüyoruz ki; DSP’nin şu anki yönetimi birkaç sandalye uğruna pazarlıklar yapmaktadır''" açıklamalarında bulundu.<ref>{{Web kaynağı|url=https://t24.com.tr/video/binali-yildirim-ziyaret-etti-dsp-li-74-bakan-ve-milletvekili-kilicdaroglu-na-destegini-acikladi,53299|başlık=Binali Yıldırım DSP'yi ziyaret etti, DSP’li 74 bakan ve milletvekili Kılıçdaroğlu'na desteğini açıkladı|erişimtarihi=7 Nisan 2023|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20230407143458/https://t24.com.tr/video/binali-yildirim-ziyaret-etti-dsp-li-74-bakan-ve-milletvekili-kilicdaroglu-na-destegini-acikladi,53299|arşivtarihi=7 Nisan 2023|ölüurl=hayır}}</ref>
+
+7 Nisan 2023 tarihinde DSP Genel Başkanı [[Önder Aksakal]], il başkanlarına ve Parti Meclisi'ne sormadan 14 Mayıs'taki seçimlerde Cumhurbaşkanı [[Recep Tayyip Erdoğan]]'ı destekleme ve genel seçimlere [[Adalet ve Kalkınma Partisi|AK Parti]] listelerinden katılma kararı aldıklarını açıkladı.<ref>{{Web kaynağı|url=https://www.trthaber.com/haber/gundem/dsp-secimde-cumhurbaskani-erdogani-destekleyecek-759196.html|başlık=DSP, seçimde Cumhurbaşkanı Erdoğan'ı destekleyecek|erişimtarihi=7 Nisan 2023|dil=Türkçe|çalışma = [[TRT Haber]]|arşivurl=https://web.archive.org/web/20230407143458/https://www.trthaber.com/haber/gundem/dsp-secimde-cumhurbaskani-erdogani-destekleyecek-759196.html|arşivtarihi=7 Nisan 2023|ölüurl=hayır}}</ref> Bu gelişmenin ardından DSP genel başkan yardımcıları Onur İste, Selçuk Karakülçe ve Dilara Tambova görevlerinden istifa ettiler.<ref>{{Web kaynağı|url = https://www.timeturk.com/politika/cumhur-ittifaki-karari-sonrasi-dsp-de-ust-duzey-istifalar/haber-1764427|başlık = Cumhur İttifakı kararı sonrası DSP'de üst düzey istifalar|erişimtarihi = 27 Nisan 2023|dil = Türkçe|çalışma =timeturk.com|arşivurl = https://web.archive.org/web/20230407210852/https://www.timeturk.com/politika/cumhur-ittifaki-karari-sonrasi-dsp-de-ust-duzey-istifalar/haber-1764427|arşivtarihi = 7 Nisan 2023}}</ref> Parti Meclisi üyesi Murat Sarıçoğlu da görevinden ve parti üyeliğinden istifa etti.<ref>{{Web kaynağı|url=https://www.linkedin.com/posts/murat-sar%C4%B1%C3%A7o%C4%9Flu_activity-7050286481206067200-THal|başlık=Murat Sarıçoğlu LinkedIn’de yayınladı|erişimtarihi=13 Haziran 2025|dil=Türkçe|çalışma=LinkedIn.com|arşivurl=https://web.archive.org/web/20250714012122/https://www.linkedin.com/posts/murat-sar%C4%B1%C3%A7o%C4%9Flu_activity-7050286481206067200-THal|arşivtarihi=14 Temmuz 2025|ölüurl=hayır}}</ref> Ayrıca Konya'da DSP [[Yunak]] İlçe Başkanı Hüseyin Atıcı, önceki dönem DSP Konya [[Tuzlukçu]] İlçe Başkanı Nevzat Şahin ve Bilecik ili Bozüyük İlçe Başkanı Ethem Yavuz Öncel, partilerinin Cumhur İttifakı'na katılmasının ardından istifa ederek, [[Cumhuriyet Halk Partisi|CHP]]'ye geçtiler.<ref>{{Web kaynağı|url=https://www.gercekgundem.com/secim/dspde-istifalar-chpye-gectiler-418634|başlık=DSP'de istifalar: CHP'ye geçtiler|erişimtarihi=27 Nisan 2023|arşivtarihi=11 Nisan 2023|arşivurl=https://web.archive.org/web/20230411071939/https://www.gercekgundem.com/secim/dspde-istifalar-chpye-gectiler-418634|tarih=11 Nisan 2023|dil=tr-TR}}</ref><ref>{{Web kaynağı|url = https://www.sozcu.com.tr/2023/gundem/dspde-sular-durulmuyor-istifalar-suruyor-7675950/|başlık = DSP’de sular durulmuyor: İstifalar sürüyor|erişimtarihi =8 Mayıs 2023|dil =Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]|arşivurl = https://web.archive.org/web/20230506121814/https://www.sozcu.com.tr/2023/gundem/dspde-sular-durulmuyor-istifalar-suruyor-7675950/|arşivtarihi = 6 Mayıs 2023}}</ref> AK Parti listelerinde üç DSP'li aday gösterildi.<ref>{{Web kaynağı|url=https://artigercek.com/politika/akpnin-milletvekili-listesinde-dspye-uc-kontenjan-245775h|başlık=AKP'nin milletvekili listesinde DSP’ye üç kontenjan|erişimtarihi=15 Mayıs 2023|arşivtarihi=11 Mayıs 2023|arşivurl=https://web.archive.org/web/20230511025643/https://artigercek.com/politika/akpnin-milletvekili-listesinde-dspye-uc-kontenjan-245775h|ölüurl=hayır|dil=Türkçe|çalışma=Artı Gerçek}}</ref> Sadece Önder Aksakal milletvekili olabildi.<ref>{{Web kaynağı|url=https://www.dunya.com/gundem/15-partiden-8inin-genel-baskanlari-vekil-oldu-haberi-693831|başlık=15 partiden 8'inin genel başkanları vekil oldu|erişimtarihi=31 Mayıs 2023|arşivtarihi=24 Mayıs 2023|arşivurl=https://web.archive.org/web/20230524221422/https://www.dunya.com/gundem/15-partiden-8inin-genel-baskanlari-vekil-oldu-haberi-693831|tarih=15 Mayıs 2023|dil=tr-TR}}</ref> Aksakal'ın milletvekili olmasıyla DSP, 12 yıl aradan sonra yeniden [[Türkiye Büyük Millet Meclisi|TBMM]]'de temsil edilmeye başlandı.
+=== 2024 yerel seçimleri ===
+{{Ayrıca bakınız|2024 Türkiye yerel seçimleri}}
+[[2019 Türkiye yerel seçimleri|2019 yerel seçimlerinde]] Demokratik Sol Parti'nin belediye meclislerinde aldığı oylar yurt çapında yaklaşık olarak %1 bandında iken 5 yıl sonra yapılan bu seçimlerde yurt geneli belediye meclis oyları %0,11 seviyesine gerilemiştir. Seçimlerde 1 ilçe ve 2 adet belde belediyesi DSP tarafından kazanılmıştır fakat DSP'nin kazandığı beldelerden bir tanesi olan [[Büyükkarıştıran]]'da [[Cumhuriyet Halk Partisi]] tarafından seçimde usulsüzlükler yapıldığı iddia edilerek iptali istenilmiş ve CHP'nin seçim kurullarına yapmış olduğu bu itiraz kabul edilerek Büyükkarıştıran'da seçim 2 Haziran 2024 tarihinde yenilenmiştir. Yenilenen seçimde Büyükkarıştıran belde belediyesini CHP'nin adayı kazanmıştır.<ref>{{Web kaynağı|url=https://gazeteoksijen.com/secim-2024/kirklarelinin-buyukkaristiran-beldesinde-belediye-baskanligini-chpnin-adayi-kazandi-213050|başlık=Arşivlenmiş kopya|erişimtarihi=15 Haziran 2024|arşivurl=https://web.archive.org/web/20240615172927/https://gazeteoksijen.com/secim-2024/kirklarelinin-buyukkaristiran-beldesinde-belediye-baskanligini-chpnin-adayi-kazandi-213050|arşivtarihi=15 Haziran 2024|ölüurl=hayır}}</ref> Bunun sonucunda DSP'nin belediye sayısı 1 ilçe ve 1 belde olmak üzere ikiye düşmüştür.
+
+== Siyasi ideoloji ==
+DSP siyasi yelpazede [[merkez sol]]da yer alan, parlamenter düzene ve anayasaya bağlı olan [[Ecevitçilik|Ecevitçi]] [[Ortanın solu|demokratik sol]] bir partidir.
+
+== Parti programı ==
+{{VikiKaynak|Demokratik Sol Parti Programı}}
+Demokratik Sol Parti Meclisinin 3 Ekim 2003 tarihli toplantısında günün koşullarına göre yenilenmek için ele alınan programın tam metni, 6 Ekim 2003 Pazartesi günü açıklanmıştır. Program; [[küreselleşme]], [[kayıt dışı ekonomi]], [[Ücretli Emek ve Sermaye|emek-sermaye ilişkisi]], [[üretim]], [[girişimcilik]], [[işsizlik]], [[kültür]], [[bilgi toplumu]], uzay teknolojisi, [[kamu yönetimi]] ve "yerel yönetim anlayışı", [[sendika]]laşma ve "üniversitelere bakış açısı" gibi çok sayıda konuyu içermektedir.
+
+=== Genel başkanları ===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Rahşan Ecevit - 28.2.15.JPG|75px]]
+! scope="row" align="left" | [[Rahşan Ecevit]]<br />{{Küçük|(1923-2020)}}
+| 14 Kasım 1985
+| 13 Eylül 1987
+| {{ayd|1985|11|14|1987|9|13}}
+|-
+| 2
+| [[Dosya:Bülent Ecevit 2000.jpg|75px]]
+! scope="row" align="left" | [[Bülent Ecevit]]<br />{{Küçük|(1925-2006)}}
+| 13 Eylül 1987
+| 7 Mart 1988
+| {{ayd|1987|9|13|1988|3|7}}
+|-
+| 3
+| 
+! scope="row" align="left" | [[Necdet Karababa]]<br />{{Küçük|(1926-2006)}}
+| 7 Mart 1988
+| 15 Ocak 1989
+| {{ayd|1988|3|7|1989|1|15}}
+|-
+| (2)
+| [[Dosya:Bülent Ecevit 2000.jpg|75px]]
+! scope="row" align="left" | [[Bülent Ecevit]]<br />{{Küçük|(1925-2006)}}
+| 15 Ocak 1989
+| 25 Temmuz 2004
+| {{ayd|1989|1|15|2004|7|25}}
+|-
+| 4
+| [[Dosya:Zeki Sezer-edited.jpg|75px]]
+! scope="row" align="left" | [[Zeki Sezer]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1957|4|12}}}}
+| 25 Temmuz 2004
+| 11 Nisan 2009
+| {{ayd|2004|7|25|2009|4|11}}
+|-
+| data-sort-value="4.5" | —
+| 
+! scope="row" align="left" | [[Saffet Başaran]] {{Küçük|(vekil)}}<br />{{Küçük|{{Doğum yılı ve yaşı|1945}}}}
+| 12 Nisan 2009
+| 17 Mayıs 2009
+| {{ayd|2009|4|12|2009|5|17}}
+|-
+| 5
+| [[Dosya:Masum Turker (cropped).jpg|75px]]
+! scope="row" align="left" | [[Masum Türker]]<br />{{Küçük|{{Doğum yılı ve yaşı|1951}}}}
+| 17 Mayıs 2009
+| 13 Aralık 2015
+| {{ayd|2009|5|17|2015|12|13}}
+|-
+| 6
+| [[Dosya:Önder Aksakal DSP (cropped).png|75px]]
+! scope="row" align="left" | [[Önder Aksakal]]<br />{{Küçük|{{Doğum yılı ve yaşı|1960}}}}
+| 13 Aralık 2015
+| ''Görevde''
+| {{ayd|2015|12|13|sep=and|duration=on}}
+|}
+=== Zaman Çizelgesi ===
+<timeline>
+ImageSize = width:800 height:auto barincrement:40
+PlotArea  = top:10 bottom:50 right:130 left:20
+AlignBars = late
+
+DateFormat = dd/mm/yyyy
+Period     = from:1985 till:2024
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1985
+
+Colors     =
+  id:1_başkan    value:purple     legend: 1._Genel_Başkan
+  id:0_başkan        value:white        legend: Vekil
+  id:2_başkan       value:blue        legend: 2._Genel_Başkan
+  id:3_başkan       value:pink       legend: 3._Genel_Başkan
+  id:4_başkan       value:green       legend: 4._Genel_Başkan
+  id:5_başkan       value:yellow       legend: 5._Genel_Başkan
+  id:6_başkan       value:red        legend: 6._Genel_Başkan
+
+TextData =
+  pos:(20,27) textcolor:White fontsize:M
+  text:"Renk kodları: "
+
+BarData =
+  barset:PM
+
+PlotData=
+  width:15 align:left fontsize:S shift:(3,-4) anchor:from width:25
+  barset:PM
+
+ from: 14/11/1985  till: 13/09/1987 color:1_başkan text:"[[Rahşan Ecevit]]"
+ from: 13/09/1987  till: 07/03/1988 color:2_başkan text:"- [[Bülent Ecevit]]"
+ from: 07/03/1988  till: 15/01/1989 color:3_başkan text:"[[Necdet Karababa]]"
+ from: 15/01/1989  till: 25/07/2004 color:2_başkan text:"- [[Bülent Ecevit]]"
+ from: 25/07/2004  till: 11/04/2009 color:4_başkan text:"[[Zeki Sezer]]"
+ from: 12/04/2009  till: 17/05/2009 color:0_başkan text:"- [[Saffet Başaran]]"
+ from: 17/05/2009  till: 13/12/2015 color:5_başkan text:"[[Masum Türker]]"
+ from: 13/12/2015  till: 30/06/2024 color:6_başkan text:"[[Önder Aksakal]]"
+</timeline>
+
+== Milletvekilleri ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi
+|-
+|'''1''' 
+|[[Önder Aksakal]] 
+|[[İstanbul milletvekilleri listesi|İstanbul (II)]]
+|Demokratik Sol Parti Genel Başkanı 
+|}
+{{gizli içerik-son}}
+
+== Demokratik Sol Parti ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan="3" | Oy
+! colspan=2| Sandalye
+! rowspan=2| Meclisteki<br>durumu
+! rowspan=2| Meclisteki<br>sırası
+! rowspan=2| Dahil olduğu hükûmet
+! rowspan="2" |Harita
+|-
+! #
+! %
+! ± [[Yüzde puanı|Y]]
+! #
+! ±
+|-
+| [[1987 Türkiye genel seçimleri|1987]]
+| rowspan=5|[[Dosya:Bülent Ecevit 2000.jpg|98x98px]]
+[[Bülent Ecevit]]
+| 2.044.576
+| {{Yüzde çubuğu|8.53|%8,53|16c0ed}} 
+| -
+| {{Composition bar|0|450|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| -
+| {{N/A}}
+| 4.
+| rowspan="2" | -
+|[[Dosya:1987_gs_dsp.png|çerçevesiz]]
+|-
+| [[1991 Türkiye genel seçimleri|1991]]
+| 2.624.301
+| {{Yüzde çubuğu|10.75|%10,75|16c0ed}} 
+| {{artış}} 2,22
+| {{Composition bar|7|450|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{artış}} 7
+| {{hayır2|Muhalefet}}
+| 5.
+|
+|-
+| [[1995 Türkiye genel seçimleri|1995]]
+| 4.118.025
+| {{Yüzde çubuğu|14.64|%14,64|16c0ed}} 
+| {{artış}} 3,89
+| {{Composition bar|76|550|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{artış}} 69
+| {{evet2|Koalisyon}}
+| 4.
+| style="text-align:left;" | [[55. Türkiye Hükûmeti]]
+|[[Dosya:95_dsp_gs.png|çerçevesiz]]
+|-
+| [[1999 Türkiye genel seçimleri|1999]]
+| 6.919.670
+| {{Yüzde çubuğu|22.17|%22,17|16c0ed}} 
+| {{artış}} 7,53
+| {{Composition bar|136|550|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{artış}} 60
+| {{evet2|Koalisyon}}
+| '''1.'''
+| style="text-align:left;" | [[57. Türkiye Hükûmeti]]
+|[[Dosya:Dsp_99_gs.png|çerçevesiz]]
+|-
+| [[2002 Türkiye genel seçimleri|2002]]
+| 383.609
+| {{Yüzde çubuğu|1.22|%1,22|16c0ed}} 
+| {{azalış}} 20,95
+| {{Composition bar|0|550|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{azalış}} 136
+| {{N/A}}
+| 9.
+| rowspan="6" | -
+| rowspan="6" |
+|-
+|[[2007 Türkiye genel seçimleri|2007]]
+|[[Dosya:Zeki Sezer-edited.jpg|88x88px]]
+[[Zeki Sezer]]
+| colspan="5" |<small>Seçimlere CHP listelerinden katıldı. 13 aday milletvekili oldu.</small>
+|Muhalefet
+| -
+|-
+| [[2011 Türkiye genel seçimleri|2011]]
+| rowspan="3" | [[Dosya:Masum Turker (cropped).jpg|98x98px]]
+[[Masum Türker]]
+| 108.089
+| {{Yüzde çubuğu|0.25|%0,25|16c0ed}} 
+| {{azalış}} 0,97
+| {{Composition bar|0|550|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{Azalış}}13
+| {{N/A}}
+| 9.
+|-
+| [[Haziran 2015 Türkiye genel seçimleri|2015 Haziran]]
+| 86.585
+| {{Yüzde çubuğu|0.19|%0,19|16c0ed}} 
+| {{azalış}} 0,06
+| {{Composition bar|0|550|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{sabit}}
+| {{N/A}}
+| 8.
+|-
+| [[Kasım 2015 Türkiye genel seçimleri|2015 Kasım]]
+| 31.805
+| {{Yüzde çubuğu|0.07|%0,07|16c0ed}} 
+| {{azalış}} 0,12
+| {{Composition bar|0|550|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| {{sabit}}
+| {{N/A}}
+| 13.
+|-
+|[[2023 Türkiye genel seçimleri|2023]]
+|[[Dosya:Önder Aksakal DSP (cropped).png|çerçevesiz|120x120pik]]
+[[Önder Aksakal]]
+| colspan="5" |<small>Seçimlere [[Adalet ve Kalkınma Partisi|AK Parti]] listelerinden katıldı. 1 aday milletvekili oldu.</small>
+|Hükûmete Destek
+| -
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! rowspan="2" |Fotoğraf
+! colspan="2" | İl Genel Meclisi+<br> BB İlçe Belediye Meclisi
+!
+! rowspan="2" | Belediye
+! rowspan="2" |Harita
+|-
+! Oy
+! %
+!±
+|-
+| [[1989 Türkiye yerel seçimleri|1989]] || rowspan="4" | [[Bülent Ecevit]] 
+| rowspan="4" |[[Dosya:Bülent Ecevit 2000.jpg|98x98px]]|| 1.998.819 || {{Yüzde çubuğu|9.03|%9.03|16c0ed}} 
+| -|| {{Composition bar|37|1984|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|Hiçbir ilde 1. olamadı
+|-
+| [[1994 Türkiye yerel seçimleri|1994]] || 2.463.853 || {{Yüzde çubuğu|8.75|%8.75|16c0ed}} 
+|{{azalış}} 0,27|| {{Composition bar|23|2695|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|
+|-
+| [[1999 Türkiye yerel seçimleri|1999]] || 5.885.132 || {{Yüzde çubuğu|18.70|%18.70|16c0ed}} 
+|{{artış}} 9,95|| {{Composition bar|193|3200|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|[[Dosya:99_ys_dsp.png|çerçevesiz]]
+|-
+| [[2004 Türkiye yerel seçimleri|2004]] || 683.782 || {{Yüzde çubuğu|2.12|%2.12|16c0ed}} 
+|{{azalış}} %16,58|| {{Composition bar|35|3193|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|[[Dosya:Dsp_2004_ys.png|çerçevesiz]]
+|-
+| [[2009 Türkiye yerel seçimleri|2009]] || [[Zeki Sezer]] 
+| [[Dosya:Zeki Sezer-edited.jpg|88x88px]]|| 1.164.625 || {{Yüzde çubuğu|2.83|%2.83|16c0ed}} 
+|{{artış}} %0,73|| {{Composition bar|63|2903|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|
+|-
+| [[2014 Türkiye yerel seçimleri|2014]] || [[Masum Türker]] 
+| [[Dosya:Masum Turker (cropped).jpg|98x98px]]|| 149.650 || {{Yüzde çubuğu|0.33|%0.33|16c0ed}} 
+|{{azalış}} %2,50|| {{Composition bar|5|1351|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+| 
+|-
+| [[2019 Türkiye yerel seçimleri|2019]] || rowspan="2" | [[Önder Aksakal]] 
+| rowspan="2" | [[Dosya:Önder Aksakal DSP (cropped).png|120x120px]]|| 378.706 || {{Yüzde çubuğu|0.82|%0.82|16c0ed}} 
+|{{artış}} %0,49|| {{Composition bar|6|1355|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|
+|-
+|[[2024 Türkiye yerel seçimleri|2024]]
+|50.965 || {{Yüzde çubuğu|0.11|%0.11|16c0ed}}
+|{{azalış}} %0,71 || {{Composition bar|2|1386|{{Siyasi parti renk|Demokratik Sol Parti}}}}
+|
+|}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+! #
+! İsim
+! İl
+! İlçe 
+! Belde
+|-
+|'''1'''
+|Haydar Çorum 
+|[[Eskişehir (il)|Eskişehir]] 
+|[[Mihalıççık]] 
+|
+|-
+|'''2'''
+|Nihat Başer 
+|[[Sivas (il)|Sivas]] 
+|[[Gemerek]] 
+|[[Çepni, Gemerek|Çepni]]
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |
+|-
+|}
+{{gizli içerik-son}}
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Dış bağlantılar ==
+{{Commons kategori|Democratic Left Party (Turkey)|Demokratik Sol Parti}}
+* {{resmî site|www.dsp.org.tr}} 
+*[https://web.archive.org/web/20130623022921/http://belgenet.net/ayrinti.php?yil_id=10 BELGEnet]
+{{Türkiye'deki siyasi partiler}}{{Otorite kontrolü}}
+
+[[Kategori:Demokratik Sol Parti]]
+[[Kategori:55. Hükûmet - 3. Yılmaz, Anasol Hükûmeti]]
+[[Kategori:56. Hükûmet - 4. Ecevit Hükûmeti]]
+[[Kategori:57. Hükûmet - 5. Ecevit Hükûmeti]]
+[[Kategori:Demokratik Sol partiler]]
+[[Kategori:Bülent Ecevit]]
+[[Kategori:Türkiye'deki merkez sol partiler]]
+[[Kategori:Sol milliyetçi partiler]]
+[[Kategori:Ecevit ailesi]]
+[[Kategori:Kemalist partiler]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:1985'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:1985'te kurulan siyasi partiler]]

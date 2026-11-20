@@ -1,0 +1,185 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Emek ve Özgürlük İttifakı
+| kuruluş          = 25 Ağustos 2022
+| slogan           = ''Hep birlikte başaracağız!''<ref>{{Web kaynağı | url = https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifaki-secimleri-nasil-etkileyecek-haber-1582608 | başlık = Emek ve Özgürlük İttifakı seçimleri nasıl etkileyecek? | erişimtarihi = 2 Ekim 2022 | tarih = 27 Eylül 2022 | çalışma = Gazete Duvar | arşivurl = https://web.archive.org/web/20220927044044/https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifaki-secimleri-nasil-etkileyecek-haber-1582608 | arşivtarihi = 27 Eylül 2022}}</ref>
+| ideoloji         = {{yalın liste|
+* [[Antikapitalizm|Anti-kapitalizm]]
+* [[Demokratik sosyalizm]]
+* [[Sol popülizm]]
+* [[İlerlemecilik|İlericilik]]
+'''İttifak içi düşünceler:'''
+*[[Demokratik konfederalizm]]
+* [[Azınlık hakları]]
+* [[Komünizm]]
+* [[Marksizm-Leninizm]]
+* [[Yeşil siyaset]]
+}}
+| lider1_başlık    = Üye partiler
+| lider1_isim      = [[Halkların Eşitlik ve Demokrasi Partisi]]<br>[[Türkiye İşçi Partisi (2017)|Türkiye İşçi Partisi]]<br>[[Demokratik Bölgeler Partisi]]<br>[[Emek Partisi]]<br>[[Emekçi Hareket Partisi]]<br>[[Halkların Demokratik Partisi]]<br>[[Toplumsal Özgürlük Partisi]]
+| colorcode        = {{Siyasi parti renk|Halkların Demokratik Partisi}}
+| pozisyon         = [[Solculuk|Soldan]] [[aşırı sol]]a
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|63|600|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+| sandalye2_başlık = İlçe Belediye Başkanlığı
+| sandalye2        = {{Composition bar|3|922|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+| sandalye3_başlık = Belde Belediye Başkanlığı
+| sandalye3        = {{Composition bar|12|387|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+| sandalye5_başlık = Büyükşehir Belediye Meclisleri
+| sandalye5        = {{Composition bar|146|2591|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+| sandalye6_başlık = İl Genel Meclisleri
+| sandalye6        = {{Composition bar|101|1251|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+| sandalye7_başlık = Belediye Meclisleri
+| sandalye7        = {{Composition bar|1232|20498|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+|amblem=Emek ve Özgürlük İttifakı logo.svg|ülke=[[Dosya:Flag of Turkey.svg|23px]] [[Türkiye|Türkiye Cumhuriyeti]]}}
+'''Emek ve Özgürlük İttifakı,''' [[Türkiye]]'de [[2023 Türkiye genel seçimleri|2023 genel seçimleri]] için 25 Ağustos 2022 tarihinde kurulmuş bir siyasi ittifaktır.<ref name=":0" /> [[Halkların Eşitlik ve Demokrasi Partisi]] (DEM Parti)<ref name=":0" group="not">Yeşiller ve Sol Gelecek Partisi, 15 Ekim 2023 tarihinde adını '''Halkların Eşitlik ve Demokrasi Partisi''' olarak değiştirdi.</ref>, [[Türkiye İşçi Partisi (2017)|Türkiye İşçi Partisi]] (TİP), [[Emek Partisi]] (EMEP), [[Demokratik Bölgeler Partisi]] (DBP), [[Emekçi Hareket Partisi]] (EHP), [[Toplumsal Özgürlük Partisi]] (TÖP), [[Halkların Demokratik Partisi]] (HDP) ve [[Sosyalist Meclisler Federasyonu]] (SMF) ittifakta yer almaktadır.<ref>{{Web kaynağı | url = https://www.evrensel.net/haber/468837/emek-ve-ozgurluk-ittifaki-kuruluyor | başlık = Emek ve Özgürlük İttifakı kuruluyor! | erişimtarihi = 26 Ağustos 2022 | tarih = 25 Ağustos 2022 | dil = Türkçe | çalışma = evrensel.net | ad =  | soyadı =  | arşivurl = https://web.archive.org/web/20220825152025/https://www.evrensel.net/haber/468837/emek-ve-ozgurluk-ittifaki-kuruluyor | arşivtarihi = 25 Ağustos 2022}}</ref><ref name=":2" />
+
+İttifak partileri, Türkiye toplumunda "eşitlik, özgürlük, kardeşlik, barış ve demokrasi temelinde bir değişimi yaratacak birlikteliği" sağlayacak siyasi iradeyi oluşturmak amacıyla harekete geçildiğini belirtmiştir.<ref name=":0" />
+
+== Kuruluşu ==
+[[Dosya:EmekOzgurlukKongre.jpg|sol|küçükresim|24 Eylül 2022'de Emek ve Özgürlük İttifakı, düzenlediği halk buluşmasında ittifakın siyasi pozisyonlarını ve vizyonunu duyurdu.]]
+HDP'nin 2022 başında potansiyel bir ittifak için siyasi partilere çağrı yaptı. Mevcut üye partilerin yanı sıra [[Türkiye Komünist Partisi (2001)|Türkiye Komünist Partisi]] ve [[Sol Parti (Türkiye)|SOL Parti]] de ittifak müzakerelerine davet edilmişti.<ref>{{Web kaynağı | url = https://www.gazeteduvar.com.tr/hdpnin-cagrisiyla-9-parti-bir-araya-geliyor-demokrasi-ittifaki-haber-1549459 | başlık = HDP'nin çağrısıyla 9 parti bir araya geliyor: Demokrasi ittifakı | erişimtarihi = 27 Ağustos 2022 | tarih = 16 Ocak 2022 | dil = Türkçe | çalışma = Gazete Duvar | ad =  | soyadı =  | arşivurl = https://web.archive.org/web/20220116125030/https://www.gazeteduvar.com.tr/hdpnin-cagrisiyla-9-parti-bir-araya-geliyor-demokrasi-ittifaki-haber-1549459 | arşivtarihi = 16 Ocak 2022}}</ref> [[Sol Parti (Türkiye)|SOL Parti]] seçim ittifakı çalışmalarını zamansız bulduklarını açıklayarak görüşmelerde yer almazken,<ref>{{Web kaynağı | url = https://www.indyturk.com/node/460846/siyaset/sol-parti-hdpnin-%C3%A7a%C4%9Fr%C4%B1s%C4%B1yla-ger%C3%A7ekle%C5%9Fecek-demokrasi-i%CC%87ttifak%C4%B1-ad%C4%B1-alt%C4%B1nda | başlık = Sol Parti: HDP'nin çağrısıyla gerçekleşecek 'Demokrasi İttifakı' adı altında yapılacak çalışmanın parçası değiliz | erişimtarihi = 27 Ağustos 2022 | tarih = 17 Ocak 2022 | dil = Türkçe | çalışma = Independent Türkçe | arşivurl = https://web.archive.org/web/20220117124400/https://www.indyturk.com/node/460846/siyaset/sol-parti-hdpnin-%C3%A7a%C4%9Fr%C4%B1s%C4%B1yla-ger%C3%A7ekle%C5%9Fecek-demokrasi-i%CC%87ttifak%C4%B1-ad%C4%B1-alt%C4%B1nda | arşivtarihi = 17 Ocak 2022}}</ref> [[Türkiye Komünist Partisi (2001)|Türkiye Komünist Partisi]] ilk toplantının ardından süreçte yer almayacaklarını belirtti.<ref>{{Web kaynağı | url = https://www.cumhuriyet.com.tr/turkiye/tkpden-hdpnin-cagrisiyla-gerceklesen-yeni-toplantiya-iliskin-karar-1910476 | başlık = TKP'den, HDP'nin çağrısıyla gerçekleşen yeni toplantıya ilişkin karar | erişimtarihi = 27 Ağustos 2022 | tarih = 23 Şubat 2022 | dil = Türkçe | çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]] | arşivurl = https://web.archive.org/web/20220223170605/https://www.cumhuriyet.com.tr/turkiye/tkpden-hdpnin-cagrisiyla-gerceklesen-yeni-toplantiya-iliskin-karar-1910476 | arşivtarihi = 23 Şubat 2022}}</ref>{{refn|grup=not|[[Sol Parti (Türkiye)|SOL Parti]] ve [[Türkiye Komünist Partisi (2001)|Türkiye Komünist Partisi]], başka partilerin katılımıyla [[Sosyalist Güç Birliği]] adında bir seçim ittifakı kurmuştur.<ref>{{Web kaynağı | tarih = 25 Ağustos 2022 | başlık = Sosyalist Güç Birliği kuruldu: 'Bu halk düşmanı rejime son vereceğiz' | url = https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birligi-kuruldu-bu-halk-dusmani-rejime-son-verecegiz-1971988 | erişimtarihi = 25 Ağustos 2022 | website = www.cumhuriyet.com.tr | dil = İngilizce | arşivurl = https://web.archive.org/web/20220820235656/https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birligi-kuruldu-bu-halk-dusmani-rejime-son-verecegiz-1971988 | arşivtarihi = 20 Ağustos 2022}}</ref>}} Bu iki parti, daha sonra [[Türkiye Komünist Hareketi]] ve [[Devrim Hareketi]]yle bir araya gelerek 20 Ağustos 2022'de [[Sosyalist Güç Birliği]]ni oluşturdular.<ref>{{Web kaynağı|url=https://www.evrensel.net/haber/468513/sosyalist-guc-birligi-kurulusunu-ilan-etti|başlık=Sosyalist Güç Birliği kuruluşunu ilan etti - Evrensel|erişimtarihi=11 Aralık 2022|tarih=20 Ağustos 2022|çalışma=web.archive.org|arşivurl=https://web.archive.org/web/20220820151711/https://www.evrensel.net/haber/468513/sosyalist-guc-birligi-kurulusunu-ilan-etti|arşivtarihi=20 Ağustos 2022|ölüurl=}}</ref> İttifak görüşmeleri sürecinde yer alan [[Halkevleri]], ittifakın kamuoyuna duyurulmasından önce çalışmaların seçim odaklı olması sebebiyle masadan çekildi ancak ittifakın mücadelesini desteklediklerini belirtti.<ref>{{Web kaynağı | url = https://sendika.org/2022/08/halkevleri-genel-baskani-nebiye-mertturk-neoliberalizme-ve-fasizme-karsi-direnisin-barikatlarini-orgutleyecek-direniste-birlesecegiz-664147/ | başlık = Halkevleri Genel Başkanı Nebiye Merttürk: “Neoliberalizme ve faşizme karşı direnişin barikatlarını örgütleyecek, direnişte birleşeceğiz” | erişimtarihi = 26 Ağustos 2022 | tarih = 26 Ağustos 2022 | dil = Türkçe | çalışma = sendika.org | arşivurl = https://web.archive.org/web/20220826112722/https://sendika.org/2022/08/halkevleri-genel-baskani-nebiye-mertturk-neoliberalizme-ve-fasizme-karsi-direnisin-barikatlarini-orgutleyecek-direniste-birlesecegiz-664147/ | arşivtarihi = 26 Ağustos 2022}}</ref><ref>{{Twitter kaynağı | kullanıcı = kutaymeric07 | numara = 1562825123156992002 | başlık = "Bugün EHP, EMEP, HDP, SMF, TİP ve TÖP'lü dostlarımızın düzenlediği toplantıda yer almadık." | tarih = 25 Ağustos 2022 | erişimtarihi = 28 Ağustos 2022}}</ref>
+
+İttifakı oluşturan 6 siyasi parti ve kurum, Eylül ayı sonunda yapacakları kitlesel bir halk buluşmasıyla Emek ve Özgürlük İttifakı'nın kuruluşunun resmen ilan edilmesine karar verdi.<ref name=":1" /> [[Halkların Demokratik Partisi|HDP]]'nin STK ve siyasi partilerle İlişkilerden Sorumlu Eş Genel Başkan Yardımcısı [[Tuncer Bakırhan]], ittifaka katılmak isteyen farklı siyasi partilerin olduğunu fakat kuruluşun resmen ilan edilmesinin ardından genişleme çalışmalarına başlanacağını açıkladı.<ref>{{Web kaynağı | url = http://mezopotamyaajansi35.com/tum-haberler/content/view/http%3A%2F%2Fmezopotamyaajansi35.com%2Ftum-haberler%2Fcontent%2Fview%2F180829 | başlık = Emek ve Özgürlük İttifakı 'tarihi belge' açıklamaya hazırlanıyor | erişimtarihi = 29 Ağustos 2022 | çalışma = mezopotamyaajansi35.com | arşivurl = https://web.archive.org/web/20220829093449/http://mezopotamyaajansi35.com/tum-haberler/content/view/http%3A%2F%2Fmezopotamyaajansi35.com%2Ftum-haberler%2Fcontent%2Fview%2F180829 | arşivtarihi = 29 Ağustos 2022}}</ref> [[Türkiye İşçi Partisi (2017)|TİP]] Genel Başkanı [[Erkan Baş]], ittifakın gelecek seçimler sonrasında ana muhalefet rolünü üstlenmeyi ve [[Millet İttifakı|Millet]] ile [[Cumhur İttifakı]] tarafından temsil edilmeyen seçmenlere bir alternatif olmayı hedeflediğini belirtti.<ref>{{Web kaynağı | url = https://www.7-24esenlerhaber.com/haber/erkan_bas_ucuncu_bir_ittifaka_ihtiyac_var-9019.html | başlık = Erkan Baş: üçüncü bir ittifaka ihtiyaç var! | erişimtarihi = 27 Ağustos 2022 | dil = Türkçe | çalışma = 7-24esenlerhaber.com | arşivurl = https://web.archive.org/web/20220827064419/https://www.7-24esenlerhaber.com/haber/erkan_bas_ucuncu_bir_ittifaka_ihtiyac_var-9019.html | arşivtarihi = 27 Ağustos 2022}}</ref>
+
+Partiler, ittifakın yol haritası ve siyasi programını 24 Eylül 2022'de [[Haliç Kongre Merkezi|Haliç Kongre Merkezi'nde]] açıklayacaklarını duyurdular.<ref>{{Web kaynağı | url = https://www.dokuz8haber.net/hdp-emegin-ve-ozgurlugun-ittifaki-yola-cikiyor | başlık = HDP: Emeğin ve Özgürlüğün İttifakı yola çıkıyor | erişimtarihi = 18 Eylül 2022 | dil = Türkçe | çalışma = Dokuz8 Haber | arşivurl = https://web.archive.org/web/20220915220117/https://www.dokuz8haber.net/hdp-emegin-ve-ozgurlugun-ittifaki-yola-cikiyor | arşivtarihi = 15 Eylül 2022}}</ref> Aralarında [[Murathan Mungan]], [[Zülfü Livaneli]], [[İnci Aral]] ve [[Ahmet Ümit]]'in de bulunduğu seksen edebiyatçı ve yazar, ittifakın kuruluşu ve siyasi duruşu hakkında bir bildiri yayınlayarak, ittifakı desteklediklerini duyurdu.<ref>{{Web kaynağı | url = https://ilerihaber.org/icerik/80-edebiyatcidan-ortak-aciklama-emek-ve-ozgurluk-ittifakinin-kurulusunu-kutluyoruz-145366 | başlık = Edebiyatçılardan Emek ve Özgürlük İttifakı'na destek | erişimtarihi = 23 Eylül 2022 | dil = İngilizce | çalışma = ilerihaber.org | arşivurl = https://web.archive.org/web/20220923073754/https://ilerihaber.org/icerik/80-edebiyatcidan-ortak-aciklama-emek-ve-ozgurluk-ittifakinin-kurulusunu-kutluyoruz-145366 | arşivtarihi = 23 Eylül 2022}}</ref>
+
+== 2023 cumhurbaşkanlığı ve genel seçimleri ==
+{{Daha fazla bilgi|[[2023 Türkiye genel seçimleri]]|[[2023 Türkiye cumhurbaşkanlığı seçimi]]}}
+TİP genel başkanı [[Erkan Baş]] ve HDP eş genel başkanı [[Mithat Sancar]], [[Kemal Kılıçdaroğlu|Kemal Kılıçdaroğlu'nun]] adaylığını destekleyecekleri yönünde beyanda bulundu.<ref>{{Web kaynağı|url=https://tele1.com.tr/erkan-bas-ortak-aday-etrafinda-ilk-turda-bu-isi-bitirelim-801136/|başlık=Erkan Baş: Ortak aday etrafında ilk turda bu işi bitirelim|erişimtarihi=10 Mart 2023|arşivtarihi=10 Mart 2023|arşivurl=https://web.archive.org/web/20230310105216/https://tele1.com.tr/erkan-bas-ortak-aday-etrafinda-ilk-turda-bu-isi-bitirelim-801136/|tarih=7 Mart 2023|ölüurl=hayır|dil=Türkçe|çalışma=Tele1|ad=Letisya|soyadı=Azak}}</ref><ref>{{Web kaynağı|url=https://www.paraanaliz.com/2023/gundem/hdp-es-genel-baskani-mithat-sancar-akpden-kurtulacaksak-aday-cikarmak-yerine-muhalefetin-adayini-destekleyebiliriz-g-48531/|başlık=HDP Eş Genel Başkanı Mithat Sancar: AKP'den kurtulacaksak, aday çıkarmak yerine muhalefetin adayını destekleyebiliriz.|erişimtarihi=10 Mart 2023|arşivtarihi=10 Mart 2023|arşivurl=https://web.archive.org/web/20230310105220/https://www.paraanaliz.com/2023/gundem/hdp-es-genel-baskani-mithat-sancar-akpden-kurtulacaksak-aday-cikarmak-yerine-muhalefetin-adayini-destekleyebiliriz-g-48531/|tarih=6 Mart 2023|ölüurl=hayır|dil=Türkçe|çalışma=Paraanaliz}}</ref>
+
+[[2014 Türkiye cumhurbaşkanlığı seçimi|2014]] ve [[2018 Türkiye cumhurbaşkanlığı seçimi|2018 cumhurbaşkanlığı seçimlerinde]] aday olan ve şu anda tutuklu durumdaki eski HDP eş genel başkanı [[Selahattin Demirtaş]], HDP yöneticileri ile yapılan adaylık görüşmesinde hukuki durumunun adaylık için uygun olmadığını söyledi.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/selahattin-demirtastan-adaylik-sorusuna-yanit-haber-1600415|başlık=Selahattin Demirtaş'tan HDP'nin adaylık sorusuna yanıt|erişimtarihi=10 Mart 2023|arşivtarihi=10 Mart 2023|arşivurl=https://web.archive.org/web/20230310105220/https://www.gazeteduvar.com.tr/selahattin-demirtastan-adaylik-sorusuna-yanit-haber-1600415|tarih=27 Ocak 2023|ölüurl=hayır|dil=tr-TR|çalışma=Gazete Duvar|ad=|soyadı=}}</ref>
+
+Gazeteci [[İsmail Saymaz]], eski [[Barış ve Demokrasi Partisi|BDP]] Eş Genel Başkanı ve [[Diyarbakır]] Büyükşehir Belediye Başkanı [[Gültan Kışanak]] ve eski [[Avrupa İnsan Hakları Mahkemesi|AİHM]] Yargıcı [[Rıza Türmen]]'in adaylık olasılığının olduğunu iddia etti.<ref>{{Web kaynağı|url=https://www.birgun.net/haber/kulis-hdp-de-adaylik-icin-iki-isim-uzerinde-duruluyor-417038|başlık=Kulis: HDP'de adaylık için iki isim üzerinde duruluyor|erişimtarihi=21 Ocak 2023|arşivtarihi=21 Ocak 2023|arşivurl=https://web.archive.org/web/20230121145638/https://www.birgun.net/haber/kulis-hdp-de-adaylik-icin-iki-isim-uzerinde-duruluyor-417038|ölüurl=hayır|dil=|çalışma=birgun.net}}</ref> Gültan Kışanak, kendisine cumhurbaşkanı adaylığı hakkında sorulan soruya, "Cumhurbaşkanlığı adaylığı ile ilgili süreç, partimiz HDP tarafından yürütülmektedir" dedi.<ref>{{Web kaynağı|url=https://www.birgun.net/haber/gultan-kisanak-tan-adaylik-sorusuna-yanit-416917|başlık=Gültan Kışanak'tan adaylık sorusuna yanıt|erişimtarihi=21 Ocak 2023|arşivtarihi=21 Ocak 2023|arşivurl=https://web.archive.org/web/20230121145637/https://www.birgun.net/haber/gultan-kisanak-tan-adaylik-sorusuna-yanit-416917|ölüurl=hayır|dil=|çalışma=birgun.net}}</ref>
+
+22 Mart 2023 tarihinde Emek ve Özgürlük İttifakı cumhurbaşkanı adayı çıkarmayacağını açıkladı.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/emek-ve-ozgurluk-ittifaki-aday-cikarmayacak-7629062/|başlık=Emek ve Özgürlük İttifakı aday çıkarmayacak|erişimtarihi=22 Mart 2023|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]|arşivurl=https://web.archive.org/web/20230322111223/https://www.sozcu.com.tr/2023/gundem/emek-ve-ozgurluk-ittifaki-aday-cikarmayacak-7629062/|arşivtarihi=22 Mart 2023|ölüurl=hayır}}</ref>
+
+24 Mart 2023 tarihinde alınan karar üzerine Halkların Demokratik Partisi, Emekçi Hareket Partisi ve Toplumsal Özgürlük Partisi [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] [[Halkların Eşitlik ve Demokrasi Partisi|Yeşiller ve Sol Gelecek Partisi]] listelerinden girme kararı aldı.<ref name=":2">{{Haber kaynağı|url=https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifakinda-tam-uzlasi-saglandi-haber-1609870|başlık=Emek ve Özgürlük İttifakı’nda tam uzlaşı sağlandı|erişimtarihi=24 Mart 2023|tarih=24 Mart 2023|arşivurl=https://web.archive.org/web/20230324134154/https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifakinda-tam-uzlasi-saglandi-haber-1609870|arşivtarihi=24 Mart 2023|ölüurl=hayır}}</ref> 6 Nisan 2023 tarihinde [[Emek Partisi]] de genel seçimlere Yeşiller ve Sol Gelecek Partisi listelerinden girme kararı aldı.<ref>{{Web kaynağı | url = https://www.sozcu.com.tr/2023/gundem/son-dakika-yskdan-emep-aciklamasi-7645787/ | başlık = YSK’dan EMEP açıklaması | erişimtarihi =9 Nisan 2023| dil =Türkçe| çalışma = [[Sözcü (gazete)|Sözcü]] | arşivurl = https://web.archive.org/web/20230406140230/https://www.sozcu.com.tr/2023/gundem/son-dakika-yskdan-emep-aciklamasi-7645787/ | arşivtarihi = 6 Nisan 2023}}</ref>
+
+28 Nisan 2023 tarihinde [[2023 Türkiye cumhurbaşkanlığı seçimi|2023 cumhurbaşkanlığı seçimi]] için [[Millet İttifakı]]nın adayı Kemal Kılıçdaroğlu'nu destekleme kararı aldı.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifaki-kilicdaroglunu-destekleme-karari-aldik-haber-1615597|başlık=Emek ve Özgürlük İttifakı: Kılıçdaroğlu’nu destekleme kararı aldık|erişimtarihi=28 Nisan 2023|arşivtarihi=28 Nisan 2023|arşivurl=https://web.archive.org/web/20230428115333/https://www.gazeteduvar.com.tr/emek-ve-ozgurluk-ittifaki-kilicdaroglunu-destekleme-karari-aldik-haber-1615597|tarih=28 Nisan 2023|dil=tr-TR|çalışma=[[Gazete Duvar]]}}</ref>
+
+== Üyeler ==
+{| class="wikitable"
+|-
+! colspan=3 | Parti
+! Lider
+! [[Türkiye Büyük Millet Meclisi|TBMM]]
+|-
+! colspan="5" |''Siyasi partiler''
+|-
+! style="background:{{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}; width:2px;" |
+| align="center" | DEM PARTİ
+| [[Halkların Eşitlik ve Demokrasi Partisi]]
+| [[Tülay Hatimoğulları]]<br />[[Tuncer Bakırhan]]
+| {{Composition bar|56|600|hex={{Siyasi parti renk|Halkların Eşitlik ve Demokrasi Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}; width:2px;"|
+| align=center| TİP
+| [[Türkiye İşçi Partisi (2017)|Türkiye İşçi Partisi]]
+| [[Erkan Baş]]
+| {{Composition bar|3|600|{{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}
+|-
+! style="background:{{Siyasi parti renk|Demokratik Bölgeler Partisi}}; width:2px;" |
+| align="center" | DBP
+| [[Demokratik Bölgeler Partisi]]
+| [[Çiğdem Kılıçgün Uçar]]<BR />[[Keskin Bayındır]]
+| {{Composition bar|2|600|{{Siyasi parti renk|Demokratik Bölgeler Partisi}}}}
+|-
+! style="background:{{Siyasi parti renk|Emek Partisi}}; width:2px;" |
+| align="center" | EMEP
+| [[Emek Partisi]]
+| [[Seyit Aslan]]
+| {{Composition bar|2|600|{{Siyasi parti renk|Emek Partisi}}}}
+|-
+! style="background:#ff0000; width:2px;" |
+| align="center" | EHP
+| [[Emekçi Hareket Partisi]]
+| Hakan Öztürk
+| {{Composition bar|0|600|hex=#ff0000}}
+|-
+! style="background:{{Siyasi parti renk|Halkların Demokratik Partisi}}; width:2px;" |
+| align="center" | HDP
+| [[Halkların Demokratik Partisi]]
+| Sultan Özcan<BR />[[Cahit Kırkazak]]
+| {{Composition bar|0|600|{{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+|-
+! style="background:#ffdf00; width:2px;" |
+| align="center" | TÖP
+| [[Toplumsal Özgürlük Partisi]]
+| Şilan Sürmeli
+| {{Composition bar|0|600|hex=#ffdf00}}
+|-
+! colspan="5" |''Sivil toplum kuruluşları''
+|-
+! style="background:#df0000; width:2px;" |
+| align="center" | SMF
+| colspan="3" | [[Sosyalist Meclisler Federasyonu]]
+|}
+
+== Seçim sonuçları ==
+
+=== Genel seçimler ===
+{| class=wikitable style="text-align:center"
+|+ [[Türkiye Büyük Millet Meclisi]]
+! rowspan=2| Seçim
+! colspan="3" |Parti
+! colspan="2" |Lider
+! colspan="3" | Oy 
+! colspan=1| Sandalye
+|-
+! colspan="2" |Kısaltma
+!Adı
+!Fotoğraf
+!Adı
+! style="width:50px" | #
+! style="width:50px"| %
+! style="width:50px"| Sıralama
+! style="width:50px"| #
+|-
+! rowspan="3" |[[2023 Türkiye genel seçimleri|2023]]
+! style="background:{{Siyasi parti renk|Yeşil Sol Parti}}; width:2px;" |
+|Yeşil Sol Parti
+|[[Halkların Eşitlik ve Demokrasi Partisi|Yeşiller ve Sol Gelecek Partisi]]<ref name=":0" group="not" />
+|[[Dosya:İbrahim Akın and Çiğdem Kılıçgün Uçar.png|çerçevesiz|81x81pik]]
+|[[Çiğdem Kılıçgün Uçar]] & [[İbrahim Akın (siyasetçi)|İbrahim Akın]]
+|4.803.922
+|8,82
+|5.
+|'''{{Composition bar|61|600|hex={{Siyasi parti renk|Yeşil Sol Parti}}}}'''<ref group="not">[[Emek Partisi]]nden 2 vekil ve [[Demokratik Bölgeler Partisi]]nden 2 vekil Yeşil Sol Parti listelerinden meclise girdiler. Seçimden sonra vekiller partilerine geri döndüler.</ref>
+|-
+! style="background:{{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}; width:2px;" |
+|TİP
+|[[Türkiye İşçi Partisi (2017)|Türkiye İşçi Partisi]]
+|[[Dosya:Erkan Baş 2023.jpg|çerçevesiz|77x77pik]]
+|[[Erkan Baş]]
+|956.057
+|1,76
+|8.
+|'''{{Composition bar|4|600|hex={{Siyasi parti renk|Türkiye İşçi Partisi (2017)}}}}'''
+|-
+! colspan="5" |Toplam
+!5.759.979
+!10,58
+!3.
+!{{Composition bar|65|600|hex={{Siyasi parti renk|Halkların Demokratik Partisi}}}}
+|}
+
+== Ayrıca bakınız ==
+* [[Birleşik Haziran Hareketi]]
+* [[Sosyalist Güç Birliği]]
+* [[Emek, Demokrasi ve Özgürlük Bloku|Emek, Özgürlük ve Demokrasi Bloku]]
+* [[Bin Umut Adayları]]
+* [[Halkların Demokratik Kongresi]]
+
+== Notlar ==
+{{kaynakça|grup=not}}
+
+== Kaynakça ==
+{{kaynakça}}
+
+{{2023 Türkiye seçimleri}}
+{{Türkiye'deki siyasi ittifaklar}}
+
+[[Kategori:2022'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Türkiye'deki siyasi ittifaklar]]
+[[Kategori:Emek ve Özgürlük İttifakı| ]]
+[[Kategori:2023 Türkiye genel seçimleri]]

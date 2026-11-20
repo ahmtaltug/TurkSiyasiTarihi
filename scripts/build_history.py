@@ -1,0 +1,329 @@
+#!/usr/bin/env python3
+"""Meclis ve hükûmet tarihi, parti soy ağacı ve il demografisi verisini üretir.
+
+Girdi: sources/wikipedia/ altındaki Vikipedi ham metinleri (19–20 Kasım 2026'da indirildi)
+  hukumetler.txt              Türkiye hükûmetleri listesi
+  cumhurbaskanlari.txt        Türkiye cumhurbaşkanları listesi
+  partiler/pNN.txt, index.txt parti maddeleri (bilgi kutuları)
+  demografi/*.txt             il nüfusları (1927–2025), il alanları, kişi başı GSYH, yaşam beklentisi
+Çıktı: data/history.json, data/demographics.json
+"""
+import json, os, re, sys, glob
+from shapely.geometry import shape
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from wikitable import parse_tables, plain as wplain
+from infobox import find_template, params, links, dates, plain, AYLAR
+from party_names import full_name
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+W = os.path.join(ROOT, 'sources', 'wikipedia')
+WIKI = 'https://tr.wikipedia.org/wiki/'
+ENWIKI = 'https://en.wikipedia.org/wiki/'
+
+
+def tr_date(s):
+    m = re.search(r'(\d{1,2})\s+(' + '|'.join(AYLAR) + r')\s+(\d{4})', s or '')
+    return '%s-%02d-%02d' % (m.group(3), AYLAR[m.group(2)], int(m.group(1))) if m else None
+
+
+# ------------------------------------------------------------------ hükûmetler
+gov_rows = parse_tables(open(os.path.join(W, 'hukumetler.txt')).read())[0][1:]
+govs = []
+for r in gov_rows:
+    name = r[0]['text']
+    head = r[2]['text']
+    title, _, person = head.partition(' / ')
+    if not person: person, title = head, ''
+    span = r[4]['text']
+    a, _, b = span.partition(' - ')
+    start, end = tr_date(a), (None if 'Görevde' in b else tr_date(b))
+    conf_raw = r[6]['text']
+    m = re.search(r'(\d+)\s*/\s*(\d+)', conf_raw)
+    conf = {'text': conf_raw}
+    if m: conf.update({'for': int(m.group(1)), 'total': int(m.group(2))})
+    if 'Güvensizlik' in conf_raw: conf['failed'] = True
+    party_cell = r[8]['text'] if len(r) > 8 else ''
+    pname, _, pnote = party_cell.partition(' / ')
+    if govs and govs[-1]['name'] == name and govs[-1]['start'] == start:
+        g = govs[-1]
+    else:
+        g = {'name': name, 'title': title.strip(), 'head': re.sub(r'^Mustafa Kemal A$', 'Mustafa Kemal', person.strip()),  # kaynakta kısaltılmış bağlantı etiketi
+              'election': r[3]['text'],
+             'start': start, 'end': end, 'confidence': conf, 'parties': []}
+        govs.append(g)
+    pn = pname.strip()
+    if pn and not any(p['name'] == pn for p in g['parties']):
+        g['parties'].append({'name': pn, **({'note': pnote.strip(' ()')} if pnote else {})})
+for g in govs:
+    names = [p['name'] for p in g['parties']]
+    g['kind'] = ('askerî' if 'Askerî Hükûmet' in names else 'geçici' if 'Geçici Hükûmet' in names else
+                 'koalisyon' if len([n for n in names if n != 'Bağımsızlar']) > 1 else 'tek parti')
+
+# ------------------------------------------------------------------ cumhurbaşkanları
+cbt = parse_tables(open(os.path.join(W, 'cumhurbaskanlari.txt')).read())
+party_of = {}
+for r in cbt[0][1:]:
+    nm = r[2]['text'].split(' / ')[0].strip()
+    party_of[nm] = r[7]['text'] if len(r) > 7 else ''
+pres = []
+for r in sorted(cbt[1][1:], key=lambda r: tr_date(r[3]['text']) or ''):
+    nm = r[1]['text']
+    s_, e_ = tr_date(r[3]['text']), (None if 'Görevde' in r[4]['text'] else tr_date(r[4]['text']))
+    if pres and pres[-1]['name'] == nm and pres[-1]['end'] == s_:
+        pres[-1]['end'] = e_; continue
+    pres.append({'name': nm, 'start': s_, 'end': e_, 'party': party_of.get(nm, ''), 'note': r[5]['text']})
+# askerî yönetim aralıkları (hükûmetler tablosundaki tarihlerle)
+pres_full = []
+for p in pres:
+    if pres_full and pres_full[-1]['end'] and p['start'] and pres_full[-1]['end'] < p['start']:
+        gap = (pres_full[-1]['end'], p['start'])
+        mil = [g for g in govs if g['kind'] == 'askerî' and g['start'] and g['start'] < gap[1] and (g['end'] or '9') > gap[0]]
+        pres_full.append({'name': ('Askerî yönetim — ' + mil[0]['head']) if mil else 'Vekâleten',
+                          'start': gap[0], 'end': gap[1], 'party': '', 'gap': True,
+                          'note': 'Kaynak tabloda seçilmiş cumhurbaşkanı yok; ' + ('askerî yönetim dönemi.' if mil else 'görev vekâleten yürütüldü.')})
+    pres_full.append(p)
+# 1980: 6 Nisan – 12 Eylül vekâlet, 12 Eylül 1980 – 9 Kasım 1982 askerî yönetim (devlet başkanı: MGK Başkanı Kenan Evren).
+# 12 Eylül 1980: 43. hükûmetin bitişi (hükûmetler listesi); Evren'in önceki görevi: MGK Başkanı (cumhurbaşkanları listesi).
+fixed = []
+for p in pres_full:
+    if p.get('gap') and p['start'] == '1980-04-06':
+        fixed.append({'name': 'Vekâleten', 'start': '1980-04-06', 'end': '1980-09-12', 'party': '', 'gap': True, 'note': 'Kaynak tabloda seçilmiş cumhurbaşkanı yok; görev vekâleten yürütüldü.'})
+        fixed.append({'name': 'Askerî yönetim — Kenan Evren (Millî Güvenlik Konseyi Başkanı)', 'start': '1980-09-12', 'end': '1982-11-09', 'party': '', 'gap': True, 'note': '12 Eylül 1980 askerî darbesinden sonra devlet başkanlığı.'})
+    elif p.get('gap') and p['start'] == '1960-05-27':
+        p['name'] = 'Askerî yönetim — Cemal Gürsel (Millî Birlik Komitesi Başkanı)'; p['note'] = '27 Mayıs 1960 askerî darbesinden sonra devlet başkanlığı.'; fixed.append(p)
+    else:
+        if p['party'] == 'Bağımsız Adalet ve Kalkınma Partisi': p['party'] = 'Bağımsız / Adalet ve Kalkınma Partisi'
+        fixed.append(p)
+pres_full = fixed
+
+# ------------------------------------------------------------------ meclis sandalye dağılımı (seçim sonrası)
+idx = json.load(open(os.path.join(ROOT, 'data', 'index.json')))
+parl = []
+# 1923–1946: seçim maddelerinin bilgi kutuları ve 1946 sonuç tablosu
+EARLY = [
+    ('1923', '1923-06-28', 286, {'Müdâfaa-i Hukuk (Birinci Grup)': 285, 'Bağımsız': 1}, '1923 Türkiye genel seçimleri'),
+    ('1927', '1927-09-01', 335, {'Cumhuriyet Halk Fırkası': 335}, '1927 Türkiye genel seçimleri'),
+    ('1931', '1931-04-25', 317, {'Cumhuriyet Halk Fırkası': 287, 'Bağımsız': 20, 'Boş': 10}, '1931 Türkiye genel seçimleri'),
+    ('1935', '1935-02-08', 444, {'Cumhuriyet Halk Partisi': 401, 'Belirtilmemiş': 43}, '1935 Türkiye genel seçimleri'),
+    ('1939', '1939-03-26', 470, {'Cumhuriyet Halk Partisi': 466, 'Belirtilmemiş': 4}, '1939 Türkiye genel seçimleri'),
+    ('1943', '1943-02-28', 492, {'Cumhuriyet Halk Partisi': 488, 'Belirtilmemiş': 4}, '1943 Türkiye genel seçimleri'),
+    ('1946', '1946-07-21', 465, {'Cumhuriyet Halk Partisi': 397, 'Demokrat Parti': 64, 'Bağımsız': 4}, '1946 Türkiye genel seçimleri'),
+]
+for eid, date, total, seats, page in EARLY:
+    parl.append({'id': eid, 'date': date, 'total': total, 'seats': seats, 'source': WIKI + page.replace(' ', '_')})
+for e in idx:
+    if e['type'] != 'genel' or e['date'] < '1950':
+        continue
+    d = json.load(open(os.path.join(ROOT, 'data', 'elections', e['id'] + '.json')))
+    seats = {k: v for k, v in (d['national'].get('seats') or {}).items() if v}
+    if not seats:
+        continue
+    names = d.get('partyNames') or {}
+    parl.append({'id': e['id'], 'date': e['date'], 'total': d['national'].get('total_seats') or sum(seats.values()),
+                 'seats': {names.get(k, k) if k not in ('Bağımsız',) else 'Bağımsız': v for k, v in seats.items()},
+                 'keys': {names.get(k, k): k for k in seats}, 'source': 'data/elections/%s.json' % e['id']})
+
+# ------------------------------------------------------------------ parti soy ağacı
+NAMES = ['Siyasi parti bilgi kutusu', 'Kuruluş bilgi kutusu', 'Siyasi ittifak bilgi kutusu']
+PARTYLIKE = re.compile(r'(Parti|Fırka|Cemiyet|İttifak|Grup|Hareket|Masa|Kongre)')
+parties = []
+for line in open(os.path.join(W, 'partiler', 'index.txt')):
+    f, title, _ = line.strip().split('|')
+    txt = open(os.path.join(W, 'partiler', f + '.txt')).read()
+    tpl = find_template(txt, NAMES)
+    if not tpl:
+        continue
+    p = params(tpl)
+    g = lambda k: p.get(k, '')
+    kd, cd = dates(g('kuruluş')), dates(g('kapanış'))
+    rec = {'name': re.sub(r'\s*\(.*?\)$', '', plain(g('isim')) or title), 'title': title, 'short': plain(g('kısaltma')),
+           'founded': kd[0] if kd else None, 'foundedNote': plain(g('kuruluş')) if len(kd) > 1 else None,
+           'dissolved': cd[0] if cd else None, 'dissolvedNote': plain(g('kapanış')) if len(cd) > 1 else None,
+           'alliance': title.endswith('İttifakı'),
+           'wiki': WIKI + title.replace(' ', '_')}
+    for k, fld in (('predecessors', 'öncülü'), ('successors', 'ardılı'), ('splits', 'bölünme'), ('mergers', 'birleşme'), ('alliances', 'ulusal')):
+        v = [x for x in links(g(fld)) if PARTYLIKE.search(x) and x != title]
+        if v: rec[k] = v
+    parties.append(rec)
+
+# Bilgi kutusunda birden çok kuruluş/kapanış tarihi olan partiler: faaliyet dönemleri elle yazılır (maddelerin metnine göre)
+PERIODS = {
+    'Cumhuriyet Halk Partisi': [['1923-09-09', '1981-10-16'], ['1992-09-09', None]],
+    'Milliyetçi Hareket Partisi': [['1969-02-09', '1981-10-16'], ['1993-01-24', None]],
+    'Hürriyet ve İtilaf Fırkası': [['1911-11-21', '1913-01-23'], ['1918-11-17', '1919-06-25']],
+}
+PERIOD_NOTES = {
+    'Cumhuriyet Halk Partisi': '12 Eylül sonrası 16 Ekim 1981\'de kapatıldı; 9 Eylül 1992\'de yeniden açıldı.',
+    'Milliyetçi Hareket Partisi': 'CKMP\'nin 9 Şubat 1969\'da adını değiştirmesiyle oluştu; 1981\'de kapatıldı. Çizgisini sürdüren Muhafazakâr Parti 1985\'te MÇP, 24 Ocak 1993\'te yeniden MHP adını aldı.',
+    'Hürriyet ve İtilaf Fırkası': '1913 Bâbıâli Baskını sonrası faaliyeti durdu; 1918\'de yeniden kuruldu, 1919\'da kapandı.',
+}
+seen, uniq = set(), []
+for rec in parties:
+    key = (rec['name'], rec['founded'])
+    if key in seen:   # yönlendirme ile aynı maddeye düşen kayıt (ör. Yeşil Sol Parti → DEM Parti)
+        continue
+    seen.add(key)
+    rec.pop('foundedNote', None); rec.pop('dissolvedNote', None)
+    rec['periods'] = PERIODS.get(rec['title'], [[rec['founded'], rec['dissolved']]])
+    if rec['title'] in PERIOD_NOTES: rec['note'] = PERIOD_NOTES[rec['title']]
+    if rec['title'] in PERIODS: rec['dissolved'] = rec['periods'][-1][1]
+    uniq.append(rec)
+parties = uniq
+
+# ad değişiklikleri (parti maddelerinin metninden; yalnız tarihi kaynakta geçenler)
+RENAMES = [
+    {'date': '1924', 'from': 'Halk Fırkası', 'to': 'Cumhuriyet Halk Fırkası', 'party': 'Cumhuriyet Halk Partisi', 'note': 'Kuruluştan kısa süre sonra'},
+    {'date': '1935', 'from': 'Cumhuriyet Halk Fırkası', 'to': 'Cumhuriyet Halk Partisi', 'party': 'Cumhuriyet Halk Partisi', 'note': '4. Kurultay'},
+    {'date': '1971-01-29', 'from': 'Güven Partisi', 'to': 'Millî Güven Partisi', 'party': 'Cumhuriyetçi Güven Partisi'},
+    {'date': '1973-03-03', 'from': 'Millî Güven Partisi + Cumhuriyetçi Parti', 'to': 'Cumhuriyetçi Güven Partisi', 'party': 'Cumhuriyetçi Güven Partisi', 'note': 'Birleşme'},
+    {'date': '1985-11-30', 'from': 'Muhafazakâr Parti', 'to': 'Milliyetçi Çalışma Partisi', 'party': 'Milliyetçi Çalışma Partisi'},
+    {'date': '1993-01-24', 'from': 'Milliyetçi Çalışma Partisi', 'to': 'Milliyetçi Hareket Partisi', 'party': 'Milliyetçi Hareket Partisi'},
+    {'date': '2007-05-27', 'from': 'Doğru Yol Partisi', 'to': 'Demokrat Parti', 'party': 'Demokrat Parti (2007)', 'note': 'DYP\'nin kapanışı ile DP\'nin kuruluşu aynı gün'},
+    {'date': '2023-10-15', 'from': 'Yeşil Sol Parti', 'to': 'Halkların Eşitlik ve Demokrasi Partisi (DEM Parti)', 'party': 'Halkların Eşitlik ve Demokrasi Partisi'},
+]
+
+# ------------------------------------------------------------------ olaylar (zaman çizelgesi ve animasyon)
+events = []
+for pr in parties:
+    if pr['alliance']:
+        if pr['founded']: events.append({'date': pr['founded'], 'type': 'ittifak', 'text': '%s kuruldu' % pr['name']})
+        continue
+    for i, (f0, f1) in enumerate(pr['periods']):
+        if f0 and f0 >= '1908':
+            events.append({'date': f0, 'type': 'kuruluş', 'text': '%s %s' % (pr['name'], 'yeniden kuruldu' if i else 'kuruldu'), 'party': pr['title']})
+        if f1 and f1 != '1981-10-16':   # 16 Ekim 1981 ortak kapanışı aşağıda tek olay olarak
+            events.append({'date': f1, 'type': 'kapanış', 'text': '%s kapandı / kapatıldı' % pr['name'], 'party': pr['title']})
+for rn in RENAMES:
+    events.append({'date': rn['date'], 'type': 'ad değişikliği', 'text': '%s → %s' % (rn['from'], rn['to']), 'party': rn['party']})
+for g in govs:
+    if not g['start']: continue
+    who = g['head']
+    t = '%s kuruldu (%s%s)' % (g['name'], who, ', ' + ' + '.join(p['name'] for p in g['parties'] if p['name'] not in ('Bağımsızlar',)) if g['kind'] == 'koalisyon' else '')
+    events.append({'date': g['start'], 'type': 'hükûmet', 'text': t})
+    if g['confidence'].get('failed'):
+        events.append({'date': g['start'], 'type': 'güvenoyu', 'text': '%s güvenoyu alamadı (%s)' % (g['name'], g['confidence']['text'])})
+    if g['kind'] == 'askerî':
+        pass
+for p in pres:
+    events.append({'date': p['start'], 'type': 'cumhurbaşkanı', 'text': '%s cumhurbaşkanı oldu' % p['name']})
+events.append({'date': '1960-05-27', 'type': 'darbe', 'text': '27 Mayıs 1960 askerî darbesi (Bayar\'ın görevi sona erdi; Millî Birlik Komitesi yönetimi)'})
+events.append({'date': '1980-09-12', 'type': 'darbe', 'text': '12 Eylül 1980 askerî darbesi (43. hükûmet ve Cumhuriyet Senatosu sona erdi; Millî Güvenlik Konseyi yönetimi)'})
+closed81 = [pr['short'].split()[0] if pr.get('short') else pr['name'] for pr in parties if any(x[1] == '1981-10-16' for x in pr['periods'])]
+events.append({'date': '1981-10-16', 'type': 'kapanış', 'text': 'Millî Güvenlik Konseyi bütün siyasi partileri kapattı (%s)' % ', '.join(closed81)})
+events.append({'date': '1971-03-12', 'type': 'darbe', 'text': '12 Mart 1971 muhtırası (Demirel hükûmeti istifa etti)'})
+events.append({'date': '1997-02-28', 'type': 'darbe', 'text': '28 Şubat 1997 Millî Güvenlik Kurulu kararları (Haziran 1997\'de 54. hükûmet istifa etti)'})
+events.append({'date': '2016-07-15', 'type': 'darbe', 'text': '15 Temmuz 2016 darbe girişimi (başarısız oldu)'})
+events.append({'date': '2018-07-09', 'type': 'sistem', 'text': 'Cumhurbaşkanlığı hükûmet sistemi yürürlüğe girdi; başbakanlık kaldırıldı'})
+events.sort(key=lambda e: e['date'])
+
+# parti tam adı -> renk anahtarı (data/parties.json) eşlemesi
+from party_names import NAMES as PN
+name_keys = {}
+for k, v in PN.items():
+    for n in ([v] if isinstance(v, str) else [x[2] for x in v]):
+        name_keys.setdefault(n, k)
+name_keys.update({'Cumhuriyet Halk Fırkası': 'CHP', 'Cumhuriyet Halk Partisi': 'CHP', 'Demokrat Parti': 'DP',
+                  'Demokrat Parti (2007)': 'DP', 'Millî Selamet Partisi': 'MSP', 'Milli Güven Partisi': 'CGP',
+                  'Millî Güven Partisi': 'CGP', 'Güven Partisi': 'GP', 'Bağımsızlar': 'Bağımsız', 'Bağımsız': 'Bağımsız',
+                  'Müdâfaa-i Hukuk (Birinci Grup)': 'Müdâfaa-i Hukuk (Birinci Grup)',
+                  'Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti': 'Müdâfaa-i Hukuk (Birinci Grup)',
+                  'Milliyetçi Hareket Partisi': 'MHP', 'Millet Partisi': 'MP62', 'Yeni Türkiye Partisi': 'YTP61',
+                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti',
+                  'İttihat ve Terakki Fırkası': 'İttihat ve Terakki', 'Hürriyet ve İtilaf Fırkası': 'Hürriyet ve İtilaf', 'Osmanlı Ahrar Fırkası': 'Ahrar',
+                  'Millî Selâmet Partisi': 'MSP', 'Birlik Partisi': 'TBP73', 'Hürriyet Partisi': 'HP57', 'Serbest Cumhuriyet Fırkası': 'Serbest Cumhuriyet Fırkası'})
+
+hist = {
+    'generated': '2026-11-20',
+    'sources': [
+        {'name': 'Vikipedi: Türkiye hükûmetleri listesi (CC BY-SA 4.0)', 'url': WIKI + 'Türkiye_hükûmetleri_listesi'},
+        {'name': 'Vikipedi: Türkiye cumhurbaşkanları listesi (CC BY-SA 4.0)', 'url': WIKI + 'Türkiye_cumhurbaşkanları_listesi'},
+        {'name': 'Vikipedi: parti maddelerinin bilgi kutuları (CC BY-SA 4.0)', 'url': WIKI + 'Kategori:Türkiye\'deki_siyasi_partiler'},
+        {'name': '1950–2023 sandalyeler: bu sitenin seçim verisi (YSK kaynaklı veri seti)', 'url': 'https://github.com/hamiKumbasae/turkiye-secim-haritasi'},
+    ],
+    'nameKeys': name_keys,
+    'governments': govs, 'presidents': pres_full, 'parliament': parl, 'parties': parties, 'renames': RENAMES, 'events': events,
+}
+json.dump(hist, open(os.path.join(ROOT, 'data', 'history.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+print('hükûmet', len(govs), 'cumhurbaşkanı', len(pres_full), 'meclis', len(parl), 'parti', len(parties), 'olay', len(events))
+
+# ------------------------------------------------------------------ demografi
+def num(t):
+    t = (t or '').replace('.', '').replace(',', '').replace(' ', '').strip()
+    return int(t) if re.fullmatch(r'\d+', t) else None
+def fnum(t, comma_decimal=False):
+    t = (t or '').strip().replace('−', '-')
+    t = t.replace('.', '').replace(',', '.') if comma_decimal else t.replace(',', '')
+    try: return float(t)
+    except ValueError: return None
+
+def norm(n):
+    n = n.replace('İ', 'i').replace('I', 'ı').lower()
+    return {'istanbul': 'istanbul', 'ıstanbul': 'istanbul', 'afyon': 'afyonkarahisar', 'k.maraş': 'kahramanmaraş', 'icel': 'mersin'}.get(n, n)
+
+# plaka <- güncel il adı (bu sitenin 2023 verisinden)
+cur = json.load(open(os.path.join(ROOT, 'data', 'elections', '2023.json')))
+plaka_of = {norm(re.sub(r'\s*\(.*', '', u['name'])): k for k, u in cur['units'].items()}
+def plaka(n):
+    n = norm(wplain(n)).strip()
+    n = {'i̇stanbul': 'istanbul'}.get(n, n)
+    return plaka_of.get(n) or plaka_of.get(n.replace('â', 'a').replace('î', 'i'))
+
+prov = {}
+tbl = parse_tables(open(os.path.join(W, 'demografi', 'il_nufus.txt')).read())[0]
+years = [c['text'] for c in tbl[1]][2:14]
+for r in tbl[2:]:
+    pk = plaka(r[1]['text'])
+    if not pk: continue
+    prov.setdefault(pk, {'name': cur['units'][pk]['name']})['pop'] = {y: num(r[2 + i]['text']) for i, y in enumerate(years) if num(r[2 + i]['text'])}
+tbl = parse_tables(open(os.path.join(W, 'demografi', 'iller.txt')).read())[0]
+for r in tbl[1:]:
+    pk = plaka(r[0]['text'])
+    if pk in prov:
+        a = num(r[4]['text'])
+        if a: prov[pk]['area'] = a
+tbls = parse_tables(open(os.path.join(W, 'demografi', 'en_gsyh.txt')).read())
+for r in tbls[1][2:]:
+    pk = plaka(r[1]['text'])
+    v = fnum(r[3]['text'])
+    if pk in prov and v: prov[pk]['gdppc_usd_2024'] = v
+le = parse_tables(open(os.path.join(W, 'demografi', 'en_yasam_beklentisi.txt')).read())[0]
+for r in le[2:]:
+    pk = plaka(r[0]['text'])
+    v = fnum(r[11]['text']) if len(r) > 11 else None
+    if pk in prov and v: prov[pk]['life_2021_2023'] = v
+missing = [k for k in cur['units'] if k not in prov]
+
+# eski sınır dönemleri: günümüz ili -> o dönemdeki il (il merkezinin temsilî noktasıyla)
+modern = {f['properties']['id']: shape(f['geometry']).representative_point()
+          for f in json.load(open(os.path.join(ROOT, 'build', 'geo-src', 'tr-modern.geojson')))['features']}
+era_map = {}
+for path in sorted(glob.glob(os.path.join(ROOT, 'build', 'geo-src', 'tr-era*.geojson'))):
+    era = os.path.basename(path)[:-8]
+    fs = [(f['properties']['id'], shape(f['geometry']).buffer(0)) for f in json.load(open(path))['features']]
+    m = {}
+    for pk, pt in modern.items():
+        hit = next((i for i, s in fs if s.contains(pt)), None)
+        if hit is None: hit = min(fs, key=lambda t: t[1].distance(pt))[0]
+        m[pk] = hit
+    era_map[era] = m
+
+demo = {'provinces': prov, 'eraMap': era_map, 'censusYears': years,
+        'indicators': {
+            'pop': 'Nüfus (seçimden önceki en yakın sayım)',
+            'density': 'Nüfus yoğunluğu (kişi/km², güncel il alanlarıyla)',
+            'growth': 'Önceki sayıma göre yıllık nüfus artışı (%) — göçün dolaylı göstergesi',
+            'gdppc': 'Kişi başına GSYH (ABD doları, 2024)',
+            'life': 'Doğuşta yaşam beklentisi (yıl, 2021–2023)'},
+        'notes': ['Nüfuslar günümüz il sınırlarına göredir; il sınırları değişmiş eski seçimlerde günümüz illeri o dönemin illerine toplanır.',
+                  'Kişi başı GSYH ve yaşam beklentisi tek bir döneme aittir; yalnız 81 ilin bulunduğu 2002 ve sonrası seçimlerle karşılaştırılır.',
+                  'İl bazında kentleşme ve göç verisi bu kaynaklarda yoktur; nüfus artış hızı göçün dolaylı bir göstergesi olarak verilir.',
+                  'Korelasyon nedensellik göstermez.'],
+        'sources': [
+            {'name': 'Vikipedi: Nüfusuna göre Türkiye\'nin illeri (sayımlar 1927–2025; TÜİK)', 'url': WIKI + 'Nüfusuna_göre_Türkiye\'nin_illeri'},
+            {'name': 'Vikipedi: Türkiye\'nin illeri (yüzölçümü)', 'url': WIKI + 'Türkiye\'nin_illeri'},
+            {'name': 'Wikipedia: List of Turkish provinces by GDP (2024; TÜİK)', 'url': ENWIKI + 'List_of_Turkish_provinces_by_GDP'},
+            {'name': 'Wikipedia: List of Turkish provinces by life expectancy (2021–2023; TÜİK)', 'url': ENWIKI + 'List_of_Turkish_provinces_by_life_expectancy'}]}
+json.dump(demo, open(os.path.join(ROOT, 'data', 'demographics.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+print('demografi il', len(prov), 'eksik', missing, 'GSYH', sum('gdppc_usd_2024' in v for v in prov.values()),
+      'yaşam', sum('life_2021_2023' in v for v in prov.values()), 'alan', sum('area' in v for v in prov.values()), 'sayım yılları', years)

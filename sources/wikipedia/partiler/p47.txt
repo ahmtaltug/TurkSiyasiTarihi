@@ -1,0 +1,60 @@
+{{Ek kaynak gerekli|tarih=Mart 2023}}{{Siyasi parti bilgi kutusu
+| isim = Sosyal Demokrasi Partisi
+| kısaltma = SODEP
+| amblem = Sosyal Demokrasi Partisi logo.svg
+| genel başkanı = [[Erdal İnönü]]
+| genel sekreteri =
+| kurucusu = [[Erdal İnönü]]
+| slogan = 
+| kuruluş = 6 Haziran 1983
+| kapanış = 3 Kasım 1985
+| öncülü = [[Cumhuriyet Halk Partisi]]
+| birleşme = [[Sosyaldemokrat Halkçı Parti]]
+| ideoloji = [[Sosyal demokrasi]]<ref name="birikim">{{Web kaynağı |url=https://birikimdergisi.com/guncel/159/sodep-i-ve-eski-shp-yi-rahmetle-anarken |başlık= SODEP'i ve Eski-SHP'yi Rahmetle Anarken |erişimtarihi=28 Eylül 2022 |arşivurl=https://web.archive.org/web/20220928084942/https://birikimdergisi.com/guncel/159/sodep-i-ve-eski-shp-yi-rahmetle-anarken |arşivtarihi=28 Eylül 2022 |ölüurl=hayır }}</ref>
+| pozisyon = [[Merkez sol]]
+| colorcode = {{Siyasi parti renk|Sosyal Demokrasi Partisi}}
+}}
+'''Sosyal Demokrasi Partisi''' ('''SODEP'''), [[12 Eylül Darbesi]]'nden sonra 1983'te siyasi faaliyetler serbest bırakılınca, kapatılan [[Cumhuriyet Halk Partisi]]'nin tabanını sahiplenmek için kurulmuştur.
+
+==Tarihçe==
+Parti, 6 Haziran 1983 tarihinde Prof. [[Erdal İnönü]] tarafından kuruldu.<ref>Milliyet Gazetesi, 07.06.1983, sf. 1</ref> Ancak [[Millî Güvenlik Kurulu (Türkiye)|Millî Güvenlik Kurulunun]] kurucuları sürekli veto etmesi nedeniyle parti ancak 8 Eylül 1983'te kurucularını tamamlayabildi ve bu nedenle 6 Kasım seçimlerine katılamadı. Partinin ilk genel başkanı Erdal İnönü veto edilince yerine Cezmi Kartay genel başkan oldu. Ancak MGK'nın veto yetkisi kalkınca İnönü genel başkanlığa döndü (17 Aralık 1983).
+
+6 Kasım seçimlerinde [[Turgut Özal]]'ın [[Anavatan Partisi|ANAP]]'ı %45 oy alarak tek başına iktidara geldi. Sosyal demokrat kesime hitap eden ve seçimlere katılmasına izin verilen ''Halkçı Parti'' ise %30 oy alarak anamuhalefet partisi konumunda kaldı. (Seçim sonuçları: ANAP: 212, [[Halkçı Parti]]: 117, [[Milliyetçi Demokrasi Partisi|MDP]]: 71)
+
+25 Mart 1984'te yapılan yerel seçimlere SODEP de katıldı ve ANAP'ın ardından %23.4 oy alarak ikinci parti oldu. Halkçı Parti bu seçimlerde çok fazla oranda oy yitirdi.
+
+13 Nisan 1984'te toplanan SODEP 1. Olağan Kurultayı'nda Genel Başkan İnönü, solda tek çatının şart olduğunu belirtti. Ardından 13 Temmuz'da İnönü ve [[Halkçı Parti]] Genel Başkanı [[Necdet Calp]] iki partinin birleşmesi için prensip kararı aldılar. Haziran 1985'te [[Aydın Güven Gürkan]] Halkçı Parti genel başkanı seçildi. Gürkan da birleşmeden yana olduğunu belirtti. 16 Eylül 1985'te SODEP ve Halkçı Parti'nin birleşme protokolü imzalandı. 2 Kasım'da Halkçı Parti kurultayı toplandı ve partinin adı [[Sosyaldemokrat Halkçı Parti]] olarak değiştirildi. 3 Kasım'da SODEP kurultayı toplandı ve partinin feshedilerek SHP'ye katılması kararlaştırıldı. Böylece SODEP'in hukukî varlığı sona erdi.
+
+== Siyasi görüş ==
+Türk siyasi hayatında kısa bir süre varlık göstermiş olan SODEP, kapatılan [[Cumhuriyet Halk Partisi|CHP]]'nin seçmen kitlesini bir araya getirmek istemiş [[merkez sol]] bir parti olduysa da [[Halkçı Parti]]'den farkı, [[Kemalizm|Kemalist]] [[Türk milliyetçiliği]]ne ve [[laiklik|laikliğe]] değil [[sosyal demokrasi]] ideolojisini evrensel değerleriyle benimsemeye ve uygulamaya odaklanmış olmasıydı.<ref name="birikim"/> Bu bağlamda SODEP, [[kapitalizm|kapitalist]] sistemi ve [[burjuvazi|burjuva]] [[parlamenter sistem|parlamenter rejimi]] olabildiğince demokratikleştirmeyi, gelir dağılımında emekçi sınıflar lehine [[sosyal adalet]]çi reformları ve toplumsal hayatta [[özgürlük]] alanını genişleten [[reform]]ları hedefleyen bir strateji izlemiştir.<ref name="birikim"/>
+
+== Sosyal Demokrasi Partisi ve seçimler ==
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=2| İl Genel Meclisi
+! rowspan=2| Belediye
+! rowspan="2" |Harita
+|-
+! Oy
+! %
+|-
+| [[1984 Türkiye yerel seçimleri|1984]] || [[Dosya:Erdal İnönü (1941).jpg|orta|çerçevesiz|150x150pik]][[Erdal İnönü]] || 4.139.139 || {{Yüzde çubuğu|23.4|%23,4|FFA500}} || {{Composition bar|280|1700|hex=#FFA500}}
+|[[Dosya:Sodep_84.png|çerçevesiz]]
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Erdal İnönü]]
+[[Kategori:Türkiye'de kapatılan siyasi partiler]]
+[[Kategori:Türkiye'deki sosyal demokrat partiler]]
+[[Kategori:1983'te kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki merkez sol partiler‎]]
+[[Kategori:1985'te Türkiye'de feshedilmiş oluşumlar]]
+[[Kategori:1983'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:1985'te kapatılan siyasi partiler]]

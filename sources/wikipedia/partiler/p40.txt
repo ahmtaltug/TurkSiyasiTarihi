@@ -1,0 +1,76 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Milliyetçi Demokrasi Partisi
+| kısaltma         = MDP
+| amblem           = MDP logo.png
+| genel başkanı    = [[Ülkü Söylemezoğlu]]
+| kurucusu         = [[Turgut Sunalp]]
+| colorcode        = {{Siyasi parti renk|Milliyetçi Demokrasi Partisi}}
+| kuruluş          = 16 Mayıs 1983
+| kapanış          = 4 Mayıs 1986
+| ardılı           = [[Hür Demokrat Parti (Türkiye)|Hür Demokrat Parti]]
+| ideoloji         = [[Atatürkçülük]]<br>[[Türk milliyetçiliği]]
+| pozisyon         = [[Merkez sağ]]
+}}
+'''Milliyetçi Demokrasi Partisi''' ('''MDP'''), [[Türkler|Türk]] siyasi partisidir.
+
+==Tarihçe==
+[[12 Eylül Darbesi]]'nden sonra, 25 Nisan 1983'te siyasal partilerin yeniden kurulmasına izin verilmesi üzerine 16 Mayıs 1983'te emekli orgeneral [[Turgut Sunalp]] ve 40 arkadaşı tarafından kurulmuş, genel başkanlığa da Sunalp getirilmiştir.
+
+MDP, kuruluşundan hemen sonra [[12 Eylül Darbesi]]'nin siyasal çizgisinin savunucusu olduğunu açıkladı.<ref>Milliyet Gazetesi, 17.05.1983, sf. 1</ref> [[1983 Türkiye genel seçimleri|6 Kasım 1983 seçimlerinde]] oyların %23,3'ünü aldı; 5'i listesindeki bağımsızlardan olmak üzere 71 milletvekilliği elde ederek üçüncü parti oldu. 25 Mart 1984'teki yerel seçimlerde de oyların %7,1'ini elde ederek sadece Adıyaman ve Niğde olmak üzere iki il merkezinde belediye başkanlığı seçimini kazandı. Ağrı'da kazanmasına karşın ANAP adayıyla eşit sayıda oy aldığı için seçim tekrarlandı, tekrarlanan seçimi ANAP kazandı.
+
+MDP'nin seçimlerdeki başarısızlığı, parti yönetimine karşı yoğun bir muhalefetin doğmasına yol açtı. 13 Temmuz 1985'te yapılan birinci olağan kongrede [[Turgut Sunalp]]'ın yerine parti genel başkanlığına [[Ülkü Söylemezoğlu]] seçildi.<ref>{{kitap kaynağı |başlık= 12 Eylül Partileri |soyadı= Turgut |ad= Hulusi |yıl= 1986 |yayıncı= ABC Ajansı Yayınları |yer= İstanbul |isbn= |sayfa= 113}}</ref> Ağustos 1985'te birleşme için [[Doğru Yol Partisi|DYP]] ile müzakerelere başlayan MDP, genel başkanların prensipte anlaşmalarına karşın her iki partinin de birleşmenin kendi tabanlarında olmasını istemeleri sebebiyle DYP ile birleşemedi.<ref>''Turgut'', s. 115</ref> Yönetim değişikliğinin partinin anketlerdeki oylarını artırmaması üzerine 4 Mayıs 1986'da yapılan olağanüstü kongrede 55 ret oyuna karşılık 354 kabul oyuyla partinin feshedilmesi kararlaştırıldı.<ref>Milliyet Gazetesi, 05.05.1986, sf. 1</ref> Fesihle birlikte bağımsız kalan MDP milletvekillerinden 22'si, 9 Mayıs 1986'da kurulan [[Hür Demokrat Parti (Türkiye)|Hür Demokrat Parti]]'ye (HDP) kurucu olarak katıldı.<ref>Milliyet Gazetesi, 09.05.1986, sf. 8</ref> Eski MDP'li diğer milletvekilleri ise [[Doğru Yol Partisi]] ve [[Anavatan Partisi]]'ne katıldı. Eski genel başkan [[Turgut Sunalp]] ve birkaç milletvekili ise bağımsız kaldı.<ref>Milliyet Gazetesi, 16.05.1986, sf. 8</ref>
+
+== Milliyetçi Demokrasi Partisi ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan="8" | [[Türkiye Büyük Millet Meclisi]]
+|-
+! Seçim
+! Genel Başkan
+! colspan="3" | Oy
+! colspan="2" | Sandalye
+!Harita
+|-
+!
+!
+!#
+!%
+!'''±'''
+!'''#'''
+!'''±'''
+!
+|-
+| [[1983 Türkiye genel seçimleri|1983]] || [[Turgut Sunalp]] || 4.036.970 
+|{{Yüzde çubuğu|23.3|%23,3|c={{Siyasi parti renk|Milliyetçi Demokrasi Partisi}}}}
+| -|| {{Composition bar|71|400|hex={{Siyasi parti renk|Milliyetçi Demokrasi Partisi}}}}
+| -
+|[[Dosya:Mdp_83.png|çerçevesiz]]
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=2| İl Genel Meclisi
+! rowspan=2| Belediye
+! rowspan="2" |Harita
+|-
+! Oy
+! %
+|-
+| [[1984 Türkiye yerel seçimleri|1984]] || [[Turgut Sunalp]] || 1.255.817 || {{Yüzde çubuğu|7.1|%7.1|c={{Siyasi parti renk|Milliyetçi Demokrasi Partisi}}}}|| {{Composition bar|105|1700|hex={{Siyasi parti renk|Milliyetçi Demokrasi Partisi}}}}
+|[[Dosya:84_ys_mdp.png|çerçevesiz]]
+|}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:1983'te kurulan siyasi partiler]]
+[[Kategori:1986'da kapatılan siyasi partiler]]
+[[Kategori:Türkiye'deki eski siyasi partiler]]
+[[Kategori:1983'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:1986'da Türkiye'de feshedilmiş oluşumlar]]

@@ -1,0 +1,82 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Cumhuriyetçi Millet Partisi
+| kısaltma         = CMP
+| amblem           = CMP Logo Dijital.svg
+| genel başkanı    = [[Osman Bölükbaşı]]
+| genel sekreteri  = 
+| kurucusu         = [[Osman Bölükbaşı]]
+| colorcode        = {{Siyasi parti renk|Cumhuriyetçi Millet Partisi}}
+| kuruluş          = 10 Şubat 1954
+| İdeoloji         = [[Türk milliyetçiliği]]
+| kapanış          = 16 Ekim 1958
+| birleşme         = 
+| öncülü           = [[Millet Partisi (1948)|Millet Partisi]]
+| ardılı           = [[Cumhuriyetçi Köylü Millet Partisi]]
+| pozisyon         = [[Sağcılık|Sağ]]
+}}
+'''Cumhuriyetçi Millet Partisi''', 1954-1958 yılları arasında etkinlik gösteren siyasi parti. 27 Ocak 1954'te kapatılan [[Millet Partisi (1948)|Millet Partisi]]nin<ref>Cem Eroğul, Demokrat Parti Tarihi ve İdeolojisi, İstanbul: Yordam Kitap, 2. basım, 2017, s. 117-118</ref> yerine 10 Şubat 1954 tarihinde kurulmuştur. Kurucuları arasında [[Osman Bölükbaşı]], [[Ahmet Tahtakılıç]], Hasan Koçdemir, [[Enis Akaygen]] ve [[Suphi Batur]] yer alır. Genel başkanlığına [[Osman Bölükbaşı]] getirildi. 2 Mayıs 1954'te yapılan genel seçimlerde oyların 4,85'ini aldı ve yalnızca Kırşehir ilinde seçimleri kazanarak 5 [[milletvekili]] çıkardı. 27 Ekim 1957'de de 7,13 oy oranıyla 4 milletvekilliği kazandı. 16 Ekim 1958'de [[Türkiye Köylü Partisi]] ile birleşerek [[Cumhuriyetçi Köylü Millet Partisi]]nin (CKMP) kuruluşunda yer aldı.
+
+== Genel Başkanları Listesi ==
+{| class="wikitable" style="text-align:center; font-size:90%"
+!#
+! colspan="2" |Genel Başkan
+!Görev Başlangıcı
+!Görev Bitişi
+!Görev Süresi
+|-
+!1
+| colspan="2" |[[Dosya:Osman_Bölükbaşı_(cropped).jpg|çerçevesiz|102x102pik]]
+[[Osman Bölükbaşı]]
+|10 Şubat 1954
+|16 Ekim 1958
+|4 yıl 8 ay 6 gün
+|}
+
+== Cumhuriyetçi Millet Partisi ve seçimler ==
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan="11" | [[Türkiye Büyük Millet Meclisi]]
+|-
+! rowspan="3" |Seçim
+! rowspan="3" |Genel Başkan
+! colspan="3" |Oy
+! colspan="2" rowspan="2" |Sandalye
+! rowspan="3" |Meclis
+! rowspan="3" |Sıra
+! rowspan="3" |Kurulan Hükûmetler
+! rowspan="3" |Harita
+|-
+! rowspan="2" | #
+! colspan="2" rowspan="2" | %
+|-
+!#
+!'''±'''
+|-
+| [[1954 Türkiye genel seçimleri|1954]] || rowspan="2" | [[Dosya:Osman_Bölükbaşı_(cropped).jpg|çerçevesiz|102x102pik]]<hr>[[Osman Bölükbaşı]] ||434.085 || %4,85 
+|—|| {{Composition bar|5|541|hex={{Siyasi parti renk|Cumhuriyetçi Millet Partisi}}}}
+|{{Artış}}5
+|{{Hayır2|Muhalefet}}
+|3
+| --
+|[[Dosya:1954_gs.png|çerçevesiz]]
+|-
+| [[1957 Türkiye genel seçimleri|1957]] || 652.064 || %7,13 
+|{{Artış}}2.28|| {{Composition bar|4|610|hex={{Siyasi parti renk|Cumhuriyetçi Millet Partisi}}}}
+|{{Azalış}}1
+|{{Hayır2|Muhalefet}}
+|3
+| -
+|[[Dosya:1957_gs.png|çerçevesiz]]
+|}
+
+== Kaynakça ==
+{{kaynakça}}
+{{Türk siyasi parti-taslak}}
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Türkiye'deki eski siyasi partiler]]
+[[Kategori:1954'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:1954'te kurulan siyasi partiler]]
+[[Kategori:1958'de kapatılan siyasi partiler]]
+[[Kategori:1958'de Türkiye'de feshedilmiş oluşumlar]]

@@ -1,0 +1,106 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Halkın Demokrasi Partisi
+| kısaltma         = HADEP
+| amblem           = HADEP-logo.png
+| genel başkanı    = 
+| genel sekreteri  = 
+| kurucusu         = 
+| slogan           = 
+| colorcode        = {{Siyasi parti renk|Halkın Demokrasi Partisi}}
+| kuruluş          = 11 Mayıs 1994
+| kapanış          = 13 Mart 2003
+| öncülü           = [[Demokrasi Partisi]]
+| ardılı           = [[Demokratik Halk Partisi (Türkiye)|Demokratik Halk Partisi]]
+| ideoloji         = {{yalın liste|
+*[[Demokratik Sol]]<ref name="hadep.org.tr">{{Web kaynağı|url=https://hadep.org.tr/tuzuk/tuzuk1.html|başlık=Madde 2|erişimtarihi=23 Kasım 2023|arşivurl=https://web.archive.org/web/20231123183749/https://hadep.org.tr/tuzuk/tuzuk1.html|arşivtarihi=23 Kasım 2023|ölüurl=hayır}}</ref>
+*[[Kitle siyaseti]]<ref name="hadep.org.tr">{{Web kaynağı|url=https://hadep.org.tr/tuzuk/tuzuk1.html|başlık=Madde 2|erişimtarihi=23 Kasım 2023|arşivurl=https://web.archive.org/web/20231123183749/https://hadep.org.tr/tuzuk/tuzuk1.html|arşivtarihi=23 Kasım 2023|ölüurl=hayır}}</ref>
+*[[Çevrecilik]]<ref name="hadep.org.tr">{{Web kaynağı|url=https://hadep.org.tr/tuzuk/tuzuk1.html|başlık=Madde 2|erişimtarihi=23 Kasım 2023|arşivurl=https://web.archive.org/web/20231123183749/https://hadep.org.tr/tuzuk/tuzuk1.html|arşivtarihi=23 Kasım 2023|ölüurl=hayır}}</ref>}}
+| pozisyon         = [[Solculuk|Sol]]<ref>http://www.zaman.com.tr/gundem_sol-orgutler-secimi-boykotta-kararsiz_431303.html {{Satır içi yalın URL|tarih=Ekim 2023}}</ref><ref>{{Web kaynağı|url=http://www.toplumvedemokrasi.org.tr/index.php/tdd/article/viewFile/6/216|başlık=Arşivlenmiş kopya|erişimtarihi=27 Ağustos 2015|arşivurl=https://web.archive.org/web/20190127152832/http://www.toplumvedemokrasi.org.tr/index.php/tdd/article/viewFile/6/216|arşivtarihi=27 Ocak 2019|ölüurl=hayır}}</ref>
+}}
+'''Halkın Demokrasi Partisi''' veya kısaca '''HADEP''', [[Türkiye]]'de [[Demokratik Toplum Hareketi (Türkiye)|Demokratik Toplum Hareketi]] sürecinde 11 Mayıs 1994 yılında kurulmuş [[siyasi parti]].<ref name=guncel>{{Web kaynağı|url=http://www.gundem-online.com/haber.asp?haberid=53180|başlık=AİHM HADEP davasını kabul etti - Güncel Online|erişimtarihi=10 Aralık 2008|arşivurl=https://web.archive.org/web/20090408220507/http://www.gundem-online.com/haber.asp?haberid=53180|arşivtarihi=8 Nisan 2009|ölüurl=evet}}</ref>
+
+[[1995 Türkiye genel seçimleri|1995 yılındaki Türkiye genel seçimlerinde]] 1 milyon 171 bin 623, [[1999 Türkiye genel seçimleri|1999 yılındaki Türkiye genel seçimlerinde]] 1 milyon 482 bin 196 oy almış ve [[1999 Türkiye yerel seçimleri|1999 yılındaki Türkiye yerel seçimlerinde]] 37 belediye başkanlığı kazanmıştır.<ref name=guncel/>
+
+Yargıtay Cumhuriyet Başsavcısı [[Vural Savaş]] tarafından 29 Ocak 1999'da açılan kapatma davası 4 yıl sonra sonuçlandırılarak 13 Mart 2003 tarihinde "yasa dışı faaliyetlerin merkezi" olduğu gerekçesi ile [[Türkiye Cumhuriyeti Anayasa Mahkemesi]] tarafından kapatılmıştır.<ref name=guncel/> Genel Başkanı [[Murat Bozlak]] da dahil olmak üzere 46 HADEP'liye de beş yıl [[siyaset]] yasağı cezası verildi.<ref name=raguncel>{{Web kaynağı|url=http://www.radikal.com.tr/haber.php?haberno=68927|başlık=HADEP kapatıldı - Radikal|erişimtarihi=10 Aralık 2008|arşivurl=https://web.archive.org/web/20150417143630/http://www.radikal.com.tr/haber.php?haberno=68927|arşivtarihi=17 Nisan 2015|ölüurl=hayır}}</ref> Anayasa Mahkemesi'nin gerekçeli kararı 19 Temmuz 2003 günü Resmi Gazete'de yayımlandı.
+
+== Genel başkanları ==
+* [[Hatip Dicle]]
+* [[Murat Bozlak]] (1994-1999)
+* [[Ahmet Turan Demir]]
+
+== Halkın Demokrasi Partisi ve seçimler ==
+=== Genel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="3" |Seçim
+! rowspan="3" |Genel Başkan
+! colspan="3" |Oy
+! colspan="2" rowspan="2" |Sandalye
+! rowspan="3" |Meclisteki Durumu
+! rowspan="3" |Meclisteki Sırası
+! rowspan="3" |Dahil Olduğu Hükûmet
+! rowspan="3" |Harita
+|-
+! rowspan="2" |#
+! rowspan="2" |%
+! rowspan="2" |±
+|-
+!#
+!±
+|-
+![[1995 Türkiye genel seçimleri|1995]]
+| rowspan="2" |[[Dosya:Murat Bozlak (cropped).jpg|orta|çerçevesiz|150x150pik]][[Murat Bozlak]]
+|1.171.623
+|%4,16
+| -
+| rowspan="2" |{{Composition bar|0|550|hex=#FFDD00}}
+| rowspan="2" | -
+| rowspan="2" | -
+| rowspan="2" | -
+| rowspan="2" | -
+|[[Dosya:95_hadep.png|çerçevesiz]]
+|-
+![[1999 Türkiye genel seçimleri|1999]]
+|1.482.196
+|%4,75
+|{{Artış}}%0,59
+|[[Dosya:99_gs_hadep.png|çerçevesiz]]
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Genel Seçim
+! colspan="2" |İl Genel Meclisi
+! rowspan="2" |Belediye
+! rowspan="2" |Harita
+|-
+!Oy
+! %
+|-
+|[[1999 Türkiye yerel seçimleri|1999]]
+|[[Dosya:Murat Bozlak (cropped).jpg|orta|çerçevesiz|150x150pik]][[Murat Bozlak]]
+|1.094.761
+| % 3,48
+|37
+|[[Dosya:99_hadep.png|çerçevesiz]]
+|}
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Dış bağlantılar ==
+*[https://web.archive.org/web/20040206101513/https://hadep.org.tr/ Halkın Demokrasi Partisi Ağ Sayfası]
+
+{{Türk siyasi parti-taslak}}
+
+{{Kürt siyasi hareketi}}
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Kürt siyasi hareketi]]
+[[Kategori:Kürt milliyetçiliği]]
+[[Kategori:Türkiye'de kapatılan siyasi partiler]]
+[[Kategori:1994'te kurulan siyasi partiler]]
+[[Kategori:2003'te kapatılan siyasi partiler]]
+[[Kategori:Türkiye'deki eski sosyalist partiler]]
+[[Kategori:Demokratik Toplum Hareketi]]

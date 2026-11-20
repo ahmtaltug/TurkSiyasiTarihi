@@ -1,5 +1,25 @@
 # Değişiklik günlüğü
 
+## 2.0.0 — 2026-11-20
+
+### Siyasi tarih görünümü (yeni; üst çubukta "Siyasi tarih")
+- **Meclis ve hükûmetler:** 1920'den bugüne tek grafik. Altta her genel seçim sonrası meclisin sandalye dağılımı (yüzde, parti renkleriyle); üstte cumhurbaşkanları, başbakanlar ve hükûmetlerin parti bileşimi. Koalisyon ortakları üst üste şeritlerle gösterilir; güvenoyu alamayan hükûmetler ✕ ile işaretlidir. Askerî yönetim dönemleri (1960–1961, 1980–1983) ve 27 Mayıs, 12 Mart, 12 Eylül, 28 Şubat, 15 Temmuz, 2018 sistem değişikliği çizgilerle gösterilir. Grafiğin üzerinde gezinince o tarihteki meclis, hükûmet ve cumhurbaşkanı yazar; meclisten haritaya geçilebilir.
+- **Hükûmetler ve güvenoyu:** 73 hükûmetin (1920 Ankara hükûmetinden 67. hükûmete) başkanı, tarihleri, süresi, partileri, türü (tek parti, koalisyon, askerî, geçici) ve güvenoyu sonucu. Koalisyon süzgeci, arama ve özet istatistikler.
+- **Partiler:** 56 parti ve 4 ittifakın faaliyet dönemleri zaman çizelgesinde; ad değişiklikleri ◆ ile. Bir partiye tıklayınca kuruluş ve kapanış tarihleri, ad değişiklikleri, öncül ve ardıl partiler, ayrılanların kurduğu partiler, birleşmeler ve ittifaklar açılır.
+- **Olaylar ve animasyon:** 1908'den bugüne kaydırılabilir ve oynatılabilir zaman. O tarihteki meclis (yarım daire grafik), hükûmet, cumhurbaşkanı, faal partiler ve son olaylar (kuruluş, kapanış, ad değişikliği, ittifak, hükûmet, güvenoyu, cumhurbaşkanı, askerî müdahale) birlikte değişir.
+
+### Harita
+- **Karşılaştırma modu (⇆):** İki seçim yan yana iki haritada; haritalar birlikte kayar ve yakınlaşır, aynı görünümde renk ölçeği ortaktır. Panelde ülke geneli farklar, birinci partisi değişen iller (hangi partiden hangisine) ve seçili partinin en çok artıp azaldığı iller listelenir. Adreste saklanır (`&c=`).
+- **Demografik karşılaştırma:** Panelde il nüfusu, nüfus yoğunluğu, yıllık nüfus artışı, kişi başı GSYH ve yaşam beklentisi ile seçili görünümün (parti oyu, katılım, değişim) saçılım grafiği ve korelasyon katsayısı. Eski seçimlerde günümüz illerinin nüfusu o dönemin illerine toplanır. İl kartında ilin nüfus göstergeleri.
+- **Zaman atlamalı oynatmada olaylar:** İki seçim arasında kurulan ve kapanan partiler, ad değişiklikleri, cumhurbaşkanı değişiklikleri, askerî müdahaleler ve güvenoyu alamayan hükûmetler haritanın üzerinde gösterilir.
+- **Seçim tarihindeki siyasi bağlam:** Her seçimin panelinde o gün görevdeki cumhurbaşkanı ve hükûmet.
+- **Parti tarihçesi:** Parti geçmişi kartında partinin kuruluş/kapanış, ad değişikliği, öncül/ardıl ve ittifak bilgisi.
+
+### Veri
+- `data/history.json`: hükûmetler, cumhurbaşkanları, meclis dağılımları (1923–1946 seçim maddelerinin bilgi kutularından, 1950 sonrası bu sitenin seçim verisinden), parti soy ağacı ve olaylar. Kaynak: Türkçe Vikipedi (`scripts/build_history.py`).
+- `data/demographics.json`: 81 ilin 1927–2025 nüfusları, alanları, 2024 kişi başı GSYH ve 2021–2023 yaşam beklentisi. Kaynak: Türkçe ve İngilizce Vikipedi (TÜİK verisine dayanan tablolar).
+- Kaynakta kısaltılmış "Mustafa Kemal A" bağlantı etiketi düzeltildi; CHP, MHP ve Hürriyet ve İtilaf Fırkası'nın birden çok faaliyet dönemi madde metnine göre girildi.
+
 ## 1.3.0 — 2026-11-20 (kararlı sürüm)
 
 ### Özellikler

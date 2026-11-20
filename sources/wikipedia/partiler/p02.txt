@@ -1,0 +1,1103 @@
+{{diğer anlamı2| Adalet ve Kalkınma Partisi}}
+{{Yönlendirme|AKP}}
+{{Siyasi parti bilgi kutusu
+| isim             = Adalet ve Kalkınma Partisi
+| ülke             = Türkiye
+| kısaltma         = AK PARTİ {{küçük|(resmî)}}<ref name="kurumsal">{{Web kaynağı|url=http://www.akparti.org.tr/site/akparti/parti-tuzugu|başlık=Parti Tüzüğü|erişimtarihi=30 Nisan 2015|arşivurl=https://web.archive.org/web/20150507164731/http://www.akparti.org.tr/site/akparti/parti-tuzugu|arşivtarihi=7 Mayıs 2015|ölüurl=hayır}}</ref><br />AKP {{küçük|(gayriresmî)}}<ref>{{Web kaynağı|url=http://www.haberturk.com/polemik/haber/151231-ak-parti-mi-akp-mi|başlık=AK Parti mi AKP mi|erişimtarihi=2 Haziran 2016|arşivurl=https://web.archive.org/web/20160616130604/http://www.haberturk.com/polemik/haber/151231-ak-parti-mi-akp-mi|arşivtarihi=16 Haziran 2016|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=http://www.hurriyet.com.tr/hangisi-dogru-ak-parti-mi-akp-mi-8186392|başlık=Hangisi doğru.. AK Parti mi, AKP mi|erişimtarihi=2 Haziran 2016|arşivurl=https://web.archive.org/web/20160611104010/http://www.hurriyet.com.tr/hangisi-dogru-ak-parti-mi-akp-mi-8186392|arşivtarihi=11 Haziran 2016|ölüurl=hayır}}</ref>
+| amblem           = Adalet ve Kalkınma Partisi logo.png
+| colorcode        = {{Siyasi parti renk|Adalet ve Kalkınma Partisi}}
+| genel başkanı    = [[Recep Tayyip Erdoğan]]
+| kurucusu         = {{kayma|[[Recep Tayyip Erdoğan]]<br/>[[Abdullah Gül]]<br/>[[Bülent Arınç]]}}
+| lider1_başlık    = Genel başkan vekilleri
+| lider1_isim      = [[Mustafa Elitaş]]<br/>[[Efkan Âlâ]]<ref name=Kongre2023/>
+| slogan           = ''Milletimizle Çeyrek Asır, Türkiye Geleceğe Hazır''
+| kuruluş          = {{Açılış tarihi ve yaşı|2001|8|14}}
+| birleşme         = [[Halkın Sesi Partisi]] {{küçük|(2012)}}
+| bölünme          = [[Türkiye Partisi]]<br>{{küçük|(2009-2012)}}<br>[[Demokratik Gelişim Partisi]]<br>{{küçük|(2014-2015)}}<br>[[Millet ve Adalet Partisi]]<br>{{küçük|(2014-2015)}}<br>[[Gelecek Partisi]]<br>{{küçük|(2019-2026)}}<br>[[Demokrasi ve Atılım Partisi]]<br>{{küçük|(2020-günümüz)}}
+| öncülü           = 
+| merkez           = [[Söğütözü|Söğütözü, Çankaya]], [[Ankara]]<ref>{{kaynak|başlık=Bize Ulaşın|yazar=Ak Parti|url=http://www.akparti.org.tr/site/bize-ulasin|yayıncı=akparti.org.tr|tarih=|erişimtarihi=26 Eylül 2019|arşivurl=https://web.archive.org/web/20211018173842/https://www.akparti.org.tr/|arşivtarihi=18 Ekim 2021|ölüurl=hayır}}</ref>
+| üyelik           = {{artış}} 11.709.913<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1095|başlık=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=12 Ocak 2020|arşivurl=https://web.archive.org/web/20200112215346/https://www.yargitaycb.gov.tr/icerik/1095|arşivtarihi=12 Ocak 2020|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2026<!--Üye sayısının yayınlandığı yıl kastediliyor.-->
+| ideoloji         = {{yalın liste|
+*[[Muhafazakâr demokrasi]]{{efn|name=resmitanim|Parti, kendi siyasi ideolojisini ve politik pozisyonunu bu şekilde tanımlamıştır.}}<ref>{{Web kaynağı|url = https://www.researchgate.net/publication/273513768|başlık = The AK Party's Islamic Realist Political Vision: Theory and Practice|tarih = June 2014|arşivurl = https://web.archive.org/web/20210726033038/https://www.researchgate.net/publication/273513768|arşivtarihi = 26 Temmuz 2021}}</ref><ref>{{Akademik dergi kaynağı|url=https://www.tandfonline.com/doi/abs/10.1080/14683840903384851|başlık=The Justice and Development Party's Conception of "Conservative Democracy": Invention or Reinterpretation?|tarih=Dec 2009|doi=10.1080/14683840903384851|soyadı1=Çağliyan‐iÇener|ad1=Zeyneb|dergi=Turkish Studies|cilt=10|sayı=4|sayfalar=595-612|hdl=11693/22548|s2cid=53443926|erişimtarihi=8 Mayıs 2022|arşivurl=https://web.archive.org/web/20220115021950/https://www.tandfonline.com/doi/abs/10.1080/14683840903384851|arşivtarihi=15 Ocak 2022|ölüurl=hayır|issn=1468-3849}}</ref>
+*[[Muhafazakârlık]]<ref>{{Web kaynağı|url=http://english.dohainstitute.org/release/809b18ee-a00a-49d8-8d3f-699b56fa8b60|başlık=Conservative Democracy and the Future of Turkish Secularism|ilk=Emad Y.|son=Kaddorah|tarih=18 Mayıs 2015|yayıncı=Arab Center for Research & Policy Studies|dil=İngilizce|erişimtarihi=1 Ağustos 2016|arşivurl=https://web.archive.org/web/20161007001151/http://english.dohainstitute.org/release/809b18ee-a00a-49d8-8d3f-699b56fa8b60|arşivtarihi=7 Ekim 2016|ölüurl=evet}}</ref>
+*[[Sağ popülizm]]<ref>{{Dergi kaynağı|başlık=The Kurdish Question in Turkey |yayıncı=Routledge |ad=Cengiz| soyadı=Gunes |yıl=2013 |sayfa=270 |dil=İngilizce}}</ref><ref>{{Kitap kaynağı|yıl=2015|başlık=Waves of Social Movement Mobilizations in the Twenty-First Century: Challenges to the Neo-Liberal World Order and Democracy|ad=Nahide|soyadı=Konak|sayfa=64|yayıncı=Lexington Books}}<br/>{{Kitap kaynağı |ad=Jeremy |soyadı=Jones |yıl=2007 |yayıncı=I.B. Tauris |sayfa=[https://archive.org/details/negotiatingchang0000jone/page/219 219]|başlık=Negotiating Change: The New Politics of the Middle East|url=https://archive.org/details/negotiatingchang0000jone |dil=İngilizce}}</ref>
+*[[Yeni Osmanlıcılık]]<ref>{{Web kaynağı|url=http://www.aljazeera.com/indepth/opinion/2014/05/akp-great-neo-ottoman-travesty-201451974314589207.html|başlık=AKP and the great neo-Ottoman travesty|ilk=Osman Rıfat|son=İbrahim|tarih=23 Mayıs 2014|yayıncı=AlJezeera|erişimtarihi=27 Aralık 2015|arşivurl=https://web.archive.org/web/20190717072150/https://www.aljazeera.com/indepth/opinion/2014/05/akp-great-neo-ottoman-travesty-201451974314589207.html|arşivtarihi=17 Temmuz 2019|ölüurl=hayır}}</ref><ref>{{dergi kaynağı |url=http://www.tandfonline.com/doi/pdf/10.1080/10669929808720119 |başlık=Turkish identity and foreign policy in flux: The rise of Neo‐Ottomanism |ilk=M. Hakan |son=Yavuz |dergi=Critique: Journal for Critical Studies of the Middle East |cilt=7 |sayı=12 |sayfalar=19-41|doi=10.1080/10669929808720119 |erişimtarihi=27 Aralık 2015 |arşivurl=https://web.archive.org/web/20211018173842/https://www.tandfonline.com/doi/pdf/10.1080/10669929808720119 |arşivtarihi=18 Ekim 2021 |ölüurl=hayır }}</ref><ref>{{dergi kaynağı |url=http://onlinelibrary.wiley.com/doi/10.1111/j.1475-4967.2010.00430.x/full |başlık=Turkey: Redrawing the Middle East Map Or Building Sandcastles? |ilk=Şaban |son=Kardaş |tarih=15 Mart 2010 |dergi=Middle East Policy |cilt=17 |sayı=1 |doi=10.1111/j.1475-4967.2010.00430.x |erişimtarihi=27 Aralık 2015 |arşivurl=https://web.archive.org/web/20160105131104/http://onlinelibrary.wiley.com/doi/10.1111/j.1475-4967.2010.00430.x/full |arşivtarihi=5 Ocak 2016 |ölüurl=hayır }}</ref>
+*[[Erdoğanizm|Erdoğancılık]]<ref>{{Web kaynağı|url=https://www.cnnturk.com/turkiye/bulent-arinc-tayyipci-olmayiniz|başlık=Arşivlenmiş kopya|erişimtarihi=15 Ağustos 2021|arşivurl=https://web.archive.org/web/20210815183200/https://www.cnnturk.com/turkiye/bulent-arinc-tayyipci-olmayiniz|arşivtarihi=15 Ağustos 2021|ölüurl=hayır}}</ref>
+*[[Avrupa şüpheciliği|Ilımlı Avrupa şüpheciliği]]<ref>{{Akademik dergi kaynağı|url=https://link.springer.com/article/10.1057/ap.2013.2|başlık=Rising euroscepticism in Turkish politics: The cases of the AKP and the CHP|tarih=Şubat 2013|doi=10.1057/ap.2013.2|soyadı1=Baris Gulmez|ad1=Seckin|dergi=Acta Politica|cilt=48|sayı=3|sayfalar=326-344|s2cid=189929924|erişimtarihi=3 Aralık 2021|arşivurl=https://web.archive.org/web/20211203094001/https://link.springer.com/article/10.1057/ap.2013.2|arşivtarihi=3 Aralık 2021|ölüurl=hayır}}</ref><ref>{{Akademik dergi kaynağı|url=https://dergipark.org.tr/tr/pub/epfad/issue/54109/684764|başlık=Rethinking Euroscepticism in Turkey: Government, Opposition and Public Opinion|tarih=Nisan 2020|doi=10.30784/epfad.684764|soyadı1=Gülmez|ad1=Seçkin Barış|dergi=Ekonomi, Politika & Finans Araştırmaları Dergisi|cilt=5|sayı=1|sayfalar=1-22|erişimtarihi=3 Aralık 2021|arşivurl=https://web.archive.org/web/20211203093408/https://dergipark.org.tr/tr/pub/epfad/issue/54109/684764|arşivtarihi=3 Aralık 2021|ölüurl=hayır}}</ref>
+*[[İlliberal demokrasi|İlliberalizm]]<ref name="borger">{{Haber kaynağı |soyadı1=Borger |ad1=Julian |başlık=Republicans closely resemble autocratic parties in Hungary and Turkey – study |url=https://www.theguardian.com/us-news/2020/oct/26/republican-party-autocratic-hungary-turkey-study-trump |erişimtarihi=3 Aralık 2021 |iş=[[The Guardian]] |tarih=26 Ekim 2020 |arşivurl=https://web.archive.org/web/20211127124833/https://www.theguardian.com/us-news/2020/oct/26/republican-party-autocratic-hungary-turkey-study-trump |arşivtarihi=27 Kasım 2021 |ölüurl=hayır }}</ref>
+*[[Ekonomik milliyetçilik]]<ref>{{Haber kaynağı|başlık=Erdogan: The World's Newest Strongman|tarih=25 Haziran 2018|iş=[[Bloomberg News]]|url=https://www.bloomberg.com/news/articles/2018-06-25/erdogan-the-world-s-newest-strongman|erişimtarihi=8 Mayıs 2022|arşivurl=https://web.archive.org/web/20180625142537/https://www.bloomberg.com/news/articles/2018-06-25/erdogan-the-world-s-newest-strongman|arşivtarihi=25 Haziran 2018|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|iş=[[NBC News]]|tarih=23 Eylül 2018|başlık=Trump tariffs, sanctions offer Erdogan excuse for Turkey's economic woes|url=https://www.nbcnews.com/news/world/trump-tariffs-sanctions-offer-erdogan-excuse-turkey-s-economic-woesn910736|erişimtarihi=8 Mayıs 2022|arşivurl=https://web.archive.org/web/20211231002350/https://www.nbcnews.com/news/world/trump-tariffs-sanctions-offer-erdogan-excuse-turkey-s-economic-woes-n910736|arşivtarihi=31 Aralık 2021|ölüurl=hayır}}</ref>}}{{daraltılabilir liste | title =Tarihsel:
+|[[Liberal muhafazakârlık]]<ref>{{Kitap kaynağı|başlık=Turkey between Nationalism and Globalization|ad=Riva|soyadı=Kastoryano|yıl=2013|yayıncı=Routledge|sayfa=97}}</ref>
+|[[Muhafazakâr liberalizm]]<ref>{{Kitap kaynağı|başlık=Sexualities in World Politics|yayıncı=Routledge|sayfa=126|ad=Manuela|soyadı=Picq|yıl=2015}}</ref><ref>{{Kitap kaynağı|ad=Ayse|soyadı=Bugra|başlık=New Capitalism in Turkey: The Relationship between Politics, Religion and Business|yıl=2014|sayfa=49|yayıncı=Edward Elgar Publishing}}</ref><ref>{{Kitap kaynağı|ad=Birol|soyadı=Yesilada|başlık=Islamization of Turkey under the AKP Rule|sayfa=63|yayıncı=Routledge|yıl=2013}}</ref>
+|[[Neoliberalizm]]<ref>{{Web kaynağı|url = http://politiksoylem.com/ak-partinin-neoliberalizm-cercevesinde-yukselisi-ve-ekonomi-politikalari/|başlık = AK PARTİ’nin Neoliberalizm Çerçevesinde Yükselişi ve Ekonomi Politikaları|arşivurl = https://web.archive.org/web/20190918015337/http://politiksoylem.com/ak-partinin-neoliberalizm-cercevesinde-yukselisi-ve-ekonomi-politikalari/|arşivtarihi = 18 Eylül 2019|erişimtarihi = 31 Temmuz 2022|ölüurl =}}</ref><ref>{{Web kaynağı|url=https://dergipark.org.tr/en/download/article-file/211097|başlık=Neoliberal Yapısal Uyum Sürecinde Son Evre: AKP Hükümeti|tarih=31 Temmuz 2022|erişimtarihi=31 Temmuz 2022|arşivurl=https://web.archive.org/web/20220731203303/https://dergipark.org.tr/en/download/article-file/211097|arşivtarihi=31 Temmuz 2022|ölüurl=}}</ref>
+|[[Ekonomik liberalizm]]<ref>{{Kitap kaynağı|başlık=On the Road to EU Membership: The Economic Transformation of Turkey|yayıncı=Brussels University Press|yıl=2011|sayfa=63|ad=Selen Sarisoy|soyadı=Guerin}}</ref><ref>{{Kitap kaynağı|ad=Ayse|soyadı=Bugra|başlık=New Capitalism in Turkey: The Relationship between Politics, Religion and Business|yıl=2014|sayfa=60|yayıncı=Edward Elgar Publishing}}</ref>
+|[[Pro-Avrupacılık]]<ref>{{Haber kaynağı|tarih=13 Mayıs 2022|başlık=When democratic spin conceals a descent into dictatorship|iş=Financial Times|url=https://www.ft.com/content/ff757408-d955-433b-af8d-f58085998c1b|erişimtarihi=13 Mayıs 2022|urlerişimi=aboneli|arşivurl=https://web.archive.org/web/20220513103116/https://www.ft.com/content/ff757408-d955-433b-af8d-f58085998c1b|arşivtarihi=13 Mayıs 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|başlık = Are the fortunes of Turkey's AKP on the wane?|url = https://www.opendemocracy.net/en/global-extremes/are-the-fortunes-of-turkeys-akp-on-the-wane/|erişimtarihi = 13 Mayıs 2022|website = openDemocracy|dil = İngilizce|arşivurl = https://web.archive.org/web/20211006092333/https://www.opendemocracy.net/en/global-extremes/are-the-fortunes-of-turkeys-akp-on-the-wane/|arşivtarihi = 6 Ekim 2021}}</ref>
+|[[Atlantikçilik]]<ref>{{Web kaynağı|url=https://www.hurriyet.com.tr/gundem/chp-nin-abd-karsiti-olmasi-talihsizlik-325608|başlık=CHP’nin ABD karşıtı olması talihsizlik|erişimtarihi=20 Haziran 2023|tarih=8 Haziran 2005|dil=Türkçe|çalışma=[[Hürriyet (gazete)|Hürriyet]]|arşivurl=https://web.archive.org/web/20230620123417/https://www.hurriyet.com.tr/gundem/chp-nin-abd-karsiti-olmasi-talihsizlik-325608|arşivtarihi=20 Haziran 2023|ölüurl=hayır}}</ref>
+}}
+| pozisyon         = {{yalın liste|
+*[[Sağcılık|Sağ]]<ref name="Behavioural Public Finance">{{Kitap kaynağı |editör1-ad= Savaş |editör1-soyadı= Çevik |editör2-ad= Larissa |editör2-soyadı= Batrancea |editör3-soyadı= Erdoğdu |editör3-ad= M. Mustafa |yazarbağı=  |tarih= 19 Kasım 2020 |başlık= Behavioural Public Finance Individuals, Society, and the State |url= https://books.google.com/books?id=TFYEEAAAQBAJ |yer= United Kingdom |yayıncı= Taylor & Francis |sayfa= 135 |isbn= 9781351107365 |erişim-tarihi= 20 Haziran 2023 |arşivurl= https://web.archive.org/web/20230622192817/https://books.google.com/books?id=TFYEEAAAQBAJ |arşivtarihi= 22 Haziran 2023 |ölüurl= hayır }}</ref><ref name="Political Psychology">{{Kitap kaynağı|sayfa=102|ad=Cengiz|soyadı=Erisen|başlık=Political Psychology of Turkish Political Behavior|yayıncı=Routledge|yıl=2016}}</ref><ref name="CNBC">{{Haber kaynağı |soyadı= McKeever |ad= Vicky |tarih= 15 Ocak 2020 |başlık= Turkish soccer star Hakan Sukur is now an Uber driver in the US |url= https://www.cnbc.com/2020/01/15/turkish-soccer-star-hakan-sukur-is-now-an-uber-driver-in-the-us.html |iş= CNBC |erişimtarihi= 6 Nisan 2023 |alıntı= After retiring from soccer Sukur went into politics, winning a seat in Turkey’s parliament as a member of President Recep Tayyip Erdogan’s right-wing Justice and Development Party in 2011. |arşivurl= https://web.archive.org/web/20230406200426/https://www.cnbc.com/2020/01/15/turkish-soccer-star-hakan-sukur-is-now-an-uber-driver-in-the-us.html |arşivtarihi= 6 Nisan 2023 |ölüurl= hayır }}</ref><ref name="Observer Research Foundation">{{Web kaynağı|url= https://www.orfonline.org/expert-speak/neo-ottomanism-turkish-foreign-policy/|başlık= 'Neo-Ottomanism' in Turkish foreign policy|soyadı= Aditya|ad= Prasanna|tarih= 31 Ağustos 2020|website= Observer Research Foundation|erişimtarihi= 6 Nisan 2023|arşivurl= https://web.archive.org/web/20230521101653/https://www.orfonline.org/expert-speak/neo-ottomanism-turkish-foreign-policy/|arşivtarihi= 21 Mayıs 2023|ölüurl= hayır}}</ref><br/>'''Tarihsel:'''
+*[[Türkiye'de merkez sağ|Merkez sağ]]<ref>{{Akademik dergi kaynağı|url=https://www.tandfonline.com/doi/abs/10.1080/13569770410001701233&ved=2ahUKEwi3h-up0-DxAhVzgf0HHfQtCmgQFnoECCIQAQ&usg=AOvVaw1LCaXIU5XyicT_dv4DMXsW|doi= 10.1080/13569770410001701233|başlık= Centre-right politics in Turkey after the November 2002 general election: Neo-liberalism with a Muslim face|yıl= 2004|soyadı1 = Coşar|ad1 = Simten|soyadı2 = Özman|ad2 = Aylin|dergi= Contemporary Politics|cilt= 10|sayfalar=57-74|s2cid = 143771719}}</ref><ref>{{Web kaynağı|url = https://www.britannica.com/place/Turkey/Rise-of-the-AKP-in-the-21st-century&ved=2ahUKEwj-5_r20-DxAhWOg_0HHRgYBrAQFnoECBAQAQ&usg=AOvVaw1Z_vxFoBjXeg-Ej4jw9FOb|başlık = Turkey &#124; Location, Geography, People, Economy, Culture, & History|tarih = 14 Haziran 2023|arşivurl = https://web.archive.org/web/20200914211720/https://www.britannica.com/place/Turkey/Rise-of-the-AKP-in-the-21st-century&ved=2ahUKEwj-5_r20-DxAhWOg_0HHRgYBrAQFnoECBAQAQ&usg=AOvVaw1Z_vxFoBjXeg-Ej4jw9FOb|arşivtarihi = 14 Eylül 2020}}</ref>
+}}
+| ulusal           = [[Cumhur İttifakı]]
+| avrupa           = [[Avrupa Halk Partisi]]<br />{{küçük|(2005-2013, gözlemci)}}<br />[[Avrupa Muhafazakârlar ve Reformcular Partisi]]<br />{{küçük|(2013-2018)}}
+| uluslararası     = 
+| renkler          = {{Renk kutusu|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}{{Renk kutusu|#FFFFFF}}{{Renk kutusu|#266CB2}} Turuncu, beyaz ve mavi
+| sandalye1_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]]
+| sandalye1        = {{Composition bar|280|600|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| sandalye2_başlık = [[Türkiye'de büyükşehir belediyeleri|Büyükşehir Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|14|30|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| sandalye3_başlık = [[Türkiye'nin illeri|İl Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|14|51|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| sandalye4_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye4        = {{Composition bar|391|922|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| sandalye5_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye5        = {{Composition bar|198|390|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| internet sitesi  = [https://www.akparti.org.tr/ akparti.org.tr]
+| bayrak           = Adalet ve Kalkınma Partisi bayrağı.png
+| gençlik_kolu     = [[AK Parti Gençlik Kolları|AK Gençlik]]
+| kopma            = [[Fazilet Partisi]]
+| ardılı           = 
+| genel sekreteri  = [[Eyyüp Kadir İnan]]
+| lider3_başlık    = [[Türkiye Büyük Millet Meclisi|Grup başkanı]]
+| lider3_isim      = [[Abdullah Güler (1969 doğumlu siyasetçi)|Abdullah Güler]]
+| sandalye6_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye6        = {{Composition bar|592|1282|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| sandalye7_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye7        = {{Composition bar|8178|20953|hex={{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| sözcüsü          = [[Ömer Çelik]]
+| kadın_kolu       = [[AK Parti Kadın Kolları|AK Kadın]]
+}}
+'''Adalet ve Kalkınma Partisi''', 14 Ağustos 2001 tarihinde [[Recep Tayyip Erdoğan]] liderliğinde kurulan ve [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] bir [[siyasi parti]]dir. Parti tüzüğüne göre resmî kısaltması "AK PARTİ" şeklindedir. Simgesi ampuldür.<ref name="tüzük">{{Web kaynağı|başlık = AK PARTİ Tüzük Ocak 2019|url = https://www.akparti.org.tr/media/277004/cep-boy-tu-zu-k-2019.pdf|yayıncı = AKP|erişimtarihi = 22 Şubat 2021|arşivurl = https://web.archive.org/web/20190213150025/https://www.akparti.org.tr/media/277004/cep-boy-tu-zu-k-2019.pdf|arşivtarihi = 13 Şubat 2019}}</ref> [[Türkiye Büyük Millet Meclisi|TBMM]]'de 280 milletvekili ile temsil edilmektedir. Genel başkanı [[Türkiye cumhurbaşkanı|Türkiye Cumhurbaşkanı]] [[Recep Tayyip Erdoğan]]'dır.
+
+Parti, siyasi ideolojisini [[muhafazakâr demokrasi]] olarak tanımlar.<ref>{{Web kaynağı|url = https://www.haberturk.com/gundem/haber/749469-muhafazakar-demokrat-bir-partiyiz-|başlık = Muhafazakâr demokrat bir partiyiz!|erişimtarihi = 27 Haziran 2022|arşivtarihi = 11 Haziran 2012|arşivurl = https://web.archive.org/web/20120611203949/https://www.haberturk.com/gundem/haber/749469-muhafazakar-demokrat-bir-partiyiz-|tarih =|ölüurl = hayır|website = haberturk.com}}</ref><ref>{{Web kaynağı|url = http://www.akparti.org.tr/media/272148/2023-vizyonu.pdf|başlık = Muhafazakâr Demokrat Siyasi Kimlik|erişimtarihi = 27 Haziran 2022|arşivtarihi = 15 Mart 2019|arşivurl = https://web.archive.org/web/20190315200408/http://www.akparti.org.tr/media/272148/2023-vizyonu.pdf|tarih =|ölüurl = hayır|website = akparti.org.tr}}</ref> Üçüncü taraf kaynaklar genellikle partiyi [[millî muhafazakârlık]], [[sosyal muhafazakârlık]] ve [[Yeni Osmanlıcılık]] ideolojilerini benimseyen bir parti olarak tanımlamaktadır.<ref name="Observer Research Foundation" /><ref name="aljazeera.com">{{Web kaynağı|url = http://www.aljazeera.com/indepth/opinion/2014/05/akp-great-neo-ottoman-travesty-201451974314589207.html|başlık = AKP and the great neo-Ottoman travesty|erişimtarihi = 7 Haziran 2015|tarih = 23 Mayıs 2014|yayıncı = Al Jazeera|yazar = Osman Rifat Ibrahim|arşivurl = https://web.archive.org/web/20140524083248/http://www.aljazeera.com/indepth/opinion/2014/05/akp-great-neo-ottoman-travesty-201451974314589207.html|arşivtarihi = 24 Mayıs 2014}}</ref><ref name="Turkish identity and foreign policy in flux">{{Akademik dergi kaynağı|başlık=Turkish identity and foreign policy in flux: The rise of Neo‐Ottomanism|sayı=12|sayfalar=19-41|dergi=Critique: Critical Middle Eastern Studies|yıl=1998|cilt=7|doi=10.1080/10669929808720119|soyadı1=Yavuz|ad1=M. Hakan}}</ref><ref name="Turkey: Redrawing the Middle East Map or Building Sandcastles?">{{Akademik dergi kaynağı|başlık=Turkey: Redrawing the Middle East Map or Building Sandcastles?|url=https://archive.org/details/sim_middle-east-policy_summer-2010_17_2/page/n120|sayfalar=115-136|dergi=Middle East Policy|yıl=2010|cilt=17|doi=10.1111/j.1475-4967.2010.00430.x|soyadı1=Kardaş|ad1=Şaban}}</ref> Partinin genellikle siyasi yelpazede [[Sağcılık|sağ]] kanatta yer aldığı kabul edilir, ancak bazı kaynaklar 2021'den bu yana partiyi [[aşırı sağ]] olarak tanımlamıştır.<ref>{{Kitap kaynağı|url=https://books.google.com/books?id=tXZVEAAAQBAJ&dq=far-right+Justice+and+Development+Party&pg=PA67|başlık=The Commentaries – Volume 1, 2021|tarih=18 Aralık 2021|dil=İngilizce|yayıncı=Transnational Press London|isbn=978-1-80135-107-2|soyadı1=Jongerden|ad1=Joost|soyadı2=Gunes|ad2=Cengiz|soyadı3=Day|ad3=Bahar Simsek|erişim-tarihi=26 Mayıs 2023|arşivurl=https://web.archive.org/web/20230515182157/https://books.google.com/books?id=tXZVEAAAQBAJ&dq=far-right+Justice+and+Development+Party&pg=PA67|arşivtarihi=15 Mayıs 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı | url = https://www.jpost.com/middle-east/twitter-suspends-reinstates-key-syria-coverage-account-681773 | başlık = Twitter suspends, reinstates key Syria coverage account | erişimtarihi = 25 Nisan 2023 | dil = İngilizce | website = The Jerusalem Post {{!}} JPost.com | arşivurl = https://web.archive.org/web/20211012170756/https://www.jpost.com/middle-east/twitter-suspends-reinstates-key-syria-coverage-account-681773 | arşivtarihi = 12 Ekim 2021}}</ref><ref>{{Web kaynağı|url = https://www.vice.com/en/article/pkbgmg/a-mob-bosss-youtube-channel-is-causing-political-havoc-in-turkey|başlık = A Mob Boss's YouTube Channel Is Causing Political Havoc in Turkey|erişimtarihi = 25 Nisan 2023|dil = İngilizce|website = www.vice.com|arşivurl = https://web.archive.org/web/20210524204828/https://www.vice.com/en/article/pkbgmg/a-mob-bosss-youtube-channel-is-causing-political-havoc-in-turkey|arşivtarihi = 24 Mayıs 2021}}</ref><ref>{{Akademik dergi kaynağı|url=https://www.jstor.org/stable/23017316|başlık=The Justice and Development Party: Turkey's Experience with Islam, Democracy, Liberalism, and Secularism|sayı=3|sayfalar=529-541|dergi=International Journal of Middle East Studies|yıl=2011|cilt=43|doi=10.1017/S0020743811000651|jstor=23017316|soyadı1=Çınar|ad1=Alev|hdl=11693/38147|s2cid=155939308|erişim-tarihi=15 Ağustos 2021|arşivurl=https://web.archive.org/web/20210604220420/https://www.jstor.org/stable/23017316|arşivtarihi=4 Haziran 2021|ölüurl=hayır}}</ref>
+
+Kurucuları ve önde gelen isimlerinden bir bölümü, eski [[Fazilet Partisi]]'ne (FP) yakın ya da FP kadrosundan olup FP'nin kapatılmasından sonra devamı olan [[Saadet Partisi]]'ne (SP) katılmayanlardır. Kuruluşunda ve sonraki dönemlerdeki kadroları farklı siyasi görüşlerden isimler barındırmıştır. Fazilet Partisi'nin veya ilgili siyasi geleneğin bir uzantısı olarak gösterilmesi partililer tarafından kabul görmemektedir.<ref>{{Web kaynağı|url=http://www.aksam.com.tr/arsiv/aksam/2003/08/14/politika/politika7.html|başlık=Milli Görüş gömleğini 28 Şubat'ta çıkardık|yayıncı=Akşam|ajans=İHA|erişimtarihi=31 Mart 2009|arşivurl=https://web.archive.org/web/20090408172004/http://www.aksam.com.tr/arsiv/aksam/2003/08/14/politika/politika7.html|arşivtarihi=8 Nisan 2009|ölüurl=evet}}</ref> Ayrıca [[Anavatan Partisi]]'nin (ANAP) devamı olduğu da iddia edilmiştir.<ref>{{web kaynağı|url=http://www.yeniaktuel.com.tr/tur103,148@2100.html|başlık=Akp'nin Kapatılmaması Uygun Olur!|ilk=Murat|son=Yalnız|yayıncı=Yeni Aktüel|arşivurl=https://web.archive.org/web/20080517143842/http://www.yeniaktuel.com.tr/tur103,148@2100.html|arşivtarihi=17 Mayıs 2008|ölüurl=evet|erişimtarihi=27 Nisan 2009}}</ref>
+
+Adalet ve Kalkınma Partisi, kurulduğu günden [[2024 Türkiye yerel seçimleri|2024]]'e dek katıldığı seçimlerin tamamında birinci parti olmuş ve katıldığı yedi genel seçimin dördünde ([[2002 Türkiye genel seçimleri|2002]], [[2007 Türkiye genel seçimleri|2007]], [[2011 Türkiye genel seçimleri|2011]] ve [[Kasım 2015 Türkiye genel seçimleri|Kasım 2015]]) tek başına iktidar olmuştur. Partinin 2001'deki kuruluşundan itibaren genel başkanlık görevini sürdüren Erdoğan'ın, [[2014 Türkiye cumhurbaşkanlığı seçimi]]nde cumhurbaşkanı seçilmesinin ardından bu göreve eski dışişleri bakanı [[Ahmet Davutoğlu]] getirildi. Parti, Davutoğlu liderliğinde katıldığı [[Haziran 2015 Türkiye genel seçimleri]]nde %8,96 oy kaybederek %40,87'ye geriledi.
+
+[[Kasım 2015 Türkiye genel seçimleri|Kasım 2015 genel seçimlerinde]] %49,5 oy oranıyla tek başına iktidarı yeniden kazandı.<ref>{{Web kaynağı|url=http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/SecmenIslemleri/Secimler/2015MVES/96-D.pdf|başlık=Yüksek Seçim Kurulundan Duyuru|yayıncı=Yüksek Seçim Kurulu|erişimtarihi=12 Kasım 2015|arşivurl=https://web.archive.org/web/20151122213257/http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/SecmenIslemleri/Secimler/2015MVES/96-D.pdf|arşivtarihi=22 Kasım 2015|ölüurl=evet}}</ref><ref>{{Web kaynağı|url=http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/SecmenIslemleri/Secimler/2015MVES/96-E.pdf|başlık=26.Dönem Milletvekili Genel Seçimi Sonucu|yayıncı=Yüksek Seçim Kurumu|erişimtarihi=12 Kasım 2015|arşivurl=https://web.archive.org/web/20151122213315/http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/SecmenIslemleri/Secimler/2015MVES/96-E.pdf|arşivtarihi=22 Kasım 2015|ölüurl=evet}}</ref><ref name="milliyet.com.tr">{{Web kaynağı|url = http://www.milliyet.com.tr/ve-hukumeti-kurma-gorevini/siyaset/detay/2149434/default.htm|başlık = Davutoğlu'na hükûmeti kurma görevi verildi|tarih = 17 Kasım 2015|yayıncı = [[Milliyet (gazete)|Milliyet]]|erişimtarihi = 18 Kasım 2015|arşivurl = https://web.archive.org/web/20151119172759/http://www.milliyet.com.tr/ve-hukumeti-kurma-gorevini/siyaset/detay/2149434/default.htm|arşivtarihi = 19 Kasım 2015|ölüurl = hayır}}</ref> Ahmet Davutoğlu'nun [[Ahmet Davutoğlu'nun başbakanlıktan istifa süreci|istifasının]] ardından genel başkanlığa [[Binali Yıldırım]] seçildi. Parti, [[2018 Türkiye genel seçimleri|2018 seçimlerinin]] ardından [[Cumhurbaşkanlığı Hükûmet Sistemi|cumhurbaşkanlığı hükûmet sistemine]] geçişle iktidarını korudu ve [[2023 Türkiye genel seçimleri|2023 genel seçimlerini]] de kazandı. [[2024 Türkiye yerel seçimleri|2024 yerel seçimlerinde]] ise 22 yılın ardından ilk kez Türkiye genelinde ikinci sırada yer aldı.
+
+AK Parti, 2002 yılından bu yana Türk siyasetinde önemli bir yer almaktadır. Üye sayısı bakımından Türkiye'nin en büyük partisidir.
+
+== Tarihçe ==
+{{Ana|Adalet ve Kalkınma Partisi tarihi}}
+
+=== Kuruluşu (1998-2001) ===
+16 Ocak 1998'de [[Refah Partisi]]'nin [[Türkiye Cumhuriyeti Anayasa Mahkemesi|Anayasa Mahkemesi]] tarafından kapatılmasıyla [[Millî Görüş]] geleneğinden gelen siyasiler [[Fazilet Partisi]] altında tekrar birleşti. Ancak değişmeyen politikalar ve değişmeyen yaşlı lider kadro sebebiyle partinin halk tabanında karşılık bulamadığını düşünen [[Abdullah Gül]] liderliğindeki Yenilikçiler, Gelenekçiler ile [[Fazilet Partisi]] kongresinde başkanlık yarışına girdiler ancak kaybettiler. Haziran 2001'de ise Fazilet Partisi AYM kararıyla kapatıldı. [[Recep Tayyip Erdoğan|Erdoğan]]'ın da aralarına katılması ile Yenilikçiler yeni parti çalışmalarına başladı. 14 Ağustos 2001 tarihinde Adalet ve Kalkınma Partisi kuruldu.<ref name="kurulus">{{Web kaynağı|url=https://www.hurriyet.com.tr/gundem/adalet-ve-kalkinma-partisi-kuruldu-38258548|başlık=Arşivlenmiş kopya|erişimtarihi=1 Haziran 2023|arşivurl=https://web.archive.org/web/20230601211551/https://www.hurriyet.com.tr/amp/gundem/adalet-ve-kalkinma-partisi-kuruldu-38258548|arşivtarihi=1 Haziran 2023|ölüurl=hayır}}</ref>
+
+Partinin kuruluşunda [[Recep Tayyip Erdoğan]], [[Abdullah Gül]] ve [[Bülent Arınç]]'ın da aralarında bulunduğu toplam 74 Kurucular Kurulu üyesi yer aldı.<ref name="kurulus"/> Bünyesinde [[Millî Görüş]], [[merkez sağ]] ve diğer görüşlerden oluşan isimler bulunuyordu. Parti isminin bulunması, logosu ve sloganlarının belirlenmesinde reklamcı [[Erol Olçok]]'un etkisinin olduğu kaynaklarda bahsedilmektedir.<ref>{{Web kaynağı|başlık = AK Parti'ye 7 seçim kazandıran reklamcı|url = https://www.ntv.com.tr/ekonomi/ak-partiye-7-secim-kazandiran-reklamci,FlgXLNNhlU2MmUH2qVOLww|yayıncı = NTV|erişimtarihi = 27 Haziran 2018|arşivengelli = evet|arşivurl = https://web.archive.org/web/20180627145820/https://www.ntv.com.tr/ekonomi/ak-partiye-7-secim-kazandiran-reklamci,FlgXLNNhlU2MmUH2qVOLww|arşivtarihi = 27 Haziran 2018|ölüurl = hayır}}</ref><ref>{{Web kaynağı|başlık = AK Parti’nin isim babası|url = https://www.yenisafak.com/gundem/ak-partinin-isim-babasi-2495516|yayıncı = Yeni Şafak|erişimtarihi = 27 Haziran 2018|arşivurl = https://web.archive.org/web/20180627144931/https://www.yenisafak.com/gundem/ak-partinin-isim-babasi-2495516|arşivtarihi = 27 Haziran 2018|ölüurl = hayır}}</ref>
+
+=== İlk dönemi (2002-2007) ===
+Parti, 14 Ağustos 2001 tarihinde kurulduktan yaklaşık 1 yıl sonra Recep Tayyip Erdoğan önderliğinde [[2002 Türkiye genel seçimleri|2002 genel seçimleri]] yapıldı. AK Parti 365 milletvekili çıkararak tek başına iktidara geldi.<ref>{{Web kaynağı|url=http://www.secim-sonuclari.com/2002|başlık=2002 yılı seçim sonuçları|website=secim-sonuclari.com|erişimtarihi=24 Haziran 2015|arşivurl=https://web.archive.org/web/20150626115713/http://www.secim-sonuclari.com/2002|arşivtarihi=26 Haziran 2015|ölüurl=evet}}</ref> Erdoğan, siyasi yasağı bulunduğu için seçimlere giremeyerek milletvekili seçilemedi. Seçim sonrasında [[58. Türkiye Hükûmeti]], Abdullah Gül başbakanlığında kuruldu.<ref>{{haber kaynağı |url=http://www.radikal.com.tr/haber.php?haberno=56979 |başlık=58. Hükümet kuruldu... İşte yeni kabine |tarih=18 Kasım 2002 |yayıncı=Radikal |erişimtarihi=24 Haziran 2015 |arşivurl=https://web.archive.org/web/20150626104654/http://www.radikal.com.tr/haber.php?haberno=56979 |arşivtarihi=26 Haziran 2015 |ölüurl=evet }}</ref> Hükûmet döneminde Erdoğan'ın siyasi yasağının kaldırılması için Türkiye Büyük Millet Meclisine yasa teklifi sunuldu. Değişiklik Cumhurbaşkanı [[Ahmet Necdet Sezer|Sezer]] tarafından veto edildi. Daha sonra aynı yasa değiştirilmeden mecliste tekrar kabul edildi. Sezer yasa değişikliğini bu kez onayladı.<ref>{{Web kaynağı|url=http://www.dunya48.com/siyaset/siyaset/22849-tayyip-erdogan-a-siyaset-yasagi-nasil-kaldirildi|başlık=Tayyip Erdoğan'a siyaset yasağı nasıl kaldırıldı?|website=dunya48.com|erişimtarihi=24 Haziran 2015|arşivurl=https://web.archive.org/web/20150626145839/http://www.dunya48.com/siyaset/siyaset/22849-tayyip-erdogan-a-siyaset-yasagi-nasil-kaldirildi|arşivtarihi=26 Haziran 2015|ölüurl=evet}}</ref> Siirt'teki seçimlerin tekrar edilmesine karar verilerek [[2003 Türkiye milletvekili ara seçimleri|2003 ara seçimlerine]] gidildi. Seçimlerde AK Parti'nin ilk sıra adayı [[Mervan Gül]]'ün adaylıktan çekilmesi ile Erdoğan partinin birinci sıra adayı olarak [[Siirt (il)|Siirt]] seçimlerine girdi ve oyların %85'ini alarak milletvekili oldu.<ref>{{Web kaynağı|url=http://www.mucadelegazetesi.com/secim.htm|başlık=9 Mart 2003 Siirt Seçim Sonuçları|yayıncı=Siirt Mücadele Gazetesi|erişimtarihi=24 Haziran 2015|arşivurl=https://web.archive.org/web/20150223102049/http://www.mucadelegazetesi.com/secim.htm|arşivtarihi=23 Şubat 2015|ölüurl=evet}}</ref>
+
+Erdoğan'ın milletvekili seçilmesinin ardından başbakan [[Abdullah Gül]] ve kabine istifasını verdi. [[Ahmet Necdet Sezer]] hükûmeti kurma görevini Erdoğan'a verdi ve genel seçimlerden yaklaşık dört ay sonra Erdoğan başbakanlığında [[59. Türkiye Hükûmeti|59. hükûmet]] kuruldu.<ref>{{haber kaynağı |başlık=59. Hükümet kuruldu |url=https://bigpara.hurriyet.com.tr/haberler/politika-haberleri/59-hukumet-kuruldu_id448038/ |eser=bigpara |yayıncı=Hürriyet |tarih=14 Mart 2003 |erişimtarihi=22 Şubat 2021 |arşivurl=https://web.archive.org/web/20200215211036/http://bigpara.hurriyet.com.tr/haberler/politika-haberleri/59-hukumet-kuruldu_ID448038/ |arşivtarihi=15 Şubat 2020 |ölüurl=hayır }}</ref> Bu seçimin ardından [[2004 Türkiye yerel seçimleri|2004 yerel seçimleri]] yapıldı. AK Parti 1750 belediye almaya hak kazandı.<ref>{{Web kaynağı|url=http://www.yerelsecim.com/YerelSecimSonuclari.asp?SY=2004|başlık=2004 yerel seçim sonuçları|website=yerelsecim.com|erişimtarihi=24 Haziran 2015|arşivurl=https://web.archive.org/web/20150626113805/http://www.yerelsecim.com/YerelSecimSonuclari.asp?SY=2004|arşivtarihi=26 Haziran 2015|ölüurl=evet}}</ref> 2003-2009 yılları arasında, Türkiye'nin GSMH'si dünya toplamının %1,11'inden %1,37'sine yükselmiştir.<ref name="ReferenceA2">{{Dergi kaynağı|başlık=A New Electoral Victory for the 'Pro-Islamists' or the 'New Centre-Right'? The Justice and Development Party Phenomenon in the July 2007 Parliamentary Elections in Turkey|tarih=20 Ekim 2009|sayı=4|sayfalar=501-519|dergi=South European Society and Politics|cilt=12|ad=Ali|soyadı=Çarkoğlu|doi=10.1080/13608740701731457|s2cid=153992923|doi-access=ücretsiz}}</ref>
+
+=== İkinci dönemi (2007-2014) ===
+{{Ayrıca bakınız|Adalet ve Kalkınma Partisinin kapatılma davası|AK Parti-Gülen Hareketi çatışması}}
+{{Çift resim|sağ|Abdullah Gül Senate of Poland (cropped).JPG|150|Recep Tayyip Erdoğan, Poland (cropped).jpg|154|[[Türkiye cumhurbaşkanı|Cumhurbaşkanı]] Gül ve [[Türkiye başbakanı|Başbakan]] Erdoğan}}
+[[2007 Türkiye genel seçimleri|2007 cumhurbaşkanlığı seçimleri]], CHP'li ve AK Partili politikacılar arasındaki gerilimlerin doruğa çıkmasıyla bir siyasi krize dönüştü. Cumhurbaşkanı adayı [[Abdullah Gül|Abdullah Gül'e]] karşı ortaya çıkan protestolar; Gül'ün İslamcı siyaset geçmişi ve eşinin başörtüsü takması gibi popüler nedenlerle düzenlendi. CHP'nin seçimi boykot etmesiyle beraber 367 Krizi çıktı. [[E-muhtıra]] yayınlandı. Olayların ardından erken seçim kararı alındı ve Anayasa'da bazı değişiklikler yapıldı. Cumhurbaşkanının meclis tarafından değil, halk tarafından iki turlu oylamayla seçilmesi kararlaştırıldı; yedi yıl olan görev süresi beş yıla düşürülerek, iki kez seçilebilmesinin önü açıldı.<ref>{{Web kaynağı|url=http://www.memurlar.net/haber/78896/|başlık=Anayasa değişiklik paketi bugün yayımlandı, referandum süreci başladı|erişimtarihi=22 Mart 2014|arşivtarihi=26 Mart 2014|arşivurl=https://web.archive.org/web/20140326032623/http://www.memurlar.net/haber/78896/|tarih=16 Haziran 2007|ölüurl=hayır|yayıncı=memurlar.net}}</ref> Anayasa değişiklikleri, 21 Ekim 2007 tarihinde yapılan [[2007 Türkiye anayasa değişikliği referandumu|halk oylamasında]], %68,95'lik kabul oyuyla yürürlüğe girdi.<ref name="ReferenceA2"/><ref>{{Web kaynağı|url=http://arsiv.sabah.com.tr/2007/10/21/haber,92A0CBA9A3784A15893A8B8C4C8646A5.html|başlık=Referandumdan "Evet" çıktı|erişimtarihi=26 Mart 2014|arşivtarihi=3 Mayıs 2014|arşivurl=https://web.archive.org/web/20140503195613/http://arsiv.sabah.com.tr/2007/10/21/haber,92A0CBA9A3784A15893A8B8C4C8646A5.html|tarih=21 Ekim 2007|ölüurl=evet|yayıncı=[[Sabah (gazete)|Sabah]]}}</ref> 28 Ağustos 2007 tarihinde Abdullah Gül Türkiye'nin 11. Cumhurbaşkanı seçildi. Yemin töreni CHP ve Genelkurmay Başkanı [[Yaşar Büyükanıt]] tarafından boykot edildi.<ref>{{Haber kaynağı|url=http://www.radikal.com.tr/haber.php?haberno=231647|başlık=Köşk'e ilk davet eşsiz|erişim-tarihi=15 Şubat 2015|arşiv-tarihi=16 Şubat 2015|arşiv-url=https://web.archive.org/web/20150216002809/http://www.radikal.com.tr/haber.php?haberno=231647|ölüurl=evet|dil=Türkçe|çalışma=[[Radikal]]|ad=Hilal|soyadı=Koylu|df=dmy-all}}</ref>
+
+2008 yılında [[Yargıtay Cumhuriyet Başsavcılığı (Türkiye)|Yargıtay Cumhuriyet Başsavcısı]] [[Abdurrahman Yalçınkaya|Yalçınkaya]], "Adalet ve Kalkınma Partisi'nin [[laiklik|laikliğe]] aykırı eylemlerin odağı durumuna geldiği" savıyla, Anayasa Mahkemesi'nde "Adalet ve Kalkınma Partisi'nin temelli kapatılma davasını" açtı.<ref name=":2">{{haber kaynağı|url=http://ntvmsnbc.com/news/439256.asp|başlık=Başsavcı, AK Partiye kapatma davası açtı|arşivtarihi=17 Mart 2008|arşivurl=https://web.archive.org/web/20080317233144/http://www.ntvmsnbc.com/news/439256.asp|tarih=13 Mart 2008|ölüurl=evet|yayıncı=NTV-MSNBC}}</ref> 30 Temmuz 2008'de açıklanan kararla, 10 üyenin 6'sının kapatılması yönünde, 4'ünün hazine yardımının kesilmesi yönünde tercihi oldu. [[Türkiye Cumhuriyeti Anayasa Mahkemesi|AYM]] [[Türkiye Anayasa Mahkemesi başkanları listesi|Başkanı]] [[Haşim Kılıç]]'ın ret oyuyla parti kapatılmadı ancak hazine yardımlarının yarısının kesilmesi kararı alındı.
+
+Parti, [[2009 Türkiye yerel seçimleri|2009 yerel seçimlerinde]] 1442 belediye başkanlığı kazandı. Ayrıca 16 büyükşehir belediye başkanlığından 10 tanesini kazandı.<ref>{{Web kaynağı|url=http://secim.haberler.com/2009/|başlık=2009 Yerel Seçim Sonuçları|website=secim.haberler.com|erişimtarihi=24 Haziran 2015|arşivurl=https://web.archive.org/web/20150626112050/http://secim.haberler.com/2009/|arşivtarihi=26 Haziran 2015|ölüurl=evet}}</ref>
+
+2009'da İsrail'in Filistin'e saldırısının ardından Davos'taki Dünya Ekonomik Forumu toplantısında, Şimon Peres'in uzun süre konuşmasına karşılık Erdoğan "Benim için de bundan böyle Davos bitmiştir. Daha Davos'a gelmem." diyerek podyumu terk etmiştir.<ref>{{haber kaynağı |başlık=Davos'ta kriz |url=https://www.cnnturk.com/2009/dunya/01/29/davosta.kriz/511241.0/index.html |eser=cnnturk.com |yayıncı=CNN Türk |tarih=29 Ocak 2009 |erişimtarihi=22 Şubat 2021 |arşivurl=https://web.archive.org/web/20161019175742/http://www.cnnturk.com/2009/dunya/01/29/davosta.kriz/511241.0/index.html |arşivtarihi=19 Ekim 2016 |ölüurl=hayır }}</ref> Erdoğan Davos dönüşü büyük bir kutlamayla karşılanmıştır.<ref>{{haber kaynağı |url=http://www.radikal.com.tr/dunya/dunya_basini_davos_sokunu_boyle_duyurdu-919321 |başlık=Dünya basını Davos şokunu böyle duyurdu |tarih=30 Ocak 2009 |yayıncı=Radikal |erişimtarihi=24 Haziran 2015 |arşivurl=https://web.archive.org/web/20150626115022/http://www.radikal.com.tr/dunya/dunya_basini_davos_sokunu_boyle_duyurdu-919321 |arşivtarihi=26 Haziran 2015 |ölüurl=hayır }}</ref> Ayrıca [[Gazze Savaşı|Gazze Savaşı'ndaki]] diplomatik çabaları nedeniyle [[Ahmet Davutoğlu]] dışişleri bakanlığına getirilmiştir.<ref>{{haber kaynağı |başlık=Ahmet Davutoğlu kimdir? |url=https://www.cumhuriyet.com.tr/haber/ahmet-davutoglu-kimdir-112089 |eser=cumhuriyet.com.tr |yayıncı=Cumhuriyet |tarih=29 Ağustos 2014 |erişimtarihi=22 Şubat 2021 |arşivurl=https://web.archive.org/web/20210116005136/http://www.cumhuriyet.com.tr/haber/ahmet-davutoglu-kimdir-112089 |arşivtarihi=16 Ocak 2021 |ölüurl=hayır }}</ref>
+
+Parti [[2011 Türkiye genel seçimleri|2011 genel seçimlerinde]] %49,8'lik bir oy oranıyla üçüncü kez tek başına iktidar olmayı başardı.<ref>{{Web kaynağı|url=http://www.ensonhaber.com/iste-61-hukumet-kabine-listesi-2011-07-06.html|başlık=İşte 61 hükümet kabine listesi|tarih=6 Temmuz 2011|erişimtarihi=24 Haziran 2015|arşivurl=https://web.archive.org/web/20150626140819/http://www.ensonhaber.com/iste-61-hukumet-kabine-listesi-2011-07-06.html|arşivtarihi=26 Haziran 2015|ölüurl=evet}}</ref>
+
+=== Davutoğlu ve Yıldırım dönemi (2014-2017) ===
+{{Ayrıca bakınız|Ahmet Davutoğlu'nun istifa süreci|2017 Türkiye anayasa değişikliği referandumu|Cumhurbaşkanlığı Hükûmet Sistemi}}
+[[Dosya:AhmetDavutoğluDavos2016.png|küçükresim|upright=0.91|[[Ahmet Davutoğlu|Davutoğlu]], [[Davos]], 2016]]
+[[Dosya:Binali Yıldırım MSC 2018.jpg|küçükresim|upright=0.91|[[Binali Yıldırım|Yıldırım]], [[Münih]], 2018]]
+[[2014 Türkiye yerel seçimleri|2014 yerel seçimlerinde]] AK Parti %43.4 oy alarak birinci parti oldu. Parti, bu seçimlerde 30 büyükşehir belediye başkanlığından 18 tanesini kazandı. [[2014 Türkiye yerel seçimleri|2014 cumhurbaşkanlığı seçimlerinde]] [[Mehmet Ali Şahin]] Erdoğan'ın adaylığını <nowiki>''</nowiki>İstanbul milletvekilimiz, Genel Başkanımız, Başbakanımız Recep Tayyip Erdoğan<nowiki>'dır.''</nowiki> şeklinde açıklamıştır.<ref>{{haber kaynağı |url=http://www.hurriyet.com.tr/gundem/26719347.asp |başlık=AK Parti'nin cumhurbaşkanı adayı Recep Tayyip Erdoğan |tarih=1 Temmuz 2014 |çalışma=hurriyet.com.tr |yayıncı=Hürriyet |erişimtarihi=24 Haziran 2015 |arşivurl=https://web.archive.org/web/20150628213124/http://www.hurriyet.com.tr/gundem/26719347.asp |arşivtarihi=28 Haziran 2015 |ölüurl=evet }}</ref> 10 Ağustos 2014 tarihinde Erdoğan'ın %51,8 oy oranıyla 12. Türkiye cumhurbaşkanı olarak seçilmesinin ardından 27 Ağustos'ta düzenlenen kongrede AK Parti genel başkanlığına [[Ahmet Davutoğlu]] seçilmiştir.<ref>{{haber kaynağı |url=http://www.turkiyegazetesi.com.tr/gundem/181397.aspx |başlık=62. Hükümet kuruldu! İşte yeni kabine ve yeni bakanlar |tarih=28 Ağustos 2014 |yayıncı=Türkiye Gazetesi |erişimtarihi=24 Haziran 2015 |arşivurl=https://web.archive.org/web/20150626105924/http://www.turkiyegazetesi.com.tr/gundem/181397.aspx |arşivtarihi=26 Haziran 2015 |ölüurl=hayır }}</ref>
+
+Parti, Ahmet Davutoğlu liderliğinde katıldığı [[Haziran 2015 Türkiye genel seçimleri|2015 genel seçimlerinde]] tarihinde ilk kez meclis çoğunluğunu kaybetti.<ref name=":52">{{Haber kaynağı|url=https://www.reuters.com/article/uk-turkey-security-opposition-idUKKCN11019P|başlık=Turkish opposition leader targeted by Kurdish militants - minister|tarih=25 Ağustos 2016|çalışma=Reuters|ad=Ece|soyadı=Toksabay|erişimtarihi=4 Mayıs 2024|arşivurl=https://web.archive.org/web/20230427180409/https://www.reuters.com/article/uk-turkey-security-opposition-idUKKCN11019P|arşivtarihi=27 Nisan 2023|ölüurl=hayır}}</ref> Seçimlerin ardından koalisyon görüşmeleri başarısız oldu. MHP, CHP liderliğindeki bir hükûmette HDP ile birlikte yer almayı reddetti. CHP ise haftalar süren müzakerelerin ardından AK Parti ile hükûmet kurmayı reddetti. [[Kasım 2015 Türkiye genel seçimleri|Kasım ayında yapılan erken seçimde]] AK Parti meclis çoğunluğunu yeniden kazandı. Bu tarihten sonraki seçimlerde Adalet ve Kalkınma Partisi meclisin salt çoğunluğunu elde edemedi.
+
+2015 yılında [[Ahmet Davutoğlu]], partinin 5. Olağan Kongresinde ikinci kez genel başkan seçildi.<ref>{{haber kaynağı|url=http://www.sabah.com.tr/gundem/2015/09/12/ak-parti-5-olagan-kongresi-tamamlandi|başlık=AK Parti 5. Olağan kongresi tamamlandı|erişimtarihi=6 Şubat 2020|arşivtarihi=22 Aralık 2019|arşivurl=https://web.archive.org/web/20191222091639/https://www.sabah.com.tr/gundem/2015/09/12/ak-parti-5-olagan-kongresi-tamamlandi|tarih=12 Eylül 2015|ölüurl=hayır|çalışma=sabah.com.tr|yayıncı=Sabah}}</ref> Kamuoyunda ilk olarak, Ocak 2015'te Başbakan [[Ahmet Davutoğlu]] tarafından açıklanan ancak hayata geçirilemeyen 'şeffaflık paketi' yüzünden Davutoğlu-Erdoğan arasında gerginlik çıktığı iddia edildi.<ref name="Kriz">{{Web kaynağı|url=http://www.sozcu.com.tr/2016/gundem/erdogan-davutoglu-krizinin-gecmisi-1216852/|başlık=Erdoğan Davutoğlu krizinin geçmişi|erişimtarihi=6 Mayıs 2016|arşivtarihi=6 Mayıs 2016|arşivurl=https://web.archive.org/web/20160506174600/http://www.sozcu.com.tr/2016/gundem/erdogan-davutoglu-krizinin-gecmisi-1216852/|ölüurl=evet|yayıncı=Sözcü}}</ref> Ardından MKYK'da alınan kararla, genel başkanın "il ve ilçe başkanı atama yetkisi" elinden alındı. Kararın toplantıdan önce Erdoğan'a yakın üyeler tarafından alındığı ve toplantı sırasında Davutoğlu'na imzalatıldığı iddia edildi.<ref name="Kriz" /> 2016'da '[[Pelikan grubu|Pelikan Dosyası]]' adı altında anonim bir blogda Davutoğlu'nun Erdoğan'a ihanet ettiği ve istifa etmesi gerektiği savunuldu. Bu blog medyada büyük yankı uyandırdı.<ref name="peli">{{Web kaynağı|url=http://www.diken.com.tr/akpli-kaynaklar-pelikan-dosyasinin-ardindaki-isim-nasuhi-gungor/|başlık=AKP’li kaynaklar: ‘Pelikan Dosyası’nın ardındaki isim Nasuhi Güngör|erişimtarihi=6 Mayıs 2016|arşivtarihi=6 Mayıs 2016|arşivurl=https://web.archive.org/web/20160506174609/http://www.diken.com.tr/akpli-kaynaklar-pelikan-dosyasinin-ardindaki-isim-nasuhi-gungor/|ölüurl=evet|yayıncı=Diken}}</ref><ref name="peli1">{{Web kaynağı|url=http://www.diken.com.tr/reisciler-dugmeye-basti-pelikan-dosyasi-adli-blogda-hoca-yerden-yere-vuruldu/|başlık=‘Reis’çiler düğmeye bastı: ‘Pelikan Dosyası’ adlı blogda ‘Hoca’ yerden yere vuruldu|erişimtarihi=6 Mayıs 2016|arşivtarihi=6 Mayıs 2016|arşivurl=https://web.archive.org/web/20160506174605/http://www.diken.com.tr/reisciler-dugmeye-basti-pelikan-dosyasi-adli-blogda-hoca-yerden-yere-vuruldu/|ölüurl=evet|yayıncı=Diken.com.tr}}</ref><ref>{{Web kaynağı|url=https://next.ft.com/content/80890590-120c-11e6-91da-096d89bd2173|başlık=Turkish prime minister quits after rift with Erdogan|erişimtarihi=6 Mayıs 2016|arşivtarihi=18 Ekim 2021|arşivengelli=evet|arşivurl=https://web.archive.org/web/20211018173842/https://www.ft.com/content/80890590-120c-11e6-91da-096d89bd2173|tarih=|ölüurl=hayır|eser=Financial Times|yazar=}}</ref> 4 Mayıs 2016'da iddialara göre Külliyede Erdoğan ve Davutoğlu arasında yapılan ikili toplantıda, Davutoğlu'nun doğrudan istifa etmemesi, ancak AK Parti'yi kongreye götürmesi ve yeniden genel başkan adayı olmaması konusunda anlaştılar.<ref>{{Web kaynağı|url=http://www.nytimes.com/2016/05/05/world/europe/erdogan-ahmet-davutoglu-turkey-prime-minister-is-expected-to-be-replaced.html|başlık=Ahmet Davutoglu, Turkey’s Prime Minister, Is Expected to Be Replaced|erişimtarihi=6 Mayıs 2016|arşivtarihi=5 Mayıs 2016|arşivurl=https://web.archive.org/web/20160505031156/http://www.nytimes.com/2016/05/05/world/europe/erdogan-ahmet-davutoglu-turkey-prime-minister-is-expected-to-be-replaced.html|tarih=5 Mayıs 2016|ölüurl=hayır|eser=The New York Times|yazar=}}</ref><ref name="zaruret">{{Web kaynağı|url=http://www.cumhuriyet.com.tr/haber/siyaset/528176/Davutoglu__Erdogan_i_yalanlayip_gitti__Tercih_degil__zaruret.html|başlık=Davutoğlu, Erdoğan'ı yalanlayıp gitti: Tercih değil, zaruret|erişimtarihi=6 Mayıs 2016|arşivtarihi=6 Mayıs 2016|arşivurl=https://web.archive.org/web/20160506174624/http://www.cumhuriyet.com.tr/haber/siyaset/528176/Davutoglu__Erdogan_i_yalanlayip_gitti__Tercih_degil__zaruret.html|ölüurl=hayır|yayıncı=Cumhuriyet}}</ref> Davutoğlu, toplantının ardından bir gün sonra yaptığı açıklamada, "4 yıllık sürenin daha kısa sürmesi benim tercihim değildir. Zarurettir" diyerek partiyi yeni genel başkan seçimi için 2. Olağanüstü Büyük Kongre'ye çağırdı.<ref name="zaruret" />
+
+22 Mayıs 2016 tarihinde düzenlenen kongrede [[Binali Yıldırım]] AK Parti'nin 3. genel başkanı seçildi.<ref>{{haber kaynağı |url=http://www.haberturk.com/gundem/haber/1242996-ak-partide-devir-teslim-gunu |başlık=Binali Yıldırım AK Parti'nin 3'üncü genel başkanı oldu |tarih=22 Mayıs 2016 |çalışma=haberturk.com |yayıncı=Haber Türk |erişimtarihi=8 Haziran 2016 |arşivurl=https://web.archive.org/web/20160617062703/http://www.haberturk.com/gundem/haber/1242996-ak-partide-devir-teslim-gunu |arşivtarihi=17 Haziran 2016 |ölüurl=hayır }}</ref> Yıldırım, yeni hükûmetin öncelikli konusunun yeni anayasa, [[başkanlık sistemi]] de dahil olmak üzere yeni yönetim sistemini belirleyecek değişikliğin olduğunu<ref>{{haber kaynağı |url=http://www.cumhuriyet.com.tr/haber/siyaset/539369/Hukumetin_ilk_hedefi_baskanlik_yolunda_yeni_yonetim_sistemi.html |başlık=Hükümetin ilk hedefi başkanlık yolunda yeni yönetim sistemi |tarih=24 Mayıs 2016 |çalışma=cumhuriyet.com.tr |yayıncı=Cumhuriyet |erişimtarihi=13 Kasım 2016 |arşivurl=https://web.archive.org/web/20190220002814/http://www.cumhuriyet.com.tr/haber/siyaset/539369/Hukumetin_ilk_hedefi_baskanlik_yolunda_yeni_yonetim_sistemi.html |arşivtarihi=20 Şubat 2019 |ölüurl=hayır }}</ref> ve yeni anayasayı gerçekleştirmek için çalışmalara hemen başlanacağını açıkladı.<ref>{{haber kaynağı |url=http://www.haberler.com/binali-yildirim-yeni-anayasa-yi-gerceklestirmek-8466014-haberi/ |başlık=Binali Yıldırım Yeni Anayasa'yı Gerçekleştirmek İçin Çalışmalara Hemen Başlayacağız -2 |tarih=24 Mayıs 2016 |website=haberler.com |erişimtarihi=13 Kasım 2016 |arşivurl=https://web.archive.org/web/20160615074839/http://www.haberler.com/binali-yildirim-yeni-anayasa-yi-gerceklestirmek-8466014-haberi/ |arşivtarihi=15 Haziran 2016 |ölüurl=hayır }}</ref> Ayrıca [[12 Eylül Darbesi]] sırasında yazılmış mevcut anayasayla 2023 Hedeflerine ulaşamayacağını belirterek muhalefet partilerine yeni anayasa çağrısı yaptı.<ref>{{haber kaynağı |url=http://www.cnnturk.com/turkiye/binali-yildirimdan-muhalefete-yeni-anayasa-cagrisi |başlık=Binali Yıldırım'dan muhalefete yeni anayasa çağrısı |tarih=24 Mayıs 2016 |çalışma=cnnturk.com |yayıncı=CNN Türk |erişimtarihi=13 Kasım 2016 |arşivurl=https://web.archive.org/web/20160817200410/http://www.cnnturk.com/turkiye/binali-yildirimdan-muhalefete-yeni-anayasa-cagrisi |arşivtarihi=17 Ağustos 2016 |ölüurl=hayır}}</ref> [[2017 Türkiye anayasa değişikliği referandumu|2017 anayasa değişikliği referandumu]]nda sunulan değişiklikler %51,41 oranında evet oyuyla kabul edildi. Anayasa değişikliğinin kabul edilmesiyle genel seçimlerin artık cumhurbaşkanlığı seçimleri ile aynı gün yapılmasına karar verildi. Cumhurbaşkanı Erdoğan, resmi sonuçlar açıklandıktan sonra AK Parti'ye döneceğini açıkladı.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-erdogan-ile-yildirim-bir-araya-geldi-1815483/|başlık=Arşivlenmiş kopya|erişimtarihi=10 Mart 2021|arşivtarihi=18 Ekim 2021|arşivurl=https://web.archive.org/web/20211018173843/https://www.sozcu.com.tr/2017/gundem/son-dakika-haberi-erdogan-ile-yildirim-bir-araya-geldi-1815483/|ölüurl=hayır}}</ref>
+
+=== Cumhurbaşkanlığı sistemi (2017-günümüz) ===
+[[Dosya:Erdoğan İstanbul 2018 rally.png|küçükresim|upright=0.91|Erdoğan, İstanbul, 2018]]
+[[Dosya:Recep Tayyip Erdoğan 2021 (cropped).jpg|küçükresim|Cumhurbaşkanı ve AK Parti Genel Başkanı Erdoğan, 2021|upright=0.91]]
+[[Dosya:Presidential inauguration of Recep Tayyip Erdogan 10.jpg|küçükresim|upright=0.91|[[Recep Tayyip Erdoğan'ın üçüncü göreve başlama töreni]]]]
+Erdoğan, 2 Mayıs 2017 tarihinde tekrar AK Parti üyesi oldu.<ref>{{Web kaynağı|url=https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-ak-partiye-geri-dondu|başlık=Arşivlenmiş kopya|erişimtarihi=10 Mart 2021|arşivurl=https://web.archive.org/web/20211018173845/https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-ak-partiye-geri-dondu|arşivtarihi=18 Ekim 2021|ölüurl=hayır}}</ref> 21 Mayıs 2017'de yapılan olağanüstü kongreyle yeniden genel başkan seçildi.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-39982063|başlık=Arşivlenmiş kopya|erişimtarihi=10 Mart 2021|arşivurl=https://web.archive.org/web/20211018173845/https://www.bbc.com/turkce/haberler-turkiye-39982063|arşivtarihi=18 Ekim 2021|ölüurl=hayır}}</ref> Böylece cumhuriyet tarihinde [[Celâl Bayar]]'ın ardından siyasi parti üyeliği olan ilk cumhurbaşkanı oldu.
+
+2018 genel seçimlerinde partilerin ittifak yapması için seçim kanunu değiştirildi.<ref>{{Web kaynağı|url=https://www.haberturk.com/secim-ittifaki-kanunu-resmi-gazete-de-yayimlandi-1878315|başlık="Seçim İttifakı" Kanunu Resmi Gazete'de yayımlandı|erişimtarihi=19 Haziran 2021|arşivtarihi=16 Mart 2018|arşivurl=https://web.archive.org/web/20180316100418/https://www.haberturk.com/secim-ittifaki-kanunu-resmi-gazete-de-yayimlandi-1878315|tarih=16 Mart 2018|yayıncı=Habertürk}}</ref> AK Parti ve MHP'den oluşan [[Cumhur İttifakı]] ve CHP ve diğer dört partiden oluşan [[Millet İttifakı]] kuruldu. Parti, 2018 genel seçimlerinde ikinci kez TBMM'deki çoğunluğunu kaybetti. Bu durum, MHP ve BBP'nin desteğiyle meclis çoğunluğunun sağlanmasına neden oldu.<ref name="medyascope">{{Web kaynağı|url=https://medyascope.tv/2019/10/02/iktidarin-yuzde-50-arti-bir-oy-panigi/|başlık=İktidarın yüzde 50 artı bir oy paniği|erişimtarihi=19 Haziran 2021|arşivtarihi=28 Ekim 2019|arşivurl=https://web.archive.org/web/20191028065446/https://medyascope.tv/2019/10/02/iktidarin-yuzde-50-arti-bir-oy-panigi/|tarih=2 Ekim 2019|yayıncı=Medyascope}}</ref> 24 Haziran'da Erdoğan %52,59 ile birinci turda cumhurbaşkanı seçildi. 9 Temmuz'da [[Türkiye başbakanı|başbakanlık makamı]] kaldırıldı. Son başbakan [[Binali Yıldırım]], 12 Temmuz 2018'de yeni dönemin TBMM başkanı seçildi.<ref>{{Web kaynağı|url=https://www.dw.com/tr/tbmmnin-yeni-ba%C5%9Fkan%C4%B1-binali-y%C4%B1ld%C4%B1r%C4%B1m/a-44654320|başlık=TBMM'nin yeni başkanı Binali Yıldırım|erişimtarihi=19 Haziran 2021|arşivtarihi=12 Temmuz 2018|arşivurl=https://web.archive.org/web/20180712205554/https://www.dw.com/tr/tbmmnin-yeni-ba%C5%9Fkan%C4%B1-binali-y%C4%B1ld%C4%B1r%C4%B1m/a-44654320|tarih=12 Temmuz 2018|yayıncı=DW Türkçe}}</ref>
+
+2019 yerel seçimlerinde muhalefet uzun bir süre sonra AK Parti'ye karşı bir başarı elde etti.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/secim2019/|başlık=Seçim Sonuçları: Mart 2019 Yerel Seçim Sonuçları|erişimtarihi=12 Ağustos 2022|arşivtarihi=11 Ağustos 2022|arşivurl=https://web.archive.org/web/20220811181601/https://www.sozcu.com.tr/secim2019/|ölüurl=hayır|dil=Türkçe|çalışma=Sözcü}}</ref> AK Parti tarafından yapılan itirazlar sonucu Millet İttifakı'nın kazandığı [[İstanbul'da Mart 2019 Türkiye yerel seçimleri|İBB seçimleri]], [[Yüksek Seçim Kurulu (Türkiye)|YSK]] tarafından iptal edildi<ref>{{Web kaynağı|url=https://www.birgun.net/haber/istanbul-secimleri-iptal-edildi-255022|başlık=İstanbul seçimleri iptal edildi!|erişimtarihi=12 Ağustos 2022|arşivtarihi=11 Ağustos 2022|arşivurl=https://web.archive.org/web/20220811181310/https://www.birgun.net/haber/istanbul-secimleri-iptal-edildi-255022|ölüurl=hayır|çalışma=birgun.net}}</ref> ve seçimler [[2019 İstanbul ara yerel seçimi|23 Haziran 2019]] tarihinde yeniden yapıldı. Yenilenen seçimde de [[Millet İttifakı]]'nın adayı [[Ekrem İmamoğlu]], AK Parti adayı [[Binali Yıldırım]]'a karşı kazandı ve büyükşehir belediye başkanı oldu.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/secim2019/23-haziran-ibb-secimi|başlık=Seçim Sonuçları: 23 Haziran 2019 İstanbul Büyükşehir Belediyesi Seçim Sonuçları|erişimtarihi=12 Ağustos 2022|arşivtarihi=23 Haziran 2019|arşivurl=https://web.archive.org/web/20190623202938/https://www.sozcu.com.tr/secim2019/23-haziran-ibb-secimi|ölüurl=hayır|dil=Türkçe|çalışma=[[Sözcü (gazete)|Sözcü]]}}</ref> Bu dönemin ardından İmamoğlu, çeşitli anketlerde, kamuoyu tartışmalarında ve siyaset gündeminde Erdoğan'ın muhtemel rakibi olarak değerlendirilmeye başlandı.
+
+Partinin kurucularından ve en uzun süre görev yapmış bakanı olan [[Ali Babacan]], yaptığı açıklamada "Aklen ve kalben bir ayrışma yaşadım" diyerek Temmuz 2019'da parti üyeliğinden istifa etti.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-49279299|başlık=Ali Babacan: Çalışmaları başlatmış bulunmaktayız|erişimtarihi=4 Mayıs 2024|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20240509144156/https://www.bbc.com/turkce/haberler-turkiye-49279299|arşivtarihi=9 Mayıs 2024|ölüurl=hayır}}</ref> Ardından 2020 yılında Babacan liderliğinde [[Demokrasi ve Atılım Partisi]] kuruldu.<ref name="amerikaninsesi.com">{{Web kaynağı|url=https://www.amerikaninsesi.com/a/babacan-erdogan-cumhurbaskani-sert-elestiri-deva-parti/5717436.html|başlık=Babacan'dan Erdoğan'a Sert Eleştiriler|erişimtarihi=17 Şubat 2021|arşivtarihi=29 Aralık 2020|arşivurl=https://web.archive.org/web/20201229173108/https://www.amerikaninsesi.com/a/babacan-erdogan-cumhurbaskani-sert-elestiri-deva-parti/5717436.html|dil=Türkçe|çalışma=Amerika'nin Sesi {{!}} Voice of America - Turkish}}</ref><ref>{{Web kaynağı|url=https://www.amerikaninsesi.com/a/ali-babacan-eski-akplilerle-deva-olma-iddiasiyla-yola-cikti/5320937.html|başlık=Ali Babacan Eski AKP'lilerle Yeni Parti Kuruyor|erişimtarihi=17 Şubat 2021|arşivtarihi=1 Aralık 2020|arşivurl=https://web.archive.org/web/20201201124032/https://www.amerikaninsesi.com/a/ali-babacan-eski-akplilerle-deva-olma-iddiasiyla-yola-cikti/5320937.html|dil=Türkçe|çalışma=Amerika'nin Sesi {{!}} Voice of America - Turkish}}</ref> Kurucuları arasında uzun yıllar AK Parti kabinelerinde bulunan [[Sadullah Ergin]], [[Nihat Ergün]], [[Selma Aliye Kavaf]] ve [[Ahmet Edip Uğur]] yer aldı.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/haber/ali-babacanin-partisinin-kurulus-dilekcesi-icisleri-bakanligina-sunuldu-1726011|başlık=Ali Babacan'ın partisinin kuruluş dilekçesi, İçişleri Bakanlığı'na sunuldu|erişimtarihi=19 Eylül 2021|arşivtarihi=10 Mart 2020|arşivurl=https://web.archive.org/web/20200310181913/https://www.cumhuriyet.com.tr/haber/ali-babacanin-partisinin-kurulus-dilekcesi-icisleri-bakanligina-sunuldu-1726011|dil=Türkçe|çalışma=[[Cumhuriyet (gazete)|Cumhuriyet]]}}</ref>
+
+Partinin eski genel başkanı Davutoğlu, [[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]] sonrasında partisine yönelik eleştirilerde bulundu ve Eylül 2019'da partiden istifa etti.<ref>{{Web kaynağı|url=https://tr.euronews.com/2019/09/13/ahmet-davutoglu-ak-partiden-istifa-etti|başlık=Ahmet Davutoğlu AK Parti üyeliğinden istifa etti|erişimtarihi=19 Ekim 2021|arşivtarihi=18 Aralık 2019|arşivurl=https://web.archive.org/web/20191218195704/https://tr.euronews.com/2019/09/13/ahmet-davutoglu-ak-partiden-istifa-etti|ölüurl=hayır}}</ref> Aralık 2019'da Davutoğlu liderliğinde [[Gelecek Partisi]] kuruldu.
+
+Partinin 2021 yılında düzenlenen 7. Olağan Büyük Kongresinde [[Recep Tayyip Erdoğan]] yeniden genel başkan seçildi.<ref>{{Web kaynağı|url = https://tr.euronews.com/2021/03/24/akp-nin-7-buyuk-olagan-kongresi-baslad-canl|başlık = Erdoğan 7. Büyük Olağan Kongresi'nde AK Parti Genel Başkanı seçildi|erişimtarihi =29 Mart 2021|tarih =24 Mart 2021|dil =Türkçe|çalışma = euronews|arşivurl = https://web.archive.org/web/20210324092143/https://tr.euronews.com/2021/03/24/akp-nin-7-buyuk-olagan-kongresi-baslad-canl|arşivtarihi = 24 Mart 2021}}</ref>
+
+[[2023 Türkiye genel seçimleri|2023 genel seçimlerinde]] Erdoğan, seçimlerin CHP iktidarının sona erdiği [[1950 Türkiye genel seçimleri|14 Mayıs 1950 seçimlerine]] atfen 14 Mayıs'ta yapılacağını belirtti.<ref>{{Web kaynağı|url=https://www.evrensel.net/haber/479757/erdogan-secim-tarihi-icin-14-mayisi-isaret-etti-73-yil-sonra-bir-daha-ayni-gun|başlık=Erdoğan seçim tarihi için 14 Mayıs'ı işaret etti: 73 yıl sonra bir daha aynı gün|erişimtarihi=22 Mart 2023|arşivtarihi=22 Mart 2023|arşivurl=https://web.archive.org/web/20230322130939/https://www.evrensel.net/haber/479757/erdogan-secim-tarihi-icin-14-mayisi-isaret-etti-73-yil-sonra-bir-daha-ayni-gun|tarih=18 Ocak 2023|ölüurl=hayır|yayıncı=Evrensel}}</ref> 10 Mart'ta Erdoğan, milletvekili ve cumhurbaşkanlığı seçimlerinin 14 Mayıs'ta yapılmasına dair karar aldı ve [[T.C. Resmî Gazete|Resmi Gazete]]'de yayımlandı.<ref name="turkiyegzt2">{{Haber kaynağı|url=https://www.turkiyegazetesi.com.tr/politika/erdogan-imzayi-atti-tarih-netlesti-secim-kararnamesi-resmi-gazetede-953345|başlık=Erdoğan imzayı attı, tarih netleşti: Seçim kararnamesi Resmi Gazete'de|erişimtarihi=20 Mart 2023|tarih=10 Mart 2023|çalışma=Türkiye Gazetesi|arşivurl=https://web.archive.org/web/20230320135433/https://www.turkiyegazetesi.com.tr/politika/erdogan-imzayi-atti-tarih-netlesti-secim-kararnamesi-resmi-gazetede-953345|arşivtarihi=20 Mart 2023|ölüurl=hayır}}</ref> "Türkiye Yüzyılı" ve "Türkiye için hemen şimdi" sloganları kampanyanın temasını oluşturdu.<ref name=":4">{{Web kaynağı|url=https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ak-partinin-secim-kampanyasinda-surprizler-var-42240785|başlık=AK Parti’nin seçim kampanyasında sürprizler var|erişimtarihi=15 Mayıs 2023|arşivtarihi=27 Mart 2023|arşivurl=https://web.archive.org/web/20230327040000/https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ak-partinin-secim-kampanyasinda-surprizler-var-42240785|dil=Türkçe|çalışma=[[Hürriyet (gazete)|Hürriyet]]|ad=Abdulkadir|soyadı=SELVİ}}</ref> Erdoğan, seçimleri ikinci turda %52,18'lik bir oy oranı ile kazandı. Yeni döneminin başlamasının ardından Külliye'de yaptığı açılış konuşmasında, [[Türkiye Cumhuriyeti Anayasası|mevcut anayasanın]] [[12 Eylül Darbesi|1980 darbesinin]] ürünü olduğunu ve demokrasiyi güçlendirecek "özgürlükçü, sivil ve kapsayıcı" bir anayasa ile değiştirilmesi gerektiğini söyledi.<ref>{{Web kaynağı|url=http://www.china.org.cn/china/Off_the_Wire/2023-06/04/content_86260709.htm|başlık=Erdogan vows introduction of new constitution in inauguration speech - China.org.cn|erişimtarihi=4 Haziran 2023|arşivtarihi=3 Haziran 2023|arşivurl=https://web.archive.org/web/20230603231206/http://www.china.org.cn/china/Off_the_Wire/2023-06/04/content_86260709.htm|çalışma=china.org.cn}}</ref> Ekim 2023'te partinin 4. Olağanüstü Büyük Kongresi yapıldı. Erdoğan yeniden genel başkan olarak seçildi.<ref name="Kongre2023">{{Web kaynağı|url=https://www.trthaber.com/haber/gundem/ak-partide-yeni-myk-belli-oldu-801498.html|başlık=AK Parti'de yeni MYK belli oldu|erişimtarihi=8 Ekim 2023|tarih=7 Ekim 2023|yayıncı=[[TRT Haber]]|arşivurl=https://web.archive.org/web/20231008014439/https://www.trthaber.com/haber/gundem/ak-partide-yeni-myk-belli-oldu-801498.html|arşivtarihi=8 Ekim 2023|ölüurl=hayır}}</ref>
+
+[[2024 Türkiye yerel seçimleri|2024 yerel seçimlerinde]] 22 yılın ardından parti ilk kez Türkiye genelinde ikinci parti konumuna geldi. Erdoğan, "Partimizin organlarında 31 Mart neticelerini değerlendireceğiz, özeleştirimizi yapacağız. Sandık sonuçları irtifa kaybı yaşadığımızı gösteriyor." dedi.<ref>{{Web kaynağı|url=https://www.indyturk.com/node/712096/haber/erdo%C4%9Fan-sonu%C3%A7lar-irtifa-kayb%C4%B1-ya%C5%9Fad%C4%B1%C4%9F%C4%B1m%C4%B1z%C4%B1-g%C3%B6steriyor-%C3%B6zele%C5%9Ftirimizi-yapaca%C4%9F%C4%B1z|başlık=Erdoğan: Sonuçlar irtifa kaybı yaşadığımızı gösteriyor, özeleştirimizi yapacağız|erişimtarihi=4 Mayıs 2024|tarih=1 Nisan 2024|dil=Türkçe|çalışma=Independent Türkçe|arşivurl=https://web.archive.org/web/20240406122633/https://www.indyturk.com/node/712096/haber/erdo%C4%9Fan-sonu%C3%A7lar-irtifa-kayb%C4%B1-ya%C5%9Fad%C4%B1%C4%9F%C4%B1m%C4%B1z%C4%B1-g%C3%B6steriyor-%C3%B6zele%C5%9Ftirimizi-yapaca%C4%9F%C4%B1z|arşivtarihi=6 Nisan 2024|ölüurl=hayır}}</ref>
+
+2024 seçimlerinin ardından, Cumhur İttifakı'nın küçük ortağı [[Milliyetçi Hareket Partisi|MHP]] lideri Devlet Bahçeli'nin Ekim 2024'te [[Halkların Eşitlik ve Demokrasi Partisi|DEM Parti]] milletvekilleriyle temas kurmasının ardından, hükûmetin desteklediği yeni bir barış girişimi olan [[İkinci Çözüm Süreci|"Terörsüz Türkiye"]] süreci başladı.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/devlet-bahceli-ve-dem-parti-nin-tokalasmasi-ndan-teror-orgutu-pkk-li-bir-grubun-silah-birakmasina-iste-gelinen-noktanin-kronolojisi-2417310|başlık=Devlet Bahçeli ve DEM Parti'nin tokalaşmasından PKK'nin silah bırakmasına: Gelinen noktanın kronolojisi|dil=Türkçe|çalışma=Cumhuriyet|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20260719041310/https://www.cumhuriyet.com.tr/siyaset/devlet-bahceli-ve-dem-parti-nin-tokalasmasi-ndan-teror-orgutu-pkk-li-bir-grubun-silah-birakmasina-iste-gelinen-noktanin-kronolojisi-2417310|arşivtarihi=19 Temmuz 2026|ölüurl=hayır}}</ref>
+
+== İdeoloji ve politikalar ==
+
+=== İdeoloji ===
+
+Adalet ve Kalkınma Partisi'nin ideolojik konumu, kuruluşundan bu yana önemli bir dönüşüm geçirmiştir. Parti, 2001'de [[Millî Görüş]] geleneğinden ayrılan bir kadro tarafından kendini "muhafazakâr demokrat" olarak tanımlayan bir [[Merkez sağ|merkez sağ]] parti olarak kurulmuş; iktidarının ilk döneminde Avrupa Birliği'ne uyum reformlarını ve serbest piyasa ekonomisini öne çıkarmıştır. Siyaset bilimi literatüründe partinin 2011 sonrasında giderek merkezileşen ve milliyetçi-popülist bir çizgiye evrildiği; bu dönüşümün rejim niteliğine etkisinin ise tartışma konusu olduğu belirtilir.
+
+==== Kuruluş ve muhafazakâr demokrasi (2001-2011) ====
+Parti, 14 Ağustos 2001'de büyük ölçüde kapatılan [[Fazilet Partisi]]'nin "yenilikçi" kanadından gelen kadrolarca kuruldu. Kurucu kadro, [[Millî Görüş]] hareketinin siyasal İslamcı çizgisinden ayrıştığını vurgulayarak partiyi "muhafazakâr demokrasi" kavramıyla tanımladı. Siyaset bilimci Ergun Özbudun'a göre bu adlandırma, siyasal İslam'ın ılımlı bir muhafazakâr demokrat partiye evrilmesini temsil eder.<ref>{{Akademik dergi kaynağı|soyadı=Özbudun|ad=Ergun|başlık=From Political Islam to Conservative Democracy: The Case of the Justice and Development Party in Turkey|çalışma=South European Society and Politics|cilt=11|sayı=3-4|sayfalar=543-557|tarih=2006|doi=10.1080/13608740600856561|dil=İngilizce}}</ref> Yeşim Arat ise partinin ilk iki döneminde (2002-2011) sağ popülist bir parti olmaktan çok, İslamcı-muhafazakâr seçmeni ana akım siyasete taşıyan; neoliberal ekonomiyi ve Avrupa Birliği'ne dayalı demokratikleşmeyi benimseyen merkez sağ bir parti olarak işlev gördüğünü belirtir.<ref>{{Web kaynağı|url=https://www.opendemocracy.net/en/rethinking-populism/gender-and-authoritarian-populism-turkey-two-phases-akp-rule/|başlık=Gender and authoritarian populism in Turkey: the two phases of AKP rule|ad=Yeşim|soyadı=Arat|çalışma=openDemocracy|tarih=3 Şubat 2020|dil=İngilizce|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20230428030441/https://www.opendemocracy.net/en/rethinking-populism/gender-and-authoritarian-populism-turkey-two-phases-akp-rule/|arşivtarihi=28 Nisan 2023|ölüurl=hayır}}</ref> Bu dönemde partinin öne çıkardığı AB uyum reformları ve askerî vesayetin geriletilmesi, aşağıda "Adalet ve hukuk politikaları" başlığında ayrıntılandırılmıştır.
+
+==== Merkezileşme ve otoriterleşme tartışmaları (2011 sonrası) ====
+2011 genel seçimlerinin ardından partinin söylemi giderek merkezîleşmiş; 2013 [[Gezi Parkı olayları]] ve 2016 [[15 Temmuz darbe girişimi]] sonrasında bu eğilim belirginleşmiştir. [[Berk Esen]] ve [[Şebnem Gümüşçü]] gibi siyaset bilimciler, bu süreçte Türkiye'nin siyasal rejiminin vesayetçi demokrasiden [[Rekabetçi otoriteryanizm|rekabetçi otoriter]] bir yapıya doğru evrildiğini ileri sürer.<ref>{{Akademik dergi kaynağı|soyadı=Esen|ad=Berk|soyadı2=Gümüşçü|ad2=Şebnem|başlık=Rising competitive authoritarianism in Turkey|çalışma=Third World Quarterly|cilt=37|sayı=9|sayfalar=1581-1606|tarih=2016|doi=10.1080/01436597.2015.1135732|dil=İngilizce}}</ref> Bu görüşü savunan yazarlar, 2010'ların ortasından itibaren seçimlerin giderek eşitsiz koşullarda yapıldığını savunur. Bazı araştırmacılar partinin bu yönelimini, kamu kaynaklarının dağıtımına dayalı kliyentelist ilişkilerle açıklar.<ref>{{Akademik dergi kaynağı|soyadı=Esen|ad=Berk|soyadı2=Gümüşçü|ad2=Şebnem|başlık=Why did Turkish democracy collapse? A political economy account of AKP's authoritarianism|çalışma=Party Politics|cilt=27|sayı=6|sayfalar=1075-1091|tarih=2021|doi=10.1177/1354068820923722|dil=İngilizce}}</ref> Buna karşılık hükûmet, söz konusu dönemde yapılan düzenlemeleri "millî iradenin güçlendirilmesi" ve karar alma süreçlerinin hızlandırılması olarak sunmuştur. Aynı dönemde 2003-2005 yerel yönetim reformlarıyla başlayan âdemi merkeziyetçi gündemin de tersine döndüğü; yetkilerin yeniden merkezîleştiği belirtilir.<ref>{{Web kaynağı|url=https://birikimdergisi.com/guncel/11619/erdogan-ve-akp-turkiye-siyasetini-nasil-domine-etti-esraf-siyasetinden-ulusal-makine-siyasetine|başlık=Erdoğan ve AKP Türkiye Siyasetini Nasıl Domine Etti? "Eşraf Siyaseti"nden "Ulusal Makine Siyaseti"ne|ad=Toygar Sinan|soyadı=Baykan|ad2=Murat|soyadı2=Somer|çalışma=Birikim|tarih=29 Ocak 2024|dil=Türkçe|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20260521014647/https://birikimdergisi.com/guncel/11619/erdogan-ve-akp-turkiye-siyasetini-nasil-domine-etti-esraf-siyasetinden-ulusal-makine-siyasetine|arşivtarihi=21 Mayıs 2026|ölüurl=hayır}}</ref>
+
+==== Milli ve yerli söylemi (2016-günümüz) ====
+2016 yılındaki [[15 Temmuz darbe girişimi]] ve ardından kurulan [[Cumhur İttifakı]] süreciyle birlikte, partinin ideolojik söyleminde 'Milli ve Yerli' vurgusu ön plana çıkmıştır. Bu dönemde muhafazakârlık, Türk milliyetçiliği ile daha entegre bir yapıya bürünmüş; dış politikadaki 'anti-emperyalist' söylem ve savunma sanayisindeki atılımlar bu yeni ideolojik kimliğin temel sütunları olarak sunulmuştur.<ref>{{Kitap kaynağı|url=https://books.google.com.tr/books/about/AK_Parti_nin_15_Y%C4%B1l%C4%B1_Siyaset.html?id=Pk9UDwAAQBAJ&redir_esc=y|başlık=AK Parti’nin 15 Yılı: Siyaset|dil=Türkçe|yayıncı=SET Vakfı İktisadi İşletmesi|ad=Ali|soyadı=Aslan|isbn=978-975-2459-62-5|ad2=Nebi|soyadı2=miş}}</ref>
+
+==== Erdoğanizm ve lider odaklı siyaset ====
+Siyaset bilimciler, AK Parti'nin ideolojik dönüşümünü liderin karizmatik otoritesiyle birleşen bir 'popülist muhafazakârlık' veya '[[Erdoğanizm]]' olarak tanımlamaktadır. Bu kavram; devletin yeniden yapılandırılması, geleneksel değerlerin kamusal alanda daha görünür kılınması ve doğrudan halk iradesine dayanan bir yönetim anlayışını ifade etmektedir.<ref>{{Akademik dergi kaynağı|soyadı=Yılmaz|ad=İhsan|başlık=The New Turkey: Erdoganism and the Emergence of the Post-Kemalist State|tarih=2021|dil=İngilizce}}</ref>
+
+==== Din-devlet ilişkilerinde yeni dönem ====
+[[Dosya:Istanbul asv2020-02 img45 Hagia Sophia.jpg|küçükresim|[[Ayasofya]]]]
+Partinin laiklik anlayışı, dinin kamusal alandaki görünürlüğünü artıran bir yönde gelişmiştir. Ayasofya'nın ibadete açılması (2020) ve [[Diyanet İşleri Başkanlığı]]'nın protokoldeki yerinin yükseltilmesi gibi adımlar, AK Parti'nin dindar nesil yetiştirme hedefi ve 'muhafazakâr toplum' vizyonunun somut göstergeleri olarak değerlendirilmiştir.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/ayasofya-camii/ayasofya-i-kebir-cami-i-serifi-86-yil-sonra-yeniden-ibadete-aciliyor-/1920694|başlık=Ayasofya-i Kebir Cami-i Şerifi'nde hazırlıklar tamamlandı|erişimtarihi=3 Ocak 2026|çalışma=[[Anadolu Ajansı]]|arşivurl=https://web.archive.org/web/20250323144345/https://www.aa.com.tr/tr/ayasofya-camii/ayasofya-i-kebir-cami-i-serifi-86-yil-sonra-yeniden-ibadete-aciliyor-/1920694|arşivtarihi=23 Mart 2025|ölüurl=hayır}}</ref>
+
+=== Adalet ve hukuk politikaları ===
+{{Ana|Türkiye'de yargı teşkilatı}}
+
+AK Parti'nin adalet politikaları; iktidarın ilk yıllarında [[Avrupa Birliği]] uyum yasaları çerçevesinde askeri vesayetin geriletilmesi ve temel hakların genişletilmesi üzerine kuruluyken, 2010 sonrası dönemde yargı bürokrasisindeki güç mücadeleleri ve 15 Temmuz darbe girişimi sonrası güvenlik eksenli politikalara yönelmiştir.
+
+==== AB reformları ve askeri vesayetin geriletilmesi (2002-2010) ====
+Parti, iktidara geldiği ilk dönemde "[[Kopenhag Kriterleri]]"ne uyum sağlamak amacıyla kapsamlı anayasa değişiklikleri yapmıştır. Bu süreçte [[Devlet Güvenlik Mahkemeleri]] (DGM) kaldırılmış, [[Millî Güvenlik Kurulu (Türkiye)|Milli Güvenlik Kurulu]]'nun (MGK) sivil otorite üzerindeki etkisi azaltılmış ve idam cezası anayasadan tamamen çıkarılmıştır.<ref>{{Web kaynağı|url=https://ab.gov.tr/files/AB_Iliskileri/AdaylikSureci/IlerlemeRaporlari/Turkiye_Ilerleme_Rap_2004.pdf|başlık=Wayback Machine|erişimtarihi=3 Ocak 2026|çalışma=www.ab.gov.tr|arşivurl=https://web.archive.org/web/20250708235704/https://ab.gov.tr/files/AB_Iliskileri/AdaylikSureci/IlerlemeRaporlari/Turkiye_Ilerleme_Rap_2004.pdf|arşivtarihi=8 Temmuz 2025|ölüurl=evet}}</ref> Bu reformlar, o dönemde liberal çevreler ve Batı dünyası tarafından "Sessiz Devrim" olarak nitelendirilerek desteklenmiştir.
+
+==== 2010 referandumu ve yargısal dönüşüm ====
+{{Ana|2010 Türkiye anayasa değişikliği referandumu}}
+
+12 Eylül 2010 referandumu, yargı sisteminde bir dönüm noktası olmuştur. [[Anayasa Mahkemesi (Türkiye)|Anayasa Mahkemesi]] ve [[HSYK]]'nın yapısını değiştiren bu düzenlemeler, hükûmet tarafından "yargı vesayetini bitirmek" ve "daha demokratik bir yapı kurmak" olarak sunulmuştur. Ancak muhalefet partileri ve hukukçular, bu değişikliklerin yargıyı siyasileştireceği ve [[Gülen Hareketi]]'nin yargı içindeki yapılanmasının önünü açacağı uyarısında bulunmuştur.<ref>{{PDF|1=https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2010)042-e}}</ref> İlerleyen yıllarda, [[Ergenekon davaları|Ergenekon]] ve [[Balyoz darbe planı iddiası|Balyoz]] gibi davalardaki hukuksuzluklar ve "kumpas" iddiaları üzerine hükûmet, 2010 referandumuyla kurulan yapının yanlışlığını kabul ederek HSYK yapısını 2014'te tekrar değiştirmiştir.<ref>{{Web kaynağı|url=https://www.ulusal.com.tr/haber/8457417/erdoganin-aldatildik-aciklamasini-kumpas-magdurlari-degerlendirdi|başlık=Erdoğan'ın "aldatıldık" açıklamasını kumpas mağdurları değerlendirdi|erişimtarihi=3 Ocak 2026|tarih=20 Mart 2015|dil=Türkçe|çalışma=Ulusal Kanal|ad=Ulusal|soyadı=Kanal|arşivtarihi=6 Ocak 2026|arşivurl=https://web.archive.org/web/20260106070834/https://www.ulusal.com.tr/haber/8457417/erdoganin-aldatildik-aciklamasini-kumpas-magdurlari-degerlendirdi|ölüurl=hayır}}</ref>
+
+==== 15 Temmuz sonrası ve OHAL dönemi ====
+{{Ana|15 Temmuz Darbe Girişimi|2016-18 Türkiye tasfiyeleri}}
+
+15 Temmuz darbe girişiminin ardından ilan edilen Olağanüstü Hal (OHAL) kapsamında çıkarılan Kanun Hükmünde Kararnameler (KHK) ile yargı, ordu ve bürokraside binlerce kişi "terör örgütü iltisakı" gerekçesiyle ihraç edilmiştir. Bu dönemde yargının bağımsızlığı ve savunma hakkı konularında uluslararası kuruluşlardan ([[Venedik Komisyonu]], AİHM) sert eleştiriler gelmiştir. Özellikle uzun tutukluluk süreleri ve [[Selahattin Demirtaş]] ile [[Osman Kavala]] davalarında [[Avrupa İnsan Hakları Mahkemesi]] (AİHM) kararlarının uygulanmaması, Türkiye'nin [[Avrupa Konseyi]] ile ilişkilerini germiştir.<ref>{{Web kaynağı|url=https://hudoc.echr.coe.int/eng#%7B%22itemid%22:%5B%22001-199515%22%5D%7D|başlık=HUDOC - European Court of Human Rights|erişimtarihi=3 Ocak 2026|çalışma=hudoc.echr.coe.int|arşivurl=https://web.archive.org/web/20250603201945/https://hudoc.echr.coe.int/eng#%7B%22itemid%22:%5B%22001-199515%22%5D%7D|arşivtarihi=3 Haziran 2025|ölüurl=hayır}}</ref>
+
+==== Yargı reformu stratejileri ve güncel durum ====
+Hükûmet, adalet sistemindeki eleştirilere yanıt olarak 2019 ve 2021 yıllarında "Yargı Reformu Strateji Belgesi" ve "İnsan Hakları Eylem Planı"nı açıklamıştır. Bu paketlerle ifade özgürlüğünün genişletilmesi ve tutukluluğun istisnai olması hedeflense de, uygulamadaki sorunlar devam etmektedir. Dünya Adalet Projesi (WJP) tarafından yayınlanan "Hukukun Üstünlüğü Endeksi"nde Türkiye, 2014 yılında 59. sıradayken, 2023 yılında 142 ülke arasında 117. sıraya gerilemiştir.<ref>{{Web kaynağı|url=https://worldjusticeproject.org/rule-of-law-index|başlık=WJP Rule of Law Index|erişimtarihi=3 Ocak 2026|dil=İngilizce|çalışma=worldjusticeproject.org|arşivurl=https://web.archive.org/web/20230208043428/https://worldjusticeproject.org/rule-of-law-index/|arşivtarihi=8 Şubat 2023|ölüurl=hayır}}</ref> [[Türkiye Barolar Birliği]] ve hukukçular, yargı bağımsızlığının zedelendiğini ve "[[Can Atalay]]" örneğinde olduğu gibi Anayasa Mahkemesi kararlarının yerel mahkemelerce uygulanmamasının "hukuk güvenliği" sorununu derinleştirdiğini savunmaktadır.<ref>{{Web kaynağı|url=https://www.barobirlik.org.tr/Haberler/tbb-baskani-erinc-sagkan-yargi-bagimsizligi-yoksa-hukuk-guvenligi-de-yoktur-84499|başlık=TBB Başkanı Sağkan: Yargı bağımsızlığı yoksa hukuk güvenliği de yoktur|yayıncı=Türkiye Barolar Birliği|tarih=1 Eylül 2023}}</ref>
+
+=== Eğitim politikaları ===
+AK Parti iktidarı döneminde eğitim politikaları; altyapı yatırımları, teknoloji entegrasyonu, zorunlu eğitim süresinin uzatılması ve katsayı gibi engellerin kaldırılması ekseninde şekillenmiştir.
+
+==== Altyapı ve erişim ====
+{{Ana|Türkiye'de eğitim}}
+
+Parti, iktidara geldiği 2002 yılından itibaren bütçeden eğitime ayrılan payı düzenli olarak artırmış ve Milli Eğitim Bakanlığı bütçesi çoğu yıl birinci sırada yer almıştır. "Her ile bir üniversite" politikası kapsamında, 2002'de 76 olan üniversite sayısı, vakıf üniversitelerinin de teşvikiyle 2023 itibarıyla 208'e ulaşmıştır.<ref>{{Web kaynağı|url=https://www.dogrulukpayi.com/iddia-kontrolu/yilmaz-tunc/recep-tayyip-erdogan-dan-once-bugunku-universitelerin-4-te-3-u-yoktu-hali-hazirda-yurtlarin-4-te-3-u-yoktu|başlık=AK Parti İktidarı Öncesi Türkiye'deki Üniversite Ve Yurtlar|erişimtarihi=2 Ocak 2026|dil=tr-TR|çalışma=www.dogrulukpayi.com|ad=Emincan|soyadı=Yüksel|arşivurl=https://web.archive.org/web/20250712225538/https://www.dogrulukpayi.com/iddia-kontrolu/yilmaz-tunc/recep-tayyip-erdogan-dan-once-bugunku-universitelerin-4-te-3-u-yoktu-hali-hazirda-yurtlarin-4-te-3-u-yoktu|arşivtarihi=12 Temmuz 2025|ölüurl=hayır}}</ref> 2003-2004 eğitim yılından itibaren ilköğretim ve lise düzeyindeki tüm öğrencilere ders kitapları ücretsiz dağıtılmaya başlanmıştır.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/egitim/ucretsiz-ders-kitabina-13-yilda-yaklasik-4-milyar-lira-/523886|başlık=Ücretsiz ders kitabına 13 yılda yaklaşık 4 milyar lira|erişimtarihi=2 Ocak 2026|çalışma=[[Anadolu Ajansı]]|arşivurl=https://web.archive.org/web/20160427010645/http://aa.com.tr/tr/egitim/ucretsiz-ders-kitabina-13-yilda-yaklasik-4-milyar-lira-/523886|arşivtarihi=27 Nisan 2016|ölüurl=hayır}}</ref>  Ayrıca '''Fatih Projesi''' ile okullara akıllı tahta ve tablet dağıtımı yapılarak eğitimde teknoloji kullanımı yaygınlaştırılmaya çalışılmıştır.<ref>{{PDF|https://dergipark.org.tr/tr/download/article-file/811471}}</ref>
+
+==== Yapısal reformlar ve 4+4+4 sistemi ====
+{{Ana|4+4+4 Eğitim Sistemi}}
+
+Eğitim sistemindeki en köklü değişikliklerden biri 2012 yılında hayata geçirilen ve kamuoyunda "4+4+4" olarak bilinen düzenlemedir. Bu kanunla kesintisiz 8 yıllık eğitim yerine, kademeli 12 yıllık zorunlu eğitim sistemine geçilmiştir. Bu sistemle birlikte İmam Hatip Ortaokulları yeniden açılmış ve mesleki eğitime yönlendirmenin daha erken yaşta yapılması hedeflenmiştir.<ref>{{Web kaynağı|url=https://ebs.org.tr/haber/soru-ve-cevaplarla-444-egitim-sistemi-ne-getiriyor-neler-olmali/1400|başlık=Soru ve Cevaplarla 4+4+4 Egitim Sistemi Ne Getiriyor, Neler Olmali|erişimtarihi=2 Ocak 2026|dil=Türkçe|çalışma=Eğitim-Bir-Sen|arşivtarihi=6 Ocak 2026|arşivurl=https://web.archive.org/web/20260106055634/https://ebs.org.tr/haber/soru-ve-cevaplarla-444-egitim-sistemi-ne-getiriyor-neler-olmali/1400|ölüurl=hayır}}</ref>
+
+==== Katsayı ve başörtüsü düzenlemeleri ====
+{{Ana|28 Şubat Süreci}}
+
+28 Şubat sürecinde uygulanan, meslek lisesi ve İmam Hatip Lisesi mezunlarının üniversiteye girişini zorlaştıran katsayı uygulaması 2011 yılında tamamen kaldırılmıştır.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/egitim/katsayi-uygulamasi-kalkti/391416|başlık=Katsayı uygulaması kalktı|erişimtarihi=2 Ocak 2026|çalışma=[[Anadolu Ajansı]]}}</ref> Ayrıca kamuda ve üniversitelerde başörtüsü yasağı kaldırılmıştır. Bu dönemde kız çocuklarının okullaşma oranlarında (özellikle "Haydi Kızlar Okula" gibi kampanyalarla) belirgin artışlar kaydedilmiştir.<ref>{{PDF|https://egitimreformugirisimi.org/wp-content/uploads/2022/12/EIR2022.pdf}}</ref>
+
+==== Sınav sistemleri ve eleştiriler ====
+AK Parti döneminde liselere ve üniversitelere giriş sınavlarında çok sayıda değişikliğe gidilmiştir ([[ÖSS]], [[Yükseköğretime Geçiş Sınavı|YGS]]-[[Lisans Yerleştirme Sınavı|LYS]], [[Yükseköğretim Kurumları Sınavı|YKS]]; [[OKS]], [[Seviye Belirleme Sınavı|SBS]], [[Temel Eğitimden Ortaöğretime Geçiş Sistemi|TEOG]], [[LGS]]). Sınav sistemindeki bu istikrarsızlık ve PISA (Uluslararası Öğrenci Değerlendirme Programı) testlerinde Türkiye'nin sıralamasındaki dalgalanmalar, "eğitimde nitelik" tartışmalarını beraberinde getirmiştir.<ref>{{Web kaynağı|url=https://www.dogrulukpayi.com/bulten/turkiye-nin-pisa-karnesi-ne-durumda|başlık=Türkiye’nin PISA Karnesi Ne Durumda? {{!}} Doğruluk Payı|erişimtarihi=2 Ocak 2026|dil=Türkçe|çalışma=www.dogrulukpayi.com|ad=Bilgehan|soyadı=Bilge|arşivurl=https://web.archive.org/web/20250914213208/https://www.dogrulukpayi.com/bulten/turkiye-nin-pisa-karnesi-ne-durumda|arşivtarihi=14 Eylül 2025|ölüurl=hayır}}</ref> Eğitim Reformu Girişimi (ERG) ve çeşitli sendikalar, niceliksel artışların (bina ve üniversite sayısı) niteliksel artışla (eğitim kalitesi, atanamayan öğretmenler sorunu) paralel gitmediği yönünde eleştirilerde bulunmuştur.<ref>{{Web kaynağı|url=https://www.ogretmenimdergisi.com/erg-egitim-izleme-raporu-aciklandi/|başlık=ERG EĞİTİM İZLEME RAPORU AÇIKLANDI – Öğretmenim Dergisi|erişimtarihi=2 Ocak 2026|dil=Türkçe|arşivurl=https://web.archive.org/web/20251009203157/https://www.ogretmenimdergisi.com/erg-egitim-izleme-raporu-aciklandi/|arşivtarihi=9 Ekim 2025|ölüurl=evet}}</ref>
+
+=== Sağlık ve sosyal güvenlik politikaları ===
+{{Ana|Türkiye'de sağlık}}
+
+AK Parti'nin sağlık politikaları, 2003 yılında başlatılan Sağlıkta Dönüşüm Programı (SDP) etrafında şekillenmiştir. Bu programın temel amacı; sağlık hizmetlerine erişimi kolaylaştırmak, kurumlar arası farklılıkları gidermek ve genel sağlık sigortası kapsamını genişletmektir.
+
+==== Sağlıkta Dönüşüm Programı ve yapısal reformlar ====
+Parti iktidara geldiğinde, farklı kurumlar ([[Sosyal Sigortalar Kurumu|SSK]], [[Bağ-Kur]], [[Emekli Sandığı]]) tarafından yürütülen parçalı yapıyı sonlandırarak [[Sosyal Güvenlik Kurumu]] (SGK) çatısı altında birleştirmiştir.<ref>{{Akademik dergi kaynağı|url=https://iris.who.int/handle/10665/330325|başlık=Turkey: health system review|tarih=31 Aralık 2011|dil=İngilizce|ad=World Health Organization Regional Office for|soyadı=Europe|issn=1817-6127|ad2=European Observatory on Health Systems and|ad3=Mehtap|ad4=Salih|ad5=Bayram|ad6=Sabahattin|ad7=Anna|ad8=Cristina|soyadı2=Policies|soyadı3=Tatar|soyadı4=Mollahaliloğlu|soyadı5=Şahin|soyadı6=Aydın|soyadı7=Maresso|soyadı8=Hernández-Quevedo|erişim-tarihi=20 Ocak 2026|arşivurl=https://web.archive.org/web/20240911163106/https://iris.who.int/handle/10665/330325|arşivtarihi=11 Eylül 2024|ölüurl=hayır}}</ref> Bu süreçte SSK hastaneleri Sağlık Bakanlığı'na devredilmiş ve hastaların tüm hastanelerden faydalanmasının önü açılmıştır. 2012 yılında yürürlüğe giren [[Genel sağlık sigortası|Genel Sağlık Sigortası]] (GSS) ile tüm vatandaşların sosyal güvence kapsamına alınması hedeflenmiştir.<ref>{{PDF|https://dergipark.org.tr/tr/download/article-file/84821}}</ref>
+
+==== Altyapı ve teknoloji ====
+{{Ana|Şehir hastanesi}}
+
+AK Parti döneminde sağlık altyapısında niceliksel bir artış yaşanmıştır. 2002 yılında 1.156 olan toplam hastane sayısı, 2020'li yılların başında 1.500'ün üzerine çıkmıştır.<ref>{{PDF|https://dosyasb.saglik.gov.tr/Eklenti/48054/0/siy202205042024pdf.pdf}}</ref> 2017 yılından itibaren hayata geçirilen Şehir Hastaneleri, Kamu-Özel İşbirliği (KÖİ) modeliyle inşa edilmiştir. Yüksek kapasiteli bu hastaneler, işletme modelleri ve bütçe üzerindeki yükleri nedeniyle siyasi tartışmalara konu olmuştur.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-50570562|başlık=Şehir Hastaneleri: Bugüne kadar ne kadar harcama yapıldı, sağlık hizmetlerine etkisi ne oldu?|erişimtarihi=2 Ocak 2026|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20240907160356/https://www.bbc.com/turkce/haberler-turkiye-50570562|arşivtarihi=7 Eylül 2024|ölüurl=hayır}}</ref> Ayrıca, 2015 yılında başlatılan [[e-Nabız]] sistemi ile sağlık kayıtlarının dijitalleşmesi sağlanmıştır.
+
+==== Anne ve çocuk sağlığı verileri ====
+Bebek ölüm hızında önemli düşüş kaydedilmiştir. 2002 yılında binde 31,5 olan bebek ölüm hızı, 2022 verilerine göre binde 9,2'ye kadar gerilemiştir.<ref>{{Akademik dergi kaynağı|url=https://www.oecd.org/en/publications/health-at-a-glance-2023_7a7afb35-en.html|başlık=Health at a Glance 2023: OECD Indicators|tarih=7 Kasım 2023|dil=İngilizce|çalışma=Health at a Glance|cilt=2023|soyadı=OECD|doi=10.1787/7a7afb35-en|erişim-tarihi=20 Ocak 2026|arşivurl=https://web.archive.org/web/20260117063126/https://www.oecd.org/en/publications/health-at-a-glance-2023_7a7afb35-en.html|arşivtarihi=17 Ocak 2026|ölüurl=hayır}}</ref>
+
+==== Eleştiriler ve zorluklar ====
+Sağlık politikaları, hizmete erişimi artırmakla birlikte çeşitli eleştirilere konu olmuştur. Özellikle son yıllarda sağlık çalışanlarına yönelik şiddet olaylarının artması, "performans sistemi"nin hekimlerin iş yükünü artırması ve kamuoyunda "MHRS randevu krizi" olarak bilinen poliklinik yoğunlukları eleştiri odağı olmuştur. [[Türk Tabipleri Birliği]] (TTB) gibi kuruluşlar, sağlık sisteminin "ticarileştiği" ve koruyucu sağlık hizmetlerinin ikinci plana itildiği yönünde eleştiriler sunmuştur.<ref>{{Web kaynağı|url=https://www.ttb.org.tr/userfiles/files/saglikta-siddet-calistayi-calistay-raporu.pdf|başlık=Wayback Machine|erişimtarihi=2 Ocak 2026|çalışma=www.ttb.org.tr|arşivurl=https://web.archive.org/web/20250327195558/https://www.ttb.org.tr/userfiles/files/saglikta-siddet-calistayi-calistay-raporu.pdf|arşivtarihi=27 Mart 2025|ölüurl=hayır}}</ref><ref>{{PDF|https://www.tuik.gov.tr/media/announcements/yasam_memnuniyeti_arastirmasi.pdf}}</ref>
+
+=== Ekonomi politikaları ===
+AK Parti'nin ekonomi politikaları, parti programında vurgulanan ekonomik liberalizm ve serbest piyasa ekonomisi çerçevesinde; mali disiplin, özelleştirme ve yabancı sermaye çekme stratejileri üzerine kurulmuştur.
+
+==== 2002-2013 dönemi ====
+Parti iktidara geldiğinde, 2001 krizi sonrası başlatılan reform programını sürdürmüştür. Bu dönemde enflasyon tek haneli rakamlara inmiş, paradan altı sıfır atılmış ve doğrudan yabancı sermaye girişi önemli ölçüde artmıştır.<ref>{{PDF|https://file.setav.org/Files/Pdf/20130304144535_ak_parti_donemi_turkiye_ekonomisi_web.pdf}}</ref> Ekonomist [[Mahfi Eğilmez]]'in analizlerine göre, 2002-2024 yılları arasında GSYH dolar bazında yaklaşık 5,7 kat artış göstermiş, ancak bu büyüme önemli ölçüde borçlanma ve özelleştirme gelirleriyle desteklenmiştir.<ref>{{Web kaynağı|url=https://www.dunya.com/ekonomi/mahfi-egilmezden-carpici-enflasyon-tahmini-haberi-809654|başlık=Mahfi Eğilmez'den çarpıcı enflasyon tahmini|erişimtarihi=2 Ocak 2026|tarih=1 Ocak 2026|dil=Türkçe|çalışma=Dünya Gazetesi|ad=Dünya|soyadı=Gazetesi|arşivurl=https://web.archive.org/web/20260102015446/https://www.dunya.com/ekonomi/mahfi-egilmezden-carpici-enflasyon-tahmini-haberi-809654|arşivtarihi=2 Ocak 2026|ölüurl=hayır}}</ref>
+
+==== Özelleştirme ve altyapı yatırımları ====
+Parti tüzüğünde belirtilen "devletin ekonomideki payının azaltılması" ilkesi doğrultusunda kapsamlı özelleştirmeler yapılmıştır. Türk Telekom, TÜPRAŞ, PETKİM ve çeşitli şeker fabrikaları gibi stratejik kurumlar özelleştirilmiş; 2002-2023 yılları arasında yaklaşık 71 milyar dolarlık özelleştirme gerçekleştirilmiştir.<ref>{{PDF|https://dergipark.org.tr/tr/download/article-file/3446523}}</ref> Bu kaynaklar çoğunlukla ulaştırma, sağlık ve enerji gibi altyapı projelerine aktarılmıştır. '''Kamu-Özel İşbirliği (KÖİ)''' modeli ile inşa edilen köprü, otoyol ve havalimanları ("Mega Projeler") bu dönemin karakteristik özelliği olmuştur.<ref>{{PDF|https://dergipark.org.tr/tr/download/article-file/3193305}}</ref>
+
+==== Yeni Ekonomi Modeli ve enflasyon (2018-günümüz) ====
+{{Ana|Türkiye ekonomik krizi (2018-günümüz)}}
+
+2018'de Cumhurbaşkanlığı Hükûmet Sistemi'ne geçişle birlikte ekonomi yönetiminde daha merkezi bir yapıya gidilmiştir. "Düşük faiz, düşük enflasyon" teorisi çerçevesinde şekillenen '''"Türkiye Ekonomi Modeli"''' ile ihracat odaklı büyüme hedeflenmiştir.<ref>{{Web kaynağı|url=https://tr.euronews.com/2022/10/03/yeni-ekonomi-modeli-1-yasinda-faiz-enflasyon-dolar-kuru-ve-dis-ticaret-acigi-nasil-degisti|başlık=Yeni Ekonomi Modeli 1 yaşında: Faiz, enflasyon, Dolar kuru ve dış ticaret açığı nasıl değişti?|tarih=3 Ekim 2022|dil=Türkçe|çalışma=euronews|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20240719053340/https://tr.euronews.com/2022/10/03/yeni-ekonomi-modeli-1-yasinda-faiz-enflasyon-dolar-kuru-ve-dis-ticaret-acigi-nasil-degisti|arşivtarihi=19 Temmuz 2024|ölüurl=hayır}}</ref> Ancak bu süreçte Türk Lirası'nda yaşanan değer kayıpları, döviz rezervlerindeki azalma ve 2021 sonrasında hızla yükselen enflasyon, ekonomideki temel tartışma alanlarını oluşturmuştur. 2023 genel seçimleri sonrası ise ekonomi yönetiminde rasyonel politikalara dönüş kapsamında sıkılaşma adımları (faiz artışları) atılmaya başlanmıştır.<ref>{{Web kaynağı|url=https://tepav.org.tr/tr/blog/s/7711|başlık=2026’da ekonomimizde olası gelişmeler (1)|erişimtarihi=2 Ocak 2026|dil=Türkçe|çalışma=tepav.org.tr|arşivtarihi=6 Ocak 2026|arşivurl=https://web.archive.org/web/20260106144927/https://tepav.org.tr/tr/blog/s/7711|ölüurl=hayır}}</ref>
+
+=== Dış politika ===
+AK Parti'nin dış politikası iktidarı boyunca önemli değişimler geçirmiştir. Başlangıçta Avrupa Birliği üyeliği ve komşularla iş birliğine dayalı bir çizgi izlenmiş, 2011 sonrasında ise güvenlik eksenli ve çok yönlü bir yaklaşım öne çıkmıştır.
+
+==== Avrupa Birliği ve Batı ile ilişkiler ====
+[[Dosya:Flickr - europeanpeoplesparty - EPP Congress Bonn (836).jpg|küçükresim|2009 yılında Bonn'da düzenlenen Avrupa Halk Partisi (European People's Party - EPP) Kongresi Bundeshaus'un genel kurul salonunda (Plenarsaal) gerçekleşti.
+
+AK Parti Genel Başkanı Recep Tayyip Erdoğan, Aralık 2009'da bu etkinlikte yer aldı.]]İktidarının ilk yıllarında AK Parti, Türkiye'nin Avrupa Birliği (AB) üyeliğini stratejik bir hedef olarak belirlemiş ve 2005 yılında tam üyelik müzakerelerinin başlamasını sağlamıştır.<ref>{{Web kaynağı|url=https://www.ab.gov.tr/111.html|başlık=Türkiye-AB İlişkilerinin Tarihçesi|erişimtarihi=2 Ocak 2026|çalışma=www.ab.gov.tr|arşivurl=https://web.archive.org/web/20250912070735/https://www.ab.gov.tr/111.html|arşivtarihi=12 Eylül 2025|ölüurl=evet}}</ref> Bu dönemde parti, [[Avrupa Halk Partisi]] (EPP) bünyesinde gözlemci üye olarak yer almıştır. Ancak, müzakere sürecinin tıkanması ve AB ile yaşanan görüş ayrılıkları sonucunda 2013 yılında EPP'den ayrılarak [[Avrupa Muhafazakârlar ve Reformcular Partisi|Avrupa Muhafazakârlar ve Reformcular İttifakı]]'na (ECR) katılmıştır. Bu hamle, partinin AB vizyonunun "sulandığı" yönünde eleştirilere neden olmuştur.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/ak-parti-aecr-ye-uye-oldu/205660|başlık=AK Parti AECR’ye üye oldu|erişimtarihi=2 Ocak 2026|çalışma=[[Anadolu Ajansı]]}}</ref>
+
+==== Komşularla Sıfır Sorun ve Arap Baharı ====
+Ahmet Davutoğlu'nun dışişleri bakanlığı döneminde "Komşularla Sıfır Sorun" ilkesi benimsenmiş; Orta Doğu ve Balkan ülkeleriyle vizelerin kaldırılması ve ekonomik entegrasyon hedeflenmiştir.<ref>{{PDF|https://dergipark.org.tr/tr/download/article-file/613744}}</ref> Ancak 2011'de başlayan [[Arap Baharı]] ile birlikte bu politika yerini, özellikle Suriye ve Mısır'da muhalif hareketleri destekleyen bir çizgiye bırakmıştır. Bu süreçte Türkiye'nin bölgesel yalnızlığı, hükûmet çevrelerince "değerli yalnızlık" olarak nitelendirilmiştir.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/basbakanin-basdanismani-degerli-yalnizliki-acikladi-yalniz-degiliz-ama,237875|başlık=Başbakan'ın başdanışmanı 'değerli yalnızlık'ı açıkladı: Yalnız değiliz ama|erişimtarihi=2 Ocak 2026|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20241213215720/https://t24.com.tr/haber/basbakanin-basdanismani-degerli-yalnizliki-acikladi-yalniz-degiliz-ama,237875|arşivtarihi=13 Aralık 2024|ölüurl=hayır}}</ref>
+
+==== Mavi Vatan ve askerî aktivizm ====
+2016 sonrası dönemde dış politika, güvenlik eksenli bir dönüşüm yaşamıştır. Suriye'nin kuzeyine düzenlenen sınır ötesi operasyonlar, Libya ile yapılan deniz yetki alanları anlaşması ve Doğu Akdeniz'deki enerji rekabeti çerçevesinde geliştirilen "Mavi Vatan" doktrini bu dönemin karakteristik unsurlarıdır.<ref>{{Akademik dergi kaynağı|soyadı=Yardımcı|ad=Tansu|başlık=Mavi Vatan Doktrini Bağlamında Türkiye'nin Doğu Akdeniz Enerji Politikaları|çalışma=Akademik Tarih ve Düşünce Dergisi|cilt=13|sayı=3|sayfalar=1-11|tarih=2026|dil=Türkçe|url=https://dergipark.org.tr/tr/pub/atdd/article/1983869|erişimtarihi=19 Temmuz 2026}}</ref> Türkiye ayrıca bu dönemde savunma sanayisindeki (SİHA vb.) gelişimini bir diplomasi aracı olarak kullanmaya başlamıştır.
+
+==== Normalleşme süreçleri ve çok kutupluluk ====
+2021 yılından itibaren AK Parti hükûmeti; Birleşik Arap Emirlikleri, Suudi Arabistan, Mısır ve İsrail gibi ülkelerle ilişkileri yeniden tesis etmeyi amaçlayan bir "normalleşme" süreci başlatmıştır.<ref>{{Web kaynağı|url=https://tr.euronews.com/2021/11/24/turkiye-ile-bae-iliskileri-iki-ulke-aras-nda-gerginlige-neden-olan-basl-klar-nelerdi|başlık=Türkiye ile BAE ilişkileri: İki ülke arasında gerginliğe neden olan sorunlu başlıklar nelerdi?|tarih=24 Kasım 2021|dil=Türkçe|çalışma=euronews|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20250722134026/https://tr.euronews.com/2021/11/24/turkiye-ile-bae-iliskileri-iki-ulke-aras-nda-gerginlige-neden-olan-basl-klar-nelerdi|arşivtarihi=22 Temmuz 2025|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/analiz/turkiye-ve-misir-dogu-akdenizde-normallesme-sureci/2606606|başlık=Türkiye ve Mısır: Doğu Akdeniz'de normalleşme süreci|çalışma=[[Anadolu Ajansı]]|dil=Türkçe|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20260217183919/https://www.aa.com.tr/tr/analiz/turkiye-ve-misir-dogu-akdenizde-normallesme-sureci/2606606|arşivtarihi=17 Şubat 2026|ölüurl=hayır}}</ref> Aynı zamanda Şanghay İşbirliği Örgütü ve BRICS gibi yapılarla kurulan temaslar, Türkiye'nin Batı dışındaki alternatif odaklarla ilişkilerini geliştirme çabası olarak yorumlanmaktadır.
+
+=== 2023 hedefleri ve sonuçları ===
+AK Parti'nin Türkiye'yi ekonomi, adalet, sağlık, ulaşım, turizm ve savunma sanayisi alanlarında ilerletmek amacıyla ortaya koyduğu vizyon, "Hedef 2023" sloganıyla partinin temel seçim vaadi olmuştur. İlk kez 2011 genel seçim beyannamesinde detaylandırılan bu hedefler, Türkiye'nin Cumhuriyet'in 100. yılında dünyanın en büyük 10 ekonomisi arasına girmesini amaçlıyordu.<ref>{{Web kaynağı|url=https://www.akparti.org.tr/media/iesaeuoj/12-haziran-2011-genel-secimleri-secim-beyannamesi.pdf|başlık=12 Haziran 2011 Genel Seçimleri Seçim Beyannamesi: Türkiye Hazır Hedef 2023|yayıncı=Adalet ve Kalkınma Partisi|tarih=2011|biçim=PDF|dil=Türkçe|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20230201082706/https://www.akparti.org.tr/media/iesaeuoj/12-haziran-2011-genel-secimleri-secim-beyannamesi.pdf|arşivtarihi=1 Şubat 2023|ölüurl=hayır}}</ref>
+
+==== Ekonomik göstergeler ve gerçekleşme oranları ====
+2023 vizyonu kapsamında ilan edilen temel ekonomik hedefler ile 2023 yılı sonu itibarıyla ortaya çıkan veriler arasında belirgin farklar oluşmuştur:
+
+* Gayrisafi Yurt İçi Hasıla (GSYH): 2023 hedefi 2 trilyon dolar olarak açıklanmış; ancak 2023 sonu itibarıyla GSYH yaklaşık 1,1 trilyon dolar seviyesinde gerçekleşmiştir.<ref name="tr.euronews.com">{{Web kaynağı|url=http://tr.euronews.com/2023/10/30/ak-parti-cumhuriyetin-100-yili-icin-2011de-acikladigi-2023-ekonomik-hedeflerini-ne-kadar-t|başlık=AK Parti, Cumhuriyetin 100. yılı için koyduğu hedefleri tutturdu mu?|erişimtarihi=3 Ocak 2026|tarih=30 Ekim 2023|dil=Türkçe|çalışma=euronews|arşivurl=https://web.archive.org/web/20240618225232/https://tr.euronews.com/2023/10/30/ak-parti-cumhuriyetin-100-yili-icin-2011de-acikladigi-2023-ekonomik-hedeflerini-ne-kadar-t|arşivtarihi=18 Haziran 2024|ölüurl=hayır}}</ref>
+* Kişi Başına Milli Gelir: 25 bin dolar olarak hedeflenmiş; gerçekleşen rakam ise 13 bin dolar civarında kalmıştır.<ref name="tr.euronews.com"/>
+* İhracat: 500 milyar dolar hedefinin gerisinde kalınarak yaklaşık 255 milyar dolar seviyesinde gerçekleşmiştir.
+* İşsizlik: Hedeflenen %5 seviyesine ulaşılamamış, oran %9-10 bandında seyretmiştir.<ref>{{Web kaynağı|url=https://data.tuik.gov.tr/Bulten/Index?p=Isgucu-Istatistikleri-2023-53521|başlık=TÜİK Kurumsal|erişimtarihi=3 Ocak 2026|çalışma=data.tuik.gov.tr|arşivurl=https://web.archive.org/web/20251203215003/https://data.tuik.gov.tr/Bulten/Index?p=Isgucu-Istatistikleri-2023-53521|arşivtarihi=3 Aralık 2025|ölüurl=hayır}}</ref>
+
+==== Savunma sanayisi ve altyapı yatırımları ====
+[[Dosya:Togg Models.jpg|küçükresim|[[Togg|TOGG]]]]
+Ekonomik hedeflerin aksine, savunma sanayisi ve altyapı alanındaki vaatlerin bir bölümü gerçekleştirilmiştir. Yerli otomobil projesi kapsamında [[Togg|TOGG]] seri üretime başlamış; yerli tank ([[Altay (tank)|Altay]]), yerli uçak ([[TUSAŞ Kaan|Kaan]]) ve çeşitli insansız hava araçları
+
+(İHA/SİHA) projelerinde prototip ve üretim aşamalarına geçilmiştir.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisi-2023te-ilklere-imza-atti/3095362|başlık=Türk savunma sanayisi 2023'te ilklere imza attı|erişimtarihi=3 Ocak 2026|çalışma=[[Anadolu Ajansı]]|arşivurl=https://web.archive.org/web/20250314193320/https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisi-2023te-ilklere-imza-atti/3095362|arşivtarihi=14 Mart 2025|ölüurl=hayır}}</ref> Ayrıca, [[Yavuz Sultan Selim Köprüsü]], [[İstanbul Havalimanı]] ve [[Avrasya Tüneli]] gibi büyük ölçekli altyapı projeleri tamamlanarak hizmete alınmıştır.
+
+==== Siyasi ve anayasal hedefler ====
+2015 Seçim Beyannamesi'nde "Hedef 2023" arasında yer alan en büyük siyasi değişiklik olan Başkanlık Sistemi, 2017 referandumu ile kabul edilmiş ve 2018 yılında resmen uygulanmaya başlanmıştır. Hükûmet bu sistemi "karar alma süreçlerini hızlandıran bir reform" olarak sunarken; muhalefet "denetleme mekanizmalarının zayıfladığı" gerekçesiyle eleştirmiştir.<ref>{{Web kaynağı|url=https://search.trdizin.gov.tr/tr/yayin/detay/1152822/cumhurbaskanligi-hukumet-sistemi-uzerine-tartismalar-ve-yeni-sistemin-etkileri|başlık=TRDizin|erişimtarihi=3 Ocak 2026|çalışma=search.trdizin.gov.tr|arşivtarihi=6 Ocak 2026|arşivurl=https://web.archive.org/web/20260106165741/https://search.trdizin.gov.tr/tr/yayin/detay/1152822/cumhurbaskanligi-hukumet-sistemi-uzerine-tartismalar-ve-yeni-sistemin-etkileri|ölüurl=hayır}}</ref>
+
+== Yapılanma ==
+
+Kurulduğu dönemde büyük ölçüde yerel eşraf ve taşra örgütlenmesine dayanan Adalet ve Kalkınma Partisi, zamanla genel merkez ve lider etrafında yoğunlaşan, merkezî ve disiplinli bir "ulusal makine" partisine dönüşmüştür. Siyaset bilimciler, karar alma yetkisinin giderek genel başkan ve Merkez Yürütme Kurulu gibi üst organlarda toplanmasını, partinin kişiselleşen liderlik yapısının bir yansıması olarak değerlendirir.<ref>{{Web kaynağı|url=https://birikimdergisi.com/guncel/11619/erdogan-ve-akp-turkiye-siyasetini-nasil-domine-etti-esraf-siyasetinden-ulusal-makine-siyasetine|başlık=Erdoğan ve AKP Türkiye Siyasetini Nasıl Domine Etti? "Eşraf Siyaseti"nden "Ulusal Makine Siyaseti"ne|ad=Toygar Sinan|soyadı=Baykan|ad2=Murat|soyadı2=Somer|çalışma=Birikim|tarih=29 Ocak 2024|dil=Türkçe|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20260521014647/https://birikimdergisi.com/guncel/11619/erdogan-ve-akp-turkiye-siyasetini-nasil-domine-etti-esraf-siyasetinden-ulusal-makine-siyasetine|arşivtarihi=21 Mayıs 2026|ölüurl=hayır}}</ref>
+
+=== Partinin ekonomisi ===
+Partinin kendi web sitesinde yayınladığına göre 1 Ocak 2019 tarihinde partiye yapılan devletçe yardımlar 335.533.239 Türk lirasıdır ve parti gelirinin %87,5'lik bir oranını oluşturmaktadır. Ayrıca 2018, 2017, 2016 yılları devletçe yapılan yardımlar sırasıyla şu şekildedir: 2018 yılı için 417.050.988, 2017 yılı için 119.170.658, 2016 yılı için 104.678.215 Türk lirasıdır. AK Parti'nin 4 yıllık devlet yardımı 976.433.100 Türk lirasıdır. Partinin 2019 yılında bankalarda bulunan parası 137.096.716 Türk lirasıdır.<ref>{{Web kaynağı|url=https://www.akparti.org.tr/parti/gelir-gider/|başlık=Parti Gelir Gider|erişimtarihi=18 Temmuz 2021|arşivtarihi=15 Aralık 2018|arşivurl=https://web.archive.org/web/20181215092716/https://www.akparti.org.tr/parti/gelir-gider/|çalışma=akparti.org.tr}}</ref> 2023 genel seçimlerinde, daha önceki seçimlerde en yüksek oyu alan AK Parti, Hazine yardımlarında öne çıktı. 10 Ocak 2023 tarihinde, partiye Hazine'den gelen yardım nedeniyle 653.8 milyon TL gelir verildi.<ref>{{Web kaynağı|url=https://medyascope.tv/2023/03/13/ysk-secim-takvimini-aciklayinca-siyasi-partilere-3-milyar-tl-daha-hazine-yardimi-yapilacak/|başlık=YSK, seçim takvimini açıklayınca siyasi partilere 3 milyar TL daha Hazine yardımı yapılacak|erişimtarihi=23 Ekim 2023|arşivtarihi=13 Mart 2023|arşivurl=https://web.archive.org/web/20230313100344/https://medyascope.tv/2023/03/13/ysk-secim-takvimini-aciklayinca-siyasi-partilere-3-milyar-tl-daha-hazine-yardimi-yapilacak/|tarih=13 Mart 2023|dil=Türkçe|çalışma=Medyascope|ad=Ankara|soyadı=Büro}}</ref>
+
+=== Genel başkanlar ===
+{{Ana|Adalet ve Kalkınma Partisi genel başkanları listesi}}
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1
+| [[Dosya:Recep Tayyip Erdoğan, Poland (cropped).jpg|75px]]
+! scope="row" align="left" | [[Recep Tayyip Erdoğan]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1954|2|26}}}}
+| 14 Ağustos 2001
+| 27 Ağustos 2014
+| {{ayd|2001|8|14|2014|8|27}}
+|-
+| 2
+| [[Dosya:Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg|75px]]
+! scope="row" align="left" | [[Ahmet Davutoğlu]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1959|2|26}}}}
+| 27 Ağustos 2014
+| 22 Mayıs 2016
+| {{ayd|2014|8|27|2016|5|22}}
+|-
+| 3
+| [[Dosya:Portrait of Binali Yıldırım (cropped).jpg|75px]]
+! scope="row" align="left" | [[Binali Yıldırım]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1955|12|20}}}}
+| 22 Mayıs 2016
+| 21 Mayıs 2017
+| {{ayd|2016|5|22|2017|5|21}}
+|-
+| (1)
+| [[Dosya:President Erdoğan (2018) (cropped).jpg|75px]]
+! scope="row" align="left" | [[Recep Tayyip Erdoğan]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1954|2|26}}}}
+| 21 Mayıs 2017
+| ''Görevde''
+| {{ayd|2017|5|21|sep=and|duration=on}}
+|}
+
+=== Merkez Yürütme Kurulu üyeleri ===
+{{GÜNCELYIL}}'te AK Parti'nin Merkez Yürütme Kurulunu (MYK) oluşturan üyeleri:<ref>{{Web kaynağı|url=https://www.akparti.org.tr/ak-kadro/merkez-yurutme-kurulu/|başlık=AK PARTİ {{!}} Merkez Yurutme Kurulu|erişimtarihi=11 Haziran 2026|çalışma=www.akparti.org.tr|arşivurl=https://web.archive.org/web/20230610020026/http://akparti.org.tr/ak-kadro/merkez-yurutme-kurulu/|arşivtarihi=10 Haziran 2023|ölüurl=hayır}}</ref>
+
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Görevi
+|-
+| '''1'''|| [[Recep Tayyip Erdoğan]] || Genel Başkan
+|-
+| '''2'''|| [[Efkan Âlâ]] || rowspan="2" | Genel Başkan Vekili
+|-
+| '''3'''|| [[Mustafa Elitaş]] 
+|-
+| '''4'''|| [[Hayati Yazıcı]] || Genel Başkan Yardımcısı (Siyasi ve Hukuki Başkanlığı)
+|-
+| '''5'''|| [[Ahmet Büyükgümüş]]|| Genel Başkan Yardımcısı (Teşkilat Başkanlığı)
+|-
+| '''6'''|| [[Ali İhsan Yavuz]] || Genel Başkan Yardımcısı (Seçim İşleri Başkanlığı)
+|-
+| '''7'''|| [[Faruk Acar]] || Genel Başkan Yardımcısı (Tanıtım ve Medya Başkanlığı)
+|-
+| '''8'''|| [[Zafer Sırakaya]] || Genel Başkan Yardımcısı (Dış İlişkiler Başkanlığı)
+|-
+| '''9'''||  || Genel Başkan Yardımcısı (Sosyal Politikalar Başkanlığı)
+|-
+| '''10'''|| [[Mustafa Demir]] || Genel Başkan Yardımcısı (Yerel Yönetimler Başkanlığı)
+|-
+| '''11'''|| [[Nihat Zeybekci]] || Genel Başkan Yardımcısı (Ekonomi İşleri Başkanlığı)
+|-
+| '''12'''|| [[Belgin Uygur]]|| Genel Başkan Yardımcısı (Sivil Toplum ve Halkla İlişkiler Başkanlığı)
+|-
+| '''13'''|| [[Hasan Basri Yalçın]] || Genel Başkan Yardımcısı (İnsan Hakları Başkanlığı)
+|-
+| '''14'''|| [[Ahmet Baha Öğütken]] || Genel Başkan Yardımcısı (Mali ve İdari İşler Başkanlığı)
+|-
+| '''15'''|| [[Nilhan Ayan]]|| Genel Başkan Yardımcısı (Çevre ve Şehircilik Politikaları Başkanlığı)
+|-
+| '''16'''|| [[Mustafa Şen (siyasetçi)|Mustafa Şen]] || Genel Başkan Yardımcısı (Ar-Ge ve Eğitim Başkanlığı)
+|-
+| '''17'''|| [[Ömer İleri]]|| Genel Başkan Yardımcısı (Bilgi ve İletişim Teknolojileri Başkanlığı)
+|-
+| '''18'''|| [[Kürşad Zorlu]] || Genel Başkan Yardımcısı (Türk Devletleri İle İlişkiler Başkanlığı)
+|-
+| '''19'''|| [[Halit Yerebakan]] || Genel Başkan Yardımcısı (Sağlık Politikaları Başkanlığı)
+|-
+| '''20'''|| [[Hüseyin Yayman]] || Genel Başkan Yardımcısı (Kültür ve Sanat Politikaları Başkanlığı)
+|-
+| '''21'''|| [[Ömer Çelik]] || Parti Sözcüsü
+|-
+| '''22'''|| [[Eyyüp Kadir İnan]] || Genel Sekreter
+|-
+| '''23'''|| [[Abdullah Güler (1969 doğumlu siyasetçi)|Abdullah Güler]] || TBMM Grup Başkanı
+|-
+| '''24'''|| [[Özlem Zengin]]|| rowspan="5" | TBMM Grup Başkan Vekili
+|-
+| '''25'''|| [[Muhammet Emin Akbaşoğlu]] 
+|-
+| '''26'''|| [[Abdulhamit Gül|Abdülhamit Gül]] 
+|-
+| '''27'''|| [[Leyla Şahin Usta]] 
+|-
+| '''28'''|| [[Bahadır Yenişehirlioğlu]] 
+|-
+| '''29'''|| [[Tuğba Işık Ercan]] || Kadın Kolları Başkanı
+|-
+| '''30'''|| [[Yusuf İbiş]]|| Gençlik Kolları Başkanı
+|}
+
+=== Merkez Karar ve Yönetim Kurulu üyeleri ===
+{{GÜNCELYIL}}'te AK Parti'nin Merkez Karar ve Yönetim Kurulunu (MKYK) oluşturan üyeleri:<ref>{{Web kaynağı|url=https://www.akparti.org.tr/ak-kadro/merkez-karar-ve-yonetim-kurulu/|başlık=Arşivlenmiş kopya|erişimtarihi=26 Mayıs 2024|arşivurl=https://web.archive.org/web/20240526124324/https://www.akparti.org.tr/ak-kadro/merkez-karar-ve-yonetim-kurulu/|arşivtarihi=26 Mayıs 2024|ölüurl=hayır}}</ref>
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+|-
+| '''1'''|| [[Abdulkadir Develi]] 
+|-
+| '''2'''|| [[Abdurrahman Akyüz]] 
+|-
+| '''3'''|| [[Ahmet Baha Öğütken]]
+|-
+| '''4'''|| [[Ahmet Bilal Kıymaz]] 
+|-
+| '''5'''|| [[Ahmet Büyükgümüş]] 
+|-
+| '''6'''|| [[Ahmet Mücahit Arınç]]
+|-
+| '''7'''|| [[Ali İhsan Yavuz]] 
+|-
+| '''8'''|| [[Ayşe Keşir]] 
+|-
+| '''9'''|| [[Aziz Babuşcu]]
+|-
+| '''10'''|| [[Belgin Uygur]]
+|-
+| '''11'''|| [[Cengiz Tokmak]] 
+|-
+| '''12'''|| [[Cihad Terzioğlu]] 
+|-
+| '''13'''|| [[Çiğdem Karaaslan]]
+|-
+| '''14'''|| [[Derya Ayaydın]]
+|-
+| '''15'''|| [[Dursun Ataş]]
+|-
+| '''16'''|| [[Efkan Âlâ|Efkan Ala]]
+|-
+| '''17'''|| [[Erkan Güral]] 
+|-
+| '''18'''|| [[Erkan Kandemir]]
+|-
+| '''19'''|| [[Eyyüp Kadir İnan]]
+|-
+| '''20'''|| [[Fahrettin Yahşi]]
+|-
+| '''21'''|| [[Fatih Sadullah Selman]]
+|-
+| '''22'''|| [[Fatih Şahin]] 
+|-
+| '''23'''|| [[Fatma Betül Sayan Kaya]]
+|-
+| '''24'''|| [[Fadime Zehra Şener]] 
+|-
+| '''25'''|| [[Gökhan Diktaş]]
+|-
+| '''26'''|| [[Halit Yerebakan]]
+|-
+| '''27'''|| [[Hamza Dağ]]
+|-
+|'''28''' || [[Hasan Basri Yalçın]]
+|-
+|'''29''' || [[Hayati Yazıcı]]
+|-
+|'''30''' || [[Haydar Ali Yıldız]]
+|-
+| '''31'''|| [[Hilal Kalyoncu Koç]] 
+|-
+| '''32'''|| [[Hilmi Türkmen (Trabzon doğumlu)|Hilmi Türkmen]] 
+|-
+| '''33'''|| [[Hülya Terzioğlu]]
+|-
+| '''34'''|| [[Hüseyin Yayman]] 
+|-
+| '''35'''|| [[İdris Nebi Hatipoğlu]] 
+|-
+| '''36'''|| [[İsmet Gergerli]]
+|-
+| '''37'''|| [[Kürşad Zorlu]] 
+|-
+| '''38'''|| [[Mahir Ünal]] 
+|-
+| '''39'''|| [[Mehmet Kırmızı]]
+|-
+| '''40'''|| [[Mehmet Umut Tuncer]]
+|-
+| '''41'''|| [[Melek Duman]] 
+|-
+| '''42'''|| [[Menderes Türel|Menderes Mehmet Tevfik Türel]] 
+|-
+| '''43'''|| [[Mesut Özil]]
+|-
+| '''44'''|| [[Muhammed Faruk Acar]]
+|-
+| '''45'''|| [[Mustafa Demir]]
+|-
+| '''46'''|| [[Mustafa Elitaş]]
+|-
+| '''47'''|| [[Hulki Cevizoğlu|Mustafa Hulki Cevizoğlu]] 
+|-
+| '''48'''|| [[Mustafa Nedim Yamalı]]
+|-
+| '''49'''|| [[Mustafa Özkan]]
+|-
+| '''50'''|| [[Mustafa Şen (siyasetçi)|Mustafa Şen]]
+|-
+| '''51'''|| [[Naim Makas]]
+|-
+| '''52'''|| [[Nihat Zeybekci|Nihat Zeybekçi]] 
+|-
+| '''53'''|| [[Nilhan Ayan]]
+|-
+| '''54'''|| [[Osman Gökçek]] 
+|-
+| '''55'''|| [[Ömer Çelik]]
+|-
+| '''56'''|| [[Ömer Faruk Besli]]
+|-
+| '''57'''|| [[Ömer İleri]]
+|-
+|'''58''' || [[Ömer Serdar]]
+|-
+|'''59''' || [[Önder Matlı]]
+|-
+|'''60''' || [[Sadettin Hülagü]]
+|-
+| '''61'''|| [[Selçuk Sümer]] 
+|-
+| '''62'''|| [[Serap Yazıcı Özbudun]] 
+|-
+| '''63'''|| [[Serpil Kavrak]]
+|-
+| '''64'''|| [[Sevan Sıvacıoğlu]] 
+|-
+| '''65'''|| [[Sevilay Tuncer]] 
+|-
+| '''66'''|| [[Seyithan İzsiz]]
+|-
+| '''67'''|| [[Temel Başalan]] 
+|-
+| '''68'''|| [[Türk İslam Karakoç]] 
+|-
+| '''69'''|| [[Umut Arman Sonay]]
+|-
+| '''70'''|| [[Ünal Karaman]]
+|-
+| '''71'''|| [[Veli Arslan]] 
+|-
+| '''72'''|| [[Yusuf Ziya Yılmaz]] 
+|-
+| '''73'''|| [[Zafer Sırakaya]]
+|-
+| '''74'''|| [[Zakir Avşar]]
+|-
+| '''75'''|| [[Ziya Serdar Kılıç]]
+|}
+{{gizli içerik-son}}
+
+=== Merkez Disiplin Kurulu üyeleri ===
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Görevi
+|-
+|'''1'''
+|Mehmet Sarı
+|MDK Başkanı
+|-
+|'''2'''
+|[[Mehmet Altay]]
+|MDK Başkan vekili
+|-
+|'''3'''
+|Saliha Dönmez
+|MDK Sekreteri
+|-
+|'''4'''
+|Abbas Aydın
+| rowspan="11" |MDK Üyeleri
+|-
+|'''5'''
+|Ayşe Deniz Çelik
+|-
+|'''6'''
+|Büşra Koyuncu
+|-
+|'''7'''
+|Halit Coşkan
+|-
+|'''8'''
+|Mehmet Hakan Yılmaz
+|-
+|'''9'''
+|Muhammet Ali Yılmaz
+|-
+|'''10'''
+|Nazif Barış Çiftçioğlu
+|-
+|'''11'''
+|[[Salih Çetinkaya]]
+|-
+|'''12'''
+|Vahit Atalan
+|-
+|'''13'''
+|Zahir Soğanda
+|-
+|'''14'''
+|[[Zeynep Gül Yılmaz]]
+|}
+
+=== Kurucu Milletvekilleri ve Üyeleri ===
+Adalet ve Kalkınma Partisi'nin kurucu milletvekilleri ve üyeleri<ref>{{Web kaynağı|url=https://www.akparti.org.tr/ak-kadro/kurucu-uyeler/|başlık=Kurucu Üyeler|arşivtarihi=28 Şubat 2023|arşivurl=https://web.archive.org/web/20181215092423/https://www.akparti.org.tr/ak-kadro/kurucu-uyeler/|yayıncı=AK Parti}}</ref>
+{|
+|-
+|
+* Ahmet Aktaş
+* [[Abdüllatif Şener]]
+* [[Alaattin Büyükkaya]]
+* [[Ali Babacan]]
+* [[Ali Aydın Dumanoğlu]]
+* [[Ali İhsan Arslan]]
+* [[Ali Yüksel Kavuştu]]
+* [[Ayşe Böhürler]]
+* [[Ayşenur Kurtoğlu]]
+* [[Binali Yıldırım]]
+* [[Burhan Kuzu]]
+* [[Bülent Gedikli]]
+|
+* [[Beşir Atalay]]
+* [[Cemal Kamacı]]
+* [[Cemil Çiçek]]
+* [[Erol Oral]]
+* [[Ersin Nazif Gürdoğan]]
+* [[Faruk Çelik]]
+* [[Fatih Recep Saraçoğlu]]
+* [[Güldal Akşit]]
+* [[Gürsoy Erol]]
+* [[Habibe Güner]]
+* [[Halil Caner Doğaneli]]
+* [[Halil Ürün (1947 doğumlu siyasetçi)|Halil Ürün]]
+* [[Haluk İpek]]
+|
+* [[Cuneyd Zapsu|Hasan Cuneyd Zapsu]]
+* [[Hasan Murat Mercan]]
+* [[Hayati Yazıcı]]
+* [[İbrahim Çağlar]]
+* [[İbrahim Reyhan Özal]]
+* [[İlhan Albayrak]]
+* [[İsmail Safi]]
+* [[İsmet Uçma]]
+* [[Lokman Ayva]]
+* [[Mehmet Ali Bulut]]
+* [[Mehmet Beyazıt Denizolgun]]
+|
+* [[Mahmut Koçak]]
+* [[Hilmi Güler|Mehmet Hilmi Güler]]
+* [[Mehmet Özlek]]
+* [[Mehmet Sayım Tekelioğlu]]
+* [[Mevlüt Çavuşoğlu]]
+* [[Mihrimah Belma Sekmen]]
+* [[Muammer Kakı]]
+* [[Muharrem Karslı]]
+* [[Muharrem Tozçöken]]
+* [[Murat Yalçıntaş]]
+* [[Mustafa Ünal]]
+|
+* [[Nazım Ekren]]
+* [[Nimet Baş]]
+* [[Nuray Oral]]
+* [[Nur Doğan Topaloğlu]]
+* [[Nurettin Canikli]]
+* [[Osman Nuri Filiz]]
+* [[Recep Tayyip Erdoğan]]
+* [[Reha Denemeç]]
+* [[Remziye Öztoprak]]
+* [[Sami Güçlü]]
+|
+* [[Sema Karabıyık]]
+* [[Sema Ramazanoğlu]]
+* [[Serap Yahşi Yaşar]]
+* [[Süleyman Gündüz]]
+* [[Şaban Dişli]]
+* [[Tamer Yiğit|Tamer Özyeğitoğlu]]
+* [[Tayyar Altıkulaç]]
+* [[Turhan Çömez]]
+* [[Ceyhun Yasemin Şimşek]]
+* [[Ziyaettin Yağcı]]
+|}
+
+=== Parti içi gruplar ===
+{{başlık-genişlet}}Bazı iddialara göre parti aşağıdaki gruplardan oluşmaktadır:
+
+* '''Tayyipçiler grubu''', [[Recep Tayyip Erdoğan]]'ı destekleyenleri oluşturan yapılanma. Grup parti içinde [[Erdoğanizm]] görüşünü temsil etmektedir.<ref>{{haber kaynağı |url=https://www.milligazete.com.tr/haber/2853450/ak-parti-icinde-3-grup-cekisiyor-albayrak-soylu-ve-erdogan |başlık=AK Parti içinde 3 grup çekişiyor: Albayrak, Soylu ve Erdoğan |tarih=10 Temmuz 2019 |çalışma=milligazete.com.tr |yayıncı=Milli Gazete |erişimtarihi=6 Ocak 2021 |arşivurl=https://web.archive.org/web/20190711142109/https://www.milligazete.com.tr/haber/2853450/ak-parti-icinde-3-grup-cekisiyor-albayrak-soylu-ve-erdogan |arşivtarihi=11 Temmuz 2019 |ölüurl=hayır }}</ref>
+* '''Pelikancılar''', [[Berat Albayrak]] ve [[Recep Tayyip Erdoğan]]'a yakın olan, partinin ana çizgisine uymayanların tasfiyesini destekleyen bir grup. [[Pelikan grubu|Pelikan]] grubunun varlığı [[RedHack|Redhack]] aracılığıyla ortaya çıkmıştır. [[Ahmet Davutoğlu'nun başbakanlıktan istifa süreci|Ahmet Davutoğlu'nun istifasında]] bu grubun rolü olduğu düşünülmektedir.<ref>{{haber kaynağı |url=https://www.gozlemgazetesi.com/HaberDetay/25/1112072/ak-parti-icindeki-pelikancilar-kimdir-yerel-secim-sonuclarina-pelikan-itirazi.html |başlık=Ak Parti içindeki Pelikancılar kimdir? Yerel seçim sonuçlarına Pelikan itirazı |tarih=2 Nisan 2019 |yayıncı=Gözlem Gazetesi |arşivurl=https://web.archive.org/web/20190410095410/https://www.gozlemgazetesi.com/HaberDetay/25/1112072/ak-parti-icindeki-pelikancilar-kimdir-yerel-secim-sonuclarina-pelikan-itirazi.html |arşivtarihi=10 Nisan 2019 |ölüurl=evet }}</ref>
+* '''Soylucular''', eski [[Demokrat Parti (2007)|Demokrat Parti]] başkanı [[Süleyman Soylu]]'nun AK Parti içindeki konumunu ve [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]] görevini destekleyen gruptur.{{Kaynak belirt}}
+* '''Bilalciler''', parti içinde Recep Tayyip Erdoğan'ın oğlu [[Bilal Erdoğan]]'ın başını çektiği Erdoğanizm yanlısı gruptur.<ref>{{haber kaynağı |url=https://t24.com.tr/haber/akp-icinde-ekip-cekismesi-beratcilar-soylucular-ve-bilalciler-olarak-bolunen-gruplar-sikinti-yaratiyor,762549 |başlık=AKP içinde ekip çekişmesi: 'Beratçılar', 'Soylucular' ve 'Bilalciler' olarak bölünen gruplar sıkıntı yaratıyor |tarih=3 Aralık 2018 |çalışma=t24.com.tr |yayıncı=T24 |erişimtarihi=6 Ocak 2021 |arşivurl=https://web.archive.org/web/20190127093645/https://t24.com.tr/haber/akp-icinde-ekip-cekismesi-beratcilar-soylucular-ve-bilalciler-olarak-bolunen-gruplar-sikinti-yaratiyor,762549 |arşivtarihi=27 Ocak 2019 |ölüurl=hayır }}</ref>
+* '''Küskünler grubu''', partinin son dönem politikalarını onaylamayanları tanımlayan gruptur. İdeolojik olarak AK Parti'nin ilk yıllarındaki [[Liberal muhafazakârlık|liberal muhafazakâr]] ve [[Avrupa Birliği]] yanlısı görüşleri desteklemektedir. Eski cumhurbaşkanı [[Abdullah Gül]], [[Bülent Arınç]] ve AK Parti'den ayrılan [[Demokrasi ve Atılım Partisi]] kurucusu [[Ali Babacan]] ile [[Gelecek Partisi]] kurucusu Ahmet Davutoğlu'nun bu grubun başını çektiği söylenmektedir.<ref>{{haber kaynağı |url=https://www.superhaber.tv/ak-parti-kuskunleri-kimlerdir-parti-mi-kuracaklar-akp-kuskunlerinin-isimleri-haber-191986 |başlık=AK Parti küskünleri kimlerdir? Parti mi kuracaklar? |tarih=22 Nisan 2019 |yayıncı=SuperHaber |erişimtarihi=6 Ocak 2021 |arşivurl=https://web.archive.org/web/20190422143352/https://www.superhaber.tv/ak-parti-kuskunleri-kimlerdir-parti-mi-kuracaklar-akp-kuskunlerinin-isimleri-haber-191986 |arşivtarihi=22 Nisan 2019 |ölüurl=evet }}</ref>
+* '''Davutoğlucular''', [[Ahmet Davutoğlu]]'nun başbakanlığını ve görüşlerini destekleyen grup. Görüş olarak daha İslamcı olması ve milliyetçilik yerine [[Ümmetçilik|ümmetçiliği]] savunması üzerine partinin ana akım siyasetinden farklıdır. Son dönemlerde popülerliği biten grup Davutoğlu'nun partiden ayrılması ve [[Gelecek Partisi|Gelecek Partisi']]ni kurmasıyla dağılmıştır.<ref>{{haber kaynağı |url=https://odatv4.com/davutogluculardan-akpye-isyan-27041827.html |başlık=Davutoğluculardan AKP'ye isyan |tarih=27 Nisan 2018 |çalışma=odatv4.com |yayıncı=oda TV |erişimtarihi=6 Ocak 2021 |arşivurl=https://web.archive.org/web/20211018173903/https://odatv4.com/analiz/davutogluculardan-akpye-isyan-27041827-137684 |arşivtarihi=18 Ekim 2021 |ölüurl=hayır }}</ref>
+
+=== Gençlik kolları ===
+14 Ağustos 2001 tarihinde, AK Parti'nin kuruluşuyla birlikte kurulmuştur. [[Türkiye]]'nin 81 ilinde ve illere bağlı ilçelerde teşkilatları bulunmaktadır. AK Parti Gençlik Kolları İl veya İlçe Başkanları, AK Parti parti tüzüğüne göre bulunduğu teşkilat kademesi ana kademe Yönetim ve Yürütme Kurulları'nın doğal üyesidir. Ayrıca Genel Merkez Gençlik Kolları Başkanı da hem MYK hem de MKYK tabii üyesidir. Mevcut genel başkan Yusuf İbiş'tir.
+
+Gençlik kolları, parti yönetimi ile eşgüdüm hâlinde çalışır, gençlik kolu başkanları aynı zamanda parti yönetim ve yürütme kurullarının doğal üyesidir. Bir üye parti üyeliğinden çıktığı zaman otomatik olarak gençlik kolu üyeliğinden de çıkar ayrıca gençlik kolu yönetiminde görev almayanların üyeliği 30 yaşını doldurduklarında sona erer.
+
+Genel merkez gençlik kolları başkanlığı yapmış olanlar, AK Parti MKYK'sı kararıyla toplanan büyük kongrenin onur konuğu sayılırlar.<ref name="tüzük"/>
+
+== Kongreler ==
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! Kongre
+! Tarih
+! Seçilen başkan
+! Aday
+! Seçim Nedeni
+|-
+| [[1. Adalet ve Kalkınma Partisi Olağan Kongresi|1. Olağan Kongre]]
+| 12 Ekim 2003
+| rowspan="4" | [[Recep Tayyip Erdoğan]]
+| rowspan="4" | Recep Tayyip Erdoğan (Tek aday)
+| rowspan="4" | Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|-
+| [[2. Adalet ve Kalkınma Partisi Olağan Kongresi|2. Olağan Kongre]]
+| 11 Kasım 2006
+|-
+| [[3. Adalet ve Kalkınma Partisi Olağan Kongresi|3. Olağan Kongre]]
+| 9 Ekim 2009
+|-
+| [[4. Adalet ve Kalkınma Partisi Olağan Kongresi|4. Olağan Kongre]]
+| 30 Eylül 2012
+|-
+| [[1. Adalet ve Kalkınma Partisi Olağanüstü Kongresi|1. Olağanüstü Kongre]]
+| 27 Ağustos 2014
+| rowspan="2" | [[Ahmet Davutoğlu]]
+| rowspan="2" | Ahmet Davutoğlu (Tek aday)
+| [[Recep Tayyip Erdoğan|Erdoğan]]'ın cumhurbaşkanı seçilmesi
+|-
+| [[5. Adalet ve Kalkınma Partisi Olağan Kongresi|5. Olağan Kongre]]
+| 12 Eylül 2015
+| Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|-
+| [[2. Adalet ve Kalkınma Partisi Olağanüstü Kongresi|2. Olağanüstü Kongre]]
+| 22 Mayıs 2016
+| [[Binali Yıldırım]]
+| Binali Yıldırım (Tek aday)
+| [[Ahmet Davutoğlu|Davutoğlu]]'nun genel başkanlıktan ayrılması
+|-
+| [[3. Adalet ve Kalkınma Partisi Olağanüstü Kongresi|3. Olağanüstü Kongre]]
+| 21 Mayıs 2017
+| rowspan="5" | [[Recep Tayyip Erdoğan]]
+| rowspan="5" | Recep Tayyip Erdoğan (Tek aday)
+| [[Binali Yıldırım|Yıldırım]]'ın genel başkanlıktan ayrılması
+|-
+| [[6. Adalet ve Kalkınma Partisi Olağan Kongresi|6. Olağan Kongre]]
+| 18 Ağustos 2018
+| rowspan="2" | Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|-
+| [[7. Adalet ve Kalkınma Partisi Olağan Kongresi|7. Olağan Kongre]]
+| 24 Mart 2021
+|-
+| [[4. Adalet ve Kalkınma Partisi Olağanüstü Kongresi|4. Olağanüstü Kongre]]
+| 7 Ekim 2023
+|Genel başkanın çağrısı
+|-
+| [[8. Adalet ve Kalkınma Partisi Olağan Kongresi|8. Olağan Kongre]]
+| 23 Şubat 2025
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|}
+
+== Adalet ve Kalkınma Partisi ve seçimler ==
+Adalet ve Kalkınma Partisi kuruluşundan bu yana yedi genel seçime, beş yerel seçime ve bir milletvekili ara seçimine katılmıştır.
+
+Parti, 2002'den itibaren girdiği genel seçimlerin tamamında birinci parti olmuştur. 3 Kasım 2002 seçiminde %34,28 oy alarak tek başına iktidara gelmiş, en yüksek genel seçim oy oranına ise 2011'de %49,83 ile ulaşmıştır.<ref name="euronews-trend">{{Web kaynağı|url=https://tr.euronews.com/2023/05/14/14-mayis-2023-secim-sonuclari-ak-partinin-oylari-son-21-yilda-nasil-degisti|başlık=14 Mayıs 2023 seçim sonuçları: AK Parti'nin oyları son 21 yılda nasıl değişti?|tarih=14 Mayıs 2023|dil=Türkçe|çalışma=euronews|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20250723045916/https://tr.euronews.com/2023/05/14/14-mayis-2023-secim-sonuclari-ak-partinin-oylari-son-21-yilda-nasil-degisti|arşivtarihi=23 Temmuz 2025|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://medyascope.tv/2022/11/03/3-kasim-2002den-bugune-akp-ve-erdoganin-20-yillik-secim-tarihi/|başlık=3 Kasım 2002'den bugüne AKP ve Erdoğan'ın 20 yıllık seçim tarihi|tarih=3 Kasım 2022|dil=Türkçe|çalışma=Medyascope|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20250422110336/https://medyascope.tv/2022/11/03/3-kasim-2002den-bugune-akp-ve-erdoganin-20-yillik-secim-tarihi/|arşivtarihi=22 Nisan 2025|ölüurl=hayır}}</ref>
+
+2017 anayasa değişikliğiyle geçilen [[Cumhurbaşkanlığı hükûmet sistemi]] sürecinde parti, 2018'de [[Milliyetçi Hareket Partisi]] ile [[Cumhur İttifakı]]'nı kurmuş; bu ittifak 2018 ve 2023 genel ve cumhurbaşkanlığı seçimlerinde parti stratejisinin merkezinde yer almıştır.<ref>{{Web kaynağı|url=https://tr.euronews.com/2019/02/21/cumhur-ittifaki-bir-yasinda-nasil-basladi-bir-yilda-neler-oldu|başlık=Cumhur İttifakı bir yaşında: Nasıl başladı, bir yılda neler oldu?|tarih=21 Şubat 2019|dil=Türkçe|çalışma=euronews|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20240717162958/https://tr.euronews.com/2019/02/21/cumhur-ittifaki-bir-yasinda-nasil-basladi-bir-yilda-neler-oldu|arşivtarihi=17 Temmuz 2024|ölüurl=hayır}}</ref>
+
+Parti, 2023 seçimlerini ağır ekonomik kriz ve [[2023 Kahramanmaraş depremleri|Şubat 2023 depremi]]ne yönelik eleştirilere karşın kazanmıştır.<ref>{{Akademik dergi kaynağı|soyadı=Ugur-Cinar|ad=Meral|başlık=Elections and Democracy in Turkey: Reconsidering Competitive Authoritarianism in the Age of Democratic Backsliding|çalışma=The Political Quarterly|cilt=94|sayı=3|sayfalar=445-451|tarih=2023|doi=10.1111/1467-923X.13309|dil=İngilizce}}</ref> 31 Mart 2024 yerel seçimleri ise partinin 22 yıllık iktidarında ilk kez il ve büyükşehir belediye başkanlıklarında hem oy oranı hem kazanılan başkanlık sayısı bakımından muhalefetin (CHP) gerisinde kaldığı seçim olmuştur; ilçe ve belde belediyeleri dâhil edildiğinde ise iktidar toplam başkanlık sayısında önde kalmıştır.<ref>{{Akademik dergi kaynağı|soyadı=Mumyakmaz|ad=Alper|başlık=31 Mart 2024 Yerel Seçimleri; AK Parti Neden Kaybetti, CHP Neden Kazandı? Sosyolojik Bir Analiz|çalışma=Türkiye Siyaset Bilimi Dergisi|cilt=8|sayı=2|sayfalar=115-127|tarih=2025|url=https://dergipark.org.tr/tr/pub/tsbder/article/1771736|dil=Türkçe|erişimtarihi=19 Temmuz 2026}}</ref><ref>{{Web kaynağı|url=https://tr.euronews.com/2024/03/31/31-mart-2024-turkiye-genelinde-belediye-ve-il-meclis-secimlerinde-partilerin-oy-oranlari-n|başlık=31 Mart 2024: Türkiye genelinde belediye ve il meclisi seçimlerinde partilerin oy oranları|tarih=31 Mart 2024|dil=Türkçe|çalışma=euronews|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20240426104917/https://tr.euronews.com/2024/03/31/31-mart-2024-turkiye-genelinde-belediye-ve-il-meclis-secimlerinde-partilerin-oy-oranlari-n|arşivtarihi=26 Nisan 2024|ölüurl=hayır}}</ref>
+
+Seçmen araştırmaları, parti tabanının sosyoekonomik gelişmişliği daha düşük illerde ve dindar-muhafazakâr kesimlerde yoğunlaştığını; 2010'ların sonundan itibaren özellikle genç seçmenler ve alt-orta gelir grupları arasında oy kaybı yaşandığını ortaya koymaktadır.<ref>{{Web kaynağı|url=https://konda.com.tr/tr/rapor/secmen-kumeleri-ak-parti-secmenleri/|başlık=Seçmen Kümeleri: AK Parti Seçmenleri|yayıncı=KONDA Araştırma|dil=Türkçe|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20220404122646/https://konda.com.tr/tr/rapor/secmen-kumeleri-ak-parti-secmenleri/|arşivtarihi=4 Nisan 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://yetkinreport.com/2024/05/18/ak-partinin-genclik-paradoksu/|başlık=AK Parti'nin Gençlik Paradoksu: Oy kaybettiren gençler mi?|tarih=18 Mayıs 2024|dil=Türkçe|çalışma=Yetkin Report|erişimtarihi=19 Temmuz 2026|arşivurl=https://web.archive.org/web/20250429040512/https://yetkinreport.com/2024/05/18/ak-partinin-genclik-paradoksu/|arşivtarihi=29 Nisan 2025|ölüurl=hayır}}</ref>
+
+=== Milletvekilliği seçimleri ===
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+[[Türkiye Büyük Millet Meclisi]]
+|-
+! scope="col" rowspan="2" | Seçim
+! scope="col" rowspan="2" | Lider
+! scope="col" colspan="3" | Seçim sonuçları
+! scope="col" colspan="2" | Sandalye
+! rowspan="2" |Sıra
+! rowspan="2" scope="col" | Hükûmet
+|-
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | ±
+! scope="col" | Kazanılan
+! scope="col" | ±
+|-
+! scope="row" | [[2002 Türkiye genel seçimleri|2002]]
+| rowspan="3" align="left" | [[Recep Tayyip Erdoğan]]
+| 10.808.229
+| %34,28
+| Yeni
+| {{Composition bar|363|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| Yeni
+|1.
+| {{evet2|[[58. Türkiye Hükûmeti|Gül]] {{Küçük|(2002-2003)}}<br />[[59. Türkiye Hükûmeti|I. Erdoğan]] {{Küçük|(2003-2007)}}}}
+|-
+! scope="row" | [[2007 Türkiye genel seçimleri|2007]]
+| 16.327.291
+| %46,58
+| {{artış}} 12,90
+| {{Composition bar|341|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 22
+|{{Sabit}} 1.
+| {{evet2|[[60. Türkiye Hükûmeti|II. Erdoğan]]}}
+|-
+! scope="row" | [[2011 Türkiye genel seçimleri|2011]]
+| 21.399.082
+| %49,83
+| {{artış}} 3,25
+| {{Composition bar|327|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 14
+|{{Sabit}} 1.
+| {{evet2|[[61. Türkiye Hükûmeti|III. Erdoğan]] {{Küçük|(2011-2014)}}<br />[[62. Türkiye Hükûmeti|I. Davutoğlu]] {{Küçük|(2014-2015)}}}}
+|-
+! scope="row" | [[Haziran 2015 Türkiye genel seçimleri|2015 (Haziran)]]
+| rowspan="2" align="left" | [[Ahmet Davutoğlu]]
+| 18.867.411
+| %40,87
+| {{azalış}} 8,96
+| {{Composition bar|258|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 69
+|{{Sabit}} 1.
+| {{kısmen|[[63. Türkiye Hükûmeti|Seçim hükûmeti]]}}
+|-
+! scope="row" | [[Kasım 2015 Türkiye genel seçimleri|2015 (Kasım)]]
+| 23.681.926
+| %49,50
+| {{artış}} 8,63
+| {{Composition bar|317|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{artış}} 25
+|{{Sabit}} 1.
+| {{evet2|[[64. Türkiye Hükûmeti|III. Davutoğlu]] {{Küçük|(2015-2016)}}<br />[[65. Türkiye Hükûmeti|Yıldırım]] {{Küçük|(2016-2018)}}}}
+|-
+! scope="row" | [[2018 Türkiye genel seçimleri|2018]]
+| rowspan="2" align="left" | [[Recep Tayyip Erdoğan]]
+| 21.335.581
+| %42,56
+| {{azalış}} 6,94
+| {{Composition bar|295|600|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 22
+|{{Sabit}} 1.
+| {{evet2|[[66. Türkiye Hükûmeti|IV. Erdoğan]]}}
+|-
+! scope="row" | [[2023 Türkiye genel seçimleri|2023]]
+| 19.392.462
+| %35,62
+| {{azalış}} 6,94
+| {{Composition bar|268|600|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 27
+|{{Sabit}} 1.
+| {{evet2|[[67. Türkiye Hükûmeti|V. Erdoğan]]}}
+|}
+
+
+=== Cumhurbaşkanlığı seçimleri ===
+
+==== İki dereceli ====
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+
+|-
+! scope="col" | Seçim
+! scope="col" | Aday
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | Son tur
+! scope="col" | Sonuç
+|-
+! scope="row" | [[2007 Türkiye cumhurbaşkanlığı seçimi#1. seçim süreci|2007 (Nisan)]]
+| align="left" | [[Abdullah Gül]]
+| {{Composition bar|352|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| %63,90
+| 1.
+| {{N/A|[[Türkiye Cumhuriyeti Anayasa Mahkemesi|AYM]] tarafından iptal edildi}}
+|-
+! scope="row" | [[2007 Türkiye cumhurbaşkanlığı seçimi#2. seçim süreci|2007 (Ağustos)]]
+| align="left" | [[Abdullah Gül]]
+| {{Composition bar|339|550|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| %61,60
+| 3.
+| {{evet2|Seçildi}}
+|}
+
+==== Tek dereceli ====
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+
+|-
+! scope="col" rowspan="2" | Seçim
+! scope="col" rowspan="2" | Aday
+! rowspan="2" |İttifak
+! colspan="3" scope="col" | Birinci tur
+! scope="col" colspan="2" | İkinci tur
+! scope="col" rowspan="2" | Sonuç
+|-
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | ±
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+|-
+! scope="row" | [[2014 Türkiye cumhurbaşkanlığı seçimi|2014]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| {{N/A|—}}
+| 21.000.143
+| %51,79
+| Yeni
+| {{N/A|—}}
+| {{N/A|—}}
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[2018 Türkiye cumhurbaşkanlığı seçimi|2018]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+|[[Cumhur İttifakı]]
+| 26.324.482
+| %52,59
+| {{artış}} 0,80
+| {{N/A|—}}
+| {{N/A|—}}
+| {{evet2|Seçildi}}
+|-
+! scope="row" | [[2023 Türkiye cumhurbaşkanlığı seçimi|2023]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+|[[Cumhur İttifakı]]
+| 27.133.849
+| %49,52
+| {{azalış}} 3,07
+| 27.725.131
+| %52,16
+| {{evet2|Seçildi}}
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+
+|-
+! scope="col" rowspan="2" | Seçim
+! scope="col" rowspan="2" | Lider
+! scope="col" colspan="3" | Belediye Meclisleri
+! scope="col" colspan="4" | Belediye Başkanlığı
+|-
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | ±
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | Kazanılan
+! scope="col" | ±
+|-
+! scope="row" | [[2004 Türkiye yerel seçimleri|2004]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| 9.635.145
+| %40,33
+| Yeni
+| 9.674.306
+| %40,19
+| {{Composition bar|1750|3193|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| Yeni
+|-
+! scope="row" | [[2009 Türkiye yerel seçimleri|2009]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| 12.237.325
+| %38,16
+| {{azalış}} 2,17
+| 12.449.187
+| %38,64
+| {{Composition bar|1442|2903|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 308
+|-
+! scope="row" | [[2014 Türkiye yerel seçimleri|2014]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| 17.802.976
+| %42,87
+| {{artış}} 4,71
+| 17.952.504
+| %43,13
+| {{Composition bar|812|1381|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 630
+|-
+! scope="row" | [[2019 Türkiye yerel seçimleri|2019]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| 18.299.576
+| %42,56
+| {{azalış}} 0,31
+| 18.368.421
+| %42,55
+| {{Composition bar|757|1389|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 55
+|-
+! scope="row" | [[2024 Türkiye yerel seçimleri|2024]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| 13.874.511
+| %32,38
+| {{azalış}} 10,18
+| 14.224.559
+| %33,05
+| {{Composition bar|526|1389|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| {{azalış}} 231
+|}
+
+=== Ara genel seçimler ===
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+
+|-
+! scope="col" | Seçim
+! scope="col" | Lider
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | Sandalye
+! scope="col" | Not
+|-
+! scope="row" | [[2003 Türkiye milletvekili ara seçimleri|2003]]
+| align="left" | [[Recep Tayyip Erdoğan]]
+| 55.203
+| %84,80
+| {{Composition bar|3|3|{{Siyasi parti renk|Adalet ve Kalkınma Partisi}}}}
+| align="left" | Erdoğan, [[Siirt]] milletvekili seçildi ve Başbakanlığında [[59. Türkiye Hükûmeti|59. Hükûmet]] kuruldu.
+|}
+
+=== Ara yerel seçimler ===
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+
+|-
+! scope="col" rowspan="2" | Seçim
+! scope="col" rowspan="2" | Aday
+! scope="col" colspan="3" | Seçim sonuçları
+! scope="col" rowspan="2" | Not
+|-
+! scope="col" | Oy sayısı
+! scope="col" | Oy oranı
+! scope="col" | ±
+|-
+! scope="row" | [[2019 İstanbul ara yerel seçimi|2019<br />İstanbul]]
+| align="left" | [[Binali Yıldırım]]
+| 3.936.068
+| %45,00
+| {{azalış}} 3,61
+| align="left" | [[Ekrem İmamoğlu]], İstanbul Büyükşehir Belediye Başkanlığına seçildi.<br />1989 yılında belediyeyi kazanan [[Sosyaldemokrat Halkçı Parti|SHP]]'nin ardından CHP ilk kez İstanbul'u kazandı.
+|}
+
+=== Seçim sloganları ===
+'Onlar Konuşur AK Parti Yapar, Daima Adalet Daima Kalkınma, Birlikte Daha Güçlü, Yeni Türkiye Yolunda İkinci Yarı Başlıyor, Yeni Güç Büyük Türkiye', Adalet ve Kalkınma Partisi'nin [[Haziran 2015 Türkiye genel seçimleri|2015 genel seçimlerinde]] kullandığı sloganlardır.{{Kaynak belirt}}
+
+=== Seçim şarkıları ===
+{{Ana|AK Parti'nin seçim şarkıları listesi}}
+
+== Ayrıca bakınız ==
+* [[Muhafazakâr demokrasi]]
+* [[Adalet ve Kalkınma Partisinin kapatılma davası]]
+
+== Notlar ==
+{{Kaynakça|grup=lower-alpha}}
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Dış bağlantılar ==
+{{Commons kategori|Justice and Development Party (Turkey)}}
+* {{Resmî site|http://www.akparti.org.tr/}}
+* {{Twitter}}
+* {{İnstagram}}
+* {{TikTok}}
+* {{YouTube|kullanıcı=akparti}}
+* [https://genclikkollari.akparti.org.tr/ AK Parti Gençlik Kolları] {{Webarşiv|url=https://web.archive.org/web/20200501195403/http://genclikkollari.akparti.org.tr/ |tarih=1 Mayıs 2020 }}
+* [http://kadinkollari.akparti.org.tr/ AK Parti Kadın Kolları] {{Webarşiv|url=https://web.archive.org/web/20200506054142/https://kadinkollari.akparti.org.tr/ |tarih=6 Mayıs 2020 }}
+* [https://siyasetakademisi.akparti.org.tr/ AK Parti Siyaset Akademisi] {{Webarşiv|url=https://web.archive.org/web/20200506070535/https://siyasetakademisi.akparti.org.tr/ |tarih=6 Mayıs 2020 }}
+
+{{Adalet ve Kalkınma Partisi}}{{Recep Tayyip Erdoğan}}{{Türkiye'deki siyasi partiler}}
+{{AK Parti Başkanları}}
+{{Şablon grubu|list1 = 
+[[58. Türkiye Hükûmeti|58.]]
+[[59. Türkiye Hükûmeti|59.]]
+[[60. Türkiye Hükûmeti|60.]]
+[[61. Türkiye Hükûmeti|61.]]
+[[62. Türkiye Hükûmeti|62.]]
+[[63. Türkiye Hükûmeti|63.]]
+[[64. Türkiye Hükûmeti|64.]]
+[[65. Türkiye Hükûmeti|65.]]
+[[66. Türkiye Hükûmeti|66.]]
+[[67. Türkiye Hükûmeti|67.]]
+|title = [[Türkiye hükûmetleri listesi|Türkiye hükûmetleri]]}}{{Millî Görüş}}{{Otorite kontrolü}}
+
+[[Kategori:Adalet ve Kalkınma Partisi| ]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:2001'de kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki muhafazakâr partiler]]
+[[Kategori:Millî muhafazakâr partiler]]
+[[Kategori:Recep Tayyip Erdoğan]]
+[[Kategori:Türkiye'de muhafazakârlık]]
+[[Kategori:Türkiye'de İslamcılık]]
+[[Kategori:Ermeni Soykırımı'nı reddedenler]]
+[[Kategori:Cumhur İttifakı]]
+[[Kategori:2001'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Avrupa Muhafazakârlar ve Reformcular Partisi üyeleri]]
+[[Kategori:Ankara ili merkezli kuruluşlar]]
+[[Kategori:Türkiye'deki siyasi partiler]]
+[[Kategori:Sağcı popülist partiler]]
+[[Kategori:Sosyal muhafazakâr partiler]]

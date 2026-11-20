@@ -1,0 +1,277 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Memleket Partisi
+| colorcode        = {{Siyasi parti renk|Memleket Partisi}}
+| amblem           = Memleket_Partisi_logo.png
+| kısaltma         = Memleket<ref name=tuzuk>{{Web kaynağı|url = https://memleketpartisi.org/Uploads/f1903b8fb0dd4a34af01807a531e19da.pdf|başlık = Memleket Partisi, Tüzük|erişimtarihi = 2 Haziran 2021|çalışma =|arşivurl = https://web.archive.org/web/20210517192312/https://memleketpartisi.org/Uploads/f1903b8fb0dd4a34af01807a531e19da.pdf|arşivtarihi = 17 Mayıs 2021}}</ref>
+| kurucusu         = [[Muharrem İnce]]
+| slogan           = ''Memleket Uyarıyor, Memleket Uyanıyor''
+| kuruluş          = {{Açılış tarihi ve yaşı|2021|5|17}}
+| kapanış          = 22 Temmuz 2025
+| ideoloji         = {{yalın liste|
+*[[Kemalizm|Atatürkçülük]]<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/haber/muharrem-ince-memleket-partisinin-yol-haritasini-canli-yayinda-acikliyor-1837175|başlık=Arşivlenmiş kopya|erişimtarihi=18 Nisan 2022|arşivurl=https://web.archive.org/web/20220418085551/https://www.cumhuriyet.com.tr/haber/muharrem-ince-memleket-partisinin-yol-haritasini-canli-yayinda-acikliyor-1837175|arşivtarihi=18 Nisan 2022|ölüurl=hayır}}</ref>
+*[[Pro-Avrupacılık]]<ref>{{Web kaynağı|url = https://www.memleketpartisi.org.tr/cms-uploads/parti-programi/memleket-partisi-parti-programi-dis-politika-uluslararasi-iliskiler.pdf|başlık = Memleket Partisi - Dış Politika, Uluslararası İlişkiler|erişimtarihi = 19 Eylül 2022|arşivtarihi = 3 Aralık 2021|arşivurl = https://web.archive.org/web/20211203134709/https://www.memleketpartisi.org.tr/cms-uploads/parti-programi/memleket-partisi-parti-programi-dis-politika-uluslararasi-iliskiler.pdf|tarih =|ölüurl = hayır|website = memleketpartisi.org.tr}} Sayfa 157: ''"AB'ye tam, eşit, onurlu üyelik hedefindeyiz. Türkiye ile tam üyelik müzakerelerini başlatmasına rağmen, çifte standart uygulamalarından vazgeçmeyen Avrupa Birliği ile ilişkileri kesmeyecek, ama mütekabiliyet ilkesine dayalı politikalarla yolumuza devam edeceğiz."''</ref>
+'''Parti içi düşünceler:'''
+*[[Ulusalcılık]]<ref>{{Web kaynağı|url = https://medyascope.tv/2021/12/13/ozer-sencar-memleket-partisi-ulusalci-kitleyi-temsil-ediyor-ve-oyu-yuzde-birin-uzerinde/|başlık= Özer Sencar: "Memleket Partisi ulusalcı kitleyi temsil ediyor ve oyu yüzde 1'in üzerinde"|ad= Ruşen|soyadı= Çakır|tarih= 13 Ara 2021|arşivurl = https://web.archive.org/web/20211213130420/https://medyascope.tv/2021/12/13/ozer-sencar-memleket-partisi-ulusalci-kitleyi-temsil-ediyor-ve-oyu-yuzde-birin-uzerinde/|arşivtarihi = 13 Aralık 2021}}</ref><ref>{{Web kaynağı|url = https://www.bbc.com/turkce/haberler-turkiye-58609731|başlık= Muharrem İnce'nin yeniden genel başkan seçildiği Memleket Partisi Kurultayı'nda hangi mesajlar öne çıktı?|ile= www.bbc.com|arşivurl = https://web.archive.org/web/20210918161440/https://www.bbc.com/turkce/haberler-turkiye-58609731|arşivtarihi = 18 Eylül 2021}}</ref>
+}}
+| pozisyon         = [[Merkezcilik|Merkez]]<ref>{{Tweet kaynağı | url = https://twitter.com/MemleketimParti/status/1642974199336583168 | başlık = Muharrem İnce: Ne sağdan ne soldan, tam ortadan. Atatürkçü, Cumhuriyetçi, yurtsever, şeffaf, laik. Ortadan bir yol lazım... | tarih = 3 Nisan 2023 | ölüurl = hayır | kullanıcı = MemleketimParti | numara = 1642974199336583168}}</ref>
+| merkez           = [[Etimesgut]], [[Ankara]]<ref>{{Web kaynağı|url = https://twitter.com/MemleketimParti/status/1791847982523953491?t=nisMxQbfSxNyMTm82DNPag&s=19|başlık = Memleket Partisi Genel Merkezini Taşıdı|erişimtarihi = 18 Mayıs 2024|tarih = 18 Mayıs 2024|yayıncı = Memleket Partisi (@MemleketimParti)|arşivengelli = evet|arşivurl = https://web.archive.org/web/20240518162953/https://twitter.com/MemleketimParti/status/1791847982523953491?t=nisMxQbfSxNyMTm82DNPag&s=19|arşivtarihi = 18 Mayıs 2024|ölüurl = hayır}}</ref>
+| üyelik           = 50.140<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1696|başlık=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=4 Ağustos 2021|arşivurl=https://web.archive.org/web/20220620013301/https://www.yargitaycb.gov.tr/icerik/1696|arşivtarihi=20 Haziran 2022|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2025
+| renkler          = {{Color box|#1D5FA4|border=darkgray}} {{Color box|#6CC9F0|border=darkgray}} [[Mavi]] ve [[gök mavisi]]
+| internet sitesi  = {{URL|https://www.memleketpartisi.org.tr/}} (kapalı)
+| bayrak           = Memleket Partisi bayrağı.png
+| ülke             = Türkiye
+| öncülü           = [[Cumhuriyet Halk Partisi]]
+| birleşme         = [[Cumhuriyet Halk Partisi]]
+| ardılı           = 
+}}
+'''Memleket Partisi''', 17 Mayıs 2021 tarihinde [[Muharrem İnce]] liderliğinde kurulan ve 22 Temmuz 2025'e kadar [[Türkiye]]'de faaliyet gösteren bir [[Türkiye'deki siyasi partiler listesi|siyasi partiydi]]. Parti tüzüğüne göre resmî kısaltması "Memleket" şeklindedir. Simgesi mavi renkli, döngüsel, birbirinden bağımsız yedi spiral ve nokta ikonundan ve içinde nazar boncuğundan oluşmaktadır.
+
+Memleket Partisi, 2020'de [[Cumhuriyet Halk Partisi]]'nden istifa eden [[Muharrem İnce]] tarafından 4 Eylül 2020'de başlatılan Memleket Hareketi'nin devamıdır. 19 Mayıs 2021 tarihinde kurulmuş olması planlanan partinin kuruluş dilekçesi 17 Mayıs 2021 tarihinde [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]]'na sunulmuş ve parti resmen kurulmuştur.
+
+[[Kemalizm|Atatürkçülüğü]] benimseyen bir parti olan Memleket Partisi, siyasi pozisyonunu [[Solculuk|sol]] veya [[Sağcılık|sağ]] olarak konumlandırmamaktadır. Partinin sloganlarından birisi "Ne sağdan, ne soldan, Atatürk'ün yolundan" şeklindedir.
+
+[[Cumhuriyet Halk Partisi|CHP]] Genel Başkanı [[Özgür Özel]]'in 18 Haziran 2025 tarihli çağrısı üzerine, 24 Haziran 2025 tarihinde düzenlenen [[Cumhuriyet Halk Partisi|CHP]] [[Türkiye Büyük Millet Meclisi|TBMM]] Grup Toplantısında Memleket Partisi Genel Başkanı [[Muharrem İnce]], Memleket Partisi Genel Başkanlığı görevini en yaşlı üye Asuman Ali Güven'e bırakarak, [[Cumhuriyet Halk Partisi|CHP]]'ye yeniden katıldı. Aynı gün Memleket Partisi, fesih gerekçesiyle 21-22 Temmuz 2025 tarihinde kurultay toplama kararı aldı.<ref>{{Web kaynağı|url = https://www.veryansintv.com/memleket-partisinde-chp-krizi-defolu-genel-baskan-ozgur-ozel-partimizi-tasfiye-ediyor|başlık = Memleket Partisi’nde ‘CHP’ krizi: ‘Defolu genel başkan Özgür Özel, partimizi tasfiye ediyor’|çalışma = [[Veryansın TV]]|arşivurl = https://web.archive.org/web/20250627024429/https://www.veryansintv.com/memleket-partisinde-chp-krizi-defolu-genel-baskan-ozgur-ozel-partimizi-tasfiye-ediyor|arşivtarihi = 27 Haziran 2025}}</ref> Asuman Ali Güven, "''Ortak mücadeleyi büyütmek için Cumhuriyet Halk Partisi çatısı altında birleşerek yolumuza devam etmeliyiz''" açıklaması yaparak [[Cumhuriyet Halk Partisi]]'ne katılacaklarını açıkladı.<ref>{{Web kaynağı|url=https://www.birgun.net/haber/memleket-partisi-kapatiliyor-tarih-belli-oldu-638993|başlık=Memleket Partisi kapatılıyor: Tarih belli oldu|website=birgun.net|erişimtarihi=17 Temmuz 2025|arşivurl=https://web.archive.org/web/20250717082452/https://www.birgun.net/haber/memleket-partisi-kapatiliyor-tarih-belli-oldu-638993|arşivtarihi=17 Temmuz 2025|ölüurl=hayır}}</ref>
+
+22 Temmuz 2025 tarihinde yapılan 2. olağanüstü kurultayda parti kapanma kararı aldı.<ref name=":1">{{Web kaynağı|url=https://t24.com.tr/haber/memleket-partisi-resmen-kapandi,1251225|başlık=Memleket Partisi resmen kapandı|erişimtarihi=22 Temmuz 2025|tarih=22 Temmuz 2025|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20250724064538/https://t24.com.tr/haber/memleket-partisi-resmen-kapandi,1251225|arşivtarihi=24 Temmuz 2025|ölüurl=hayır}}</ref>
+
+== Tarihçe ==
+
+=== Memleket Hareketi (2020) ===
+[[Dosya:Memleket Hareketi logo.svg|küçükresim|upright=0.98|Memleket Hareketi logosu|sol]]Memleket Hareketi, Muharrem İnce tarafından [[Sivas Kongresi]]'nin 101. yıldönümü olan 4 Eylül 2020'de [[Sivas]]'tan "Bin Günde Memleket Hareketi" sloganıyla başlatılmıştır.<ref name=":0">{{Web kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-54030873|başlık=Muharrem İnce 'Bin Günde Memleket hareketini' Sivas'ta başlattı|erişimtarihi=4 Eylül 2020|arşivtarihi=5 Eylül 2020|arşivurl=https://web.archive.org/web/20200905051941/https://www.bbc.com/turkce/haberler-turkiye-54030873|tarih=4 Eylül 2020|dil=tr-TR|çalışma=BBC}}</ref> İnce, hareketin amacının parti içi muhalefet olmadığını, Türkiye'ye yeni bir seçenek sunmak istediklerini, Türkiye'nin barışmaya ve bölüşmeye ihtiyacı olduğunu ifade etmiştir. İnce, hareketi ''"Bugün başlattığımız hareketin adı ‘1000 günde Memleket' hareketidir."'' sözleriyle açıklamıştır.<ref>{{Haber kaynağı | url = https://www.cnnturk.com/turkiye/bin-gunde-memleket-hareketi-nedir-muharrem-inceden-onemli-aciklamalar | başlık = “Bin günde memleket” hareketi nedir? Muharrem İnce’den önemli açıklamalar | erişimtarihi = 3 Mart 2021 | arşivurl = https://web.archive.org/web/20210126200012/https://abcgazetesi.com/flas-muharrem-inceden-memleket-partisi-aciklamasi-376641 | arşivtarihi = 26 Ocak 2021}}</ref> Muharrem İnce, bu süreçte Türkiye'nin 51 ilini ziyaret etmiştir.
+
+Muharrem İnce, 8 Aralık 2020 tarihinde, kendisinin [[Cumhuriyet Halk Partisi|CHP]]'den ayrılacağını ve Memleket Hareketi'nin partileşeceğini, ismini ve logosunu ileride genel merkezde yapacağı bir basın toplantısında açıklayacağını söyledi.<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/video/muharrem-inceden-cumhurbaskanligi-adayligi-aciklamasi-1797072|başlık = Muharrem İnce parti kuracağını açıkladı|erişimtarihi = 19 Aralık 2020|tarih = 8 Aralık 2020|yayıncı = [[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl = https://web.archive.org/web/20201208110138/https://www.cumhuriyet.com.tr/video/muharrem-inceden-cumhurbaskanligi-adayligi-aciklamasi-1797072|arşivtarihi = 8 Aralık 2020}}</ref> 25 Ocak 2021 tarihinde İnce, 80 kişilik ekibiyle [[Nevşehir (il)|Nevşehir]]'de üç günlük kampa girdi ve açıklama yaparak ''"Tüzüğümüzü oy birliğiyle kabul ettik."'' dedi.<ref>{{Web kaynağı|url = https://abcgazetesi.com/flas-muharrem-inceden-memleket-partisi-aciklamasi-376641|başlık = Muharrem İnce'den 'Memleket Partisi' açıklaması|erişimtarihi =|tarih = 25 Ocak 2021|çalışma =|yayıncı = abc.com|arşivurl = https://web.archive.org/web/20210126200012/https://abcgazetesi.com/flas-muharrem-inceden-memleket-partisi-aciklamasi-376641|arşivtarihi = 26 Ocak 2021}}</ref><ref>{{Web kaynağı|url = https://www.milliyet.com.tr/yazarlar/tunca-bengin/ince-siyasette-24-saat-cok-uzun-zaman-6472433|başlık = Muharrem İnce: Siyasette 24 Saat Çok Uzun Zaman|erişimtarihi =|tarih = 3 Nisan 2021|çalışma =|yayıncı = www.milliyet.com|arşivengelli = evet|arşivurl= https://web.archive.org/web/20210411165600/https://www.milliyet.com.tr/amp/yazarlar/tunca-bengin/ince-siyasette-24-saat-cok-uzun-zaman-6472433|arşivtarihi= 11 Nisan 2021|ölüurl = hayır}}</ref> 29 Ocak tarihinde kendilerini "29 Ekim Gücü" Olarak Adlandıran İzmir Milletvekili [[Mehmet Ali Çelebi]], Yalova Milletvekili [[Özcan Özel]] ve Karabük Milletvekili [[Hüseyin Avni Aksoy (1956 doğumlu siyasetçi)|Hüseyin Avni Aksoy]]'dan oluşan grup, [[Cumhuriyet Halk Partisi|CHP]]'den istifa ederek [[Muharrem İnce]] ile hareket edeceklerini açıkladı.<ref>{{Web kaynağı|url = https://www.aa.com.tr/tr/politika/chpden-istifa-eden-celebi-chp-yonetimindeki-keyfiyet-kan-kusup-kizilcik-serbeti-icmemize-neden-oldu/2127640|başlık = CHP'den istifa eden Çelebi: CHP yönetimindeki keyfiyet kan kusup kızılcık şerbeti içmemize neden oldu|erişimtarihi = 19 Mayıs 2021|çalışma = [[Anadolu Ajansı]]|arşivurl = https://web.archive.org/web/20210129165017/https://www.aa.com.tr/tr/politika/chpden-istifa-eden-celebi-chp-yonetimindeki-keyfiyet-kan-kusup-kizilcik-serbeti-icmemize-neden-oldu/2127640|arşivtarihi = 29 Ocak 2021}}</ref> Muharrem İnce, 8 Şubat 2021 tarihinde düzenlediği basın toplantısında [[Cumhuriyet Halk Partisi]]'nden istifa etti. Böylece Memleket Partisinin kuruluş çalışmaları resmi olarak başlamış oldu.<ref>{{Web kaynağı | url = https://www.dw.com/tr/muharrem-ince-chpden-ayr%C4%B1l%C4%B1yor/a-56496757 | başlık = Muharrem İnce CHP'den ayrılıyor {{!}} DW {{!}} 08.02.2021 | erişimtarihi = 17 Mayıs 2021 | dil = tr-TR | çalışma = DW.COM | ad = Deutsche | soyadı = Welle (www.dw.com) | arşivurl = https://web.archive.org/web/20210208121024/https://www.dw.com/tr/muharrem-ince-chpden-ayr%C4%B1l%C4%B1yor/a-56496757 | arşivtarihi = 8 Şubat 2021}}</ref>
+
+=== Memleket Hareketi'nin partileşmesi (2021) ===
+[[Dosya:Memleket Party.jpg|küçükresim|Partinin kuruluş dilekçesinin [[Türkiye Cumhuriyeti İçişleri Bakanlığı|İçişleri Bakanlığı]]'na verilmesi.]]
+
+Partinin kuruluş dilekçesi 17 Mayıs 2021 tarihinde [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]]'na verildi.<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/siyaset/son-dakika-memleket-partisi-kuruldu-6507615|başlık=Son dakika: Memleket Partisi kuruldu!|erişimtarihi=17 Mayıs 2021|arşivtarihi=17 Mayıs 2021|arşivurl=https://web.archive.org/web/20210517133937/https://www.milliyet.com.tr/siyaset/son-dakika-memleket-partisi-kuruldu-6507615|dil=Türkçe|çalışma=Milliyet}}</ref> 17 Mayıs'ta ilk [[Merkez Yürütme Kurulu|MYK]] toplantısını gerçekleştiren Memleket Partisinin ilk genel başkanı oy birliği ile [[Muharrem İnce]] seçildi. [[Gaye Usluer]], genel başkan vekili ve parti sözcüsü; [[Hakkı Akalın]], genel sekreter; [[Hüseyin Avni Aksoy (1956 doğumlu siyasetçi)|Hüseyin Avni Aksoy]], genel başkan yardımcısı; [[Mehmet Ali Çelebi]], genel başkan yardımcısı ve parlamento sözcüsü oldu. 17 Mayıs'ta ilk basın toplantısını parti sözcüsü seçilen [[Gaye Usluer]] gerçekleştirdi.<ref>{{Web kaynağı|url = https://tr.euronews.com/2021/05/17/muharrem-ince-memleket-paritsi-ni-kurdu-ve-oybirligi-ile-genel-baskan-secildi|başlık = Memleket Partisi kuruldu, Muharrem İnce genel başkan seçildi|erişimtarihi = 19 Mayıs 2021|tarih = 17 Mayıs 2021|dil = Türkçe|çalışma = euronews|ad = Sertaç|soyadı = Aktan|arşivurl = https://web.archive.org/web/20210517153127/https://tr.euronews.com/2021/05/17/muharrem-ince-memleket-paritsi-ni-kurdu-ve-oybirligi-ile-genel-baskan-secildi|arşivtarihi = 17 Mayıs 2021}}</ref>  18 Mayıs'ta genel başkan seçilen [[Muharrem İnce]] ilk konuşmasını gerçekleştirdi ve parti fiilen faaliyetlerine başlamış oldu.<ref>{{Haber kaynağı|url=https://www.yenisafak.com/gundem/muharrem-incenin-partisi-19-mayista-faaliyetlerine-basliyor-3621300|başlık=Muharrem İnce'nin partisi 19 Mayıs'ta faaliyetlerine başlıyor|erişimtarihi=8 Mayıs 2021|tarih=2 Mayıs 2021|yayıncı=[[Yeni Şafak]]|arşivurl=https://web.archive.org/web/20210502052355/https://www.yenisafak.com/gundem/muharrem-incenin-partisi-19-mayista-faaliyetlerine-basliyor-3621300|arşivtarihi=2 Mayıs 2021|ölüurl=hayır}}</ref>
+
+14 Mayıs 2023 tarihinde düzenlenen cumhurbaşkanlığı seçimlerinde genel başkan Muharrem İnce 114.661 imza toplayarak Memleket Partisi'nin cumhurbaşkanı adayı oldu. 11 Mayıs 2023'te adaylıktan çekildi.<ref>{{Web kaynağı|url = https://www.haberler.com/politika/son-dakika-muharrem-ince-adayliktan-cekildi-15890441-haberi/|başlık = Son Dakika: Muharrem İnce adaylıktan çekildi|erişimtarihi = 11 Mayıs 2023|tarih = 11 Mayıs 2023|dil = Türkçe|çalışma = Haberler|arşivurl = https://web.archive.org/web/20230511140904/https://www.haberler.com/politika/son-dakika-muharrem-ince-adayliktan-cekildi-15890441-haberi/|arşivtarihi = 11 Mayıs 2023}}</ref>
+
+=== Feshediliş (2025) ===
+[[Cumhuriyet Halk Partisi|CHP]] Genel Başkanı [[Özgür Özel]]'in 18 Haziran 2025 tarihindeki daveti üzerine, Memleket Partisi Genel Başkanı [[Muharrem İnce]], 24 Haziran günü düzenlenen  [[Cumhuriyet Halk Partisi|CHP]] [[Türkiye Büyük Millet Meclisi|TBMM]] Grup Toplantısı'nda, Memleket Partisi Genel Başkanlığı görevini en yaşlı üye Asuman Ali Güven'e bırakarak [[Cumhuriyet Halk Partisi|CHP]]'ye yeniden katıldı.<ref>{{Web kaynağı | url = https://halktv.com.tr/gundem/son-dakika-muharrem-ince-chpde-949600h | başlık = Son dakika {{!}} Muharrem İnce CHP'de | erişimtarihi = 24 Haziran 2025 | tarih = 24 Haziran 2025 | dil = Türkçe | çalışma = Halk TV | arşivurl = https://web.archive.org/web/20250624112317/https://halktv.com.tr/gundem/son-dakika-muharrem-ince-chpde-949600h | arşivtarihi = 24 Haziran 2025}}</ref> Muharrem İnce'nin CHP'ye geri dönmesiyle birlikte Memleket Partisi 21-22 Temmuz 2025'te kurultay toplama kararı aldı.<ref>{{Haber kaynağı|url=https://www.baraj.com.tr/muharrem-ince-chpye-dondu-memleket-partisi-feshediliyor/15822117|başlık=Muharrem İnce CHP’ye Döndü, Memleket Partisi Feshediliyor|erişimtarihi=24 Haziran 2025|dil=tr-TR|çalışma=Baraj|arşivurl=https://web.archive.org/web/20250625225317/https://www.baraj.com.tr/muharrem-ince-chpye-dondu-memleket-partisi-feshediliyor/15822117|arşivtarihi=25 Haziran 2025|ölüurl=hayır}}</ref>
+
+21-22 Temmuz'da düzenlenen olağanüstü kurultaydaki oylama sonucunda parti kapanma kararı aldı.<ref name=":1" />
+
+== Politikalar ==
+Parti, kendisini iç tüzüğünde "[[Atatürk İlkeleri|Atatürk ilke ve devrimleri]] üzerine inşa edilen, [[hukukun üstünlüğü]]nü, [[kuvvetler ayrılığı]]nı, [[Eşitlikçilik|eşitliği]], özgürlüğü, emeği, toplumsal barışı ve refahı, hakça bölüşümü, sürdürülebilir [[ekonomik kalkınma]]yı ve muasır medeniyet seviyesini hedefleyen çağdaş, '[[Demokratik cumhuriyet|cumhuriyetçi demokrat]]' bir parti" olarak tanımlamaktadır.<ref name=tuzuk /><ref>{{Web kaynağı|url=https://www.birgun.net/haber/muharrem-ince-ne-sagdan-ne-soldan-ataturk-un-yolundan-diyerek-anitkabir-e-yuruyecek-427238|başlık=Muharrem İnce, "Ne sağdan ne soldan Atatürk'ün yolundan" diyerek Anıtkabir'e yürüyecek|erişimtarihi=5 Nisan 2023|arşivtarihi=3 Nisan 2023|arşivurl=https://web.archive.org/web/20230403234415/https://www.birgun.net/haber/muharrem-ince-ne-sagdan-ne-soldan-ataturk-un-yolundan-diyerek-anitkabir-e-yuruyecek-427238|ölüurl=hayır|website=birgun.net}}</ref>
+
+== Kurucu üyeler ==
+{{Sütunlu liste|4|
+*[[Muharrem İnce]]
+*[[Hakkı Akalın]]
+*Mert Ünlü
+*Burak Savtur
+*Şen Bilin Neyaptı
+*Ahmet Özalp
+*[[Mehmet Ali Çelebi]]
+*Serkan Ufuk Akgün
+*Çiğdem Bayraktar Ör
+*Fatih Pala
+*Yağız Elver
+*[[Gürbüz Evren]]
+*Asuman Ali Güven
+*Meryem Kala
+*Ali Dursun
+*Emre Berk Hacıgüzeller
+*Beste Tuncel
+*Nevzat Kavalar
+*Aziz Aykut Demiray
+*Özlem Güzey Kocataş
+*Muharrem Yıldız
+*Yusuf Sel
+*Orhan Şimşek
+*Ali Evren Eryıldız
+*[[Hüseyin Avni Aksoy (1956 doğumlu siyasetçi)|Hüseyin Avni Aksoy]]
+*Ayberk Yağız
+*Nejat Elaldı
+*İbrahim Sertay Salman
+*Hakan Rullas
+*İpek Özkal Sayan
+*Süleyman Dinçberk
+*İlkay Yıldırım
+*Serhat Galip
+*[[Gaye Usluer]]
+*[[Özcan Özel]]
+*Zeynep Hazal Tulgar
+*Ufkun Doğan
+*[[Mevlüt Dudu]]
+*Eşber Atila
+*Süleyman Erguner
+*İlhan Düzyürek
+*Kerem Donat
+*Mahir Bakan
+*Ali Tunç Can
+*Osman Serkan İleri
+*Alper Karaoğlan
+*Ali Rıza Büyükuslu
+*Ünal Kirmiç
+*Oğuz Giray
+*Ali Evren Özsoy
+*Ömer Özdoğan
+*Şeref Albeniz
+*Ethem Eke
+*Serkan Yağşi
+*Barış Kuzgunbay
+*Mustafa Çağlayan
+*Mehmet Ender Öden
+*Rüşen Sever Tekstil
+*Ramazan Ertan
+*[[Nurdan Şahin Demirbağ]]
+*Serpil Alaboyun
+*Yavuz Kayhan Yüregir
+*Mustafa Kemal Çiçek
+*Ayça Özsoy Sarıkamışlı
+*Zafer Burak Hasar
+*Osman Kurtuluş
+*Özgün Öztunç
+*Taylan Hikmet Gülhan
+*Serkan Küçükkuru
+*Sibel Aracı
+*Mehmet Levent Kazancıoğlu
+*Burak Hikmet Tüfekçioğlu
+}}
+
+== Genel başkanları ==
+17 Mayıs 2021'de açılan Memleket Partisi'nin bugüne kadar genel başkanlığını yapanların listesi şu şekildedir:
+{| class="wikitable" style="font-size:90%;"
+|-
+! # !! İsim !! Resim !! Görev Başlangıcı !! Görev Bitişi !! Görev Süresi
+|-
+! style="background:{{Siyasi parti renk|Memleket Partisi}}; color:white;" | 1
+| [[Muharrem İnce]]
+| [[Dosya:Muharrem İnce in 2023 (cropped).jpg|60px]]
+| 17 Mayıs 2021
+| 24 Haziran 2025
+| {{Yıl ve gün cinsinden yaşı|2021|05|17|2025|06|24}}
+|-
+! style="background:{{Siyasi parti renk|Memleket Partisi}}; color:white;" | —
+| Asuman Ali Güven (vekâleten)
+|
+| 24 Haziran 2025
+| 22 Temmuz 2025
+| {{Yıl ve gün cinsinden yaşı|2025|06|24|2025|07|22}}
+|}
+
+== Kongreler ==
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! Kongre
+! Tarih
+! Başkan
+! Aday
+! Seçim Nedeni
+|-
+| 1. Olağan Kongre
+| 18 Eylül 2021
+| rowspan="2" | [[Muharrem İnce]]
+| rowspan="2" | Muharrem İnce (Tek aday)
+| Başkanlık (Tüzük ve Siyasi Partiler Kanunu gereği)
+|-
+| 1. Olağanüstü Kongre
+| 23 Temmuz 2022
+| Genel başkanın çağrısı
+|-
+|2. Olağanüstü Kongre
+| 21-22 Temmuz 2025
+| Asuman Ali Güven (vekâleten)
+| Yok
+| Fesih
+|}
+
+== Memleket Partisi ve seçimler ==
+
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Genel Başkan
+! colspan="3" |Oy
+! colspan="2" |Sandalye
+! rowspan="2" |Meclis
+! rowspan="2" |Sıra
+|-
+!#
+!%
+!± [[Yüzde puanı|Y]]
+!#
+!±
+|-
+|[[2023 Türkiye genel seçimleri|2023]]
+|[[Dosya:Muharrem İnce in 2023 (cropped).jpg|121x121px]]<hr>[[Muharrem İnce]]
+|502.669
+|{{Yüzde çubuğu|0.92|%0,92|1D5FA4}}
+|''Yeni''
+|{{Composition bar|0|600|hex=#1D5FA4}}
+|{{Düşüş}} 2
+|{{N/A|Baraj Altında Kaldı}}
+|10.
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none"
+! rowspan="2" |Seçim
+! rowspan="2" |Aday
+! colspan="3" |Oy
+! rowspan="2" |Sıra
+|-
+!#
+! %
+!± [[Yüzde puanı|Y]]
+|-
+![[2023 Türkiye cumhurbaşkanlığı seçimi|2023]]
+|[[Dosya:Muharrem İnce in 2023 (cropped).jpg|125x125pik]]
+----[[Muharrem İnce]]
+(adaylıktan çekildi)<ref name="İnce" group="Not">Seçime üç gün kala adaylıktan çekildi. Birinci turun oy pusulalarında yer almaktaydı.</ref>
+|235.783
+|%0,43
+|{{azalış}} [[2018 Türkiye cumhurbaşkanlığı seçimi|30,24]]|| {{hayır2|4.}} 
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Harita
+! rowspan="2" |Genel Başkan
+! colspan="3" |İl Genel Meclisleri
+! colspan="2" |Belediye Başkanlıkları
+! rowspan="2" |Sıra
+|-
+!Oy
+!%
+!± [[Yüzde puanı|Y]]
+!#
+!±
+|-
+|[[2024 Türkiye yerel seçimleri|2024]]
+|
+|[[Dosya:Muharrem İnce in 2023 (cropped).jpg|121x121px]]<hr>[[Muharrem İnce]]
+|115.423
+|{{Yüzde çubuğu|0.27|%0,27|1D5FA4}}
+|''Yeni''
+|{{Composition bar|1|1385|hex=#1D5FA4}}
+|{{Artış}} 1
+|14.
+|}
+
+==== Ara yerel seçimler ====
+Memleket Partisi, 2022 yılında [[Çankırı]]'nın [[Orta, Çankırı|Orta]] ilçesine bağlı [[Dodurga, Orta|Dodurga]] beldesinde yapılan belediye başkanlığı seçimine katıldı. 1411 seçmenin bulunduğu beldede Memleket Partisi, adayı Osman Dede ile 21 oy alarak beşinci parti oldu.<ref>{{Web kaynağı|url=https://www.gazetevatan.com/siyaset/dodurga-secim-sonuclari-2022-dodurga-nerede-belediye-baskani-hangi-partiden-oldu-dodurgada-secimi-kim-kazandi-2047808|başlık=Dodurga seçim sonuçları 2022! Dodurga nerede, Belediye Başkanı hangi partiden oldu? Dodurga'da seçimi kim kazandı? - Siyaset Haberleri|arşivengelli=evet|website=www.gazetevatan.com|erişimtarihi=4 Temmuz 2022|arşivurl=https://web.archive.org/web/20220816010833/https://www.gazetevatan.com/amp/siyaset/dodurga-secim-sonuclari-2022-dodurga-nerede-belediye-baskani-hangi-partiden-oldu-dodurgada-secimi-kim-kazandi-2047808|arşivtarihi=16 Ağustos 2022|ölüurl=hayır}}</ref>
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Notlar ==
+{{kaynakça|grup=Not}}
+
+== Dış bağlantılar ==
+* [https://www.memleketpartisi.org.tr/ Resmî site] {{Webarşiv|url=https://web.archive.org/web/20210831044950/https://memleketpartisi.org.tr/ |tarih=31 Ağustos 2021 }}
+* [https://www.memleketpartisi.org.tr/parti/parti-programi/ Parti Programı] {{Webarşiv|url=https://web.archive.org/web/20230406164203/https://www.memleketpartisi.org.tr/parti/parti-programi |tarih=6 Nisan 2023 }} 
+*[https://www.memleketpartisi.org.tr/parti/tuzuk/ Parti tüzüğü] {{Webarşiv|url=https://web.archive.org/web/20230406100423/https://www.memleketpartisi.org.tr/parti/tuzuk |tarih=6 Nisan 2023 }}
+{{Türkiye'deki eski siyasi partiler}}
+
+[[Kategori:Türkiye'deki sosyal demokrat partiler]]
+[[Kategori:Kemalist partiler]]
+[[Kategori:2021'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:2021'de kurulan siyasi partiler]]
+[[Kategori:2025'te Türkiye'de feshedilmiş oluşumlar]]
+[[Kategori:2025'te kapatılan siyasi partiler]]
+[[Kategori:Türkiye'deki eski siyasi partiler]]

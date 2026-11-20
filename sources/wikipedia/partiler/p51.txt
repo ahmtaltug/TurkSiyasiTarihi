@@ -1,0 +1,41 @@
+{{ek kaynak gerekli|tarih=Nisan 2020}}
+{{Siyasi parti bilgi kutusu
+| isim             = Millî Kalkınma Partisi
+| kısaltma         = MKP
+| amblem           = Millî Kalkınma Partisi logo.jpg
+| colorcode        = #01A7E1
+| kurucusu         = [[Nuri Demirağ]]
+| slogan           = 
+| kuruluş          = 18 Temmuz 1945
+| kapanış          = 22 Mayıs 1958<ref>"[http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf Cumhuriyet Döneminde Kurulan ve Kapanan Siyasi Partiler] {{Webarşiv|url=https://web.archive.org/web/20180127233824/http://www.tesav.org.tr/wp-content/uploads/2017/03/3.1923ten_Bu_Yana_Kurulan_ve_Kapatilan_Siyasi_Partiler.pdf |tarih=27 Ocak 2018 }}", tesav.org.tr</ref>
+| öncülü           = 
+| ardılı           = 
+| ideoloji         = [[Muhafazakârlık]]<br />[[Ekonomik liberalizm]]<br />[[Liberal demokrasi]]
+| pozisyon         = [[Merkez sağ]]
+| amblem_boyutu    = 200
+}}
+'''Millî Kalkınma Partisi''' (kısaca '''MKP'''), [[Türkiye]]'nin [[Türkiye'de çok partili dönem|çok partili rejim]]deki ilk [[muhalefet]] partisidir. [[Nuri Demirağ]] tarafından kurulmuştur.
+
+== Tarihçe ==
+[[II. Dünya Savaşı]]'nın son yıllarında başlayan liberalleşme süreciyle birlikte yeni partilerin kurulması yolu açıldı. Bu doğrultuda 7 Temmuz 1945'te gerekli başvuruyu{{Sfn|Uzun|2024|p=103}} yapan Millî Kalkınma Partisinin başvurusunu 5 Eylül 1945'te Başbakan [[Şükrü Saracoğlu]]'nun onaylamasıyla parti çalışmalarına resmen başladı.{{Sfn|Eroğul|1992|p=113}} Partinin kurucuları arasında Birinci Dönem Türkiye Büyük Millet Meclisinde (1920-23) muhalefet grubu olan İkinci Grup'un önderi [[Hüseyin Avni Ulaş]], [[Cevat Rıfat Atilhan]] gibi kişiler yer alıyordu. Partinin ilk genel başkanı da Nuri Demirağ'dı.{{Sfn|Uzun|2024|p=103}} Genel olarak liberal bir eğilimi yansıtan parti programında devletçilik uygulamaları eleştiriliyor, seçimlerin tek dereceli ve [[nispi temsil sistemi]]ne göre yapılması, iki meclisli yasama organı, cumhurbaşkanının yalnızca tek dönem için ve halk tarafından seçilmesi gibi yenilikler öneriliyordu. Programda ayrıca, belediye başkanlarının da halk tarafından seçilmesi isteniyordu.{{Sfn|Özacun|2013|pp=217-224}}
+
+Parti, [[Cumhuriyet Halk Partisi]]ni, [[Sovyetler Birliği|Rus]] taraftarı olmakla suçladı ve dış politikada İslam Birliği ve Şark Federasyonu'nu savundu.{{Sfn|Kaynar|Kalkan|2022|p=}}
+
+MKP 1946'da belediye seçimlerinde, gene 1946 ve 1950'de genel seçimlere katıldıysa da bir varlık gösteremedi. Başkan Nuri Demirağ 1954 genel seçimlerine [[Demokrat Parti (1946)|Demokrat Parti]] listesinden bağımsız aday olarak katıldı ve Sivas'tan milletvekili seçildi. Demirağ'ın 1957'de ölümünden sonra belirgin bir siyasal etkinlikte bulunmayan MKP, son genel kurulunu toplamadığı için 22 Mayıs 1958'de kendiliğinden fesholdu.
+== Kaynakça ==
+{{Kaynakça}}
+=== Kitaplar ===
+* {{Kitap kaynağı |ad=Hakan |soyadı=Uzun |başlık=Türkiye’nin 100 Yıllık Birikimi: Demokrasi ve Siyaset |yayıncı=[[Atatürk Araştırma Merkezi]] |yıl=2024 |yayınyeri=Ankara |isbn=978-975-17-5970-2 |dil=Türkçe |seri=Yayın No: 589|kaynak=harv}}
+* {{Kitap kaynağı |ad=Cem |soyadı=Eroğul|başlık=Geçiş Sürecinde Türkiye |yayımcı=Belge Yayınları |yer=İstanbul |yıl=1992 |sayfa=|isbn=9789753443616|kaynak=harv}}
+* {{Kitap kaynağı|url=https://www5.tbmm.gov.tr/yayinlar/2022/Cumhuriyet_donemi_partiler_secimler_beyannameler.pdf|başlık=CUMHURİYET DÖNEMİ PARTİLER, SEÇİMLER, BEYANNAMELER (1923-1980)|erişimtarihi=3 Şubat 2023|yazarlar=|tarih=2022|dil=Türkçe|sayfa=48|yayıncı=TBMM Basımevi|ad=Mete Kaan|soyadı=Kaynar|ad2=Nurettin|soyadı2=Kalkan|arşivurl=https://web.archive.org/web/20230110182958/https://www5.tbmm.gov.tr/yayinlar/2022/Cumhuriyet_donemi_partiler_secimler_beyannameler.pdf|arşivtarihi=10 Ocak 2023|ölüurl=hayır|kaynak=harv}}
+* {{Kitap kaynağı |ad=Orhan |soyadı=Özacun |başlık=Siyaset Tarihimizde Milli Kalkınma Partisi |dergi=Yakın Dönem Türkiye Araştırmaları |yıl=2013 |sayı=2 |url=https://izlik.org/JA62GU77RT |erişimtarihi=13 Nisan 2026 |dil=Türkçe|kaynak=harv}}
+{{Türk siyasi parti-taslak}}
+
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:1945'te Türkiye'de kurulan oluşumlar]]
+[[Kategori:1945'te kurulan siyasi partiler]]
+[[Kategori:1958'de kapatılan siyasi partiler]]
+[[Kategori:Türkiye'deki eski siyasi partiler]]
+[[Kategori:1958'de Türkiye'de feshedilmiş oluşumlar]]

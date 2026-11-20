@@ -1,0 +1,476 @@
+{{Diğer anlamı|TKP|Türkiye Komünist Partisi}}
+{{Siyasi parti bilgi kutusu
+| isim             = Türkiye Komünist Partisi
+| kısaltma         = TKP
+| colorcode        = {{Siyasi parti renk|Türkiye Komünist Partisi (2001)}}
+| amblem           = TKP logo (2023).svg
+| genel başkanı    = <!-- Partide Genel Başkan değil Genel Sekreter lider konumundadır. Dolayısıyla şablonda boş bırakılmıştır. Bilgi kaybı olmaması için güncel bilgi muhafaza edilmiştir (Ali Rıza Aydın<ref>[https://www.yargitaycb.gov.tr/icerik/1177 TC Yargıtay Başsavcılığı sayfasındaki veri 22 Şubat 2020 tarihinde erişilmiştir]</ref>) -->
+| genel sekreteri  = [[Kemal Okuyan]]
+| slogan           = {{küçük|''Boyun eğme!''}}<br>{{küçük|''TKP Gelir Her Şey Değişir''}}<br>{{küçük|''Yağma Yok Sosyalizm Var''}}<br>{{küçük|''Halk İçin Cumhuriyet Cumhuriyet İçin Sosyalizm''}}<br>{{küçük|''Paranın Saltanatı Varsa Halkın TKP'si Var''}}
+| kuruluş          = '''Sosyalist İktidar Partisi''' olarak:<br/>{{Açılış tarihi ve yaşı|1993|08|16}}<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1177|başlık=Yargıtay Cumhuriyet Başsavcılığı - Türkiye Komünist Partisi|çalışma=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=15 Temmuz 2025|arşivurl=https://web.archive.org/web/20200603081956/https://www.yargitaycb.gov.tr/icerik/1177|arşivtarihi=3 Haziran 2020}}</ref><br/>'''Türkiye Komünist Partisi''' olarak:<br/>{{Açılış tarihi ve yaşı|2001|11|11}}
+| kapanış          = 
+| merkez           = Kızılırmak Caddesi 13/4, Çankaya, [[Ankara]]<ref>{{Web kaynağı|url=http://www.tkp.org.tr/contact|başlık=Parti resmi sitesinden alınmıştır 22 Şubat 2020 tarihinde erişilmiştir|erişimtarihi=22 Şubat 2020|arşivurl=https://web.archive.org/web/20200222171418/http://www.tkp.org.tr/contact|arşivtarihi=22 Şubat 2020|ölüurl=evet}}</ref>
+| üyelik           = {{azalış}} 6.861<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1177|başlık=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=19 Ocak 2020|arşivurl=https://web.archive.org/web/20200603081956/https://www.yargitaycb.gov.tr/icerik/1177|arşivtarihi=3 Haziran 2020|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+* [[Komünizm]]
+* [[Marksizm-Leninizm]]
+* [[Sosyalist yurtseverlik|Sosyalist vatanseverlik]]
+* [[Antiemperyalizm]]<ref name="indyturk.com">{{Web kaynağı|url=https://www.indyturk.com/node/461876/siyaset/tkp-genel-sekreteri-okuyan-bizim-d%C3%BC%C5%9F%C3%BCnd%C3%BC%C4%9F%C3%BCm%C3%BCz-program-ve-ilkeler-etraf%C4%B1nda-bir|başlık=TKP Genel Sekreteri Okuyan: Bizim düşündüğümüz program ve ilkeler etrafında bir şey oradan çıkmaz|tarih=20 Ocak 2022|website=Independent Türkçe|erişimtarihi=2 Mayıs 2024|arşivurl=https://web.archive.org/web/20240502023053/https://www.indyturk.com/node/461876/siyaset/tkp-genel-sekreteri-okuyan-bizim-d%C3%BC%C5%9F%C3%BCnd%C3%BC%C4%9F%C3%BCm%C3%BCz-program-ve-ilkeler-etraf%C4%B1nda-bir|arşivtarihi=2 Mayıs 2024|ölüurl=hayır}}</ref>
+* [[Antikapitalizm]]<ref name="tkp">{{Web kaynağı|url=https://www.tkp.org.tr/temel-metinler/program-2/|başlık=Program - Türkiye Komünist Partisi|erişimtarihi=8 Ekim 2025|tarih=11 Eylül 2001|dil=Türkçe|çalışma=tkp.org.tr|arşivurl=https://web.archive.org/web/20250727164326/https://www.tkp.org.tr/temel-metinler/program-2/|arşivtarihi=27 Temmuz 2025|ölüurl=hayır}}</ref>
+* [[Antifaşizm]]<ref name="tkp"/>
+* [[Enternasyonalizm]]<ref name="tkp"/>
+* [[Çevrecilik]]<ref name="tkp"/>
+* [[Türkiye'de laiklik|Laiklik]]<ref name="indyturk.com"/>
+}}
+| gençlik_kolu     = [[#Gençlik_kolları|Türkiye Komünist Gençliği (TKG)]]
+| düşünce_kuruluşu = [[Patronların Ensesindeyiz Ağı]]
+| öğrenci_kolu     = TKG LİSE
+| işçi_kolu        = [[Patronların Ensesindeyiz Ağı]]
+| kadın_kolu       = [[Kadın Dayanışma Komiteleri]] (KDK)
+| pozisyon         = [[Aşırı sol]]
+| eski genel başkanları = [[Aydemir Güler]] [[Erkan Baş]]
+| öncülü           = [[Sosyalist İktidar Partisi]]
+| internet sitesi  = [http://www.tkp.org.tr www.tkp.org.tr]
+| bayrak           = TKP_flag.pdf
+| avrupa           = [[Komünist ve İşçi Partileri İnisiyatifi]]
+| uluslararası     = [[Uluslararası Komünist ve İşçi Partileri Toplantısı]]
+| renkler          = {{Color box|#A60402|border=darkgray}} {{Color box|#FFD300|border=darkgray}} [[Kırmızı]] ve [[sarı]]
+| ulusal           = [[Sosyalist Güç Birliği]]<br>{{küçük|(2022-2023)}}
+| gazete           = TKP'nin Sesi
+| ülke             = {{TUR}}
+| bölünme          = [[Komünist Parti (Türkiye)|Komünist Parti]]<br>[[Halkın Türkiye Komünist Partisi]]
+| sandalye1_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye1        = {{Composition bar|9|20953|hex={{Siyasi parti renk|Türkiye Komünist Partisi (2001)}}}}
+}}
+'''Türkiye Komünist Partisi''', 11 Kasım 2001 tarihinde kurulan ve [[Türkiye]]'de faaliyet gösteren [[Marksizm-Leninizm|Marksist-Leninist]] bir siyasi partidir. Parti tüzüğüne göre resmî kısaltması "'''TKP'''" şeklindedir. Simgesi çarkla çevrelenmiş çekiç ve üstünde bulunan yıldızdır. Genel sekreteri [[Kemal Okuyan]]'dır. Ancak [[kolektif liderlik]] ilkesi gereği en yetkili karar organı parti kongresinde seçilen [[Merkez komitesi|Merkezi Komitedir]].<ref group="not">Parti tüzüğüne göre genel başkan diğer Merkez Komite üyelerinden daha yetkili değildir, sadece yasal zorunluluk nedeniyle genel başkan belirlenmiştir. Parti tüzüğüne göre önderlik bir kolektif olarak örgütlenir ve iki Parti Kongresi arasında partinin en yetkili karar organı olan Merkez Komite'de somutlanır.</ref>
+
+TKP kendini [[Proleter devrim|sosyalist devrimin]] öncü gücü olarak gördüğü [[işçi sınıfı]]nın siyasal mücadele aracı tanımlamakta, Türkiye'de sosyalist iktidar mücadelesi vermeyi ve [[sosyalizm]]i kurmayı amaçlamakta ve bu doğrultuda kendisini dünya [[Komünizm|komünist]] hareketinin bir parçası olarak görerek [[emperyalizm]]e karşı Türkiye'de [[Sosyalist yurtseverlik|yurtseverlik]] ve [[sınıf bilinci]]nin işçi ve emekçi kitlelerde gelişmesi için çalıştığını belirtmektedir.<ref>{{Web kaynağı|başlık=Parti Programı|yazar=|url=http://www.tkp.org.tr/tr/program/program|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202051410/http://www.tkp.org.tr/tr/program/program|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+Tarihsel olarak, partinin örgütsel tarihi 1978 yılında [[Türkiye İşçi Partisi (1961)|Türkiye İşçi Partisinde]] (TİP) yaşanan ayrışma sonrasında ortaya çıkan Sosyalist İktidar grubu ile başlar. [[12 Eylül Darbesi|1980 yılında yapılan askerî darbe]] sonrası bu grup Kasım 1986 tarihinden itibaren [[Gelenek (dergi)|''Gelenek'']] dergisini yayınlamaya başlamıştır ve ilk olarak 6 Kasım 1992'de [[Sosyalist Türkiye Partisi]]ni (STP) kurmuştur. Ancak STP 1993 yılında [[Türkiye Cumhuriyeti Anayasa Mahkemesi|Anayasa Mahkemesi]] tarafından kapatılmış ve hemen ardından aynı yıl [[Sosyalist İktidar Partisi]] (SİP) kurulmuştur. 2001 yılında düzenlenen olağanüstü kongrede SİP, parti kadrolarının 2000 yılında yasağa karşı kurduğu Komünist Parti (KP) ile birleşerek TKP adını almıştır.<ref>{{Web kaynağı|başlık=Yasak kalktı TKP resmen kuruldu|yazar=|url=http://arsiv.sabah.com.tr/2001/11/12/p06.html|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202043257/http://arsiv.sabah.com.tr/2001/11/12/p06.html|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+2014 yılında, yaşanan iç tartışmalar sonucunda parti iki gruba ([[Komünist Parti (Türkiye)|KP]], [[Halkın Türkiye Komünist Partisi|HTKP]]) bölünmüş ve partinin adı ve tüzel kişiliği denetim misyonunu üstlenmiş bulunan kişilere ve üstünde mutabakata varılan bir TKP heyetine teslim edilerek siyasi faaliyetleri dondurulmuştur.<ref>{{Web kaynağı|başlık=TKP bölündü, parti adı ve amblemi ‘korumaya alındı'|yazar=|url=http://www.diken.com.tr/tkp-bolundu-parti-adi-ve-amblemi-korumaya-alindi/|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202025517/http://www.diken.com.tr/tkp-bolundu-parti-adi-ve-amblemi-korumaya-alindi/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> [[Halkın Türkiye Komünist Partisi|HTKP]] grubu kendi iç tartışmaları sonunda 2015 yılında bir bölünme daha yaşamış ve ayrılan grup [[Türkiye Komünist Hareketi]]ni kurmuştur.<ref>{{Web kaynağı|url=https://www.evrensel.net/haber/257825/htkpde-ayrilik|başlık=HTKP'de ayrılık|erişimtarihi=15 Şubat 2017|arşivtarihi=16 Şubat 2017|arşivurl=https://web.archive.org/web/20170216134847/https://www.evrensel.net/haber/257825/htkpde-ayrilik|ölüurl=evet}}</ref> 2017 yılının başında TKP adının devredildiği heyetinin çağrısı ile<ref>{{Web kaynağı|url=http://haber.sol.org.tr/toplum/tkp-heyetinden-parti-uyelerine-8-ocak-aciklamasi-180474|başlık=TKP Heyeti'nden parti üyelerine 8 Ocak açıklaması|erişimtarihi=25 Ocak 2017|arşivtarihi=2 Şubat 2017|arşivurl=https://web.archive.org/web/20170202021919/http://haber.sol.org.tr/toplum/tkp-heyetinden-parti-uyelerine-8-ocak-aciklamasi-180474|ölüurl=evet}}</ref> gerçekleştirilen toplantı sonrası yasal/resmi olarak KP grubunun önderliğinde TKP'nin faaliyetlerinin devam etmesi kararı alınmıştır.<ref>{{Web kaynağı|url=https://haber.sol.org.tr/toplum/binlerce-tkpli-bugun-istanbulda-bulusuyor-182924|başlık=Binlerce TKP'li bugün İstanbul'da buluşuyor {{!}} soL haber|erişimtarihi=15 Ağustos 2025|tarih=20 Ocak 2017|dil=Türkçe|çalışma=haber.sol.org.tr|arşivurl=https://web.archive.org/web/20180223191729/http://haber.sol.org.tr/toplum/binlerce-tkpli-bugun-istanbulda-bulusuyor-182924|arşivtarihi=23 Şubat 2018|ölüurl=hayır}}</ref>
+
+Partinin en yetkili karar organı Parti Kongresi'nde seçilen Merkezi Komitesidir. ''Gelenek'' ve ''Boyun Eğme'' partinin resmî yayınlarıdır. Bunun yanında [[soL Haber Portalı|''soL Haber Portalı'']]'nda TKP Merkez Komite ve parti üyelerinin köşe yazıları yayınlanmaktadır. Aynı zamanda ''TKP'nin Sesi'' adıyla düzenli aralıklarla yayınlanan bir podcast de mevcuttur.
+
+Partinin gençlik kolu "Türkiye Komünist Gençliği"dir.<ref>{{Web kaynağı|başlık=Türkiye Komünist Gençliği yola çıktı!|yazar=|url=http://haber.sol.org.tr/toplum/turkiye-komunist-gencligi-yola-cikti-183212|tarih=23 Ocak 2017|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170125152308/http://haber.sol.org.tr/toplum/turkiye-komunist-gencligi-yola-cikti-183212|arşivtarihi=25 Ocak 2017|ölüurl=evet}}</ref> Ayrıca, TKP [[Uluslararası Komünist ve İşçi Partileri Toplantısı]] ve [[Komünist ve İşçi Partileri İnisiyatifi]] üyesidir.
+
+== Tarihçe ==
+=== 12 Eylül sonrası ve Gelenek Dönemi (1986-1992) ===
+[[Dosya:Gelenek.jpg|küçükresim|upright=1.7|Gelenek - 30. Yılda Gelenek'in Güncelliği, Kasım 2016, 132. sayı]]
+2001 yılında kurulan TKP'nin örgütsel tarihi ilk olarak 1978 yılında [[Türkiye İşçi Partisi (1961)|Türkiye İşçi Partisinde]] (TİP) yaşanan ayrışma sonrasında ortaya çıkan Sosyalist İktidar grubu ile başlar. TİP'in faaliyetlerinin sosyalist devrimi savunan parti programı ile uyumlu olmadığını, dönemin baskı havası içerisinde ve solda birlik adına iktidar perspektifinin yitirildiğini savunan bu grup, [[Yalçın Küçük]] ve [[Metin Çulhaoğlu]] liderliğinde Sosyalist İktidar dergisini çıkarmaya başlamıştır.<ref name="Parti tarihi">{{Web kaynağı|başlık=Parti Okulu - Parti tarihi|yazar=|url=http://partiokulu.tkp.org.tr/aday-uye/aday-uye-egitim-metni/parti-tarihi|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20160411060559/http://archive.is/WJSI|arşivtarihi=11 Nisan 2016|ölüurl=}}</ref> Ancak, bu dergi çevresi 1978-1980 arası dönemde fazla etkili olamamış, 12 Eylül 1980'de gerçekleşen askerî darbe ile dönemin diğer sol parti ve grupları gibi faaliyetleri çok önemli ölçüde sonlandırılmıştır.
+
+Darbe sonrası girilen dönemde grup daha çok teorik yapılanmayı ve kadrolaşmayı hedeflemiş, ancak 1982 yılında Sosyalist İktidar grubu içerisinde [[Yalçın Küçük]] ve [[Metin Çulhaoğlu]] ayrışması yaşanmıştır. Yalçın Küçük ve çevresindekiler Toplumsal Kurtuluş dergisini yayınlamaya başlarken, 1986 yılında cezaevinden çıkan Metin Çulhaoğlu ve çevresindeki gençler Gelenek dergisini çıkarmaya başlamıştır. İlk sayısı Kasım 1986 yayınlanan dergi, solu üç çizgide geleneksel sol, devrimci demokrasi ve yeni sol olarak ele almış, kendini geleneksel sol içine yerleştirmiştir.<ref name="Parti tarihi"/> Gelenek Marksizm-Leninizmin devrimci bir içerikte güncellenmesini savunmuş ve dönemde ortaya çıkan sivil toplumcu yönelimlere karşı durmuştur. Bu doğrultuda, [[Sovyetler Birliği|SSCB]]'de o dönemde yaşanan [[Glasnost]] ve [[Perestroyka]] süreçleri eleştirilmiştir.
+
+Derginin yanına başlamasının hemen ardından [[1987 Türkiye genel seçimleri|1987 genel seçimlerinde]] dönemin partilerini düzen partisi olarak görerek hiçbirini desteklememiştir, diğer gruplarla beraber bağımsız aday çalışmaları yapmıştır. Yine bu yıllarda, ortaya çıkan Türkiye solunda başlayan birlik süreçleri ve tartışmalarına Gelenek grubu da katılmış, bütün bileşenlerinin ayrı kimliklerini koruyabilecekleri, solun farklı kesimlerini bir araya getiren ve bu haliyle uzun vadede yaşamını sürdürmesi mümkün olmayacak bir parti açılımının denenmeye değer olduğunu savunarak sürece dahil olmuştur.<ref name="Parti tarihi"/> Fakat bu girişimler bir sonuç vermemiştir.
+
+Tartışmaların sonuçsuz kalmasının ardından, Gelenek dergisi çevresi 6 Kasım 1992 tarihinde [[Sosyalist Türkiye Partisi]]'sini (STP) kurmuştur. STP'nin yedi kişilik Siyasi Bürosu şu isimlerden oluşmuştur; ''Ali Önder Öndeş (Genel Başkan), [[Kemal Okuyan]] (Genel Başkan yardımcısı), [[Metin Çulhaoğlu]], Süleyman Baba, Uğur Özdemir, Işıtan Gündüz, [[Aydemir Güler]].''<ref name="Parti tarihi"/> STP, işçi sınıfı öncülüğünde gerçekleşecek devrim döneminin programı olarak tanımladığı parti programında, bilimsel sosyalist teoriyi kendine rehber edindiğini söylemiş ve toplumsal bir sistem olarak sosyalizmin kuruluşunu amaçladığını belirtmiştir.<ref name="STP Program">{{Web kaynağı|başlık=STP Program, Savunma ve Belgeler|yazar=|url=https://www.tbmm.gov.tr/eyayin/GAZETELER/WEB/KUTUPHANEDE%20BULUNAN%20DIJITAL%20KAYNAKLAR/KITAPLAR/SIYASI%20PARTI%20YAYINLARI/199602620%20STP%20PROGRAM%20SAVUNMA%20VE%20BELGELER/199602620%20STP%20PROGRAM%20SAVUNMA%20VE%20BELGELER.pdf|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170818004817/https://www.tbmm.gov.tr/eyayin/GAZETELER/WEB/KUTUPHANEDE%20BULUNAN%20DIJITAL%20KAYNAKLAR/KITAPLAR/SIYASI%20PARTI%20YAYINLARI/199602620%20STP%20PROGRAM%20SAVUNMA%20VE%20BELGELER/199602620%20STP%20PROGRAM%20SAVUNMA%20VE%20BELGELER.pdf|arşivtarihi=18 Ağustos 2017|ölüurl=evet}}</ref> Ancak parti programında bulunan bazı bölümler nedeniyle Sosyalist Türkiye Partisi (STP) 2820 sayılı Siyasi Partiler Yasasının 78/a ve 81/a, b maddelerine göre, "devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozucu" davranışları yüzünden 30 Kasım 1993 tarihinde [[Türkiye Cumhuriyeti Anayasa Mahkemesi]]'nin 1993/2 esas sayılı ve 1993/3 karar sayılı hükümleriyle kapatılmıştır.<ref>{{Web kaynağı|başlık=Anayasa Mahkemesi'nin Parti Kapatma Kararları|yazar=|url=http://bianet.org/bianet/insan-haklari/103045-anayasa-mahkemesi-nin-parti-kapatma-kararlari|tarih=21 Kasım 2007|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170915022901/http://bianet.org/bianet/insan-haklari/103045-anayasa-mahkemesi-nin-parti-kapatma-kararlari|arşivtarihi=15 Eylül 2017|ölüurl=hayır}}</ref><ref>{{Web kaynağı|başlık=Anayasa Mahkemesi Kararı|yazar=|url=http://kararlaryeni.anayasa.gov.tr/Karar/Content/c5c00378-fd04-4bf8-b6e0-f684a57846a5?higllightText=stp&excludeGerekce=False&wordsOnly=False|tarih=30 Kasım 1993|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202023036/http://kararlaryeni.anayasa.gov.tr/Karar/Content/c5c00378-fd04-4bf8-b6e0-f684a57846a5?higllightText=stp&excludeGerekce=False&wordsOnly=False|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+=== SİP dönemi (1993-2001) ===
+[[Dosya:18 ico.jpg|küçükresim|upright=0.91|SİP Afişi]]
+STP'nin 1993 yılında kapatılmasının hemen ardından parti kadroları [[Sosyalist İktidar Partisi]]'ni (''SİP'') kurmuştur. Ancak aynı yıl parti iç örgütsel sorunlar ile karşılaşmış ve Gelenek döneminden beri grupta bulunan partinin en önemli isimlerinden [[Metin Çulhaoğlu]] partiden ayrılarak Sosyalist Politika adıyla bir dergi çıkarmaya başlamıştır.<ref>{{Web kaynağı|başlık=Metin Çulhaoğlu'nun Maceraları|yazar=|url=http://www.teorivepolitika.net/index.php/arsiv/item/528-metin-culhaoglunun-maceralari|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202041437/http://www.teorivepolitika.net/index.php/arsiv/item/528-metin-culhaoglunun-maceralari|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Yeni kurulan SİP'in genel başkanlığını [[Aydemir Güler]] yapmaya başlamıştır.
+
+Kuruluşunun ardından 1994 yılı Mart ayında gerçekleştirilen [[1994 Türkiye yerel seçimleri|yerel seçimde]] seçimlere parti olarak katılma hakkı bulunmayan SİP, önce belli merkezlerde bağımsız adaylar gösterse de, [[Demokrasi Partisi|DEP]]'e karşı yönelen baskı ve saldırıların üzerine seçimlerden çekilme kararı alarak boykot çağrısı yaptığını açıklamış ve aynı yıl ''Sömürü ve Zulme karşı Güçbirliği açılım''ını başlattığını duyurmuştur. Aralık 1995 yılında yapılan [[1995 Türkiye genel seçimleri|genel seçimde]] ise yine seçimlere katılma hakkı bulunmayan SİP, [[Halkın Demokrasi Partisi|HADEP]]'in ''Emek, Barış ve Özgürlük Bloku'' çağrısına olumlu yanıt vererek seçim işbirliğine gitmiştir.<ref name="Parti tarihi"/> Bu dönemde SİP, İstanbul Üniversitesi'nde 1996 yılında gerçekleşen harçlara karşı işgal eylemi ve 1 Mayıs 1996'da Taksim'de düzenlediği gösteri ile gündeme gelmiş, 19 Ocak 1997 tarihinde ''Bu memleket bizim, çetelere bırakmayacağız'' sloganı ile öncülüğünü yaptığı eylemler ile Susurluk kazası sonrası ortaya çıkan tabloyu eleştirmiştir. Yine aynı yıl ODTÜ'de yürütülen McDonalds'a karşı kampanya ile ismini duyurmuştur.<ref name="Parti tarihi"/>
+
+1999 yılında SİP, Aydemir Güler genel başkanlığında ilk defa [[1999 Türkiye genel seçimleri|genel seçimlere]] katılmış ve parti 37.680 oy alarak %0.12 oy oranı ile seçimi tamamlamıştır. Seçim sürecinde ''Yağma yok, sosyalizm var'' sloganını kullanan parti, seçim öncesinde 17 Nisan 1999 tarihinde üyesi Hüseyin Duman'ı parti konvoyuna düzenlenen saldırı ile kaybetmiş, dönemin Küçükbakkalköy Ülkü Ocağı Başkanı İhsan Bal öldürmeden dolayı yargılanmıştır.<ref>{{Web kaynağı|başlık=SİP üyesinin öldürülmesi davası|yazar=|url=http://arsiv.ntv.com.tr/news/72422.asp|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202032559/http://arsiv.ntv.com.tr/news/72422.asp|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+SİP, 2000 yılında komünist adıyla örgütlenme, parti kurulması ve siyaset yasağına karşı çalışmalara başlamış ve bu doğrultuda ilk olarak SİP'in o dönemki merkez yönetiminde görev alan [[Yalçın Cerit]] kurucu genel başkanlığı ile "Komünist Parti" adıyla yeni bir siyasi parti kurulmuştur.<ref>{{Web kaynağı|başlık=Komünist Partisi kuruldu|yazar=|url=http://arsiv.ntv.com.tr/news/18600.asp|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202032505/http://arsiv.ntv.com.tr/news/18600.asp|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Bu dönemde [[Kemal Okuyan]] partinin isminin neden Türkiye Komünist Partisi değil de Komünist Parti olması ile ilgili daha önceden var olan tarihsel [[Türkiye Komünist Partisi (1920)|TKP]]'nin bir devamı gibi görünmek istemediklerini belirtmiş, parti ismi üzerinde oluşacak tartışmalara girmek istemediklerini söylemiştir.<ref>{{Web kaynağı|başlık=Bir Belge: Kemal Okuyan'la Söyleşi|yazar=|url=https://urundergisi.com/makaleler.php?ID=1812|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202022855/https://urundergisi.com/makaleler.php?ID=1812|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Ancak, bu durum sonradan değişmiş, o dönemde Siyasi Partiler Kanununda yer alan komünist parti adıyla parti kurulamaz ilgili maddesine rağmen, partiye dava açılmaması ve fiili olarak yasak ortadan kalkması ile birlikte Bunun üzerine SİP, daha önce kurduğu Komünist Parti'nin partiye katılması ve TKP'nin kurulması için çalışmalarına başlamıştır.
+
+=== TKP'nin kuruluşu ve ilk yıllar (2001-2010) ===
+[[Dosya:TKP logo.svg|küçükresim|upright=0.68|Partinin 2001-2023 yılları arasında kullanılan logosu]]
+11 Kasım 2001 tarihinde gerçekleştirilen 6. Olağanüstü Kongresi'nde Sosyalist İktidar Partisi (SİP), kongre öncesinde kendisine katılan Komünist Parti ile partinin adını değiştirilerek Türkiye Komünist Partisi (TKP) olduğu açıklamıştır. Daha önceden SİP'den ayrılan [[Metin Çulhaoğlu]]'nun Sosyalist Politika grubunun ve bazı diğer bağımsız aydınların da partiye katıldığı kongrede TKP'nin Merkez Komitesi Aydemir Güler, Kemal Okuyan, Süleyman Baba, Uğur İşlek, Erkin Özalp, Hüseyin Karabulut, Kurtuluş Kılçer, Oğuz Kavala, Hüsnü Atlıkan, Yalçın Cerit, Mesut Odman, Gülay Dinçel, Alper Dizdar, Gamze Erbil, Mehmet Kuzulugil, Yaşar Çelik, Nihal İmeryüz, Tunç Tatoğlu, Sedat Cengiz, Haluk İmeryüz, Arif Basa, Atilla Gökçek olarak belirlenmiş, 1993 yılından beri Sosyalist İktidar Partisi Genel Başkanlığını sürdüren [[Aydemir Güler]] yeniden Genel Başkan seçilirken, [[Kemal Okuyan]] Genel Sekreter, Süleyman Baba Örgüt Sekreteri görevlerini üstlenmişlerdir.<ref>{{Web kaynağı|başlık=SİP, Türkiye Komünist Partisi oldu|yazar=|url=http://m.bianet.org/bianet/siyaset/6049-sip-turkiye-komunist-partisi-oldu|tarih=14 Kasım 2001|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202040738/http://m.bianet.org/bianet/siyaset/6049-sip-turkiye-komunist-partisi-oldu|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> TKP kuruluş tarihi olarak da 10 Eylül 1920'de gerçekleştirilen Bakü Kongresi'ni esas aldığını ilan etmiştir.
+
+==== 2002 seçimleri ve Irak Savaşı'na karşı duruş ====
+[[Dosya:TR-Istanbul_Communist_Party_of_Turkey_office.JPG|küçükresim|upright=1.18|İstanbul, Önceki Parti Örgütü Binası, [[İstanbul]]]]
+Kurulduktan sonra TKP [[2002 Türkiye genel seçimleri|2002 genel seçimlerine]] katılmıştır. 'Paranın saltanatı varsa halkın TKP'si var' sloganı ile katıldığı seçimde TKP aldığı 59.180 oy ve %0.19 oranı ile barajın altında kalmış ve mecliste hiçbir sandalye elde edememiştir. Seçimin ardından parti, TKP 2002 Konferans Raporu'nda altının çizildiği gibi emperyalist planların reddedilmesi bağlamında ABD'nin olası bir Irak işgaline ve Türkiye'nin asker göndererek, sınırları içindeki üsleri kullandırarak veya hava sahasını açarak destek vermesine karşı çıkacağını açıklamıştır.<ref>{{Web kaynağı|başlık=TKP 2002 Konferans Raporu|yazar=|url=https://www.kp.org.tr/tr/kongre-belgeleri/tkp-2002-konferans-raporu-07102002|tarih=7 Ekim 2002|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202095427/https://www.kp.org.tr/tr/kongre-belgeleri/tkp-2002-konferans-raporu-07102002|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> 20 Mart 2003'te Amerika Birleşik Devletleri ve Birleşik Krallık önderliğinde oluşturulmuş Çok Uluslu Koalisyon Kuvvetlerinin bir askerî harekâtıyla [[Irak Savaşı]]'nın başlaması üzerine TKP protesto kampanyası başlatmıştır. Bu amaçla ''İşgale Karşı Komiteler'' ve ''Barış Derneği'' kurulmuş, çeşitli kampanyalar ve toplantılar düzenlenmiş ve TKP çeşitli şehirlerde ABD işgalini protesto etmiştir.<ref>{{Web kaynağı|başlık=TKP 12 Mart'ta ABD işgaline karşı İskenderun Limanı'ndaydı|yazar=|url=http://www.istanbul.indymedia.org/comment/198904|tarih=12 Mart 2003|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202025408/http://www.istanbul.indymedia.org/comment/198904|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+==== 7. Kongre ve 2004 yerel seçimleri ====
+29 Şubat 2004 Pazar günü, Ankara Ahmet Taner Kışlalı Spor Salonu'nda Türkiye Komünist Partisi 7. Kongresi yapılmıştır. TKP Merkez Komitesi seçimlerinin yapıldığı kongrede, [[Aydemir Güler]] genel başkanlığa, [[Kemal Okuyan]] Genel Sekreterliğe, Süleyman Baba Örgüt Sekreterliğine yeniden seçilmiştir. Kongre'de alınan kararlara göre; TKP [[2004 Türkiye yerel seçimleri|2004 yerel seçimlerine]] işçi sınıfının çıkarlarının korunması amacıyla katılacağını, özelleştirmelere karşı mücadele edeceğini, AKP hükûmetine mücadelenin yoğunlaştırılacağını, Türkiye'nin AB üyelik hedefine karşı etkili yöntemler geliştirileceğini, NATO'ya ve İstanbul'daki toplantısına karşı örgütleneceğine, Irak'ta işgale karşı direniş gösteren güçlere siyasi destek vereceğini açıklamıştır.<ref>{{Web kaynağı|başlık=Türkiye Komünist Partisi'nin 7. Kongresi yapıldı|yazar=|url=http://istanbul.indymedia.org/comment/203238|tarih=1 Mart 2004|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202024700/http://istanbul.indymedia.org/comment/203238|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+28 Mart 2004 tarihinde yapılan yerel seçimlerde, Türkiye Komünist Partisi il genel meclisi seçimlerinde 85.178 oy alarak %0,26 oy oranına ulaşmasına rağmen hiçbir belediye başkanlığı seçiminde zafer kazanamamıştır. Seçimin ardından 2005 Şubat'ında TKP'nin çağrısında ve öncülüğünde düzenlenen 'Yurtsever Kurultayı' ile yurtseverlik açılımını başlatmış ve Yurtsever Cephe kurulmuştur. Bu cephe emperyalizme karşı mücadelenin hızlı değişen gereksinimlerine işçi sınıfı perspektifinden yanıt üretebilecek özgün bir örgütlenme olarak görülmüş, gücünü merkezi bir yapılanmadan çok, açık ve yalın ilkeler etrafında örülen taban inisiyatiflerinden alacağı belirtilmiştir.<ref name="TKP 8. Kongre Raporu">{{Web kaynağı|başlık=TKP 8. Kongre Raporu|yazar=|url=https://www.kp.org.tr/tr/kongre-belgeleri/tkp-8-kongre-raporu-28122006|tarih=28 Aralık 2006|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202095613/https://www.kp.org.tr/tr/kongre-belgeleri/tkp-8-kongre-raporu-28122006|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+==== 2007 genel seçimleri ve sonrası ====
+[[Dosya:Salonika03-tkp228.jpg|küçükresim|upright=1.18|Türkiye Komünist Partisi tarafından düzenlenen protesto yürüyüşü]]
+2006 yılı boyunca TKP, çalışmalarını Yurtsever Cephe çalışmalarının kurulan inisiyatiflerin artırılması ve güçlendirilmesi yönünde yoğunlaştırmış ve bu doğrultuda ''Yurtsever Gazetesi'' yayımlanmaya başlanmıştır. 28 Aralık 2006‘da ise Türkiye Komünist Partisi 8. Kongresi gerçekleştirilmiştir.<ref>{{Web kaynağı|başlık="Devlet çözülüyor", TKP üzülüyor|yazar=|url=http://istanbul.indymedia.org/comment/338275|tarih=7 Mart 2007|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202023729/http://istanbul.indymedia.org/comment/338275|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Kongre sonunda yayınlanan TKP 8. Kongre Raporu'nda siyasi tezlerini açıklanmıştır; Buna göre TKP, Türkiye'de devletin çözülmekte olduğunu, devletin çözülme sürecine girmesinde dinciliğin önemli bir etkisinin bulunduğunu ve Türkiye'de işçi sınıfının örgütsüz ve bölünmüş olduğunun tespitini yapmıştır. Bu noktadan hareketle, TKP işçi sınıfının örgütlü gücünü artırmak için sendikal hareketin ilkelerinin netleştirilmesi amacıyla konferans düzenlenmesi, Türk ve Kürt Halkının Birliği İçin partinin Kürt işçiler arasında örgütlenebilmesi gerekli düzenlemelerin yapılması, emperyalizm ile mücadele için Avrupa Birliği'ne üyelik sürecine ve ABD'nin Ortadoğu politikalarına karşı mücadelenin artırılması kararlarını kongrede almıştır.<ref name="TKP 8. Kongre Raporu"/>
+
+22 Temmuz günü gerçekleştirilen ve TKP'nin "Sürüden Ayrılma Zamanı" sloganı ile girdiği [[2007 Türkiye genel seçimleri|2007 genel seçimleri]]nde parti 79.258 oy alarak %0,23 oy oranı ile seçimi tamamlamıştır. Aynı yıl partinin 8.Kongre'de aldığı karar doğrultusunda Yurtsever Cephe İşçi Kurultayı ve Yurtsever Cephe İşçi Birliği birliği kurulmuştur.<ref name="Parti tarihi"/> 2008 yılında ise TKP ve Yurtsever Cephe öncülüğünde İstanbul Kadıköy'de "AKP'yi İstemiyoruz" mitingi düzenlenmiş,<ref>{{Web kaynağı|başlık=Kadıköy'de AKP'yi istemiyoruz mitingi!|yazar=|url=http://www.milliyet.com.tr/kadikoy-de--akp-yi-istemiyoruz--mitingi--gundem-500901/|tarih=2 Mart 2008|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202093115/http://www.milliyet.com.tr/kadikoy-de--akp-yi-istemiyoruz--mitingi--gundem-500901/|arşivtarihi=2 Şubat 2017|ölüurl=hayır}}</ref> üniversitelerde soL Üniversite Konseyleri Derneği (ÜKD) tarafından başlatılan ve partiye yakın akademisyenleri destek verdiği  "Ülkemizi ve Üniversitemizi Gericiliğe Teslim Etmiyoruz" başlıklı imza kampanyası ile üniversitelerde türban giyilmesine karşı çıkılmıştır.<ref>{{Web kaynağı|başlık=Ükd'den Türbana karşı Bir Günde Bin İmza|yazar=|url=http://istanbul.indymedia.org/comment/373685|tarih=7 Şubat 2008|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202025354/http://istanbul.indymedia.org/comment/373685|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+=== 2010'lu yıllar === 
+==== 9. Kongre ve 2009 yerel seçimleri ====
+[[Dosya:TKP_9Kongre.png|küçükresim|upright=0.91|TKP 9.Kongre Türkiye Konferansı Logosu]]
+2009 yılının başında 1 Şubat tarihinde partide önemli değişiklileri getirecek olan Türkiye Komünist Partisi 9. Kongresi İstanbul Gösteri Merkezi'nde düzenlenmiştir.<ref>{{Web kaynağı|başlık=Türkiye Komünist Partisi 9. Kongre Türkiye Konferansı'nı tamamladı|yazar=|url=http://sendika14.org/2009/02/turkiye-komunist-partisi-9-kongre-turkiye-konferansini-tamamladi/|tarih=2 Şubat 2009|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202033926/http://sendika14.org/2009/02/turkiye-komunist-partisi-9-kongre-turkiye-konferansini-tamamladi/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Kongre'de o güne kadar Genel Başkanlık görevinde bulunan [[Aydemir Güler]] ve Genel Sekreterlik görevini üstlenen [[Kemal Okuyan]] bu görevlerini bırakırken, [[Erkan Baş]] genel başkanlık için seçilmiştir. Bunun yanı sıra, kolektif önderlik sıfatıyla görev yapan Siyasi Büro'da o güne kadar eşit sorumlulukla çalışan Aydemir Güler, Kemal Okuyan ve Süleyman Baba ile birlikte Erkan Baş, Erhan Nalçacı, Kurtuluş Kılçer ve Mehmet Kuzulugil yeni üyeler olarak göreve başlamış, üye sayısı 3'ten 7'ye çıkarılmıştır.<ref>{{Web kaynağı|başlık=Sosyalist solda kan değişikliği|yazar=|url=http://t24.com.tr/haber/sosyalist-solda-kan-degisikligi,27166|tarih=2 Şubat 2009|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202033607/http://t24.com.tr/haber/sosyalist-solda-kan-degisikligi,27166|arşivtarihi=2 Şubat 2017|ölüurl=hayır}}</ref> Toplantıda konuşan TKP Genel Sekreteri Kemal Okuyan 2007 Konferans sürecinden bu yana partinin önüne koyduğu örgütsel dönüşüm hedefine ulaştığını belirterek 9.Kongre ile yeni bir döneme girildiğine vurgu yapmıştır.<ref>{{Web kaynağı|başlık=TKP 9. Kongre süreci başladı|yazar=|url=http://haber.sol.org.tr/sol-partilerden/tkp-9-kongre-sureci-basladi-haberi-10352|tarih=2 Şubat 2009|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202022556/http://haber.sol.org.tr/sol-partilerden/tkp-9-kongre-sureci-basladi-haberi-10352|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Kongre sonunda yayımlanan rapora göre parti 2008'de yaşanan küresel ekonomik krizin Türkiye'ye olan etkilerinin sonuçlarından işten çıkarmalar, ücretsiz izin uygulamaları, çalışma saatlerinin keyfi biçimde belirlenmesi, reel ücretlerdeki gerilemeye karşı somut yasal düzenlemeler yapılması gibi uygulamalara karşı işçi sınıfının haklarının savunulacağını ve işçi sınıfının dağınık tepkilerinin örgütlenerek mücadele kanallarına aktarılmasına çalışılacağını, 2009 yerel seçimleri için çalışma yürütüleceğini, Kürt sorununun Türkiye'de yaşayan bütün ulusların eşitliği temelinde çözümü için mücadele edileceğini kararlaştırmıştır.<ref name="TKP 9. Kongre Raporu">{{Web kaynağı|başlık=TKP 9. Kongre Raporu|yazar=|url=https://www.kp.org.tr/tr/kongre-belgeleri/turkiye-komunist-partisi-9-kongre-kararlar|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202095805/https://www.kp.org.tr/tr/kongre-belgeleri/turkiye-komunist-partisi-9-kongre-kararlar|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Yine aynı raporda, TKP yaşanan [[Ergenekon davaları|Ergenekon operasyonları]] için ABD'nin Türkiye'ye bölgesel yeni misyonlar yüklemek ve daha önemlisi Türkiye'yi yeniden biçimlendirmek için yaptığı kapsamlı müdahale olarak değerlendirmiş, sol adına operasyonlarda hükûmete destek veren tüm liberal kesimlere karşı ideolojik mücadeleyi sürdüreceğini belirtmiştir.<ref name="TKP 9. Kongre Raporu"/>
+
+Erkan Baş Genel Başkanlığında girdiği 29 Mart 2009 tarihinde gerçekleştirilen [[2009 Türkiye yerel seçimleri|yerel seçimlerinde]] TKP il genel meclisi seçiminde 87.182 oy ile o güne kadarki en yüksek oy sayısına ulaşmış ve seçimi %0,21 oy oranı ile tamamlamıştır. Parti bu seçimde hiçbir il veya ilçe belediye başkanlığını kazanamamıştır.
+
+==== 2010 referandumu ve 2011 genel seçimleri ====
+Türkiye Komünist Partisi 12 Eylül 2010 tarihinde gerçekleştirilen ve Türkiye'de yargı sisteminde önemli değişiklikler öngören [[2010 Türkiye anayasa değişikliği referandumu]] Hayır cephesinde yer almış ve bunun için politik mücadele yürütmüştür. Türkiye solunda önemli bölünmelere yol açan referandum sürecinde TKP yaptığı ''Halkı Aptal Yerine Koyanlara Hayır! İkinci 12 Eylül'e de Hayır!'' başlıklı referandum açıklamasında anayasa değişikliğine en başından beri karşı çıktığının altını çizmiş, AKP'nin kendi iktidarını sağlamlaştırmak için yürütme erkini güçlendirmeye çalıştığını belirtmiş ve hayır oyunun 'AKP iktidarına karşı tavizsiz bir konumlanış' olduğunu vurgulamıştır.<ref>{{Web kaynağı|başlık=TKP'den referandum açıklaması|yazar=|url=http://haber.sol.org.tr/soldakiler/tkpden-referandum-aciklamasi-haberi-30926|tarih=15 Temmuz 2010|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202022730/http://haber.sol.org.tr/soldakiler/tkpden-referandum-aciklamasi-haberi-30926|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Referandum sonucunda anayasa değişikliğinin kabul edilmesinin ardından TKP Siyasi Büro yaptığı değerlendirmede sağın AKP'de birleştiği saptamasını yaparken, CHP'nin seçim performansı eleştirilmiş, TKP'nin bir alternatif olarak sosyalizmi savunmaya devam edeceğinin altı çizilmiştir.<ref>{{Web kaynağı|başlık=TKP'den referandum değerlendirmesi|yazar=|url=http://sendika14.org/2010/09/tkpden-referandum-degerlendirmesi/|tarih=13 Eylül 2010|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202042700/http://sendika14.org/2010/09/tkpden-referandum-degerlendirmesi/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+Referandumun hemen ardından TKP partinin bundan sonraki dönemde siyasetini belirleyecek Türkiye Komünist Partisi Merkez Komite 90. Yıl Tezleri yayımlanmıştır. Bu tezlerde, Türkiye Cumhuriyeti'nin kuruluşu bir tarihsel ilerleme olarak görülmekte, Türkiye'de cumhuriyetin bağımsızlık, laiklik ve hukuksallıkla birlikte tanımlandığı öne sürülmekte ve laikliğin bir tarafa bırakıldığı, bağımsızlığın emperyalistlere kaybedildiği ve İslami cemaat ve tarikatların ülkeyi teslim aldığı öne sürülen AKP döneminin cumhuriyeti tasfiye ettiği vurgulanmaktadır. Bu bağlamda, AKP'nin kurduğu yeni cumhuriyetin tek alternatifinin ise sosyalizm olduğunu belirtilmekte ve sosyalizmin bu ikinci cumhuriyetin karşısında durularak kurulacağı vurgulanmaktadır.<ref>{{Web kaynağı|başlık=Cumhuriyet ve değerleri!|yazar=|url=https://www.evrensel.net/haber/620/cumhuriyet-ve-degerleri|tarih=22 Şubat 2011|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202031016/https://www.evrensel.net/haber/620/cumhuriyet-ve-degerleri|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Tezlerde TKP'nin kendi örgütsel yeniden yapılanması için siyasal görevlerde açıklanmıştır. Buna göre, 9.Kongre'den o güne kadar Siyasi Büro tarafından üstlenilen kolektif önderlik işlevinin artık Merkez Komite'de içinde bir başka iç kurulun değil doğrudan onda vücut bulması amacıyla adımlar atılması gerektiği vurgulanmıştır.<ref>{{Web kaynağı|başlık=Türkiye Komünist Partisi Merkez Komite 90. Yıl Tezleri|yazar=|url=https://www.kp.org.tr/tr/diger-metinler/turkiye-komunist-partisi-merkez-komite-90-yil-tezleri|tarih=|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202100040/https://www.kp.org.tr/tr/diger-metinler/turkiye-komunist-partisi-merkez-komite-90-yil-tezleri|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+TKP bu tezler ışığında [[2011 Türkiye genel seçimleri]]nde parti olarak katılmak için siyasal çalışmalar yürütmüştür. ''TKP boyun eğmeyen 500 bin kişi arıyor!'' sloganı ile başlatılan seçim çalışmaları hakkında parti AKP'ye karşı toplumda yeterli enerjinin biriktiğini belirtmiş ve siyasi dengelerin köklü bir biçimde değişmesi için halkı TKP'ye destek vermeye çağırmıştır.<ref>{{Web kaynağı|başlık=TKP boyun eğmeyen 500 bin kişi arıyor!|yazar=|url=http://haber.sol.org.tr/soldakiler/tkp-boyun-egmeyen-500-bin-kisi-ariyor-haberi-38942|tarih=7 Şubat 2011|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202025047/http://haber.sol.org.tr/soldakiler/tkp-boyun-egmeyen-500-bin-kisi-ariyor-haberi-38942|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Seçim öncesinde yaptığı açıklamada Merkez Komite üyesi [[Kemal Okuyan]] 500 bin oy hedefinin, TKP'nin yarattığı siyasal ilgi ve Türkiye'de sosyalizmin etkisi göz önüne alındığında rakamın gerçekçi bir hedef olduğunu belirtmiştir.<ref>{{Web kaynağı|başlık="500 bin Türkiye'nin siyasî dengelerini değiştirir"|yazar=|url=http://haber.sol.org.tr/soldakiler/500-bin-turkiyenin-siyasî-dengelerini-degistirir-haberi-39079|tarih=10 Şubat 2011|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20210507181527/https://haber.sol.org.tr/soldakiler/500-bin-turkiyenin-siyas%C3%AE-dengelerini-degistirir-haberi-39079|arşivtarihi=7 Mayıs 2021|ölüurl=evet}}</ref> Fakat 12 Haziran'da gerçekleştirilen seçimlerde TKP ancak 64.006 oy alabilmiş ve %0,15 oy oranında kalmıştır.
+
+Seçim sonuçları oyların artırılması bir yana bir önceki seçimle karşılaştırıldığında TKP için düşüş olduğunu göstermektedir. Yayımladığı yazılı açıklama ile seçim sonuçlarını değerlendiren TKP Merkez Komitesi, partiyi seçimlerin en başarısız partisi olarak değerlendirmiş, seçim öncesinde belirlemiş olduğu hedefin yanına dahi yaklaşamadığının saptamasını yapmış ve partinin toplumsal etkisinin karşılığının çok altında oy aldığı vurgulanmıştır.<ref>{{Web kaynağı|başlık=TKP: ‘Seçim hedefine ulaşamadık'|yazar=|url=http://sendika14.org/2011/06/tkp-secim-hedefine-ulasamadik/|tarih=13 Haziran 2011|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202042427/http://sendika14.org/2011/06/tkp-secim-hedefine-ulasamadik/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Seçimlerde yaşanan hayal kırıklığı TKP'de kongre sürecinin hızlanmasına neden olmuş ve Türkiye Komünist Partisi 10. Kongresi 1 Ağustos 2011'de gerçekleştirilmiştir.<ref>{{Web kaynağı|başlık=TKP'nin 10. kongresi tamamlandı|yazar=|url=http://sendika14.org/2011/07/tkpnin-10-kongresi-tamamlandi/|tarih=19 Temmuz 2011|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202034641/http://sendika14.org/2011/07/tkpnin-10-kongresi-tamamlandi/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Parti, tamamlanan kongrenin ardından yayınlanan TKP 10. Kongre Raporu'nda  seçim başarısızlığını daha önce yapılan siyasal değerlendirmelerinin ana hatlarına değil örgütsel yetersizliklere bağlamış, bu anlamda eksik kalan örgütsel dönüşümlerin tamamlanacağını vurgulamıştır.<ref>{{Web kaynağı|başlık=TKP 10. Kongre Raporu (01.08.2011)|yazar=|url=http://www.kp.org.tr/tr/kongre-belgeleri/tkp-10-kongre-raporu-01082011|tarih=1 Ağustos 2011|erişimtarihi=30 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202110146/http://www.kp.org.tr/tr/kongre-belgeleri/tkp-10-kongre-raporu-01082011|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+==== 11. Kongre ====
+{{başlık genişlet}}
+Türkiye Komünist Partisi (TKP) 11. Kongresi'ni, 9-10 Haziran 2012'de Ankara'da yaptı.<ref>{{Web kaynağı|başlık=TKP 11. kongresini gerçekleştirdi|yazar=|url=https://www.evrensel.net/haber/30662/tkp-11-kongresini-gerceklestirdi|tarih=19 Temmuz 2011|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202024046/https://www.evrensel.net/haber/30662/tkp-11-kongresini-gerceklestirdi|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+==== Gezi Parkı eylemleri ====
+{{başlık genişlet}}
+
+==== 2014 yerel seçimleri ve Ovacık Belediyesi deneyimi ====
+{{başlık genişlet}}
+[[2014 Türkiye yerel seçimleri|2014 yerel seçimlerinde]] TKP Türkiye genelinde 51.155 oy ve %0,11 oy oranı ile tamamlamıştır. [[Tunceli (il)|Tunceli]]'nin [[Ovacık, Tunceli|Ovacık]] ilçesinde [[Fatih Mehmet Maçoğlu]] belediye başkanı seçilmiştir.<ref>{{Haber kaynağı|url=https://www.haberturk.com/gundem/haber/934478-turkiyenin-ilk-komunist-baskani|başlık=Türkiye'nin ilk 'komünist' başkanı!|erişimtarihi=5 Şubat 2023|tarih=31 Mart 2014|yayıncı=Habertürk|arşivurl=https://web.archive.org/web/20230205110914/https://www.haberturk.com/gundem/haber/934478-turkiyenin-ilk-komunist-baskani|arşivtarihi=5 Şubat 2023|ölüurl=hayır}}</ref>
+
+==== 2014 Cumhurbaşkanlığı seçimleri ve 2015 genel seçimleri ====
+{{başlık genişlet}}
+
+==== Partinin bölünmesi ve siyasî faaliyetlerinin dondurulması  ====
+2014 yılında, TKP Merkez Komitesinde bulunan üyeler arasında birtakım siyasal, örgütsel ve ideolojik anlaşmazlıklar ortaya çıkmış ve bunlar tüm örgüt içinde tartışılmaya başlanmıştır. 13 Temmuz 2014 günü Merkez Komite'de bulunan [[Erkan Baş]], [[Metin Çulhaoğlu]] ve [[Kurtuluş Kılçer]] gibi isimlerinde arasında bulunduğu 11 kişilik merkez komite üyesi grup [[Gezi Parkı olayları|Gezi Parkı protestoları]] sonrasında partinin gerekli örgütsel dönüşümleri yapmadığı ve yeterince mücadele etmediğini öne sürerek "Güçlü Örgüt, Büyük Parti, Sosyalist Türkiye''"'' sloganıyla [[Haliç Kongre Merkezi]]'nde TKP 12. Kongresi'ni toplarken, aralarında [[Aydemir Güler]], [[Kemal Okuyan]] ve merkez komitenin 12 üyesinin bulunduğu grup TKP Atılım Kongresi{{'}}ni düzenlemişlerdir.<ref>{{Haber kaynağı |başlık=TKP'de görüş ayrılığı aşılamadı; 2 ayrı kongre düzenlenecek |yazar= |url=http://www.evrensel.net/haber/86865/tkpde-gorus-ayriligi-asilamadi-2-ayri-kongre-duzenlenecek.html#.VCst1_l_t8E |gazete=Evrensel |tarih=23 Haziran 2014 |erişimtarihi=1 Ekim 2014 |arşivurl=https://web.archive.org/web/20141006131811/http://www.evrensel.net/haber/86865/tkpde-gorus-ayriligi-asilamadi-2-ayri-kongre-duzenlenecek.html#.VCst1_l_t8E |arşivtarihi=6 Ekim 2014 |ölüurl=evet }}</ref> Kongreler sonunda iki farklı merkez komite ve parti meclisleri seçilmiştir.<ref>{{Haber kaynağı |başlık=İki TKP, iki Merkez Komite! İşte alınan o kararlar |yazar= |url=http://www.aydinlikgazete.com/mansetler/45881-iki-tkp-iki-merkez-komite-iste-alinan-o-kararlar.html |gazete=Aydınlık |tarih=14 Temmuz 2014 |erişimtarihi=29 Eylül 2014 |arşivurl=https://web.archive.org/web/20141006141114/http://www.aydinlikgazete.com/mansetler/45881-iki-tkp-iki-merkez-komite-iste-alinan-o-kararlar.html |arşivtarihi=6 Ekim 2014 |ölüurl=evet }}</ref> 14 Temmuz 2014 tarihinde 12. Kongre{{'}}yi temsil eden delegasyonla, Atılım Kongresi{{'}}ni temsil eden delegasyon, tarafsız bir heyet ile birlikte kongre sonuçlarını değerlendirmek üzere toplanmış ve iki kongrede TKP'yi kendilerinin temsil ettiği belirtmeleri üzerine herhangi bir uzlaşıya varılamamıştır. Toplantı sonrası yapılan açıklamada birlik imkânının bugün için ortadan kalktığı yönünde ortak bir kanaat oluştuğu, Türkiye Komünist Partisi'nin içinden iki ayrı siyasi ve örgütsel iradenin doğduğu belirtilmiştir. Bunun sonucunda Türkiye Komünist Partisi adı ve tüzel kişiliğinin denetim misyonunu üstlenmiş bulunan kişilere ve üstünde mutabakata varılacak bir heyete teslim edildiği ve taraflar TKP'nin adı ve ambleminin kullanılmamasını, kendi kongre kararları uyarınca siyasal faaliyetlerini sürdürmek için kendi belirleyecekleri biçim ve adlandırmalar altında yollarına devam etmeyi kararlaştırmıştır.<ref>{{Haber kaynağı |başlık=Parti resmen bölündü |yazar= |url=http://www.odatv.com/n.php?n=parti-resmen-bolundu-1507141200 |gazete=OdaTV |tarih=15 Temmuz 2014 |erişimtarihi=1 Ekim 2014 |arşivurl=https://web.archive.org/web/20141006082628/http://www.odatv.com/n.php?n=parti-resmen-bolundu-1507141200 |arşivtarihi=6 Ekim 2014 |ölüurl=hayır }}</ref> Bu karar sonucu Atılım Kongresi [[Komünist Parti (Türkiye)|Komünist Parti]] (KP)'yi, 12. Kongre ise [[Halkın Türkiye Komünist Partisi]]'ni (HTKP) kurdu. Fakat daha sonra, içlerinden [[Kurtuluş Kılçer]]'in de bulunduğu bir grup HTKP'den ayrılarak 18 Ağustos 2015 tarihinde [[Türkiye Komünist Hareketi]] (TKH) adıyla siyaset yapmaya başlamıştır.<ref>{{Web kaynağı|başlık=TKP'den bir yılda üçüncü oluşum çıktı|yazar=|url=http://www.demokrathaber.org/siyaset/tkp-den-bir-yilda-ucuncu-olusum-cikti-h53723.html|tarih=31 Ağustos 2015|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202024958/http://www.demokrathaber.org/siyaset/tkp-den-bir-yilda-ucuncu-olusum-cikti-h53723.html|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> 7 Kasım 2017 tarihinde HTKP, [[Türkiye İşçi Partisi (2017)|Türkiye İşçi Partisi]] (TİP) ismini alarak yoluna devam etti. 2018 yılında TİP'in kuruluş çalışmaları devam ettiği sırada Erkan Baş'ın [[Halkların Demokratik Partisi|HDP]]'den milletvekili adayı olması üzerine [[Erçin Fırat]] öncülüğünde bir grup HTKP'den ayrılmış, 18 Kasım 2020 tarihinde ise [[Devrim Hareketi]]'ni kurmuştur.<ref>{{Web kaynağı|url = https://www.odatv4.com/guncel/komunistlerde-hdp-bolunmesi-31051855-139964|başlık = Komünistlerde HDP bölünmesi... 150 kişi neden ayrıldı|tarih = 31 Mayıs 2018|yayıncı = odatv|arşivurl = https://web.archive.org/web/20220421180341/https://www.odatv4.com/guncel/komunistlerde-hdp-bolunmesi-31051855-139964|arşivtarihi = 21 Nisan 2022}}</ref>
+
+==== TKP'nin siyasete dönmesi ve parti ismi üzerine tartışmalar ====
+[[Dosya:Tkp-hayiri-guclendirmek-icin-haziran-saflarinda-1-mayisa.jpg|küçükresim|upright=1.18|İsim tartışmaları sırasında HTKP tarafının kullandığı logo]]
+
+<!--
+
+Bu tartışmalı konu aşağıda ayrıntısıyla irdelenmiştir. Bunu görmezden gelip konuyu bir resim altındaki ibareler vasıtasıyla tartışmanın taraflarından birisinin gözüyle diğer tarafın maddesi içine "iliştirmek" etik değildir.
+
+[[Dosya:Tkp-hayiri-guclendirmek-icin-haziran-saflarinda-1-mayisa.jpg|küçükresim|upright=1.14|TKP'de yaşanan ayrışmadan sonra [[Erkan Baş]]'ın öncülüğünü yaptığı grup olan [[Halkın Türkiye Komünist Partisi|HTKP]] 2017 yılında KP'nin düzenlediği kongrenin ardından bu partinin daha önce üzerinde anlaşılan protokole aykırı şekilde TKP'ye el koyduğunu iddia ederek TKP adını ve amblemini kullanacaklarını açıklamıştır. Bu süreçte görseldeki amblemi kullanan bu grup daha sonra [[Türkiye İşçi Partisi (2017)|Türkiye İşçi Partisi]]'nin kuruluşunu gerçekleştirmişlerdir.<ref>{{Web kaynağı|başlık=TKP kavgası alevlendi: Taraflardan açıklama|yazar= Cumhuriyet|url=http://www.cumhuriyet.com.tr/haber/tkp-kavgasi-alevlendi-taraflardan-aciklama-758173|tarih=10 Haziran 2017|erişimtarihi=20 Mart 2020|arşivengelli=hayır}}</ref>]]
+
+-->
+
+Partide 2014 yılında yaşanan ayrışma sonucunda 2 yıl boyunca Türkiye Komünist Partisi adı ve tüzel kişiliği denetim misyonunu üstlenmiş bulunan kişilere ve üstünde mutabakata varılan bir heyete teslim edilmiştir. TKP Heyeti dönemi olarak adlandırılabilecek bu dönemde taraflar kendi örgütsel çalışmalarına devam etmiştir. Fakat partinin hukuki varlığının devamı için ortaya çıkan pürüzlerin giderilmesi amacıyla Hüseyin Karabulut'un TKP Genel Başkanı sıfatıyla yapmış olduğu çağrı ile 25 Aralık Pazar günü Ankara'da partinin resmî Merkez Komitesi ve Merkez Disiplin Kurulu üyelerini seçilmesi gayesiyle Türkiye Komünist Partisi Olağanüstü Kongresi sadece kongre delegelerinin katılımıyla gerçekleşmiştir.<ref>{{Web kaynağı|başlık=TKP Heyeti'nden parti üyelerine 8 Ocak açıklaması|yazar=|url=http://haber.sol.org.tr/toplum/tkp-heyetinden-parti-uyelerine-8-ocak-aciklamasi-180474|tarih=28 Aralık 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202021919/http://haber.sol.org.tr/toplum/tkp-heyetinden-parti-uyelerine-8-ocak-aciklamasi-180474|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Bu kongrenin hemen ardından 27 Aralık 2016 tarihinde içlerinde [[Nihat Behram]]'ın da bulunduğu 7 imzacı {{'}}''Ülke Türkiye Komünist Partisi'ni Çağırıyor''{{'}} başlıklı bir açıklama ile TKP'nin yeniden siyaset sahnesine dönmesi için çağrı yapmıştır.<ref>{{Web kaynağı|başlık=TKP'nin siyasete dönmesi için çağrı yapıldı|yazar=|url=http://haber.sol.org.tr/toplum/tkpnin-siyasete-donmesi-icin-cagri-yapildi-180380|tarih=27 Aralık 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202022008/http://haber.sol.org.tr/toplum/tkpnin-siyasete-donmesi-icin-cagri-yapildi-180380|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Ancak hem gerçekleştirilen olağanüstü kongre hem de imzacıların çağrısı TKP'den ayrılan üç grup arasında çeşitli tartışmalara yol açmıştır.
+
+[[Komünist Parti (Türkiye)|Komünist Parti]] 28 Aralık 2016'da yayınladığı bildiri ile yapılan çağrıyı olumlu bulduğunu açıklamış ve yapılacak olan toplantıya katılacaklarını kamuoyu ile paylaşmıştır.<ref>{{Web kaynağı|başlık=Bir kez daha tarihe tanıklık etmek için|yazar=|url=http://www.kp.org.tr/tr/bildiriler/bir-kez-daha-tarihe-taniklik-etmek-icin|tarih=28 Aralık 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202094438/http://www.kp.org.tr/tr/bildiriler/bir-kez-daha-tarihe-taniklik-etmek-icin|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Fakat [[Halkın Türkiye Komünist Partisi|HTKP]] ve [[Türkiye Komünist Hareketi|TKH]] çağrıya ve kongreye şiddetli tepkiler vermiştir. HTKP, olağanüstü kongreden hemen önce bir basın açıklaması ile çağrıyı resmî ayakoyunu olarak görüp TKP adıyla ilgili tartışmaların yapılması planlanan referandum süresince kapatılmasını istemiş, referandum ardından konferans süreci ile TKP adının ve varlığının geleceğine karar verilebileceğini belirtmiştir.<ref>{{Web kaynağı|başlık=Tüm İlerici, Sol Kamuoyuna İlan Ediyoruz|yazar=|url=http://www.htkp.org.tr/tum-ilerici-sol-kamuoyuna-ilan-ediyoruz/|tarih=23 Aralık 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170914220214/http://www.htkp.org.tr/tum-ilerici-sol-kamuoyuna-ilan-ediyoruz/|arşivtarihi=14 Eylül 2017|ölüurl=evet}}</ref> Olağanüstü kongrenin ardından yayınladığı ''Türkiye Komünist Partisi Siyasete, Sokaklara, Mücadeleye Geri Döndü!'' başlıklı ikinci bir basın açıklaması ile, [[Halkın Türkiye Komünist Partisi|HTKP]] kongrenin partinin varlıkları ve isim hakkının üzerine daha önce karşılıklı protokolün ihlal edildiğini öne sünerek ortadan kalktığını ilan etmiş, bundan dolayı da HTKP'nin o güne kadar kullanmadığı bütün haklarını kullanacağını belirtmiştir. [[Komünist Parti (Türkiye)|KP]]'yi ''Resmi TKPcilik'' ile suçlayarak TKP adıyla siyaset yapmaya başlamıştır.<ref>{{Web kaynağı|başlık=Türkiye Komünist Partisi Siyasete, Sokaklara, Mücadeleye Geri Döndü!|yazar=|url=http://www.htkp.org.tr/turkiye-komunist-partisi-siyasete-sokaklara-mucadeleye-geri-dondu/|tarih=25 Aralık 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170914215940/http://www.htkp.org.tr/turkiye-komunist-partisi-siyasete-sokaklara-mucadeleye-geri-dondu/|arşivtarihi=14 Eylül 2017|ölüurl=evet}}</ref> Öte yandan, [[Türkiye Komünist Hareketi|TKH]] yayınladığı kamuoyu açıklaması ile heyetin çağrısının ve kongrenin niyetinin TKP ismi üzerinden rant elde etmek olduğunu öne sürmüş, ortaya çıkan tablonun [[Komünist Parti (Türkiye)|KP]] tarafından gündeme getirilen tek taraflı bir girişim ve dayatmanın bir sonucu olduğunu belirtmiştir.<ref>{{Web kaynağı|başlık=TKP'de kongre tartışması|yazar=|url=http://www.demokrathaber.org/siyaset/tkp-de-kongre-tartismasi-h73493.html|tarih=3 Ekim 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202024246/http://www.demokrathaber.org/siyaset/tkp-de-kongre-tartismasi-h73493.html|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref><ref>{{Web kaynağı|başlık=Ne TKP ne de komünist siyaset çocuk oyuncağı değildir!|yazar=|url=http://tkh.org.tr/2016/12/ne-tkp-ne-de-komunist-siyaset-cocuk-oyuncagi-degildir/|tarih=25 Aralık 2016|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202042034/http://tkh.org.tr/2016/12/ne-tkp-ne-de-komunist-siyaset-cocuk-oyuncagi-degildir/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Yaşanan gelişmelere karşı TKH ''Gelenekten Geleceğe TKP Konferansı'' isimli bir konferans düzenleyerek TKP'yi yeniden siyaset sahnesine döndüreceklerini belirtmişlerdir.<ref>{{Web kaynağı|başlık="Gelenekten Geleceğe TKP Konferansı"na Çağrı|yazar=|url=http://tkh.org.tr/2017/01/gelenekten-gelecege-tkp-konferansina-cagri-2/|tarih=16 Ocak 2017|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202035347/http://tkh.org.tr/2017/01/gelenekten-gelecege-tkp-konferansina-cagri-2/|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+Bütün yaşanan tartışmalara rağmen, 22 Ocak 2017 tarihinde İstanbul [[Haliç Kongre Merkezi]]'nde yapılan toplantı ile Türkiye Komünist Partisi'nin yoluna devam ettiği ve siyasete geri döndüğü ilan edilmiştir. Toplantıda çağırıcılar ve heyet üyelerinin yanı sıra [[Yunanistan Komünist Partisi]] Siyasi Büro üyesi Yorgos Marinos ve [[Küba Komünist Partisi]] adına Alberto Gonzalez Casals gibi isimler de konuşma yapmış, toplantının sonunda 2017'de yapılacak bir TKP kongresine kadar partinin Merkez Komitesinin [[Komünist Parti (Türkiye)|Komünist Parti]]'nin Merkez Komite üyelerinin oluşması ve görev üstlenmeleri kabul edilmiştir.<ref name="TKP yoluna devam ediyor">{{Web kaynağı|başlık="TKP yoluna devam ediyor|yazar=|url=http://haber.sol.org.tr/toplum/tkp-yoluna-devam-ediyor-183152|tarih=22 Ocak 2017|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202004742/http://haber.sol.org.tr/toplum/tkp-yoluna-devam-ediyor-183152|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> Toplantıda konuşma yapan [[Komünist Parti (Türkiye)|KP]] Merkez Komite üyesi [[Kemal Okuyan]] görevlerinin TKP'yi tarihsel fırsatları değerlendirebilecek bir parti haline getirmek olduğunu söylemiştir.<ref name="TKP yoluna devam ediyor"/>
+
+==== 2017 anayasa değişikliği referandumu ====
+TKP Haliç toplantısının hemen ardından 2017 yılında düzenlenen referanduma dair açıklama yaptı; 'Hayır' diyeceklerini "Yeter" başlığıyla bir bildiri yayımlayarak kamuoyu ile paylaştı.<ref>{{Web kaynağı|başlık=TKP referandum oyunu açıkladı|yazar=|url=http://www.cumhuriyet.com.tr/haber/siyaset/665041/TKP_referandum_oyunu_acikladi.html|tarih=24 Ocak 2017|erişimtarihi=25 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170126152513/http://www.cumhuriyet.com.tr/haber/siyaset/665041/TKP_referandum_oyunu_acikladi.html|arşivtarihi=26 Ocak 2017|ölüurl=hayır}}</ref> Ayrıca, parti tarafından yayımlanan ''Güncel Tezler ve Görevlerimiz'' başlıklı belgede, başkanlık sistemine geçilmesinin Meclisin ve siyasi partilerin rolünü azaltacağını, hükûmetler üzerindeki denetimi zayıflatacağını ve sadece Cumhurbaşkanının kendi siyasi pozisyonu güçlendirmeyi amaçladığını öne sürülerek referandumda neden Hayır oyu verilmesinin desteklediğini açıklamıştır.<ref>{{Web kaynağı|başlık=Güncel tezler ve görevlerimiz|yazar=|url=http://www.tkp.org.tr/tr/guncel-tezler/guncel-tezler-ve-gorevlerimiz|tarih=|erişimtarihi=30 Ocak 2017|arşivengelli=hayır|arşivurl=https://web.archive.org/web/20170202070258/http://www.tkp.org.tr/tr/guncel-tezler/guncel-tezler-ve-gorevlerimiz|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref>
+
+==== 2018 genel seçimleri ve Bu Düzen Değişmeli Platformu ====
+2018'de gerçekleştirilen genel seçimlerde, Türkiye Komünist Partisi değiştirilen yeni yasal mevzuata uygun olmadığı gerekçesi ile seçimlere TKP adı olmaksızın katılmak zorunda kaldı. "Bu Düzen Değişmeli Platformu" altında Adana, Ankara, Antalya, Bursa, Çanakkale, Eskişehir, İstanbul, İzmir, Kocaeli, Konya, Mersin ve Tekirdağ olmak üzere 12 ilde 17 bağımsız milletvekili adayı göstererek seçimlere katılan parti, başkanlık için ise aday göstermedi ve protesto amaçlı boş oy kullanacaklarını açıkladı. Parti adının kullanılmamasının da getirdiği dezavantajla parti tarihindeki en düşük oy oranını alarak seçimleri 7 bin 952 oy ile tamamladı.<ref>{{haber kaynağı |başlık="Bu Düzen Değişmeli" diyen bağımsız adaylar kaç oy aldı? |url=http://www.cumhuriyet.com.tr/haber/siyaset/1009733/_Bu_Duzen_Degismeli__diyen_bagimsiz_adaylar_kac_oy_aldi_.html |erişimtarihi=2 Nisan 2019 |ajans=Cumhuriyet.com.tr |tarih=26 Haziran 2018 |arşivurl=https://web.archive.org/web/20190402140744/http://www.cumhuriyet.com.tr/haber/siyaset/1009733/_Bu_Duzen_Degismeli__diyen_bagimsiz_adaylar_kac_oy_aldi_.html |arşivtarihi=2 Nisan 2019 |ölüurl=hayır }}</ref>
+
+==== 2023 genel seçimleri ve Sosyalist Güç Birliği İttifakı ====
+TKP, 81 ilde, tüm seçim bölgelerinde kendi parti logosu ve milletvekili adaylarıyla [[Sosyalist Güç Birliği]] İttifakı ile birlikte milletvekili seçimlere katılacağını, cumhurbaşkanı seçimlerinde ise [[Kemal Kılıçdaroğlu]]'nu destekleyeceğini açıkladı.<ref>{{Web kaynağı|url = https://artigercek.com/politika/tkp-kilicdaroglunu-destekleyecek-parlamento-secimlerine-kendi-adiyla-girecek-242612h|başlık = TKP Kılıçdaroğlu'nu destekleyecek, parlamento seçimlerine kendi adıyla girecek|tarih = 15 Mart 2023|yayıncı = artigercek.com|arşivengelli = evet|erişimtarihi = 27 Nisan 2023|arşivurl = https://web.archive.org/web/20230427145614/https://artigercek.com/politika/tkp-kilicdaroglunu-destekleyecek-parlamento-secimlerine-kendi-adiyla-girecek-242612h|arşivtarihi = 27 Nisan 2023|ölüurl = hayır}}</ref> Seçim sürecinde, <nowiki>''TKP Gelir Her Şey Değişir'', ''Bir oy Erdoğan gitsin diye, bir oy TKP'ye''</nowiki> sloganları kullanılmıştır. Seçimlere özel olarak kurulan internet sitesi ile tüm milletvekili adayları, seçim bildirileri, afişleri, eylem ve etkinlikleri duyurulmuştur.<ref>{{Web kaynağı|url = https://secim2023.tkp.org.tr/|başlık = Seçim 2023- TKP|arşivurl = https://web.archive.org/web/20230509190715/https://secim2023.tkp.org.tr/|arşivtarihi = 9 Mayıs 2023}}</ref>
+
+2023 seçimlerine dönük ilk kapsamlı değerlendirme partinin 2022 yılının Ocak ayında yaptığı olağanüstü konferans sonucunda <nowiki>''Yol Haritamız''</nowiki> başlığı ile yayınladığı metinle açıklandı.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/haberler/2022-turkiye-olaganustu-konferansi-yol-haritamiz/|başlık = 2022 Türkiye Olağanüstü Konferansı YOL HARİTAMIZ|tarih = 13 Ocak 2022|arşivurl = https://web.archive.org/web/20220113113036/https://www.tkp.org.tr/haberler/2022-turkiye-olaganustu-konferansi-yol-haritamiz/|arşivtarihi = 13 Ocak 2022}}</ref> <nowiki>''Peki seçimler geldiğinde tavrımız ne olacak?''</nowiki> başlığı altında yapılan değerlendirmede partinin milletvekili seçimlerine kendi adaylarla gireceği, başka siyasi oluşumların çatısı altında parlamentoya temsilci yollamanın partinin gündeminde olmadığı, bunun siyaseten ve ahlaken kabul edilemeyeceği açıklandı. Cumhurbaşkanlığı seçimlerinde emekçi halkı temsil eden, yurtsever ve aydınlanmacı bir adayın çıkarılması gerektiğini, o dönem birlikte toplantılar gerçekleştirerek ortak bir zemin arayışı içerisinde oldukları [[Emek Partisi|EMEP]] ve [[Sol Parti (Türkiye)|Sol Parti]] ile birlikte bu konuda değerlendirmelerinin sürdüğünü belirterek <nowiki>''Cumhurbaşkanlığı seçimlerinin iki aday arasında kilitlendiği bir ortamda "Erdoğan'a oy yok" tavrı en güçlü devrimci seçenek olarak öne çıkıyor. Boykot ya da oy vermemeye çağrı için Türkiye'deki mevcut koşullar uygun gözükmüyor.''</nowiki> denilmiştir.
+
+2022 yılının Şubat ayına gelindiğinde yaklaşan seçimler için çalışmalara başlandığı ve <nowiki>''Halk Temsilcilerini Seçiyor''</nowiki> başlığı ile toplantılar düzenleneceği açıklandı.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/haberler/esitlik-ve-ozgurluk-icin/|başlık = Eşitlik ve Özgürlük İçin Halk Temsilcilerini Seçiyor|tarih = 18 Şubat 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20220218101750/https://www.tkp.org.tr/haberler/esitlik-ve-ozgurluk-icin/|arşivtarihi = 18 Şubat 2022}}</ref> Açıklamada TKP'den aday olmak isteyen kişilere çağrı yapılarak milletvekili adaylarının bu toplantılarda belirleneceği duyuruldu.
+
+25 Haziran 2022 tarihinde düzenlenen parti konferansında karar altına alınan siyasi metin <nowiki>''2023 Yeniden...''</nowiki> başlığı ile kamuoyuna duyuruldu.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/temel-metinler/2023-yeniden/|başlık = 2023 Yeniden…|tarih = 1 Temmuz 2022|arşivurl = https://web.archive.org/web/20230408212234/https://www.tkp.org.tr/temel-metinler/2023-yeniden/|arşivtarihi = 8 Nisan 2023}}</ref> Eylül ayında ise İstanbul,<ref>{{Web kaynağı|url = https://haber.sol.org.tr/haber/2023-yeniden-diyenler-istanbulda-bir-araya-geldi-348091|başlık = '2023 Yeniden' diyenler İstanbul'da bir araya geldi|tarih = 10 Eylül 2022|yayıncı = sol.org.tr|arşivurl = https://web.archive.org/web/20220910163416/https://haber.sol.org.tr/haber/2023-yeniden-diyenler-istanbulda-bir-araya-geldi-348091|arşivtarihi = 10 Eylül 2022}}</ref> Ankara<ref>{{Web kaynağı|url = https://haber.sol.org.tr/haber/2023-yeniden-diyenler-ankarada-bulustu-bizim-sizlere-sizin-de-tkpye-ihtiyaciniz-var-348142|başlık = ‘2023 Yeniden' diyenler Ankara'da buluştu: 'Bizim sizlere, sizin de TKP'ye ihtiyacınız var'|tarih = 11 Eylül 2022|yayıncı = sol.org.tr|arşivurl = https://web.archive.org/web/20220911144122/https://haber.sol.org.tr/haber/2023-yeniden-diyenler-ankarada-bulustu-bizim-sizlere-sizin-de-tkpye-ihtiyaciniz-var-348142|arşivtarihi = 11 Eylül 2022}}</ref> ve İzmir'de<ref>{{Web kaynağı|url = https://www.birgun.net/haber/tkp-2023-yeniden-bulusmalarinin-sonuncusunu-izmir-de-gerceklestirdi-403079|başlık = TKP, '2023 Yeniden' buluşmalarının sonuncusunu İzmir'de gerçekleştirdi|erişimtarihi = 18 Eylül 2022|yayıncı = birgun.net|arşivurl = https://web.archive.org/web/20220918105427/https://www.birgun.net/haber/tkp-2023-yeniden-bulusmalarinin-sonuncusunu-izmir-de-gerceklestirdi-403079|arşivtarihi = 18 Eylül 2022}}</ref> "Eşit ve özgür bir ülke için 2023 Yeniden" başlığı ile buluşmalar gerçekleşti. Buluşmaların hemen ardından Eylül ayı içerisinde <nowiki>''İşte TKP'nin Çözümü''</nowiki> başlığı ile bir dizi konuda hazırlanan çözüm belgeleri yayınlanmaya başlandı. [[İç politika]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-ic-politika/|başlık = İşte TKP'nin Çözümü: İç Politika|tarih = 21 Eylül 2022|arşivurl = https://web.archive.org/web/20220921100813/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-ic-politika/|arşivtarihi = 21 Eylül 2022}}</ref> [[tarım]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-tarim/|başlık = İşte TKP'nin Çözümü: Tarım|tarih = 5 Ekim 2022|arşivurl = https://web.archive.org/web/20221006021104/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-tarim/|arşivtarihi = 6 Ekim 2022}}</ref> [[gençlik]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-genclik/|başlık = İşte TKP'nin Çözümü: Gençlik|tarih = 8 Ekim 2022|arşivurl = https://web.archive.org/web/20221008190054/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-genclik/|arşivtarihi = 8 Ekim 2022}}</ref> [[enerji]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-enerji/|başlık = İşte TKP'nin Çözümü: Enerji|tarih = 18 Ekim 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221018152238/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-enerji/|arşivtarihi = 18 Ekim 2022}}</ref> [[ekonomi]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-ekonomi/|başlık = İşte TKP'nin Çözümü: Ekonomi|tarih = 2 Kasım 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221102114822/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-ekonomi/|arşivtarihi = 2 Kasım 2022}}</ref> [[eğitim]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-egitim/|başlık=İşte Tkp'nin Çözümü: Eğitim|tarih = 9 Kasım 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221109065344/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-egitim/|arşivtarihi = 9 Kasım 2022}}</ref> [[sağlık]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-saglik/|başlık = İşte TKP'nin Çözümü: Sağlık|tarih = 18 Kasım 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221118234758/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-saglik/|arşivtarihi = 18 Kasım 2022}}</ref> [[kadın]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-kadin/|başlık = İşte TKP'nin Çözümü: Kadın|tarih = 22 Kasım 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221122065430/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-kadin/|arşivtarihi = 22 Kasım 2022}}</ref> [[dış politika]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-dis-politika/|başlık = İşte TKP'nin Çözümü: Dış Politika|tarih = 30 Kasım 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221203101448/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-dis-politika/|arşivtarihi = 3 Aralık 2022}}</ref> [[adalet]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-adalet/|başlık = İşte TKP'nin Çözümü: Adalet|tarih = 6 Aralık 2022|arşivurl = https://web.archive.org/web/20221206204845/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-adalet/|arşivtarihi = 6 Aralık 2022}}</ref> [[sanayi]],<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-sanayi/|başlık = İşte TKP'nin Çözümü: Sanayi|tarih = 14 Aralık 2022|arşivurl = https://web.archive.org/web/20221216090534/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-sanayi/|arşivtarihi = 16 Aralık 2022}}</ref> kültür-sanat,<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/16764/|başlık = İşte TKP'nin Çözümü: Kültür Sanat|tarih = 23 Aralık 2022|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20221223123625/https://www.tkp.org.tr/aciklamalar/16764/|arşivtarihi = 23 Aralık 2022}}</ref> savunma<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-savunma/|başlık = İşte TKP'nin Çözümü: Savunma|tarih = 6 Ocak 2023|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20230106114350/https://www.tkp.org.tr/aciklamalar/iste-tkpnin-cozumu-savunma/|arşivtarihi = 6 Ocak 2023}}</ref> konularında çözüm önerileri açıklandı.
+
+7 Ocak 2023 tarihinde <nowiki>''TKP Gelir Her Şey Değişir''</nowiki> başlığı ile seçim bildirgesi yayınlandı.<ref>{{Web kaynağı|url = https://haber.sol.org.tr/haber/tkp-secim-bildirgesini-ve-sloganini-acikladi-tkp-gelir-her-sey-degisir-361545|başlık = TKP seçim bildirgesini ve sloganını açıkladı: 'TKP gelir her şey değişir!'|tarih = 7 Ocak 2023|yayıncı = sol.org.tr|arşivurl = https://web.archive.org/web/20230228031204/https://haber.sol.org.tr/haber/tkp-secim-bildirgesini-ve-sloganini-acikladi-tkp-gelir-her-sey-degisir-361545|arşivtarihi = 28 Şubat 2023}}</ref> Seçimlerin ne zaman yapılacağı ve [[Recep Tayyip Erdoğan]]'ın tekrar aday olup olamayacağına dönük tartışmalara dair 19 Ocak 2023 tarihinde TKP Merkez Komitesi tarafından bir açıklama yapıldı. Açıklamada Recep Tayyip Erdoğan'ın cumhurbaşkanı adayı olamayacağı ve seçimlerin bir an önce yapılması gerektiği belirtilerek, TKP'nin seçimlere hazır olduğu aktarıldı.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/akp-matematik-hesaplarla-degil-toplumsal-mucadele-ile-yenilgiye-ugratilr/|başlık = TKP Merkez Komitesi: AKP matematik hesaplarla değil toplumsal mücadele ile yenilgiye uğratılır|tarih = 19 Ocak 2023|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20230204174843/https://www.tkp.org.tr/aciklamalar/akp-matematik-hesaplarla-degil-toplumsal-mucadele-ile-yenilgiye-ugratilr/|arşivtarihi = 4 Şubat 2023}}</ref> Aynı dönem Sosyalist Güç Birliği'de bir açıklama yaparak Erdoğan'ın aday olamayacağını vurguladı.<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birliginden-erdogan-uyarisi-hic-kimse-halkimiza-kaderine-razi-ol-diyemez-2025034|başlık = Sosyalist Güç Birliği'nden Erdoğan uyarısı: Hiç kimse halkımıza ‘kaderine razı ol' diyemez|tarih = 25 Ocak 2023|yayıncı = cumhuriyet.com.tr|arşivurl = https://web.archive.org/web/20230125154433/https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birliginden-erdogan-uyarisi-hic-kimse-halkimiza-kaderine-razi-ol-diyemez-2025034|arşivtarihi = 25 Ocak 2023}}</ref>
+
+9 Mart 2023 tarihinde TKP tarafından <nowiki>''Parlamento seçimleri için Sol'a çağrımızdır''</nowiki> başlıklı bir açıklama yayınlanarak [[Emek ve Demokrasi İttifakı]] içinde yer alan sosyalist partilere, Sosyalist Güç Birliği'ne ve bu oluşumların dışındaki tüm devrimci güçlere seçimlerde ortak hareket etme çağrısı yapılmış, barajı aşmak için bir şans doğduğu belirtilmiştir.<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birliginden-erdogan-uyarisi-hic-kimse-halkimiza-kaderine-razi-ol-diyemez-2025034|başlık = Parlamento seçimleri için Sol'a çağrımızdır|tarih = 9 Mart 2023|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20230125154433/https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birliginden-erdogan-uyarisi-hic-kimse-halkimiza-kaderine-razi-ol-diyemez-2025034|arşivtarihi = 25 Ocak 2023}}</ref> 15 Mart 2023 tarihli açıklamada bu çağrıya Emek ve Demokrasi İttifakı içerisinde yer alan ve seçime girme yeterliliği bulunan 2 partiden olumlu yanıt geldiği ancak bu birlikteliğin çok farklı temelleri olan Emek ve Demokrasi ittifakı içerisinde sağlanması gerektiğini belirttikleri TKP tarafından duyuruldu.
+
+13 Mart 2023 tarihinde TKP seçim takvimini başlattığını duyurmuş<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/tkp-hafta-sonu-gerceklesen-toplantilarla-birlikte-secim-takvimini-baslatti/|başlık = TKP Hafta Sonu Gerçekleşen Toplantılarla Birlikte Seçim Takvimini Başlattı|tarih = 13 Mart 2023|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20230313091539/https://www.tkp.org.tr/aciklamalar/tkp-hafta-sonu-gerceklesen-toplantilarla-birlikte-secim-takvimini-baslatti/|arşivtarihi = 13 Mart 2023}}</ref> ve 15 Mart 2023 tarihinde yapılan açıklama ile <nowiki>''Türkiye Komünist Partisi milletvekili seçimlerine bir seçim ittifakının ötesinde de anlam taşıyan Sosyalist Güç Birliği ittifakıyla birlikte kendi ad ve adaylarıyla girecektir. Partimiz 81 ilde ve bütün seçim çevrelerinde aday gösterecek, hem seçim sürecindeki propaganda ve örgütlenme çalışmalarıyla hem de alacağı oyla komünist hareketin tarihsel bir sıçrama yapması için bütün olanaklarını seferber edecektir.''</nowiki> denilmiştir.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/secim-tavrimiz-ve-sola-yaptigimiz-cagrinin-sonuclarina-dair/|başlık = Seçim Tavrımız ve Sola Yaptığımız Çağrının Sonuçlarına Dair|tarih = 15 Mart 2023|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20230315065948/https://www.tkp.org.tr/aciklamalar/secim-tavrimiz-ve-sola-yaptigimiz-cagrinin-sonuclarina-dair/|arşivtarihi = 15 Mart 2023}}</ref>
+
+9 Nisan 2023 tarihinde Ankara'da "Büyük Halk Buluşması" başlığıyla 14 Mayıs seçimleri öncesinde etkinlik gerçekleştirildi. "TKP hakkında her şeyi anlatıyoruz!" denilerek çağrı yapılan etkinlikte TKP'nin tüm milletvekili adayları da yan yana geldi.<ref>{{Web kaynağı|url = https://haber.sol.org.tr/haber/buyuk-halk-bulusmasi-tkp-gelir-her-sey-degisir-371175|başlık = Büyük Halk Buluşması: 'TKP gelir her şey değişir'|tarih = 9 Nisan 2023|yayıncı = sol.org.tr|arşivurl = https://web.archive.org/web/20230409121354/https://haber.sol.org.tr/haber/buyuk-halk-bulusmasi-tkp-gelir-her-sey-degisir-371175|arşivtarihi = 9 Nisan 2023}}</ref>
+
+23 Nisan 2023 tarihinde <nowiki>''Sadece bir hafta içinde...''</nowiki> başlığıyla bir bildiri yayınlanarak parti iktidara geldikten sonra bir hafta içerisinde yapılacaklar sıralandı.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/aciklamalar/sadece-bir-hafta-icinde/|başlık = Sadece 1 hafta içinde…|tarih = 23 Nisan 2023|yayıncı = tkp.org.tr|arşivurl = https://web.archive.org/web/20230423114936/https://www.tkp.org.tr/aciklamalar/sadece-bir-hafta-icinde/|arşivtarihi = 23 Nisan 2023}}</ref> 28 Nisan 2023 tarihinde bu bildiride yayınlanan başlıklarla ilgili önemli noktalara büyük boy pankartlar asılarak kamuoyuna duyuru gerçekleştirildi. [[Galata Köprüsü]], [[Haydarpaşa Garı]], Sağlık Bakanı [[Fahrettin Koca]]'nın sahibi olduğu Medipol Hastanesi, yıllar önce özelleştirilen [[TÜPRAŞ|Tüpraş]], [[Ensar Vakfı tecavüz skandalı|çocuk istismarlarıyla gündeme gelen Ensar Vakfı]] yurdu, [[Türk Kızılay|Kızılay]], [[Yapı Kredi Bankası|Yapı Kredi]] ve [[TÜSİAD]] gibi kurum ve yapıların bulunduğu noktalara pankartlar asıldı.<ref>{{Web kaynağı|url = https://haber.sol.org.tr/haber/tkp-istanbulda-prova-yapti-iste-1-hafta-icinde-yapilacaklar-372904|başlık = TKP İstanbul'da prova yaptı: İşte 1 hafta içinde yapılacaklar|tarih = 28 Nisan 2023|yayıncı = sol.org.tr|arşivurl = https://web.archive.org/web/20230428131100/https://haber.sol.org.tr/haber/tkp-istanbulda-prova-yapti-iste-1-hafta-icinde-yapilacaklar-372904|arşivtarihi = 28 Nisan 2023}}</ref>
+
+== Örgüt yapısı ==
+Partinin örgütlenme yapısı geleneksel [[komünist parti]] örgütlenmesi şeklindedir. Partinin fabrikalar ve mahallelerde ortak çalışma yürüten birimleri bulunmaktadır. Bu birimler ilçe komitelerine, onlar da il komitelerine bağlıdır. Partinin en yetkili organı parti kongresidir. Kongrede örgütleri temsilen seçilen delegeler partinin kongreler arası dönemde en yetkili kurulu olan [[merkez komitesi]]ni seçer. Merkez Komite kendi içinde bir Genel Sekreter belirlemektedir. Genel Sekreter'in görevleri; Merkez Komite'nin kolektif bir organ olarak görevlerini yerine getirmesi için komitenin koordinasyonunu sağlamak, Merkez Komite toplantılarını yönetmek, partinin örgütsel ve siyasal faaliyetlerinin yönlendirilmesi için gereken çalışmaları Merkez Komite adına yönetip takip etmek, partiyi ülke içinde ve uluslararası platformlarda Merkez Komite adına temsil etmek şeklinde tanımlanmıştır.
+
+=== İşgale Karşı Komiteler ===
+Türkiye Komünist Partisi'nin [[Irak Savaşı|2003 Irak işgali]]nin başlamasıyla kurduğu kitle örgütlenmesidir. Dönem içerisinde çeşitli kampanyalar ve toplantılar düzenlemiştir.
+
+=== Gençlik kolları ===
+[[Dosya:Türkiye Komünist Gençliği Logosu.png|küçükresim|upright=0.8|Türkiye Komünist Gençliği logosu]]
+Türkiye Komünist Gençliği, partinin gençlik örgütüdür. Kısaltılması TKG'dir.<ref>{{Web kaynağı|url = https://www.tkp.org.tr/parti/turkiye-komunist-gencligi/|başlık = Türkiye Komünist Gençliği|erişimtarihi = 27 Kasım 2021|tarih = 13 Nisan 2021|dil = tr-TR|çalışma = Türkiye Komünist Partisi|arşivurl = https://web.archive.org/web/20210415202722/https://www.tkp.org.tr/parti/turkiye-komunist-gencligi/|arşivtarihi = 15 Nisan 2021}}</ref>
+
+22 Ocak 2017 tarihinde İstanbul [[Haliç Kongre Merkezi]]'nde yapılan toplantı ile Türkiye Komünist Partisi'nin yoluna devam ettiği ve siyasete geri döndüğünün ilan edilmesiyle beraber kuruluşu gerçekleşen siyasi gençlik örgütüdür. [[Komünist Parti (Türkiye)|Komünist Parti]] tarafından kurulan Komünist Gençliğin devamı niteliğindedir.
+
+== Tarihsel miras ==
+TKP, 1970'li yıllarda süren ve sol hareketi bölen [[Millî demokratik devrim|Millî Demokratik Devrim]] - [[Proleter devrim|Sosyalist Devrim]] ayrışmasında Sosyalist Devrim taraftarı TİP'in içerisindeki muhalif bir gruba dayanır. Kuruluş tarihi olarak 10 Eylül 1920'de gerçekleştirilen Bakû Kongresi'ni esas aldığını ilan eden parti, Türkiye'de komünist ve devrimci hareketin 1920'den günümüze ulaşan bütünsel tarihinin mirasçısı olduğunu belirtti.<ref>{{Web kaynağı|url=http://partiokulu.tkp.org.tr/aday-uye/aday-uye-egitim-metni/parti-tarihi|başlık=Arşivlenmiş kopya|erişimtarihi=22 Ocak 2012|arşivurl=https://web.archive.org/web/20111230060257/http://partiokulu.tkp.org.tr/aday-uye/aday-uye-egitim-metni/parti-tarihi|arşivtarihi=30 Aralık 2011|ölüurl=evet}}</ref>  [[Sovyetler Birliği]]nin çözüldüğü, sol harekette dünyada ve Türkiye'de umutsuzluğun hâkim olduğu bir dönemde solun evrensel değerlerine sahip çıktı ve tarihsel mirasın geleneksel sol çizgide yeniden harmanlamasını savundu. SİP'in olağanüstü kongre ile yasal olarak TKP adını alması tartışmalara neden olmuştur.<ref>{{Web kaynağı|url=http://www.radikal.com.tr/haber.php?haberno=38657|başlık=Arşivlenmiş kopya|erişimtarihi=8 Mart 2012|arşivurl=https://web.archive.org/web/20150924134842/http://www.radikal.com.tr/haber.php?haberno=38657|arşivtarihi=24 Eylül 2015|ölüurl=hayır}}</ref> İsim değişikliği programı, tüzüğü, felsefesi ve kadrolarıyla geçmiş dönemle hiçbir ilişkisi olmaması nedeniyle bazı eski TKP kadroları tarafından eleştirilmiştir.<ref>{{Web kaynağı|url=http://urundergisi.com/makaleler.php?ID=1815|başlık=Arşivlenmiş kopya|erişimtarihi=1 Mart 2012|arşivurl=https://web.archive.org/web/20120311151320/http://urundergisi.com/makaleler.php?ID=1815|arşivtarihi=11 Mart 2012|ölüurl=evet}}</ref>
+
+== Diğer partilerle ilişkiler ==
+Parti özellikle [[Adalet ve Kalkınma Partisi|AKP]], [[Milliyetçi Hareket Partisi|MHP]], [[Cumhuriyet Halk Partisi|CHP]] gibi partileri [[burjuva]] partileri olarak tasnif etmekte ve sınıfsal olarak karşıya almaktadır. [[Sol Parti (Türkiye)|Sol Parti]], [[Emek Partisi|EMEP]] ve [[Halkevleri]] ile ise ilişkileri dostluk düzeyinde olup, kimi zaman merkezî kimi zamansa yerel düzeyde işbirliği içerisinde ortak açıklama ve eylemler yapılmaktadır.
+
+20 Ağustos 2022 tarihindeki resmi ilanıyla [[Sosyalist Güç Birliği]]'nin [[Sol Parti (Türkiye)|Sol Parti]], [[Devrim Hareketi]] ve [[Türkiye Komünist Hareketi|TKH]] ile birlikte 4 kurucu üyesindendir.<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birligi-kuruldu-bu-halk-dusmani-rejime-son-verecegiz-1971988|başlık = Sosyalist Güç Birliği kuruldu: 'Bu halk düşmanı rejime son vereceğiz'|erişimtarihi = 21 Ağustos 2022|dil = Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl = https://web.archive.org/web/20220820235656/https://www.cumhuriyet.com.tr/siyaset/sosyalist-guc-birligi-kuruldu-bu-halk-dusmani-rejime-son-verecegiz-1971988|arşivtarihi = 20 Ağustos 2022}}</ref>
+
+== Uluslararası örgütlülük ==
+Parti bu geleneksel çizgisi kapsamında uluslararası alanda [[Komünizm|komünist]] harekette bir saflaşma ve sadeleşme yaşanmasını savunmaktadır. Birçok uluslararası toplantı ve kongreye katılan parti geleneksel çizgide bulunan bölge komünist partilerinden [[Yunanistan Komünist Partisi]]'ne çok yakındır. Ortadoğu, Kafkasya ve Balkanlardaki sol öznelerle de yakın ilişki sürdürülmekte, sosyalist Küba'nın iktidardaki [[Küba Komünist Partisi]] ile dayanışma halindedir. Parti ayrıca Avrupa Komünist İnisiyatifi üyesidir.<ref>[http://inter.kke.gr/tr/articles/Avrupa-Komuenist-Inisiyatifi-Varsovada-NATO-karst-etkinlik/ İlgili toplantı haberi] {{Webarşiv|url=https://web.archive.org/web/20190607194446/https://inter.kke.gr/tr/articles/Avrupa-Komuenist-Inisiyatifi-Varsovada-NATO-karst-etkinlik/ |tarih=7 Haziran 2019 }} 16 Ağustos 2017 tarihinde erişilmiştir</ref>
+
+Parti, uluslararası alanda komünist bir odak oluşturma çalışmalarına farklı ülkelerden 10 komünist parti ile birlikte kuruluşuna öncülük ettiği [[International Communist Review]] adlı teorik dergi ile katkı koymaktadır.<ref>[http://www.iccr.gr/ Derginin resmi internet sitesi] {{Webarşiv|url=https://web.archive.org/web/20150612103812/http://www.iccr.gr/ |tarih=12 Haziran 2015 }} {{İng.}} 1 Ocak 2011 tarihinde erişilmiştir</ref>
+
+Partinin gençlik örgütü olan TKP'li Öğrenciler, sol eğilimli bir uluslararası gençlik örgütü olan [[Dünya Demokratik Gençlik Federasyonu]]'na üyedir.
+
+== Genel başkanları ==
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Görev Başlangıcı
+! Görev Bitişi
+|-
+| 1 || [[Aydemir Güler]] || 11 Kasım 2001 || 1 Şubat 2009
+|-
+| 2 || [[Erkan Baş]] || 1 Şubat 2009 || Ağustos 2009
+|-
+| 3 || Kolektif önderlik<ref>{{Web kaynağı|url=https://www.kp.org.tr/tr/diger-metinler/turkiye-komunist-partisi-merkez-komite-90-yil-tezleri|başlık=Arşivlenmiş kopya|erişimtarihi=26 Ocak 2017|arşivurl=https://web.archive.org/web/20170202100040/https://www.kp.org.tr/tr/diger-metinler/turkiye-komunist-partisi-merkez-komite-90-yil-tezleri|arşivtarihi=2 Şubat 2017|ölüurl=evet}}</ref> || Ağustos 2009 || 14 Temmuz 2014
+|-
+! colspan=9; style="background-color:#F0F0F0 | {{Küçük|Bölünme sonucu tüzel kişiliğin devamı için belirlenen heyet yönetimi.<ref>{{Web kaynağı|url=https://www.diken.com.tr/tkp-bolundu-parti-adi-ve-amblemi-korumaya-alindi/|başlık=Arşivlenmiş kopya|erişimtarihi=16 Nisan 2023|arşivurl=https://web.archive.org/web/20230416122659/https://www.diken.com.tr/tkp-bolundu-parti-adi-ve-amblemi-korumaya-alindi/|arşivtarihi=16 Nisan 2023|ölüurl=hayır}}</ref>}}
+|-
+| — || Kolektif önderlik || 22 Ocak 2017 || günümüz
+|}
+
+===TKP Genel Başkanı Kemal Okuyan===
+[[Kemal Okuyan]] partinin kolektif önderliği içinde genel sekreter görevini sürdürürken, 2023 yılında [[Yargıtay (Türkiye)|Yargıtay]] resmî kayıtlarına göre genel başkanlık görevini üstlenmiştir. 2023 yılından bu yana TKP Genel Başkanı Kemal Okuyan'dır.<ref>[https://www.yargitaycb.gov.tr/icerik/1177 Yargıtay Cumhuriyet Başsavcılığı resmi sitesinden] {{Webarşiv|url=https://web.archive.org/web/20200603081956/https://www.yargitaycb.gov.tr/icerik/1177 |tarih=3 Haziran 2020 }}, 17 Nisan 2025 tarihinde erişilmiştir.</ref>
+
+=== Genel sekreterleri ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Görev Başlangıcı
+! Görev Bitişi
+|-
+| 1 || [[Kemal Okuyan]] || 11 Kasım 2001 || günümüz
+|}
+
+== Partinin kurduğu ve öncülüğünü yaptığı kurumlar ==
+{{Div sütunu|cols=3}}
+* [[Marksist Leninist Araştırmalar Merkezi]] (MLAM)
+* [[İşçi Okulu]] 
+* [[Nâzım Hikmet Kültür Merkezi]] 
+* [[Nâzım Hikmet Akademisi]] 
+* [[Jose Marti Küba Dostluk Derneği]]
+* [[Üniversite Konseyleri Derneği]]
+* [[Yazılama Yayınevi]]
+* [[Nazım Kitaplığı]]
+* [[Gelenek Yayınevi]]
+* [[Sol Meclis]]
+* İşgale Karşı Komiteler
+* [[Yurtsever Cephe]] 
+* [[İşçi Birliği]]
+* Sol Cephe (2013)
+* [[Başkanlığa Karşı Halk Komiteleri]]
+* Gericiliğe Karşı Aydınlanma Hareketi
+* [[Bilim ve Aydınlanma Akademisi]]
+* [[Patronların Ensesindeyiz Ağı]]
+* Birlik Sendikası
+* [[Dayanışma Meclisi]]
+* [[Kadın Dayanışma Komiteleri]]
+* [[Türkiye Halk Temsilcileri Meclisi]]
+{{Div sütunu bitiş}}
+
+== Partinin yayın organları ==
+* ''[[Gelenek (dergi)|Gelenek]]'', 1986 yılından itibaren çıkan [[Marksizm|Marksist]] teorik dergi.
+* [[soL Haber Portalı]], çevrimiçi haber portalı.
+* [[soL TV]], YouTube ve Facebook üzerinden yayınlar yapan kanal.
+** Komünist Bakış
+** soL TV Haber Bülteni
+** Sınıfın Penceresinden Yurt ve Dünya
+** Satır Arası
+* ''Ortaklaşa'', aylık basılı siyasi dergi (dijital olarak da soL Haber üzerinden).
+
+=== Daha önce yayınlanan yayın organları ===
+* ''[[SoL (gazete)|SoL Gazetesi]]''
+* ''Boyun Eğme'', günlük dijital gazete ve daha sonra aylık basılı gazete.
+* ''Bizim Gazete'', haftalık gazete.
+* ''TKP'nin Sesi'',günlük podcast
+* Sınıf Tavrı
+* Siyaset
+* İktidar
+* ''Sosyalist İktidar'' Eylül 1979'dan [[12 Eylül Darbesi]]'ne kadar çıkan aylık dergi. Sosyalist İktidar dergisi, [[Türkiye İşçi Partisi (1961)|Türkiye İşçi Partisi]]'nden 2. Kongrede [[Troçkizm|Troçkist]] suçlamasıyla ihraç edilen [[Yalçın Küçük]], [[Metin Çulhaoğlu]], [[İlhan Akalın]], [[Mesut Odman]] (Odabaşı) ve çevresi tarafından Eylül 1979'da çıkarılmaya başlanmıştır. Aylık olarak yayımlanan dergi toplam 11 sayı çıkmıştır. 12 Eylül darbesiyle kapatılmıştır. Sosyalist İktidar ikinci olarak [[Sosyalist Türkiye Partisi]] (1992-1993) ve [[Sosyalist İktidar Partisi]]'nin (11 Kasım 2001 tarihinde Türkiye Komünist Partisi olarak adını değiştirmiştir) 15 günlük ve haftalık olarak çıkan ''İktidar'' gazetesinin 1994 yılında bu adı almasıyla yeniden yayımlanmaya başlamıştır. 2001 yılının ikinci haftasında Sosyalist İktidar gazetesi yerine Eşitlik ve Özgürlük Mücadelesinde ''Komünist'' çıkmıştır. Kimi bürokratik engellemeler yüzünden dördüncü sayıdan itibaren sadece ''Komünist'' adını kullanan dergi, uzun bir süre boyunca haftalık olarak yayınlanmıştır. Alt başlığında 'Eşitlik ve Özgürlük Mücadelesinin Yayın Organı' başlığını taşır. 306. sayısından sonra Mart 2007'de aylık olarak yayımlanmaya başlamıştır. Günümüzde aylık olarak yayımlanmaya devam etmektedir. 2010 yılında yayınına son verildi. 2011 yılının ağustos ayında yeniden çıkarılması kararı alındı.<ref>{{Web kaynağı|url=http://haber.sol.org.tr/soldakiler/komunist-cikti-haberi-45932|başlık=Arşivlenmiş kopya|erişimtarihi=31 Ekim 2016|arşivurl=https://web.archive.org/web/20160304120958/http://haber.sol.org.tr/soldakiler/komunist-cikti-haberi-45932|arşivtarihi=4 Mart 2016|ölüurl=evet}}</ref> Dergi, Ocak 2012'te kadar aylık olarak yayımlandı.
+* ''TKP'nin Sesi'', aylık yayınlanan parti bülteni ve Marksist siyasi dergi
+* Düşünce ve Eylem
+* Yurtsever 
+* Sanat Cephesi
+* Yeni İnsan Yeni Sinema
+* Okul ve Ülke
+* Solcu Liseliler
+* Madde, Diyalektik ve Toplum
+
+== Türkiye Komünist Partisi ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=3| Oy
+! colspan=2| Sandalye
+! rowspan=2| Meclis
+! rowspan=2| Sıra
+|-
+! #
+! %
+! ± [[Yüzde puanı|Y]]
+! #
+! ±
+|-
+! colspan=9; style="background-color:#F0F0F0 | {{Küçük|[[Sosyalist İktidar Partisi]]}}
+|-
+| [[1999 Türkiye genel seçimleri|1999]]
+| [[Aydemir Güler]]
+| 37.680
+| {{Yüzde çubuğu|0.12|%0,12|#C51015}} 
+| —
+| {{Composition bar|0|550|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| —
+| {{N/A}}
+| 18. 
+|-
+! colspan=9; style="background-color:#F0F0F0 | {{Küçük|Türkiye Komünist Partisi}}
+|-
+| [[2002 Türkiye genel seçimleri|2002]]
+| [[Aydemir Güler]]
+| 59.180
+| {{Yüzde çubuğu|0.19|%0,19|#C51015}} 
+| {{artış}} 0.07
+| {{Composition bar|0|550|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| —
+| {{N/A}}
+| 18. 
+|-
+| [[2007 Türkiye genel seçimleri|2007]]
+| [[Aydemir Güler]]
+| 79.258
+| {{Yüzde çubuğu|0.23|%0,23|#C51015}} 
+| {{artış}} 0.04
+| {{Composition bar|0|550|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| —
+| {{N/A}}
+| 11. 
+|-
+| [[2011 Türkiye genel seçimleri|2011]]
+| [[Erkan Baş]]
+| 64.006
+| {{Yüzde çubuğu|0.15|%0,15|#C51015}} 
+| {{azalış}} 0.08
+| {{Composition bar|0|550|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| —
+| {{N/A}}
+| 12. 
+|-
+! colspan=9; style="background-color:#F0F0F0 | {{Küçük|[[Komünist Parti (Türkiye)|Komünist Parti]]}}
+|-
+| [[Haziran 2015 Türkiye genel seçimleri|2015 Haziran]]
+| [[Özlem Şen Abay]]
+| 13.780
+| {{Yüzde çubuğu|0.03|%0,03|#C51015}} 
+| {{azalış}} 0.12
+| {{Composition bar|0|550|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| —
+| {{N/A}}
+| 18. 
+|-
+| [[Kasım 2015 Türkiye genel seçimleri|2015 Kasım]]
+| [[Özlem Şen Abay]]
+| 52.527
+| {{Yüzde çubuğu|0.11|%0,11|#C51015}} 
+| {{artış}} 0.08
+| {{Composition bar|0|550|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| —
+| {{N/A}}
+| 11. 
+|-
+! colspan=9; style="background-color:#F0F0F0 | {{Küçük|Türkiye Komünist Parti}}si 
+|-
+| [[2018 Türkiye genel seçimleri|2018]]
+| colspan=8 | {{Küçük|''YSK kararı gereğince seçimlere katılamadı.''}}
+|-
+|[[2023 Türkiye genel seçimleri|2023]]
+|[[Kemal Okuyan]]
+|63.809
+|{{Yüzde çubuğu|0.12|%0,12|#C51015}}
+|{{artış}} 0.01
+|{{Composition bar|0|600|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|—
+|Yok
+|15.
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=3| Belediye Meclisi
+! colspan=3| Belediye
+! colspan=3| İl Genel Meclisi +<br> BB İlçe Belediye Meclisi
+! colspan=3| Büyükşehir Belediye
+|-
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+|-
+! colspan=14 | {{Küçük|Sosyalist İktidar Partisi}}
+|-
+| [[1999 Türkiye yerel seçimleri|1999]]
+| [[Aydemir Güler]]
+| 392 || {{Yüzde çubuğu|0.00|%0,00|C51015}} || -
+| 1.227 || {{Yüzde çubuğu|0.00|%0,00|C51015}} || {{Composition bar|0|2903|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 23.189 || {{Yüzde çubuğu|0.07|%0,07|C51015}} || -
+| 283 || {{Yüzde çubuğu|0.06|%0,06|C51015}} || {{Composition bar|0|16|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|-
+! colspan=14 | {{Küçük|Türkiye Komünist Partisi}}
+|-
+| [[2004 Türkiye yerel seçimleri|2004]]
+| [[Aydemir Güler]]
+| 12.139 || {{Yüzde çubuğu|0.05|%0,05|C51015}} || {{Composition bar|0|34477|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 24.321 || {{Yüzde çubuğu|0.10|%0,10|C51015}} || {{Composition bar|0|3193|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 85.178 || {{Yüzde çubuğu|0.26|%0,26|C51015}} || {{Composition bar|0|3208|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 718 || {{Yüzde çubuğu|0.15|%0,15|C51015}} || {{Composition bar|0|16|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|-
+| [[2009 Türkiye yerel seçimleri|2009]]
+| [[Erkan Baş]]
+| 3.409 || {{Yüzde çubuğu|0.01|%0,01|C51015}} || {{Composition bar|2|32392|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 28.101 || {{Yüzde çubuğu|0.09|%0,09|C51015}} || {{Composition bar|0|2903|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 85.507 || {{Yüzde çubuğu|0.21|%0,21|C51015}} || {{Composition bar|0|3281|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 24.812 || {{Yüzde çubuğu|0.14|%0,14|C51015}} || {{Composition bar|0|16|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|-
+| [[2014 Türkiye yerel seçimleri|2014]]
+| Yaşar Çelik
+| 60.298 || {{Yüzde çubuğu|0.15|%0,15|C51015}} || {{Composition bar|6|20498|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 7.878 || {{Yüzde çubuğu|0.02|%0,02|C51015}} || {{Composition bar|1|1351|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 51.155 || {{Yüzde çubuğu|0.11|%0,11|C51015}} || {{Composition bar|1|1251|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 11.385 || {{Yüzde çubuğu|0.03|%0,03|C51015}} || {{Composition bar|0|30|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|-
+| [[2019 Türkiye yerel seçimleri|2019]]
+| [[Aydemir Güler]]
+| 125.109 || {{Yüzde çubuğu|0.29|%0,29|C51015}} || {{Composition bar|11|20745|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 48.615 || {{Yüzde çubuğu|0.11|%0,11|C51015}} || {{Composition bar|1|1355|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 111.775 || {{Yüzde çubuğu|0.24|%0,24|C51015}} || {{Composition bar|3|1272|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 54.153 || {{Yüzde çubuğu|0.20|%0,20|C51015}} || {{Composition bar|0|30|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|-
+| [[2024 Türkiye yerel seçimleri|2024]]
+| [[Kemal Okuyan]]
+| 126.166 || {{Yüzde çubuğu|0.29|%0,29|C51015}} || {{Composition bar|9|20953|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 114.194 || {{Yüzde çubuğu|0.27|%0,27|C51015}} || {{Composition bar|0|1356|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 1.214 || {{Yüzde çubuğu|0.01|%0,01|C51015}} || {{Composition bar|0|1282|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+| 49.476 || {{Yüzde çubuğu|0.14|%0,14|C51015}} || {{Composition bar|0|30|{{Siyasi parti renk|Türkiye Komünist Partisi}}}}
+|}
+
+== Ayrıca bakınız ==
+* [[Marş zaşçitnikov Moskvi]] (Parti marşı)
+* [[Türkiye'de komünizm]]
+
+== Notlar ==
+{{Kaynakça|group=not}}
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Dış bağlantılar ==
+{{Commons kategori|Communist Party of Turkey (current)}}
+* {{Resmî site}}
+* [https://web.archive.org/web/20110727024257/http://partiokulu.tkp.org.tr/ Partinin eğitim sitesi]
+
+{{Türkiye'deki komünist partiler}}
+{{Türkiye'deki siyasi partiler}}
+
+[[Kategori:Türkiye Komünist Partisi (2001)| ]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Türkiye'deki komünist partiler]]
+[[Kategori:2001'de kurulan siyasi partiler]]
+[[Kategori:2001'de Türkiye'de kurulan oluşumlar]]

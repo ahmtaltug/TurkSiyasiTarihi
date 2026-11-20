@@ -1,0 +1,582 @@
+{{Yönlendirme|DEVA}}{{Siyasi parti bilgi kutusu
+| isim             = Demokrasi ve Atılım Partisi
+| ülke             = {{bayraksimge|Türkiye}} [[Türkiye]]
+| kısaltma         = DEVA Partisi
+| colorcode        = {{Siyasi parti renk|Demokrasi ve Atılım Partisi}}
+| amblem           = Demokrasi ve Atılım Partisi Logosu (dikey).svg
+| genel başkanı    = [[Ali Babacan]]
+| slogan           = ''Güçlü, Kararlı, Birlikte DEVA Yolu''
+| genel sekreteri  = Yusuf Türkmen
+| sözcüsü          = [[Sadullah Kısacık]]
+| kuruluş          = {{Açılış tarihi ve yaşı|2020|3|9}}<ref name="kurulus">{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1597|başlık = Demokrasi ve Atılım Partisi|erişimtarihi = 16 Mart 2020|yayıncı = Yargıtay Cumhuriyet Başsavcılığı|arşivengelli = evet|arşivurl= https://web.archive.org/web/20200327213646/https://www.yargitaycb.gov.tr/icerik/1597|arşivtarihi= 27 Mart 2020|ölüurl =hayır}}</ref>
+| merkez           = [[Mustafa Kemal, Çankaya]], [[Ankara]]<ref name="kurulus"/>
+| öncülü           = [[Adalet ve Kalkınma Partisi]]
+| kurucusu         = [[Ali Babacan]]
+| üyelik           = {{azalış}} 123.338<ref>{{Web kaynağı|url = https://www.yargitaycb.gov.tr/icerik/1597|başlık = Yargıtay Cumhuriyet Başsavcılığı|arşivurl = https://web.archive.org/web/20200327213646/https://www.yargitaycb.gov.tr/icerik/1597|arşivtarihi = 27 Mart 2020}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Liberal muhafazakârlık]]<ref name="indyturk.com">{{Haber kaynağı|url=https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|başlık=Özal’ın dört eğiliminden Babacan’ın ana akımına: DEVA arayışı…|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=Independent Türkçe|arşivurl=https://web.archive.org/web/20210516141830/https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|arşivtarihi=16 Mayıs 2021|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://www.indyturk.com/node/408041/t%C3%BCrki%CC%87yeden-sesler/partizanl%C4%B1%C4%9F%C4%B1n-devas%C4%B1-var-m%C4%B1|başlık=Partizanlığın 'DEVA'sı var mı?|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=Independent Türkçe|arşivurl=https://web.archive.org/web/20210926202832/https://www.indyturk.com/node/408041/t%C3%BCrki%CC%87yeden-sesler/partizanl%C4%B1%C4%9F%C4%B1n-devas%C4%B1-var-m%C4%B1|arşivtarihi=26 Eylül 2021|ölüurl=hayır}}</ref>
+*[[Neoliberalizm]]<ref>{{Dergi kaynağı|url=https://dergipark.org.tr/tr/download/article-file/1769986|başlık=Foreign Policy Vision in AK Party, DEVA Party and Gelecek Partisi Party Programs with a Comparative Perspective|erişimtarihi=20 Haziran 2023|çalışma=Akif ÇARKÇI|yayıncı=|arşivurl=https://web.archive.org/web/20210721062309/https://dergipark.org.tr/tr/download/article-file/1769986|arşivtarihi=21 Temmuz 2021|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.evrensel.net/haber/399312/siyaset-bilimciler-devayi-degerlendirdi-ali-babacan-liberal-restorasyon-vadediyor|başlık=Siyaset Bilimciler DEVA'yı değerlendirdi: Ali Babacan liberal restorasyon vadediyor|erişimtarihi=20 Haziran 2023|arşivurl=https://web.archive.org/web/20200315204834/https://www.evrensel.net/haber/399312/siyaset-bilimciler-devayi-degerlendirdi-ali-babacan-liberal-restorasyon-vadediyor|arşivtarihi=15 Mart 2020|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://birikimdergisi.com/guncel/10175/ahmet-davutoglu-ve-ali-babacan-figurleri-uzerine-notlar|başlık=Ahmet Davutoğlu ve Ali Babacan Figürleri Üzerine Notlar - Hüseyin Padır|erişimtarihi=20 Haziran 2023|dil=Türkçe|çalışma=birikimdergisi.com|arşivurl=https://web.archive.org/web/20230620112645/https://birikimdergisi.com/guncel/10175/ahmet-davutoglu-ve-ali-babacan-figurleri-uzerine-notlar|arşivtarihi=20 Haziran 2023|ölüurl=hayır}}</ref>
+*[[Sosyal adalet]]çilik<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/e-arsiv/ali-babacan-sosyal-yardmlar-devletin-lutfu-degil-vatandasn-hakkdr|başlık=Ali Babacan: ‘Sosyal yardımlar devletin lütfu değil, vatandaşın hakkıdır‘|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=Demokrasi ve Atılım Partisi Resmi Web Sitesi|arşivurl=https://web.archive.org/web/20210224230345/https://devapartisi.org/parti/e-arsiv/ali-babacan-sosyal-yardmlar-devletin-lutfu-degil-vatandasn-hakkdr|arşivtarihi=24 Şubat 2021|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://www.indyturk.com/node/411481/siyaset/babacan-sosyal-koruma-ve-g%C3%BCvenlik-sistemini-a%C3%A7%C4%B1klad%C4%B1-sosyal-yard%C4%B1mlar%C4%B1-tek-bir|başlık=Babacan 'Sosyal Koruma ve Güvenlik Sistemi'ni açıkladı: Sosyal yardımları tek bir merkezde toplayacağız|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=Independent Türkçe|arşivurl=https://web.archive.org/web/20210915181938/https://www.indyturk.com/node/411481/siyaset/babacan-sosyal-koruma-ve-g%C3%BCvenlik-sistemini-a%C3%A7%C4%B1klad%C4%B1-sosyal-yard%C4%B1mlar%C4%B1-tek-bir|arşivtarihi=15 Eylül 2021|ölüurl=hayır}}</ref>
+*[[Sivil milliyetçilik]]<ref>{{Web kaynağı|url=https://www.youtube.com/watch?v=kD5vEQmIgZI|başlık=sakın kader deme - 21. dakika 13. saniye|erişimtarihi=19 Haziran 2023|tarih=18 Mayıs 2020|çalışma=140journos|yayıncı=YouTube|arşivurl=https://web.archive.org/web/20230619081515/https://www.youtube.com/watch?v=kD5vEQmIgZI|arşivtarihi=19 Haziran 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://devapartisi.org/parti/e-arsiv/ali-babacan-turkiyenin-butun-demokratlarna-sesleniyorum-gelin-hep-beraber-kazanalm|başlık = Ali Babacan: ‘Milliyetçi demokrat arkadaşıma sesleniyorum. ’|arşivurl = https://web.archive.org/web/20220518230316/https://devapartisi.org/parti/e-arsiv/ali-babacan-turkiyenin-butun-demokratlarna-sesleniyorum-gelin-hep-beraber-kazanalm|arşivtarihi = 18 Mayıs 2022}}</ref>
+*[[Pro-Avrupacılık]]<ref>{{Web kaynağı|url=https://devapartisi.org/parti/e-arsiv/devadan-ab-raporu-degerlendirmesi-hukumetin-bir-kenara-braktg-avrupa-birligi-uyeligi-hedefi-bizim-icin-vazgecilmezdir|başlık=DEVA’dan AB raporu değerlendirmesi: ‘Hükûmetin bir kenara bıraktığı Avrupa Birliği üyeliği hedefi bizim için vazgeçilmezdir’|erişimtarihi=20 Haziran 2023|arşivurl=https://web.archive.org/web/20230620112644/https://devapartisi.org/parti/e-arsiv/devadan-ab-raporu-degerlendirmesi-hukumetin-bir-kenara-braktg-avrupa-birligi-uyeligi-hedefi-bizim-icin-vazgecilmezdir|arşivtarihi=20 Haziran 2023|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=http://gorunumgazetesi.com.tr/haber/76414/rotamiz-avrupa-birligine-tam-uyelik.html|başlık=“Rotamız Avrupa Birliği’ne tam üyelik”|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=Görünüm Gazetesi|arşivurl=https://web.archive.org/web/20210828220630/http://gorunumgazetesi.com.tr/haber/76414/rotamiz-avrupa-birligine-tam-uyelik.html|arşivtarihi=28 Ağustos 2021|ölüurl=evet}}</ref><ref>{{Haber kaynağı|url=https://m.bianet.org/bianet/siyaset/234820-ekonomiyi-batirinca-ab-den-soz-etmeye-basladilar|başlık="Ekonomiyi batırınca AB'den söz etmeye başladılar"|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=bianet}}</ref>
+*[[Güçlendirilmiş parlamenter sistem|Parlamenterizm]]<ref>{{Haber kaynağı|url=https://t24.com.tr/haber/deva-partisi-guclendirilmis-parlamenter-sistem-onerisini-acikladi-asla-eski-sistemin-eksik-demokrasisi-ile-yetinmeyecegiz,983050|başlık=DEVA Partisi, güçlendirilmiş parlamenter sistem önerisini açıkladı: Asla eski sistemin eksik demokrasisi ile yetinmeyeceğiz|erişimtarihi=4 Ekim 2021|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20211004094845/https://t24.com.tr/haber/deva-partisi-guclendirilmis-parlamenter-sistem-onerisini-acikladi-asla-eski-sistemin-eksik-demokrasisi-ile-yetinmeyecegiz,983050|arşivtarihi=4 Ekim 2021|ölüurl=hayır}}</ref>
+}}
+| pozisyon         = [[Büyük çadır]]<ref name="indyturk.com"/><ref>{{Web kaynağı|url=https://www.bursahakimiyet.com.tr/gundem/babacan-demokratlara-seslendi-yasadigimiz-hayal-kirikligi-bizi-siyasetten-sogutmasin-1183179|başlık=Arşivlenmiş kopya|erişimtarihi=24 Ocak 2024|arşivurl=https://web.archive.org/web/20240124145120/https://www.bursahakimiyet.com.tr/gundem/babacan-demokratlara-seslendi-yasadigimiz-hayal-kirikligi-bizi-siyasetten-sogutmasin-1183179|arşivtarihi=24 Ocak 2024|ölüurl=hayır}}</ref><br>[[Merkezcilik|Merkez]]<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/sik-sorulan-sorular|başlık=DEVA Partisi’ni siyasi yelpazenin neresinde konumlandırıyorsunuz?|erişimtarihi=14 Kasım 2021|dil=Türkçe|çalışma=Deva Partisi|arşivurl=https://web.archive.org/web/20210110144739/https://devapartisi.org/parti/sik-sorulan-sorular|arşivtarihi=10 Ocak 2021|ölüurl=hayır}}</ref> ve [[Türkiye'de merkez sağ|merkez sağ]]<ref name="indyturk.com"/><ref>{{Web kaynağı|url=https://www.ozgurkocaeli.com.tr/makale/4506187/mustafa-okcu/deva-partisi-ve-merkez-sag-siyaset-alani|başlık=Arşivlenmiş kopya|erişimtarihi=26 Eylül 2022|arşivurl=https://web.archive.org/web/20200721135959/https://www.ozgurkocaeli.com.tr/makale/4506187/mustafa-okcu/deva-partisi-ve-merkez-sag-siyaset-alani|arşivtarihi=21 Temmuz 2020|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.indyturk.com/node/145051/siyaset/deva-partisi%E2%80%99nin-ilk-g%C3%BCn%C3%BCnden-izlenimler-islamc%C4%B1-de%C4%9Fil-merkez-sa%C4%9Fc%C4%B1|başlık=Arşivlenmiş kopya|erişimtarihi=26 Eylül 2022|arşivurl=https://web.archive.org/web/20220101163848/https://www.indyturk.com/node/145051/siyaset/deva-partisi%E2%80%99nin-ilk-g%C3%BCn%C3%BCnden-izlenimler-islamc%C4%B1-de%C4%9Fil-merkez-sa%C4%9Fc%C4%B1|arşivtarihi=1 Ocak 2022|ölüurl=hayır}}</ref>
+| ulusal           = {{yalın liste|
+*[[Altılı Masa]] {{küçük|(2022-2023)}}
+*[[Millet İttifakı]] {{küçük|(2023)}}
+*[[Yeni Yol|Yeni Yol İttifakı]] {{küçük|(2025-günümüz)}}
+}}
+| renkler          = {{Color box|#006D9E|border=darkgray}}{{Renk kutusu|#FFFFFF}}{{Color box|#008DBC|border=darkgray}} [[Mavi]] ve [[beyaz]]
+| sandalye1_başlık = [[Yeni Yol Partisi|Yeni Yol]]'da bulunan milletvekili
+| sandalye1        = {{Composition bar|7|600|{{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}} [[#Milletvekilleri|Tüm Liste]]
+| sandalye2_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye2        = {{Composition bar|1|922|{{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye3_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|0|390|hex={{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = {{URL|https://devapartisi.org/}}
+| bayrak           = Demokrasi ve Atılım Partisi Bayrağı.svg
+| sandalye4_başlık = [[İl genel meclisi|İl Genel Meclisleri]]
+| sandalye4        = {{Composition bar|1|1282|hex={{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}}
+| sandalye5_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye5        = {{Composition bar|40|20953|hex={{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}}
+}}
+'''Demokrasi ve Atılım Partisi''', 9 Mart 2020 tarihinde [[Ali Babacan]] liderliğinde kurulan ve [[Türkiye]]'de [[Türkiye'deki siyasi partiler listesi|faaliyet gösteren]] bir [[siyasi parti]]dir. Parti tüzüğüne göre resmî kısaltması "DEVA Partisi"<ref name=":02" group="Not">DEVA Partisi Tüzüğü Madde 2 (2) (2) (Değişik: 27.11.2020 günlü KKK.m.1)</ref> şeklindedir. Simgesi, içinde fidan silüeti olan su damlasıdır. [[Türkiye Büyük Millet Meclisi|TBMM]]'de 7 milletvekili ile temsil edilmektedir ve ortak grup çalışmaları gereği 7 milletvekilinin 7’si de [[Yeni Yol Partisi|Yeni Yol]]'dadır. Genel başkanı Ali Babacan'dır.<ref name=":5">{{Web kaynağı|url = https://devapartisi.org/temel-metinler/parti-tuzugu|başlık = DEVA Partisi Tüzüğü|erişimtarihi = 10 Şubat 2021|çalışma =devapartisi.org|arşivurl = https://web.archive.org/web/20200311231512/https://devapartisi.org/temel-metinler/parti-tuzugu|arşivtarihi = 11 Mart 2020}}</ref><ref>{{Web kaynağı|url = https://devapartisi.org/teskilat/genel-baskan|başlık = Genel Başkan|erişimtarihi = 22 Haziran 2020|tarih =|çalışma = Ali Babacan, özgeçmişi|yayıncı = Demokrasi ve Atılım Partisi|arşivurl = https://web.archive.org/web/20200321205247/https://devapartisi.org/teskilat/genel-baskan|arşivtarihi = 21 Mart 2020|ölüurl =evet}}</ref><ref>{{Web kaynağı|url = https://tr.sputniknews.com/politika/202003101041570111-ali-babacan-oy-birligi-ile-deva-partisinin-genel-baskani-secildi/|başlık = Ali Babacan, oy birliği ile DEVA Partisi'nin Genel Başkanı seçildi|erişimtarihi = 10 Mart 2020|tarih = 12 Mart 2020|çalışma =|yayıncı = [[Sputnik]]|arşivurl = https://web.archive.org/web/20200311140618/https://tr.sputniknews.com/politika/202003101041570111-ali-babacan-oy-birligi-ile-deva-partisinin-genel-baskani-secildi/|arşivtarihi = 11 Mart 2020|ölüurl =hayır}}</ref>
+
+Parti, dünya görüşünü "politikalarını gerçekleştirerek [[kuvvetler ayrılığı]] prensibine ve [[hukukun üstünlüğü]]ne dayanan, tarafsız ve bağımsız bir yargı sistemiyle hukuk güvenliğini en üst düzeyde sağlayan, katılımcı ve çoğulcu demokrasiye önem veren olarak" tanımlar.<ref>{{Web kaynağı|url=https://devapartisi.org/temel-metinler/parti-programi|başlık=DEVA PARTİ PROGRAMI|erişimtarihi=19 Haziran 2023|arşivurl=https://web.archive.org/web/20200311231639/https://devapartisi.org/temel-metinler/parti-programi|arşivtarihi=11 Mart 2020|ölüurl=hayır}}</ref> Üçüncü taraf kaynaklar genellikle partiyi [[liberal muhafazakârlık]] ideolojisini benimseyen<ref name="politikyol.com">{{Web kaynağı|url=https://www.politikyol.com/devanin-derdi/|başlık=DEVA’nın derdi|erişimtarihi=30 Nisan 2022|arşivtarihi=14 Nisan 2022|arşivurl=https://web.archive.org/web/20220414043811/https://www.politikyol.com/devanin-derdi/|tarih=14 Nisan 2022|dil=Türkçe|çalışma=PolitikYol Haber Sitesi}}</ref> ve merkez sağa yaslanan bir parti olarak değerlendirmiştir.<ref>{{Web kaynağı|url=https://www.indyturk.com/node/145051/siyaset/deva-partisi%E2%80%99nin-ilk-g%C3%BCn%C3%BCnden-izlenimler-islamc%C4%B1-de%C4%9Fil-merkez-sa%C4%9Fc%C4%B1|başlık=Arşivlenmiş kopya|erişimtarihi=26 Eylül 2022|arşivtarihi=1 Ocak 2022|arşivurl=https://web.archive.org/web/20220101163848/https://www.indyturk.com/node/145051/siyaset/deva-partisi%E2%80%99nin-ilk-g%C3%BCn%C3%BCnden-izlenimler-islamc%C4%B1-de%C4%9Fil-merkez-sa%C4%9Fc%C4%B1|ölüurl=hayır}}</ref> Parti siyasi yelpazede kendisini yelpazenin [[Merkezcilik|tam ortasında]] her ideolojiden insanı barındırmayı amaçlayan 'ana akım' parti olarak tanımlamaktadır.<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/sik-sorulan-sorular|başlık=DEVA Partisi’ni siyasi yelpazenin neresinde konumlandırıyorsunuz?|erişimtarihi=14 Kasım 2021|arşivtarihi=10 Ocak 2021|arşivurl=https://web.archive.org/web/20210110144739/https://devapartisi.org/parti/sik-sorulan-sorular|ölüurl=hayır|dil=Türkçe|çalışma=Deva Partisi}}</ref>
+
+Bazı yorumcular, partinin 2002'deki [[Adalet ve Kalkınma Partisi]]ni (AK Parti) anımsattığını belirtmektedir. Eleştirmenlere göre, parti stratejisini AK Parti tabanı içindeki iki gruptan destek almaya dayandırmıştır: orta gelirli sınıf ve dindar Kürt seçmenler. Eleştirmenler AK Parti'nin [[Milliyetçi Hareket Partisi]] (MHP) ile ittifak halinde olması ve Kürtlere güvenlikçi bir yaklaşım benimsemesi nedeniyle, dindar Kürt seçmenlerin gerçekten yeni bir parti arayışı içinde olduğunu belirterek partinin bu seçmenlere alternatif oluşturduğunu düşünmektedir.<ref name=":3">{{Web kaynağı|url=https://www.politikyol.com/devanin-zor-sinavi/|başlık=DEVA’nın zor sınavı|erişimtarihi=19 Haziran 2023|tarih=29 Nisan 2022|dil=Türkçe|çalışma=PolitikYol.com {{!}} Yorum, Analiz, Haber Sitesi|arşivurl=https://web.archive.org/web/20230619073833/https://www.politikyol.com/devanin-zor-sinavi/|arşivtarihi=19 Haziran 2023|ölüurl=hayır}}</ref> Ayrıca [[Anavatan Partisi]]nin (ANAP) devamı olduğu da iddia edilmiştir.<ref>{{Web kaynağı|url=https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|başlık=Doç. Dr. Tercan Yıldırım {{!}} Özal’ın dört eğiliminden Babacan’ın ana akımına: DEVA arayışı…|erişimtarihi=19 Haziran 2023|tarih=16 Mart 2020|dil=Türkçe|çalışma=Independent Türkçe|ad=Doç. Dr. Tercan|soyadı=Yıldırım|arşivurl=https://web.archive.org/web/20210516141830/https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|arşivtarihi=16 Mayıs 2021|ölüurl=hayır}}</ref>
+
+Parti, 2021'den bu yana ekonomiden sağlığa, eğitimden çevreye geniş bir yelpazeyi kapsayan 23 tane eylem planı yayınladı. Planlar, parti web sitesi, sosyal medya ve basın yoluyla kamuoyuna duyuruldu.
+
+Parti gireceği ilk seçimler olan [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] [[Cumhuriyet Halk Partisi]] (CHP) listelerinden 24 adayla, [[İYİ Parti]] listelerinden 1 adayla seçimlere katıldı ve bu adaylardan 15'i seçildi.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/2023-secim/millet-ittifaki-partilerinden-39-aday-chp-listesinden-meclise-girdi,JbVkFy3fXU2HhSMmTjmwLQ|başlık=Millet İttifakı partilerinden 39 aday, CHP listesinden Meclis'e girdi|erişimtarihi=19 Haziran 2023|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20230516205009/https://www.ntv.com.tr/2023-secim/millet-ittifaki-partilerinden-39-aday-chp-listesinden-meclise-girdi,JbVkFy3fXU2HhSMmTjmwLQ|arşivtarihi=16 Mayıs 2023|ölüurl=hayır}}</ref> 2024 Yerel Seçimlerinde %0.18 oy aldı 1 belde kazandı.
+{{TOClimit}}
+
+== Tarihçe ==
+
+=== Kuruluşu: 2019-2020 ===
+{{Ayrıca bakınız|Ali Babacan#AK Parti'den ayrışması (2010-2019)}}
+Ali Babacan'ın ekonomi yaklaşımı, AK Parti ile ayrışmasıyla 2010 yılında belirgin hale geldi. Hazineden Sorumlu Başbakan Yardımcısı olarak görev yaptığı dönemde, uzun vadeli öngörülebilirlik ve mali kuralların önemini vurguladı. Kamu maliyesini kontrol altına almak için "milli bir çıpa"ya ihtiyaç duyduğunu savundu. Erdoğan ise Mali Kural uygulamasından vazgeçerek büyümeyi önceliklendirdi.<ref name=":32">{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-dunya-49645752|başlık=Ali Babacan: Ekonomi yönetiminden yeni partiye|erişimtarihi=5 Temmuz 2023|arşivtarihi=20 Ekim 2019|arşivurl=https://web.archive.org/web/20191020013744/https://www.bbc.com/turkce/haberler-dunya-49645752|ölüurl=hayır|dil=Türkçe|çalışma=BBC News Türkçe}}</ref>
+
+Babacan, yaptığı açıklamada "Aklen ve kalben bir ayrışma yaşadım" diyerek Temmuz 2019'da [[Adalet ve Kalkınma Partisi|AK Partiden]] istifa etti.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-49279299|başlık=Ali Babacan: Çalışmaları başlatmış bulunmaktayız|erişimtarihi=4 Mayıs 2024|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20240509144156/https://www.bbc.com/turkce/haberler-turkiye-49279299|arşivtarihi=9 Mayıs 2024|ölüurl=hayır}}</ref> Babacan, 2019'da [[Teke Tek]] programında partisinin siyasi ve ideolojik yapısı hakkında şeffaflık, hesap verilebilirlik, liyakat gibi ilkelerin temel olacağını ve bu ilkelere bağlılık gösteren herkesin partiye katılabileceğini belirtti. Din, etnik köken veya mezhep ayrımı yapmayacaklarını vurguladı. Parlamenter sistemi destekledi ve güçler ayrılığına dayalı, güçlü ve merkezi bir parlamentoyu savundu.<ref name=":1">{{Dergi kaynağı|url=https://daktilo1984.com/wp-content/uploads/DEVA-PARTI%CC%87SI%CC%87-RAPORU.pdf|başlık=DEVA PARTİSİ RAPORU|çalışma=Nurettin Kalkan|yayıncı=daktilo1984|erişim-tarihi=19 Haziran 2023|arşivurl=https://web.archive.org/web/20210707172622/https://daktilo1984.com/wp-content/uploads/DEVA-PARTI%CC%87SI%CC%87-RAPORU.pdf|arşivtarihi=7 Temmuz 2021|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.haberturk.com/video/politika/izle/teke-tek-26-kasim-2019-ali-babacan-ak-partiden-neden-istifa-etti/663506|başlık=Teke Tek - 26 Kasım 2019 (Ali Babacan AK Parti'den neden istifa etti?) {{!}} Video|erişimtarihi=19 Haziran 2023|tarih=26 Mayıs 2023|dil=Türkçe|çalışma = [[Habertürk (gazete)|Habertürk]]|arşivurl=https://web.archive.org/web/20230619073823/https://www.haberturk.com/video/politika/izle/teke-tek-26-kasim-2019-ali-babacan-ak-partiden-neden-istifa-etti/663506|arşivtarihi=19 Haziran 2023|ölüurl=hayır}}</ref> Parti kurucularından biri, bir dizi ajans ve çalışma grubuyla birlikte isim belirleme sürecini yoğun bir şekilde yürüttüklerini, 200'den fazla isim üzerinde günlerce düşünüldüğünü ve olumlu çağrışımlar uyandıran bir ismin seçildiğini belirtti.<ref>{{Web kaynağı|url=https://www.indyturk.com/node/145051/siyaset/deva-partisi%E2%80%99nin-ilk-g%C3%BCn%C3%BCnden-izlenimler-islamc%C4%B1-de%C4%9Fil-merkez-sa%C4%9Fc%C4%B1|başlık=İzlenim {{!}} DEVA Partisi’nin ilk gününden izlenimler: İslamcı değil merkez sağcı|erişimtarihi=23 Haziran 2023|tarih=11 Mart 2020|dil=Türkçe|çalışma=Independent Türkçe|ad=Cihat|soyadı=Arpacık|arşivurl=https://web.archive.org/web/20220101163848/https://www.indyturk.com/node/145051/siyaset/deva-partisi%E2%80%99nin-ilk-g%C3%BCn%C3%BCnden-izlenimler-islamc%C4%B1-de%C4%9Fil-merkez-sa%C4%9Fc%C4%B1|arşivtarihi=1 Ocak 2022|ölüurl=hayır}}</ref>
+
+Demokrasi ve Atılım Partisi, 13 yıl [[Dışişleri Bakanlığı (Türkiye)|Türkiye Cumhuriyeti dışişleri]] ve [[Ekonomi Bakanlığı (Türkiye)|ekonomi bakanlığı]] yapmış olan Ali Babacan liderliğinde 9 Mart 2020 tarihinde kuruldu.<ref name="amerikaninsesi.com">{{Web kaynağı | url = https://www.amerikaninsesi.com/a/babacan-erdogan-cumhurbaskani-sert-elestiri-deva-parti/5717436.html | başlık = Babacan'dan Erdoğan'a Sert Eleştiriler | erişimtarihi = 17 Şubat 2021 | dil = Türkçe | çalışma = Amerika'nin Sesi {{!}} Voice of America - Turkish | arşivurl = https://web.archive.org/web/20201229173108/https://www.amerikaninsesi.com/a/babacan-erdogan-cumhurbaskani-sert-elestiri-deva-parti/5717436.html | arşivtarihi = 29 Aralık 2020}}</ref><ref>{{Web kaynağı | url = https://www.amerikaninsesi.com/a/ali-babacan-eski-akplilerle-deva-olma-iddiasiyla-yola-cikti/5320937.html | başlık = Ali Babacan Eski AKP'lilerle Yeni Parti Kuruyor | erişimtarihi = 17 Şubat 2021 | dil = Türkçe | çalışma = Amerika'nin Sesi {{!}} Voice of America - Turkish | arşivurl = https://web.archive.org/web/20201201124032/https://www.amerikaninsesi.com/a/ali-babacan-eski-akplilerle-deva-olma-iddiasiyla-yola-cikti/5320937.html | arşivtarihi = 1 Aralık 2020}}</ref> Partinin kurucuları arasında ayrıca, uzun yıllar [[Recep Tayyip Erdoğan|Erdoğan]] kabinelerinde görev yapan eski [[Adalet Bakanlığı (Türkiye)|Adalet Bakanı]] [[Sadullah Ergin]], eski [[Sanayi ve Teknoloji Bakanlığı|Bilim, Sanayi ve Teknoloji Bakanı]] [[Nihat Ergün]], eski [[Devlet Bakanlığı (Türkiye)|Devlet Bakanı]] [[Selma Aliye Kavaf]] ve [[Adalet ve Kalkınma Partisi|AK Parti]]'nden eski Balıkesir Büyükşehir Belediye Başkanı [[Ahmet Edip Uğur]] da yer aldı.<ref>{{Web kaynağı|url = https://www.cumhuriyet.com.tr/haber/ali-babacanin-partisinin-kurulus-dilekcesi-icisleri-bakanligina-sunuldu-1726011|başlık = Ali Babacan'ın partisinin kuruluş dilekçesi, İçişleri Bakanlığı'na sunuldu|erişimtarihi = 19 Eylül 2021|dil = Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl = https://web.archive.org/web/20200310181913/https://www.cumhuriyet.com.tr/haber/ali-babacanin-partisinin-kurulus-dilekcesi-icisleri-bakanligina-sunuldu-1726011|arşivtarihi = 10 Mart 2020}}</ref>
+
+DEVA Partisi Kurucular Kurulu, ilk toplantısını 10 Mart 2020 tarihinde gerçekleştirdi. Toplantıda Babacan oy birliğiyle genel başkan seçildi.<ref name="amerikaninsesi.com" /><ref>{{Web kaynağı|url = https://www.haberturk.com/demokrasi-ve-atilim-partisi-nde-ali-babacan-oy-birligi-ile-genel-gaskan-secildi-2609829|başlık = Demokrasi ve Atılım Partisi'nde Ali Babacan oy birliği ile genel başkan seçildi|erişimtarihi = 7 Temmuz 2020|tarih = 10 Mart 2020|çalışma =|yayıncı = Haber Türk|arşivurl = https://web.archive.org/web/20200311154010/https://www.haberturk.com/demokrasi-ve-atilim-partisi-nde-ali-babacan-oy-birligi-ile-genel-gaskan-secildi-2609829|arşivtarihi = 11 Mart 2020|ölüurl =hayır}}</ref> Babacan, 11 Mart 2020 tarihinde partisinin tanıtım toplantısını Ankara'da Bilkent Otel'de yaptı.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-51842258|başlık=DEVA Partisi'nin yol haritasında ne var, Ali Babacan hangi vaatlerde bulundu?|erişimtarihi=19 Eylül 2021|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20210716202452/https://www.bbc.com/turkce/haberler-turkiye-51842258|arşivtarihi=16 Temmuz 2021|ölüurl=hayır}}</ref>
+
+Parti, il ve ilçelerdeki teşkilatlanma için genel merkezden atama usulü yerine bir komisyon kurarak adaylarla mülakat yöntemini tercih etti.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/politika/2020/05/11/gelecek-ve-devada-gundem-teskilatlanma/|başlık=Gelecek ve DEVA'da gündem: Teşkilatlanma|erişimtarihi=7 Temmuz 2020|arşivtarihi=16 Mayıs 2020|arşivurl=https://web.archive.org/web/20200516070954/https://www.gazeteduvar.com.tr/politika/2020/05/11/gelecek-ve-devada-gundem-teskilatlanma/|tarih=11 Mayıs 2020|ölüurl=evet|çalışma=|yayıncı=Gazete Duvar}}</ref><ref>{{Web kaynağı|url=https://medyascope.tv/2020/06/12/medyascope-ozel-haber-deva-partisi-guneydoguda-teskilatlanma-icin-kamp-kurdu/|başlık=Medyascope özel haber: DEVA Partisi Güneydoğu’da teşkilatlanma için kamp kurdu|erişimtarihi=7 Temmuz 2020|arşivtarihi=8 Temmuz 2020|arşivurl=https://web.archive.org/web/20200708073853/https://medyascope.tv/2020/06/12/medyascope-ozel-haber-deva-partisi-guneydoguda-teskilatlanma-icin-kamp-kurdu/|tarih=12 Haziran 2020|ölüurl=evet|çalışma=|yayıncı=Medyascope}}</ref> Partinin Ankara'nın Çankaya ilçesi Mustafa Kemal Mahallesi'ndeki dijital altyapısı tamamlanmış olan genel merkezi, 7 Temmuz 2020'de internet üzerinden yapılan canlı yayınla açıldı. Binanın açılmasıyla Türkiye'nin ilk dijital açılışı yapılmış oldu.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2020/gundem/babacandan-dijital-acilis-5915393/|başlık=Babacan’dan ‘dijital’ açılış|erişimtarihi=7 Temmuz 2020|arşivtarihi=7 Temmuz 2020|arşivurl=https://web.archive.org/web/20200707212239/https://www.sozcu.com.tr/2020/gundem/babacandan-dijital-acilis-5915393/|tarih=7 Temmuz 2020|ölüurl=evet|çalışma=|yayıncı=Sözcü}}</ref><ref>{{Web kaynağı|url=https://m.medyafaresi.com/haber/deva-partisinden-turkiyede-bir-ilk-dijital-acilis/944368|başlık=DEVA Partisi'nden Türkiye'de bir ilk: Dijital açılış!|erişimtarihi=7 Temmuz 2020|arşivtarihi=27 Temmuz 2020|arşivurl=https://web.archive.org/web/20200727192658/https://m.medyafaresi.com/haber/deva-partisinden-turkiyede-bir-ilk-dijital-acilis/944368|tarih=7 Temmuz 2020|ölüurl=evet|çalışma=|yayıncı=Medyafaresi}}</ref>
+
+=== İlk dönemi: 2020-2023 ===
+[[Dosya:Ali Babacan 2021.jpg|küçükresim|Babacan, partisinin toplantısında konuşuyor, 2020|upright=1.11]]22 Haziran 2021 tarihinden itibaren çeşitli alanlarda eylem planları yayınlayan DEVA Partisi, günümüze kadar: Ekonomi ve Finans, Tarım, Afet Yönetimi, Sosyal Politikalar, Demokrasiye Geçiş, Yarına Atılım, Adil Yargı, Temel Haklar, Sağlıkta Atılım, Yükseköğretim, Eğitim, KHK Mağduriyetleri, Çevre ve İklim Değişikliği, Sığınmacı Sorununun Çözümü ve Düzensiz Göçün Önlenmesi, Dış Politika ve Güvenlik, Madencilik ve Enerji, Kalkınma Seferberliği, Kültürel Atılım, Turizmde Dönüşüm, Gençlik, Kadın ve son olarak Yurt Dışı Vatandaşlar başlıklarında toplamda 23 tane Eylem Planı yayınlamıştır. 19 Nisan 2023 itibarıyla 23 eylem planının hepsi DEVA Partisi web sitesinde, Twitter sayfalarında, YouTube kanallarında ve çeşitli basın kuruluşları aracılığıyla açıklanmış ve yayınlanmıştır.<ref>{{Web kaynağı|url=https://devahazir.devapartisi.org.tr|başlık=Deva Partisi Eylem Planları|erişimtarihi=2 Haziran 2023|arşivtarihi=2 Nisan 2022|arşivurl=https://web.archive.org/web/20220402142615/https://devahazir.devapartisi.org.tr|dil=Türkçe|çalışma=Deva Hazır}}</ref>
+
+Parti, [[Gaziantep]] Demokrasi Meydanı'nda yapılması valilik tarafından engellenen ilk mitingini 21 Mayıs 2022 tarihinde Gaziantep Kalealtı'nda yaptı.<ref name=":2">{{Web kaynağı|url=https://www.evrensel.net/haber/462065/deva-partisi-ilk-mitingini-antepte-yapti|başlık=DEVA Partisi, ilk mitingini Antep’te yaptı|erişimtarihi=28 Mayıs 2022|arşivtarihi=31 Mayıs 2022|arşivurl=https://web.archive.org/web/20220531122223/https://www.evrensel.net/haber/462065/deva-partisi-ilk-mitingini-antepte-yapti|ölüurl=hayır}}</ref> Babacan, miting sırasında [[Cumhurbaşkanı]] [[Recep Tayyip Erdoğan|Erdoğan]]'a seslenerek "Engellemeye rağmen Gaziantep burada, ey Beştepe görüyor musun" dedi.<ref name=":2" />[[Dosya:Güçlendirilmiş_Parlamenter_Sistem_toplantısı.jpg|küçükresim|[[Altılı Masa]] liderleri, 2022|sol|200x200pik]]
+7 Kasım 2021 tarihinde Babacan ile Hukuk ve Adalet Politikaları Başkanı [[Mustafa Yeneroğlu|Yeneroğlu]], Partinin Genel Merkezi'nde düzenlenen basın toplantısıyla partinin [[Güçlendirilmiş parlamenter sistem]] önerisini açıkladı.<ref>{{Web kaynağı|url=https://devapartisi.org/parti/e-arsiv/deva-partisinden-guclendirilmis-parlamenter-sistem-onerisi-davetimiz-ozgurlukcu-katlmc-ve-cogulcu-demokrasi-icindir|başlık=DEVA Partisi’nden ‘Güçlendirilmiş Parlamenter Sistem’ önerisi: ‘Davetimiz özgürlükçü, katılımcı ve çoğulcu demokrasi içindir’|erişimtarihi=5 Nisan 2023|arşivtarihi=25 Aralık 2022|arşivurl=https://web.archive.org/web/20221225082939/https://devapartisi.org/parti/e-arsiv/deva-partisinden-guclendirilmis-parlamenter-sistem-onerisi-davetimiz-ozgurlukcu-katlmc-ve-cogulcu-demokrasi-icindir|tarih=2021|ölüurl=hayır}}</ref> Altı muhalefet partisi, ekim ayı başından bu yana üzerinde çalıştıkları "Güçlendirilmiş Parlamenter Sistem" ile ilgili ortak metne 14 Aralık'ta son biçimini verdi.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/59486185|başlık=6 muhalefet partisinin Güçlendirilmiş Parlamenter Sistem çalışması hangi düzenlemeleri öngörüyor?|erişimtarihi=5 Nisan 2023|arşivtarihi=3 Aralık 2021|arşivurl=https://web.archive.org/web/20211203172403/https://www.bbc.com/turkce/59486185|ölüurl=hayır|dil=Türkçe|çalışma=BBC News Türkçe}}</ref> Hazırlanan ortak metin, 6 partinin genel başkanlarına sunduktan sonra 12 Şubat 2022 tarihinde 6 muhalefet partisi lideri Güçlendirilmiş Parlamenter Sistem mutabakat metnine bağlılıklarını tesis ederek ortak irade beyannamesini imzaladılar. Güçlendirilmiş Parlamenter Sistem Mutabakat Metni 28 Şubat günü kamuoyuna duyuruldu.<ref>{{Web kaynağı|url=https://chp.org.tr/haberler/guclendirilmis-parlamenter-sistem-mutabakat-metni-mzalandi|başlık=Güçlendirilmiş Parlamenter Sistem Mutabakat Metni İmzalandı|erişimtarihi=1 Haziran 2022|arşivtarihi=28 Şubat 2022|arşivurl=https://web.archive.org/web/20220228154225/https://chp.org.tr/haberler/guclendirilmis-parlamenter-sistem-mutabakat-metni-mzalandi|ölüurl=hayır|dil=Türkçe|çalışma=chp.org.tr}}</ref>{{Tweet|kullanıcıadı=alibabacan|tarih=27 Nisan 2022|metin=Demokrasi ve Atılım Partisi, önümüzdeki seçimlere kendi adıyla, kendi şanıyla, kendi logosuyla girme kararını almıştır.
+
+Ülkemiz için, demokrasimiz için hayırlı olsun.|ad=Ali Babacan|kaynak=<ref>{{Web kaynağı|url=https://twitter.com/alibabacan/status/1519272412940021764|başlık=Ali Babacan Twitter|erişimtarihi=14 Mayıs 2024|tarih=27 Nisan 2022|yayıncı=Twitter|arşivurl=https://web.archive.org/web/20240509142418/https://twitter.com/alibabacan/status/1519272412940021764|arşivtarihi=9 Mayıs 2024|ölüurl=hayır}}</ref>}}
+27 Nisan 2022'de Babacan tarafından DEVA Partisinin seçimlere kendi adı ve logosuyla gireceğinin açıklanması DEVA Partisinin 6'lı Masa'yı devirdiğine dair söylentilere neden olmuş ancak sonrasında 6'lı Masa ile çalışılmaya devam edileceği açıklaması yapılmıştır.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/ankara-da-tarihi-zirve-6-muhalefet-parti-lideri-guclendirilmis-parlamenter-sistem-metnini-acikliyor,1017871|başlık=Güçlendirilmiş Parlamenter Sistem Mutabakat Metni, 6 muhalefet lideri tarafından imzalandı|erişimtarihi=30 Nisan 2022|arşivtarihi=28 Şubat 2022|arşivurl=https://web.archive.org/web/20220228103128/https://t24.com.tr/haber/ankara-da-tarihi-zirve-6-muhalefet-parti-lideri-guclendirilmis-parlamenter-sistem-metnini-acikliyor,1017871|dil=Türkçe|çalışma=T24}}</ref><ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-61246464|başlık=DEVA Partisi genel seçime adıyla ve logosuyla girecek, cumhurbaşkanlığı seçiminde 'A planı ortak aday'|erişimtarihi=30 Nisan 2022|arşivtarihi=29 Nisan 2022|arşivurl=https://web.archive.org/web/20220429141115/https://www.bbc.com/turkce/haberler-turkiye-61246464|ölüurl=hayır|dil=Türkçe|çalışma=BBC News Türkçe}}</ref> 26 Ocak 2023'te Altılı Masa yaptığı 11. toplantısı sonrası kendini ilk defa "Millet İttifakı" olarak tanımladı.<ref name="altilimasa">{{Web kaynağı|url=https://www.birgun.net/haber/altili-masa-millet-ittifaki-oldu-meclis-karar-almadikca-erdogan-aday-olamaz-419054|başlık=Altılı Masa, Millet İttifakı oldu: Meclis karar almadıkça Erdoğan aday olamaz|erişimtarihi=27 Ocak 2023|arşivtarihi=27 Ocak 2023|arşivurl=https://web.archive.org/web/20230127081445/https://www.birgun.net/haber/altili-masa-millet-ittifaki-oldu-meclis-karar-almadikca-erdogan-aday-olamaz-419054|tarih=|ölüurl=hayır|website=birgun.net}}</ref>
+
+Daha sonraki süreçte İYİ Partinin ittifaktan ayrılma kararı üzerine Kılıçdaroğlu, Altılı Masa'da kalan 4 siyasi parti lideri ile telefonda görüştü.<ref>{{Web kaynağı|url=https://halktv.com.tr/siyaset/kilicdaroglu-4-partinin-lideriyle-gorustu-ortak-aciklama-bekleniyor-722413h|başlık=Kılıçdaroğlu, 4 partinin lideriyle görüştü: Ortak açıklama bekleniyor|erişimtarihi=3 Mart 2023|arşivtarihi=5 Mart 2023|arşivurl=https://web.archive.org/web/20230305193559/https://halktv.com.tr/siyaset/kilicdaroglu-4-partinin-lideriyle-gorustu-ortak-aciklama-bekleniyor-722413h|ölüurl=evet|dil=Türkçe|çalışma=Halk TV}}</ref> [[Ekrem İmamoğlu]] ve 4 CHP'li belediye başkanı, Ankara'ya gelerek [[Mansur Yavaş]] ve Kılıçdaroğlu ile görüştü.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/son-dakika-haberi-ekrem-imamoglu-ve-mansur-yavastan-aksenerin-cagrisina-yanit,2iqAHJsBbU2ibds8NzlJjg|başlık=SON DAKİKA HABERİ: Ekrem İmamoğlu ve Mansur Yavaş'tan Akşener'in çağrısına yanıt|erişimtarihi=4 Mart 2023|arşivtarihi=4 Mart 2023|arşivurl=https://web.archive.org/web/20230304002216/https://www.ntv.com.tr/amp/turkiye/son-dakika-haberi-ekrem-imamoglu-ve-mansur-yavastan-aksenerin-cagrisina-yanit,2iqAHJsBbU2ibds8NzlJjg|ölüurl=hayır|dil=Türkçe|çalışma=[[NTV]]}}</ref> Altılı Masa, bunun akabinde 6 Mart 2023'te yeniden toplanacağını açıkladı.<ref>{{Web kaynağı|url=https://www.haberturk.com/son-dakika-haberi-altili-masa-pazartesi-gunu-yeniden-toplanacak-3570385|başlık=SON DAKİKA: Altılı Masa Pazartesi günü yeniden toplanıp nihai açıklamayı yapacak|erişimtarihi=4 Mart 2023|arşivtarihi=3 Mart 2023|arşivurl=https://web.archive.org/web/20230303201134/https://m.haberturk.com/son-dakika-haberi-altili-masa-pazartesi-gunu-yeniden-toplanacak-3570385-amp|ölüurl=hayır|çalışma=m.haberturk.com}}</ref> İmamoğlu ve Yavaş, Meral Akşener'i ikna edebilmek görüşmelerde bulundu.<ref>{{Web kaynağı|url=https://www.dw.com/tr/meral-ak%C5%9Fener-yeniden-masaya-oturuyor/a-64895348|başlık=Meral Akşener yeniden masaya oturuyor – DW – 06.03.2023|erişimtarihi=6 Mart 2023|arşivtarihi=6 Mart 2023|arşivurl=https://web.archive.org/web/20230306113323/https://www.dw.com/tr/meral-ak%C5%9Fener-yeniden-masaya-oturuyor/a-64895348|ölüurl=hayır|dil=Türkçe|çalışma=dw.com}}</ref> Ardından İmamoğlu ve Yavaş cumhurbaşkanı yardımcısı adayı olarak duyuruldu<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/imamoglu-ve-yavas-ziyaret-etti-aksener-formulu-bulundu-haber-1606919|başlık=İmamoğlu ve Yavaş ziyaret etti, Akşener formülü bulundu|erişimtarihi=6 Mart 2023|arşivtarihi=6 Mart 2023|arşivurl=https://web.archive.org/web/20230306150959/https://www.gazeteduvar.com.tr/imamoglu-ve-yavas-ziyaret-etti-aksener-formulu-bulundu-haber-1606919|tarih=3 Haziran 2023|ölüurl=hayır|dil=tr-TR|çalışma=}}</ref> ve İYİ Parti ittifaka geri döndü.<ref name="ReferenceA">{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/meral-aksener-masaya-nasil-geri-dondu-iste-perde-arkasi-7612595/|başlık=Meral Akşener masaya nasıl geri döndü? İşte perde arkası…|erişimtarihi=6 Mart 2023|arşivtarihi=6 Mart 2023|arşivurl=https://web.archive.org/web/20230306131728/https://www.sozcu.com.tr/2023/gundem/meral-aksener-masaya-nasil-geri-dondu-iste-perde-arkasi-7612595/|ölüurl=hayır|dil=Türkçe|çalışma=[[Sözcü (gazete)|Sözcü]]}}</ref>
+
+Kılıçdaroğlu, [[2023 Türkiye genel seçimleri|2023 cumhurbaşkanlığı seçimi]] için [[Millet İttifakı|Millet İttifakı'nın]] ortak adayı olarak gösterildi. İstanbul ve Ankara büyükşehir belediye başkanları İmamoğlu ve Yavaş, Millet İttifakı'ndaki diğer parti liderleriyle birlikte cumhurbaşkanı yardımcısı adaylığıyla kampanyaya dahil oldu. 2023 seçimlerini Millet İttifakı parlamentoda ve cumhurbaşkanlığında kaybetti.
+
+DEVA Partisi [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] ittifak dahilinde girmek için [[Yüksek Seçim Kurulu (Türkiye)|YSK'ya]] ittifak protokolünü teslim etti.<ref>{{Haber kaynağı|url=https://www.birgun.net/haber/millet-ittifaki-ittifak-protokolunu-ysk-ye-sundu-425738|başlık=Millet İttifakı, ittifak protokolünü YSK'ye sundu|erişimtarihi=22 Mart 2023|arşivtarihi=22 Mart 2023|arşivurl=https://web.archive.org/web/20230322165328/https://www.birgun.net/haber/millet-ittifaki-ittifak-protokolunu-ysk-ye-sundu-425738|tarih=22 Mart 2023|ölüurl=hayır|çalışma=BirGün}}</ref> [[Saadet Partisi]] ve [[Gelecek Partisi]] "ittifak içi ittifak" önerisi yaptı. Ancak DEVA Partisi bunu kabul etmedi. Bunun yerine, diğer siyasi partiler CHP listelerinden seçime katılma kararı aldı.<ref name="diken.com.tr">{{Web kaynağı|url=https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|başlık=Millet İttifakı’nın protokol değişikliği YSK’ye sunuldu|erişimtarihi=11 Nisan 2023|arşivtarihi=10 Nisan 2023|arşivurl=https://web.archive.org/web/20230410001742/https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|tarih=7 Nisan 2023|ölüurl=hayır}}</ref> DEVA Partisi ise [[Cumhuriyet Halk Partisi|CHP]] listelerinden 25, [[İYİ Parti]] listelerinden 1 aday gösterdi.<ref name="bbc.com">{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c84mvnjny2wo|başlık=CHP'nin aday listesinde Millet İttifakı'ndaki diğer 5 partiden 76 aday da yer aldı.|erişimtarihi=11 Nisan 2023|arşivtarihi=10 Nisan 2023|arşivurl=https://web.archive.org/web/20230410072142/https://www.bbc.com/turkce/articles/c84mvnjny2wo|tarih=9 Nisan 2023|ölüurl=hayır}}</ref> Seçimler sonucunda 15 DEVA Partili aday milletvekili seçildi.<ref>{{Web kaynağı|url=https://www.rudaw.net/turkish/middleeast/turkey/2605202310|başlık=DEVA Partisi grup kurabilmek için CHP’den 5 vekil daha isteyebilir|erişimtarihi=31 Mayıs 2023|arşivtarihi=26 Mayıs 2023|arşivurl=https://web.archive.org/web/20230526094244/https://www.rudaw.net/turkish/middleeast/turkey/2605202310|çalışma=rudaw.net}}</ref> [[Dosya:Davutoğlu - Babacan 2.webp|küçükresim|Davutoğlu ve Babacan, 2022|upright=0.91|sol]]
+[[Temel Karamollaoğlu|Karamollaoğlu]], [[Ahmet Davutoğlu|Davutoğlu]] ve Babacan'ın bir araya gelerek seçim sonuçlarını değerlendirdiği iddia edildi. Üç parti ortak bir açıklama yaparak TBMM'de ortak grup kurma ve siyasi işbirliği modellerini görüştüklerini belirttikleri iddia edildi. Bu birleşmenin merkez sağdaki boşluğu doldurmayı ve AK Parti'den oy alabilecek bir merkez sağ partisi oluşturmayı hedeflediği iddia ediliyordu.<ref>{{Web kaynağı|url=https://medyascope.tv/2023/06/16/saadet-deva-ve-gelecek-partisi-mecliste-grup-kuracak-yeni-bir-merkez-sag-partisi-kurulmak-isteniyor/|başlık=Saadet, DEVA ve Gelecek Partisi Meclis’te grup kuracak {{!}} Yeni bir merkez sağ partisi kurulmak isteniyor|erişimtarihi=26 Haziran 2023|tarih=16 Haziran 2023|dil=Türkçe|çalışma=Medyascope|ad=Berfin|soyadı=Bayır|arşivurl=https://web.archive.org/web/20230626172841/https://medyascope.tv/2023/06/16/saadet-deva-ve-gelecek-partisi-mecliste-grup-kuracak-yeni-bir-merkez-sag-partisi-kurulmak-isteniyor/|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref>
+
+[[Saadet Partisi]], ayrı bir parti kurulmasına karşı çıkarak kendi çatısı altında birleşme önerisinde bulundu. [[Gelecek Partisi]] bu öneriye sıcak baktı, ancak DEVA Partisi kabul etmedi. Partiler arasında [[Avrupa Birliği|AB'ye]] bakış açısı, [[İstanbul Sözleşmesi]] ve [[Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun|6284]] sayılı yasa konularında görüş ayrılıkları bulunmaktadır.<ref name=":6">{{Web kaynağı|url=https://medyascope.tv/2023/06/23/uc-parti-grup-kuramadi-anlasmazlik-konulari-saadet-partisinin-cati-benim-israri-istanbul-sozlesmesi-avrupa-birligi/|başlık=Üç parti grup kuramadı {{!}} Anlaşmazlık konuları: Saadet Partisi'nin 'Çatı benim' ısrarı, İstanbul Sözleşmesi, Avrupa Birliği|erişimtarihi=26 Haziran 2023|arşivtarihi=26 Haziran 2023|arşivurl=https://web.archive.org/web/20230626172844/https://medyascope.tv/2023/06/23/uc-parti-grup-kuramadi-anlasmazlik-konulari-saadet-partisinin-cati-benim-israri-istanbul-sozlesmesi-avrupa-birligi/|tarih=23 Haziran 2023|ölüurl=hayır|dil=Türkçe|çalışma=Medyascope|ad=Berfin|soyadı=Bayır}}</ref> Partili [[Mustafa Yeneroğlu|Yeneroğlu]], "Bu modelin parti kimliğinin ön plana çıkması noktasında sorunlara yol açabileceğini düşündük" şeklinde konuştu.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/deva-partisi-tbmmde-ortak-grup-kurmayi-reddetti-haber-1625150|başlık=DEVA Partisi, TBMM'de ortak grup kurmayı reddetti|erişimtarihi=23 Haziran 2023|tarih=23 Haziran 2023|dil=tr-TR|çalışma=gazeteduvar.com.tr|arşivurl=https://web.archive.org/web/20230623144719/https://www.gazeteduvar.com.tr/deva-partisi-tbmmde-ortak-grup-kurmayi-reddetti-haber-1625150|arşivtarihi=23 Haziran 2023|ölüurl=hayır}}</ref> Görüşmelere katılan bir parti yöneticisi DEVA Partisi teşkilatlarının çoğunluğunun tüzel kişiliğin dışında grup kurma fikrine sıcak bakmadığını söyledi.<ref name=":6" />
+
+Gelecek Partisi, grup kurma konusunda anlaşamayınca tamamen birleşerek grup kurma seçeneğini değerlendirdi, ancak Babacan, "parti yönetiminde çift başlılık olmaz" gerekçesiyle teklifi uygun bulmadı.<ref name=":6" /><ref>{{Haber kaynağı|url=https://devapartisi.org/parti/e-arsiv/deva-gelecek-ve-saadet-partileri-arasnda-yaplan-gorusmelere-dair-bilgilendirme|başlık=DEVA, Gelecek ve Saadet Partileri arasında yapılan görüşmelere dair bilgilendirme|yayıncı=DEVA Partisi|erişimtarihi=26 Haziran 2023|arşivurl=https://web.archive.org/web/20230626172840/https://devapartisi.org/parti/e-arsiv/deva-gelecek-ve-saadet-partileri-arasnda-yaplan-gorusmelere-dair-bilgilendirme|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref> Babacan, katıldığı bir televizyon programında yerel seçimlerle ilgili ittifak konularında ''"''Şuanki ana senaryo her partinin kendi logosuyla seçime girmesidir''."'' dedi.<ref name=":7">{{Web kaynağı|url=https://www.youtube.com/watch?v=r6HppQ6pIW0|başlık=KRT TV'de Stüdyo Ankara programına konuk oluyorum - Ali Babacan|erişimtarihi=19 Temmuz 2023|arşivtarihi=19 Temmuz 2023|arşivurl=https://web.archive.org/web/20230719115740/https://www.youtube.com/watch?v=r6HppQ6pIW0&bpctr=9999999999&has_verified=1&video_id=r6HppQ6pIW0|ölüurl=hayır}}</ref>
+
+=== Politika değişiklikleri: 2023–günümüz ===
+3 Aralık 2023'te Babacan, yerel seçim hazırlıkları kapsamında 51 il ve ilçe belediye başkanı adayını açıkladı ve bu seçim sonuçlarının genel seçimlere etki edeceğini belirtti.<ref>{{Web kaynağı|url=https://www.indyturk.com/node/678806/siyaset/deva-partisi-51-belediye-ba%C5%9Fkan-aday%C4%B1n%C4%B1-a%C3%A7%C4%B1klad%C4%B1-yerel-se%C3%A7imlerde-sar%C4%B1-kart%C4%B1|başlık=DEVA Partisi 51 belediye başkan adayını açıkladı: Yerel seçimlerde sarı kartı gösterelim|erişimtarihi=25 Şubat 2024|arşivtarihi=25 Şubat 2024|arşivurl=https://web.archive.org/web/20240225115754/https://www.indyturk.com/node/678806/siyaset/deva-partisi-51-belediye-ba%C5%9Fkan-aday%C4%B1n%C4%B1-a%C3%A7%C4%B1klad%C4%B1-yerel-se%C3%A7imlerde-sar%C4%B1-kart%C4%B1|tarih=3 Aralık 2023|ölüurl=hayır|dil=Türkçe|çalışma=Independent Türkçe}}</ref> 28 Aralık 2023'te DEVA Partisi ise 75 belediye başkan adayını duyurdu.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/deva-partisi-75-belediye-baskan-adayini-tanitti-2156832|başlık=DEVA Partisi 75 belediye başkan adayını tanıttı|erişimtarihi=25 Şubat 2024|arşivtarihi=25 Şubat 2024|arşivurl=https://web.archive.org/web/20240225115755/https://www.cumhuriyet.com.tr/siyaset/deva-partisi-75-belediye-baskan-adayini-tanitti-2156832|tarih=28 Aralık 2023|ölüurl=hayır|dil=Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]}}</ref> Babacan, seçim zaferini birincil hedef olarak belirlerken, DEVA belediyelerinin demokrasiye katkılarını vurguladı. 31 Ocak 2024'te DEVA Partisi, 14 il ve 100 ilçede 31 Mart yerel seçimleri için adaylarını açıkladı.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/deva-partisi-14-il-belediye-baskan-adayini-acikladi-haber-1666082|başlık=DEVA Partisi, 14 il belediye başkan adayını açıkladı|erişimtarihi=25 Şubat 2024|arşivtarihi=31 Ocak 2024|arşivurl=https://web.archive.org/web/20240131150205/https://www.gazeteduvar.com.tr/deva-partisi-14-il-belediye-baskan-adayini-acikladi-haber-1666082|tarih=31 Ocak 2024|ölüurl=hayır|dil=tr-TR|ad=Gazete|soyadı=Duvar}}</ref>
+
+18 Şubat 2024'te Babacan, belediyelerin kaynak kullanımı konusunu vurgulayarak İzmir, İstanbul ve Ankara Büyükşehir Belediye Başkan adaylarını açıkladı ve bu kentlerdeki hedeflerini belirledi.<ref>{{Web kaynağı|url=https://www.politikyol.com/deva-partisinin-istanbul-ankara-ve-izmir-adaylari-belli-oldu/|başlık=DEVA Partisi’nin İstanbul, Ankara ve İzmir adayları belli oldu « PolitikYol.com {{!}} Yorum, Analiz, Haber Sitesi|erişimtarihi=25 Şubat 2024|arşivtarihi=25 Şubat 2024|arşivurl=https://web.archive.org/web/20240225115755/https://www.politikyol.com/deva-partisinin-istanbul-ankara-ve-izmir-adaylari-belli-oldu/|tarih=18 Şubat 2024|ölüurl=evet|dil=Türkçe}}</ref> "1 lira ile yapabildiklerimiz" teması altında ekonomik istikrarsızlığa dikkat çekerken, yerel seçimlerin haksız rant kaygısıyla ilişkilendirildiğini ve muhalefetin ideolojik zıtlıklarla birlikte habis bir zihniyeti benimsediğini ifade etti.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/deva-partisi-genel-baskani-ali-babacan-partisinin-dorduncu-grup-belediye-baskan-adaylari-tanitim-toplantisinda-konusuyor,1152325|başlık=DEVA Partisi aday tanıtım toplantısı {{!}} Ali Babacan: Bu iktidar, kendisine emanet edilen her hakka ihanet ediyor!|erişimtarihi=25 Şubat 2024|arşivtarihi=25 Şubat 2024|arşivurl=https://web.archive.org/web/20240225115754/https://t24.com.tr/haber/deva-partisi-genel-baskani-ali-babacan-partisinin-dorduncu-grup-belediye-baskan-adaylari-tanitim-toplantisinda-konusuyor,1152325|ölüurl=hayır|dil=Türkçe|çalışma=T24}}</ref> 24 Şubat 2024'te parti, İstanbul'daki belediye başkan adaylarını tanıttı.<ref name=":0">{{Web kaynağı|url=https://www.gazeteduvar.com.tr/deva-partisi-aday-tanitim-programi-istanbulu-akp-ve-chpye-mahkum-etmeyecegiz-haber-1671976|başlık=DEVA Partisi aday tanıtım programı: İstanbul’u AKP ve CHP’ye mahkum etmeyeceğiz|erişimtarihi=25 Şubat 2024|arşivtarihi=25 Şubat 2024|arşivurl=https://web.archive.org/web/20240225115755/https://www.gazeteduvar.com.tr/deva-partisi-aday-tanitim-programi-istanbulu-akp-ve-chpye-mahkum-etmeyecegiz-haber-1671976|tarih=24 Şubat 2024|dil=tr-TR|ad=Gazete|soyadı=Duvar}}</ref>  [[İdris Şahin]], İstanbul'un sorunlarını ele alarak umutsuzluğa yer olmadığını belirtti. Ulaşımın zaman alıcı olmasıyla ilgili endişeleri dile getirdi ve İstanbul'un çözümsüz olmadığını vurguladı. Toplantıda "Âlem Buysa DEVA sensin" sloganı benimsendi.<ref name=":0" />
+
+31 Mart 2024 yerel seçimlerinde Demokrasi ve Atılım Partisi bir ilçe, üç belde belediye başkanlığı kazandı ve %0,45'lik bir oy oranına sahip oldu. Seçimlerin ardından Genel Merkez Başkanlık Kurulu toplandı. Toplantının ardından yapılan açıklamada, DEVA Partisi'nin seçimlerde elde ettiği sonucun, kamuoyu ve partililerin beklentilerinin altında kaldığı kabul edilerek, 3 ay içinde kongreye gidileceği duyuruldu.<ref>{{Web kaynağı|url = https://www.ntv.com.tr/turkiye/deva-partisinden-kongre-karari,2MuPddp_qEuFbB0ZXQfqWw|başlık = DEVA Partisi'nden kongre kararı|erişimtarihi = 28 Nisan 2024|dil = Türkçe|çalışma = [[NTV]]|arşivurl = https://web.archive.org/web/20240403103617/https://www.ntv.com.tr/turkiye/deva-partisinden-kongre-karari,2MuPddp_qEuFbB0ZXQfqWw|arşivtarihi = 3 Nisan 2024}}</ref>
+
+== Politikalar ==
+
+=== Anayasal reform ===
+[[Dosya:Demokrasi_ve_Atılım_Partisi_1._Olağan_Kongresi.jpg|küçükresim|[[Ali Babacan]] ve eşi Zeynep Babacan, partinin [[1. Demokrasi ve Atılım Partisi Olağan Büyük Kongresi|1. Olağan Kongresi'nde]]|200x200pik]]
+"İnsan Onurunu Koruma ve Anayasal Devleti Güçlendirme" konusunda parti, Türkiye'nin anayasal bir devlet olma ilkesini vurgulamaktadır. Temel hak ve özgürlüklerin korunmasını ve güvence altına alınmasın ve insan onurunun, devletin öncelikli ilkesi olduğunu belirterek, devletin görevinin insan onuruna saygı ve koruma yükümlülüğünü taşıdığını vurgular.<ref name=":9">{{Web kaynağı|url = https://devahazir.devapartisi.org.tr/temel-haklar-eylem-plani/|başlık = Temel Haklar Eylem Planı|erişimtarihi =1 Ekim 2023|tarih =2 Ocak 2023|dil =Türkçe|çalışma = DEVA Hazır|soyadı = emre|arşivurl = https://web.archive.org/web/20230102180350/https://devahazir.devapartisi.org.tr/temel-haklar-eylem-plani/|arşivtarihi = 2 Ocak 2023}}</ref> Bu bağlamda, temel hakların bir bütün olarak ele alınmasını, yasama, yürütme ve yargı organlarını bağlayacak düzenlemeleri içeren bir anayasa değişikliği önerir.<ref name=":9" /> "Yargı Bağımsızlığını Teminat Altına Alma" konusunda parti, yargı bağımsızlığının güvence altına alınmasını hedeflemektedir. Yargı bağımsızlığının zayıfladığı bir sistemi yeniden yapılandırmayı ve temel hakların güvence altına alınabilmesini sağlamayı amaçladığını programında aktarmaktadır. [[Hâkimler ve Savcılar Kurulu|HSK'nın]] ikiye ayrılması, [[Türkiye Cumhuriyeti Anayasa Mahkemesi|AYM'nin]] güçlendirilmesi, [[Yüksek Seçim Kurulu (Türkiye)|YSK'nın]] yapısının değiştirilmesi ve yargı organlarının siyasi etkilerden arındırılması bu çerçevede düşünülür.<ref name=":9" />
+
+[[Güçlendirilmiş parlamenter sistem]] önerilerini "demokrasiye geçiş eylem planı" olarak adlandıran parti, önerdikleri sistemin Türkiye'yi çoklu kriz ortamından çıkaracak en önemli araçlardan biri olduğunu belirtmektedir. Partinin parlamenter sistem önerisinde Cumhurbaşkanının kanunları veto yetkisine son verme, Cumhurbaşkanı'na bir dönem, yedi yıl kuralı, HYK, HSK ve AYM üye adaylarına kamuya açık mülakat konuları da yer aldı.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/deva-partisi-guclendirilmis-parlamenter-sistem-onerisini-acikladi-asla-eski-sistemin-eksik-demokrasisi-ile-yetinmeyecegiz,983050|başlık=DEVA Partisi, güçlendirilmiş parlamenter sistem önerisini açıkladı: Asla eski sistemin eksik demokrasisi ile yetinmeyeceğiz|erişimtarihi=8 Ekim 2021|arşivtarihi=4 Ekim 2021|arşivurl=https://web.archive.org/web/20211004094845/https://t24.com.tr/haber/deva-partisi-guclendirilmis-parlamenter-sistem-onerisini-acikladi-asla-eski-sistemin-eksik-demokrasisi-ile-yetinmeyecegiz,983050|dil=Türkçe|çalışma=T24}}</ref>
+
+2023 seçimlerinin ardından Babacan, mevcut durumda [[Cumhur İttifakı]] ve [[Millet İttifakı|Millet İttifakı'nın]] tek başına anayasa değişikliği yapamayacağını ve bu değişiklik için uzlaşma gerektiğini belirtti. Babacan, Cumhur İttifakı'nın yeni bir anayasa teklif etmesi durumunda işbirliği yapmaya açık olduklarını ifade ederek mevcut [[Türkiye Anayasası|anayasada]] değişiklikler yapılması gerektiğini dile getirdi. Ayrıca "Yeni anayasa"nın hayata geçirilmesinin zorlu bir süreç olduğunu, ancak DEVA Partisinin bu konuda bir teklifi olduğunu belirtti.<ref name="cumhuriyet.com.tr">{{Web kaynağı|url = https://www.cumhuriyet.com.tr/turkiye/deva-partisinden-yeni-anayasa-teklifine-iliskin-carpici-aciklama-samimi-bir-girisim-olursa-katki-saglariz-2124366|başlık = DEVA Partisi’nden yeni anayasa teklifine ilişkin çarpıcı açıklama: ‘Samimi bir girişim olursa katkı sağlarız’|erişimtarihi =1 Ekim 2023|tarih =28 Eylül 2023|dil =Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl = https://web.archive.org/web/20230929031139/https://www.cumhuriyet.com.tr/turkiye/deva-partisinden-yeni-anayasa-teklifine-iliskin-carpici-aciklama-samimi-bir-girisim-olursa-katki-saglariz-2124366|arşivtarihi = 29 Eylül 2023}}</ref> Parti sözcüsü [[İdris Şahin]], mevcut iktidarın sunduğu teklifin samimiyetsiz olduğunu vurgulayarak, "Eğer samimi bir girişim olursa, katkı sağlamaya hazırız" şeklinde konuştu.<ref name="cumhuriyet.com.tr" />
+
+=== Ekonomik politika===
+[[Dosya:Ali Babacan in Gaziantep after the earthquake.jpg|küçükresim|[[Ali Babacan|Babacan]] ve [[Mehmet Emin Ekmen|Ekmen]] [[2023 Kahramanmaraş depremleri|deprem]] sonrası [[Gaziantep]]'te|200x200px]]Partinin lideri Babacan, 2002-2015 yılları arasında 13 yıl [[Türkiye dışişleri bakanları listesi|Türkiye dışişleri]] ve [[Ekonomi Bakanlığı (Türkiye)|ekonomi bakanlığı]] yapmıştır. Görev süresinde [[Türkiye ekonomisi]] yaşanan iki ciddi [[Finansal krizler|ekonomik krizden]] sonra kayda değer bir toparlanma kaydetmiştir.<ref>{{Web kaynağı|url=https://m.haberler.com/ali-babacan-turkiye-ekonomik-kriz-korkusunu-3953991-haberi/|başlık=Türkiye ekonomik kriz korkusunu atlattı: Ali Babacan|erişimtarihi=|arşivtarihi=19 Ekim 2021|arşivengelli=evet|arşivurl=https://web.archive.org/web/20211019231153/https://www.haberler.com/ali-babacan-turkiye-ekonomik-kriz-korkusunu-3953991-haberi/|tarih=20 Eylül 2012|ölüurl=hayır|çalışma=|yayıncı=haberler.com}}</ref> Parti, ekonomi politikalarını beyan ettiği programında kısa bir [[Liberalizm|liberal]] manifestoyla başlamıştır. Parti, [[mülkiyet hakkı]], [[serbest piyasa]] ve tüm temel hak ve özgürlükleri güvence altına alan bir hukuk sisteminin ekonomik gelişme ve refahın temel koşulu olduğunu savunmaktadır.
+
+Parti, [[Sosyal adalet|sosyal refah]], adalet, fırsat eşitliği, insani çalışma koşulları, doğa ve çevrenin korunması, temel kamu hizmetlerinin eşit şekilde sunulması gibi ilkelere bağlı kalarak politika oluşturduğunu ifade etmektedir. Parti, rekabeti bozucu kamu müdahalesinin olmadığı, düzenleyici ve denetleyici kurumların bağımsız ve etkin çalıştığı bir [[piyasa ekonomisi]]ni esas almaktadır.<ref name=":1" />
+
+Daktilo1984'ün raporuna göre partinin iktisadi görüşü, klasik liberalizmin temel özellikleriyle uyumludur. Parti, üretken sektörlere odaklanarak güçlü, sürdürülebilir ve kapsayıcı bir büyüme modelini benimsemeyi hedeflemektedir. Makroekonomik politikaların enflasyonu kontrol altında tutma ve kamu maliyesini sürdürülebilir hale getirme amacına yönelik olarak yeniden şekillendirileceği belirtilmektedir.<ref name=":1" />
+
+Para politikalarında liberal bir yaklaşım benimseyen parti, döviz kurlarının serbestçe belirlendiği ve dalgalı kur rejimini desteklemektedir. Ayrıca, siyasi baskılardan uzak bir Para Politikası Kurulu oluşturarak kamu iktisadi kuruluşlarının piyasa dengelerini korumasını amaçlamaktadır. Parti, devletin ekonomideki girişimci rolünü en aza indirgeyerek yeni devlet kuruluşlarının oluşturulmasından kaçınmayı planlamaktadır.<ref name=":1" />
+
+=== Sosyal politika ===
+Parti programında, parti aileyi toplumun temeli olarak kabul ediyor ve toplumun düzeni, huzuru, barışı, refahı ve mutluluğunun güçlü aile kurumuna dayandığına inanıyor. Parti, barışçıl, özgürlükçü, eşitlikçi, demokratik, evrensel insani ve ahlaki değerleri benimsemiş, kültürel ve geleneksel değerlerin bilincinde, hak ve sorumluluklarını bilen sağlıklı ve mutlu bireylerin, ancak güçlü bir aile kurumunda yetiştirilebileceğini kabul etmektedir.{{Kaynak belirt}}
+
+Birçok siyasi eleştirmenin partiyi [[Liberal muhafazakârlık|liberal muhafazakâr]] olarak görmesinin yanında parti kendisini merkezci ve demokrat olarak olarak görmektedir.<ref name="politikyol.com" /> Aynı zamanda partinin içinde [[Klasik liberalizm|liberal]], [[Ülkücülük|ülkücü]], [[Sosyal demokrasi|sosyal demokrat]] ve [[Milliyetçilik|milliyetçi]] kişiler de bulunmaktadır.<ref>{{Web kaynağı|url=https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|başlık=Özal’ın dört eğiliminden Babacan’ın ana akımına: DEVA arayışı…|erişimtarihi=22 Haziran 2023|arşivtarihi=16 Mayıs 2021|arşivurl=https://web.archive.org/web/20210516141830/https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|tarih=6 Mart 2020|çalışma=Tercan Yıldırım|yayıncı=INDEPENDENT}}</ref>
+
+Partinin diğer sosyal programları, "ekonomik açıdan zayıf durumda olan ve özel bakım, gözetim ve destek ihtiyacı olan kesimleri, karşılaştıkları veya karşılaşabilecekleri risklere veya olumsuzluklara karşı koruma ve zararlarını giderme amacıyla" oluşturulmuştur. Bu çerçevede, sosyal alandaki programları devlet, [[sivil toplum]] ve [[Aile|aile kurumu]] arasında güçlü iş birliği ve koordinasyonla yürüteceklerini öngörmektedirler.<ref>{{Web kaynağı|url=https://devahazir.devapartisi.org.tr/deva-iktidarinin-sosyal-politikalar-eylem-plani/|başlık=Sosyal Politikalar Eylem Planı|erişimtarihi=26 Haziran 2023|tarih=4 Aralık 2022|dil=Türkçe|çalışma=DEVA Hazır|soyadı=ardakaanaydilek|arşivurl=https://web.archive.org/web/20230520034243/https://devahazir.devapartisi.org.tr/deva-iktidarinin-sosyal-politikalar-eylem-plani/|arşivtarihi=20 Mayıs 2023|ölüurl=hayır}}</ref>
+
+=== Dış politika ===
+Parti, [[Mustafa Kemal Atatürk|Atatürk]]’ün “Yurtta Barış, Dünyada Barış” yönlendirici ilkesini benimsemektedir. Parti, dış politika alanında "içişlerine karışmama ilkesine dayanan yapıcı ve dengeli diyaloglar kurmayı" hedeflemektedir. [[Dışişleri Bakanlığı (Türkiye)|Dışişleri Bakanlığını]] etkin unsurlar haline getirmeyle beraber dış politika yapımı, karar alma süreçlerinin çoğulcu olması gerektiğine inanılmakta ve bu nedenle Türkiye'nin uluslararası ilişkilerini [[sivil toplum]], medya, düşünce kuruluşları ve ekonomik-sosyal aktörlerle iş birliği içinde, geniş ve şeffaf bir istişare sürecine dayandırılması planlanmaktadır.<ref>{{Web kaynağı|url=https://cdn.devapartisi.org/654/dispolitika_ve_guvenlik_eylem_plani.pdf|başlık=DIŞ POLİTİKA VE GÜVENLİK EYLEM PLANI|erişimtarihi=26 Haziran 2023|arşivurl=https://web.archive.org/web/20230519040622/https://cdn.devapartisi.org/654/dispolitika_ve_guvenlik_eylem_plani.pdf|arşivtarihi=19 Mayıs 2023|ölüurl=hayır}}</ref>
+
+Parti, güvenlik konularında [[İsveç]] ve [[Finlandiya]] gibi ülkelerin üyeliği gibi somut konuların müzakerelerinin detaylarına erişim imkanının olmadığını, iktidara geldiklerinde bu bilgilere dayanarak kararlar alacaklarını ifade etmektedir. Sonraki dönemde parti [[İsveç-NATO ilişkileri|İsveç'in NATO üyeliğini]] TBMM'de desteklemiştir.
+
+Programda [[PKK]]'nın bir terör örgütü olduğu gerçeği göz önünde bulundurulmasını ve NATO müttefiklerinin güvenlik endişelerine dikkat edilmesi gerektiği dile getirilmektedir.<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/e-arsiv/ali-babacan-turkiyede-demokrasinin-bir-kez-daha-galip-gelmesi-icin-ne-gerekiyorsa-yapacagz|başlık=Ali Babacan: ‘Türkiye’de demokrasinin bir kez daha galip gelmesi için ne gerekiyorsa yapacağız’|erişimtarihi=26 Haziran 2023|arşivurl=https://web.archive.org/web/20230626190147/https://devapartisi.org/parti/e-arsiv/ali-babacan-turkiyede-demokrasinin-bir-kez-daha-galip-gelmesi-icin-ne-gerekiyorsa-yapacagz|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref>  2023 yılında Babacan, Davos Zirvesi'nde jeopolitik sorunların [[G20]] masasına taşınması gerektiğini savunarak, Batı Balkan ülkelerinin başbakanlarıyla gerçekleştirdiği toplantıda bu ülkelerin Avrupa-[[Atlantikçilik|Atlantik]] kurumlarına entegrasyonunun önemini vurgulamıştır.<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/e-arsiv/babacan-davosta-kritik-toplantlara-katld-krizlerden-cks-yollarn-anlatt|başlık=Babacan Davos’ta kritik toplantılara katıldı: Krizlerden çıkış yollarını anlattı|erişimtarihi=26 Haziran 2023|arşivurl=https://web.archive.org/web/20230626190147/https://devapartisi.org/parti/e-arsiv/babacan-davosta-kritik-toplantlara-katld-krizlerden-cks-yollarn-anlatt|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref>
+
+==== Avrupa Birliği üyeliği ====
+{{Ana|Türkiye'nin Avrupa Birliği üyelik süreci}}
+Parti, [[Türkiye]]'nin [[Avrupa Birliği|AB]] tam üyelik sürecinin tamamlanması için uzun vadede çalışmaları desteklemekle beraber küresel düzeyde, özellikle bazı Avrupa ülkelerinde yükselen ve bu ülkelerde yaşayan Türk vatandaşlarını da etkileyen ırkçılık, göçmen ve yabancı düşmanlığı, [[islamofobi]], [[antisemitizm]] ve negrofobi gibi eğilimlere karşı mücadelenin inşası için, [[Avrupa Komisyonu|AB Komisyonu]] ve [[Avrupa Birliği|AB]] ülkelerindeki siyasi, sivil ve kültürel aktörlerle eşgüdüm içinde olmayı hedeflemektedir.<ref>{{Web kaynağı|url=https://devapartisi.org/temel-metinler/parti-programi|başlık=PARTİ PROGRAMI|erişimtarihi=19 Eylül 2021|çalışma=devapartisi.org|arşivurl=https://web.archive.org/web/20200311231639/https://devapartisi.org/temel-metinler/parti-programi|arşivtarihi=11 Mart 2020|ölüurl=hayır}}</ref>
+
+=== Savunma politikası ===
+2021 yılında Gaziantep'te düzenlenen kongrede "Uluslararası düzensiz göçün yol açtığı olayları dikkatle takip ettiklerini" belirten Babacan, "Türkiye'nin Suriyeliler sorununun ardından Afgan meselesinin de hızla büyüdüğünü" ifade etti. Mevcut hükûmetin diğer ülkelerin iç meselelerine sürekli olarak taraf olduğunu belirten Babacan, "dış ilişkilerde politikanın olmadığını ve sadece tek bir kişinin duyguları ve dürtülerinin belirleyici olduğunu" söyledi. Babacan, "Türkiye'nin dış ilişkilerde kendi menfaatlerinin oyuncağı haline getirildiğini" ifade etti. "Afganistan'daki askeri varlığın ülkeye ne fayda sağlayacağını" sorgulayan Babacan, bu kararların millete danışılarak ve diğer siyasi partilerle istişare edilerek alınması gerektiğini vurguladı. Ayrıca, Türkiye'nin itibarının sıfırlandığını ve dış politikanın "kaybet-kaybet" bir oyun haline dönüştüğünü ifade etti.<ref>{{Web kaynağı|url=https://www.voaturkce.com/a/suriyeliler-den-sonra-afganlar-sorunu-h%C4%B1zla-buyuyor-/5963004.html|başlık=“Suriyeliler’den Sonra Afganlar Sorunu Hızla Büyüyor’’|erişimtarihi=27 Haziran 2023|arşivtarihi=21 Mayıs 2023|arşivurl=https://web.archive.org/web/20230521105656/https://www.voaturkce.com/a/suriyeliler-den-sonra-afganlar-sorunu-h%C4%B1zla-buyuyor-/5963004.html|tarih=12 Temmuz 2021|ölüurl=hayır|dil=Türkçe|çalışma=VOA Türkçe}}</ref>
+
+==== Güvenlik ve göç politikaları ====
+
+Partiye göre "güvenli bir yaşam, insan hakları açısından" temel bir gerekliliktir. Parti programında vatandaşların güven içinde yaşamalarını önemseyen bir yaklaşım benimsenmektedir. Partinin temel prensipleri arasında, demokratik hukuk devleti ilkesine bağlılık, insan haklarına saygı, özgürlük ile güvenlik arasındaki denge ve hassasiyet yer almaktadır. Parti, düzensiz göçün oluşturduğu sorunlarla mücadele etmek için düzensiz göçü engellemeyi birincil öncelik olarak gözetmektedir. Her yıl, güvenlik kurumlarının temsilcileri, akademisyenler, sivil toplum kuruluşları, meslek odaları ve ilgili tarafların katılımıyla kapsamlı bir Güvenlik Şûrası düzenleyeceklerini, bu şûranın, iç, dış, teknik, savunma ve emniyet istihbarat fonksiyonlarını gözden geçirerek tartışacak bir platform sağlayacağını programında belirtmiştir. Parti, İstihbarata Karşı Koyma kapasitesini geliştirmeyi vadederek terörle mücadelede ve yurtdışındaki yapılanmalara yönelik kamu diplomasisi faaliyetleri gerçekleştireceklerini ifade etmektedirler.<ref name="devahazir.devapartisi.org.tr">{{Web kaynağı|url=https://devahazir.devapartisi.org.tr/deva-iktidarinin-dis-politika-ve-guvenlik-eylem-plani/|başlık=Dış Politika Eylem Planı|erişimtarihi=27 Haziran 2023|tarih=30 Ekim 2022|dil=Türkçe|çalışma=DEVA Hazır|soyadı=ardakaanaydilek|arşivurl=https://web.archive.org/web/20230627074827/https://devahazir.devapartisi.org.tr/deva-iktidarinin-dis-politika-ve-guvenlik-eylem-plani/|arşivtarihi=27 Haziran 2023|ölüurl=hayır}}</ref> <blockquote>
+"Çete, mafya ve benzeri organize suç örgütleriyle kararlılıkla mücadele edecek, bu yapıların devlete sızmasını engelleyecek ve bunun ardından devletin gücünü kullanarak ağır yaptırımlar uygulayacağız." </blockquote>
+Babacan, Kasım 2021'de Suriyelilerle alakalı ekonominin, Türkiye'nin ekonomisiyle ilgili olmadığını dile getirdi.<ref>{{Web kaynağı|url=https://www.ensonhaber.com/medya/ali-babacan-suriyelerle-ilgili-harcamalarin-cok-buyuk-olmadigini-soyledi|başlık=Ali Babacan: Suriyelerle ilgili harcamalar çok büyük değil|erişimtarihi=20 Temmuz 2023|arşivtarihi=20 Temmuz 2023|arşivurl=https://web.archive.org/web/20230720082230/https://www.ensonhaber.com/medya/ali-babacan-suriyelerle-ilgili-harcamalarin-cok-buyuk-olmadigini-soyledi|tarih=29 Kasım 2021|ölüurl=hayır}}</ref> Mart 2022'de ise, diğer siyasi partilerin [[Suriyeliler]]in gönderilmesi vaadinde bulunulabileceğini ancak uluslararası hukukun buna izin vermeyeceğini belirtti. Zorla binlerce kişinin evlerinden çıkarılıp sınıra götürülmesinin mümkün olmadığını vurguladı ve bu tür vaatlerin gerçekleştirilemeyeceğini ifade ederek bu tür açıklamaları "popülizm" olarak tanımladı.<ref>{{Web kaynağı|url=https://www.yenicaggazetesi.com.tr/ali-babacan-suriyeliler-gonderilemez-521544h.htm|başlık=Uluslararası hukuk buna izin vermez|erişimtarihi=20 Temmuz 2023|arşivtarihi=20 Temmuz 2023|arşivurl=https://web.archive.org/web/20230720085637/https://www.yenicaggazetesi.com.tr/ali-babacan-suriyeliler-gonderilemez-521544h.htm|tarih=17 Mart 2022|ölüurl=hayır|yayıncı=Yeniçağ}}</ref>
+
+Ağustos 2022'de Parti "Geçmişte geçici çözümlerle yönetilmeye çalışılan sığınmacı ve düzensiz göç konusunu etkili bir yönetim anlayışıyla ele almaya yönelik politikalarımızı" açıklıyoruz diyerek sığınmacı eylem planını duyurdu. Partinin "öncelikli olarak, ülkemizin her bir köşesinde etkin ve güçlü bir sınır güvenliğini sağlama hedefi" bulunmaktadır. Parti, "Sığınma hakkı olmayan düzensiz göçmenleri kaynak ülkelerine veya Türkiye'ye giriş yaptıkları güvenli ülkelere iade ederek sınır dışı etmeyi" amaçlamaktadır. Geçici koruma altındaki Suriyeliler konusunda, "Suriye'deki sorunun değil çözümün bir parçası olarak ulusal ve uluslararası düzeyde, bölgesel ve ikili iş birliklerini güçlendirerek [[Suriye]]'yi güvenli bir ülke haline getirme çabası" göstereceklerini belirtmektedirler. Parti "Geçici koruma altındakilerin üçüncü ülkelere yerleştirilme süreçlerini etkinleştirmek ve diğer ülkelerle külfet paylaşımını gerçekleştirmek politikasını" hayata geçirmeyi vadediyor. "Geçici koruma statüsü sona erdiğinde, üçüncü bir ülkeden kabul alanlar ve Türkiye'de ikamet izni alanlar dışındakilerin kendi ülkelerine dönüşünü sağlamayı" hedeflediklerini eklemektedir.<ref>{{Web kaynağı|url=https://devahazir.devapartisi.org.tr/deva-iktidarinin-siginmaci-sorununun-cozumu-ve-duzensiz-gocun-engellenmesi-eylem-plani/|başlık=Sığınmacı Sorunu ve Düzensiz Göçün Engellenmesi Eylem Planı|erişimtarihi=27 Haziran 2023|tarih=2 Aralık 2022|dil=Türkçe|çalışma=DEVA Hazır|soyadı=ardakaanaydilek|arşivurl=https://web.archive.org/web/20230627074825/https://devahazir.devapartisi.org.tr/deva-iktidarinin-siginmaci-sorununun-cozumu-ve-duzensiz-gocun-engellenmesi-eylem-plani/|arşivtarihi=27 Haziran 2023|ölüurl=hayır}}</ref>
+
+==== NATO ====
+Parti, Türkiye'nin güvenliği açısından [[NATO]]'nun sağladığı caydırıcılığın kritik önem taşıdığına inanmaktadır. Bu nedenle, Türkiye'yi NATO içinde sorunlu bir müttefik olmaktan kurtarma konusunda taahhütte bulunmaktadır. Partinin önceliği, "NATO ülkelerinin Türkiye'nin karşı karşıya olduğu tehditlere karşı koşulsuz dayanışma içinde olmalarını" sağlamak olarak belirtilmektedir. Ayrıca parti, [[Amerika Birleşik Devletleri|ABD]] ile Türkiye ilişkilerinde "S-400 yaptırımları, F-16/35 alımları ve bölgesel konular üzerinde yeni bir diyalog kurmayı" hedeflemektedir. "Terör örgütlerine bazı ABD makamları tarafından sağlanan desteğin kesilmesi" için ısrarcı olacaklarını belirtmektedirler.<ref name="devahazir.devapartisi.org.tr" />
+
+==== Zorunlu askerlik ====
+Parti, [[Türkiye'de zorunlu askerlik|zorunlu askerliğin]] ve [[Bedelli askerlik|bedelli askerliğin]] bir arada uygulanmasını sona erdirerek, zorunlu askerliğin olmadığı tam profesyonel orduya geçilmesini hedeflemektedir.<ref>{{Web kaynağı|url=https://devapartisi.org/temel-metinler/parti-programi|başlık=PARTİ PROGRAMI|erişimtarihi=4 Nisan 2023|arşivtarihi=11 Mart 2020|arşivurl=https://web.archive.org/web/20200311231639/https://devapartisi.org/temel-metinler/parti-programi}}</ref><ref>{{Web kaynağı|url=https://twitter.com/devapartisi/status/1643244623911870465|başlık=Zorunlu askerlik kaldırılacak|erişimtarihi=4 Nisan 2023|arşivtarihi=4 Nisan 2023|arşivengelli=evet|arşivurl=https://web.archive.org/web/20230404153317/https://twitter.com/devapartisi/status/1643244623911870465|ölüurl=hayır|dil=Türkçe|çalışma=Twitter}}</ref>
+
+=== Sağlık politikası ===
+Parti, sağlık alanındaki sorunları çözmek için "sağlığın temel bir insan hakkı olduğu bilinci ve sorumluluğuyla hareket ederek ülkemizi ileriye taşımayı" vadetmektedir. Koruyucu sağlık hizmetlerini ön planda tutan ve tüm sağlık sistemi unsurlarını uyumlu bir şekilde çalıştıran yeni bir sağlık yönetim modeli oluşturmayı planlamaktadır.<ref>{{Haber kaynağı|url=https://cdn.devapartisi.org/belgeler/eylem-planlari/saglik.pdf|başlık=SAĞLIK POLİTİKALARI EYLEM PLANI|erişimtarihi=27 Haziran 2023|arşivurl=https://web.archive.org/web/20230519040724/https://cdn.devapartisi.org/belgeler/eylem-planlari/saglik.pdf|arşivtarihi=19 Mayıs 2023|ölüurl=hayır}}</ref>
+
+[[COVID-19]] salgınında, Milletvekili [[Mustafa Yeneroğlu|Yeneroğlu]], tedbirlerin cumhurbaşkanı kararıyla alınmasının hukuki açıdan yanlış olduğunu belirterek, "Bu kararlar çoğunlukla pandemiyle mücadele için gerekli ve zorunlu olsa da, anayasaya göre yasal dayanağa sahip olmalıdır" dedi.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/deva-partisinden-pandemi-onlemlerinde-hukukilik-cagrisi-haber-1532589|başlık=DEVA Partisi'nden pandemi önlemlerinde hukukilik çağrısı|erişimtarihi=27 Haziran 2023|arşivtarihi=27 Haziran 2023|arşivurl=https://web.archive.org/web/20230627074826/https://www.gazeteduvar.com.tr/deva-partisinden-pandemi-onlemlerinde-hukukilik-cagrisi-haber-1532589|tarih=23 Ağustos 2021|ölüurl=hayır|dil=tr-TR}}</ref> Parti sözcüsü [[İdris Şahin|Şahin]] ise COVID-19 vaka ve ölüm oranlarındaki artışa dikkat çekerek, "Kış aylarını göz önünde bulundurarak ciddi önlemler alınmalı. Kamu yönetimi aşıyı teşvik eden net bir duruş sergilemelidir" şeklinde konuştu.<ref>{{Web kaynağı|url=https://www.gazeteduvar.com.tr/deva-kamu-asi-karsiti-komploculara-karsi-net-durus-sergilemeli-haber-1535041|başlık=DEVA: Kamu, aşı karşıtı komploculara karşı net duruş sergilemeli|erişimtarihi=27 Haziran 2023|arşivtarihi=27 Haziran 2023|arşivurl=https://web.archive.org/web/20230627074824/https://www.gazeteduvar.com.tr/deva-kamu-asi-karsiti-komploculara-karsi-net-durus-sergilemeli-haber-1535041|tarih=15 Eylül 2021|ölüurl=hayır|dil=tr-TR}}</ref> Partinin Sağlık Politikaları Başkanı Aysun Hatipoğlu ise hükûmetin açıkladığı önlemlerin COVID-19 vaka sayısındaki artışı durduramayacağını belirterek, "Zorunlu olmayan işletmeler en az iki hafta süreyle kapatılmalıdır. Nüfusun '''%'''70'i 3-4 ay içinde aşılanmalı, vatandaşlara ve işletmelere ekonomik destek sağlanmalıdır" şeklinde görüşlerini dile getirdi.<ref>{{Haber kaynağı|url=https://devapartisi.org/parti/e-arsiv/devadan-salgna-onlem-acklamas-tek-care-yogun-kapanma-ve-aslama|başlık=DEVA’dan salgına önlem açıklaması: ‘Tek çare yoğun kapanma ve aşılama’|erişimtarihi=27 Haziran 2023|arşivurl=https://web.archive.org/web/20230627074823/https://devapartisi.org/parti/e-arsiv/devadan-salgna-onlem-acklamas-tek-care-yogun-kapanma-ve-aslama|arşivtarihi=27 Haziran 2023|ölüurl=hayır}}</ref>
+
+Babacan'ın Türkiye'de kapalı mekanlara giriş için aşı zorunluluğu getirilmesi önerisine tepki gösteren bazı insanlar, Babacan'ın önerisine karşı çıkarak #AliBabacanHaddiniBil etiketi altında tepki tweetleri paylaştı. Kısa sürede popülerlik kazanan etiket, [[Twitter]] trendler listesinde üst sıralara yerleşti.<ref>{{Web kaynağı|url=https://www.yeniakit.com.tr/haber/ali-babacandan-asi-zorunlulugu-zorbaligi-vatandaslardan-alibabacanhaddinibil-tepkisi-geldi-1553581.html|başlık=Ali Babacan'dan 'aşı zorunluluğu' zorbalığı! Vatandaşlardan "#AliBabacanHaddiniBil" tepkisi geldi - Yeni Akit|erişimtarihi=27 Haziran 2023|dil=Türkçe|çalışma=yeniakit.com.tr|arşivurl=https://web.archive.org/web/20230627074824/https://www.yeniakit.com.tr/haber/ali-babacandan-asi-zorunlulugu-zorbaligi-vatandaslardan-alibabacanhaddinibil-tepkisi-geldi-1553581.html|arşivtarihi=27 Haziran 2023|ölüurl=hayır}}</ref>
+
+== Tartışmalar ==
+* Bazı eleştirmenlere göre Babacan, kurduğu partinin bazı üyelerini eski [[Adalet ve Kalkınma Partisi|AK Partili]] isimler arasından seçerken, AK Parti'nin geçmişindeki eksiklikleri de beraberinde getiriyor. Eleştirmenlere göre ayrıca, AK Parti'nin ilk dönemleri, Babacan'ın iddia ettiği başarı hikâyesiyle tam olarak örtüşmüyor. İlk dönemde, ordu ve yargının otoriter müdahalelerine karşı çıkmak doğru bir adım olarak görülse de, AK Parti'nin gücü eline geçtikten sonra demokratik hakları artırmak yerine [[Otoriteryanizm|otoriter]] bir yönelime kaydığı görülüyor.
+* Bazı eleştirmenler tarafından Babacan ve parti yönetiminin eski dönemlere dair samimi bir özeleştiri yapmadığı eleştirisi getirilmektedir. Eleştirmenlere göre Babacan, bu ikilemi aşabilmek için sürekli olarak kendi bakanlık dönemindeki başarılarına ve AK Parti'nin 2002-2007 arasında karşılaştığı otoriter müdahalelere vurgu yapmaktadır. Eleştirmenlere göre parti yönetiminin AK Parti dönemi hakkındaki seçici değerlendirmeleri ve zayıf eleştirileri, [[Sekülerite|seküler]]-[[muhalif]] seçmenler arasında partiye olan güveni sarsmaktadır.<ref name=":3" />
+* [[İstanbul Büyükşehir Belediyesi|İBB]]'nin [[Yenikapı, Fatih|Yenikapı]]'daki 30 Ağustos Kutlamaları'nda belediye personeli vals gösterisi yaptı.<ref>{{Web kaynağı|url=https://sputniknews.com.tr/20210830/ibbnin-yenikapidaki-30-agustos-kutlamalarinda-belediye-personelleri-vals-gosterisi-yapti-1048460982.html|başlık=Vals Gösterisi yaptılar!|erişimtarihi=20 Temmuz 2023|arşivtarihi=20 Temmuz 2023|arşivurl=https://web.archive.org/web/20230720085639/https://sputniknews.com.tr/20210830/ibbnin-yenikapidaki-30-agustos-kutlamalarinda-belediye-personelleri-vals-gosterisi-yapti-1048460982.html|tarih=30 Ağustos 2021|ölüurl=hayır|çalışma=İBB|yayıncı=Sputnik}}</ref> Partisinin Avcılar ilçe binasının açılışında konuşan Babacan, ''"Kimse kusura bakmasın, milli günlerimiz üzerinden bu ülkenin dindar vatandaşlarına göndermeler yapmasına biz izin vermeyiz. Biz bu zihniyete pabuç bırakmayız."'' ifadeleri çeşitli kaynaklarda İBB'nin hazırlamış olduğu vals gösterimine nispetle söylediği şeklinde yorumlanmıştır.<ref>{{Web kaynağı|url=https://www.birgun.net/haber/babacan-milli-gunlerimiz-uzerinden-dindar-vatandaslarimiza-gonderme-yapilmasina-izin-vermeyiz-357651|başlık=İzin vermeyiz!|erişimtarihi=20 Temmuz 2023|arşivtarihi=20 Temmuz 2023|arşivurl=https://web.archive.org/web/20230720085639/https://www.birgun.net/haber/babacan-milli-gunlerimiz-uzerinden-dindar-vatandaslarimiza-gonderme-yapilmasina-izin-vermeyiz-357651|tarih=5 Eylül 2021|ölüurl=hayır|yayıncı=Birgün}}</ref><ref>{{Web kaynağı|url=https://twitter.com/nevsinmengu/status/1434534277534920706|başlık=Nevşin Mengü Vals|erişimtarihi=20 Temmuz 2023|arşivtarihi=20 Temmuz 2023|arşivurl=https://web.archive.org/web/20230720085637/https://twitter.com/nevsinmengu/status/1434534277534920706|tarih=5 Eylül 2021|ölüurl=hayır|çalışma=Nevşin Mengü}}</ref>
+
+== Yapılanma ==
+[[Dosya:DEVA Partisi Kurucuları.jpg|küçükresim|Demokrasi ve Atılım Partisi Kurucular Kurulu, 2020|upright=0.91]]
+
+=== Parti yapısı ===
+Demokrasi ve Atılım Partisi'nin parti yapısı, parti üyelerinin amaçları ve ilkeleri hayata geçirmek için oluşturdukları bir yapıdır. Bu teşkilat, tabandan Genel Merkeze kadar tüm parti üyelerini kapsar. Parti teşkilatı, [[belde]], [[ilçe]], [[Vilayet|il]] ve Genel Merkez düzeylerinde yer alan yapıları içerir. Ayrıca, [[belediye meclisi]], [[il genel meclisi]] ve [[Türkiye Büyük Millet Meclisi|TBMM'deki]] parti grubu da teşkilatın bir parçasıdır. Kadın ve gençlik kolları ise GMYK tarafından belirlenen il ve ilçelerde, ilgili kuruluşun onayıyla oluşturulabilir.<ref name=":5" />
+
+[[Parti kongresi|Büyük Kongre]], partinin en üst ve yetkili organıdır. Kongre, seçilmiş üyelerden oluşur ve toplanma süresi iki yıldan az veya üç yıldan fazla olamaz. Kongre, gündem sırasına göre çalışmalarını yürütür. Gündemdeki maddelerin sırasının değiştirilmesi veya yeni madde eklenmesi için hazır bulunan üyelerin beşte biri tarafından teklif sunulmalı ve salt çoğunluğun kabulü ile karar verilir.<ref name=":5" />
+
+Büyük Kongre sonrasında, partinin en üst karar ve yönetim organı olan GYMK, [[Parti lideri|Genel Başkan]] ve Büyük Kongre tarafından gizli oyla seçilen 50 üyeden oluşur. Ayrıca, yarısı kadar yedek üye de seçilir. Kurul üyelerinden bir boşalma olduğunda, Genel Başkan tarafından sıradaki yedek üye davet edilir.<ref name=":5" />
+
+[[Yüksek Seçim Kurulu (Türkiye)|YSK]]'nın 2021'de seçime girebilecek partileri açıkladığı listede yer almıştır. Bu tarihten itibaren yapılacak seçimlere katılmaya hak kazanmıştır.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/ysk-19-partinin-secime-katilabilecek-kosullari-tasidigini-belirledi,942397|başlık=YSK, 19 partinin seçime katılabilecek koşulları taşıdığını belirledi|erişimtarihi=17 Nisan 2021|arşivtarihi=30 Mart 2021|arşivurl=https://web.archive.org/web/20210330072023/https://t24.com.tr/haber/ysk-19-partinin-secime-katilabilecek-kosullari-tasidigini-belirledi,942397|dil=Türkçe|çalışma=T24}}</ref>
+=== Üyelik ===
+[[Dosya:DEVA_üye_grafik.svg|küçükresim|2020-2023 yılları arasında partinin üye artışını gösteren bir grafik|upright=0.91]]
+Demokrasi ve Atılım Partisi (DEVA Partisi), Kasım 2020'de siyasal yaşama katılarak 5,157 üyeye ulaştı.<ref>{{Web kaynağı|url=https://www.odatv4.com/yazarlar/senol-carik/sayilar-belli-oldu...-akpde-buyuk-artis-02102040-192874|başlık=Sayılar belli oldu... AKP'de büyük artış - article - ODATV|erişimtarihi=26 Haziran 2023|çalışma=odatv4.com|arşivurl=https://web.archive.org/web/20230626170028/https://www.odatv4.com/yazarlar/senol-carik/sayilar-belli-oldu...-akpde-buyuk-artis-02102040-192874|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref> Nisan 2021'de ise son 2.5 ayda %90'lık bir artışla üye sayısını 30,088'e çıkardı.<ref>{{Web kaynağı|url=https://www.milliyet.com.tr/siyaset/siyasi-partilerin-uye-sayilari-guncellendi-6473040|başlık=Siyasi partilerin üye sayıları güncellendi|erişimtarihi=26 Haziran 2023|tarih=4 Nisan 2021|dil=Türkçe|çalışma=Milliyet|arşivurl=https://web.archive.org/web/20230626160017/https://www.milliyet.com.tr/siyaset/siyasi-partilerin-uye-sayilari-guncellendi-6473040|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref> DEVA Partisi, Mayıs 2022'de 11,693 yeni üye kazanarak en hızlı büyüyen siyasi parti oldu. Mayıs 2022'de DEVA'nın üye sayısı 153,596'ya ulaştı.<ref>{{Web kaynağı|url=https://www.haberler.com/haberler/siyasi-parti-uye-sayilari-2022-yargitay-siyasi-14940199-haberi/|başlık=Partilerin üye sayıları 2022: Yargıtay siyasi partilerin üye sayılarını açıkladı! Siyasi partilerin üye sayıları kaç?|erişimtarihi=26 Haziran 2023|tarih=13 Mayıs 2022|dil=Türkçe|çalışma=Haberler|soyadı=https://www.facebook.com/Haberler|arşivurl=https://web.archive.org/web/20230626160020/https://www.haberler.com/haberler/siyasi-parti-uye-sayilari-2022-yargitay-siyasi-14940199-haberi/|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref> Ocak 2023'te ise parti, 23,858 üye daha kazanarak toplamda 177,596 üyeye ulaştı.<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/siyasi-partilerin-uye-sayilari-guncellendi-sadece-mhp-ve-saadet-dustu-2018496|başlık=Siyasi partilerin üye sayıları güncellendi: Sadece MHP ve Saadet düştü|erişimtarihi=26 Haziran 2023|tarih=1 Nisan 2023|dil=Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl=https://web.archive.org/web/20230626160017/https://www.cumhuriyet.com.tr/siyaset/siyasi-partilerin-uye-sayilari-guncellendi-sadece-mhp-ve-saadet-dustu-2018496|arşivtarihi=26 Haziran 2023|ölüurl=hayır}}</ref> Ocak 2024 tarihi itibarıyla partinin üye sayısı 30,776 düşüşle 146,820 olarak kaydedildi.<ref>{{Web kaynağı|url = https://www.indyturk.com/node/686946/haber/siyasi-partilerin-%C3%BCye-say%C4%B1lar%C4%B1-a%C3%A7%C4%B1kland%C4%B1|başlık = Siyasi partilerin üye sayıları açıklandı|erişimtarihi = 28 Nisan 2024|tarih = 4 Ocak 2024|dil = Türkçe|çalışma = Independent Türkçe|arşivengelli = evet|arşivurl = https://web.archive.org/web/20240428121817/https://www.indyturk.com/node/686946/haber/siyasi-partilerin-%C3%BCye-say%C4%B1lar%C4%B1-a%C3%A7%C4%B1kland%C4%B1|arşivtarihi = 28 Nisan 2024|ölüurl = hayır}}</ref>
+
+=== Partinin ekonomisi ===
+Partinin mevcut finansmanı sadece üye aidatlarıyla ve vatandaşlardan gelen bağışlarla sağlanmaktadır.<ref>{{Web kaynağı|url=https://devapartisi.org/parti/sik-sorulan-sorular|başlık=DEVA Partisi’nin finansal kaynağı nedir? - SSS.|yayıncı=devapartisi|erişimtarihi=14 Kasım 2021|arşivurl=https://web.archive.org/web/20210110144739/https://devapartisi.org/parti/sik-sorulan-sorular|arşivtarihi=10 Ocak 2021|ölüurl=hayır}}</ref>
+
+=== Partinin amblemi ===
+YouTube'da paylaşılan [[140journos]] tarafından hazırlanan [https://www.youtube.com/watch?v=kD5vEQmIgZI "Sakın kader deme"] adlı videoda, birçok gönüllünün isim ve logo tasarımları sunduğunu belirtildi.<ref name=":4" /> Partinin logosundaki su damlası saf ve temiz olmak, filizin ise yenilik, umut çağrışımları ile ilişkilendirilmektedir.<ref name=":4">{{Web kaynağı|url=http://nedendeva.com/2020/11/04/deva-partisinin-logosu-nasil-belirlendi/|başlık=Deva Partisi’nin Logosu Nasıl Belirlendi? – NEDEN DEVA?|erişimtarihi=2 Aralık 2021|arşivtarihi=6 Kasım 2020|arşivengelli=evet|arşivurl=https://web.archive.org/web/20201106150000/http://nedendeva.com/2020/11/04/deva-partisinin-logosu-nasil-belirlendi/|tarih=6 Kasım 2020|ölüurl=|çalışma=nedendeva.com}}</ref>
+
+=== Genel başkanlar ===
+{| class="wikitable" style="font-size:90%;"
+|-
+! # !! İsim !! Resim !! Görev Başlangıcı !! Görev Bitişi !! Görev Süresi
+|-
+!1
+|[[Ali Babacan]]<br /> {{Doğum tarihi ve yaşı|1967|4|4}}
+|[[Dosya:Ali Babacan 2020 (cropped).jpg|60px]]
+|10 Mart 2020
+|''Görevde''
+|{{ayd|2020|3|10}}
+|}
+
+=== Genel sekreterler ===
+9 Mart 2020'de açılan Demokrasi ve Atılım Partisi'nin bugüne kadar genel sekreterliğini yapan kişilerin listesi.
+
+{| class="wikitable" style="font-size:90%;"
+|-
+! #
+! Adı
+! Görev Başlangıcı
+! Görev Bitişi
+|-
+| '''1'''|| [[Sadullah Ergin]] || 10 Mart 2020|| 29 Aralık 2020
+|-
+| '''2'''|| [[Medeni Yılmaz]] || 29 Aralık 2020 || 1 Temmuz 2023
+|-
+|'''3'''
+|[[Sanem Oktar]]
+|1 Temmuz 2023
+|19 Aralık 2023
+|-
+|'''—'''
+|[[İdris Şahin]] {{küçük|(vekil)}}
+|19 Aralık 2023
+|25 Ekim 2024
+|-
+|'''4'''
+|Yusuf Türkmen
+|25 Ekim 2024
+|''Görevde''
+|}
+
+=== Genel Merkez Başkanlık Kurulu üyeleri ===
+Demokrasi ve Atılım Partisi'nde, mevcut olarak 12 GMBK üyesi bulunmaktadır.<ref>{{Web kaynağı|url=https://devapartisi.org/teskilat/baskanlik-kurulu|başlık=Başkanlık Kurulu|erişimtarihi=13 Temmuz 2022|arşivtarihi=21 Mart 2020|arşivurl=https://web.archive.org/web/20200321205234/https://devapartisi.org/teskilat/baskanlik-kurulu|tarih=|ölüurl=evet|çalışma=DEVA Genel Merkez Başkanlık Kurulu Üyeleri|yayıncı=Demokrasi ve Atılımı Partisi}}</ref>
+{| class="wikitable" style="font-size:90%;"
+|-
+! #
+! Adı
+! Görevi
+! Şehir
+|-
+| '''1''' || [[Ali Babacan]] || Genel Başkan || [[Ankara]]
+|-
+| '''2''' || [[Medeni Yılmaz]] || Genel Başkan Yardımcısı (İdari ve Mali İşler Başkanı) ve Genel Muhasip 
+|[[Muş]]
+|-
+| '''3''' || [[Mustafa Ergen]] || Genel Başkan Yardımcısı (Eğitim Politikaları Başkanı) || [[Konya]]
+|-
+| '''4''' || [[İbrahim Halil Çanakcı|İbrahim Çanakcı]] || Genel Başkan Yardımcısı (Ekonomi Politikaları ve Siyasi İşler Başkanı) || [[Elazığ (il)|Elazığ]]
+|-
+| '''5''' || [[Mehmet Sait Başaran]] || Genel Başkan Yardımcısı (Gençlik Çalışmaları Başkanı) || rowspan="2" | [[Batman]]
+|-
+| '''6''' || [[Elif Esen]] || Genel Başkan Yardımcısı (Kadın Politikaları Başkanı) 
+|-
+| '''7''' || [[Mehmet Emin Ekmen]] || Genel Başkan Yardımcısı (Halkla İlişkiler Başkanı)
+|[[Batman]]
+|-
+| '''8''' || [[Candan Karlıtekin]] || Genel Başkan Yardımcısı (Tarım, Enerji ve Ulaştırma Politikaları Başkanı) 
+| rowspan="2" |[[Ankara]]
+|-
+| '''9''' || Aysun Hatipoğlu Potgieter || Genel Başkan Yardımcısı (Sağlık Politikaları Başkanı)
+|-
+| '''10''' || [[İdris Şahin]] || Genel Başkan Yardımcısı (Seçim İşleri Başkanı)
+|[[Çankırı]]
+|-
+| '''11''' || [[Hasan Karal]] || Genel Başkan Yardımcısı (Sivil Toplumla İlişkiler Başkanı) || [[Rize]]
+|-
+| '''12''' || [[Sadullah Ergin]] || Genel Başkan Yardımcısı (Teşkilat İşleri Başkanı) || [[Hatay]]
+|}
+
+=== Genel Merkez Yönetim Kurulu üyeleri ===
+Partinin en üst karar ve yönetim organı Genel Merkez Yönetim Kuruludur (GMYK). Büyük Kongrede gizli oyla seçilen [https://devapartisi.org/teskilat/yonetim-kurulu 51] üyeden oluşur.
+
+=== Merkez Disiplin Kurulu üyeleri ===
+Merkez Disiplin Kurulu (MDK) partinin en üst disiplin kuruludur. Büyük Kongrede gizli oyla seçilen yedi asıl ve üç yedek üyeden oluşur. Asil üyelerden üç, yedek üyelerden bir kişinin hukukçu olması gerekmektedir.
+{| class="wikitable" style="font-size:90%;"
+! #
+! Adı
+! Görevi
+! Şehir
+|-
+| '''1''' || [[Mustafa Nuri Akbulut]] || MDK Başkanı || [[Erzurum]]
+|-
+| '''2''' || [[Abdurrahim Aksoy]] || rowspan="4" | MDK Üyesi || [[Bitlis]]
+|-
+| '''3'''|| Haldun Hakçı|| rowspan="2" |[[Ankara]]
+|-
+| '''4'''|| Hüseyin Kaderoğlu
+|-
+| '''5'''|| Yusuf Türkmen|| [[Erzurum]]
+|- class="sortbottom"
+| colspan="4" style="background-color:#EAECF0;text-align:center" |'''Kaynak:'''<ref>{{Web kaynağı|url=https://devapartisi.org/teskilat/disiplin-kurulu|başlık=DEVA Partisi|website=devapartisi.org|erişimtarihi=19 Haziran 2023|ölüurl=hayır|arşivurl=https://web.archive.org/web/20230619143138/https://devapartisi.org/teskilat/disiplin-kurulu|arşivtarihi=19 Haziran 2023}}</ref>
+|}
+
+=== Kurucular Kurulu üyeleri ===
+Demokrasi ve Atılım Partisi, 90 kişilik kurucu üyeyle kuruluşunu gerçekleştirmiştir.<ref>{{Web kaynağı|url=https://devapartisi.org/teskilat/kurucu-uyeler|başlık=Kurucu Üyeler|erişimtarihi=22 Haziran 2020|arşivtarihi=21 Mart 2020|arşivurl=https://web.archive.org/web/20200321205222/https://devapartisi.org/teskilat/kurucu-uyeler|tarih=|ölüurl=evet|çalışma=DEVA Partisi Kurucu Üyeleri|yayıncı=Demokrasi ve Atılım Partisi}}</ref>
+{{gizli içerik-başlık
+|title=Kurucu üyeler
+|başlıkbiçimi= font-size: 1.0em;
+|kenarlık= 1px solid lightgrey}}
+{|
+|
+* [[Ali Babacan]]
+* [[Abdurrahim Aksoy]]
+* Abdurrahman Bilgiç
+* [[Abdurrahman Müfit Yetkin]]
+* Ahmet Burçin Yereli
+* Ahmet Ergin
+* [[Ahmet Faruk Ünsal]]
+* [[Ali İhsan Merdanoğlu]]
+* Ali Rıza Babaoğlan
+* Ali Ufuk Yaşar
+* Altuğ Ankaralı
+* Arzu Kılıçlar
+* Ayşe Ezgi Yıldırım
+* [[Bahar Ekşi]]
+* Baran Deniz Bağatur
+* Bekir Sıtkı Aslan
+|
+* Bilgehan Çetiner
+* [[Birol Aydemir]]
+* [[Burak Dalgın]]
+* Burcu Yağan
+* Bünyamin Ünlü
+* Canberk Demirci
+* Cavit Dağdaş
+* [[Cem Avşar]]
+* Cennet Uslu
+* Deniz Karakullukçu
+* [[Doğa Şanlıoğlu]]
+* [[Elif Esen]]
+* Essum Aslan
+* [[Evrim Rızvanoğlu]]
+* Fahriye Oya Kuyumcu
+* Fazıl Hüsnü Erdem
+* Ferai Ökmen
+* Furkan Aydoğan
+|
+* Gül Didem Pekuz
+* Gülay Göktürk
+* Gülçin Avşar
+* Haldun Hakcı
+* [[Hasan Canpolat]]
+* [[Hasan Karal]]
+* [[Hatice Dudu Özkal]]
+* Hatice Selvi Demirel
+* Hüseyin Nalbantoğlu
+* İbrahim Alper Akalın
+* İbrahim Dönertaş
+* İbrahim Gezer
+* [[İbrahim Halil Çanakcı]]
+* [[İdris Şahin]]
+* [[İhsan Günaydın]]
+* İlker Çelik
+* Kadircan Köşdere
+* Kadriye Esra Aygün
+|
+* Kemal Can Gür
+* [[Kerem Altun]]
+* Kerem Yavaşça
+* [[Medeni Yılmaz]]
+* Mehmet Avcı
+* [[Mehmet Emin Ekmen]]
+* [[Mehmet Şanver]]
+* Meltem Gürler
+* Merve Mollahmetoğlu Keleş
+* Metin Gürcan
+* [[Metin Kaşıkoğlu]]
+* Muhammed İkbal Seyda
+* [[Mustafa Ergen]]
+* [[Mustafa Nuri Akbulut]]
+* Mustafa Satıcı
+* Mustafa Uçak
+* [[Mustafa Yeneroğlu]]
+* Musa Malik Yıldırım
+|
+* Münevver Helün Fırat
+* Nazlı Seda Vural
+* Nevim Bilici
+* [[Nihat Ergün]]
+* Oğuzhan Aygören
+* Ömer Rıfat Gencal
+* [[Ramiz Ongun]]
+* Rojhat Ölmez
+* [[Sadullah Ergin]]
+* [[Sanem Oktar]]
+* Sedat Kadıoğlu
+* [[Selma Aliye Kavaf]]
+* [[Seyit Halil Özsoy]]
+* Tuğba Tapsız
+* Tunahan Elmas
+* Yasemin Bilgel
+* Zehra Zeynep Dereli
+* Zeynep Tatar
+|
+|}
+{{gizli içerik-son}}
+
+== Kongreler ==
+{| class="wikitable" style="font-size:90%"
+!Kongre
+!Tarih
+!Genel başkan
+!Seçim Nedeni
+|-
+|[[1. Demokrasi ve Atılım Partisi Olağan Büyük Kongresi|1. Olağan Kongre]]
+|29 Aralık 2020
+| rowspan="3" |[[Ali Babacan]]
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[1. Demokrasi ve Atılım Partisi Olağanüstü Büyük Kongresi|1. Olağanüstü Kongre]]
+|29-30 Eylül 2023
+|Genel başkanın çağrısı
+|-
+|[[2. Demokrasi ve Atılım Partisi Olağan Büyük Kongresi|2. Olağan Kongre]]
+|12 Ekim 2024
+|Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|}
+
+== Demokrasi ve Atılım Partisi ve seçimler ==
+Demokrasi ve Atılım Partisi kuruluşundan bu yana bir genel seçim ve bir yerel seçime katılmıştır.
+=== Genel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Seçim sonuçları
+! colspan="2" |Sandalye
+! rowspan="2" |Hükûmet
+|-
+!Oy sayısı
+!'''%'''
+! ±
+!# 
+!±
+|-
+![[2023 Türkiye genel seçimleri|2023]]
+|[[Ali Babacan]]
+| colspan="3" |[[Millet İttifakı]]nın ek protokolü gereğince seçimlere<br>[[Cumhuriyet Halk Partisi|CHP]] ve [[İYİ Parti]] listelerinden katıldı.
+|{{Composition bar|15|600|{{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}}
+|Yeni
+|{{hayır2|Muhalefet}}
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan="2" |Seçim
+!rowspan="2"|Aday
+! colspan="3" |Birinci tur
+!colspan="2"|İkinci tur
+!rowspan="2"|Sonuç
+|-
+!Oy sayısı
+! %
+!±
+!Oy sayısı
+! %
+|-
+![[2023 Türkiye cumhurbaşkanlığı seçimi#İkinci tur|2023]]
+|[[Dosya:Kemal_Kılıçdaroğlu_in_March_2023_(cropped).png|103x103pik|Kemal Kılıçdaroğlu]]
+----[[Kemal Kılıçdaroğlu]]<hr>[[Millet İttifakı]] ortak adayı
+|24.595.178
+|44,88% (#2)
+|—
+|25.504.724
+|47,8% (#2)
+|{{hayır2|Seçilemedi}}
+|}
+=== Yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Lider
+! colspan="3" |Belediye Meclisleri
+! colspan="4" |Belediye Başkanlığı
+|-
+!Oy sayısı
+!%
+!±
+!Oy sayısı
+!%
+!#
+!±
+|-
+![[2024 Türkiye yerel seçimleri|2024]]
+|[[Ali Babacan]]
+|207.861
+|0,45 (#12)
+|Yeni
+|150.600
+|0,33 (#11)
+|{{Composition bar|4|1389|{{Siyasi parti renk|Demokrasi ve Atılım Partisi}}}}
+|Yeni
+|}
+
+=== Seçim sloganları ===
+
+* İlk dönemi: Hepimizin DEVA'sı<ref name="slogan1">{{Web kaynağı|url=https://www.cumhuriyet.com.tr/haber/ali-babacan-kampanyasini-baslatti-korkma-turkiye-1791027|başlık=Ali Babacan, kampanyasını başlattı: "Korkma Türkiye"|erişimtarihi=24 Şubat 2021|arşivtarihi=14 Kasım 2020|arşivurl=https://web.archive.org/web/20200312073951/https://www.sozcu.com.tr/2020/gundem/babacan-akpnin-kuruldugu-yerde-devayi-tanitiyor-5673439/|ölüurl=hayır|website=www.cumhuriyet.com.tr}}</ref>, Korkma Türkiye<ref name="slogan1" />, Biz hazırız<ref>{{Web kaynağı|url=https://www.dogrusu.com/news/deva-partisi-sloganini-belirledi|başlık=DEVA Partisi sloganını belirledi|erişimtarihi=7 Ekim 2021|arşivtarihi=7 Ekim 2021|arşivurl=https://web.archive.org/web/20211007184138/https://www.dogrusu.com/news/deva-partisi-sloganini-belirledi|ölüurl=hayır|website=www.dogrusu.com}}</ref>, Umut damla damla yayılıyor<ref>{{Web kaynağı|url=https://medyanotu.com/deva-partisinden-ozgun-kongre-slogani-umut-damla-damla-yayiliyor/|başlık=DEVA Partisi’nden özgün kongre sloganı: Umut damla damla yayılıyor!|erişimtarihi=7 Ekim 2021|arşivtarihi=21 Ekim 2020|arşivurl=https://web.archive.org/web/20201021213130/https://medyanotu.com/deva-partisinden-ozgun-kongre-slogani-umut-damla-damla-yayiliyor/|ölüurl=evet|website=www.medyanotu.com}}</ref>, Türkiye konuşacak, herkes kazanacak<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/ali-babacan-deva-partisi-genel-baskanligina-secildi/2092353|başlık=Ali Babacan DEVA Partisi Genel Başkanlığına seçildi|erişimtarihi=7 Ekim 2021|arşivtarihi=7 Ekim 2021|arşivurl=https://web.archive.org/web/20211007184045/https://www.aa.com.tr/tr/politika/ali-babacan-deva-partisi-genel-baskanligina-secildi/2092353|ölüurl=hayır|website=www.aa.com.tr}}</ref> 
+* [[2023 Türkiye genel seçimleri|2023 genel seçimleri]]: 'Çalışan Türkiye'nin sesi, Türkiye konuşacak, herkes kazanacak, Kadrolar hazır. Çözümler hazır. Bu Pazar Seçim Olsa Deva Hazır!<ref>{{Web kaynağı|url=https://devahazir.com/|başlık=Deva Hazır – Bin Derde Deva|erişimtarihi=20 Nisan 2022|arşivtarihi=20 Nisan 2022|arşivengelli=evet|arşivurl=https://web.archive.org/web/20220420154726/https://devahazir.com/|tarih=20 Nisan 2022|ölüurl=|çalışma=devahazir.com}}</ref>, Demokrasi. Atılım. Derhal. Bugün.'<ref>{{Web kaynağı|url=https://www.haberler.com/guncel/deva-partisi-nden-reklam-filmi-demokrasi-atilim-14911267-haberi/|başlık=Deva Partisi'nden Reklam Filmi: "Demokrasi. Atılım. Derhal. Bugün'|erişimtarihi=1 Mayıs 2022|arşivtarihi=30 Nisan 2022|arşivurl=https://web.archive.org/web/20220430190602/https://www.haberler.com/guncel/deva-partisi-nden-reklam-filmi-demokrasi-atilim-14911267-haberi/|tarih=30 Nisan 2022}}</ref>, Demokrasi ve Atılım Partisi'nin kullandığı sloganlardır.
+* 100. yıl: Birlikte Yüz Yüze Nice Yüzlere
+* [[2024 Türkiye yerel seçimleri|2024 yerel seçimleri]]: Âlem buysa DEVA sensin, Türkiye'ye DEVA
+
+== Milletvekilleri ==
+Ali Babacan, 27 Haziran 2023 tarihinde partinin milletvekillerinin sorumlu olduğu illeri duyurmuştur.<ref>{{Web kaynağı|url=https://twitter.com/devapartisi/status/1673787478820499456|başlık="En etkili muhalefet partisi biz olacağız." 15 milletvekilimiz ile TBMM'de 81 ilimizin sesi olacağız. Milletvekillerimizin sorumlu olduğu illerin listesi kamuoyuna saygıyla duyurulur.|erişimtarihi=28 Haziran 2023|arşivengelli=evet|dil=Türkçe|çalışma=Twitter|arşivurl=https://web.archive.org/web/20230705063506/https://twitter.com/devapartisi/status/1673787478820499456|arşivtarihi=5 Temmuz 2023|ölüurl=hayır}}</ref>{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Sorumlu olduğu iller
+!Görevi
+|-
+! colspan="5" |[[Yeni Yol Partisi|Ortak grup çalışmaları için Yeni Yol'da olan milletvekilleri]]
+|-
+| '''1''' || [[Sadullah Kısacık]] || [[Adana milletvekilleri listesi|Adana]] || '''[[Adana]]'''<br>[[Karaman]]<br>[[Konya]]<br>[[Osmaniye]] ||
+|-
+| '''2''' || [[Sadullah Ergin]] || [[Ankara milletvekilleri listesi|Ankara (I)]] || '''[[Ankara]]''' || Genel Başkan Yardımcısı<br>GMBK üyesi
+|-
+| '''3''' || [[İdris Şahin]] || [[Ankara milletvekilleri listesi|Ankara (II)]] || [[Amasya]]<br>'''[[Ankara]]'''<br>[[Çankırı]]<br>[[Çorum]]<br>[[Kayseri]]<br>[[Kırıkkale]]<br>[[Kırşehir]]<br>[[Nevşehir]]<br>[[Tokat]]<br>[[Yozgat]] || Genel Başkan Yardımcısı<br>GMBK üyesi
+|-
+| '''4''' || [[Elif Esen]] || rowspan="2"| [[İstanbul milletvekilleri listesi|İstanbul (I)]] || [[Bilecik]]<br>[[Eskişehir]]<br>'''[[İstanbul]]'''<br>[[Yalova]] || Kadın Erkek Fırsat Eşitliği Komisyonu Üyesi<br>Genel Başkan Yardımcısı<br>GMBK üyesi
+|-
+| '''5''' || [[Hasan Karal]] || [[Artvin]]<br>[[Bayburt]]<br>[[Giresun]]<br>[[Gümüşhane]]<br>'''[[İstanbul]]'''<br>[[Ordu (il)|Ordu]]<br>[[Rize]]<br>[[Samsun]]<br>[[Sinop]]<br>[[Trabzon]] || Genel Başkan Yardımcısı<br>GMBK üyesi
+|-
+|-
+| '''6''' || [[Medeni Yılmaz]] || [[İstanbul milletvekilleri listesi|İstanbul (III)]] || [[Bingöl]]<br>[[Bitlis]]<br>[[Erzurum]]<br>[[Hakkari]]<br>'''[[İstanbul]]'''<br>[[Muş]]<br>[[Van]] || Genel Başkan Yardımcısı<br>Genel Muhasip<br>GMBK üyesi
+|-
+| '''7''' || [[Mehmet Emin Ekmen]] || [[Mersin milletvekilleri listesi|Mersin]] || [[Batman]]<br>[[Diyarbakır]]<br>[[Mardin]]<br>'''[[Mersin]]'''<br>[[Siirt]]<br>[[Şırnak]] || TBMM Yeni Yol Grup Başkanvekili<br>Genel Başkan Yardımcısı<br>GMBK üyesi
+|-
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |'''Kaynak:'''<ref>{{Web kaynağı|url = https://devapartisi.org/teskilat/milletvekilleri|başlık = DEVA Partisi Milletvekilleri|website = devapartisi.org|erişimtarihi = 30 Mayıs 2023|arşivurl = https://web.archive.org/web/20230530205627/https://devapartisi.org/teskilat/milletvekilleri|ölüurl = hayır|arşivtarihi = 30 Mayıs 2023}}</ref>
+|}
+{{gizli içerik-son}}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+! #
+!İsim
+!İl
+!İlçe 
+!Belde
+|-
+|'''1''' 
+|Mahmut Şahin 
+|rowspan="1"|[[Adıyaman (il)|Adıyaman]] 
+|[[Çelikhan]] 
+| 
+|-
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |
+|-
+|}
+{{gizli içerik-son}}
+
+== Logolar ==
+<gallery>
+Dosya:Demokrasi ve Atılım Partisi Logosu (dikey).svg|Partinin günümüzde kullanılan logosu 
+Dosya:Demokrasi ve Atılım Partisi Logosu (yatay).png|Partinin günümüzde kullanılan logosu (yatay)
+</gallery>
+
+== Kaynakça ==
+{{Kaynakça}}
+=== Notlar ===
+<references group="Not" />
+
+== Dış bağlantılar ==
+{{Commons kategori|Democracy and Progress Party}}
+* Demokrasi ve Atılım Partisi, {{Resmî site|https://devapartisi.org/}}
+* {{Facebook|id=devapartisi}}
+* {{Instagram|devapartisi}}
+* {{twitter|devapartisi}}
+* [[LinkedIn]]'da [https://tr.linkedin.com/company/devapartisi Demokrasi ve Atılım Partisi] 
+* [[YouTube]]'da [https://www.youtube.com/channel/UCTsxsoRvvGwDVtMIj19jzyg Demokrasi ve Atılım Partisi] {{Webarşiv|url=https://web.archive.org/web/20230316160240/https://www.youtube.com/channel/UCTsxsoRvvGwDVtMIj19jzyg |tarih=16 Mart 2023 }}
+
+{{Türkiye'deki siyasi partiler}}
+
+[[Kategori:Demokrasi ve Atılım Partisi]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Türkiye'deki muhafazakâr partiler]]
+[[Kategori:2020'de kurulan siyasi partiler]]
+[[Kategori:2020'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Ankara ili merkezli kuruluşlar]]
+[[Kategori:Türkiye'deki liberal partiler]]
+[[Kategori:Liberal muhafazakâr partiler]]
+[[Kategori:Millet İttifakı]]

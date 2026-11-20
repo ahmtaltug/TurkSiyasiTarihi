@@ -1,0 +1,489 @@
+{{Karıştırma|Altılı Masa}}{{Siyasi parti bilgi kutusu
+| isim             = Millet İttifakı
+| kısaltma         = 
+| colorcode        = #D0222C
+| amblem           = Güçlendirilmiş Parlamenter Sistem Logosu.svg
+| lider1_başlık    = Liderler
+| lider1_isim      = {{Kayma|[[Kemal Kılıçdaroğlu]] ([[Cumhuriyet Halk Partisi|CHP]])<br>[[Temel Karamollaoğlu]] ([[Saadet Partisi|SAADET]])<br>[[Gültekin Uysal]] ([[Demokrat Parti (2007)|DP]])<br>[[Meral Akşener]] ([[İYİ Parti]])<br>[[Ali Babacan]] ([[Demokrasi ve Atılım Partisi|DEVA Partisi]])<br>[[Ahmet Davutoğlu]] ([[Gelecek Partisi]])}}
+| lider2_başlık    = Cumhurbaşkanı adayı
+| lider2_isim      = '''2018'''<br>[[Temel Karamollaoğlu]] ([[Saadet Partisi]])<br>[[Muharrem İnce]] ([[Cumhuriyet Halk Partisi]])<br>[[Meral Akşener]] ([[İYİ Parti]], [[Demokrat Parti (2007)|Demokrat Parti]])<br>'''2023'''<br>[[Kemal Kılıçdaroğlu]]
+| kuruluş          = 5 Mayıs 2018<br>12 Şubat 2022 <small>([[Altılı Masa|Altılı Masa olarak]])<small>
+| birleşme         = [[Altılı Masa]]
+| ideoloji         = [[Güçlendirilmiş parlamenter sistem]]<br>{{daraltılabilir liste | title = Bölüngü:<br>|[[Kemalizm#Atatürkçülük|Atatürkçülük]]{{efn|CHP ve DP, Atatürk değerlerine bağlı ve koruyucu olduklarını özellikle belirtmektedirler. (Atatürkçülük: ''Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik ve Devrimcilik''.)}}<br>|[[Liberal demokrasi]]{{efn|DEVA Partisi ve DP'de liberal demokrasi öne çıkıyor.}}<br>|[[Sosyal demokrasi]]{{efn|Sosyal demokrasi, CHP içinde öne çıkan fikirdir.}}<br>|[[Millî Görüş]]{{efn|Millî Görüş, SAADET içinde öne çıkan fikirdir.}}<br>[[Sosyal liberalizm]]{{efn|DP tarafından desteklenmektedir.}}<br>|[[Pro-Avrupacılık]]{{efn|CHP, DEVA Partisi, DP ve GELECEK tarafından desteklenmektedir.}}}}
+| pozisyon         = [[Büyük çadır]]<br>'''Bölüngü:'''<br />[[Merkez sol]]dan [[aşırı sağ]]a
+| internet sitesi  =[https://cdn.devapartisi.org/guclendirilmis-parlamenter-sistem/Guclendirilmis-Parlamenter-Sistem-Mutabakat-Metni.pdf Ortak Politikalar Mutabakat Metni]
+| ülke             = [[Dosya:Flag of Turkey.svg|23px]] [[Türkiye|Türkiye Cumhuriyeti]]
+| bölünme          = [[Saadet ve Gelecek İttifakı]]<small> (Saadet Partisi ve Gelecek Partisi)
+| kapanış          = 28 Mayıs 2023
+| amblem_açıklaması = Güçlendirilmiş Parlamenter Sistem Logosu
+}}
+'''Millet İttifakı''',<ref>{{Web kaynağı | başlık = Turkish four-party alliance to sign agreement | url = https://ahvalnews6.com/nation-alliance/turkish-four-party-alliance-sign-agreement | website = Ahval News | erişimtarihi = 2 Mayıs 2018 | arşivurl = https://web.archive.org/web/20180503183445/https://ahvalnews6.com/nation-alliance/turkish-four-party-alliance-sign-agreement | arşivtarihi = 3 Mayıs 2018 | ölüurl =evet}}</ref> 5 Mayıs 2018 tarihinde [[Cumhuriyet Halk Partisi]] (CHP), [[İYİ Parti]], [[Saadet Partisi]] (SAADET) ve [[Demokrat Parti (2007)|Demokrat Parti]] (DP) arasında kurulan [[seçim ittifakı]].<ref>{{Web kaynağı | url = https://www.bbc.com/turkce/haberler-turkiye-43992766 | başlık = Seçim 2018: Millet İttifakı nasıl işleyecek? | erişimtarihi =16 Mart 2023| tarih =4 Mayıs 2018| dil =Türkçe| çalışma = BBC News Türkçe | arşivurl = https://web.archive.org/web/20181213143834/https://www.bbc.com/turkce/haberler-turkiye-43992766 | arşivtarihi = 13 Aralık 2018}}</ref> Daha sonrasında [[Demokrasi ve Atılım Partisi]] (DEVA Partisi), [[Gelecek Partisi]] (GELECEK) ittifaka katılmıştır.<ref>{{Web kaynağı | url = https://www.bbc.com/turkce/articles/clkxen2mzj8o | başlık = Altılı Masa 'Millet İttifakı'na dönüştü, cumhurbaşkanı adayı için 13 Şubat'ta yapılacak toplantı işaret edildi | erişimtarihi =16 Mart 2023| tarih =26 Ocak 2023| dil =Türkçe| çalışma = BBC News Türkçe | arşivurl = https://web.archive.org/web/20230126203348/https://www.bbc.com/turkce/articles/clkxen2mzj8o | arşivtarihi = 26 Ocak 2023}}</ref>
+
+Aslen [[2018 Türkiye genel seçimleri|2018 genel seçimlerinden]] önce kurulan ittifak,<ref>{{Web kaynağı|url=http://www.haberiniz.com.tr/gundem/4-parti-birlesti-millet-ittifaki-geliyor-448526h.html|başlık=4 parti birleşti! Millet İttifakı geliyor|erişimtarihi=2 Mayıs 2018|arşivtarihi=3 Mayıs 2018|arşivurl=https://web.archive.org/web/20180503113532/http://www.haberiniz.com.tr/gundem/4-parti-birlesti-millet-ittifaki-geliyor-448526h.html|ölüurl=evet|website=Haberiniz}}</ref><ref>{{Web kaynağı|url=https://www.al-monitor.com/pulse/originals/2018/05/four-turkish-opposition-parties-unite-alliance.html|başlık=Turkish opposition joins forces for parliament vote|erişimtarihi=3 Mayıs 2018|arşivtarihi=14 Mayıs 2018|arşivurl=https://web.archive.org/web/20180514155432/https://www.al-monitor.com/pulse/originals/2018/05/four-turkish-opposition-parties-unite-alliance.html|ölüurl=hayır|website=Al-Monitor}}</ref> Türkiye'nin 2017'de geçiş yaptığı [[2017 Türkiye anayasa değişikliği referandumu|cumhurbaşkanlığı sistemi]]ne direnme konusunda ortak payda bulan siyasi yelpazedeki dört muhalefet partisi tarafından resmen başlatıldı.<ref name=":12">{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-43992766|başlık=Seçim 2018: Millet İttifakı nasıl işleyecek?|erişimtarihi=8 Şubat 2023|arşivtarihi=8 Şubat 2023|arşivurl=https://web.archive.org/web/20230208124807/https://www.bbc.com/turkce/haberler-turkiye-43992766|ölüurl=hayır|dil=Türkçe|iş=BBC News Türkçe}}</ref> [[Cumhuriyet Halk Partisi]] (CHP) ve [[İYİ Parti]], arasında muhalefete yıllar sonra ilk büyük seçim başarısını kazandıran [[2019 Türkiye yerel seçimleri|2019 yerel seçimleri]] için ikinci kez kuruldu.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-47769228|başlık=İttifak bu kez AKP'ye kaybettirdi, CHP'ye kazandırdı: Ankara 25 yıl sonra el değiştirdi|erişimtarihi=4 Mart 2023|arşivtarihi=8 Şubat 2023|arşivurl=https://web.archive.org/web/20230208124811/https://www.bbc.com/turkce/haberler-turkiye-47769228|ölüurl=hayır|dil=Türkçe|iş=BBC News Türkçe}}</ref> [[2023 Türkiye genel seçimleri|2023 genel seçimlerinde]] ana rakip olan [[Cumhur İttifakı]]'na karşı yarışmak üzere AK Parti'den ayrılan [[Gelecek Partisi|GELECEK]] ve [[Demokrasi ve Atılım Partisi|DEVA Partisi]] partilerinin katılmasıyla bir kez daha kuruldu.<ref>{{Web kaynağı | url = https://balkaninsight.com/2022/08/22/turkish-opposition-to-run-joint-candidate-against-president-erdogan/ | başlık = Turkish Opposition to Run Joint Candidate Against President Erdogan (2023) | erişimtarihi = 4 Mart 2023 | tarih = 22 Ağustos 2022 | dil = İngilizce | website = Balkan Insight | ölüurl = hayır | arşivurl = https://web.archive.org/web/20220822110709/https://balkaninsight.com/2022/08/22/turkish-opposition-to-run-joint-candidate-against-president-erdogan/ | arşivtarihi = 22 Ağustos 2022}}</ref><ref>{{Web kaynağı | url = https://www.dailysabah.com/elections/2018/05/02/opposition-parties-agree-to-unite-against-peoples-alliance-in-upcoming-turkish-elections | başlık = Opposition parties agree to unite against People's Alliance in upcoming Turkish elections | erişimtarihi = 4 Mart 2023 | tarih = 2 Mayıs 2018 | dil = en-EN | website = Daily Sabah | ölüurl = hayır | arşivurl = https://web.archive.org/web/20180503180343/https://www.dailysabah.com/elections/2018/05/02/opposition-parties-agree-to-unite-against-peoples-alliance-in-upcoming-turkish-elections | arşivtarihi = 3 Mayıs 2018}}</ref><ref>{{Web kaynağı | başlık = Opposition parties agree to unite against People's Alliance in upcoming Turkish elections | url = https://www.dailysabah.com/elections/2018/05/02/opposition-parties-agree-to-unite-against-peoples-alliance-in-upcoming-turkish-elections | website = Daily Sabah | erişimtarihi = 3 Mayıs 2018 | arşivurl = https://web.archive.org/web/20180503180343/https://www.dailysabah.com/elections/2018/05/02/opposition-parties-agree-to-unite-against-peoples-alliance-in-upcoming-turkish-elections | arşivtarihi = 3 Mayıs 2018 | ölüurl = hayır }}</ref>
+
+Genişlemeden kısa bir süre sonra Millet İttifakı gelecekteki [[Hükûmet programı|hükûmet programları]]nı açıklayarak Türkiye'de seçimlerden önce bunu yapan ilk siyasi oluşum oldu.<ref>{{Web kaynağı | url = https://medyascope.tv/2023/01/31/millet-ittifaki-hukumet-programini-acikladi-siginmacilara-turkce-ogretilecek/ | başlık = Millet İttifakı, hükümet programını açıkladı: Sığınmacılara Türkçe öğretilecek | erişimtarihi = 4 Mart 2023 | tarih = 31 Ocak 2023 | dil = Türkçe | website = Medyascope | soyadı = Özgenç | ad = Cansu Timur & Özgecan | arşivurl = https://web.archive.org/web/20230131115711/https://medyascope.tv/2023/01/31/millet-ittifaki-hukumet-programini-acikladi-siginmacilara-turkce-ogretilecek/ | arşivtarihi = 31 Ocak 2023}}</ref> Millet İttifakı, 30 Ocak 2023 tarihinde ''Ortak Politikalar Mutabakat Metni''<nowiki/>'ni [[Ankara]]'da kamuoyu ile paylaştı.<ref>{{Web kaynağı | url = https://tr.euronews.com/2023/01/30/altili-masa-bugun-ortak-politikalar-mutabakat-metnini-acikliyor | başlık = Millet İttifakı, Ortak Politikalar Mutabakat Metni'ni Açıklıyor | erişimtarihi = 30 Ocak 2023 | website = euronews.com | arşivurl = https://web.archive.org/web/20230130040627/https://tr.euronews.com/2023/01/30/altili-masa-bugun-ortak-politikalar-mutabakat-metnini-acikliyor | arşivtarihi = 30 Ocak 2023}}</ref>
+
+Genel olarak ittifak, [[Güçlendirilmiş parlamenter sistem|güçlendirilmiş bir parlamenter sistem]]in kurulmasına özellikle vurgu yapmaktadır. Ülkedeki mevcut [[demokratik gerileme]] eğilimini tersine çevirme, [[hukukun üstünlüğü]]nü ve [[kuvvetler ayrılığı]]nı yeniden tesis etme ve Türkiye'nin [[Türkiye'de insan hakları|insan hakları]] sicilini iyileştirme ittifakın hükûmet programında değindiği konulardandır.<ref>{{Web kaynağı | url = https://www.dw.com/tr/millet-i%CC%87ttifak%C4%B1n%C4%B1n-h%C3%BCk%C3%BCmet-program%C4%B1nda-neler-var/a-64554223 | başlık = Millet İttifakı'nın hükümet programında neler var? – DW – 30.01.2023 | erişimtarihi = 4 Mart 2023 | dil = Türkçe | website = dw.com | arşivurl = https://web.archive.org/web/20230130111134/https://www.dw.com/tr/millet-i%CC%87ttifak%C4%B1n%C4%B1n-h%C3%BCk%C3%BCmet-program%C4%B1nda-neler-var/a-64554223 | arşivtarihi = 30 Ocak 2023}}</ref><ref>{{Web kaynağı | url = https://blog-iacl-aidc.org/new-blog-3/2022/2/22/opposition-alliance-in-turkey-can-it-restore-democracy | başlık = Opposition Alliance in Turkey: Can it Restore Democracy? | erişimtarihi = 4 Mart 2023 | tarih = 22 Şubat 2022 | dil = en-EN | website = IACL-IADC Blog | ölüurl = hayır | arşivurl = https://web.archive.org/web/20220222080133/https://blog-iacl-aidc.org/new-blog-3/2022/2/22/opposition-alliance-in-turkey-can-it-restore-democracy | arşivtarihi = 22 Şubat 2022}}</ref>
+
+== Tarihçe ==
+
+=== 2018 seçimleri ve kuruluşu ===
+{{Ana|2018 Türkiye genel seçimleri|2018 Türkiye cumhurbaşkanlığı seçimi}}
+Nisan 2017'de Türkiye'nin siyasi sistemini bir parlamenter sistemden cumhurbaşkanlığı sistemine dönüştürme konusunda [[2017 Türkiye anayasa değişikliği referandumu|anayasa değişikliği referandumu]] yapıldı. Referandum sonucu ülkenin sistem değişikliğine geçişini etkin bir şekilde tetikledi. Referandum, iktidardaki [[Adalet ve Kalkınma Partisi]] (AK Parti) ile muhalif [[Milliyetçi Hareket Partisi]] (MHP) tarafından desteklendi. Ana muhalefetteki [[Cumhuriyet Halk Partisi]] ile [[Saadet Partisi]] ve [[Demokrat Parti (2007)|Demokrat Parti]] anayasa değişikliğine karşı çıkan siyasi partilerdi. [[Meral Akşener]] gibi MHP içerisinden bazı kişiler de anayasa değişikliğine karşı çıktı ve bu kişiler ile ileride [[Meral Akşener]] liderliğindeki [[İYİ Parti]] kuruldu.[[Dosya:Meral Akşener delivering a speech.jpg|küçükresim|Muhaliflerin öne çıkan ismi Meral Akşener, Mayıs 2016'da olağanüstü kongrenin engellenmesi üzerine konuşma yapıyor.|upright=1.36]]AK Parti ve MHP daha sonra 2018 genel seçimlerine birlikte katılabilmek için seçim öncesi ittifakların oluşumunu kanunlaştırdı. Ardından [[Cumhur İttifakı]] kuruldu. Birkaç tur müzakereden sonra 5 Mayıs 2018 tarihinde [[Cumhuriyet Halk Partisi]], [[Saadet Partisi]] ve [[Demokrat Parti (2007)|Demokrat Parti]] ile [[Meral Akşener]] tarafından yeni kurulan İYİ Parti'nin de katılımıyla seçim ittifakı kurulduğunu duyuruldu. Demokrat Parti genel seçimlere İYİ Parti çatısı altında katıldı, cumhurbaşkanlığı seçiminde ise aday çıkarmayarak Meral Akşener'i destekledi.
+
+2018 seçimlerinde, Millet İttifakı'nın kurucu partileri ortak bir çatı altında meclis seçimlerine hazırlanırken ittifaktaki her bir partinin cumhurbaşkanlığı seçimi için kendi adayını aday göstermesi kararı alındı.
+
+=== 2019 Türkiye yerel seçimleri ===
+{{Ana|2019 Türkiye yerel seçimleri|2019 İstanbul ara yerel seçimi}}
+12 Aralık 2018 tarihinde CHP ve İYİ Parti, 2019 yerel seçimlerinde işbirliği yapmak amacıyla yaptıkları görüşmeler sonucunda 21 büyükşehir ile bazı il ve ilçelerde işbirliği yapma kararı aldı.<ref name="işbirliği">{{Web kaynağı|url=http://milliyet.com.tr/son-dakika-chp-ile-iyi-parti-siyaset-2794160/|başlık=Son Dakika... CHP ile İYİ Parti ittifak konusunda anlaşma sağladı|erişimtarihi=19 Aralık 2018|arşivtarihi=25 Aralık 2018|arşivurl=https://web.archive.org/web/20181225220900/http://www.milliyet.com.tr/son-dakika-chp-ile-iyi-parti-siyaset-2794160/|tarih=12 Aralık 2018|ölüurl=evet|yayımcı=Milliyet}}</ref>
+
+=== Genişlemesi ve Altılı Masa ===
+
+==== Anayasa değişikliği önerisi ve sonrası ====
+{{Ana|2017 Türkiye anayasa değişikliği referandumu|Güçlendirilmiş parlamenter sistem}}
+[[Dosya:Güçlendirilmiş Parlamenter Sistem toplantısı.jpg|küçükresim|Güçlendirilmiş Parlamenter Sistem Mutabakat Metni'nin duyurulma toplantısı, 28 Şubat 2022 |upright=1.36]]
+İlk olarak 26 Mayıs 2021 tarihinde İYİ Parti Genel Başkanı Meral Akşener, uzun süredir üzerinde çalışılan "iyileştirilmiş ve güçlendirilmiş parlamenter sistem" önerisini 26 Mayıs'ta kamuoyuna açıkladı.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-dunya-57100095|başlık=İYİ Parti 'iyileştirilmiş ve güçlendirilmiş parlamenter sistem' önerecek: 'Cumhurbaşkanı tarafsız olmalı'|erişimtarihi=5 Nisan 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230406113612/https://www.bbc.com/turkce/haberler-dunya-57100095|arşivtarihi=6 Nisan 2023|ölüurl=hayır}}</ref> Ardından 7 Kasım 2021 tarihinde DEVA Partisi Genel Başkanı Ali Babacan ile Hukuk ve Adalet Politikaları Başkanı [[Mustafa Yeneroğlu]], DEVA Partisi Genel Merkezi'nde düzenlenen basın toplantısıyla partinin Güçlendirilmiş Parlamenter Sistem önerisini açıkladı.<ref>{{Web kaynağı|url=https://devapartisi.org/parti/e-arsiv/deva-partisinden-guclendirilmis-parlamenter-sistem-onerisi-davetimiz-ozgurlukcu-katlmc-ve-cogulcu-demokrasi-icindir|başlık=DEVA Partisi’nden ‘Güçlendirilmiş Parlamenter Sistem’ önerisi: ‘Davetimiz özgürlükçü, katılımcı ve çoğulcu demokrasi içindir’|tarih=2021|erişimtarihi=5 Nisan 2023|arşivurl=https://web.archive.org/web/20221225082939/https://devapartisi.org/parti/e-arsiv/deva-partisinden-guclendirilmis-parlamenter-sistem-onerisi-davetimiz-ozgurlukcu-katlmc-ve-cogulcu-demokrasi-icindir|arşivtarihi=25 Aralık 2022|ölüurl=hayır}}</ref> Altı muhalefet partisi, ekim ayı başından bu yana üzerinde çalıştıkları "Güçlendirilmiş Parlamenter Sistem" ile ilgili ortak metne 14 Aralık'ta son biçimini verdi.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/59486185|başlık=6 muhalefet partisinin Güçlendirilmiş Parlamenter Sistem çalışması hangi düzenlemeleri öngörüyor?|erişimtarihi=5 Nisan 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20211203172403/https://www.bbc.com/turkce/59486185|arşivtarihi=3 Aralık 2021|ölüurl=hayır}}</ref> Hazırlanan ortak metin, 6 partinin genel başkanlarına sunduktan sonra 12 Şubat 2022 tarihinde 6 muhalefet partisi lideri [[Güçlendirilmiş parlamenter sistem|Güçlendirilmiş Parlamenter Sistem]] mutabakat metni üzerinde konuşmak üzere [[Cumhuriyet Halk Partisi]] Genel Başkanı [[Kemal Kılıçdaroğlu]]'nun çağrısı üzerine Ankara'da Çankaya Belediyesi'ne bağlı Ahlatlıbel tesislerinde bir araya geldiler. Millet İttifakı üyeleri dışında muhalefette temsil edilen [[Demokrasi ve Atılım Partisi|DEVA Partisi]] ve [[Gelecek Partisi]] liderleri de yuvarlak masa etrafında buluştu. 5 saat 15 dakika süren görüşme sonrası Güçlendirilmiş Parlamenter Sisteme geçiş konusunda 2021 yılının Aralık ayında genel başkan yardımcıları tarafından ortak çalışma sonucu hazırlanan Güçlendirilmiş Parlamenter Sistem mutabakat metnine bağlılıklarını 6 parti olarak taahhüt ettikleri ortak irade beyannamesini imzaladılar. İmzalanan metinde bu altı partinin ortak bir gelecek hedefi üzerinde uzlaştıkları, "Yarının Türkiyesi'ni" inşa etmek için "kutuplaşma değil uzlaşma", [[Avrupa Konseyi]] ve [[Avrupa Birliği]] normlarına vurgu, Siyasi Etik Kanunu gibi konular ön plana çıktı.
+
+Güçlendirilmiş Parlamenter Sistem Mutabakat Metni 28 Şubat tarihinde kamuoyuna duyuruldu.<ref>{{Web kaynağı|url=https://chp.org.tr/haberler/guclendirilmis-parlamenter-sistem-mutabakat-metni-mzalandi|başlık=Güçlendirilmiş Parlamenter Sistem Mutabakat Metni İmzalandı|erişimtarihi=1 Haziran 2022|dil=Türkçe|çalışma=chp.org.tr|arşivurl=https://web.archive.org/web/20220228154225/https://chp.org.tr/haberler/guclendirilmis-parlamenter-sistem-mutabakat-metni-mzalandi|arşivtarihi=28 Şubat 2022|ölüurl=hayır}}</ref> 6 muhalefet partisinin liderleri, dördüncü buluşmanın ardından 10 maddelik Temel İlkeler ve Hedefler Bildirgesi imzaladı.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/6-li-masa-bugun-toplaniyor-masada-4-gundem-maddesi-var,1037157|başlık=6'lı masadan 10 maddelik "ilkeler ve hedefler bildirgesi" çıktı|erişimtarihi=1 Haziran 2022|dil=Türkçe|çalışma=T24|arşivurl=https://web.archive.org/web/20220529104620/http://t24.com.tr/haber/6-li-masa-bugun-toplaniyor-masada-4-gundem-maddesi-var,1037157|arşivtarihi=29 Mayıs 2022|ölüurl=hayır}}</ref> Güçlendirilmiş parlamenter sistem toplantısı ve katılımcıları, basında "[[Altılı Masa]]"<ref>{{haber kaynağı|url=https://www.hurriyet.com.tr/gundem/altili-masadan-aciklama-icin-28-subat-tarihi-42003398|başlık=‘Altılı masa’dan açıklama için 28 Şubat tarihi|tarih=14 Şubat 2022|yayıncı=Hürriyet|yazar=Turan Yılmaz|erişimtarihi=11 Temmuz 2022|arşivurl=https://web.archive.org/web/20220711175927/https://www.hurriyet.com.tr/gundem/altili-masadan-aciklama-icin-28-subat-tarihi-42003398|arşivtarihi=11 Temmuz 2022|ölüurl=hayır}}</ref><ref>{{haber kaynağı|url=https://www.bbc.com/turkce/haberler-dunya-62030064|başlık=Altılı masa beşinci kez bir araya geldi|yayıncı=BBC News Türkçe|yazar=Ayşe Sayın|yer=Ankara|tarih=3 Temmuz 2022|erişimtarihi=11 Temmuz 2022|arşivurl=https://web.archive.org/web/20220711175928/https://www.bbc.com/turkce/haberler-dunya-62030064|arşivtarihi=11 Temmuz 2022|ölüurl=hayır}}</ref> adıyla da anılmaktadır.
+
+==== Ortak cumhurbaşkanı adayının açıklanması ve İYİ Parti krizi ====
+
+Millet İttifakı, 2 Mart 2023 tarihinde Cumhurbaşkanı adayının belirlenmesi amacıyla toplandı. Toplantı sonrası [[Altılı Masa]]'nın ortak aday metnine imza atan İYİ Parti lideri Meral Akşener, "''Şahsi hırslar Türkiye’ye tercih edildi. [[Altılı Masa|Masa]] [[noter]]e dönüştü. İYİ Parti ölümle sıtma arasında bir tercihe zorlandı''" diyerek Millet İttifakından ayrıldı. Meral Akşener, CHP'li Belediye Başkanları [[Mansur Yavaş]] ve [[Ekrem İmamoğlu]]'na [[2023 Türkiye cumhurbaşkanlığı seçimi|adaylık]] çağrısında bulundu.<ref name=":1">{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/meral-aksener-uc-ay-once-dagitmam-dedigi-masadan-kavga-ile-kalkti-2057447|başlık=Meral Akşener üç ay önce 'Dağıtmam' dediği masadan kavga ile kalktı|erişimtarihi=4 Mart 2023|arşivtarihi=4 Mart 2023|arşivurl=https://web.archive.org/web/20230304013347/https://www.cumhuriyet.com.tr/siyaset/meral-aksener-uc-ay-once-dagitmam-dedigi-masadan-kavga-ile-kalkti-2057447|dil=Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]}}</ref> [[İstanbul belediye başkanları listesi|İstanbul Büyükşehir Belediye Başkanı]] [[Ekrem İmamoğlu]] ve [[Ankara belediye başkanları listesi|Ankara Büyükşehir Belediye Başkanı]] [[Mansur Yavaş]]''',''' 3 Mart 2023 akşam saatlerinde sosyal medya hesaplarından [[Cumhuriyet Halk Partisi genel başkanları listesi|CHP Genel Başkanı]] [[Kemal Kılıçdaroğlu]]'na destek açıklaması yaptılar.<ref name=":2">{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/kemal-kilicdaroglu-kurmaylarini-olaganustu-topladi-aksenere-sert-sozler-saray-entrikasi-2057450|başlık=Kemal Kılıçdaroğlu kurmaylarını olağanüstü topladı... Akşener'e sert sözler: Saray entrikası|erişimtarihi=4 Mart 2023|arşivtarihi=4 Mart 2023|arşivurl=https://web.archive.org/web/20230304013346/https://www.cumhuriyet.com.tr/siyaset/kemal-kilicdaroglu-kurmaylarini-olaganustu-topladi-aksenere-sert-sozler-saray-entrikasi-2057450|dil=Türkçe|çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]]}}</ref> 6 Mart 2023 tarihinde, İYİ Parti Millet İttifakı aday belirleme toplantısına katılma kararı aldı.<ref name=":3">{{Web kaynağı|url=https://www.sozcu.com.tr/2023/gundem/meral-aksener-toplantiya-katilacak-mi-beklenen-aciklama-geldi-7612430/|başlık=Millet İttifakı’nda bomba gelişme… Akşener kararını açıkladı|erişimtarihi=6 Mart 2023|arşivtarihi=6 Mart 2023|arşivurl=https://web.archive.org/web/20230306104720/https://www.sozcu.com.tr/2023/gundem/meral-aksener-toplantiya-katilacak-mi-beklenen-aciklama-geldi-7612430/|dil=Türkçe|yayıncı=[[Sözcü (gazete)|Sözcü]]}}</ref> [[Dosya:Ben uzun bir yolculuktan geldim. Yol boyunca heybemi, bu güzel ülkenin insanlarının öyküleriyle.png|küçükresim|Kemal Kılıçdaroğlu'nun [[Ankara Büyükşehir Belediyesi|Ankara Büyükşehir Belediye]] başkanı [[Mansur Yavaş]], [[İstanbul Büyükşehir Belediyesi|İstanbul Büyükşehir Belediye]] başkanı [[Ekrem İmamoğlu]] ve eşi [[Selvi Kılıçdaroğlu]] ile birlikte adaylık sürecinin başlangıcında çekilmiş bir fotoğrafı|sol|300x300pik]]
+6 Mart Pazartesi günü [[Saadet Partisi]] Genel Merkezi'nde yapılan toplantıda ittifakın cumhurbaşkanı adayının [[Kemal Kılıçdaroğlu]] olmasına karar verildi ve karar [[Saadet Partisi]] Genel Başkanı [[Temel Karamollaoğlu]] tarafından açıklandı.<ref name=":4" /> İttifakın diğer partilerinin liderlerinin seçimin kazanılması halinde [[Türkiye cumhurbaşkanı yardımcısı|cumhurbaşkanı yardımcısı]] olacağı açıklandı.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/millet-ittifakinin-cumhurbaskani-adayinin-kemal-kilicdaroglu-oldugu-aciklandi/2838700|başlık=Millet İttifakı'nın cumhurbaşkanı adayının Kemal Kılıçdaroğlu olduğu açıklandı|erişimtarihi=6 Mart 2023|arşivtarihi=6 Mart 2023|arşivurl=https://web.archive.org/web/20230306221141/https://www.aa.com.tr/tr/politika/millet-ittifakinin-cumhurbaskani-adayinin-kemal-kilicdaroglu-oldugu-aciklandi/2838700|dil=Türkçe|çalışma=[[Anadolu Ajansı]]|yayıncı=}}</ref>
+
+Millet İttifakı, son toplantısını [[Cumhuriyet Halk Partisi|CHP]], [[İYİ Parti]], [[Saadet Partisi]], [[Demokrat Parti (2007)|Demokrat Parti]], [[Demokrasi ve Atılım Partisi|DEVA Partisi]] ve [[Gelecek Partisi]] genel başkanlarının katılımıyla [[Saadet Partisi]] Genel Merkezinde gerçekleştirdi. 4 saat süren toplantının ardından Türkiye'nin 13. cumhurbaşkanı adayı ittifakın bütün genel başkanlarıyla beraber Saadet Partisi Genel Başkanı [[Temel Karamollaoğlu]] tarafından [[Saadet Partisi]] Genel Merkezi önünde duyuruldu.<blockquote>Elbette içinde bulunduğumuz günler acılı günler. On binlerce kardeşimiz hayata veda etti. Vefat eden bütün kardeşlerimize rahmet diliyorum. Yaralılarımıza acil şifalar diliyorum. Bugün burada bir araya gelmemizin sebebini hepiniz biliyorsunuz. Ben bu toplantılarımız neticesinde aldığımız kararı siz kardeşlerimize duyurmayı görev addediyorum. Sayın Kemal Kılıçdaroğlu cumhurbaşkanı adayımız olarak takdim ediyoruz. Bu görevin hayırlı olmasını diliyor inşallah seçimlerin ardından da kendisine başarılar temennisinde bulunuyorum sözü şimdi kendisine bırakıyorum. Esselâmualeyküm kardeşlerim.<ref>{{Web kaynağı | url = https://twitter.com/SaadetPartisi/status/1632818502347157508?s=20 | başlık = Cumhurbaşkanı adayımız Sayın Kemal Kılıçdaroğlu'dur, hayırlı olsun. | erişimtarihi = 10 Mart 2023 | dil = Türkçe | çalışma = Twitter | arşivurl = https://web.archive.org/web/20230310125825/https://twitter.com/SaadetPartisi/status/1632818502347157508?s=20 | arşivtarihi = 10 Mart 2023}}</ref></blockquote>[[Dosya:CHP's 2023 election campaign, Promise You, Spring Will Come Again (cropped).png|küçükresim|Millet İttifakı cumhurbaşkanı adayı [[Kemal Kılıçdaroğlu]]'nun "Sana söz, yine baharlar gelecek, Bay Kemal sözünden dönmeyecek." içerikli [[Kemal Kılıçdaroğlu'nun 2023 cumhurbaşkanlığı seçim kampanyası|kampanya]] filmi.|300x300pik]]Saadet Partisi Genel Başkanı [[Temel Karamollaoğlu]] adayı açıklayan konuşmasının ardından sözü cumhurbaşkanı adayı Kemal Kılıçdaroğlu'ya bıraktı:<blockquote>Hepinizin huzurunda teşekkür ediyorum. Bu sofra Halil İbrahim sofrasıdır. Halil İbrahim sofrası, komşusu açken, tok yatmamasıdır. Halil İbrahim sofrası, zulmün sona ermesi, hakkın adaletin olması demektir. Bizim soframız barışın ve kardeşliğin sofrasıdır. Allah'ın izniyle başaracağız. Türkiye'yi uzlaşıyla yöneteceğiz. Millet İttifakı'nı oluşturan parti genel başkanları olarak güçlendirilmiş parlamenter sisteme geçiş için yol haritasını da belirledik. Millet İttifakına dahil genel başkanlar seçim kazanılırsa Cumhurbaşkanı yardımcısı olacak<ref name=":4">{{Web kaynağı | url = https://twitter.com/SaadetPartisi/status/1632824115429277696?s=20 | başlık = Türkiye'nin bütün renklerini aynı sofrada buluşturmak için yola çıktık. | erişimtarihi = 10 Mart 2023 | dil = Türkçe | çalışma = Twitter | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230314015604/https://twitter.com/SaadetPartisi/status/1632824115429277696?s=20 | arşivtarihi = 14 Mart 2023 | ölüurl = hayır }}</ref></blockquote>Millet İttifakı, 13. cumhurbaşkanı adayını açıklamasın yanında 12 maddelik "Güçlendirilmiş Parlamenter Sisteme Geçiş Sürecinin Yol Haritası"nı da yayınladı.<ref>{{Web kaynağı | url = https://twitter.com/SaadetPartisi/status/1632805900648849409?s=20 | başlık = Ülkemiz ve milletimiz için hayırlı olsun! | erişimtarihi = 10 Mart 2023 | dil = Türkçe | çalışma = Twitter | arşivurl = https://web.archive.org/web/20230310124320/https://twitter.com/SaadetPartisi/status/1632805900648849409?s=20 | arşivtarihi = 10 Mart 2023}}</ref>
+24 Mayıs 2023 tarihinde [[Cumhuriyet Halk Partisi]] ile [[Zafer Partisi]] tarafından Millet İttifakı bileşenleri arasında cumhurbaşkanlığı ikinci tur seçiminde ve sonraki süreçte yapılacak iş birliği esaslarını kapsayan Mutabakat Protokolü imzalandı.<ref>{{haber kaynağı |başlık=Milliyetçilere giden yola döşeli 7 maddenin tüm detayları |url=https://www.indyturk.com/node/634306/siyaset/milliyet%C3%A7ilere-giden-yola-d%C3%B6%C5%9Feli-7-maddenin-detaylar |erişimtarihi=26 Mayıs 2023 |eser=Independent Türkçe |tarih=25 Mayıs 2023 |dil=Türkçe |arşivurl=https://web.archive.org/web/20230525234235/https://www.indyturk.com/node/634306/siyaset/milliyet%C3%A7ilere-giden-yola-d%C3%B6%C5%9Feli-7-maddenin-detaylar |arşivtarihi=25 Mayıs 2023 |ölüurl=hayır }}</ref>
+
+=== 2023 genel seçimleri ===
+{{Ana|2023 Türkiye genel seçimleri|2023 Türkiye cumhurbaşkanlığı seçimi}}
+[[Dosya:Millet ittifakı Seçim Güvenliği Komisyonu üyeler, 7 Nisan 2023.jpg|küçükresim|upright=1.36|Millet İttifakı'nda oy pusulasında [[Cumhuriyet Halk Partisi|CHP]] ve [[İYİ Parti]]'nin olması kararı alındı, 7 Nisan 2023]]Millet İttifakını oluşturan altı parti, 22 Mart'ta [[2023 Türkiye genel seçimleri|2023 genel seçimlerine]] ittifak olarak girmek için [[Yüksek Seçim Kurulu (Türkiye)|Yüksek Seçim Kurulu]]'na ittifak protokolünü teslim etti.<ref>{{Haber kaynağı |url=https://www.birgun.net/haber/millet-ittifaki-ittifak-protokolunu-ysk-ye-sundu-425738 |başlık=Millet İttifakı, ittifak protokolünü YSK'ye sundu |çalışma=BirGün |tarih=22 Mart 2023 |erişimtarihi=22 Mart 2023 |arşivurl=https://web.archive.org/web/20230322165328/https://www.birgun.net/haber/millet-ittifaki-ittifak-protokolunu-ysk-ye-sundu-425738 |arşivtarihi=22 Mart 2023 |ölüurl=hayır }}</ref> CHP ve İYİ Parti, 5 milletvekilinin altında milletvekili çıkaracak olan 25 dolayındaki ilde fermuar sistemini uygulayıp seçime ortak liste ile ve güçlü olan partinin logosu altında girilmesi halinde daha fazla milletvekili çıkarılabileceği hesabı yaptı. Ayrıca [[Saadet Partisi]] Genel Başkanı [[Temel Karamollaoğlu]] da daha fazla millet vekili sayısına ulaşılabilmesi için basında "ittifak içi ittifak" veya "üçlü ittifak" olarak adlandırılan formülü Gelecek Partisi ve DEVA Partisi'ne önerdi. Buna göre bu partiler Saadet Partisi listelerinden seçime girecek ve artık oylar boşa gitmeyecekti. Ancak Gelecek Partisi Genel Başkanı Ahmet Davutoğlu'nun bu fikre olumlu yaklaşmasına karşın DEVA Partisi Genel Başkanı Ali Babacan'ın olumsuz karşılaması sebebiyle bu formül uygulanmadı. Onun yerine 7 Nisan tarihinde CHP ve İYİ Parti, seçimlere kendi logolarıyla ve listeleriyle; Demokrat Parti, DEVA Partisi, Gelecek Partisi ve Saadet Partisi milletvekili adaylarını CHP listelerinden gösterme konusunda YSK'ya ek protokol metni sundu.<ref>{{Web kaynağı|url=https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|başlık=Millet İttifakı’nın protokol değişikliği YSK’ye sunuldu|erişimtarihi=11 Nisan 2023|tarih=7 Nisan 2023|arşivurl=https://web.archive.org/web/20230410001742/https://www.diken.com.tr/millet-ittifakindan-dort-parti-yskya-gidiyor/|arşivtarihi=10 Nisan 2023|ölüurl=hayır}}</ref> YSK'ya milletvekili aday listelerinin sunulduğu son gün olan 9 Nisan'da CHP listelerinde Saadet Partisi'ne 24, DEVA Partisi'ne 25, Gelecek Partisine 19, Demokrat Parti'ye 3 yer ayrıldı. Öte yandan [[Türkiye Değişim Partisi]] Genel Başkanı [[Mustafa Sarıgül]], CHP listesinden [[Erzincan'da 2023 Türkiye cumhurbaşkanlığı ve genel seçimleri|Erzincan]]'dan birinci sırada milletvekili adayı gösterildi. CHP; Gümüşhane, Bitlis, Muş, Çankırı, Aksaray, Yozgat ve Bayburt'ta aday çıkarmadı. Buna karşılık İYİ Parti de; Adıyaman, Çorum, Erzincan, Hakkari, Rize, Van, Batman, Bartın ve Düzce'de aday göstermedi ve bu illerde İYİ Partili 6 aday CHP listesinde yer aldı.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c84mvnjny2wo|başlık=CHP'nin aday listesinde Millet İttifakı'ndaki diğer 5 partiden 76 aday da yer aldı.|erişimtarihi=11 Nisan 2023|tarih=9 Nisan 2023|arşivurl=https://web.archive.org/web/20230410072142/https://www.bbc.com/turkce/articles/c84mvnjny2wo|arşivtarihi=10 Nisan 2023|ölüurl=hayır}}</ref>
+
+=== Millet İttifakı'nın sona ermesi ===
+{{Ayrıca bakınız|Saadet ve Gelecek İttifakı}}
+24 Haziran 2023 tarihinde [[İYİ Parti]] ittifaktan ayrıldığını duyurdu.<ref name=":0">{{Web kaynağı|url=https://indigodergisi.com/2023/06/meral-aksener-altili-masa-bundan-sonra-size-hayatta-basarilar/|başlık=Meral Akşener'den Altılı Masa'ya: Bundan sonra size hayatta başarılar!|erişimtarihi=24 Haziran 2023|arşivtarihi=24 Haziran 2023|arşivurl=https://web.archive.org/web/20230624093731/https://indigodergisi.com/2023/06/meral-aksener-altili-masa-bundan-sonra-size-hayatta-basarilar/|tarih=24 Haziran 2023|ölüurl=hayır|dil=Türkçe|çalışma=İndigo Dergisi}}</ref> 2 Temmuz 2023 tarihinde [[Demokrasi ve Atılım Partisi|DEVA Partisi]] Sözcüsü [[İdris Şahin]], CHP ile işbirliği yapmanın karşılığını alamadıklarını ifade etti. Bu nedenle, bazı işbirliklerinde sağlıklı bir değerlendirme yapacakları belirtti. Bazı çevreler tarafından ittifaktan ayrılma sinyali olarak değerlendirildi.<ref name=":5">{{Web kaynağı|url=https://www.rudaw.net/turkish/middleeast/turkey/020720232|başlık=DEVA Sözcüsü Şahin: Biz de CHP ile işbirliğinin karşılığını alamadık|erişimtarihi=7 Temmuz 2023|arşivtarihi=7 Temmuz 2023|arşivurl=https://web.archive.org/web/20230707171357/https://www.rudaw.net/turkish/middleeast/turkey/020720232|çalışma=[[Rûdaw]]}}</ref> 6 Temmuz 2023 tarihinde [[Gelecek Partisi]] ile [[Saadet Partisi]], iki parti olarak [[Saadet ve Gelecek İttifakı|ayrı bir ittifak]] kurdu.<ref name=":6">{{Web kaynağı|url=https://www.mynet.com/iki-genel-baskan-da-deva-partisi-ni-isaret-etti-uclu-ittifaka-yanasmamis-davutoglu-nun-millet-ittifaki-mesaji-dikkat-cekti-110107140319|başlık=İki genel başkan da DEVA Partisi'ni işaret etti: Üçlü ittifaka yanaşmamış! Davutoğlu'nun "Millet İttifakı" mesajı dikkat çekti|erişimtarihi=7 Temmuz 2023|arşivtarihi=7 Temmuz 2023|arşivurl=https://web.archive.org/web/20230707162935/https://www.mynet.com/iki-genel-baskan-da-deva-partisi-ni-isaret-etti-uclu-ittifaka-yanasmamis-davutoglu-nun-millet-ittifaki-mesaji-dikkat-cekti-110107140319|tarih=7 Temmuz 2023|dil=Türkçe|çalışma=Mynet Haber}}</ref> 14 Temmuz 2023 tarihinde [[Ali Babacan]], katıldığı bir televizyon programında yerel seçimlerle ilgili ittifak konularında ''"Şuanki ana senaryo her partinin kendi logosuyla seçime girmesidir kuşkusuz."'' ifadelerini kullandı.<ref name=":7">{{Web kaynağı|url=https://www.youtube.com/watch?v=r6HppQ6pIW0|başlık=KRT TV'de Stüdyo Ankara programına konuk oluyorum - Ali Babacan|erişimtarihi=19 Temmuz 2023|arşivurl=https://web.archive.org/web/20230719115740/https://www.youtube.com/watch?v=r6HppQ6pIW0&bpctr=9999999999&has_verified=1&video_id=r6HppQ6pIW0|arşivtarihi=19 Temmuz 2023|ölüurl=hayır}}</ref> 20 Temmuz 2023 tarihinde Kemal Kılıçdaroğlu, katıldığı bir programda Millet İttifakının bir seçim ittifakı olduğu için seçim bittiğinden dolayı son bulduğunu ifade etti.<ref name=":8">{{Tweet kaynağı|numara=1682099381774737408|kullanıcı=solcugazete|başlık=Mehmet Akif Ersoy: “İttifak devam ediyor mu?”, Kılıçdaroğlu: “Hayır, seçim ittifakıydı, doğal olarak son buldu.”|tarih=20 Temmuz 2023}}</ref>
+
+== Üyeler ==
+4 kurucu üye barındıran Millet İttifakı, 26 Ocak 2023 tarihinde Altılı Masa'da bulunan 2 partinin ([[Demokrasi ve Atılım Partisi]], [[Gelecek Partisi]]) de katılımıyla üyesi sayısı 6'ya çıktı. Altılı Masa, Millet İttifakı'na dönüştü.<ref>{{Web kaynağı | url = https://www.bbc.com/turkce/articles/clkxen2mzj8o | başlık = Altılı Masa, Millet İttifakı'na dönüştü, cumhurbaşkanı adayı için 13 Şubat'ta yapılacak toplantı işaret edildi | erişimtarihi = 27 Ocak 2023 | arşivtarihi = 26 Ocak 2023 | arşivurl = https://web.archive.org/web/20230126203348/https://www.bbc.com/turkce/articles/clkxen2mzj8o | tarih =  | ölüurl = hayır | website = BBC.com}}</ref> 26 Ocak 2023'te Altılı Masa yaptığı 11. toplantısı sonrası kendini ilk defa "Millet İttifakı" olarak tanımladı.<ref name="altilimasa">{{Web kaynağı | url = https://www.birgun.net/haber/altili-masa-millet-ittifaki-oldu-meclis-karar-almadikca-erdogan-aday-olamaz-419054 | başlık = Altılı Masa, Millet İttifakı oldu: Meclis karar almadıkça Erdoğan aday olamaz | erişimtarihi = 27 Ocak 2023 | arşivtarihi = 27 Ocak 2023 | arşivurl = https://web.archive.org/web/20230127081445/https://www.birgun.net/haber/altili-masa-millet-ittifaki-oldu-meclis-karar-almadikca-erdogan-aday-olamaz-419054 | tarih =  | ölüurl = hayır | website = birgun.net}}</ref>
+{| class="wikitable"
+|-
+!Katılma tarihi
+! colspan="3" | Parti
+! colspan="2" | Lider
+! [[Siyasi yelpaze|Siyasi pozisyon]]
+! İdeoloji
+|-
+| rowspan="4" |5 Mayıs 2018 <ref group="not">Millet ittifakı 5 Mayıs 2018'de Saadet Partisi, Cumhuriyet Halk Partisi, İYİ Parti ve Demokrat Parti ile kuruldu</ref>
+! style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi}}; width:2px;" |
+| align="center" | CHP
+| [[Cumhuriyet Halk Partisi]]
+| [[Dosya:Kemal Kılıçdaroğlu in March 2023 (cropped).png|93x93pik]]
+| [[Kemal Kılıçdaroğlu]]
+| [[Merkez sol]]
+| [[Kemalizm#Atatürkçülük|Atatürkçülük]]<br />[[Sosyal demokrasi]]<br />[[İlerlemecilik|İlericilik]]
+|-
+! style="background:{{Siyasi parti renk|Saadet Partisi}}; width:2px;" |
+| align="center" | SAADET
+|[[Saadet Partisi]]
+|[[Dosya:Temel Karamollaoğlu (cropped, 2022).jpg|94x94pik]]
+|[[Temel Karamollaoğlu]]
+|[[Aşırı sağ]]<ref>{{Web kaynağı|url=https://politpro.eu/en/turkey/parties|başlık=Turkey: Parties at a glance|erişimtarihi=20 Mayıs 2023|arşivtarihi=22 Eylül 2020|arşivurl=https://web.archive.org/web/20200922154045/https://politpro.eu/en/turkey/parties|ölüurl=hayır|website=politpro.eu}} "''Saadet (Saadet Partisi) is a far-right party from Turkey.''"</ref>
+|[[Millî Görüş]]<br />[[Sosyal muhafazakârlık]]<br />[[Sosyal adalet]]çilik
+|-
+! style="background:{{Siyasi parti renk|Demokrat Parti (2007)}}; width:2px;" |
+| align="center" | DP
+| [[Demokrat Parti (2007)|Demokrat Parti]]
+| [[Dosya:Gültekin Uysal, January 2023 (cropped).jpg|95x95pik]]
+| [[Gültekin Uysal]]
+| [[Merkez sağ]]
+| [[Kemalizm#Atatürkçülük|Atatürkçülük]]<br />[[Türk milliyetçiliği]]<br />[[Sosyal liberalizm]]
+|-
+! style="background:{{Siyasi parti renk|İYİ Parti}}; width:2px;" |
+| align="center" | İYİ Parti
+|[[İYİ Parti]]
+|[[Dosya:Meral Akşener, November 2021 (1) (cropped).jpg|93x93pik]]
+|[[Meral Akşener]]
+|[[Merkez sağ]]
+|[[Kemalizm#Atatürkçülük|Atatürkçülük]]<br />[[Türk milliyetçiliği]]<br />[[Millî muhafazakârlık]]
+|-
+| rowspan="2" |26 Ocak 2023
+! style="background:{{Siyasi parti renk|Demokrasi ve Atılım Partisi}}; width:2px;" |
+| align="center" | DEVA
+|[[Demokrasi ve Atılım Partisi]]
+|[[Dosya:Ali Babacan, May 21, 2022.jpg|96x96pik]]
+|[[Ali Babacan]]
+|[[Merkez sağ]]
+|[[Liberal muhafazakârlık]]<ref>{{Web kaynağı|url=https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6|başlık=Özal'ın dört eğiliminden Babacan'ın ana akımına: DEVA arayışı…|arşivtarihi=16 Mayıs 2021|arşivurl=https://web.archive.org/web/20210516141830/https://www.indyturk.com/node/147111/t%C3%BCrkiyeden-sesler/%C3%B6zal%E2%80%99%C4%B1n-d%C3%B6rt-e%C4%9Filiminden-babacan%E2%80%99%C4%B1n-ana-ak%C4%B1m%C4%B1na-deva-aray%C4%B1%C5%9F%C4%B1%E2%80%A6}}</ref><ref>{{Web kaynağı|url=https://dergipark.org.tr/en/download/article-file/1295812|başlık=Partileşme Sürecinde İdeolojik Söylem: Demokrasi ve Atılım Partisi ve Gelecek Partisi Programlarında Adalet ve Kalkınma Partisi Eleştirisi|arşivtarihi=4 Eylül 2021|arşivurl=https://web.archive.org/web/20210904022116/https://dergipark.org.tr/en/download/article-file/1295812|tarih=2020|website=dergipark.org.tr}}</ref><br />[[Sosyal liberalizm]]<br />[[Pro-Avrupacılık]]<ref>{{Web kaynağı|url=http://gorunumgazetesi.com.tr/haber/76414/rotamiz-avrupa-birligine-tam-uyelik.html|başlık="Rotamız Avrupa Birliği'ne tam üyelik"|arşivtarihi=28 Ağustos 2021|arşivurl=https://web.archive.org/web/20210828220622/http://gorunumgazetesi.com.tr/haber/76414/rotamiz-avrupa-birligine-tam-uyelik.html}}</ref>
+|-
+! style="background:{{Siyasi parti renk|Gelecek Partisi}}; width:2px;" |
+| align="center" | Gelecek Partisi
+|[[Gelecek Partisi]]
+|[[Dosya:Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg|93x93pik]]
+|[[Ahmet Davutoğlu]]
+|[[Merkez sağ]]
+|[[Muhafazakârlık]]<br />[[Ekonomik liberalizm]]<br />[[Liberal muhafazakârlık]]
+|}
+
+== Yapılanma ==
+{{Ayrıca bakınız|Altılı Masa}}
+===Güçlendirilmiş Parlamenter Sistem Çalışma Komisyonu ===
+Güçlendirilmiş Parlamenter Sistem Çalışma Komisyonu'nun amacı; etkin ve katılımcı bir yasama, istikrarlı, şeffaf ve hesap verebilir bir yürütme, bağımsız ve tarafsız bir yargı ile kuvvetler ayrılığının tesis edildiği güçlü, özgürlükçü, demokratik, adil bir sistem için Güçlendirilmiş Parlamenter Sistem Mutabakat Metnini hazırlamaydı.<ref>{{Web kaynağı | url = https://milletittifaki.biz/guclendirilmis-parlamenter-sistem-calisma-komisyonu/hakkinda | başlık = Hakkında | erişimtarihi = 20 Nisan 2023 | çalışma = milletittifaki.biz | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230420183531/https://milletittifaki.biz/guclendirilmis-parlamenter-sistem-calisma-komisyonu/hakkinda | arşivtarihi = 20 Nisan 2023 | ölüurl = hayır }}</ref>
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Siyasi Parti
+|-
+| 1 ||[[Muharrem Erkek]]|| [[Cumhuriyet Halk Partisi]]
+|-
+| 2 ||[[Mustafa Yeneroğlu]]|| [[Demokrasi ve Atılım Partisi|DEVA Partisi]]
+|-
+| 3 || Bülent Şahinalp|| [[Demokrat Parti (2007)|Demokrat Parti]]
+|-
+| 4 ||[[Ayhan Sefer Üstün]]|| [[Gelecek Partisi]]
+|-
+| 5 ||[[Bahadır Erdem]]|| [[İYİ Parti]]
+|-
+| 6 ||[[Bülent Kaya]]|| [[Saadet Partisi]]
+|}
+=== Seçim Güvenliği Komisyonu ===
+Seçim Güvenliği Komisyonu'nun amacı; seçimlerin mevzuata uygun bir biçimde demokratik ilkeler doğrultusunda düzen ve dürüstlük içinde yürümesi ve halkın iradesinin sandığa yansıması ve sandığa yansıyan iradenin üzerine gölge düşmemesi için gereken tedbirleri almaktaydı.<ref>{{Web kaynağı | url = https://milletittifaki.biz/secim-guvenligi-komisyonu/hakkinda | başlık = Hakkında | erişimtarihi = 20 Nisan 2023 | çalışma = milletittifaki.biz | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230420183531/https://milletittifaki.biz/secim-guvenligi-komisyonu/hakkinda | arşivtarihi = 20 Nisan 2023 | ölüurl = hayır }}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Siyasi Parti
+|-
+| 1 ||[[Oğuz Kaan Salıcı]]|| [[Cumhuriyet Halk Partisi]]
+|-
+| 2 ||[[İdris Şahin]]|| [[Demokrasi ve Atılım Partisi|DEVA Partisi]]
+|-
+| 3 || [[İlay Aksoy]]|| [[Demokrat Parti (2007)|Demokrat Parti]]
+|-
+| 4 ||[[Ayhan Sefer Üstün]]|| [[Gelecek Partisi]]
+|-
+| 5 ||[[Şenol Sunat|Şenol Suat]]|| [[İYİ Parti]]
+|-
+| 6 ||[[Hasan Bitmez]]|| [[Saadet Partisi]]
+|}
+
+==== Türkiye Gönüllüleri ====
+Türkiye Gönüllüleri, [[2023 Türkiye cumhurbaşkanlığı seçimi|2023 Türkiye Cumhurbaşkanlığı]] ve Genel Seçimleri'nde seçim güvenliğini sağlamak amacıyla Millet İttifakı'nın gönüllü seçim güvenliği platformu olarak kurulmuştur. 81 ilde ve yurt dışında gönüllü organizasyonuyla ıslak imzalı sonuç tutanaklarının toplanmasını hedeflemektedir. Platform 19 Mart 2023 tarihinde [[İstanbul belediye başkanları listesi|İstanbul Büyükşehir Belediye Başkanı]] [[Ekrem İmamoğlu]] ve [[Ankara belediye başkanları listesi|Ankara Büyükşehir Belediye Başkanı]] [[Mansur Yavaş]] tarafından duyurulmuştur.<ref>{{Web kaynağı | url = https://www.cumhuriyet.com.tr/siyaset/ekrem-imamoglu-ve-mansur-yavastan-secim-guvenligi-mesaji-2062622 | başlık = Ekrem İmamoğlu ve Mansur Yavaş'tan seçim güvenliği mesajı! | erişimtarihi = 29 Nisan 2023 | dil = Türkçe | çalışma = [[Cumhuriyet (gazete)|Cumhuriyet]] | arşivurl = https://web.archive.org/web/20230319195900/https://www.cumhuriyet.com.tr/siyaset/ekrem-imamoglu-ve-mansur-yavastan-secim-guvenligi-mesaji-2062622 | arşivtarihi = 19 Mart 2023}}</ref> Millet İttifakı Cumhurbaşkanı adayı [[Kemal Kılıçdaroğlu]] da seçim güvenliğine ve Türkiye Gönüllüleri'ne olan ihtiyaca dikkat çekmiştir.<ref>{{Web kaynağı | url = https://www.karar.com/guncel-haberler/son-dakika-kilicdaroglundan-secmene-sandik-guvenligi-cagrisi-turkiye-1743110 | başlık = Kılıçdaroğlu'ndan seçmene 'Sandık güvenliği' çağrısı: Türkiye Gönüllüleri'ne kaydolun | erişimtarihi = 29 Nisan 2023 | dil = Türkçe | çalışma = KARAR | arşivurl = https://web.archive.org/web/20230415142945/https://www.karar.com/guncel-haberler/son-dakika-kilicdaroglundan-secmene-sandik-guvenligi-cagrisi-turkiye-1743110 | arşivtarihi = 15 Nisan 2023}}</ref>
+
+=== Kurumsal Reformlar Komisyonu ===
+Kurumsal Reformlar Komisyonu, Liderlerin 24 Nisan 2022 tarihli toplantısında alınan kararla; kamu maliyesindeki gerçek durumun ve geleceğe yönelik yükümlülüklerin tespiti, Ekonomik ve Sosyal Konseye işlevsellik kazandırılması, Merkez Bankası bağımsızlığının teminat altına alınması ve uzun vadeli strateji ve planlamadan sorumlu bir kurumsal yapının oluşturulması konularında çalışmak üzere görevlendirilmiştir.
+
+Komisyon hazırlamış olduğu raporu 13 Haziran 2022 tarihinde düzenlenen basın toplantısıyla kamuoyuyla paylaşmıştır.<ref>{{Web kaynağı | url = https://milletittifaki.biz/kurumsal-reformlar-komisyonu/hakkinda | başlık = Hakkında | erişimtarihi = 20 Nisan 2023 | çalışma = milletittifaki.biz | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230420183532/https://milletittifaki.biz/kurumsal-reformlar-komisyonu/hakkinda | arşivtarihi = 20 Nisan 2023 | ölüurl = hayır }}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Siyasi Parti
+|-
+| 1 ||[[Faik Öztrak]]|| [[Cumhuriyet Halk Partisi]]
+|-
+| 2 ||[[İbrahim Halil Çanakcı|İbrahim Çanakçı]]|| [[Demokrasi ve Atılım Partisi|DEVA Partisi]]
+|-
+| 3 || Bülent Şahinalp|| [[Demokrat Parti (2007)|Demokrat Parti]]
+|-
+| 4 ||[[Feridun Bilgin]]|| [[Gelecek Partisi]]
+|-
+| 5 ||[[Durmuş Yılmaz]]|| [[İYİ Parti]]
+|-
+| 6 ||[[Sabri Tekir]]|| [[Saadet Partisi]]
+|}
+
+=== Anayasal ve Yasal Reformlar Komisyonu ===
+Anayasal ve Yasal Reformlar Komisyonu'nun temel amacı, Güçlendirilmiş Parlamenter Sistem Mutabakat Metni doğrultusunda yapılması gereken Anayasal ve yasal değişikliklerin yazım çalışmalarını yürütmekteydi.<ref>{{Web kaynağı | url = https://milletittifaki.biz/anayasal-ve-yasal-reformlar-komisyonu/hakkinda | başlık = Hakkında | erişimtarihi = 20 Nisan 2023 | çalışma = milletittifaki.biz | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230420183541/https://milletittifaki.biz/anayasal-ve-yasal-reformlar-komisyonu/hakkinda | arşivtarihi = 20 Nisan 2023 | ölüurl = hayır }}</ref>
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Siyasi Parti
+|-
+| 1 ||[[Muharrem Erkek]]|| [[Cumhuriyet Halk Partisi]]
+|-
+| 2 ||[[Mustafa Yeneroğlu]]|| [[Demokrasi ve Atılım Partisi|DEVA Partisi]]
+|-
+| 3 ||Serhan Yücel|| [[Demokrat Parti (2007)|Demokrat Parti]]
+|-
+| 4 ||[[Serap Yazıcı Özbudun|Serap Yazıcı]]|| [[Gelecek Partisi]]
+|-
+| 5 ||[[Uğur Poyraz]]|| [[İYİ Parti]]
+|-
+| 6 ||[[Bülent Kaya]]|| [[Saadet Partisi]]
+|}
+
+=== İletişim Komisyonu ===
+İletişim Komisyonu'nun temel amacı, Liderler Buluşmalarının sonucu oluşan mutabakat metinlerinin ve 6'lı masanın çalışma komisyonlarının hazırlamış olduğu metinlerin, raporların ve çıktıların kamuoyuna etkili bir şekilde aktarımını sağlamaktaydı.<ref>{{Web kaynağı | url = https://milletittifaki.biz/iletisim-komisyonu/hakkinda | başlık = Hakkında | erişimtarihi = 20 Nisan 2023 | çalışma = milletittifaki.biz | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230420183531/https://milletittifaki.biz/iletisim-komisyonu/hakkinda | arşivtarihi = 20 Nisan 2023 | ölüurl = hayır }}</ref>
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Siyasi Parti
+|-
+| 1 ||[[Gamze Akkuş İlgezdi]]|| [[Cumhuriyet Halk Partisi]]
+|-
+| 2 ||[[Sanem Oktar]]|| [[Demokrasi ve Atılım Partisi|DEVA Partisi]]
+|-
+| 3 ||[[Faik Tunay]]|| [[Demokrat Parti (2007)|Demokrat Parti]]
+|-
+| 4 ||Mustafa Mente|| [[Gelecek Partisi]]
+|-
+| 5 ||[[Bahadır Erdem]]|| [[İYİ Parti]]
+|-
+| 6 ||Yusuf Sunar|| [[Saadet Partisi]]
+|}
+
+=== Temel Politikalar Ortak Çalışma Grubu ===
+Ortak Çalışma Grubu'nun temel amacı, Liderlerin 2 Ekim 2022 tarihli buluşmasında kararlaştıkları üzere, önemli temel politika alanlarında halkımızın menfaatleri doğrultusunda ortak politikalar belirlenmesine ve bu politikaların ortak taahhütler olarak kamuoyuna ilan edilmesine yönelik çalışmaları yürütmekteydi.
+
+Ortak Çalışma Grubu çalışmalarını aşağıdaki 9 ana alanda yürütmekteydi:
+
+* Hukuk, adalet ve yargı
+* Kamu yönetimi,
+* Şeffaflık, denetim ve yolsuzlukla mücadele,
+* Ekonomi, finans ve istihdam,
+* Sektörel ve bölgesel konular,
+* Bilim ve teknoloji,
+* Eğitim ve öğretim
+* Sosyal politikalar
+* Dış politika, güvenlik ve savunma<ref>{{Web kaynağı | url = https://milletittifaki.biz/temel-politikalar-ortak-calisma-grubu/hakkinda | başlık = Hakkında | erişimtarihi = 20 Nisan 2023 | çalışma = milletittifaki.biz | arşivengelli = evet | arşivurl = https://web.archive.org/web/20230420183531/https://milletittifaki.biz/temel-politikalar-ortak-calisma-grubu/hakkinda | arşivtarihi = 20 Nisan 2023 | ölüurl = hayır }}</ref>
+
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! #
+! Adı
+! Siyasi Parti
+|-
+| 1 ||[[Faik Öztrak]]|| [[Cumhuriyet Halk Partisi]]
+|-
+| 2 ||[[İbrahim Halil Çanakcı|İbrahim Çanakçı]]|| [[Demokrasi ve Atılım Partisi|DEVA Partisi]]
+|-
+| 3 ||Bülent Şahinalp|| [[Demokrat Parti (2007)|Demokrat Parti]]
+|-
+| 4 ||[[Feridun Bilgin]]|| [[Gelecek Partisi]]
+|-
+| 5 ||[[Ümit Özlale]]|| [[İYİ Parti]]
+|-
+| 6 ||[[Sabri Tekir]]|| [[Saadet Partisi]]
+|}
+
+== Seçim sonuçları ==
+
+=== Genel seçimler ===
+{| class="wikitable mw-collapsible" style="text-align:center; font-size:90%;"
+|+ [[Türkiye Büyük Millet Meclisi]]
+! rowspan=2| Seçim
+! colspan="3" rowspan="2" |Parti
+! colspan="2" |Lider
+! colspan="3" | Oy 
+! colspan=1| Sandalye
+! colspan=1  rowspan="2"| Meclis
+! rowspan=2| Harita
+|-
+!Fotoğraf
+!Adı
+!Oy sayısı
+! style="width:50px" | %
+! style="width:50px"| Sıralama
+! style="width:50px"| #
+|-
+! rowspan="4" |[[2018 Türkiye genel seçimleri|2018]]
+! style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi}}; width:2px;"|
+|CHP
+|[[Cumhuriyet Halk Partisi]]
+|[[Dosya:Kemal Kılıçdaroğlu in March 2023 (cropped).png|81x81pik]]
+| [[Kemal Kılıçdaroğlu]]
+| 11.354.190
+| 22,65
+| 2. 
+| style="text-align:center;" | '''{{Composition bar|146|600|hex=#ed1c24}}'''
+| rowspan="3" {{hayır2|Azınlık}}
+| rowspan="3" |[[Dosya:MILLET2018.png|200px]]
+|-
+! style="background:{{Siyasi parti renk|İYİ Parti}}; width:2px;"|
+|İYİ Parti
+|[[İYİ Parti]]
+|[[Dosya:Meral Akşener, November 2021 (1) (cropped).jpg|80x80pik]]
+|[[Meral Akşener]]
+|4.993.479
+|9,96
+|5.
+|'''{{Composition bar|43|600|hex=#3db5e6}}'''
+|-
+! style="background:{{Siyasi parti renk|Saadet Partisi}}; width:2px;"|
+|SAADET
+|[[Saadet Partisi]]
+|[[Dosya:Temel Karamollaoğlu (cropped, 2022).jpg|81x81pik]]
+|[[Temel Karamollaoğlu]]
+|672.139
+|1,34
+|6.
+|{{Composition bar|0|600|hex={{Siyasi parti renk|Saadet Partisi}}}}
+|-
+! colspan="5" |Toplam
+!17.019.808
+!33,99
+!2.
+!{{Composition bar|189|600|hex=#ED1C24}}<ref group="not">Saadet Partili 2 vekil CHP listesinden, Demokrat Partili 1 vekil ise İYİ Parti listesinden seçildi. Seçimden sonra 3 vekil partilerine geri döndü.</ref>
+!
+!
+|-
+! rowspan="3" |[[2023 Türkiye genel seçimleri|2023]]
+! colspan="1" style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi}}; width:2px;" |
+| rowspan="1" |CHP
+|[[Cumhuriyet Halk Partisi]]
+|[[Dosya:Kemal Kılıçdaroğlu in March 2023 (cropped).png|81x81pik]]
+|[[Kemal Kılıçdaroğlu]]
+|13.802.183
+|25,35
+|2.
+|{{Composition bar|169|600|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}<ref group="not">[[Demokrasi ve Atılım Partisi]]'nden 15 vekil, [[Gelecek Partisi]]'nden 10 vekil, [[Saadet Partisi]]'nden 10 vekil, [[Demokrat Parti (1946)|Demokrat Parti]]'den 3 vekil ve [[İYİ Parti]]'den 1 vekil CHP listelerinden seçime girerek seçildi. Vekiller seçimden sonra partilerine geri döndükten sonra CHP'li olarak seçilen vekil sayısı 129 oldu. [[Türkiye Değişim Partisi]] Genel Başkanı [[Mustafa Sarıgül]] de [[Cumhuriyet Halk Partisi|CHP]] listelerinden seçime girdi fakat partisine geri dönmedi.</ref>
+| rowspan="2" {{hayır2|Azınlık}}
+| rowspan="2" |[[Dosya:NATION ALLIANCE 2023 VOTES.png|200px]]
+|-
+! colspan="1" style="background:{{Siyasi parti renk|İYİ Parti}}; width:2px;" |
+| rowspan="1" |İYİ Parti
+|[[İYİ Parti]]
+|[[Dosya:Meral Akşener, November 2021 (1) (cropped).jpg|80x80pik]]
+|[[Meral Akşener]]
+|5.275.981
+|9,69
+|4.
+|'''{{Composition bar|43|600|hex=#3db5e6}}'''
+|-
+! colspan="5" |Toplam
+!19.078.164
+!35,04
+!2.
+!{{Composition bar|212|600|hex=#ED1C24}}
+! colspan="2" |
+|}
+
+=== Yerel seçimler ===
+{| class="wikitable mw-collapsible" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! colspan="3" |Parti
+! colspan="2" |Lider
+! rowspan="2" |Sıra
+! colspan="3" |Belediye Başkanlığı
+! colspan="3" |Büyükşehir Belediye Başkanlığı
+! colspan="3" |İl Genel Meclis Üyeliği
+! colspan="3" |Belediye Meclis Üyeliği
+|-
+! colspan="2" |Kısaltma
+!Adı
+!Fotoğraf
+!Adı
+!Oy
+!''' %'''
+!Kazanılan
+!Oy
+!''' %'''
+!Kazanılan
+!Oy
+!''' %'''
+!Kazanılan
+!Oy
+! %
+!Kazanılan
+|-
+! rowspan="3" |[[2019 Türkiye yerel seçimleri|2019]]
+! style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi}}; width:2px;" |
+|CHP
+|[[Cumhuriyet Halk Partisi]]
+|[[Dosya:Kemal Kılıçdaroğlu in March 2023 (cropped).png|81x81pik]]
+|[[Kemal Kılıçdaroğlu]]
+|2.
+|12.868.053
+|'''%29,81'''
+|{{Composition bar|240|1355|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}%17,21
+|7.979.740
+|'''%29,14'''
+|{{Composition bar|10|29|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}%34,48
+|1.834.598
+|'''%17,76'''
+|{{Composition bar|184|1272|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}%14,47
+|12.625.346
+|'''%29,36'''
+|{{Composition bar|4613|20745|hex={{Siyasi parti renk|Cumhuriyet Halk Partisi}}}}%22,24
+|-
+! style="background:{{Siyasi parti renk|İYİ Parti}}; width:2px;" |
+|İYİ Parti
+|[[İYİ Parti]]
+|[[Dosya:Meral Akşener, November 2021 (1) (cropped).jpg|80x80pik]]
+|[[Meral Akşener]]
+|5.
+|3.351.438
+|'''%7,76'''
+|{{Composition bar|24|1355|hex={{Siyasi parti renk|İYİ Parti}}}}%1,77
+|2.607.640
+|'''%9,52'''
+|{{Composition bar|0|29|hex={{Siyasi parti renk|İYİ Parti}}}}%0
+|852.582
+|'''%8,12'''
+|{{Composition bar|23|1272|hex={{Siyasi parti renk|İYİ Parti}}}}%1,81
+|3.142.757
+|'''%7,31'''
+|{{Composition bar|1092|20745|hex={{Siyasi parti renk|İYİ Parti}}}}%5,26
+|-
+| colspan="6" |TOPLAM
+|16.219.491
+|'''%37,57'''
+|{{Composition bar|264|1355|hex=#ED1C24}}%18,98
+|10.587.380
+|'''%38.66'''
+|{{Composition bar|10|29|hex=#ED1C24}}%34,48
+|2.687.180
+|'''%25,88'''
+|{{Composition bar|207|1272|hex=#ED1C24}}%16,28
+|15.768.103
+|'''%36,67'''
+|{{Composition bar|5705|20745|hex=#ED1C24}}%27,5
+|}
+
+==== 2019 İstanbul ara yerel seçimi ====
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" |Seçim
+! colspan="3" |Parti
+! rowspan="2" |Aday
+! rowspan="2" |Sıra
+! rowspan="2" |Oy
+! rowspan="2" |''' %'''
+|-
+! colspan="2" |Kısaltma
+!Adı
+|-
+![[2019 İstanbul ara yerel seçimi|23 Haziran 2019]]
+! style="background:{{Siyasi parti renk|Cumhuriyet Halk Partisi}}; width:2px;" |
+|CHP
+|[[Cumhuriyet Halk Partisi]]
+|[[Ekrem İmamoğlu]]
+|1.
+|4.742.082
+|{{Yüzde çubuğu|54.2|%54.2|ED1822}}
+|}
+
+== Notlar ==
+{{not listesi}}
+<references group="not" />
+
+== Kaynakça ==
+{{Kaynakça}}
+
+== Dış bağlantılar ==
+
+* {{Resmî site|https://milletittifaki.biz/}}
+* [https://turkiyeninmasasi.com/ Millet İttifakı Ortak Politikalar Mutabakat Metni] {{Webarşiv|url=https://web.archive.org/web/20230419204310/https://turkiyeninmasasi.com/ |tarih=19 Nisan 2023 }}
+* [https://milletinmasasi.com/ Milletin Masası] {{Webarşiv|url=https://web.archive.org/web/20230420100240/https://milletinmasasi.com/ |tarih=20 Nisan 2023 }}
+
+{{2023 Türkiye seçimleri}}
+{{Türkiye'deki siyasi ittifaklar}}{{Millî Görüş}}{{Saadet Partisi}}
+{{Otorite kontrolü}}
+
+[[Kategori:Millet İttifakı| ]]
+[[Kategori:Türkiye'deki eski siyasi ittifaklar]]
+[[Kategori:2018'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:2018 Türkiye genel seçimleri]]
+[[Kategori:2023 Türkiye genel seçimleri]]
+[[Kategori:2023'te Türkiye'de feshedilmiş oluşumlar]]

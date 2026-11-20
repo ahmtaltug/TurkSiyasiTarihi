@@ -1,0 +1,1120 @@
+{{Short description|None}}
+This is a '''list of [[Provinces of Turkey|Turkish provinces]] by GDP''' and GDP per capita.
+
+== List of provinces by GDP ==
+Provinces by GDP in 2021 according to data by the [[Turkish Statistical Institute]].<ref name=":1">{{Cite web |title=Statistics by Theme > National Accounts > Regional Accounts |url=https://biruni.tuik.gov.tr/ilgosterge/?locale=tr |access-date=11 May 2023 |website=www.turkstat.gov.tr}}</ref>
+{| class="wikitable sortable"
+|+List of provinces in Turkey by GDP in 2021 (millions of GDP)
+!
+! colspan="4" |Average annual exchange rate in 2021: TRY 8.9808 per U.S. dollar
+|-
+!Rank
+!Provinces
+!GDP
+({{abbr|TRY|Turkish lira}})
+!GDP
+(US$)
+!Share
+{{small|(%)}}
+|-
+|1
+|[[Istanbul Province|Istanbul]]
+|2,202,156
+|276,207
+|30.38
+|-
+|2
+|[[Ankara Province|Ankara]]
+|667,142
+|74,285
+|9.20
+|-
+|3
+|[[İzmir Province|İzmir]]
+|462,151
+|51,460
+|6.38
+|-
+|4
+|[[Kocaeli Province|Kocaeli]]
+|309,314
+|34,442
+|4.27
+|-
+|5
+|[[Bursa Province|Bursa]]
+|302,121
+|33,641
+|4.17
+|-
+|6
+|[[Antalya Province|Antalya]]
+|208,472
+|23,213
+|2.88
+|-
+|7
+|[[Konya Province|Konya]]
+|149,229
+|16,616
+|2.06
+|-
+|8
+|[[Gaziantep Province|Gaziantep]]
+|148,588
+|16,545
+|2.05
+|-
+|9
+|[[Tekirdağ Province|Tekirdağ]]
+|145,716
+|16,225
+|2.01
+|-
+|10
+|[[Adana Province|Adana]]
+|141,673
+|15,775
+|1.95
+|-
+|11
+|[[Mersin Province|Mersin]]
+|139,761
+|15,562
+|1.93
+|-
+|12
+|[[Manisa Province|Manisa]]
+|122,438
+|13,633
+|1.69
+|-
+|13
+|[[Kayseri Province|Kayseri]]
+|107,378
+|11,956
+|1.49
+|-
+|14
+|[[Hatay Province|Hatay]]
+|101,462
+|11,298
+|1.40
+|-
+|15
+|[[Balıkesir Province|Balıkesir]]
+|90,054
+|10,027
+|1.24
+|-
+|16
+|[[Muğla Province|Muğla]]
+|84,810
+|9,444
+|1.17
+|-
+|17
+|[[Sakarya Province|Sakarya]]
+|81,740
+|9,102
+|1.13
+|-
+|18
+|[[Eskişehir Province|Eskişehir]]
+|81,527
+|9,078
+|1.12
+|-
+|19
+|[[Denizli Province|Denizli]]
+|81,382
+|9,062
+|1.12
+|-
+|20
+|[[Samsun Province|Samsun]]
+|74,830
+|8,332
+|1.03
+|-
+|21
+|[[Aydın Province|Aydın]]
+|65,204
+|7,260
+|0.90
+|-
+|22
+|[[Kahramanmaraş Province|Kahramanmaraş]]
+|63,004
+|7,015
+|0.87
+|-
+|23
+|[[Diyarbakır Province|Diyarbakır]]
+|62,494
+|6,959
+|0.86
+|-
+|24
+|[[Şanlıurfa Province|Şanlıurfa]]
+|57,589
+|6,413
+|0.80
+|-
+|25
+|[[Çanakkale Province|Çanakkale]]
+|49,142
+|5,472
+|0.68
+|-
+|26
+|[[Trabzon Province|Trabzon]]
+|43,979
+|4,897
+|0.61
+|-
+|27
+|[[Mardin Province|Mardin]]
+|42,541
+|4,737
+|0.59
+|-
+|28
+|[[Zonguldak Province|Zonguldak]]
+|42,031
+|4,680
+|0.58
+|-
+|29
+|[[Afyonkarahisar Province|Afyonkarahisar]]
+|40,975
+|4,563
+|0.57
+|-
+|30
+|[[Malatya Province|Malatya]]
+|38,831
+|4,324
+|0.54
+|-
+|31
+|[[Kütahya Province|Kütahya]]
+|38,655
+|4,304
+|0.53
+|-
+|32
+|[[Sivas Province|Sivas]]
+|36,080
+|4,018
+|0.50
+|-
+|33
+|[[Kırklareli Province|Kırklareli]]
+|35,220
+|3,922
+|0.49
+|-
+|34
+|[[Erzurum Province|Erzurum]]
+|35,185
+|3,918
+|0.49
+|-
+|35
+|[[Elazığ Province|Elazığ]]
+|33,124
+|3,688
+|0.46
+|-
+|36
+|[[Ordu Province|Ordu]]
+|33,093
+|3,685
+|0.46
+|-
+|37
+|[[Van Province|Van]]
+|31,824
+|3,544
+|0.44
+|-
+|38
+|[[Osmaniye Province|Osmaniye]]
+|30,946
+|3,446
+|0.43
+|-
+|39
+|[[Düzce Province|Düzce]]
+|30,547
+|3,041
+|0.42
+|-
+|40
+|[[Yalova Province|Yalova]]
+|29,308
+|3,263
+|0.40
+|-
+|41
+|[[Bolu Province|Bolu]]
+|29,265
+|3,259
+|0.40
+|-
+|42
+|[[Edirne Province|Edirne]]
+|28,029
+|3,121
+|0.39
+|-
+|43
+|[[Uşak Province|Uşak]]
+|27,670
+|3,081
+|0.38
+|-
+|44
+|[[Aksaray Province|Aksaray]]
+|27,622
+|3,076
+|0.38
+|-
+|45
+|[[Isparta Province|Isparta]]
+|27,333
+|3,044
+|0.38
+|-
+|46
+|[[Çorum Province|Çorum]]
+|25,758
+|2,868
+|0.36
+|-
+|47
+|[[Kastamonu Province|Kastamonu]]
+|25,542
+|2,844
+|0.35
+|-
+|48
+|[[Şırnak Province|Şırnak]]
+|24,415
+|2,719
+|0.34
+|-
+|49
+|[[Tokat Province|Tokat]]
+|24,396
+|2,717
+|0.34
+|-
+|50
+|[[Adıyaman Province|Adıyaman]]
+|23,236
+|2,587
+|0.32
+|-
+|51
+|[[Bilecik Province|Bilecik]]
+|23,515
+|2,618
+|0.32
+|-
+|52
+|[[Batman Province|Batman]]
+|22,798
+|2,539
+|0.32
+|-
+|53
+|[[Giresun Province|Giresun]]
+|21,234
+|2,364
+|0.29
+|-
+|54
+|[[Rize Province|Rize]]
+|20,209
+|2,250
+|0.28
+|-
+|55
+|[[Erzincan Province|Erzincan]]
+|20,019
+|2,229
+|0.28
+|-
+|56
+|[[Niğde Province|Niğde]]
+|19,603
+|2,183
+|0.27
+|-
+|57
+|[[Kırıkkale Province|Kırıkkale]]
+|18,663
+|2,078
+|0.26
+|-
+|58
+|[[Yozgat Province|Yozgat]]
+|18,313
+|2,039
+|0.25
+|-
+|59
+|[[Karaman Province|Karaman]]
+|18,109
+|2,016
+|0.25
+|-
+|60
+|[[Burdur Province|Burdur]]
+|18,025
+|2,007
+|0.25
+|-
+|61
+|[[Amasya Province|Amasya]]
+|17,699
+|1,971
+|0.24
+|-
+|62
+|[[Karabük Province|Karabük]]
+|17,120
+|1,906
+|0.24
+|-
+|63
+|[[Nevşehir Province|Nevşehir]]
+|15,807
+|1,760
+|0.22
+|-
+|64
+|[[Artvin Province|Artvin]]
+|15,303
+|1,704
+|0.21
+|-
+|65
+|[[Muş Province|Muş]]
+|14,279
+|1,590
+|0.20
+|-
+|66
+|[[Ağrı Province|Ağrı]]
+|14,225
+|1,584
+|0.20
+|-
+|67
+|[[Kırşehir Province|Kırşehir]]
+|13,959
+|1,554
+|0.19
+|-
+|68
+|[[Çankırı Province|Çankırı]]
+|13,907
+|1,549
+|0.19
+|-
+|69
+|[[Siirt Province|Siirt]]
+|13,165
+|1,466
+|0.18
+|-
+|70
+|[[Hakkâri Province|Hakkâri]]
+|12,407
+|1,382
+|0.17
+|-
+|71
+|[[Bitlis Province|Bitlis]]
+|12,256
+|1,365
+|0.17
+|-
+|72
+|[[Bingöl Province|Bingöl]]
+|12,102
+|1,348
+|0.17
+|-
+|73
+|[[Kars Province|Kars]]
+|11,720
+|1,305
+|0.16
+|-
+|74
+|[[Bartın Province|Bartın]]
+|10,683
+|1,190
+|0.15
+|-
+|75
+|[[Sinop Province|Sinop]]
+|9,997
+|1,113
+|0.14
+|-
+|76
+|[[Iğdır Province|Iğdır]]
+|9,817
+|1,093
+|0.14
+|-
+|77
+|[[Gümüşhane Province|Gümüşhane]]
+|6,939
+|773
+|0.10
+|-
+|78
+|[[Kilis Province|Kilis]]
+|7,007
+|780
+|0.10
+|-
+|79
+|[[Tunceli Province|Tunceli]]
+|6,099
+|679
+|0.08
+|-
+|80
+|[[Ardahan Province|Ardahan]]
+|4,968
+|553
+|0.07
+|-
+|81
+|[[Bayburt Province|Bayburt]]
+|3,861
+|430
+|0.05
+|-
+!
+!{{TUR}}
+!'''7.248,789'''
+!807,143
+!100
+|}
+
+== List of provinces by GDP per capita ==
+Provinces by GDP per capita in 2024 according to data by the [[Turkish Statistical Institute]].<ref name=":1" />
+{| class="wikitable sortable"
+|+List of provinces in Turkey by GDP per capita in 2024
+!
+! colspan="5" |Average annual exchange rate in 2024: TRY '''23.8136''' per U.S. dollar, TRY '''12.548''' per [[international dollar]]<ref name="IMFPPP"/>
+|-
+!Rank
+!Provinces
+!GDP per capita
+({{abbr|TRY|Turkish lira}})
+!GDP per capita
+(US$)
+!GDP per capita
+(PPP)
+!Share
+{{small|(%)}}
+|-
+|1
+|[[İstanbul Province|İstanbul]]
+|802.669
+|24,452
+|63,968
+|163
+|-
+|2
+|[[Kocaeli Province|Kocaeli]]
+|788.873
+|24,031
+|62,868
+|171
+|-
+|3
+|[[Ankara Province|Ankara]]
+|788.859
+|24,031
+|62,867
+|144
+|-
+|4
+|[[Tekirdağ Province|Tekirdağ]]
+|604.226
+|18,406
+|48,153
+|131
+|-
+|5
+|[[Antalya Province|Antalya]]
+|561.429
+|17,103
+|44,743
+|112
+|-
+|6
+|[[İzmir Province|İzmir]]
+|556.376
+|16,949
+|44,340
+|124
+|-
+|7
+|[[Bolu Province|Bolu]]
+|548.317
+|16,703
+|43,698
+|106
+|-
+|8
+|[[Kırklareli Province|Kırklareli]]
+|531.388
+|16,188
+|42,348
+|109
+|-
+|9
+|[[Eskişehir Province|Eskişehir]]
+|530.834
+|16,171
+|42,304
+|104
+|-
+|10
+|[[Bilecik Province|Bilecik]]
+|527.473
+|16,068
+|42,036
+|117
+|-
+|11
+|[[Muğla Province|Muğla]]
+|526.553
+|16,040
+|41,963
+|106
+|-
+|12
+|[[Yalova Province|Yalova]]
+|501.231
+|15,269
+|39,945
+|114
+|-
+|13
+|[[Bursa Province|Bursa]]
+|492.876
+|15,014
+|39,279
+|108
+|-
+|14
+|[[Çanakkale Province|Çanakkale]]
+|482.680
+|14,704
+|38,467
+|104
+|-
+|15
+|[[Sakarya Province|Sakarya]]
+|479.426
+|14,605
+|38,207
+|95
+|-
+|16
+|[[Tunceli Province|Tunceli]]
+|478.675
+|14,582
+|38,147
+|84
+|-
+|17
+|[[Karaman Province|Karaman]]
+|471.850
+|14,374
+|37,604
+|92
+|-
+|18
+|[[Balıkesir Province|Balıkesir]]
+|459.714
+|14,004
+|36,636
+|89
+|-
+|19
+|[[Manisa Province|Manisa]]
+|454.705
+|13,852
+|36,237
+|96
+|-
+|20
+|[[Düzce Province|Düzce]]
+|450.404
+|13,721
+|35,894
+|90
+|-
+|21
+|[[Mersin Province|Mersin]]
+|444.761
+|13,549
+|35,445
+|93
+|-
+|22
+|[[Kırıkkale Province|Kırıkkale]]
+|436.061
+|13,284
+|34,751
+|89
+|-
+|23
+|[[Çankırı Province|Çankırı]]
+|430.386
+|13,111
+|34,299
+|83
+|-
+|24
+|[[Edirne Province|Edirne]]
+|417.266
+|12,711
+|33,254
+|84
+|-
+|25
+|[[Denizli Province|Denizli]]
+|411.046
+|12,522
+|34,758
+|85
+|-
+|26
+|[[Kütahya Province|Kütahya]]
+|406.533
+|12,384
+|34,398
+|77
+|-
+|27
+|[[Aksaray Province|Aksaray]]
+|404.383
+|12,319
+|32,227
+|84
+|-
+|28
+|[[Kayseri Province|Kayseri]]
+|403.635
+|12,296
+|32,167
+|88
+|-
+|29
+|[[Uşak Province|Uşak]]
+|397.680
+|12,114
+|31,693
+|74
+|-
+|30
+|[[Kastamonu Province|Kastamonu]]
+|395.056
+|12,035
+|31,484
+|76
+|-
+|31
+|[[Erzincan Province|Erzincan]]
+|394.311
+|12,012
+|31,424
+|87
+|-
+|32
+|[[Burdur Province|Burdur]]
+|392.276
+|11,950
+|31,262
+|82
+|-
+|33
+|[[Artvin Province|Artvin]]
+|390.108
+|11,884
+|31,089
+|73
+|-
+|34
+|[[Konya Province|Konya]]
+|388.841
+|11,845
+|30,988
+|79
+|-
+|35
+|[[Isparta Province|Isparta]]
+|388.226
+|11,826
+|30,939
+|76
+|-
+|36
+|[[Aydın Province|Aydın]]
+|387.277
+|11,798
+|30,864
+|71
+|-
+|37
+|[[Ardahan Province|Ardahan]]
+|385.104
+|11,731
+|30,690
+|66
+|-
+|38
+|[[Karabük Province|Karabük]]
+|369.785
+|11,265
+|29,470
+|66
+|-
+|39
+|[[Samsun Province|Samsun]]
+|369.415
+|11,253
+|29,440
+|71
+|-
+|40
+|[[Malatya Province|Malatya]]
+|365.880
+|11,146
+|29,158
+|57
+|-
+|41
+|[[Nevşehir Province|Nevşehir]]
+|365.241
+|11,126
+|29,108
+|69
+|-
+|42
+|[[Zonguldak Province|Zonguldak]]
+|364.851
+|11,114
+|29,076
+|79
+|-
+|43
+|[[Niğde Province|Niğde]]
+|362.804
+|11,052
+|28,913
+|64
+|-
+|44
+|[[Rize Province|Rize]]
+|355.740
+|10,837
+|28,350
+|58
+|-
+|45
+|[[Sivas Province|Sivas]]
+|351.134
+|10,697
+|27,983
+|64
+|-
+|46
+|[[Adana Province|Adana]]
+|350.981
+|10,692
+|27,971
+|79
+|-
+|47
+|[[Elazığ Province|Elazığ]]
+|349.939
+|10,660
+|27,888
+|63
+|-
+|48
+|[[Kırşehir Province|Kırşehir]]
+|347.041
+|10,572
+|27,657
+|69
+|-
+|49
+|[[Hatay Province|Hatay]]
+|346.978
+|10,570
+|27,652
+|65
+|-
+|50
+|[[Amasya Province|Amasya]]
+|346.376
+|10,552
+|27,604
+|61
+|-
+|51
+|[[Trabzon Province|Trabzon]]
+|345.969
+|10,539
+|27,572
+|60
+|-
+|52
+|[[Kahramanmaraş Province|Kahramanmaraş]]
+|342.387
+|10,430
+|27,286
+|64
+|-
+|53
+|[[Afyonkarahisar Province|Afyonkarahisar]]
+|336.256
+|10,243
+|26,798
+|65
+|-
+|54
+|[[Bayburt Province|Bayburt]]
+|331.432
+|10,096
+|26,413
+|48
+|-
+|55
+|[[Çorum Province|Çorum]]
+|328.605
+|10,010
+|26,188
+|57
+|-
+|56
+|[[Adıyaman Province|Adıyaman]]
+|327.509
+|9,977
+|26,100
+|48
+|-
+|57
+|[[Erzurum Province|Erzurum]]
+|321.146
+|9,783
+|25,593
+|53
+|-
+|58
+|[[Sinop Province|Sinop]]
+|321.023
+|9,779
+|25,584
+|57
+|-
+|59
+|[[Bartın Province|Bartın]]
+|318.484
+|9,702
+|25,381
+|58
+|-
+|60
+|[[Gaziantep Province|Gaziantep]]
+|318.204
+|9,693
+|25,359
+|77
+|-
+|61
+|[[Osmaniye Province|Osmaniye]]
+|316.158
+|9,631
+|25,196
+|58
+|-
+|62
+|[[Giresun Province|Giresun]]
+|307.828
+|9,377
+|24,532
+|49
+|-
+|63
+|[[Şırnak Province|Şırnak]]
+|306.150
+|9,326
+|24,398
+|55
+|-
+|64
+|[[Hakkâri Province|Hakkari]]
+|304.752
+|9,284
+|24,287
+|51
+|-
+|65
+|[[Yozgat Province|Yozgat]]
+|303.087
+|9,233
+|24,154
+|53
+|-
+|66
+|[[Kars Province|Kars]]
+|302.089
+|9,203
+|24,075
+|45
+|-
+|67
+|[[Ordu Province|Ordu]]
+|293.783
+|8,949
+|23,413
+|48
+|-
+|68
+|[[Gümüşhane Province|Gümüşhane]]
+|287.458
+|8,783
+|22,909
+|45
+|-
+|69
+|[[Bingöl Province|Bingöl]]
+|276.713
+|8,429
+|22,052
+|45
+|-
+|70
+|[[Iğdır Province|Iğdır]]
+|264.690
+|8,063
+|21,094
+|46
+|-
+|71
+|[[Tokat Province|Tokat]]
+|264.527
+|8,058
+|21,081
+|44
+|-
+|72
+|[[Siirt Province|Siirt]]
+|261.810
+|7,975
+|20,865
+|50
+|-
+|73
+|[[Kilis Province|Kilis]]
+|253.567
+|7,724
+|20,208
+|67
+|-
+|74
+|[[Mardin Province|Mardin]]
+|247.416
+|7,537
+|19,718
+|52
+|-
+|75
+|[[Diyarbakır Province|Diyarbakır]]
+|245.024
+|7,464
+|19,527
+|41
+|-
+|76
+|[[Batman Province|Batman]]
+|236.422
+|7,202
+|18,841
+|44
+|-
+|77
+|[[Bitlis Province|Bitlis]]
+|231.869
+|7,063
+|18,479
+|38
+|-
+|78
+|[[Muş Province|Muş]]
+|230.300
+|7,016
+|18,354
+|41
+|-
+|79
+|[[Van Province|Van]]
+|230.049
+|6,185
+|16,182
+|31
+|-
+|80
+|[[Ağrı Province|Ağrı]]
+|194.660
+|5,930
+|15,513
+|31
+|-
+|81
+|[[Şanlıurfa Province|Şanlıurfa]]
+|188.144
+|5,731
+|14,994
+|36
+|-
+!
+!{{TUR}}
+! '''503,076'''
+!'''15,325'''
+!'''40,092'''
+!100
+|}
+
+== See also ==
+*[[Economy of Turkey]]
+*[[List of Turkish regions by Human Development Index]]
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See https://en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{Reflist|refs=<ref name="IMFPPP">the purchasing power parity indicator in World Economic Outlook published in October, 2025 by [[International Monetary Fund]] {{cite web |url=https://www.imf.org/en/Publications/SPROLLS/world-economic-outlook-databases#sort=%40imfdate%20descending|title=World Economic Outlook Database, October 2025|date=October 2025 |website=IMF.org |publisher=[[International Monetary Fund]]|access-date=19 November 2025}}</ref>}}
+<ref name="IMFPPP">the purchasing power parity indicator in World Economic Outlook published in October, 2025 by [[International Monetary Fund]] {{cite web |url=https://www.imf.org/en/Publications/SPROLLS/world-economic-outlook-databases#sort=%40imfdate%20descending|title=World Economic Outlook Database, October 2025|date=October 2025 |website=IMF.org |publisher=[[International Monetary Fund]]|access-date=19 November 2025}}</ref>
+{{GDP country lists}}
+
+{{DEFAULTSORT:Turkish provinces by GDP}}
+[[Category:Economy of Turkey by province| GDP]]
+[[Category:Economy of Turkey-related lists|Provinces by GDP]]
+[[Category:Gross state product]]
+[[Category:Ranked lists of country subdivisions]]

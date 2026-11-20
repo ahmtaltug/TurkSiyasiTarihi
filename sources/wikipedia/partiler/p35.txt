@@ -1,0 +1,118 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Birlik Partisi (1966-1973)<br/>Türkiye Birlik Partisi (1973-1981)
+| kısaltma         = TBP
+| amblem           = File:TBP logo TR.png
+| genel başkanı    = Hüseyin Ekici|genel sekreteri
+| colorcode        = {{Siyasi parti renk|Türkiye Birlik Partisi}}
+| kurucusu         = [[Hasan Tahsin Berkman]]
+| slogan           = 
+| kuruluş          = 17 Ekim 1966
+| kapanış          = 16 Ekim 1981
+| öncülü           = 
+| ardılı           = 
+| ideoloji         = [[Alevilik|Alevi hakları]]<br/>[[Sekülerizm]]<br/>[[Azınlık hakları]]<br>[[Sol popülizm]]<br>
+| pozisyon         = [[Solculuk|Sol]]
+}}
+'''Türkiye Birlik Partisi''' ('''TBP''') (1973'e değin '''Birlik Partisi'''), 1966-1981 arasında etkinlikte bulunan siyasi parti.
+
+[[Alevilik|Alevi]] kökenli bir grup siyaset adamınca 17 Ekim 1966'da Birlik Partisi (BP) adıyla kuruldu, genel başkanlığa [[Hasan Tahsin Berkman]] getirildi. Partinin amblemi [[Ali]]'yi simgeleyen bir aslanla, onun çevresinde [[On İki İmam|12 imam]]ı temsil eden 12 yıldızdan oluşuyordu.<ref>Adviye Fenik, "Arslanlı Parti", Son Havadis Gazetesi, 09.02.1967, sf. 2</ref>
+
+Birlik Partisi programında din ve vicdan özgürlüğü vurgulanıyor,<ref>Birlik Partisi, Tüzük ve Program, 1969, sf. 5</ref> kamu düzenine, genel ahlaka ve yasalara aykırı olmayan ibadetlerin serbest bırakılması isteniyordu.<ref>Birlik Partisi, Tüzük ve Program, 1969, sf. 59-61</ref> 1967'de Genel Yönetim Kurulunca görevden alınan Berkman'ın yerine genel başkanlığa [[Hüseyin Balan]] getirildi. BP [[1969 Türkiye genel seçimleri|1969 Milletvekili Genel Seçimleri]]'nde aldığı toplam 254.695 oyla (yüzde 2,8) 8 milletvekilliği elde etti. Bu seçimden sonra [[Millet Partisi (1962)|Millet Partisi]]'nden (MP) iki milletvekili de Birlik Partisi'ne katıldı.
+
+Partinin 23-24 Kasım 1969'daki II. Kongresinde genel başkanlığa [[Sivas (il)|Sivas]] milletvekili [[Mustafa Timisi]] seçildi.<ref>Cumhuriyet Gazetesi, 25.10.1969, sf. 1</ref> Ertesi yıl Birlik Partisi'nin bazı milletvekilleri [[Adalet Partisi (1961-1981)|Adalet Partisi]]'ne (AP) geçti. 27-28 Kasım 1971'deki III. Kongrede parti adının önüne "Türkiye" sözcüğü eklendi.<ref>Akşam Gazetesi, 29.11.1971, sf. 7</ref> Parti 1973'te TBP adıyla girdiği genel seçimlerde toplam 121.759 oy (yüzde 1,1) aldı, yalnızca Timisi milletvekili seçilebildi. [[Türkiye İşçi Partisi (1961)|Türkiye İşçi Partisi]] (TİP) eski genel başkanı [[Mehmet Ali Aybar]] TBP'nin İstanbul listesinden seçime katıldıysa da seçilemedi. 12 Ekim 1975'te 25 ilde yapılan [[Cumhuriyet Senatosu (Türkiye)|Cumhuriyet Senatosu]] üçte bir yenileme seçimindeyse TBP ancak 28.283 oy (yüzde 0.54) alabildi.
+
+5 Haziran 1977'deki genel seçimlerde aldığı 58.540 oyla (yüzde 0,4) TBP hiç milletvekili çıkaramadı. 11 Aralık 1977'deki yerel seçimlerde oy kaybı devam etse de tek belediye başkanlığını [[Amasya (il)|Amasya]] ilinin [[Merzifon]] ilçesine bağlı [[Kayadüzü, Merzifon|Kayadüzü]] kasabasında kazandı. Ancak bu seçimlerden sonra TBP'nin siyasal etkinlikleri fiilen sona erdi, parti başka hiçbir seçime katılmadı. [[12 Eylül Darbesi|12 Eylül 1980 Darbesi]]'nden sonra etkinliği durdurulan TBP 16 Ekim 1981'de öteki bütün partilerle birlikte [[Millî Güvenlik Konseyi]] tarafından kapatıldı.
+
+== Genel başkanlar listesi ==
+{| class="wikitable"
+!#
+!İsim
+!Görev Başlangıcı
+!Görev Bitişi
+|-
+|1
+|[[Hasan Tahsin Berkman]]
+|1966
+|1967
+|-
+|2
+|[[Hüseyin Balan]]
+|1967
+|1969
+|-
+|3
+|[[Mustafa Timisi]]
+|1969
+|1981
+|}
+
+== Türkiye Birlik Partisi ve seçimler ==
+=== Genel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! colspan="6" | [[Türkiye Büyük Millet Meclisi]]
+! colspan="3" |
+|-
+! Seçim
+!Genel Başkan
+! Oy
+! Oran
+!'''±'''
+! Sandalye
+!±
+!Meclis
+!Sıra
+|-
+| [[1969 Türkiye genel seçimleri|1969]] 
+|[[Hüseyin Balan]]|| 254.708 || %2,8 
+| {{NA}}|| {{Composition bar|8|450|hex={{Siyasi parti renk|Türkiye Birlik Partisi}}}}
+|{{NA}}
+|{{Hayır2|Muhalefet}}
+|6.
+|-
+| [[1973 Türkiye genel seçimleri|1973]] 
+| rowspan="2" |[[Mustafa Timisi]]|| 121.759 || %1,1 
+|{{Azalış}}1,7|| {{Composition bar|1|450|hex={{Siyasi parti renk|Türkiye Birlik Partisi}}}}
+|{{Azalış}}7
+|{{Hayır2|Muhalefet}}
+|7.
+|-
+| [[1977 Türkiye genel seçimleri|1977]] || 58.540 || %0,4 
+|{{Azalış}}0,7|| {{Composition bar|0|450|hex={{Siyasi parti renk|Türkiye Birlik Partisi}}}}
+|{{Azalış}}6
+| --
+|_
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! colspan="3" | İl Genel Meclisi
+! rowspan=2| Belediye
+|-
+! Oy
+! %
+!'''±'''
+|-
+| [[1968 Türkiye yerel seçimleri|1968]] || 149.832 || %1,64 
+| {{NA}}|| 0
+|-
+| [[1973 Türkiye yerel seçimleri|1973]] || 41.092 || %0,41 
+|{{Azalış}}1,23|| 0
+|-
+| [[1977 Türkiye yerel seçimleri|1977]] || 29.039 || %0,23 
+|{{Azalış}}0,18|| 1
+|}
+
+== Kaynakça ==
+{{kaynakça}}
+{{Türkiye'deki eski siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Türkiye Birlik Partisi| ]]
+[[Kategori:1966'da Türkiye'de kurulan oluşumlar]]
+[[Kategori:1966'da kurulan siyasi partiler]]
+[[Kategori:1981'de kapatılan siyasi partiler]]
+[[Kategori:Solcu partiler]]
+[[Kategori:1981'de Türkiye'de feshedilmiş oluşumlar]]
+[[Kategori:Türkiye'de kapatılan siyasi partiler]]

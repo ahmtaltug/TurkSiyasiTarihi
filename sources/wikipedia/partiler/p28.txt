@@ -1,0 +1,91 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Hürriyet ve İtilaf Fırkası<br />{{küçük|حريت و ائتلاف فرقه‌سی}}<br />{{küçük|Özgürlük ve Uzlaşı Partisi}}
+| yerli_isim       = 
+| colorcode        = #0087DC
+| kısaltma         = H-İ veya HİF
+| amblem           = 
+| genel başkanı    = [[Damad Ferid Paşa|Damat Ferit Paşa]]
+| genel sekreteri  = 
+| kurucusu         = 
+| veznedarı        = Bâlâlı Şehsüvarzâde Hacı Osman Bey<ref name="ReferenceA">TDV İslam Ansiklopedisi C.18 Sh.509</ref>
+| lider1_başlık    = 
+| lider1_isim      = 
+| lider2_başlık    = 
+| lider2_isim      = 
+| lider3_başlık    = 
+| lider3_isim      = 
+| lider4_başlık    = 
+| lider4_isim      = 
+| lider5_başlık    = 
+| lider5_isim      = 
+| slogan           = 
+| kuruluş          = 21 Kasım 1911 {{küçük|(I. dönem)}}<br />17 Kasım 1918 {{küçük|(II. dönem)}}
+| kapanış          = 23 Ocak 1913 {{küçük|(I. kapanış [[Bâb-ı Âli Baskını]] sonrası)}}<br />25 Haziran 1919 {{küçük|(II. kapanış)}}
+| öncülü           = 
+| ardılı           = 
+| kol1_başlık      = Silahlı kanadı
+| kol1             = [[Halâskâr Zâbitân]]
+| merkez           = [[Fatih]], [[İstanbul]]
+| gazete           = ''Hukuk-u Umumiye''<br />''Mes'ûliyet''
+| ideoloji         = [[Liberalizm]]<br />[[Adem-i merkeziyetçilik]]<br />[[Meşrutiyet]]çilik<br />[[Osmanlıcılık]]
+| pozisyon         = [[Merkezcilik|Merkez]]
+}}
+
+'''Hürriyet ve İtilaf Fırkası''' ({{Dil|ota|حريت و ائتلاف فرقه‌سی|çeviri=Ḥürrīyet ve İʾtilāf Fırḳası}}; [[Türkçe|Güncel Türkçe]]: Özgürlük ve Uzlaşı Partisi), [[İkinci Meşrutiyet]] döneminde iktidardaki [[İttihat ve Terakki|İttihat ve Terakki Cemiyeti]]'ne (İTC) karşı kurulmuş olan en önemli muhalefet partisidir. 1911-1913 arasındaki ilk etkinlik dönemi, 23 Ocak 1913'te İttihat ve Terakki'nin [[Bâb-ı Âli Baskını]] ile hükûmeti ele geçirmesiyle sona erdi. [[Mondros Mütarekesi]]'nden sonra Ocak 1919'da yeniden kurulan parti, ertesi yıl başlarında etkinliğini kaybetti.
+
+Partinin belli başlı liderleri [[Damad Ferid Paşa|Damat Ferit Paşa]], [[Miralay Sadık Bey]], [[Gümülcineli İsmail Bey]], "Filozof" [[Rıza Tevfik Bölükbaşı|Rıza Tevfik]] (Bölükbaşı), [[Refik Halit Karay]], [[Ali Kemal]], [[Lütfi Fikri Bey|Lütfi Fikri (Düşünsel)]], [[Rıza Nur]]'dur. Birinci dönemde [[Kâmil Paşa]] hükûmeti (29 Ekim 1912 - 23 Ocak 1913), ikinci dönemde ilk Damat Ferit Paşa hükûmetleri (4 Mart - 30 Eylül 1919), parti hükûmeti olmamakla birlikte, Hürriyet ve İtilaf Fırkası'nın desteğine sahip olmuşlardır.
+
+== Birinci Dönem ==
+Birinci [[Meclis-i Mebûsan]] (1908-1912) içinde İttihat ve Terakki'ye muhalif olan çeşitli grupların birleşerek güçlü bir parti kurma düşüncesi 1911 başlarından itibaren gündeme geldi.<ref>Ali Birinci, ''Hürriyet ve İtilaf Fırkası,'' Dergâh Yay. İstanbul 1990, sf. 45.</ref> Bu gruplar arasında en çok adı duyulan, [[Prens Sabahaddin|Prens Sabahaddin Bey]]'in liberal-ademimerkeziyetçi çizgideki [[Osmanlı Ahrar Fırkası|Ahrar Fırkası]] (Özgürlükler Partisi) idi. [[Mûtedil Hürriyetperverân Fırkası|Mutedil Hürriyetperveran Fırkası]] (Ilımlı Liberal Parti) daha çok Arnavut ve Arap liberallerin desteğine sahipti. [[Osmanlı Demokrat Fırkası]], İttihat ve Terakki'den ayrılan iki ünlü Jöntürk, [[Abdullah Cevdet]] ve [[İbrahim Temo]] tarafından kurulmuştu. [[Avlonyalı İsmail Kemal Bey|İsmail Kemal]]'in [[Ahali Fırkası]] (Halk Partisi), İTC'nin aşırı Türk milliyetçiliği nedeniyle Balkanlarda [[1912 Arnavut isyanı|Arnavut ayaklanması]]na yol açtığı kanısındaydı.<ref>A.g.e. sf. 36-41.</ref>
+
+[[Mahir Said Pekmen|Mahir Said]], [[Tahir Hayreddin Bey|Tahir Hayrettin]], Kemal Midhat, [[Hüseyin Siret Özsever|Hüseyin Siret (Özsever)]] ve [[Rıza Nur]], Hürriyet ve İtilaf Fırkası kuruluş beyannâmesini (bildirgesini) ve programını İstanbul Valisi Emin Bey'e 21 Kasım 1911 tarihinde vererek fırkayı kurmuşlardır.<ref name="TDV">{{ansiklopedi kaynağı |soyadı=Birinci |ad=Ali |yazarbağı= |editör= |editör-bağ= |ansiklopedi=[[TDV İslâm Ansiklopedisi]] |başlık=Hürriyet ve İtilaf Fırkası |çeviribaşlık= |url=https://islamansiklopedisi.org.tr/hurriyet-ve-itilaf-firkasi |erişimtarihi=18 Mart 2021 |dil=Türkçe |basım= |tarih= |yıl=1998 |ay= |yayıncı=[[Türkiye Diyanet Vakfı]] |cilt=18 |yer= |id= |isbn= |oclc= |doi= |sayfalar=507-511|alıntı= |kaynak= |arşivurl=https://web.archive.org/web/20210124090517/https://islamansiklopedisi.org.tr/hurriyet-ve-itilaf-firkasi |arşivtarihi=24 Ocak 2021 |ölüurl=hayır }}</ref>
+
+24 Kasım'da yapılan kongrede [[Damad Ferid Paşa|Damat Ferit Paşa]] parti reisliğine seçildi. Ancak partinin aktif önderi daha çok [[Miralay Sadık Bey]] idi. Parti programını [[Ahmet Reşit Rey|Ahmet Reşit (Rey)]] kaleme aldı.<ref>A.g.e. sf. 48-49, 55.</ref>
+
+=== Parti Programı ===
+Partinin amacı ''"en felsefi manasıyla hürriyete vasıl olmak"'' olarak tanımlanmıştı. İttihat ve Terakki'nin, Osmanlı toplumunu oluşturan çeşitli toplumları Türkleştirmek çabasını bir "hayal-i ham" (olgunlaşmamış) olarak tanımlanıyor ve "muhtelif anasır” (çeşitli toplumlar) arasında hakiki bir imtizaç (uyum) ile daimi bir vifak ve tesanüt (birlik ve denge)" hedef gösteriliyordu. [[Balkan Savaşları]] arefesindeki şartlarda, İTC'nin güttüğü İslamcılık ve Türkçülük siyaseti, devletin dini ve etnik yapısından ötürü dağılmasına yol açacak tehlikeli bir tavır olarak görülüyordu. Seçilmesi gereken siyaset, "ittihad-ı anasır" (ulusların birliği) olmalıydı.<ref>A.g.e. sf. 57.</ref>
+
+"Memleket şimdiye kadar ne çekmişse hep cebirden, tazyikten" çekmişti. Bu yüzden örfi idare (sıkıyönetim) kaldırılmalıydı. İdari yapılanmada merkeziyetçi yapıdan uzaklaşılmalıydı.
+
+Dış politikada parti İngiliz dostluğundan yana idi. "Bu mülkün atisi ve hali (yarını ve bugünü) İngiliz dostluğu ile güvenceye alınabilecekti. ''"Denize düşerseniz yılana sarılın, kurtulursunuz; fakat Almanya'ya sarılmayın, boğulursunuz”'' deniyordu.<ref>A.g.e. sf. 58-60.</ref>
+
+=== Siyasi Olaylar ===
+Parti, [[Meclis-i Mebûsan|Meclis-i Mebusan]]’da 70 dolayında mebusun desteğine sahipti. [[İstanbul]] mebusu ve Hariciye Nazırı [[Mehmed Rifat Paşa]]'nın Paris Büyükelçiliği'ne atanması sonucu ara seçim gündeme gelmiştir. İTC, Adliye Nazırı [[Mehmed Memduh Bey]]’i aday gösterirken; H-İ ise [[Tahir Hayreddin Bey]]’i aday göstermiştir. 11 Aralık 1911'de yapılan seçimde 195 oy alan Memduh Bey'i 1 oy farkla geçerek 196 oy alan Tahir Hayrettin Bey, mebus seçilmiştir.<ref>{{tez kaynağı |tür=Doktora |soyadı=Saygı |ad=Serhan Kemal |yıl=2014 |yer=İzmir |url=https://www.apikam.org.tr/YuklenenDosyalar/Dokumanlar/5bc4f269-34d7-4c75-95a7-ea6839c1ce2e357336.pdf |başlık=Meclis-i Mebusan’da İzmir Mebusları 1908-1918 |yayıncı=T.C. Ege Üniversitesi Sosyal Bilimler Enstitüsü Yakınçağ Tarihi Ana Bilim Dalı |erişimtarihi=22 Şubat 2021 |sayfa=44 dip not 159 |arşiv-url=https://web.archive.org/web/20210604101042/https://www.apikam.org.tr/YuklenenDosyalar/Dokumanlar/5bc4f269-34d7-4c75-95a7-ea6839c1ce2e357336.pdf |arşiv-tarihi=4 Haziran 2021 |ölüurl=hayır }}</ref> Bunun üzerine [[Mehmed Said Paşa|Sait Paşa]] kabinesinin devrilerek, H-İ'nin desteklediği [[Kâmil Paşa]]'nın sadrazamlığa getirilmesi umudu doğdu.
+
+15 Ocak 1912'de Sait Paşa bir manevrayla meclisin feshini sağladı. 20 Şubatta sonuçlanan yeni meclis seçimi, İttihat ve Terakki örgütünün ağır baskısı altında gerçekleşti; siyasi literatürde "[[Meclis-i Mebûsan 4. dönem mebusları listesi|sopalı seçim]]" adıyla anıldı. Seçim sonunda, altı muhalif mebus dışında Meclise sadece İTC yandaşları girebildi. Etnik ve dini azınlıklar çok az temsilci çıkarabildiler. Seçim sonuçları tüm ülkede büyük tepkiyle karşılandı. Balkan ve Arap vilayetlerinde ayaklanma çalışmaları başladı. Nihayet ordu içinde kurulan [[Halâskâr Zâbitân]] (Kurtarıcı Subaylar) adlı bir grup, 16 Temmuz'da verdikleri bir muhtıra ile Sait Paşa hükûmetinin istifasını sağladı. 22 Temmuz'da [[Ahmed Muhtar Paşa|Gazi Ahmet Muhtar Paşa]] başkanlığında kurulan partilerüstü "Büyük Kabine", başta H-İ olmak üzere, tüm İTC muhaliflerinin coşkun desteğiyle karşılandı.
+
+22 Temmuz 1912 - 23 Ocak 1913 arasındaki muhalif hükûmetler dönemi, muhalefet için tam bir hayal kırıklığı ile sonuçlandı. 8 Ekim'de çıkan [[Balkan Savaşları|Balkan Savaşı]], kısa sürede bozguna dönüştü. 29 Ekim'de Ahmet Muhtar Paşa hükûmeti kargaşalık içinde istifa etti; ancak yerine gelen Kâmil Paşa hükûmeti de H-İ ile direkt bir bağlantıdan kaçındı. 8 Kasım'da imparatorluğun ikinci kenti Selanik düştü. Kasım ortasında Edirne kuşatıldı ve Bulgar ordusu Çatalca'ya vardı.
+
+23 Ocak 1913'te [[Enver Paşa|Enver Bey]] öncülüğündeki bir İTC fedai grubu [[Bâb-ı Âli]]'de bakanlar kurulu toplantısını basarak Harbiye Nazırı'nı öldürdü; sadrazam Kâmil Paşa'yı da başına tabanca dayayarak istifaya zorladı. [[Bâb-ı Âli Baskını]] olarak anılan bu olaydan sonra muhalefet şiddetli polis baskısıyla etkisiz hale getirildi. H-İ liderlerinin birçoğu 1918'e dek geri gelmemek üzere yurt dışına kaçtı. Kâmil Paşa hükûmetinin maliye ve dahiliye nazırları tutuklandı. Muhalefet gazeteleri kapatıldı.
+
+Mart sonunda H-İ içinde Prens Sabahaddin Bey'e yakın bazı kişilerin içinde yer aldığı bir hükûmet darbesi teşebbüsü ortaya çıkarıldı. Bu olay üzerine Sabahaddin Bey ve Dr. [[Nihat Reşat Belger|Nihat Reşat (Belger)]] de yurt dışına kaçtılar.
+
+11 Haziran 1913'te Sadrazam [[Mahmud Şevket Paşa|Mahmut Şevket Paşa]]'nın bir suikast sonucunda hayatını kaybetmesi, muhalefetin tamamen ezilmesine vesile oldu. Yurt dışında bulunan H-İ liderlerinin çoğu gıyaben idama mahkûm edildi. Basın ve siyaset dünyasında İttihat ve Terakki karşıtı olarak tanınan 322 kişi ''([[Burhan Felek]]'e göre 601 kişi)'' Sinop'a sürüldüler.
+
+== İkinci Dönem ==
+[[I. Dünya Savaşı]]'nın Osmanlı yenilgisi ile sonuçlanması üzerine [[Talat Paşa]] başkanlığındaki İttihat ve Terakki hükûmeti düştü. Hemen ardından genel af ilan edildi ve Sinop'ta ve yurt dışında bulunan sürgünler İstanbul'a dönmeye başladı. 17 Kasım 1918'de eski Tokat mebusu [[Mustafa Sabri Efendi]]'nin, Hürriyet ve İtilaf Fırkası'nın yeniden örgütlenmesine dair yazısı yayımlandı. 2 Aralık 1918'de Ali Kemal, [[Sabah (gazete, 1875)|Sabah]]'taki başyazısında hükûmetin H-İ tarafından kurulmasını savundu. Bunu izleyen günlerde ülkenin çeşitli yerlerinde H-İ şubelerinin açıldığına dair haberler çıktı.
+
+10 Ocak 1919'da yapılan bir toplantıda H-İ Fırkası yeniden kuruldu ve Merkez-i Umumi oluşturuldu. Yeni yönetim kurulunun çoğunlukla saraya yakın yaşlı ve emekli devlet görevlilerinden oluştuğu dikkati çekiyordu. Eski genel başkan [[Damad Ferid Paşa|Damat Ferit Paşa]] partiye katılmamıştı. Eski ve aktif H-İ üyelerinden Mustafa Sabri, Ali Kemal, Rıza Tevfik ve [[Refik Halit Karay|Refik Halit]] (Karay) parti yönetiminde görev aldılar. Basında partinin en önemli sözcüleri Ali Kemal ve [[Refi' Cevad Ulunay|Ref'i Cevat]] (Ulunay) idi.
+
+3 Mart 1919'da kurulan birinci Damat Ferit Paşa hükûmeti kamuoyunda genellikle "Hürriyet ve İtilaf hükümeti" olarak değerlendirildi. Oysa gerçekte partinin, hükûmete bir veya iki üye vermek dışında, iktidarda gerçek bir payı yoktu. Refik Halit'e göre, Ferit Paşa ''"fırkayı kışlık bir hırka gibi kullanmıştı."''<ref>Sina Akşin, ''İstanbul Hükümetleri ve Milli Mücadele,'' Cem Yay. 1983, sf. 205.</ref> 23 Haziran'da başbakanın Fransa lehine verdiği bir demeç, İngiliz politikasını savunan parti sözcüleri tarafından basında şiddetle eleştirildi. 25 Haziran'da H-İ merkez-i umumisi, yayınladığı bir bildiri ile, hükûmetle fırka arasında hiçbir münasebet kalmadığını ilan etti.<ref>Akşin, a.g.e. sf. 374.</ref> Bu tarihten sonra parti birkaç hizbe bölündü. 21 Temmuz'da merkez-i umumi yeni Damat Ferit hükûmetini gayrımeşru ilan ederek derhal istifasını talep etti. Aynı günlerde partiden ayrılan bir kanat Muhafazakârlar Fırkası adıyla yeni bir parti kurdu.<ref>A.g.e. sf. 448.</ref>
+
+Kasım 1919'da yapılan [[1919 Osmanlı genel seçimleri|son Osmanlı Meclis-i Mebusan seçimleri]]ne, Hürriyet ve İtilaf Fırkası ile ondan ayrılan grupların hiçbiri katılmadı. Seçim, Sivas ve Ankara'dan yönetilen [[Müdâfaa-i hukuk cemiyetleri|Müdafaa-yı Hukuk]] hareketinin kesin galibiyetiyle sonuçlandı.
+
+Fırkanın yayın organı olarak bilinen en dikkate değer gazete, fırkanın veznedarı Bâlâlı Şehsüvarzâde Hacı Osman Bey tarafından ancak on dokuz sayı çıkarılabilen ''Mes'ûliyet'''tir (27 Ağustos-15 Eylül 1919).<ref name="ReferenceA">TDV İslam Ansiklopedisi C.18 Sh.509</ref>
+
+== Ayrıca bakınız ==
+* [[Mustafa Sabri Efendi]]
+* [[Sait Molla|Said Molla]]
+* [[Damad Ferid Paşa|Damat Ferid Paşa]]
+
+== Kaynakça ==
+{{kaynakça}}
+{{Osmanlı İmparatorluğu siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Türk Kurtuluş Savaşı'nda kurumlar]]
+[[Kategori:1911'de kurulan siyasi partiler]]
+[[Kategori:Osmanlı İmparatorluğu'ndaki siyasi partiler]]
+[[Kategori:Osmanlı İmparatorluğu Meşrutiyet dönemi]]
+[[Kategori:1911'de Osmanlı İmparatorluğu'nda kurulan oluşumlar]]
+[[Kategori:1919'da Osmanlı İmparatorluğu'nda kurulan oluşumlar]]

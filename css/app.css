@@ -285,3 +285,158 @@ select { background: var(--surface); }
   .legend { bottom: 30px; }
   .controls .row.nav select { font-size: 14px; }
 }
+
+/* ---------------------------------------------------------------- 2.0: karşılaştırma, demografi, soy ağacı, siyasi tarih */
+:root { --up: #0f766e; --down: #c2410c; --pm-a: #ebe8e1; --pm-b: #f5f3ee; }
+:root[data-theme="dark"] { --up: #5ec4b6; --down: #f08a5d; --pm-a: #262a30; --pm-b: #1f2328; }
+.up { color: var(--up); } .down { color: var(--down); }
+.linkbtn { all: unset; color: var(--accent); cursor: pointer; text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+.linkbtn:focus-visible { outline: 2px solid var(--accent); }
+#cmpBtn.on { background: var(--ink); color: var(--on-ink); border-color: var(--ink); }
+#histBtn { font-weight: 600; }
+
+/* karşılaştırma: iki harita yan yana (dar ekranda üst üste) */
+#map2 { display: none; }
+.cmp-label { display: none; }
+.map-wrap.compare #map { right: calc(50% + 1px); }
+.map-wrap.compare #map2 { display: block; position: absolute; top: 0; bottom: 0; right: 0; left: calc(50% + 1px); background: var(--sea); }
+.map-wrap.compare::after { content: ''; position: absolute; top: 0; bottom: 0; left: 50%; width: 2px; margin-left: -1px; background: var(--line-strong); z-index: 640; pointer-events: none; }
+.map-wrap.compare .cmp-label { display: block; position: absolute; top: 12px; z-index: 630; background: var(--overlay); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px; font-size: 12.5px; max-width: 45%; pointer-events: none; }
+.map-wrap.compare .cmp-label.a { left: 54px; }
+.map-wrap.compare .cmp-label.b { left: 10px; }
+.map-wrap.compare .map-tools { top: auto; bottom: 12px; }
+.map-wrap.compare .legend { max-width: 46%; bottom: 40px; }
+.lbl.full { display: flex; width: 100%; }
+.lbl.full select { flex: 1; max-width: none; }
+.utable.cmp tbody tr { cursor: default; }
+.utable.cmp td.up, .utable.cmp td.down { font-weight: 600; }
+.flows { padding-left: 16px; margin: 6px 0; font-size: 12.5px; line-height: 1.6; }
+.flows .sw, .pchip .sw, .lchip .sw, .hc-row .sw { display: inline-block; width: 9px; height: 9px; border-radius: 2px; margin: 0 4px 0 2px; vertical-align: middle; }
+.cols2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+ol.mini { margin: 4px 0; padding-left: 18px; font-size: 12.5px; }
+@media (max-width: 900px) {
+  .map-wrap.compare #map { right: 0; bottom: calc(50% + 1px); }
+  .map-wrap.compare #map2 { left: 0; top: calc(50% + 1px); }
+  .map-wrap.compare::after { left: 0; right: 0; top: 50%; bottom: auto; width: auto; height: 2px; margin: -1px 0 0; }
+  .map-wrap.compare .cmp-label { max-width: 70%; }
+  .map-wrap.compare .cmp-label.b { top: 8px; }
+}
+
+/* zaman atlamalı oynatmada olay şeridi */
+.event-ticker { position: absolute; right: 14px; top: 150px; z-index: 600; width: min(380px, 60%); background: var(--overlay); border: 1px solid var(--line); border-radius: var(--radius); padding: 8px 10px; font-size: 12.5px; box-shadow: 0 4px 16px rgba(0,0,0,.08); pointer-events: none; max-height: 40%; overflow: hidden; }
+.event-ticker .tt { font-weight: 600; margin-bottom: 4px; }
+.event-ticker ul { margin: 0; padding: 0; list-style: none; }
+.event-ticker li { margin: 3px 0; line-height: 1.35; }
+.et { display: inline-block; font-size: 10.5px; border-radius: 3px; padding: 0 5px; margin-right: 4px; background: var(--soft); color: var(--text2); min-width: 8px; min-height: 10px; vertical-align: 1px; }
+.et-kuruluş { background: #dcefe3; color: #1d6b3a; } .et-kapanış { background: #f3dedb; color: #9c2a1c; }
+.et-ad-değişikliği { background: #e6e2f3; color: #4b3a8f; } .et-ittifak { background: #dfeaf5; color: #24557f; }
+.et-hükûmet { background: #ecebe8; color: #4b5563; } .et-güvenoyu { background: #fde7d6; color: #a2410e; }
+.et-cumhurbaşkanı { background: #efe3f5; color: #6b3fa0; } .et-darbe { background: #3f3f46; color: #fff; } .et-sistem { background: #fdf1dc; color: #8a5300; }
+:root[data-theme="dark"] .et-kuruluş { background: #193524; color: #8fd6a8; } :root[data-theme="dark"] .et-kapanış { background: #3e1d19; color: #f19b8c; }
+:root[data-theme="dark"] .et-ad-değişikliği { background: #2c2546; color: #c3b5f5; } :root[data-theme="dark"] .et-ittifak { background: #1b2c3d; color: #9cc6ea; }
+:root[data-theme="dark"] .et-hükûmet { background: #2a2d32; color: #c9cbcf; } :root[data-theme="dark"] .et-güvenoyu { background: #3f2614; color: #f6b083; }
+:root[data-theme="dark"] .et-cumhurbaşkanı { background: #2f2340; color: #d6b8f2; } :root[data-theme="dark"] .et-darbe { background: #d4d4d8; color: #18181b; } :root[data-theme="dark"] .et-sistem { background: #3a2c12; color: #f0c27a; }
+@media (max-width: 600px) { .event-ticker { top: auto; bottom: 34px; right: 8px; width: 62%; font-size: 11px; max-height: 30%; } }
+
+/* seçim tarihindeki siyasi bağlam, parti soy ağacı */
+.ctx { font-size: 12.5px; color: var(--text2); background: var(--soft2); border-left: 3px solid var(--line-strong); padding: 4px 8px; line-height: 1.5; }
+details.lin { margin-top: 8px; }
+.lin-b, .pl-info { font-size: 13px; }
+.lin-h { font-size: 14px; margin: 6px 0 2px; }
+.lin-r { margin: 5px 0; line-height: 1.9; }
+.lchip, .pchip { display: inline-flex; align-items: center; gap: 3px; font: inherit; font-size: 12px; border: 1px solid var(--line); border-radius: 999px; padding: 0 8px 0 4px; background: var(--surface); color: var(--ink); line-height: 20px; white-space: nowrap; }
+button.lchip { cursor: pointer; }
+button.lchip:hover { border-color: var(--line-strong); }
+.lchip.off { color: var(--muted); padding-left: 8px; }
+
+/* demografik karşılaştırma */
+#demoBox { margin-top: 8px; }
+.demo-ctl select { width: 100%; max-width: none; margin: 6px 0; }
+.scatter { width: 100%; height: auto; display: block; }
+.scatter text { fill: var(--muted); }
+.scatter .ax { stroke: var(--line-strong); }
+.scatter .ax0 { stroke: var(--line-strong); stroke-dasharray: 2 3; }
+.scatter .fit { stroke: var(--ink); stroke-width: 1.2; stroke-dasharray: 5 4; opacity: .6; }
+.scatter circle.dp { cursor: pointer; stroke: var(--surface); stroke-width: .8; opacity: .9; }
+.scatter circle.dp:hover { stroke: var(--ink); }
+.scatter circle.dp.sel { stroke: var(--ink); stroke-width: 2; opacity: 1; }
+
+/* siyasi tarih penceresi */
+dialog.wide { width: min(1400px, calc(100% - 24px)); height: calc(100% - 24px); max-height: none; max-width: none; border: 1px solid var(--line); border-radius: 10px; padding: 0; background: var(--surface); color: var(--ink); }
+dialog.wide[open] { display: flex; flex-direction: column; }
+dialog.wide::backdrop { background: rgba(0,0,0,.4); }
+.hd-head { display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.hd-head h2 { margin: 0; font-size: 18px; }
+.hd-head form { margin-left: auto; }
+.hd-head .seg { flex-wrap: wrap; }
+.hd-body { flex: 1; overflow: auto; padding: 12px 16px 20px; font-size: 14px; }
+.hc-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--soft2); }
+.hchart, .gantt { display: block; font-family: inherit; }
+.hchart .rl { font-size: 11px; fill: var(--muted); }
+.hchart .ax, .gantt .ax { font-size: 10px; fill: var(--muted); }
+.hchart .grid, .gantt .grid { stroke: var(--line); }
+.hchart .tick { stroke: var(--line-strong); }
+.hchart .sep { stroke: var(--surface); stroke-width: .6; }
+.hchart .gsep { stroke: var(--surface); stroke-width: .8; }
+.hchart .bl { font-size: 10.5px; font-weight: 600; fill: #fff; paint-order: stroke; stroke: rgba(0,0,0,.35); stroke-width: 2px; pointer-events: none; }
+.hchart .bt { font-size: 10.5px; fill: #fff; paint-order: stroke; stroke: rgba(0,0,0,.35); stroke-width: 2px; pointer-events: none; }
+.hchart .pmb { fill: var(--pm-a); } .hchart .pmb.alt { fill: var(--pm-b); }
+.hchart .pmt { font-size: 10px; fill: var(--ink); pointer-events: none; }
+.hchart .fail { font-size: 13px; font-weight: 700; fill: #fff; paint-order: stroke; stroke: #b91c1c; stroke-width: 3px; }
+.hchart .evl, .gantt .evl { stroke: var(--ink); stroke-dasharray: 3 3; opacity: .45; }
+.hchart .evt { font-size: 10px; fill: var(--text2); }
+.hchart .cur { stroke: var(--ink); stroke-width: 1.5; pointer-events: none; }
+.hchart .gh { fill: var(--line-strong); }
+.hc-info { margin: 10px 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--radius); min-height: 120px; }
+.hc-date { font-size: 18px; font-weight: 700; margin-bottom: 4px; }
+.hc-row { margin: 4px 0; line-height: 1.5; }
+.hc-seats { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+.hc-legend { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0; }
+.tag { font-size: 11px; border-radius: 4px; padding: 1px 6px; background: var(--soft); color: var(--muted); }
+.tag.k { background: #fdf1dc; color: #8a5300; }
+:root[data-theme="dark"] .tag.k { background: #3a2c12; color: #f0c27a; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 8px; margin-bottom: 8px; }
+.stats div { border: 1px solid var(--line); border-radius: var(--radius); padding: 8px 10px; background: var(--soft2); }
+.stats b { display: block; font-size: 22px; }
+.stats span { font-size: 12px; color: var(--muted); }
+.filters { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 8px 0; font-size: 13px; }
+.filters input[type=search] { font: inherit; font-size: 13px; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); min-width: 220px; }
+.tbl-scroll { overflow-x: auto; }
+.utable.govs tbody tr { cursor: default; }
+.utable.govs td { vertical-align: top; }
+.utable.govs .pchip { margin: 1px 0; }
+.utable.govs tr.coal td:first-child { border-left: 3px solid #e0a43a; }
+.pl-grid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 12px; align-items: start; }
+.pl-info { border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px; position: sticky; top: 0; }
+.gantt .pn { font-size: 11.5px; fill: var(--ink); }
+.gantt .pn.al { font-style: italic; fill: var(--muted); }
+.gantt .pb.al { opacity: .55; }
+.gantt .rn { fill: var(--ink); stroke: var(--surface); stroke-width: 1; }
+.gantt .hit { fill: transparent; }
+.gantt .prow { cursor: pointer; }
+.gantt .prow:hover .hit, .gantt .prow:focus .hit { fill: var(--row-hover); }
+.gantt .prow.sel .hit { fill: var(--row-sel); }
+.gantt .prow.sel .pn { font-weight: 700; }
+.gantt .prow.dim { opacity: .2; }
+.gantt .prow:focus { outline: none; }
+.anim-ctl { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.anim-ctl input[type=range] { flex: 1; min-width: 200px; accent-color: var(--accent); }
+#aTypes { margin: 8px 0; }
+#aTypes .chip .et.sq { padding: 0; width: 10px; height: 10px; min-width: 0; border-radius: 2px; margin: 0; filter: saturate(3) brightness(.85); }
+.anim-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
+.anim-grid h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .5px; color: var(--muted); margin: 8px 0 6px; }
+.a-year { font-size: 34px; font-weight: 700; font-variant-numeric: tabular-nums; }
+#aHemi .hemi { max-width: 420px; margin: 0; }
+.a-events { list-style: none; padding: 0; margin: 0; font-size: 13px; }
+.a-events li { padding: 4px 0; border-bottom: 1px solid var(--row); line-height: 1.4; }
+.a-events li .et { font-size: 10.5px; }
+.a-events li.new { background: var(--row-sel); }
+:root[data-theme="dark"] .hemi text { fill: var(--ink); }
+@media (max-width: 900px) {
+  .pl-grid, .anim-grid { grid-template-columns: 1fr; }
+  .pl-info { position: static; }
+  dialog.wide { width: 100%; height: 100%; border-radius: 0; }
+  .hd-head { padding: 8px 10px; gap: 8px; }
+  .hd-head h2 { font-size: 16px; }
+  .hd-body { padding: 8px 10px 16px; }
+}

@@ -27,6 +27,9 @@ Toplam 88 kayıt vardır. Canlı site: **https://ahmtaltug.github.io/TurkSiyasiT
 
 - **Koyu tema:** Tarayıcı tercihine göre açılır, sağ üstten değiştirilebilir.
 - **Parti geçmişi ve il arama:** Ülke geneli çubuklarından bir partiye tıklayınca, partinin aynı türdeki seçimlerdeki oy oranı grafikle gösterilir. Haritanın sağ üstündeki kutuyla il aranır (kısayol: `/`).
+- **Siyasi tarih (2.0):** 1920'den bugüne meclis sandalye dağılımı, cumhurbaşkanları, başbakanlar ve hükûmetler tek grafikte (koalisyonlar ve güvenoyu alamayan hükûmetler işaretli); hükûmetler tablosu; partilerin kuruluş, kapanış, ad değişikliği, öncül/ardıl ve ittifak bilgisiyle zaman çizelgesi; 1908'den bugüne oynatılabilir olay animasyonu.
+- **Karşılaştırma modu:** İki seçim yan yana, eşzamanlı iki haritada; il bazında değişen birinci partiler ve puan farkları.
+- **Demografik karşılaştırma:** İl nüfusu, yoğunluk, nüfus artışı, kişi başı GSYH ve yaşam beklentisi ile seçim sonucunun saçılım grafiği ve korelasyonu.
 - **Hızlı ve çevrimdışı:** Komşu seçimler önceden yüklenir. Service worker sayesinde açılmış seçimler internetsiz de görüntülenebilir; site telefona uygulama gibi eklenebilir.
 
 Neyin nasıl doğrulandığı için [docs/DOGRULAMA.md](docs/DOGRULAMA.md), sürüm geçmişi için [CHANGELOG.md](CHANGELOG.md), planlanan işler için [ROADMAP.md](ROADMAP.md) dosyasına bakın.
@@ -62,6 +65,7 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/build_historical.py` | 1877–1946 vekil listelerini ayrıştırır ve dönemin sınırlarını kurar. Sınırlar, günümüz ilçelerinin o yıldaki bağlılığına ve Natural Earth bölgelerinin birleştirilmesine dayanır. |
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
+| `scripts/build_history.py` | Hükûmetleri, cumhurbaşkanlarını, meclis dağılımlarını, parti soy ağacını, olayları ve il demografisini Vikipedi metinlerinden `data/history.json` ve `data/demographics.json` dosyalarına derler. |
 | `scripts/verify_wiki.py` | Parti ve aday adlarını seçimlerin Vikipedi maddeleriyle karşılaştırır (`scripts/fetch_sources.sh --verify` sonrası). |
 | `scripts/validate.py` | Seçim dosyalarının ve sınırların tutarlılığını denetler; CI'da da çalışır. |
 | `tests/smoke.js` | Tarayıcı testi: bütün seçimleri ve görünümleri açar; CI'da her PR'da çalışır. |
@@ -88,6 +92,8 @@ Yeni bir seçim eklemek için aynı biçimde bir dosya yazmak ve `scripts/build_
 - **1946 il oyları** Vikipedi'nin seçim mazbatalarından derlediği tablodan alındı. Bazı değerler yaklaşıktır, bazıları bilinmemektedir.
 - **1950 sonrası** kaynak veri setinin değerleri kullanıldı. Kaynaktaki yalnız bir değer düzeltildi: 1968 Van il genel meclisi CGP oyu,
   geçerli oy toplamıyla birebir tutan değere çevrildi. Parti toplamı geçerli oyu aşan birkaç kayıt değiştirilmeden işaretlendi.
+- **Siyasi tarih verisi** (hükûmetler, güvenoyları, partiler) Vikipedi liste ve bilgi kutularından derlenmiştir; birincil kaynakla karşılaştırılmadı. Meclis grafiği seçim sonrası durumu gösterir; dönem içi değişiklikler yoktur.
+- **Demografi:** Nüfuslar günümüz il sınırlarına göredir ve eski seçimlerde o dönemin illerine toplanır; ayrılan ilçeler ayrı izlenemediği için yaklaşıktır. İl bazında kentleşme ve göç verisi yoktur. Korelasyon nedensellik göstermez.
 - Ülke toplamları il verilerinin toplanmasıyla hesaplandığından resmî ilan edilen oranlardan birkaç onda bir puan farklı olabilir.
 
 ## Lisans

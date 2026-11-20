@@ -1,0 +1,1128 @@
+{{Siyasi parti bilgi kutusu
+| isim             = Saadet Partisi
+| kısaltma         = SAADET {{küçük|(resmî)}}<ref name="yargıtay">{{Web kaynağı|url = http://www.yargitaycb.gov.tr/Partiler/saadet.html|başlık = Saadet Partisi|yayımcı = T.C. Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi = 17 Mayıs 2015|arşivurl = https://web.archive.org/web/20151108153159/http://www.yargitaycb.gov.tr/Partiler/saadet.html|arşivtarihi = 8 Kasım 2015|ölüurl = evet}}</ref><br />SP {{küçük|(gayriresmî)}}<ref name="gazeteler">{{Web kaynağı|url = https://www.milliyet.com.tr/siyaset/sp-3-milletvekili-ile-meclis-e-girdi-2694599|başlık = Saadet Partisi|yayımcı = Milliyet gazetesi|erişimtarihi = 2 Nisan 2020|arşivurl = https://web.archive.org/web/20190725222603/https://www.milliyet.com.tr/siyaset/sp-3-milletvekili-ile-meclis-e-girdi-2694599|arşivtarihi = 25 Temmuz 2019|ölüurl = hayır}}</ref>
+| colorcode        = {{Siyasi parti renk|Saadet Partisi}}
+| amblem           = Saadet Partisi Kare Logo.svg
+| genel başkanı    = [[Mahmut Arıkan]]
+| genel sekreteri  = Cafer Güneş
+| lider1_başlık    = Yüksek İstişare Kurulu başkanı
+| lider1_isim      = [[Temel Karamollaoğlu]]
+| kurucusu         = [[Necmettin Erbakan]]<br/>[[Recai Kutan]]
+| slogan           = ''Yaşanabilir Bir Türkiye Ancak Saadet'le Olur''
+| kuruluş          = 20 Temmuz 2001
+| öncülü           = [[Fazilet Partisi]]
+| bölünme          = [[Halkın Sesi Partisi]] {{küçük|(2010-2012)}}<br />[[Yeniden Refah Partisi]] {{küçük|(2018)}}
+| merkez           = Altındağ, Ankara
+| gazete           = ''[[Millî Gazete]]''
+| televizyon       = [[TV5 (Türkiye)|TV5]]
+| üyelik           = {{artış}} 374.724<ref>{{Web kaynağı|url=https://www.yargitaycb.gov.tr/icerik/1167|başlık=Yargıtay Cumhuriyet Başsavcılığı|erişimtarihi=25 Kasım 2020|arşivurl=https://web.archive.org/web/20200115222839/https://www.yargitaycb.gov.tr/icerik/1167|arşivtarihi=15 Ocak 2020|ölüurl=hayır}}</ref>
+| üyelik_yıl       = 2026
+| ideoloji         = {{yalın liste|
+*[[Millî Görüş]]<ref>nek.istanbul.edu.tr:4444/ekos/TEZ/ET000606.pdf</ref><ref>{{Web kaynağı|url=https://www.superhaber.tv/konu/saadet-partisi|başlık=Arşivlenmiş kopya|erişimtarihi=18 Eylül 2022|arşivurl=https://web.archive.org/web/20220920171620/https://www.superhaber.tv/konu/saadet-partisi|arşivtarihi=20 Eylül 2022|ölüurl=hayır}}</ref>
+*[[Güçlendirilmiş parlamenter sistem|Parlamenterizm]]<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-60415731|başlık=Arşivlenmiş kopya|erişimtarihi=18 Eylül 2022|arşivurl=https://web.archive.org/web/20220920213034/https://www.bbc.com/turkce/haberler-turkiye-60415731|arşivtarihi=20 Eylül 2022|ölüurl=hayır}}</ref>
+*[[Ümmetçilik]]<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/saadet-partisi-genel-baskani-karamollaoglu-islam-dunyasinin-d-8lerin-kurulusundaki-ufuk-ve-vizyona-ihtiyaci-var/2274691|başlık=Arşivlenmiş kopya|erişimtarihi=18 Eylül 2022|arşivurl=https://web.archive.org/web/20220920170959/https://www.aa.com.tr/tr/politika/saadet-partisi-genel-baskani-karamollaoglu-islam-dunyasinin-d-8lerin-kurulusundaki-ufuk-ve-vizyona-ihtiyaci-var/2274691|arşivtarihi=20 Eylül 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/11155938/saadet-partisinden-islam-birligi-d-8-icin-mesaj-bizim-birligimiz|başlık=Arşivlenmiş kopya|erişimtarihi=18 Eylül 2022|arşivurl=https://web.archive.org/web/20220920170350/https://www.milligazete.com.tr/haber/11155938/saadet-partisinden-islam-birligi-d-8-icin-mesaj-bizim-birligimiz|arşivtarihi=20 Eylül 2022|ölüurl=hayır}}</ref>
+*[[Sosyal muhafazakarlık]]<ref>{{Web kaynağı|url=https://www.swp-berlin.org/en/publication/what-lies-behind-turkeys-withdrawal-from-the-istanbul-convention</ref><ref>{{Web kaynağı|url=https://www.hrw.org/news/2018/06/07/q-turkeys-elections</ref>
+*[[Avrupa şüpheciliği]]<ref>{{Web kaynağı|url=https://www.researchgate.net/publication/344782381_SIYASAL_TUTUMUN_KAV_RAMSAL_KAYNAKLARI_AK_PARTI_VE_SAADET_PARTISI_UZERINDEN_BIR_MUKAYESE|başlık=Arşivlenmiş kopya|erişimtarihi=18 Eylül 2022|arşivurl=https://web.archive.org/web/20220920171816/https://www.researchgate.net/publication/344782381_SIYASAL_TUTUMUN_KAV_RAMSAL_KAYNAKLARI_AK_PARTI_VE_SAADET_PARTISI_UZERINDEN_BIR_MUKAYESE|arşivtarihi=20 Eylül 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://saadet.org.tr/tr/program-detay/5ed7a06d44b02/avrupa-birligi|başlık=Arşivlenmiş kopya|erişimtarihi=18 Eylül 2022|arşivurl=https://web.archive.org/web/20220920171311/https://saadet.org.tr/tr/program-detay/5ed7a06d44b02/avrupa-birligi|arşivtarihi=20 Eylül 2022|ölüurl=hayır}}</ref>
+*[[Antisiyonizm]]<ref>{{Web kaynağı|url=https://saadet.org.tr/tr/haber/621658784dcfd/kotu-gidisata-birlikte-son-verecegiz|başlık=Arşivlenmiş kopya|erişimtarihi=1 Eylül 2023|arşivurl=https://web.archive.org/web/20230513220044/https://saadet.org.tr/tr/haber/621658784dcfd/kotu-gidisata-birlikte-son-verecegiz|arşivtarihi=13 Mayıs 2023|ölüurl=hayır}}</ref>
+}}
+| pozisyon         = [[Sağcılık|Sağ]]<ref>{{Web kaynağı|url=https://turkiyeraporu.com/arastirma/partiler-sag-sol-ekseninin-neresinde-7548/|başlık=Partiler Sağ-Sol Ekseninin Neresinde?|erişimtarihi=20 Mart 2024|tarih=21 Nisan 2022|dil=Türkçe|çalışma=Türkiye Raporu|arşivurl=https://web.archive.org/web/20240320111456/https://turkiyeraporu.com/arastirma/partiler-sag-sol-ekseninin-neresinde-7548/|arşivtarihi=20 Mart 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.birgun.net/haber/yeni-merkez-sag-blok-geliyor-285089|başlık=Yeni merkez sağ blok geliyor|erişimtarihi=20 Mart 2024|dil=Türkçe|çalışma=birgun.net|arşivurl=https://web.archive.org/web/20240320111456/https://www.birgun.net/haber/yeni-merkez-sag-blok-geliyor-285089|arşivtarihi=20 Mart 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://daktilo1984.com/forum/saadet-partisinin-yeni-yol-haritasi-23-haziran-secimleri-ve-otesi/|başlık=Saadet Partisinin Yeni Yol Haritası: 23 Haziran Seçimleri ve Ötesi|erişimtarihi=20 Mart 2024|tarih=21 Haziran 2019|dil=Türkçe|çalışma=Daktilo 1984|ad=Mustafa Cüneyt|soyadı=Özşahin|arşivurl=https://web.archive.org/web/20240320111456/https://daktilo1984.com/forum/saadet-partisinin-yeni-yol-haritasi-23-haziran-secimleri-ve-otesi/|arşivtarihi=20 Mart 2024|ölüurl=hayır}}</ref><ref>{{web kaynağı|url=https://www.duvarenglish.com/opposition-felicity-and-future-parties-to-form-alliance-for-upcoming-local-elections-news-62888|başlık=Opposition Felicity and Future parties to form alliance for upcoming local elections|tarih=13 Ağustos 2023|erişimtarihi=4 Mayıs 2024|arşivurl=https://web.archive.org/web/20230812233414/https://www.duvarenglish.com/opposition-felicity-and-future-parties-to-form-alliance-for-upcoming-local-elections-news-62888|arşivtarihi=12 Ağustos 2023|ölüurl=hayır}}</ref> ve [[aşırı sağ]]<ref>{{Web kaynağı|url = https://politpro.eu/en/turkey/parties|başlık = Turkey: Parties at a glance|erişimtarihi = 20 Mayıs 2023|ölüurl = hayır|website = politpro.eu|arşivurl = https://web.archive.org/web/20200922154045/https://politpro.eu/en/turkey/parties|arşivtarihi = 22 Eylül 2020}} "''Saadet (Saadet Partisi) is a far-right party from Turkey.''"</ref>
+| ulusal           = [[Millî İttifak]] {{küçük|(2015)}}<br>[[Millet İttifakı]] {{küçük|(2018-2023)}}<br>[[Saadet ve Gelecek İttifakı]] {{küçük|(2023–2025)}}<br>[[Yeni Yol|Yeni Yol İttifakı]] {{küçük|(2025-günümüz)}}
+| uluslararası     = 
+| renkler          = {{Color box|#CF3338|border=darkgray}} [[Kırmızı]]
+| sandalye1_başlık = [[Yeni Yol Partisi|Yeni Yol]]'da bulunan milletvekili
+| sandalye1        = {{Composition bar|8|600|hex={{Siyasi parti renk|Saadet Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye2_başlık = [[Türkiye Büyük Millet Meclisi|TBMM]] (Saadet Partisi olarak)
+| sandalye2        = {{Composition bar|1|600|hex={{Siyasi parti renk|Saadet Partisi}}}}[[#Milletvekilleri|Tüm Liste]]
+| sandalye3_başlık = [[Türkiye'nin belediyeleri listesi|İlçe Belediye Başkanlığı]]
+| sandalye3        = {{Composition bar|1|922|hex={{Siyasi parti renk|Saadet Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| sandalye4_başlık = [[Belde|Belde Belediye Başkanlığı]]
+| sandalye4        = {{Composition bar|3|390|hex={{Siyasi parti renk|Saadet Partisi}}}}[[#Belediye başkanları|Tüm Liste]]
+| internet sitesi  = {{URL|http://www.saadet.org.tr}}
+| gençlik_kolu     = Genç Saadet
+| bayrak           = Flag of the Felicity Party.svg
+| kadın_kolu       = Saadet Kadın Kolları
+| kol1_başlık      = Genç kadın kolu
+| kol1             = Genç Saadet Kadın Kolları
+| ülke             = {{TUR}}
+| sandalye5_başlık = [[Belediye meclisi|Belediye Meclisleri]]
+| sandalye5        = {{Composition bar|72|20953|hex={{Siyasi parti renk|Saadet Partisi}}}}
+}}
+'''Saadet Partisi''', 20 Temmuz 2001'de [[Necmettin Erbakan]] ve [[Recai Kutan]] liderliğinde kurulan ve [[Türkiye]]'de faaliyet gösteren "Milli Görüş" ilkesini benimsemiş bir siyasi partidir. Parti tüzüğüne göre resmî kısaltması "SAADET" şeklindedir. Simgesi kırmızı zemin üzerine, beyaz hilal içinde beş adet beyaz yıldızdır. [[Türkiye Büyük Millet Meclisi|TBMM]]'de 9 milletvekili  bulunmaktadır. Ancak ortak grup çalışmaları gereği 9 milletvekilinin 8'i [[Yeni Yol Partisi|Yeni Yol]]'da 1 milletvekili ise Saadet Partisindedir. Genel başkanı [[Mahmut Arıkan]]'dır.
+
+Saadet Partisi, [[Fazilet Partisi]]nin (FP) [[Türkiye Cumhuriyeti Anayasa Mahkemesi|Anayasa Mahkemesi]] tarafından kapatılmasının ardından FP'nin gelenekçi kanadı tarafından partinin devamı olarak kurulmuştur. Fazilet Partisinin yenilikçi kanadı ise [[Adalet ve Kalkınma Partisi]]ni kurmuştur. Partinin ideolojik duruşu büyük ölçüde Necmettin Erbakan'ın fikir ve felsefesine dayanmaktadır.
+
+== Tarihçe ==
+{{Ayrıca bakınız|Millî Nizam Partisi|Millî Selamet Partisi|Refah Partisi|Fazilet Partisi}}
+
+=== Kutan ve Erbakan dönemi: 2001-2008 ===
+{{Çift resim|sol|Necmettin Erbakan (cropped).jpg|120|Recai Kutan 2009 crop.jpg|111|Millî Görüş lideri Necmettin Erbakan (sol) ve Saadet Partisi ilk genel başkanı Recai Kutan (sağ)}}[[Fazilet Partisi]] 22 Haziran 2001'de kapatıldıktan sonra Saadet Partisi kuruldu. Parti, kısa sürede teşkilatlanmasını yeterli seviyeye getirerek seçimlere girmeye hak kazandı. Saadet Partisi, siyasi yasaklarına rağmen [[Millî Görüş|Milli Görüş]] lideri Necmettin Erbakan mitinglerine katıldı ve 784.087 oy ve %2,49 oy oranıyla en çok oyu alan sekizinci parti oldu. Ancak, katıldığı [[2002 Türkiye genel seçimleri|ilk genel seçimde]] %10 seçim barajının gerisinde kaldı.<ref>{{Web kaynağı|url=https://www.yenisafak.com/secim-2002/secim-sonuclari|başlık=2002 Genel Seçimi Seçim Sonuçları - Milletvekili Genel Seçim Sonuçları - Milletvekili Dağılımı|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003149/https://www.yenisafak.com/secim-2002/secim-sonuclari|tarih=26 Mart 2023|ölüurl=hayır|dil=tr-TR|çalışma=Yeni Şafak|ad=Yeni|soyadı=Şafak}}</ref>
+
+11 Mayıs 2003'te yapılan 1. Olağan Kongre'de aday olmayan Recai Kutan'ın yerine Necmettin Erbakan genel başkanlığa seçildi ancak 29 Aralık 2003'te [[Yargıtay Cumhuriyet Başsavcılığı]], Erbakan'ın kesinleşmiş hapis cezası nedeniyle parti üyeliğinden ayrılmasını istedi, bunun üzerine Erbakan 30 Ocak 2004'te parti üyeliğinden ve genel başkanlıktan istifa etti. Recai Kutan bu tarihten itibaren genel başkanlık görevini vekaleten idare etmeye başladı. Saadet Partisi, [[2004 Türkiye yerel seçimleri|2004 yerel seçimlerinde]] %4,77 oy oranına ulaşarak, 63 belediye başkanlığı kazandı. Genel başkanlık görevini vekaleten yürütmekte olan Kutan, 8 Nisan 2006'da yapılan 2. Olağan Kongre'de, genel başkanlık görevini bu sefer seçimle üstlendi. Parti [[2007 Türkiye genel seçimleri|2007 genel seçimlerinde]] %2,34 oy aldı.<ref>{{Web kaynağı|url=https://www.yenisafak.com/secim-2007/secim-sonuclari|başlık=2007 Genel Seçimi Seçim Sonuçları - Milletvekili Genel Seçim Sonuçları - Milletvekili Dağılımı|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003153/https://www.yenisafak.com/secim-2007/secim-sonuclari|tarih=26 Mart 2023|ölüurl=hayır|dil=tr-TR|çalışma=Yeni Şafak|ad=Yeni|soyadı=Şafak}}</ref>
+
+=== Kurtulmuş dönemi: 2008-2011 ===
+[[Numan Kurtulmuş]], 26 Ekim 2008'de yapılan 3. Olağan Kongre'de genel başkanlığa seçildi. İki yıl boyunca Saadet Partisi genel başkanı olarak görev yapan Kurtulmuş, 1 Ekim 2010'da yaptığı basın toplantısında Saadet Partisi'nden ve genel başkanlık görevinden istifa ettiğini duyurdu. Daha sonraki dönemde [[Halkın Sesi Partisi]]ni kurdu.
+[[Dosya:Erbakan Cenaze.jpg|küçükresim|upright=0.91|Erbakan'ın cenazesi, 2011]]
+Kurtulmuş'un istifası üzerine 2003-2004 döneminde 8 ay süreyle genel başkan olan Necmettin Erbakan, 17 Ekim 2010'da ikinci kez genel başkan seçildi. Necmettin Erbakan görevindeyken 27 Şubat 2011'de vefat etti.<ref name=":2">{{Web kaynağı|url=https://www.hurriyet.com.tr/gundem/kurtulmus-spden-istifa-etti-15911879|başlık=Kurtulmuş SP'den istifa etti|erişimtarihi=25 Nisan 2023|arşivtarihi=15 Nisan 2023|arşivurl=https://web.archive.org/web/20230415120954/https://www.hurriyet.com.tr/gundem/kurtulmus-spden-istifa-etti-15911879|ölüurl=hayır|dil=Türkçe|çalışma=[[Hürriyet (gazete)|Hürriyet]]}}</ref>
+
+=== Kamalak dönemi: 2011-2016 ===
+Necmettin Erbakan'ın ölümünün ardından parti, genel seçimlere [[Mustafa Kamalak]]'ın başkan vekilliğinde gitme kararı aldı. Seçimden önce sağda ittifak arayışları gündeme geldi ancak Saadet Partisi seçimlere tek başına katıldı. Saadet Partisi, 2011 seçimlerinde %1,24 oy alarak 4. parti oldu. Seçimin ardından yapılan kongrede Mustafa Kamalak genel başkan olarak seçildi.
+
+Saadet Partisi, [[2011 Türkiye genel seçimleri|12 Haziran'daki seçimlere]] eski genel başkan [[Necmettin Erbakan]]'ın ölümünün ardından genel başkan olan [[Mustafa Kamalak]] ile katıldı. Saadet Partisi, ''Milletin Görüşü'' sloganını kullandığı bu seçimde 543.454 oy ve %1,27'lik oy oranıyla %10'luk seçim barajını aşamadı.<ref>{{Web kaynağı|url=https://www.yenisafak.com/secim-2011/secim-sonuclari|başlık=2011 Genel Seçimi Seçim Sonuçları - Milletvekili Genel Seçim Sonuçları - Milletvekili Dağılımı|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003157/https://www.yenisafak.com/secim-2011/secim-sonuclari|tarih=26 Mart 2023|ölüurl=hayır|dil=tr-TR|çalışma=Yeni Şafak|ad=Yeni|soyadı=Şafak}}</ref>
+
+Saadet Partisi [[Haziran 2015 Türkiye genel seçimleri|7 Haziran'da düzenlenen 2015 genel seçimlerine]] [[Büyük Birlik Partisi]] ile ortak olarak girme kararı aldı ve [[Millî İttifak]] kuruldu. BBP adayları Saadet Partisi listelerinden aday gösterildi. Adayları arasında eski cumhurbaşkanı [[Turgut Özal]]'ın oğlu [[Ahmet Özal]] gibi önceden tanınan kişiler de vardı.<ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/secim-vaadi-memura-yuzde-50-zam,PoceEMlgpk6zwt1f9gcVkQ|başlık=Saadet ve Büyük Birlik seçim beyannamesini açıkladı|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003150/https://www.ntv.com.tr/turkiye/secim-vaadi-memura-yuzde-50-zam,PoceEMlgpk6zwt1f9gcVkQ|ölüurl=hayır|dil=Türkçe|çalışma=[[NTV]]}}</ref> Saadet Partisi bu seçimde ''Saadet'e Gel'' sloganıyla ve ''Saadete Gel'' ile ''Birlikteyiz'' parçalarını kullandı.
+
+Saadet Partisi, önceki genel seçime göre oylarını neredeyse iki katına çıkardı ve 950.359 oy ve %2,06 oy oranıyla beşinci parti oldu, ancak %10'luk seçim barajını aşamadı.<ref>{{Web kaynağı|url=https://www.yenisafak.com/secim-2015/secim-sonuclari|başlık=Haziran 2015 Genel Seçimi Seçim Sonuçları - Milletvekili Genel Seçim Sonuçları - Milletvekili Dağılımı|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003150/https://www.yenisafak.com/secim-2015/secim-sonuclari|tarih=26 Mart 2023|ölüurl=hayır|dil=tr-TR|çalışma=Yeni Şafak|ad=Yeni|soyadı=Şafak}}</ref>
+
+7 Haziran seçimlerinde AK Parti'nin hükûmeti kuramaması üzerine Cumhurbaşkanı [[Recep Tayyip Erdoğan]] seçimlerin [[Kasım 2015 Türkiye genel seçimleri|1 Kasım]]'da yeniden yapılmasına karar verdi. 1 Kasım'daki seçimlere tek başına giren Saadet Partisi 325.975 oy ve %0,68 oy oranıyla beşinci parti oldu ancak %10'luk seçim barajını geçememesi üzerine milletvekili çıkartamadı.<ref>{{Web kaynağı|url=https://www.yenisafak.com/secim-2015-kasim/secim-sonuclari|başlık=Kasım 2015 Genel Seçimi Seçim Sonuçları - Milletvekili Genel Seçim Sonuçları - Milletvekili Dağılımı|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003150/https://www.yenisafak.com/secim-2015-kasim/secim-sonuclari|tarih=26 Mart 2023|ölüurl=hayır|dil=tr-TR|çalışma=Yeni Şafak|ad=Yeni|soyadı=Şafak}}</ref>
+
+=== Karamollaoğlu dönemi: 2016-2024 ===
+Eski [[Sivas Belediyesi|Sivas belediye başkanı]] Temel Karamollaoğlu, 30 Ekim 2016'da partinin [[Saadet Partisi 6. Olağan Büyük Kongresi|6. Olağan Büyük Kongresi]]'nde 891 oyun 871'ini alarak genel başkan oldu.<ref>{{Haber kaynağı|url=https://www.aa.com.tr/tr/gunun-basliklari/saadet-partisi-yeni-baskanini-secti/675142|başlık=Saadet Partisi yeni başkanını seçti|erişimtarihi=10 Temmuz 2023|tarih=30 Ekim 2016|yayıncı=AA|arşivurl=https://web.archive.org/web/20161102213759/http://aa.com.tr/tr/gunun-basliklari/saadet-partisi-yeni-baskanini-secti/675142|arşivtarihi=2 Kasım 2016|ölüurl=hayır}}</ref> Karamollaoğlu, 2019'da partinin [[Saadet Partisi 7. Olağan Büyük Kongresi|7. Olağan Büyük Kongresi]]'nde ikinci, 2022'de partinin [[Saadet Partisi 8. Olağan Büyük Kongresi|8. Olağan Büyük Kongresi]]'nde üçüncü kez genel başkan seçildi.<ref name=":3">{{Web kaynağı|url=https://www.aa.com.tr/tr/info/infografik/16075|başlık=Anadolu Ajansı|erişimtarihi=2 Nisan 2023|arşivtarihi=4 Kasım 2019|arşivurl=https://web.archive.org/web/20191104175052/https://www.aa.com.tr/tr/info/infografik/16075|ölüurl=hayır|çalışma=Anadolu Ajansı}}</ref><ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/12462812/son-dakika-kongre-sonuclandi-karamollaoglu-yeniden-baskan-secildi|başlık=Son Dakika! Kongre sonuçlandı: Karamollaoğlu yeniden başkan seçildi|erişimtarihi=2 Nisan 2023|arşivtarihi=28 Mart 2023|arşivurl=https://web.archive.org/web/20230328155801/https://www.milligazete.com.tr/haber/12462812/son-dakika-kongre-sonuclandi-karamollaoglu-yeniden-baskan-secildi|ölüurl=hayır|dil=Türkçe|çalışma=Milli Gazete}}</ref> Karamollaoğlu liderliğinde parti, [[2017 Türkiye anayasa değişikliği referandumu|2017 referandumuna]], [[2018 Türkiye genel seçimleri|2018]] ve [[2023 Türkiye genel seçimleri|2023]] genel seçimlerine ve [[2019 Türkiye yerel seçimleri|2019]] ve [[2024 Türkiye yerel seçimleri|2024]] yerel seçimlerine katıldı.<ref name="aa1">{{haber kaynağı |başlık=Saadet Partisi'nde ikinci Karamollaoğlu dönemi |url=https://www.aa.com.tr/tr/info/infografik/16075 |erişimtarihi=4 Kasım 2019 |yayıncı=AA |tarih=4 Kasım 2019 |arşivurl=https://web.archive.org/web/20191104175052/https://www.aa.com.tr/tr/info/infografik/16075 |arşivtarihi=4 Kasım 2019 |ölüurl=hayır }}</ref>
+[[Dosya:Güçlendirilmiş_Parlamenter_Sistem_toplantısı.jpg|küçükresim|Altılı Masa liderleri, 2022|upright=0.91]]
+Karamollaoğlu'nun genel başkan olmasından yaklaşık altı ay sonra Saadet Partisi, [[2017 Türkiye anayasa değişikliği referandumu|2017 referandumunda]] "Hayır" dedi. 2018'deki genel seçimlerde Saadet Partisi, [[Cumhuriyet Halk Partisi|CHP]], [[İYİ Parti]] ve [[Demokrat Parti (2007)|DP]] ile beraber [[Millet İttifakı]]nı oluşturdu.
+
+Parti 2018 cumhurbaşkanlığı seçiminde Karamollaoğlu'nu aday gösterdi. Aday olabilmek için imza kampanyası yürüten Karamollaoğlu, ilk günde 44.967 imza topladı, sonraki üç günde 100 bin imzayı geçti ve toplamda 167.967 imza ile adaylığa hak kazandı.<ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2018/gundem/imza-verme-islemi-suruyor-2-saatte-45-bin-imza-2386926/|başlık=İmza verme işlemi bitti… İlk gün 186 bini geçti|erişimtarihi=25 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003149/https://www.sozcu.com.tr/2018/gundem/imza-verme-islemi-suruyor-2-saatte-45-bin-imza-2386926/|ölüurl=hayır|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]}}</ref>
+
+Saadet Partisi, ittifak kapsamında seçim barajına takılmamasına rağmen kendi listelerinden milletvekili çıkartamadı. 634.731 oy ile %1,34 oy oranında temsil buldu. Saadet Partisi, CHP listelerinden seçilen iki milletvekili ile 16 yıl sonra TBMM'de temsil edilmeye başlandı.<ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/1652637/saadet-partisi-milletvekilleri-cihangir-islam-ve-abdulkadir-karaduman-tbmmde-yemin-etti|başlık=Saadet Partisi milletvekilleri İslam ve Karaduman Meclis'te yemin etti|erişimtarihi=26 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003154/https://www.milligazete.com.tr/haber/1652637/saadet-partisi-milletvekilleri-cihangir-islam-ve-abdulkadir-karaduman-tbmmde-yemin-etti|ölüurl=hayır|dil=Türkçe|çalışma=Milli Gazete}}</ref> Karamollaoğlu ise 443.704 oy ve %0,89 oy oranıyla en çok oy alan beşinci aday oldu.
+
+[[İnsan Hakları Derneği]], [[Türkiye İnsan Hakları Vakfı]] ve Bağımsız Seçim İzleme Platformu 2018 yılı boyunca gerçekleşen ihlallere yer verdikleri ortak raporda partiye 8 kez saldırı yapıldığı belirtildi.<ref>{{Web kaynağı|url=https://tr.euronews.com/2018/06/22/secim-kampanyasinda-hangi-partiye-kac-saldiri-oldu-rapor|başlık=Seçim kampanyasında hangi partiye kaç saldırı oldu? - Rapor|erişimtarihi=25 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003150/https://tr.euronews.com/2018/06/22/secim-kampanyasinda-hangi-partiye-kac-saldiri-oldu-rapor|tarih=22 Haziran 2018|ölüurl=hayır|dil=Türkçe|çalışma=euronews|ad=Zehra|soyadı=Yildiz}}</ref>
+
+Parti, 2019 yerel seçimlerinde 21 belediye başkanlığı kazandı. Saadet Partisi'nin kampanyasında yer alan Türkiye'nin ilk seçim maskotu olan Dürüst Sami, internet ve sinema reklamları gibi tanıtım çalışmalarıyla medyada yer buldu.<ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/1788094/saadet-partisinin-cepsiz-ceket-objesi-nedir|başlık=Saadet Partisi’nin “cepsiz ceket” objesi nedir?|erişimtarihi=10 Temmuz 2023|arşivtarihi=2 Nisan 2023|arşivurl=https://web.archive.org/web/20230402043516/https://www.milligazete.com.tr/haber/1788094/saadet-partisinin-cepsiz-ceket-objesi-nedir|ölüurl=hayır|dil=Türkçe|çalışma=Milli Gazete}}</ref><ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/1902324/saadet-partisinden-yeni-reklam-filmi-serisi-durust-sami|başlık=Milli Gazete|erişimtarihi=10 Temmuz 2023|arşivtarihi=10 Temmuz 2023|arşivurl=https://web.archive.org/web/20230710131720/https://www.milligazete.com.tr/haber/1902324/saadet-partisinden-yeni-reklam-filmi-serisi-durust-sami|dil=Türkçe|çalışma=Milli Gazete}}</ref> Bazı medya kuruluşları Saadet Partisi'nin aday çıkararak muhafazakarların oylarını böldüğünü öne sürdü.<ref>{{Web kaynağı|url=https://www.ahaber.com.tr/video/gundem-videolari/saadet-partisi-muhafazakar-oylari-boldu|başlık=Saadet Partisi muhafazakar oyları böldü!|erişimtarihi=2 Nisan 2023|arşivtarihi=2 Nisan 2023|arşivurl=https://web.archive.org/web/20230402043511/https://www.ahaber.com.tr/video/gundem-videolari/saadet-partisi-muhafazakar-oylari-boldu|ölüurl=hayır|dil=Türkçe|çalışma=[[a Haber]]}}</ref><ref>{{Web kaynağı|url=https://www.odatv4.com/siyaset/tartisiyorlar-saadet-partisi-oylarimizi-boldugu-icin-istanbulu-kaybettik--22041930-159972|başlık=Tartışıyorlar: Saadet Partisi oylarımızı böldüğü için İstanbul'u kaybettik|erişimtarihi=2 Nisan 2023|arşivtarihi=2 Nisan 2023|arşivurl=https://web.archive.org/web/20230402043513/https://www.odatv4.com/siyaset/tartisiyorlar-saadet-partisi-oylarimizi-boldugu-icin-istanbulu-kaybettik--22041930-159972|ölüurl=hayır|dil=İngilizce|çalışma=odatv4.com|soyadı=odatv4.com}}</ref> Cumhurbaşkanı [[Recep Tayyip Erdoğan]], İstanbul seçimlerinden önce [[Necdet Gökçınar]]'ın aday gösterilmesine rağmen Saadet Partisi'nin aday çıkarmayıp CHP adayını desteklediğini söyledi. Seçimin ardından bazı medya kuruluşları AK Parti'nin İstanbul'da kaybetmesine neden olarak Saadet Partisi'nin aday çıkarmasını gösterdi.<ref>{{Web kaynağı|url=https://t24.com.tr/haber/saadet-partisi-nin-istanbul-adayi-31-mart-ta-yoktuk-simdi-butun-isin-sorumlusu-biz-olduk,823050|başlık=Saadet Partisi'nin İstanbul adayı: 31 Mart’ta yoktuk, şimdi bütün işin sorumlusu biz olduk|erişimtarihi=2 Nisan 2023|arşivtarihi=2 Nisan 2023|arşivurl=https://web.archive.org/web/20230402043510/https://t24.com.tr/haber/saadet-partisi-nin-istanbul-adayi-31-mart-ta-yoktuk-simdi-butun-isin-sorumlusu-biz-olduk,823050|ölüurl=hayır|dil=Türkçe|çalışma=T24}}</ref>
+
+Seçim döneminde "Sülün Osman" reklam filmi sinema salonlarında yayınlandı ancak sonradan kaldırıldı. "Sülün Osman" filminin yayından kaldırılması üzerine üç penguenin oynadığı "Bye Bye Happiness" başlıklı reklam filmi sinemalara reklam olarak verildi.
+
+Saadet Partisi 12 Şubat 2022'de CHP, İYİ Parti, DP, [[Demokrasi ve Atılım Partisi|DEVA Partisi]] ve [[Gelecek Partisi]] ile Ahlatlıbel'de bir araya geldi.<ref>{{Web kaynağı|url=https://www.karar.com/guncel-haberler/muhalefetin-6-lideri-ilk-kez-bir-araya-geldi-1651281|başlık=6 siyasi parti lideri ilk kez bir araya geldi|erişimtarihi=10 Temmuz 2023|tarih=12 Şubat 2022|dil=Türkçe|çalışma=KARAR|arşivurl=https://web.archive.org/web/20220629191839/https://www.karar.com/guncel-haberler/muhalefetin-6-lideri-ilk-kez-bir-araya-geldi-1651281|arşivtarihi=29 Haziran 2022|ölüurl=hayır}}</ref><ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-60334483|başlık=6 muhalefet lideri buluştu: Güçlendirilmiş Parlamenter Sistem'e geçmek ortak ve öncelikli hedefimiz|erişimtarihi=10 Temmuz 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230326003149/https://www.bbc.com/turkce/haberler-turkiye-60334483|arşivtarihi=26 Mart 2023|ölüurl=hayır}}</ref> Basında ''Altılı Masa'' olarak adlandırılan bu oluşum daha sonra "[[Güçlendirilmiş parlamenter sistem|Güçlendirilmiş Parlamenter Sistem]]" hedefiyle Millet İttifak'ına dönüştü. AK Parti ve MHP'nin 2018 seçimlerinden sonra muhalefetin daha fazla milletvekili kazanmasını engellemek için ittifakın toplam oyu yerine partilerin kendi oyları üzerinden milletvekili sayısını değiştirmesi nedeniyle Temel Karamollaoğlu, Millet İttifakı'nın içerisinde DEVA Partisi ve Gelecek Partisi'ne seçime ortak liste ile girme teklifini sundu, ancak kabul görmedi.<ref>{{Haber kaynağı|url=https://www.bbc.com/turkce/haberler-turkiye-60763355|başlık=Seçim Yasası: İttifak düzenlemesi neden getirildi, muhalefet aleyhine sonuç doğurur mu?|erişimtarihi=10 Temmuz 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230329062808/https://www.bbc.com/turkce/haberler-turkiye-60763355|arşivtarihi=29 Mart 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.sozcu.com.tr/2018/gundem/cumhur-ittifaki-mecliste-2238069/|başlık=AKP ve MHP’nin ittifak yasası Meclis’te… İşte detaylar|erişimtarihi=10 Temmuz 2023|tarih=23 Şubat 2018|dil=Türkçe|çalışma = [[Sözcü (gazete)|Sözcü]]|arşivurl=https://web.archive.org/web/20220707005200/https://www.sozcu.com.tr/2018/gundem/cumhur-ittifaki-mecliste-2238069/|arşivtarihi=7 Temmuz 2022|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.ntv.com.tr/galeri/2023-secim/yeni-secim-yasasi-ve-ittifaklar-kritik-degisiklikler,nqnTTxMu8E6LG1P7HUnh6w|başlık=Yeni seçim yasası ve ittifaklar: Kritik değişiklikler!|erişimtarihi=10 Temmuz 2023|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20230519224447/https://www.ntv.com.tr/galeri/2023-secim/yeni-secim-yasasi-ve-ittifaklar-kritik-degisiklikler,nqnTTxMu8E6LG1P7HUnh6w|arşivtarihi=19 Mayıs 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url=https://www.dw.com/tr/5-soruda-yeni-se%C3%A7im-yasas%C4%B1-i%CC%87ktidar-neyi-hedefledi-millet-i%CC%87ttifak%C4%B1-ne-yapacak/a-61142090|başlık=İktidar neyi hedefledi, Millet İttifakı ne yapacak? – DW – 16.03.2022|erişimtarihi=10 Temmuz 2023|dil=Türkçe|çalışma=dw.com|arşivurl=https://web.archive.org/web/20221002235253/https://www.dw.com/tr/5-soruda-yeni-se%C3%A7im-yasas%C4%B1-i%CC%87ktidar-neyi-hedefledi-millet-i%CC%87ttifak%C4%B1-ne-yapacak/a-61142090|arşivtarihi=2 Ekim 2022|ölüurl=hayır}}</ref> 30 Ekim 2022'de yapılan 8. Olağan Büyük Kongre'de Saadet Partisi, "Kararlıyız Millettin İktidarında Saadet Var" sloganını duyurdu ve aynı adlı kampanya şarkısını yayınladı. Parti, 14 Mayıs'ta yapılacak seçimler için "İklim Değişikliği" sloganını seçti.
+
+Millet İttifakı'nın cumhurbaşkanı adayı [[Kemal Kılıçdaroğlu]] oldu ve diğer 5 partinin genel başkanı da cumhurbaşkanı yardımcısı adayı oldu.<ref>{{Web kaynağı|url=https://milletittifaki.biz/liderler-bulusmasi/6-mart-2023-saadet-partisi|başlık=6 Mart 2023 - Saadet Partisi|erişimtarihi=25 Mart 2023|arşivtarihi=26 Mart 2023|arşivurl=https://web.archive.org/web/20230326003153/https://milletittifaki.biz/liderler-bulusmasi/6-mart-2023-saadet-partisi|ölüurl=hayır|çalışma=milletittifaki.biz}}</ref> İlerleyen süreçte CHP'nin seçim listelerinde Saadet Partisi için 24 milletvekili adayı yer aldı ve 10 aday milletvekili seçildi. Millet İttifakı cumhurbaşkanlığı ve parlamento seçimlerini kaybetti. Parti 2024 seçimlerinde, "Bu seçimde oylar CHP'ye, SAADET Meclis'e!" sloganını duyurdu. Ayrıca "Sana Söz" ve "Haydi Türkiye" şarkıları kampanya sürecinde ortak olarak kullanıldı.
+[[Dosya:Saadet Partisi Grup Toplantısı (12.07.2023).png|küçükresim|Saadet Partisi Genel Başkanı [[Temel Karamollaoğlu]] partinin grup toplantısında konuşma yapıyor.]]
+2023 seçimlerinin ardından TBMM'de Saadet Partisi, DEVA ve Gelecek partileri ile ortak bir grup oluşturmak için görüşmelere başladı. DEVA Partisi müzakerelerden çekildi, ancak SAADET ve Gelecek Partisi müzakerelere devam etti. İki siyasi parti ortak bir grup oluşturmak ve mecliste ve gelecek seçimlerde işbirliği yapmak amacıyla 6 Temmuz 2023'te bir ittifak protokolü imzaladılar. Saadet Partisi, protokol gereği 10 Gelecek Partili milletvekilini partiye kabul etti ve 21 yılın ardından TBMM'de [[Saadet ve Gelecek İttifakı|meclis grubu]] oluşturdu.<ref>{{Web kaynağı|url=https://www.bbc.com/turkce/articles/c10r0l64922o|başlık=Saadet ve Gelecek partileri Meclis'te grup kuracak, yerel seçimde işbirliği yapacak: DEVA Partisi neden çekildi?|erişimtarihi=10 Temmuz 2023|tarih=6 Temmuz 2023|dil=Türkçe|çalışma=BBC News Türkçe|arşivurl=https://web.archive.org/web/20230708085057/https://www.bbc.com/turkce/articles/c10r0l64922o|arşivtarihi=8 Temmuz 2023|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://www.dw.com/tr/gelecek-ve-saadet-partisi-mecliste-ortak-grup-kurdu/a-66137799|başlık = Gelecek ve Saadet Partisi Meclis'te ortak grup kurdu – DW – 06.07.2023|erişimtarihi = 10 Temmuz 2023|dil = Türkçe|çalışma = dw.com|arşivurl = https://web.archive.org/web/20230710131720/https://www.dw.com/tr/gelecek-ve-saadet-partisi-mecliste-ortak-grup-kurdu/a-66137799|arşivtarihi = 10 Temmuz 2023}}</ref><ref>{{Web kaynağı|url=https://www.ntv.com.tr/turkiye/saadet-partisi-ile-gelecek-partisi-anlasti-mecliste-yeni-grup-kuruluyor,Yl4ikau6P0GZZrIhoF3_uQ|başlık=Saadet Partisi ile Gelecek Partisi anlaştı: Meclis'te yeni grup kuruluyor|erişimtarihi=10 Temmuz 2023|dil=Türkçe|çalışma=[[NTV]]|arşivurl=https://web.archive.org/web/20230708104344/https://www.ntv.com.tr/turkiye/saadet-partisi-ile-gelecek-partisi-anlasti-mecliste-yeni-grup-kuruluyor,Yl4ikau6P0GZZrIhoF3_uQ|arşivtarihi=8 Temmuz 2023|ölüurl=hayır}}</ref>
+
+3 Mayıs 2024 tarihinde Karamollaoğlu, genel başkanlık görevini sağlık sorunları nedeniyle bırakacağını söyledi.<ref>{{Web kaynağı|url=https://www.haberler.com/politika/saadet-partisi-genel-baskani-temel-karamollaoglu-genel-baskanliktan-ayrilacagini-belirtti-17292846-haberi/|başlık=Saadet Partisi Genel Başkanı Temel Karamollaoğlu, genel başkanlığı bırakıyor|erişimtarihi=9 Mayıs 2024|tarih=3 Mayıs 2024|dil=Türkçe|çalışma=Haberler|arşivurl=https://web.archive.org/web/20240509133151/https://www.haberler.com/politika/saadet-partisi-genel-baskani-temel-karamollaoglu-genel-baskanliktan-ayrilacagini-belirtti-17292846-haberi/|arşivtarihi=9 Mayıs 2024|ölüurl=hayır}}</ref> Karamollaoğlu'nun kararıyla 30 Haziran 2024 tarihinde 9. Olağanüstü Kongre'nin toplanması kararı alındı.<ref>{{Web kaynağı|url=https://www.gercekgundem.com/siyaset/karamollaoglu-genel-baskanligi-birakiyor-saadet-partisinin-kongre-tarihi-belli-oldu-460181|başlık=Karamollaoğlu genel başkanlığı bırakıyor: Saadet Partisi'nin kongre tarihi belli oldu|erişimtarihi=9 Mayıs 2024|arşivtarihi=9 Mayıs 2024|arşivurl=https://web.archive.org/web/20240509133151/https://www.gercekgundem.com/siyaset/karamollaoglu-genel-baskanligi-birakiyor-saadet-partisinin-kongre-tarihi-belli-oldu-460181|tarih=8 Mayıs 2024|ölüurl=hayır|dil=tr-TR|yayıncı=Gerçek Gündem}}</ref> Kongre için [[Mahmut Arıkan]]<ref>{{Web kaynağı|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-karamollaoglu-duyurdu-saadette-genel-baskan-adayi-2220240|başlık=Karamollaoğlu duyurdu: Saadet'te genel başkan adayı Mahmut Arıkan|erişimtarihi=3 Temmuz 2024|tarih=24 Haziran 2024|yayıncı=[[Cumhuriyet (gazete)|Cumhuriyet]]|arşivurl=https://web.archive.org/web/20240625023338/https://www.cumhuriyet.com.tr/siyaset/son-dakika-karamollaoglu-duyurdu-saadette-genel-baskan-adayi-2220240|arşivtarihi=25 Haziran 2024|ölüurl=hayır}}</ref> ve [[Birol Aydın]]<ref>{{Web kaynağı|url=https://www.dunya.com/gundem/birol-aydin-saadet-partisinde-genel-baskanliga-aday-oldu-haberi-733563|başlık=Birol Aydın Saadet Partisi'nde genel başkanlığa aday oldu|erişimtarihi=3 Temmuz 2024|tarih=24 Haziran 2024|yayıncı=[[Dünya (gazete)|Dünya]]|arşivurl=https://web.archive.org/web/20240625015806/https://www.dunya.com/gundem/birol-aydin-saadet-partisinde-genel-baskanliga-aday-oldu-haberi-733563|arşivtarihi=25 Haziran 2024|ölüurl=hayır}}</ref> aday oldu. 24 Kasım 2024'e ertelenen ve olağan olarak yapılan kongrede Kayseri Milletvekili Mahmut Arıkan Parti'nin 6. genel başkanı oldu.
+
+=== Arıkan dönemi: 2024- ===
+Mahmut Arıkan, 24 Kasım 2024'te partinin [[Saadet Partisi 9. Olağanüstü Büyük Kongresi|9. Olağan Büyük Kongresi]]'nde 1.026 oyun 823'ünü alarak genel başkan oldu. [[Gelecek Partisi]] ve [[Demokrasi ve Atılım Partisi]] milletvekillerinin katılımıyla [[Celal Mümtaz Akıncı]] başkanlığında 10 Ocak 2025 tarihinde [[Yeni Yol (Meclis Grubu)|Yeni Yol]] adı verdikleri ittifakla TBMM'de ortak bir grup kurmuşlardır.
+
+== Tartışmalar ve olaylar ==
+
+=== Yeniden Refah Partisi ve genel merkez binası ===
+Saadet Partisi, [[Balgat]]'ta bulunan ve yıllardır [[Millî Görüş]] çizgisinde ilerleyen bütün siyasi partilerin genel merkezi konumunda olan binada faaliyetlerini sürdürmekteydi. Ancak Yeniden Refah Partisi Genel Başkanı ve Necmettin Erbakan'ın oğlu [[Fatih Erbakan]], Saadet Partisi'nin artık Millî Görüş çizgisinden çıktığını ve söz konusu binanın kirasını ödemediğini öne sürerek partiye haciz işlemleri başlattı.<ref>{{Web kaynağı|url=https://www.internethaber.com/saadet-partisi-genel-merkez-binasina-haciz-geldi-bina-bosaltildi-2013967h.htm|başlık=Saadet Partisi Genel Merkez binasına haciz geldi bina boşaltıldı|erişimtarihi=31 Mart 2021|arşivtarihi=12 Nisan 2019|arşivurl=https://web.archive.org/web/20190412133450/https://www.internethaber.com/saadet-partisi-genel-merkez-binasina-haciz-geldi-bina-bosaltildi-2013967h.htm|tarih=4 Kasım 2019|dil=tr-TR|ad=Internet|soyadı=Haber}}</ref> Fatih Erbakan ve Mehmet Altınöz'ün açtığı davada binanın 2018 yılının Aralık ayında tahliye edilmesine karar verildi. Bunun üzerine dönemin Saadet Partisi Genel Sekreteri Tacettin Çetinkaya, 16. Asliye Hukuk Mahkemesi'ne binanın kendilerine ait olduğuna dair tapu iptal ve tescil davası açtıklarını açıkladı. Mahkeme Saadet Partisi lehine ihtiyati tedbir kararı verdi. Ancak binanın resmi sahibi olan ETAŞ tarafından kira alacağı olduğu gerekçesi nedeniyle<ref name=":0">{{Web kaynağı|url=https://www.yeniakit.com.tr/haber/saadet-partisinden-tahliye-aciklamasi-704974.html|başlık=Saadet Partisinden tahliye açıklaması - Yeni Akit|erişimtarihi=26 Mart 2023|arşivtarihi=27 Mart 2023|arşivurl=https://web.archive.org/web/20230327023409/https://www.yeniakit.com.tr/haber/saadet-partisinden-tahliye-aciklamasi-704974.html|ölüurl=hayır|dil=Türkçe|çalışma=yeniakit.com.tr}}</ref> Saadet Partisi binayı 11 Nisan 2019'da tahliye etti. Tahliye işleminin ardından [[Yeniden Refah Partisi]], parti genel merkezi olarak Saadet Partisi'nin eski genel merkez binasına taşındı.<ref>[https://www.aa.com.tr/tr/politika/yeniden-refah-partisi-tabelasini-asti/1536327# Yeniden Refah Partisi tabelasını astı] {{Webarşiv|url=https://web.archive.org/web/20190720164258/https://www.aa.com.tr/tr/politika/yeniden-refah-partisi-tabelasini-asti/1536327|tarih=20 Temmuz 2019}}, 19.07.2019</ref>
+
+Konuyla ilgili Saadet Partisi'nin avukatı Fatih Beyazıt şu açıklamayı yapmıştı: "''Bu kira ödenmemesiyle alakalı bir uyuşmazlık. Yani biz burada mülkiyet sahibi olduğumuzu iddia ediyoruz, onlarsa hayır kiracısınız diyorlar. Anlaşmazlık buradan kaynaklı ve bizim hukuki sürecimiz devam ediyor. Ancak binanın tapusuyla alakalı açmış olduğumuz davada lehimize bir tedbir kararı verilmişti. Kendilerine hukuki süreç sonuçlanana kadar yeni bir kira kontratı önerdik fakat bu süreçte başka bir binadaki yeni bir kira kontratını bugün imzaladık ve bunu karşı tarafa ilettik, Pazar gününe kadar müsaade edin dedik ama "Hayır bugün olmasını istiyoruz." dediler. Bugün geleceklerinden habersizdik. Kendilerinden pazar gününe kadar bize müsaade etmelerini istedik ama kabul etmediler. Şık olmayan bir durumla karşı karşıyayız ve iyi niyetin olduğundan da söz edemeyiz. Asıl olarak 400 bin lira ve 100 bin TL de faiz ödedik."<ref name=":0" />''
+
+=== Yeni genel merkez binası ===
+Saadet Partisi Genel Başkan Yardımcısı [[Mesut Doğan]] başkanlığında bir komisyon kuruldu ve parti yeni bir genel merkez binası satın almaya karar verdi. Ankara'nın Altındağ ilçesinde Zübeyde Hanım Caddesi'nde bulunan 4 bin metrekare kapalı alana sahip bir binayı, 24 Nisan 2019'da 20 milyon TL'ye satın almaya karar verdi. Binanın tamamı Saadet Partisi'ne ait olması ve paranın beş aylık taksitler halinde ödenmesi kabul edildi.<ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/2482830/saadet-partisi-yeni-genel-merkezine-tasiniyor|başlık=Saadet Partisi yeni genel merkezine taşınıyor|erişimtarihi=27 Mart 2023|dil=Türkçe|çalışma=Milli Gazete|arşivurl=https://web.archive.org/web/20230327023412/https://www.milligazete.com.tr/haber/2482830/saadet-partisi-yeni-genel-merkezine-tasiniyor|arşivtarihi=27 Mart 2023|ölüurl=hayır}}</ref>
+
+Yeni satın alınan genel merkez binasının dışı tamamlandı ancak içi henüz kullanıma hazır değildi. Bu eksikliklerin giderilmesi için Saadet Partisi'nden "Sen Olursan Olur" adlı bir bağış kampanyası başlatıldı.<ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/3164675/sen-olursan-olur|başlık=Sen olursan olur!|erişimtarihi=27 Mart 2023|dil=Türkçe|çalışma=Milli Gazete|arşivurl=https://web.archive.org/web/20230327023412/https://www.milligazete.com.tr/haber/3164675/sen-olursan-olur|arşivtarihi=27 Mart 2023|ölüurl=hayır}}</ref> Kampanya ile parti 9,5 milyon TL topladı.<ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/3164058/saadet-partisinden-kampanya-sen-olursan-olur|başlık=Saadet Partisi'nden kampanya: Sen olursan olur|erişimtarihi=27 Mart 2023|dil=Türkçe|çalışma=Milli Gazete|arşivurl=https://web.archive.org/web/20230327023414/https://www.milligazete.com.tr/haber/3164058/saadet-partisinden-kampanya-sen-olursan-olur|arşivtarihi=27 Mart 2023|ölüurl=hayır}}</ref> Kampanyaya yaklaşık 10 bin kişi destek verdi.<ref name=":1">{{Web kaynağı|url=https://www.indyturk.com/node/614911/siyaset/muhalefetin-kalbinin-att%C4%B1%C4%9F%C4%B1-o-bina-nas%C4%B1l-kuruldu|başlık=Muhalefetin kalbinin attığı o bina nasıl kuruldu?|erişimtarihi=27 Mart 2023|tarih=6 Mart 2023|dil=Türkçe|çalışma=Independent Türkçe|arşivurl=https://web.archive.org/web/20230327023408/https://www.indyturk.com/node/614911/siyaset/muhalefetin-kalbinin-att%C4%B1%C4%9F%C4%B1-o-bina-nas%C4%B1l-kuruldu|arşivtarihi=27 Mart 2023|ölüurl=hayır}}</ref>
+
+Saadet Partisi'nin yeni genel merkez binasının tadilatı 1,5 yıl sürdü. Açılışı ise ilk önce Saadet Partisi'nin ve [[Kıbrıs barış harekatı|Kıbrıs Barış Harekatı]]'nın yıl dönümü olan 20 Temmuz 2020'de yapılacağı duyuruldu ancak [[COVID-19]] nedeniyle bu gerçekleşemedi. Saadet Partisi, binaya 2020 yılının eylül ayında taşındı.<ref>{{Web kaynağı|url=https://www.aa.com.tr/tr/politika/tadilati-biten-saadet-partisinin-yeni-genel-merkezi-hizmete-hazir/1977552|başlık=Tadilatı biten Saadet Partisinin yeni genel merkezi hizmete hazır|erişimtarihi=27 Mart 2023|çalışma=Anadolu Ajansı.com.tr|arşivurl=https://web.archive.org/web/20230327023411/https://www.aa.com.tr/tr/politika/tadilati-biten-saadet-partisinin-yeni-genel-merkezi-hizmete-hazir/1977552|arşivtarihi=27 Mart 2023|ölüurl=hayır}}</ref>
+
+Saadet Partisi'nin yeni genel merkezi [[2023 Kahramanmaraş depremleri|2023 Kahramanmaraş Depremleri]]'nde depremzedeler için kullanıldı. Altılı Masa'nın deprem gündemiyle düzenlediği toplantıya ve 2023 cumhurbaşkanlığı seçimine çıkarılacak aday için yapılan toplantılara ev sahipliği yaptı. Millet İttifakı'nın 13. cumhurbaşkanı adayı da binanın önünde, Saadet Partisi Genel Başkanı Temel Karamollaoğlu tarafından kamuoyuna duyuruldu. Altılı Masa'nın burada sık sık toplanması üzerine Demokrat Parti Genel Başkanı [[Gültekin Uysal]] "Buraya saadet bulmaya geliyoruz." dedi.<ref name=":1" /><ref>{{Web kaynağı|url=https://www.milligazete.com.tr/haber/14141749/dp-genel-baskani-gultekin-uysal-saadet-bulmaya-geliyoruz|başlık=DP Genel Başkanı Gültekin Uysal: Saadet bulmaya geliyoruz|erişimtarihi=27 Mart 2023|dil=Türkçe|çalışma=Milli Gazete|arşivurl=https://web.archive.org/web/20230327023413/https://www.milligazete.com.tr/haber/14141749/dp-genel-baskani-gultekin-uysal-saadet-bulmaya-geliyoruz|arşivtarihi=27 Mart 2023|ölüurl=hayır}}</ref>
+
+=== Hasan Bitmez'in ölümü ===
+
+12 Aralık 2023'te TBMM Genel Kurulunda bütçe görüşmeleri sırasında söz alan Kocaeli milletvekili [[Hasan Bitmez]] kürsüye "Katil İsrail işbirlikçi AKP" yazılı bir döviz ile çıktı. Konuşmasında [[Hamas-İsrail Savaşı|Aksa Tufanı]]'na ve sonrasında [[Filistin]]'de yaşananlara değinen Bitmez, Recep Tayyip Erdoğan'ı geçmişte İsrail lehine yaptığı açıklamaları hatırlattı ve hükûmetin İsrail'le ilişkileri sürdürmesini, ticari faaliyetleri kesmemesini ve Türkiye'den İsrail'e gemi gitmesini eleştirdi. Bitmezin bu konuşması sırasında AK Parti milletvekilleri [[Özlem Zengin]], [[Ercan Öztürk]], [[Çiğdem Koncagül]], [[Büşra Paker|Büşra Peker]] defalarca araya girdi. Hasan Bitmez sözlerini [[Sezai Karakoç]]'un şu sözleriyle bitirdi:<ref>{{Web kaynağı|url=https://www.karar.com/guncel-haberler/saadet-partili-hasan-bitmezin-bayildigi-anlar-meclis-tutanaklarina-1817585|başlık=Saadet Partili Hasan Bitmez'in bayıldığı anlar Meclis tutanaklarına yansıdı: 'Allah'ın gazabı böyle olur'|erişimtarihi=21 Mart 2024|tarih=12 Aralık 2023|dil=Türkçe|çalışma=KARAR|arşivurl=https://web.archive.org/web/20240321205706/https://www.karar.com/guncel-haberler/saadet-partili-hasan-bitmezin-bayildigi-anlar-meclis-tutanaklarina-1817585|arşivtarihi=21 Mart 2024|ölüurl=hayır}}</ref><blockquote>"Onlar sanıyorlar ki, biz sussak mesele kalmayacak. Halbuki, biz sussak, tarih susmayacak. Tarih sussa, hakikat susmayacak. Onlar sanıyorlar ki, bizden kurtulsalar mesele kalmayacak. Halbuki bizden kurtulsalar vicdan azabından kurtulamayacaklar, vicdan azabından kurtulsalar, tarihin azabından kurtulamayacaklar. Tarihin azabından kurtulsalar, Allah'ın gazabından kurtulamayacaklar."</blockquote>Sözlerini tamamlamasının ardından kalbi duran Bitmez yoğun bakıma kaldırıldı. 14 Aralık 2023'te [[Ankara Bilkent Şehir Hastanesi]]'nde 53 yaşında hayatını kaybetti. Bitmez için aynı gün TBMM'de cenaze töreni düzenlendi. Hasan Bitmez 15 Aralık 2023'te [[Fatih Camii]]'nde cenaze namazını kılınmasının ardından [[Merkezefendi Mezarlığı]]'na defnedildi.
+
+== Yapılanma ==
+
+=== Genel başkanları ===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+! scope="col" | #
+! scope="col" class="unsortable" | Portre
+! scope="col" | İsim
+! scope="col" | Görev başlangıcı
+! scope="col" | Görev bitişi
+! scope="col" | Görev süresi
+|-
+| 1 
+| [[Dosya:Recai Kutan 2009 crop.jpg|75px]]
+! scope="row" align="left" | [[Recai Kutan]]<br />{{Küçük|(1930-2024)}}
+| 20 Temmuz 2001
+| 11 Mayıs 2003
+| {{ayd|2001|7|20|2003|5|11}}
+|-
+| 2 
+| [[Dosya:Necmettin Erbakan.jpg|75px]]
+! scope="row" align="left" | [[Necmettin Erbakan]]<br />{{Küçük|(1926-2011)}}
+| 11 Mayıs 2003
+| 30 Ocak 2004
+| {{ayd|2003|5|11|2004|1|30}}
+|-
+| data-sort-value="2.5" | — 
+| [[Dosya:Recai Kutan 2009 crop.jpg|75px]]
+! scope="row" align="left" | [[Recai Kutan]] {{Küçük|(vekil)}}<br />{{Küçük|(1930-2024)}}
+| 30 Ocak 2004
+| 8 Nisan 2006
+| {{ayd|2004|1|30|2006|4|8}}
+|-
+| (1)
+| [[Dosya:Recai Kutan 2009 crop.jpg|75px]]
+! scope="row" align="left" | [[Recai Kutan]]<br />{{Küçük|(1930-2024)}}
+| 8 Nisan 2006
+| 26 Ekim 2008
+| {{ayd|2006|4|8|2008|10|26}}
+|-
+| 3 
+| [[Dosya:Numan Kurtulmuş at Diyarbakır, 2021 (cropped).jpg|75px]]
+! scope="row" align="left" | [[Numan Kurtulmuş]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1959|3|23}}}}
+| 26 Ekim 2008
+| 1 Ekim 2010
+| {{ayd|2008|10|26|2010|10|1}}
+|-
+| (2)
+| [[Dosya:Necmettin Erbakan.jpg|75px]]
+! scope="row" align="left" | [[Necmettin Erbakan]]<br />{{Küçük|(1926-2011)}}
+| 17 Ekim 2010
+| 27 Şubat 2011<br /><small>''(vefat)''</small>
+| {{ayd|2010|10|17|2011|2|27}}
+|-
+| 4 
+| [[Dosya:MustafaKamalak.png|75px]]
+! scope="row" align="left" | [[Mustafa Kamalak]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1948|8|1}}}}
+| 5 Mart 2011
+| 30 Ekim 2016
+| {{ayd|2011|3|5|2016|10|30}}
+|-
+| 5 
+| [[Dosya:Temel Karamollaoğlu (cropped, 2022).jpg|75px]]
+! scope="row" align="left" | [[Temel Karamollaoğlu]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1941|9|20}}}}
+| 30 Ekim 2016
+| 27 Kasım 2024
+| {{ayd|2016|10|30|2024|11|27}}
+|-
+| 6
+| [[Dosya:Mahmut Arıkan 2023.jpg|75px]]
+! scope="row" align="left" | [[Mahmut Arıkan]]<br />{{Küçük|{{Doğum tarihi ve yaşı|1977|10|22}}}}
+| 27 Kasım 2024
+| ''Görevde''
+| {{ayd|2024|11|27|sep=and|duration=on}}
+|}
+
+=== Başkanlık Divanı üyeleri ===
+{| class="wikitable" style="font-size:90%;"
+! #
+! Adı
+! Görevi
+|-
+| '''1''' 
+| [[Mahmut Arıkan]] || Genel Başkan 
+|-
+| '''2''' 
+| Adnan Simit || Teşkilat Başkanı
+|-
+| '''3''' 
+| [[Mesut Doğan]] || Siyasi İşler Başkanı
+|-
+| '''4''' 
+| Abdullah Akın || Planlama ve Koordinasyon Başkanı
+|-
+| '''5''' 
+| İbrahim Yıldız || Seçim İşleri Başkanı
+|-
+| '''6''' 
+| Mustafa Yılmaz || Tanıtım, Medya ve İletişim Başkanı
+|-
+| '''7''' 
+| Ahmet Yazıcı || STK ve Halkla İlişkiler Başkanı
+|-
+| '''8''' 
+| Musa Öztürk || Eğitim Başkanı
+|-
+| '''9'''
+| [[Mustafa Kaya (siyasetçi)|Mustafa Kaya]] || Dış İlişkiler Başkanı
+|-
+| '''10''' 
+| Mehmet Fatih Akdağoğlu || Mahalli İdareler Başkanı
+|-
+| '''11''' 
+| Hüseyin Saydam || Genel Muhasebe ve Mali İşler Başkanı
+|-
+| '''12''' 
+| Sinan Tekin || Sosyal İşleri Başkanı
+|-
+| '''13''' 
+| [[Sabri Tekir]] || Ekonomik İşleri Başkanı
+|-
+| '''14''' 
+| Alev Sezen || Hukuk İşleri Başkanı
+|-
+| '''15''' 
+| Cafer Güneş || Genel Sekreter
+|-
+| '''16''' 
+| Nurgül Beytiye Ekinci || Kadın Kolları Başkanı
+|-
+| '''17''' 
+| Haldun Pekdemir || Gençlik Kolları Başkanı
+|-
+| '''18''' 
+| [[Bülent Kaya]] || TBMM Grup Başkanı
+|-
+| '''19''' 
+| Yılmaz Bölükbaşı
+| rowspan="4" | Denetçi
+|-
+|'''20'''
+| Merve Aydın Küçük
+|-
+|'''21'''
+| Nergül Aksu 
+|-
+|'''22'''
+| İsmail Hakkı Akkiraz
+|-
+|}
+
+=== Yüksek İstişare Kurulu üyeleri ===
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Görevi
+|-
+|'''1'''
+|[[Temel Karamollaoğlu]]
+|YİK Başkanı
+|-
+|'''2'''
+|[[Mustafa Kamalak]]
+| rowspan="4" |YİK üyesi
+|-
+|'''3'''
+|Muhittin Hamdi Yıldırım
+|-
+|'''4'''
+|[[Yasin Hatipoğlu]]
+|-
+|'''5'''
+|[[Lütfi Yalman]]
+|}
+
+=== Genel İdare Kurulu üyeleri ===
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Görevi
+|-
+!'''1'''
+|[[Abdulkadir Karaduman]]
+| rowspan="102" |GİK üyesi
+|-
+!'''2'''
+|Abdullah Akın
+|-
+!'''3'''
+|Abdullah Ender
+|-
+!'''4'''
+|Adem Sağlam
+|-
+!'''5'''
+|Adil Barsbay
+|-
+!'''6'''
+|Adnan Simit
+|-
+!'''7'''
+|Doç. Dr. Ahmet Tarık Türkmenoğlu
+|-
+!'''8'''
+|Av. Ahmet Yazıcı
+|-
+!'''9'''
+|Av. Alev Sezen
+|-
+!'''10'''
+|Arslan Ateş
+|-
+!'''11'''
+|Ayşe Zeynep Alp
+|-
+!'''12'''
+|Bekir Demirkaya
+|-
+!'''13'''
+|Bekir Gündoğmuş
+|-
+!'''14'''
+|[[Birol Aydın]]
+|-
+!'''15'''
+|[[Bülent Kaya]]
+|-
+!'''16'''
+|Cafer Güneş
+|-
+!'''17'''
+|Ebru Asıltürk
+|-
+!'''18'''
+|Faik Çalık
+|-
+!'''19'''
+|Fatih Beyazıt
+|-
+!20
+|Fatih Budak
+|-
+!21
+|Fatih Yıldırım
+|-
+!22
+|Fatma Nevin Gökçe
+|-
+!23
+|Fesih Bingöl
+|-
+!24
+|Habibe Erdoğan
+|-
+!25
+|Harun Kılıçaslan
+|-
+!26
+|Hasan Uzun
+|-
+!27
+|Hüseyin Saydam
+|-
+!28
+|İbrahim Yıldız
+|-
+!29
+|İsmail Hakkı Akkiraz
+|-
+!30
+|İsrafil Bayrakçı
+|-
+!31
+|Medeni Karakurt
+|-
+!32
+|[[Mehmet Atmaca]]
+|-
+!33
+|Mehmet Can Turan
+|-
+!34
+|Mehmet Fatih Akdağoğlu
+|-
+!35
+|Mehmet Fethi Öztürk
+|-
+!36
+|Merve Aydın Küçük
+|-
+!37
+|Mesut Dağ
+|-
+!38
+|[[Mesut Doğan]]
+|-
+!39
+|Mesut Özlem
+|-
+!40
+|Mikail Kabak
+|-
+!41
+|Muhammet Çelebi Keyhıdır
+|-
+!42
+|[[Muhammed Sabır Fırat]]
+|-
+!43
+|Muhittin Aytunç
+|-
+!44
+|Murad Asiltürk
+|-
+!45
+|Musa Öztürk
+|-
+!46
+|Mustafa Halit Korkusuz
+|-
+!47
+|Mustafa Kaya (siyasetçi)|Mustafa Kaya
+|-
+!48
+|Mustafa Niyazi Yanmaz
+|-
+!49
+|Mustafa Yılmaz
+|-
+!50
+|Muzaffer Serenli
+|-
+!51
+|Necmeddin Osman Ayhan
+|-
+!52
+|[[Necmettin Çalışkan]]
+|-
+!53
+|Nergül Aksu
+|-
+!54
+|Nurgül Beytiye Ekinci
+|-
+!55
+|Osman Cemali Marasalı
+|-
+!56
+|Ömer Faruk Çağrıcı
+|-
+!57
+|Ramazan Düzen
+|-
+!58
+|Recep Sarıdoğan
+|-
+!59
+|Reyhan Şengün
+|-
+!60
+|Salih Berber
+|-
+!61
+|[[Sabri Tekir]]
+|-
+!62
+|Salih Şen
+|-
+!63
+|Salih Turhan
+|-
+!64
+|Samet Sami Temel
+|-
+!65
+|Sinan Tekin
+|-
+!66
+|Tuğrul Yalçınkaya
+|-
+!67
+|Turgut Sahtiyan
+|-
+!68
+|Usame Fatih Cengiz
+|-
+!69
+|[[Yakup Budak]]
+|-
+!70
+|Yılmaz Bayat
+|-
+!71
+|Yılmaz Bölükbaşı
+|-
+!72
+|Yusuf Bayraktar
+|-
+!73
+|Zekeriya Hazırbulan
+|-
+!74
+|Zeynep Şule Rıdvanoğlu
+|-
+!75
+|Ömer Günaydın
+|-
+!76
+|Celal Korkmaz
+|-
+!77
+|Ümit Çebi
+|-
+!78
+|Zeynel Keskin
+|-
+!79
+|Soner Çontar
+|-
+!80
+|Gökhan Gerçek
+|-
+!81
+|Mustafa Erduran
+|-
+!82
+|Mehmet Polat
+|-
+!83
+|Fetullah Tortumlu
+|-
+!84
+|Sinan Toprak
+|-
+!85
+|Halime Kaya
+|-
+!86
+|Hülya Karpınar
+|-
+!87
+|Alaaddin Çakmak
+|-
+!88
+|Gülay Ayvazoğlu
+|-
+!89
+|Mehmet Güneş
+|-
+!90
+|Mehmet Salih Kahraman
+|-
+!91
+|Ahmet Türkcan
+|-
+!92
+|Fatih Akyüzlü
+|-
+!93
+|Ahmet Tekin
+|-
+!94
+|Ayşegül Vonal Şahin
+|-
+!95
+|Recep Gündüz
+|-
+!96
+|İsmet Pişirici
+|-
+!97
+|Ahmed Büyüktermiyeci
+|-
+!98
+|Tayfun Duman
+|-
+!99
+|Mehmet Hayri Kamalı
+|-
+!100
+|Nazile Al
+|-
+!101
+|Ebrar Bezci
+|-
+!
+|
+|}
+
+=== Yüksek Disiplin Kurulu üyeleri ===
+{| class="wikitable" style="font-size:90%;"
+!#
+!Adı
+!Görevi
+|-
+|'''1'''
+|Bahaddin Elçi
+|YDK başkanı
+|-
+|'''2'''
+|Dursun Ali Düzenli
+| rowspan="10" |Asil üye
+|-
+|'''3'''
+|Feti Görür
+|-
+|'''4'''
+|Hasan Güldal
+|-
+|'''5'''
+|Hüseyin Oruç
+|-
+|'''6'''
+|Mehmet Karalar
+|-
+|'''7'''
+|Kemal Eksilmez
+|-
+|'''8'''
+|[[Mustafa Geçer]]
+|-
+|'''9'''
+|Selim Sait Terzioğlu
+|-
+|'''10'''
+|Talat Gizli
+|-
+|'''11'''
+|Mehmet Yüce
+|-
+|'''12'''
+|Ahmet Bölükbaşı
+| rowspan="11" |Yedek Üye
+|-
+|'''13'''
+|Ali İhsan Oturak
+|-
+|'''14'''
+|Dursun Coşar
+|-
+|'''15'''
+|Şaban Şahin
+|-
+|'''16'''
+|Burhan Sadak
+|-
+|'''17'''
+|Mustafa Aydın
+|-
+|'''18'''
+|Sabri Uyanık
+|-
+|'''19'''
+|Salih Uzun
+|-
+|'''20'''
+|Gültekin Soydan
+|-
+|'''21'''
+|Yaşar Gürkan
+|-
+|'''22'''
+|Ömer Uzun
+|}
+
+== Millî Görüşçü kuruluşlar (MİLKO) ==
+Saadet Partisi, [[Millî Görüş|Millî Görüş hareket]]<nowiki/>i içerisinde faaliyet gösteren ve [[Milli Görüşçü Kuruluşlar|Millî Görüşçü Kuruluşlar (MİLKO)]] olarak adlandırılan çeşitli kuruluşlarla ilişki içerisindedir.<ref>{{Web kaynağı |url=https://saadet.org.tr/kaptan-saadet-rota-gazze |başlık=Kaptan Saadet, Rota Gazze! |tarih=5 Ağustos 2025 |yayıncı=Saadet Partisi |erişimtarihi=23 Ağustos 2026 |arşivurl=https://web.archive.org/web/20260824025535/https://saadet.org.tr/kaptan-saadet-rota-gazze |arşivtarihi=24 Ağustos 2026 |ölüurl=hayır}}</ref>
+
+Saadet Partisi Genel Başkanı Mahmut Arıkan, 2025 yılında düzenlenen bir toplantıda [[Anadolu Gençlik Derneği]] (AGD), [[Millî Gençlik Vakfı]] (MGV), Cansuyu Derneği, Din Görevlileri Birliği Derneği (DİN-BİR-DER), Ekonomik ve Sosyal Araştırmalar Merkezi (ESAM), ESDER, İKEV, İMG, İYFO, MEDYA-DER, [[Millî Gazete]], MÜSİDER, Şuurlu Öğretmenler Derneği (ÖĞ-DER), ÖZ-DER, Teknik Elemanlar Derneği (TEKDER), [[TV5 (Türkiye)|TV5]], UDM ve YENİAD'ı MİLKO'lar kapsamında saymıştır.<ref>{{Web kaynağı |url=https://saadet.org.tr/kaptan-saadet-rota-gazze |başlık=Kaptan Saadet, Rota Gazze! |tarih=5 Ağustos 2025 |yayıncı=Saadet Partisi |erişimtarihi=23 Ağustos 2026 |arşivurl=https://web.archive.org/web/20260824025535/https://saadet.org.tr/kaptan-saadet-rota-gazze |arşivtarihi=24 Ağustos 2026 |ölüurl=hayır}}</ref>
+
+[[Anadolu Gençlik Derneği|AGD]], 2017 yılında T24 tarafından [[Saadet Partisi]]'nin gençlik kuruluşu olarak tanımlanmış ve Saadet Partisi adına yürütülen anayasa değişikliği referandumu kampanyasında görev aldığı aktarılmıştır.<ref>{{Web kaynağı |url=https://t24.com.tr/haber/hayir-diyen-saadet-partisinin-genclik-kolu-agdnin-salon-basvurularina-izin-verilmiyor,393354 |başlık='Hayır' diyen Saadet Partisi'nin gençlik kolu AGD'nin salon başvurularına izin verilmiyor |tarih=13 Mart 2017 |yayıncı=T24 |erişimtarihi=23 Ağustos 2026 |arşivurl=https://web.archive.org/web/20241210220740/https://t24.com.tr/haber/hayir-diyen-saadet-partisinin-genclik-kolu-agdnin-salon-basvurularina-izin-verilmiyor,393354 |arşivtarihi=10 Aralık 2024 |ölüurl=}}</ref>
+
+2012 tarihli bir akademik çalışmada ise [[Saadet Partisi]] Genel Merkezi'nin ''Milko Platformu Listesi'' temel alınarak hazırlanan listede AGD, [[Millî Görüş|Millî Görüşçü]] teşkilat ve organizasyonları içerisinde gençlik yapılanması kapsamında gösterilmiştir.<ref>{{Web kaynağı |url=https://abakus.inonu.edu.tr/bitstreams/ff7ffa15-fe64-4957-9201-ad0809f5a389/download |başlık=Millî Görüşçü Teşkilat ve Organizasyonlar |yayıncı=İnönü Üniversitesi}}</ref>
+
+== Milletvekilleri ==
+{{Ana|Saadet Partili milletvekilleri listesi|Yeni Yol}}
+{| class="wikitable" style="font-size:90%;"
+|-
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi
+|-
+|'''1'''
+|[[Mahmut Arıkan]]
+|[[Kayseri]]
+|Genel Başkan
+|}
+
+=== Yeni Yol grubunda görev yapan milletvekilleri ===
+{| class="wikitable sortable" style="font-size:90%;"
+!#
+!Adı
+!Seçim Bölgesi
+!Görevi
+|-
+|'''1'''
+|[[Bülent Kaya]]
+|[[İstanbul]] (III)
+|TBMM Yeni Yol Grup Başkanı
+|-
+|'''2'''
+|[[Mesut Doğan]]
+|[[Ankara (il)|Ankara]] (III)
+| rowspan="7" |Milletvekili
+|-
+|'''3'''
+|[[Şerafettin Kılıç]]
+|[[Antalya (il)|Antalya]]
+|-
+|'''4'''
+|[[Mehmet Atmaca]]
+|[[Bursa]] (I)
+|-
+|'''5'''
+|[[Necmettin Çalışkan]]
+|[[Hatay]]
+|-
+|'''6'''
+|[[Birol Aydın]]
+|[[İstanbul (il)|İstanbul]] (I)
+|-
+|'''7'''
+|[[Mustafa Kaya (siyasetçi)|Mustafa Kaya]]
+|[[İstanbul]] (II)
+|-
+|'''8'''
+|[[Mehmet Karaman]]
+|[[Samsun]]
+|}
+
+== Belediye başkanları ==
+{{gizli içerik-başlık
+|başlıkbiçimi= font-size: 1.2em;
+|kenarlık= 1px solid lightgrey}}
+{| class="wikitable" style="font-size:90%;"
+! #
+! İsim
+! İl
+! İlçe 
+! Belde
+|-
+| '''1''' || Tuncay Kasım || [[Giresun (il)|Giresun]] || [[Çanakçı]] || 
+|-
+| '''2''' || Sabri Yılmaz || [[Elazığ (il)|Elazığ]] || [[Elazığ|Merkez]] || [[Mollakendi, Elazığ|Mollakendi]] 
+|-
+| '''3''' || Selahattin Yalçın || [[Muş (il)|Muş]] || [[Muş|Merkez]] || [[Yaygın, Muş|Yaygın]] 
+|-
+|-class="sortbottom"
+| colspan="8" style="background-color:#EAECF0;text-align:center" |
+|-
+|}
+{{gizli içerik-son}}
+
+== Kongreler ==
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="font-size:90%;"
+!Kongre
+!Tarih
+!Genel Başkan
+!Seçim Nedeni
+|-
+|[[Saadet Partisi 1. Olağan Büyük Kongresi|1. Olağan Kongresi]]
+|11 Mayıs 2003
+|[[Recai Kutan]]
+| rowspan="4" |Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[Saadet Partisi 2. Olağan Büyük Kongresi|2. Olağan Kongresi]]
+|9 Nisan 2006
+|[[Recai Kutan]] {{Küçük|(vekâleten)}}
+|-
+|[[Saadet Partisi 3. Olağan Büyük Kongresi|3. Olağan Kongresi]]
+|26 Ekim 2008
+|[[Recai Kutan]]
+|-
+|[[Saadet Partisi 4. Olağan Büyük Kongresi|4. Olağan Kongresi]]
+|11 Temmuz 2010
+|[[Numan Kurtulmuş]]
+|-
+|[[Saadet Partisi 1. Olağanüstü Kongresi|1. Olağanüstü Kongre]]
+|17 Ekim 2010
+|[[Mustafa Kamalak]], [[Hasan Bitmez]] ve [[Şerafettin Kılıç]]<ref>{{Web kaynağı|url=https://www.milligazete.com.tr/yazdir/1135876|başlık=Kongre Çağrı Heyeti görev dağılımı yaptı|erişimtarihi=29 Mart 2023|arşivtarihi=29 Mart 2023|arşivurl=https://web.archive.org/web/20230329214712/https://www.milligazete.com.tr/yazdir/1135876|ölüurl=hayır|çalışma=milligazete.com.tr}}</ref>
+|[[Numan Kurtulmuş|Numan Kurtulmuş'un]] istifası
+|-
+|[[Saadet Partisi 5. Olağan Büyük Kongresi|5. Olağan Kongresi]]
+|4 Mayıs 2014
+| rowspan="2" |[[Mustafa Kamalak]]
+| rowspan="5" |Başkanlık (Tüzük ve Siyasi Partiler Kanunu Gereği)
+|-
+|[[Saadet Partisi 6. Olağan Büyük Kongresi|6. Olağan Kongresi]]
+|30 Ekim 2016
+|-
+|[[Saadet Partisi 7. Olağan Büyük Kongresi|7. Olağan Kongresi]]
+|3 Kasım 2019
+| rowspan="2" |[[Temel Karamollaoğlu]]
+|-
+|[[Saadet Partisi 8. Olağan Büyük Kongresi|8. Olağan Kongresi]]
+|30 Ekim 2022
+|-
+|[[Saadet Partisi 9. Olağanüstü Büyük Kongresi|9. Olağan Kongresi]]
+|24 Kasım 2024
+|[[Mahmut Arıkan]]
+|}
+
+== Saadet Partisi ve seçimler ==
+
+=== Milletvekilliği seçimleri ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan="2" |Lider
+! colspan="3" | Seçim sonuçları
+! colspan="2"| Sandalye
+! rowspan="2"| Hükûmet
+|-
+! Oy sayısı
+! '''%'''
+! ± 
+! #
+! ±
+|-
+! [[2002 Türkiye genel seçimleri|2002]]
+| rowspan="2" | [[Dosya:Recai_Kutan_2009_crop.jpg|çerçevesiz|107x107px]]
+[[Recai Kutan]]
+| 784.087
+| 2,49 (#8)
+| Yeni
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Saadet Partisi}}}}
+| Yeni
+| {{N/A|Baraj altında kaldı}}
+|-
+! [[2007 Türkiye genel seçimleri|2007]]
+| 820.289
+| 2,34 (#6)
+| {{azalış}} 0,15
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Saadet Partisi}}}}
+| {{sabit}}
+| {{N/A|Baraj altında kaldı}}
+|-
+! [[2011 Türkiye genel seçimleri|2011]]
+| rowspan="3" | [[Dosya:MustafaKamalak.png|çerçevesiz|104x104px]]
+[[Mustafa Kamalak]]
+| 543.454
+| 1,27 (#4)
+| {{azalış}} 1,07
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Saadet Partisi}}}}
+| {{sabit}}
+| {{N/A|Baraj altında kaldı}}
+|-
+! [[Haziran 2015 Türkiye genel seçimleri|2015 (Haziran)]] {{refn|[[Büyük Birlik Partisi]] (BBP) adayları seçimlere Saadet Partisi listelerinden katılmıştır.|group=Not}}
+| 950.359
+| 2,06 (#5)
+| {{artış}} 0,79
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Saadet Partisi}}}}
+| {{sabit}}
+| {{N/A|Baraj altında kaldı}}
+|-
+! [[Kasım 2015 Türkiye genel seçimleri|2015 (Kasım)]]
+| 325.978
+| 0,68 (#5)
+| {{azalış}} 1,38
+| {{Composition bar|0|550|hex={{Siyasi parti renk|Saadet Partisi}}}}
+| {{sabit}}
+| {{N/A|Baraj altında kaldı}}
+|-
+! [[2018 Türkiye genel seçimleri|2018]]{{refn|Abdulkadir Karaduman ve Cihangir İslam Millet İttifakı kapsamında [[Cumhuriyet Halk Partisi|CHP]] listelerinden seçilip seçimden sonra partilerine geri döndüler.|group=Not}}
+| rowspan="2" |[[Dosya:Temel_Karamollaoğlu_presidential_campaign_(cropped).jpg|çerçevesiz|105x105px]]
+[[Temel Karamollaoğlu]]
+| 673.731
+| 1,34 (#6)
+| {{artış}} 0,66
+| {{Composition bar|2|600|hex={{Siyasi parti renk|Saadet Partisi}}}}
+| {{artış}} 2
+| {{hayır2|Muhalefet}}
+|-
+![[2023 Türkiye genel seçimleri|2023]]
+| colspan="3" | [[Millet İttifakı]]'nın ek protokolü gereğince seçimlere [[Cumhuriyet Halk Partisi|CHP]] listelerinden katıldı.<ref group="Not">Seçilen vekiller Mesut Doğan, Şerafettin Kılıç, Mehmet Atmaca, Necmettin Çalışkan, Birol Aydın, Mustafa Kaya, Bülent Kaya, Mahmut Arıkan, Hasan Bitmez ve Mehmet Karaman'dır.</ref>
+|{{Composition bar|10|600|hex={{Siyasi parti renk|Saadet Partisi}}}}
+|{{artış}}8
+| {{hayır2|Muhalefet}}
+|}
+
+=== Cumhurbaşkanlığı seçimleri ===
+{| class="wikitable" style="text-align: center; border:none; font-size:90%;"
+! rowspan="2" |Seçim
+! rowspan="2" |Aday
+! colspan="3" |Birinci tur
+! colspan="2" |İkinci tur
+! rowspan="2" |Sonuç
+|-
+!Oy sayısı
+! %
+!±
+!Oy sayısı
+! %
+|-
+![[2018 Türkiye cumhurbaşkanlığı seçimi|2018]]
+|[[Dosya:Temel Karamollaoğlu presidential campaign (cropped).jpg|105x105px]]
+----[[Temel Karamollaoğlu]]
+|443.704
+|0,89% (#5)
+|Yeni
+|{{N/A|—}}
+|{{N/A|—}}
+|{{hayır2|Seçilemedi}}
+|-
+![[2023 Türkiye cumhurbaşkanlığı seçimi#İkinci tur|2023]]
+|[[Dosya:Kemal_Kılıçdaroğlu_in_March_2023_(cropped).png|97x97px|Kemal Kılıçdaroğlu]]
+----[[Kemal Kılıçdaroğlu]]
+----[[Millet İttifakı]] ortak adayı
+|24.595.178
+|44,88% (#2)
+|Yeni
+|25.504.724
+|47,82% (#2)
+|{{hayır2|Seçilemedi}}
+|}
+
+=== Yerel seçimler ===
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan=2| Seçim
+! rowspan=2| Genel Başkan
+! colspan=3| İl Genel Meclisi +<br> BB İlçe Belediye Meclisi
+! colspan=3| Büyükşehir Belediye
+! colspan=3| Belediye
+! colspan=3| Belediye Meclisi
+|-
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+! Oy
+! %
+! Kazanılan
+|-
+| [[2004 Türkiye yerel seçimleri|2004]]
+| [[Dosya:Recai_Kutan_2009_crop.jpg|çerçevesiz|107x107px]]
+[[Recai Kutan]]
+| 1.297.681 || {{Yüzde çubuğu|4.02|%4,02|EE151F}}|| {{Composition bar|19|3208|{{Siyasi parti renk|Saadet Partisi}}}}
+| 423.014 || {{Yüzde çubuğu|4.04|%4,04|FF3333}} || {{Composition bar|0|16|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.148.920 || {{Yüzde çubuğu|4.77|%4,77|FF3333}} || {{Composition bar|63|3193|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.111.017 || {{Yüzde çubuğu|4.65|%4,65|FF3333}} || {{Composition bar|961|34477|{{Siyasi parti renk|Saadet Partisi}}}}
+|-
+| [[2009 Türkiye yerel seçimleri|2009]]
+| [[Dosya:Numan_Kurtulmuş_at_Diyarbakır,_2021_(cropped).jpg|çerçevesiz|107x107px]]
+[[Numan Kurtulmuş]]
+| 2.079.701 || {{Yüzde çubuğu|5.20|%5,20|EE151F}}|| {{Composition bar|29|3281|{{Siyasi parti renk|Saadet Partisi}}}}
+| 689.025 || {{Yüzde çubuğu|3.79|%3,79|FF3333}} || {{Composition bar|0|16|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.729.182 || {{Yüzde çubuğu|5.37|%5,37|FF3333}} || {{Composition bar|80|2903|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.807.745 || {{Yüzde çubuğu|5.64|%5,64|FF3333}} || {{Composition bar|1081|32392|{{Siyasi parti renk|Saadet Partisi}}}}
+|-
+| [[2014 Türkiye yerel seçimleri|2014]]
+| [[Dosya:MustafaKamalak.png|çerçevesiz|104x104px]]
+[[Mustafa Kamalak]]
+| 1.249.354 || {{Yüzde çubuğu|2.78|%2,78|FF3333}} || {{Composition bar|416|21749|{{Siyasi parti renk|Saadet Partisi}}}}
+| 579.231 || {{Yüzde çubuğu|1.66|%1,66|FF3333}} || {{Composition bar|0|30|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.181.226	 || {{Yüzde çubuğu|2.84|%2,84|FF3333}} || {{Composition bar|27|1351|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.180.322 || {{Yüzde çubuğu|2.84|%2,84|FF3333}} || {{Composition bar|411|20498|{{Siyasi parti renk|Saadet Partisi}}}}
+|-
+| [[2019 Türkiye yerel seçimleri|2019]]
+| rowspan="2" | [[Dosya:Temel_Karamollaoğlu_(cropped,_2022).jpg|çerçevesiz|108x108px]]
+[[Temel Karamollaoğlu]]
+| 1.312.780 || {{Yüzde çubuğu|2.84|%2,84|FF3333}} || {{Composition bar|298|22017|{{Siyasi parti renk|Saadet Partisi}}}}
+| 942.939 || {{Yüzde çubuğu|2.61|%2,61|FF3333}} || {{Composition bar|0|30|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.256.235 || {{Yüzde çubuğu|2.91|%2,91|FF3333}} || {{Composition bar|21|1355|{{Siyasi parti renk|Saadet Partisi}}}}
+| 1.291.757 || {{Yüzde çubuğu|3.00|%3,00|FF3333}} || {{Composition bar|295|20745|{{Siyasi parti renk|Saadet Partisi}}}}
+|-
+|[[2024 Türkiye yerel seçimleri|2024]]
+| 594.020 || {{Yüzde çubuğu|1.30|%1,30|FF3333}} || {{Composition bar|72|22325|{{Siyasi parti renk|Saadet Partisi}}}}
+| 363.884 || {{Yüzde çubuğu|1.02|%1,02|FF3333}} || {{Composition bar|0|30|{{Siyasi parti renk|Saadet Partisi}}}}
+| 516.650 || {{Yüzde çubuğu|1.20|%1,20|FF3333}} || {{Composition bar|4|1356|{{Siyasi parti renk|Saadet Partisi}}}}
+| 561.064 || {{Yüzde çubuğu|1.31|%1,31|FF3333}} || {{Composition bar|72|20953|{{Siyasi parti renk|Saadet Partisi}}}}
+|}
+
+=== Ara yerel seçimler ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+! rowspan="2" | Seçim
+! rowspan="2" | Aday
+! colspan="3" |Seçim sonuçları
+|-
+!Oy sayısı
+!%
+!±
+|-
+! [[2019 İstanbul ara yerel seçimi|2019 İstanbul]]
+|Necdet Gökçınar
+| 47.832
+| 0,55 (#3)
+|{{azalış}} 0,66
+|}
+
+== Kurumsal kimlik ==
+
+=== Logolar ===
+Saadet Partisi'nin 2001'deki kuruluş tüzüğünde logusu "Partinin özel işareti (amblemi) renkli zemin üzerine beyaz hilal içerisinde beyaz beş yıldız ve hilalin altında "SAADET" yazısıdır." şeklinde tanımlandı.<ref>{{Web kaynağı|url=https://saadet.org.tr/tr/parti-tuzugu|başlık=Adil Devlet, Adil Paylaşım Seninle Olur|erişimtarihi=25 Mart 2023|dil=Türkçe|çalışma=Adil Devlet, Adil Paylaşım   Seninle Olur|arşivurl=https://web.archive.org/web/20230325161408/https://saadet.org.tr/tr/parti-tuzugu|arşivtarihi=25 Mart 2023|ölüurl=hayır}}</ref> 2019'da Saadet Partisi kurumsal kimlik değişimi geçirdi ve partinin Siyasal İletişim Ofisi tarafından 27 Ocak 2019'da kurumsal kimlik kılavuzu yayınlandı.<ref>{{Kitap kaynağı|url=https://saadet.org.tr/upload/file/8a3d47e0ce55d60190a10e16674a872a.pdf|başlık=Saadet Partisi "Kurumsal Kimlik Kılavuzu"|erişimtarihi=19 Mart 2024|tarih=2019|dil=Türkçe|arşivurl=https://web.archive.org/web/20240319185220/https://saadet.org.tr/upload/file/8a3d47e0ce55d60190a10e16674a872a.pdf|arşivtarihi=19 Mart 2024|ölüurl=hayır}}</ref><ref>{{Web kaynağı|url = https://www.milligazete.com.tr/haber/1782825/saadet-partisi-yeni-kurumsal-kimlik-kilavuzunu-yayimladi?ysclid=lf2luwzxf0721358097|başlık = Milli Gazete|erişimtarihi = 10 Mart 2023|dil = Türkçe|çalışma = Milli Gazete|arşivurl = https://web.archive.org/web/20230310142006/https://www.milligazete.com.tr/haber/1782825/saadet-partisi-yeni-kurumsal-kimlik-kilavuzunu-yayimladi?ysclid=lf2luwzxf0721358097|arşivtarihi = 10 Mart 2023}}</ref><ref>{{Web kaynağı|url = https://saadet.org.tr/tr/medya|başlık = Adil Devlet, Adil Paylaşım Seninle Olur|erişimtarihi = 10 Mart 2023|dil = Türkçe|çalışma = Adil Devlet, Adil Paylaşım   Seninle Olur|arşivurl = https://web.archive.org/web/20201030012241/https://saadet.org.tr/tr/medya|arşivtarihi = 30 Ekim 2020}}</ref> Ekim 2022'deki 8. Olağan Kongresi'nde, 2019'da yayınlanan kılavuzdaki renk ve fontun kullanıldığı ikon ve yazının dikey sıralandığı logosunu kullanımına dahil etti.
+<gallery class="center">
+Dosya:Saadet Partisi'nin Eski Logosu.png|2011-2019
+Dosya:Saadet Partisi Logo.svg|27 Ocak 2019-günümüz
+Dosya:Saadet Partisi Kırmızı Logo 2.svg|27 Ocak 2019-günümüz
+Dosya:Saadet Logo.svg|27 Ocak 2019-günümüz
+Dosya:Saadet Partisi Kare Logo.svg|Ekim 2022-günümüz
+</gallery>
+
+=== Seçim müzikleri ===
+{{Div sütunu|colwidth=30em}}
+=== 2002 ===
+==== ''Saadet Türküleri'' albümü ====
+* Vur Vur Gümlesin
+* Çare Belli
+* Bayrağımın Hilalisin
+* Benim Ülkem
+* Vakit Tamam
+* Bir Olalım
+* Sana da Yer Var
+* Saadeti Beklerim
+* Haydi Gel
+
+=== 2002-2010 ===
+* Saadet Vakti Geldi
+* Refah ve Fazilet Şimdi Saadet
+* Müjdeler Olsun Saadet Geliyor
+* Önce Sen
+* Sensiz Olmuyor
+
+=== 2011 ===
+* Benim Görüşüm
+* Saadet Kapısı
+
+=== 2014 ===
+* Saadet Kazanacak
+
+=== 2015 ===
+* {{URL|https://youtu.be/uIVLpslRBPU|Birlikteyiz}} {{Webarşiv|url=https://web.archive.org/web/20230424120230/https://www.youtube.com/watch?v=uIVLpslRBPU |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/oujXqbnNAVw|Gençler Saadet İstiyor - Kamp Marşı}} {{Webarşiv|url=https://web.archive.org/web/20230424120836/https://www.youtube.com/watch?v=oujXqbnNAVw&gl=US&hl=en |tarih=24 Nisan 2023 }} (Genç Saadet)
+* {{URL|https://youtu.be/ptqtQvg8ON8|Saadet'e Gel}} {{Webarşiv|url=https://web.archive.org/web/20201217045548/https://www.youtube.com/watch?v=ptqtQvg8ON8 |tarih=17 Aralık 2020 }}
+* {{URL|https://youtu.be/9lLvirNzWb4|Yüreğinin sesini Dinle Saadet'i Duyacaksın}} {{Webarşiv|url=https://web.archive.org/web/20230424120241/https://www.youtube.com/watch?v=9lLvirNzWb4 |tarih=24 Nisan 2023 }}
+
+=== 2016 ===
+* {{URL|https://youtu.be/2ORxasz5Zuc|Bu Düzen Değişecek}} {{Webarşiv|url=https://web.archive.org/web/20230424120234/https://www.youtube.com/watch?v=2ORxasz5Zuc |tarih=24 Nisan 2023 }}
+
+=== 2018 ===
+* {{URL|https://youtu.be/sBgt5CB8jbg|<nowiki>#</nowiki>Değiştir}} {{Webarşiv|url=https://web.archive.org/web/20230424120229/https://www.youtube.com/watch?v=sBgt5CB8jbg |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/tg8j3uaRRuU|Biz Hiç Eğilmedik}} {{Webarşiv|url=https://web.archive.org/web/20230424120229/https://www.youtube.com/watch?v=tg8j3uaRRuU |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/2bqiYqaaV10|O Temel Başkan}} {{Webarşiv|url=https://web.archive.org/web/20230424120228/https://www.youtube.com/watch?v=2bqiYqaaV10 |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/bn8Dz7i7uQw|Saadet Vakti Geldi (2018)}} {{Webarşiv|url=https://web.archive.org/web/20230529160006/https://www.youtube.com/watch?v=bn8Dz7i7uQw |tarih=29 Mayıs 2023 }}
+* {{URL|https://youtu.be/90HGntZZWK4|Seninleyiz Bilge Başkan}} {{Webarşiv|url=https://web.archive.org/web/20230424120239/https://www.youtube.com/watch?v=90HGntZZWK4 |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/ANC7StNS_iA|Seninleyiz Temel Başkan}} {{Webarşiv|url=https://web.archive.org/web/20230424120236/https://www.youtube.com/watch?v=ANC7StNS_iA |tarih=24 Nisan 2023 }}
+
+=== 2019 ===
+* {{URL|https://youtu.be/kmII63jkgwA|Çare Var, İşte Geliyor Saadet!}} {{Webarşiv|url=https://web.archive.org/web/20230424120243/https://www.youtube.com/watch?v=kmII63jkgwA |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/FMKdc6pT9LQ|Dürüst Başkan, Dürüst Yönetim}} {{Webarşiv|url=https://web.archive.org/web/20230424120229/https://www.youtube.com/watch?v=FMKdc6pT9LQ |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/T2LNaGmMNkg|Dürüst Olmak Gerekirse}} {{Webarşiv|url=https://web.archive.org/web/20230424120237/https://www.youtube.com/watch?v=T2LNaGmMNkg |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/wsX6vXF6cjc|Gelecek Saadetle Gelecek}} {{Webarşiv|url=https://web.archive.org/web/20230424121643/https://www.youtube.com/watch?v=wsX6vXF6cjc&gl=US&hl=en |tarih=24 Nisan 2023 }}
+
+=== 2021 ===
+* {{URL|https://youtu.be/xT2P9Y6oJZ4|İnanıyoruz, Bir Hayalimiz Var}} {{Webarşiv|url=https://web.archive.org/web/20230424120232/https://www.youtube.com/watch?v=xT2P9Y6oJZ4 |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/Vapl6NkEHso|Yaşanabilir Türkiye}} {{Webarşiv|url=https://web.archive.org/web/20230424120230/https://www.youtube.com/watch?v=Vapl6NkEHso |tarih=24 Nisan 2023 }}
+
+=== 2022 ===
+* {{URL|https://youtu.be/-u-IFEuxOJE|Milletin İktidarında Saadet Var}} {{Webarşiv|url=https://web.archive.org/web/20230424120950/https://www.youtube.com/watch?v=-u-IFEuxOJE&gl=US&hl=en |tarih=24 Nisan 2023 }}
+* {{URL|https://youtu.be/YL_6WJA2WjE|Seninle Olur}} {{Webarşiv|url=https://web.archive.org/web/20230424121218/https://www.youtube.com/watch?v=YL_6WJA2WjE&gl=US&hl=en |tarih=24 Nisan 2023 }}
+{{Div sütunu bitiş}}
+
+=== Sloganlar ===
+* 2018 genel seçimleri: <nowiki>#</nowiki>Değiştir
+* 2019: Çare Var!
+* 2019 yerel seçimleri: Dürüst Olmak Gerekirse, Dürüst Başkan Dürüst Yönetim, 31 Mart'ta Cepsiz Ceketliler İş Başında
+* 2021: Hepimizin Derdi Aynı: Geçim İttifakı
+* 2022: Adil Devlet, Adil Paylaşım Seninle Olur
+* 2023 genel seçimleri: 14 Mayıs'ta İklim Değişecek, Oylar CHP'ye Saadet Meclise
+* 2023: İnanç Azim ve Kararlılıkla SAADET Burada
+* 2024 yerel seçimleri: Saadet İş Başına Haydi Bismillah, Haydi Şimdi Milli Görüş Belediyeciliği, Daha İyi bir Yaşam Senin Hakkın
+
+== Notlar ==
+<references group="Not" />
+
+== Kaynakça ==
+{{kaynakça}}
+
+== Dış bağlantılar ==
+*{{Resmî site|https://saadet.org.tr/}}
+*{{Facebook|id=SaadetPartisi}}
+*{{Twitter|id=SaadetPartisi}}
+*{{Instagram|id=saadetpartisi}}
+*{{YouTube|k=SaadetPartisiTV}}
+
+{{Saadet Partisi}}
+{{Necmettin Erbakan}}
+{{Millî Görüş}}
+{{Türkiye'deki siyasi partiler}}
+{{Otorite kontrolü}}
+
+[[Kategori:Saadet Partisi| ]]
+[[Kategori:2001'de kurulan siyasi partiler]]
+[[Kategori:Türkiye'deki etkin siyasi partiler]]
+[[Kategori:Millet İttifakı]]
+[[Kategori:Türkiye'deki sağ partiler]]
+[[Kategori:Sosyal muhafazakâr partiler]]
+[[Kategori:Türkiye'deki İslamcı partiler]]
+[[Kategori:2001'de Türkiye'de kurulan oluşumlar]]
+[[Kategori:Millî Görüş]]
+[[Kategori:Ümmetçilik]]
