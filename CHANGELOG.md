@@ -1,5 +1,18 @@
 # Değişiklik günlüğü
 
+## 1.1.0 — 2026-11-20
+
+### Özellikler
+- **Veri güvenilirliği rozeti:** Her kayıtta dört düzeyden biri gösterilir (resmî kaynak, ansiklopedik derleme, kısmi/yaklaşık, sonuç verisi yok) ve dayanağı açıklanır. 1950 sonrası kayıtların düzeyi, kaynak veri setinin `sources.yml` dosyasındaki birincil kaynak kaydından alınır.
+- **Tahmini sınırların işaretlenmesi:** Sınırı belgelenmiş bir kaynağa değil tahmine dayanan birimler haritada kesikli çizgiyle gösterilir; kartta neyin varsayıldığı yazar.
+- **İl seçim geçmişi:** 1950 sonrası bir ilin aynı türdeki bütün seçimleri tabloda listelenir; seçili partinin oy oranı eğri olarak çizilir. Satıra tıklayınca o seçime geçilir.
+- **Meclis sandalye grafiği:** Genel seçimlerde ve Senato seçimlerinde ülke geneli sandalye dağılımı yarım daire grafikle gösterilir.
+- **CI:** Tarayıcı duman testi (`tests/smoke.js`) her PR'da ve `main`'e her gönderimde çalışır; yayın yalnız test geçerse yapılır.
+
+### Değişiklikler
+- 1920–1943 tek parti seçimlerinde varsayılan harita görünümü "Vekil sayısı" oldu; "Çoğunluk" görünümü bütün illeri aynı renge boyuyordu.
+- 1908, 1912 ve 1914 kayıtlarına etnik sınıflandırmanın tartışmalı olduğunu belirten not eklendi.
+
 ## 1.0.0 — 2026-11-19
 
 İlk sürüm.

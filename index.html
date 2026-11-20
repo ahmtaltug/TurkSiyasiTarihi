@@ -11,7 +11,7 @@
 <meta property="og:description" content="Osmanlı ve Cumhuriyet seçimleri, halkoylamaları ve cumhurbaşkanlığı seçimleri; döneminin sınırlarıyla etkileşimli harita ve zaman atlamalı oynatma.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="vendor/leaflet.css">
-<link rel="stylesheet" href="css/app.css?v=1.0.0">
+<link rel="stylesheet" href="css/app.css?v=1.1.0">
 </head>
 <body>
 <header class="topbar">
@@ -90,6 +90,15 @@
   <h3>Sınırlar</h3>
   <p>1950 ve sonrasındaki seçimler, kaynak veri setinin o tarihteki il sınırlarıyla çizilir: 1950'de 63 il, 1954'te 64, 1955'te 66, 1957–1987 arasında 67, sonrasında 73, 76, 79, 80 ve 2002'den itibaren 81 il.</p>
   <p>1950 öncesi sınırlar <b>yaklaşıktır</b>. Türkiye içindeki birimler, günümüz ilçelerinin o yıldaki il ya da sancak bağlılığına göre birleştirildi. Örnekler: Gelibolu, Ergani, Genç, Siverek, Kozan, Cebelibereket, Şebinkarahisar ve Aksaray illerinin kaldırılması, 1933–1936 arasındaki Çoruh ili, Hatay'ın 1939'da katılması. Türkiye dışındaki Osmanlı vilayetleri, günümüz idari bölgelerinin (Natural Earth admin-1) birleştirilmesiyle çizildi. Bu yüzden kenar hatları tarihî sınırlarla birebir örtüşmez.</p>
+  <h3>Veri güvenilirliği düzeyleri</h3>
+  <p>Her kaydın panelinde bir güvenilirlik rozeti vardır. Rozet, verinin hangi tür kaynağa dayandığını gösterir; ayrı bir doğrulama sonucu değildir.</p>
+  <ul>
+    <li><b>Resmî kaynak:</b> YSK ya da DİE/TÜİK yayınlarına dayanan sonuçlar (kaynak veri seti üzerinden).</li>
+    <li><b>Ansiklopedik derleme:</b> Vikipedi tablo ve listelerinden derlenmiş, birincil kaynakla karşılaştırılmamış veri.</li>
+    <li><b>Kısmi / yaklaşık:</b> Verinin bir bölümü bilinmeyen ya da yaklaşık olan kayıtlar (1930, 1946).</li>
+    <li><b>Sonuç verisi yok:</b> Yalnız açıklama ve dönemin sınırları gösterilir.</li>
+  </ul>
+  <p>Haritada <b>kesikli çizgiyle</b> çevrili birimlerin sınırı belgelenmiş bir kaynağa değil, bu projedeki tahmine dayanır. Birime tıklayınca neyin varsayıldığı yazar.</p>
   <h3>Bilinen sınırlamalar</h3>
   <ul>
     <li>1950 öncesinde seçimler iki dereceliydi ve il düzeyinde oy sayısı yayımlanmadı. Bu yüzden bu dönemde vekil sayıları ve mensubiyetler gösterilir.</li>
@@ -102,6 +111,7 @@
     <li><b>Oynat:</b> Seçili dönem ve türlerdeki seçimleri sırayla gösterir. Örneğin yalnız "Genel seçim"i açık bırakıp oynatırsanız 1877'den 2023'e milletvekili seçimleri art arda gelir. Harita görünümü ve seçili parti, mümkün olduğunca korunur.</li>
     <li><b>Değişim:</b> 1950 sonrası oy verisi olan seçimlerde, seçili partinin oyunu aynı türden bir önceki seçimle il il karşılaştırır.</li>
     <li><b>Klavye:</b> ← ve → tuşları önceki ve sonraki seçime gider; boşluk tuşu oynatmayı başlatır ya da durdurur.</li>
+    <li><b>İl geçmişi:</b> 1950 sonrası bir ile tıklayınca kartın altındaki "Bu ilin seçim geçmişi" bölümü, aynı türdeki bütün seçimleri ve seçili partinin oy eğrisini gösterir.</li>
     <li><b>CSV indir:</b> Görüntülenen seçimin il verisini Excel'de açılabilen bir dosya olarak indirir.</li>
   </ul>
   <p class="muted">Bu sitedeki derlenmiş veri, kaynaklarının lisansı gereği CC BY-SA 4.0 ile paylaşılır. <span id="version"></span> · <a href="https://github.com/ahmtaltug/TurkSiyasiTarihi" target="_blank" rel="noopener">Kaynak kod</a></p>
@@ -110,6 +120,6 @@
 <noscript><p style="padding:16px">Bu harita JavaScript gerektirir.</p></noscript>
 <script src="vendor/leaflet.js"></script>
 <script src="vendor/topojson-client.min.js"></script>
-<script src="js/app.js?v=1.0.0"></script>
+<script src="js/app.js?v=1.1.0"></script>
 </body>
 </html>

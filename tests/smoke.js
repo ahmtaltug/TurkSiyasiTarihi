@@ -24,6 +24,17 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
     for (const m of await p.$$eval('#modeBox [data-mode]', (bs) => bs.map((x) => x.dataset.mode))) await p.click(`#modeBox [data-mode="${m}"]`);
   }
   await p.click('#playBtn'); await p.waitForTimeout(2500); await p.click('#playBtn');
+  // meclis grafiği: 2023'te 600 sandalye
+  await p.evaluate(() => { location.hash = 'e=2023&u=34'; }); await p.waitForTimeout(800);
+  const seats = await p.$$eval('svg.hemi circle', (c) => c.length);
+  if (seats !== 600) bad.push(`2023 meclis grafiği ${seats} sandalye`);
+  // il seçim geçmişi
+  await p.click('#histBox summary'); await p.waitForTimeout(1500);
+  const histRows = await p.$$eval('#histBox tbody tr', (r) => r.length);
+  if (histRows < 15) bad.push(`İstanbul genel seçim geçmişi ${histRows} satır`);
+  // tahmini sınır işareti 1923'te lejantta görünmeli
+  await p.evaluate(() => { location.hash = 'e=1923'; }); await p.waitForTimeout(800);
+  if (!(await p.$('#legend .sw.dash'))) bad.push('1923 tahmini sınır lejantı yok');
   console.log(`${ids.length} seçim; sorunlu: ${bad.length ? bad.join(', ') : 'yok'}; hata: ${errs.length ? errs.join(' | ') : 'yok'}`);
   await b.close();
   process.exit(bad.length || errs.length ? 1 : 0);

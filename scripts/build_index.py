@@ -9,6 +9,48 @@ for c in cat:
     c.setdefault('era', 'cumhuriyet')
     d = json.load(open(os.path.join(ROOT, 'data', 'elections', c['id'] + '.json')))
     c['units'] = sum(1 for u in d['units'].values() if not u.get('nodata'))
+# ---- güvenilirlik düzeyi (kaynağın türüne göre; veri doğrulaması değil)
+try:
+    import yaml
+    SRCY = yaml.safe_load(open(os.path.join(SRC, 'sources.yml')))['elections']
+except Exception:
+    SRCY = {}
+LEVELS = {
+    'resmi': 'Resmî kaynak',
+    'derleme': 'Ansiklopedik derleme',
+    'yaklasik': 'Kısmi / yaklaşık',
+    'yok': 'Sonuç verisi yok',
+}
+def reliability(c, d):
+    i = c['id']
+    if c.get('geo') is None or c.get('metric') == 'local-early':
+        return 'yok', 'Bu kayıt için il düzeyinde derlenmiş sonuç verisi yok; yalnız açıklama ve dönemin sınırları gösterilir.'
+    if c.get('era') == 'osmanli' or i in ('1920', '1923', '1927', '1931', '1935', '1939', '1943'):
+        return 'derleme', 'Vekil sayıları ve mensubiyetler Vikipedi dönem listelerinden sayıldı; birincil kaynakla (meclis albümleri, zabıtlar) karşılaştırılmadı.'
+    if i == '1946':
+        return 'yaklasik', 'İl oyları Vikipedi\'nin seçim mazbatalarından derlediği tablodan; bir kısmı yaklaşık ("+/-"), bazı partilerin oyu bilinmiyor. Resmî il sonuçları yayımlanmadı.'
+    if i == '1930yerel':
+        return 'yaklasik', 'Yalnız SCF\'nin kazandığı belediyelerin listesi biliniyor (Vikipedi); oy sayısı yok.'
+    if i.endswith('-igm'):
+        return 'resmi', 'İl genel meclisi oyları DİE/TÜİK yayınları ve YSK verisinden (kaynak veri seti üzerinden).'
+    if c['type'] == 'senato':
+        return 'derleme', 'Senato sonuçları Vikipedi il maddelerinden ve TÜİK ilçe tablolarından derlendi (kaynak veri seti).'
+    if c['type'] == 'ara':
+        return 'resmi', 'YSK açık verisi (kaynak veri seti üzerinden).'
+    st = (SRCY.get(i) or {}).get('primary') or {}
+    if st.get('status') == 'official':
+        return 'resmi', 'Birincil kaynak: %s (kaynak veri seti üzerinden).' % st.get('authority', 'YSK')
+    if st:
+        return 'derleme', 'Birincil kaynak: %s; resmî yayınla tam karşılaştırılmadı.' % st.get('authority')
+    return 'derleme', 'Kaynak türü belirlenemedi.'
+for c in cat:
+    path = os.path.join(ROOT, 'data', 'elections', c['id'] + '.json')
+    d = json.load(open(path))
+    lv, why = reliability(c, d)
+    d['reliability'] = {'level': lv, 'label': LEVELS[lv], 'why': why}
+    c['rel'] = lv
+    json.dump(d, open(path, 'w'), ensure_ascii=False, separators=(',', ':'))
+
 cat.sort(key=lambda c: (c['date'], {'genel': 0, 'cumhurbaskanligi': 1, 'referandum': 2, 'senato': 3, 'yerel': 4, 'ara': 5}.get(c['type'], 9), c['id']))
 json.dump(cat, open(os.path.join(ROOT, 'data', 'index.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 
