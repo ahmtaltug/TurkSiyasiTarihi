@@ -10,7 +10,7 @@ Together with parliaments, governments, sultans, presidents, parties and politic
 [**Open the site →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/?lang=en)
 
 [![Deploy](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Version](https://img.shields.io/badge/version-3.4.0-8d1c1c)
+![Version](https://img.shields.io/badge/version-3.5.0-8d1c1c)
 ![Code license](https://img.shields.io/badge/code-MIT-2f6f4e)
 ![Data license](https://img.shields.io/badge/data-CC%20BY--SA%204.0-2a5d8f)
 
@@ -28,7 +28,7 @@ Together with parliaments, governments, sultans, presidents, parties and politic
 | **Period boundaries** | Ottoman vilayets and sanjaks; for the Republic, the provinces and province names of that year (e.g. Seyhan, Çoruh, Urfa, İçel). Boundaries based on estimates are hatched on the map. |
 | **Political history** | Parliamentary seat distribution since 1876, sultans, grand viziers, presidents, prime ministers, 73 governments and their coalitions, votes of confidence, the lineage of 58 parties and 4 alliances, 230 events. |
 | **Current state** | Today's seat distribution in the TBMM and the current party of all 81 provincial mayors; updated automatically from Wikipedia every day. |
-| **District level** | District results for the 1950/1955 local elections and for every election since 1961, with district boundaries as of the election date. |
+| **District level** | District results for the 1950/1955 local elections and for every election since 1961, with district boundaries as of the election date. Districts created later are drawn as part of the district they belonged to, under its name at the time. |
 | **Analysis** | Side-by-side comparison of two elections, province-by-province change against the previous election of the same type, province and party histories, correlation with demographic indicators. |
 | **Source transparency** | Every record has a reliability badge and source links; what was checked and how is described in the [verification report](docs/DOGRULAMA.md) (Turkish). |
 
@@ -141,7 +141,7 @@ scripts/build_all.sh --wiki   # also re-downloads Wikipedia texts (results may c
 | `scripts/fetch_sources.sh` | Downloads a pinned version of the source dataset (only the needed folders) and Natural Earth. |
 | `scripts/build_modern.py` | Converts 1950–2026 provincial results and 1950–1999 province boundaries into the app's format. |
 | `scripts/build_historical.py` | Parses the 1877–1946 deputy lists and builds the period boundaries from the then-affiliation of today's districts and merged Natural Earth regions. |
-| `scripts/build_ilce.py` | Builds district results and the district boundaries of each election. |
+| `scripts/build_ilce.py` | Builds district results and the district boundaries of each election; `scripts/ilce_gaps.py` merges districts not yet created into their district of the time. |
 | `scripts/build_geo.sh` | Merges, simplifies and converts boundaries to TopoJSON. |
 | `scripts/build_index.py` | Produces the election list and party colours. |
 | `scripts/descriptions.py` | Short descriptions of post-1950 elections; used by `build_modern.py`, writes them into the published data when run on its own. |

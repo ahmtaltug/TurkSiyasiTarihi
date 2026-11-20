@@ -33,7 +33,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
-  const VERSION = '3.4.0';
+  const VERSION = '3.5.0';
   const cache = { geo: {}, el: {}, ilce: {} };
   const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
   // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)
@@ -47,6 +47,8 @@
     return v;
   }
   let ilLayer = null;
+  // Sınırı (kısmen) tahmine dayanan birim: 1950 öncesi il/sancak notu ya da ilçe düzeyinde ana ilçesi kaynakta olmayan katılım
+  const approxUnit = (u) => !!(u && (u.boundary || (u.added && u.added.some((a) => /^komşuluk/.test(a.yontem)))));
 
   async function getJSON(url) {
     const r = await fetch(url);
@@ -81,7 +83,7 @@
     if (hatchLayer) { map.removeLayer(hatchLayer); hatchLayer = null; }
     const d = state.data;
     if (!state.showHatch || !d || !d.geo || d.level === 'vilayet') return;
-    const feats = fc.features.filter((f) => d.units[f.properties.id] && d.units[f.properties.id].boundary);
+    const feats = fc.features.filter((f) => approxUnit(d.units[f.properties.id]));
     if (!feats.length) return;
     hatchLayer = L.geoJSON({ type: 'FeatureCollection', features: feats }, {
       interactive: false, style: { stroke: false, fill: true, fillColor: 'url(#hatch)', fillOpacity: 1 },
@@ -295,6 +297,7 @@
     else if (c.mode === 'swing') { const v = unitValue(u, 'swing', c); parts.push(`${esc(pLabel(c.party))}: ${v == null ? 'karşılaştırılamaz' : sgn(v) + ' puan'}`); }
     else if (c.mode === 'count') parts.push(d.id === '1930yerel' ? `SCF: ${u.total} belediye` : `${u.initial ?? u.total} vekil${u.total > (u.initial ?? u.total) ? ` (+${u.total - u.initial} sonradan)` : ''}`);
     if (u.note && !parts.length) parts.push(esc(u.note));
+    if (u.added && u.added.length) parts.push(`<span class="muted">${TL('Bugünkü', 'Includes today\'s')} ${esc(u.added.map((a) => a.ad).join(', '))}${TL(' dahil', '')}</span>`);
     return `<b>${name}</b>${parts.join('<br>')}`;
   }
 
@@ -334,9 +337,10 @@
   }
   function hatchLegend(d) {
     if (d.level === 'vilayet') return '';
-    const n = Object.values(d.units).filter((u) => u.boundary).length;
+    const n = Object.values(d.units).filter(approxUnit).length;
     if (!n) return '';
-    return `<label class="item hatch-toggle"><input type="checkbox" id="hatchChk" ${state.showHatch ? 'checked' : ''}><span class="sw hatch"></span><span class="muted">Sınırı tahmine dayanan birim (${n})</span></label>`;
+    const t = d.level === 'ilçe' ? TL(`Sınırı kısmen tahmine dayanan ilçe (${n})`, `District with a partly estimated boundary (${n})`) : `Sınırı tahmine dayanan birim (${n})`;
+    return `<label class="item hatch-toggle"><input type="checkbox" id="hatchChk" ${state.showHatch ? 'checked' : ''}><span class="sw hatch"></span><span class="muted">${t}</span></label>`;
   }
   function bindHatchToggle() {
     const c = document.getElementById('hatchChk');
@@ -530,6 +534,16 @@
     }
     if (u.note) h += `<p class="note">${esc(u.note)}</p>`;
     if (u.boundary) h += `<p class="note warn"><b>Sınır notu:</b> ${esc(u.boundary)}</p>`;
+    if (u.added && u.added.length) {
+      const by = (re) => u.added.filter((a) => re.test(a.yontem));
+      const ls = (arr) => esc(arr.map((a) => `${a.ad}${a.kurulus ? ` (${a.kurulus.slice(0, 4)})` : ''}`).join(', '));
+      let t = TL(`<b>Seçim tarihindeki sınır:</b> Sonradan kurulan şu ilçelerin alanı bu seçimde ${esc(u.name)} ilçesine dahildir (parantez içinde kuruluş yılı): ${ls(u.added)}.`,
+                 `<b>Boundary on election day:</b> the area of these later districts belonged to ${esc(u.name)} at this election (year founded in brackets): ${ls(u.added)}.`);
+      const k = by(/^kanun$/), c = by(/^komşuluk/);
+      if (k.length) t += ' ' + TL(`${ls(k)}: kuruluş kanununa göre en çok köy ve mahalleyi devreden ana ilçe; diğer ana ilçelerden gelen küçük parçalar da buraya katıldı.`, `${ls(k)}: assigned to the parent district that gave most villages and neighbourhoods under the founding law; small parts from other parents are included too.`);
+      if (c.length) t += ' ' + TL(`${ls(c)}: hangi ilçeden ayrıldığı kaynakta yok; seçim tarihinde aynı ildeki en uzun ortak sınıra göre tahmin edildi (haritada taralı).`, `${ls(c)}: the parent district is not in the source; estimated from the longest shared border within the same province (hatched on the map).`);
+      h += `<p class="note${c.length ? ' warn' : ''}">${t}</p>`;
+    }
     if (d.geo && d.geo.startsWith('tr-')) h += '<details id="histBox"><summary>Bu ilin seçim geçmişi (aynı tür, 1950 sonrası)</summary><div class="hist">Yükleniyor…</div></details>';
     h += '</div>';
     box.innerHTML = h;
@@ -1004,7 +1018,8 @@
     return past[past.length - 1] === rs[rs.length - 1] ? p.name : past[past.length - 1].to;
   }
   // Kaynakta bugünkü adıyla geçen parti adını o tarihteki adına çevirir (kayıt bulunamazsa olduğu gibi)
-  const nameAtDate = (name, date) => { const p = partyByTitle(name); return p ? partyNameAt(p, date) : name; };
+  // aynı adlı farklı partiler (DP 1946 / DP 2007) için önce o tarihte faal olan kayıt aranır
+  const nameAtDate = (name, date) => { const p = findParty(name, date) || partyByTitle(name); return p ? partyNameAt(p, date) : name; };
   function partyByTitle(t) {
     const H = state.hist; if (!H) return null;
     return H.parties.find((p) => p.title === t) || H.parties.find((p) => normName(p.title) === normName(t) || normName(p.name) === normName(t)) || null;
