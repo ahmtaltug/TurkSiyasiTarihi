@@ -12,7 +12,9 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
-<img src="docs/img/harita.jpg" alt="2023 milletvekili genel seçiminde illere göre birinci parti haritası" width="900">
+<img src="docs/img/oynatma.gif" alt="1908'den 2023'e milletvekili seçimlerinin zaman atlamalı oynatması" width="900">
+
+▶ [Tanıtım videosu (70 sn)](docs/video/tanitim.mp4)
 
 </div>
 
