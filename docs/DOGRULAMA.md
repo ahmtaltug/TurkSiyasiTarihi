@@ -102,6 +102,15 @@ Doğrulanamayanlar: Hükûmet tarihleri ve güvenoyu sayıları TBMM tutanaklar�
 - İlçenin bağlı olduğu il, veri setinin seçim tarihli idari anlık görüntüsünden alındı; il adı o seçimin il düzeyi verisindeki adıdır.
 - İl düzeyinde uygulanan parti anahtarı düzeltmeleri (CGP → GP 1967–1972, DP → Demokratik Parti 1970–1980, MHP → MÇP 1986–1992) ilçe satırlarına da uygulandı.
 
+## 7a. İlçe haritalarındaki boşluklar (3.5.0)
+
+Kaynak veri setinin idari katmanı her seçim için henüz kurulmamış ilçeleri ve çizim kuralını tutar (`election_admin_snapshots.json`): `merge_into` (ana ilçe biliniyor), `unresolved_multi_parent` (kuruluş kanunu birden çok ana ilçe sayıyor) ve `unresolved` (ana ilçe bilinmiyor). Son ikisi haritada boş kalıyordu. `scripts/ilce_gaps.py` bu alanları şöyle doldurur ve her birini birimin `added` alanına yöntemiyle yazar:
+- **kanun:** `district_lineage.json` içindeki kuruluş kanunu listesine göre en çok birim (köy/mahalle) devreden ana ilçenin o seçimdeki birimi. Diğer ana ilçelerden gelen küçük parçalar da aynı birime katılır; bu yaklaşıktır.
+- **komşuluk:** Ana ilçe kaynakta yoksa, seçim tarihinde aynı ile bağlı (dönemin il sınırına göre) birimlerden en uzun ortak sınırı olan. Ortak sınır önce yalnız kesin alanlarla ölçülür; tahminle büyümüş birimler ancak başka komşu yoksa aday olur. Bu birimler haritada taralıdır. 1950 yerelde 114, 1955 yerelde 72, 1989 yerel ve 1991'de ikişer ilçe bu yolla atandı (kanunla: 1950'de 93, 1955'te 95); çoğu 1953–1960 arasında kurulan ve kuruluş kanunu kaynakta işlenmemiş ilçelerdir. Tek tek doğrulanmadı; bazı atamalar yanlış olabilir.
+- Yalnız seçim tarihinden sonra kurulmuş ilçeler doldurulur. Seçimde var olup satırı kaynakta olmayan ilçeler komşunun rengiyle boyanmaz: yerel seçimlerde il merkezi ise il düzeyi kayıttan (il merkezi belediyesinin sonucu) doldurulur, değilse "veri yok" olarak gösterilir (1950: Baykan; 1955: Adıyaman merkezi, Karşıyaka).
+- Batman'ın kuruluş tarihi soy tablosunda yok; kaynak depodaki 7033 sayılı Kanun dökümünde "Siirt – Batman (Iluh)" olarak geçtiği için 1 Eylül 1957 alındı.
+- Sonuç: 43 seçimin hiçbirinde bugünkü 973 ilçeden yarısından azı örtülü olan alan kalmadı.
+
 ## 8. Parti olayları, 1950 sonrası açıklamalar ve ulusal toplamlar (3.4.0)
 
 **Parti olayları.** Olaylar listesi partileri kuruluş tarihinde bugünkü adlarıyla yazıyordu. Depodaki bilgi kutusu ve madde kopyalarına göre düzeltildi:

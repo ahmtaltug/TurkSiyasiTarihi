@@ -78,6 +78,10 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   await p.evaluate(() => { location.hash = 'e=1961&m=winner&l=ilce'; }); await p.waitForTimeout(3000);
   const ilce = await p.$$eval('path.leaflet-interactive', (x) => x.length);
   if (ilce < 600) bad.push(`1961 ilçe haritası ${ilce} birim`);
+  // 1950 yerel ilçe haritası: sonradan kurulan ilçeler döneminin ilçesine dahil (Araklı 1953'te Sürmene'den ayrıldı)
+  await p.evaluate(() => { location.hash = 'e=1950yerel&m=winner&l=ilce'; }); await p.waitForTimeout(3000);
+  const s50 = await p.evaluate(() => { const u = Object.values(window.Atlas.state.data.units).find((x) => x.name === 'Sürmene'); return u && (u.added || []).map((a) => a.ad); });
+  if (!s50 || !s50.includes('Araklı')) bad.push('1950 Sürmene Araklı içermiyor: ' + JSON.stringify(s50));
   // geçerli oy / seçmen oranı yalnız ikisi de bilinen illerden (1957'de geçerli oy tek ilde: oran gösterilmemeli)
   await p.evaluate(() => { location.hash = 'e=1957'; }); await p.waitForTimeout(1200);
   const kv57 = await p.$$eval('#electionInfo dl.kv dd', (x) => x.map((d) => d.textContent));

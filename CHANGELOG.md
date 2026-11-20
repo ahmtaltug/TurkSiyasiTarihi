@@ -1,5 +1,20 @@
 # Değişiklik günlüğü
 
+## 3.5.0 — 2026-11-20
+
+### İlçe haritalarında boş alanlar
+Seçim tarihinde henüz kurulmamış ilçelerin alanı, ana ilçesi kaynak veri setinde belirsizse haritada boş kalıyordu. 1950 yerel seçiminde 207, 1955'te 167, 1989 ve 1991'de ikişer ilçe alanı boştu (ör. 1953'te Sürmene'den ayrılan Araklı). Artık her ilçe alanı o seçimdeki bir birimin parçası olarak, döneminin adıyla çizilir (`scripts/ilce_gaps.py`):
+- **Kuruluş kanunu ana ilçeleri sayıyorsa:** en çok köy ve mahalleyi devreden ana ilçeye katılır.
+- **Ana ilçe kaynakta yoksa:** seçim tarihinde aynı ile bağlı komşu ilçelerden en uzun ortak sınırı olana katılır. Bu tahmin önce yalnız kesin alanlarla yapılır; böylece bir tahmin diğerini sürüklemez (ör. Arsin, Araklı'yla büyümüş Sürmene'ye değil Trabzon Merkez'e katılır). Bu ilçeler haritada taralıdır.
+- **Eksik il merkezleri:** 1950 ve 1955 yerel seçimlerinde 11 il merkezinin ilçe satırı kaynakta yoktu. Yerel seçimin il düzeyi kaydı zaten il merkezi belediyesinin sonucu olduğu için bu alanlar oradan doldurulur.
+- **Batman:** 1957'de Beşiri'den ayrılarak ilçe oldu (7033 sayılı Kanun); 1950'de Beşiri'nin parçası olarak çizilir.
+- **Sonucu gerçekten bulunmayanlar** (1950'de Baykan, 1955'te Adıyaman merkezi ve Karşıyaka) görünmez kalmak yerine adlarıyla "veri yok" olarak gösterilir.
+- İlçe kartında ve ipucunda, sonradan kurulup o seçimde ilçeye dahil olan bugünkü ilçeler kuruluş yıllarıyla ve dayanaklarıyla yazar (ör. "Sürmene: Araklı (1953), Köprübaşı (1990)").
+- Geometrisi bulunamayan "Taşova" satırı (1950) adından bugünkü Taşova'ya eşlendi.
+
+### Düzeltme
+- 3.4.0'da eklenen "o tarihteki parti adı" dönüşümü, aynı adlı iki partiyi karıştırıyordu: 1950–1960 hükûmetlerinde Demokrat Parti, 2007'de kurulan DP kaydının eski adıyla "Doğru Yol Partisi" görünüyordu. Artık o tarihte faal olan kayıt kullanılır.
+
 ## 3.4.0 — 2026-11-20
 
 ### Yeni

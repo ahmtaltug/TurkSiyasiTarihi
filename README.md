@@ -10,7 +10,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.4.0-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.5.0-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -28,7 +28,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 | **Döneminin sınırları** | Osmanlı'da vilayet ve sancaklar, Cumhuriyet'te o yılın illeri ve adları (ör. Seyhan, Çoruh, Urfa, İçel). Tahmine dayanan sınırlar haritada taralıdır. |
 | **Siyasi tarih** | 1876'dan bugüne meclis sandalye dağılımı, padişahlar, sadrazamlar, cumhurbaşkanları, başbakanlar, 73 hükûmet ve koalisyonları, güvenoyları, 58 parti ve 4 ittifakın soy ağacı, 230 olay. |
 | **Güncel durum** | TBMM'nin bugünkü sandalye dağılımı ve 81 il belediye başkanının bugünkü partisi; her gün Vikipedi'den otomatik güncellenir. |
-| **İlçe düzeyi** | 1950/1955 yerel seçimleri ve 1961 sonrası bütün seçimlerde ilçe sonuçları, seçim tarihindeki ilçe sınırlarıyla. |
+| **İlçe düzeyi** | 1950/1955 yerel seçimleri ve 1961 sonrası bütün seçimlerde ilçe sonuçları, seçim tarihindeki ilçe sınırlarıyla. Sonradan kurulan ilçeler, o seçimde bağlı oldukları ilçenin parçası olarak döneminin adıyla çizilir. |
 | **Analiz** | İki seçimi yan yana karşılaştırma, aynı türdeki önceki seçime göre il il değişim, il ve parti geçmişi, demografik göstergelerle korelasyon. |
 | **Kaynak şeffaflığı** | Her kayıtta güvenilirlik rozeti ve kaynak bağlantısı; neyin nasıl doğrulandığı [doğrulama raporunda](docs/DOGRULAMA.md). |
 
@@ -139,7 +139,7 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/fetch_sources.sh` | Kaynak veri setinin sabit sürümünü (yalnız gerekli klasörler) ve Natural Earth'ü indirir. |
 | `scripts/build_modern.py` | 1950–2026 il sonuçlarını ve 1950–1999 il sınırlarını uygulamanın biçimine çevirir. |
 | `scripts/build_historical.py` | 1877–1946 vekil listelerini ayrıştırır ve dönemin sınırlarını kurar. Sınırlar, günümüz ilçelerinin o yıldaki bağlılığına ve Natural Earth bölgelerinin birleştirilmesine dayanır. |
-| `scripts/build_ilce.py` | İlçe sonuçlarını ve her seçimin ilçe sınırlarını üretir. |
+| `scripts/build_ilce.py` | İlçe sonuçlarını ve her seçimin ilçe sınırlarını üretir; henüz kurulmamış ilçelerin alanını `scripts/ilce_gaps.py` ile döneminin ilçesine katar. |
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
 | `scripts/descriptions.py` | 1950 sonrası seçim kayıtlarının kısa açıklamaları; `build_modern.py` kullanır, tek başına çalıştırılınca yayındaki veriye yazar. |
