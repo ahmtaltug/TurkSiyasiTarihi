@@ -22,10 +22,12 @@ Toplam 88 kayıt vardır. Canlı site: **https://ahmtaltug.github.io/TurkSiyasiT
 - **Ayrıntılar:** Bir il ya da vilayete tıklayınca oylar, sandalyeler ve 1950 öncesi için vekil adları açılır. Sıralanabilir birim tablosu da vardır.
 - **Paylaşma ve indirme:** Adres çubuğu görünümü saklar (ör. `#e=1946&u=istanbul&m=winner`). "Bağlantıyı kopyala" ve "CSV indir" düğmeleri bulunur.
 
-- **Veri güvenilirliği:** Her kayıtta kaynağın türünü gösteren bir rozet vardır (resmî kaynak, ansiklopedik derleme, kısmi/yaklaşık, sonuç verisi yok). Sınırı tahmine dayanan birimler haritada kesikli çizgiyle işaretlidir.
+- **Veri güvenilirliği:** Her kayıtta kaynağın türünü gösteren bir rozet vardır (resmî kaynak, ansiklopedik derleme, kısmi/yaklaşık, sonuç verisi yok). Sınırı tahmine dayanan birimler haritada ince çapraz taramayla işaretlidir.
 - **İl geçmişi ve meclis grafiği:** 1950 sonrası bir ilin aynı türdeki bütün seçimleri tek tabloda listelenir; genel seçimlerde ve Senato seçimlerinde sandalye dağılımı yarım daire grafikle gösterilir.
 
-Sürüm geçmişi için [CHANGELOG.md](CHANGELOG.md), planlanan işler için [ROADMAP.md](ROADMAP.md) dosyasına bakın.
+- **Koyu tema:** Tarayıcı tercihine göre açılır, sağ üstten değiştirilebilir.
+
+Neyin nasıl doğrulandığı için [docs/DOGRULAMA.md](docs/DOGRULAMA.md), sürüm geçmişi için [CHANGELOG.md](CHANGELOG.md), planlanan işler için [ROADMAP.md](ROADMAP.md) dosyasına bakın.
 
 ## Ücretsiz yayınlama (GitHub Pages)
 
@@ -58,6 +60,7 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/build_historical.py` | 1877–1946 vekil listelerini ayrıştırır ve dönemin sınırlarını kurar. Sınırlar, günümüz ilçelerinin o yıldaki bağlılığına ve Natural Earth bölgelerinin birleştirilmesine dayanır. |
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
+| `scripts/verify_wiki.py` | Parti ve aday adlarını seçimlerin Vikipedi maddeleriyle karşılaştırır (`scripts/fetch_sources.sh --verify` sonrası). |
 | `scripts/validate.py` | Seçim dosyalarının ve sınırların tutarlılığını denetler; CI'da da çalışır. |
 | `tests/smoke.js` | Tarayıcı testi: bütün seçimleri ve görünümleri açar; CI'da her PR'da çalışır. |
 

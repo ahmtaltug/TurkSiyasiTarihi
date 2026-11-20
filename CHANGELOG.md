@@ -1,5 +1,25 @@
 # Değişiklik günlüğü
 
+## 1.2.0 — 2026-11-20
+
+### Özellikler
+- **Koyu tema:** Sayfa tarayıcının açık/koyu tercihine göre açılır. Sağ üstteki düğme Sistem, Açık ve Koyu arasında geçiş yapar; tercih tarayıcıda saklanır. Parti renklerinin koyu temaya uygun karşılıkları kullanılır.
+- **Parti tam adları:** İpuçlarında ve parti seçim kutusunda gösterilir. Kısaltma yılına göre çözülür; örneğin 1950'de "DP" Demokrat Parti, 1973'te Demokratik Parti'dir.
+- **İl adları seçim tarihine göre:** Örneğin 1955'e kadar "Seyhan (Adana)" ve "Çoruh (Artvin)", 1984'e kadar "Urfa (Şanlıurfa)", 2002'ye kadar "İçel (Mersin)".
+
+### Harita kalitesi
+- Sınırlar daha az sadeleştirildi (Türkiye %30, Osmanlı %15, arka plan %50); yakınlaşınca köşeli görünüm azaldı.
+- Çizgi kalınlığı yakınlaştırma düzeyine göre değişiyor.
+- Tahmini sınırlar artık kesikli çizgiyle değil, sınır çizgisine dokunmayan hafif bir çapraz taramayla gösteriliyor. Lejanttaki kutucukla gizlenebilir.
+
+### Veri doğrulama ve düzeltmeler (ayrıntı: [docs/DOGRULAMA.md](docs/DOGRULAMA.md))
+- `scripts/verify_wiki.py`: 323 parti/aday–seçim çiftinin hepsi ilgili Vikipedi maddesiyle eşleşiyor.
+- Kaynak veri setindeki dönemine uymayan parti etiketleri düzeltildi: 1968 ve 1969'da "CGP" → Güven Partisi, 1973 Sakarya'da "DP" → Demokratik Parti, 1989 Çorum'da "MHP" → MÇP.
+- Tablo ayrıştırıcısındaki bir hata düzeltildi. 1912'de Yozgat mebusu Ahmet Münir Bey listeden düşüyordu, Aydın'daki üç mebusun bilgileri yanlış satıra kayıyordu.
+- Kaynak listede art arda iki kez yazılmış iki ad (1912 Trablusşam, 1920 Saruhan) bir kez sayıldı.
+- 1950–1957, 2014 cumhurbaşkanlığı, 2018 ve 2023 seçimlerine, ülke geneli oranların resmî/ansiklopedik değerlerden neden farklı olduğunu açıklayan notlar eklendi.
+- Hatay (1939), Cumhuriyet Senatosu, 1930 Belediyeler Kanunu ve 1991 il sayısıyla ilgili ifadeler kaynaklara göre düzeltildi.
+
 ## 1.1.0 — 2026-11-20
 
 ### Özellikler

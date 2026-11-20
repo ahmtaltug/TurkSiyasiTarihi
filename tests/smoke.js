@@ -34,7 +34,11 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   if (histRows < 15) bad.push(`İstanbul genel seçim geçmişi ${histRows} satır`);
   // tahmini sınır işareti 1923'te lejantta görünmeli
   await p.evaluate(() => { location.hash = 'e=1923'; }); await p.waitForTimeout(800);
-  if (!(await p.$('#legend .sw.dash'))) bad.push('1923 tahmini sınır lejantı yok');
+  if (!(await p.$('#legend .sw.hatch'))) bad.push('1923 tahmini sınır lejantı yok');
+  // tema: Sistem -> Açık -> Koyu
+  await p.click('#themeBtn'); await p.click('#themeBtn'); await p.waitForTimeout(300);
+  if ((await p.evaluate(() => document.documentElement.dataset.theme)) !== 'dark') bad.push('koyu tema uygulanmadı');
+  await p.click('#themeBtn');
   console.log(`${ids.length} seçim; sorunlu: ${bad.length ? bad.join(', ') : 'yok'}; hata: ${errs.length ? errs.join(' | ') : 'yok'}`);
   await b.close();
   process.exit(bad.length || errs.length ? 1 : 0);
