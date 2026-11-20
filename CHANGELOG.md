@@ -1,5 +1,9 @@
 # Değişiklik günlüğü
 
+## 3.3.2 — 2026-11-20
+
+- **Tek ad:** Depo, uygulamanın adıyla uyumlu olarak `TurkiyeSecimAtlasi` olarak yeniden adlandırıldı. Site adresi artık https://ahmtaltug.github.io/TurkiyeSecimAtlasi/; README, CITATION, hata formları, sürüm notları ve sitedeki bağlantılar güncellendi. Vikipedi isteklerinin kimliği, kaynak veri setinin adıyla karışmaması için `SecimAtlasiBuilder` oldu.
+
 ## 3.3.1 — 2026-11-20
 
 - **Türkiye Köylü Partisi:** 1955 yerel seçiminde yalnız "TKöyP" kısaltmasıyla görünen parti tam adıyla gösterilir. Parti, soy ağacına da eklendi (19 Mayıs 1952 – 16 Ekim 1958; Cumhuriyetçi Millet Partisi ile birleşerek Cumhuriyetçi Köylü Millet Partisi'ni kurdu). 1955 seçiminin notlarına CHP ve CMP'nin seçimi boykot ettiği eklendi.

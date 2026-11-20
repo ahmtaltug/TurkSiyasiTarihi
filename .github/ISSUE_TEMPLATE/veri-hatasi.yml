@@ -12,7 +12,7 @@ body:
     attributes:
       label: Kayıt ya da görünüm
       description: Sitedeki bağlantı (adres çubuğundaki adres) ya da seçim/il adı.
-      placeholder: "https://ahmtaltug.github.io/TurkSiyasiTarihi/#e=1950&u=6"
+      placeholder: "https://ahmtaltug.github.io/TurkiyeSecimAtlasi/#e=1950&u=6"
     validations:
       required: true
   - type: textarea

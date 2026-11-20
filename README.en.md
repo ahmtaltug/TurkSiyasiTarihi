@@ -1,16 +1,16 @@
 <div align="center">
 
-*[Türkçe README](README.md) · [Open the site in English](https://ahmtaltug.github.io/TurkSiyasiTarihi/?lang=en)*
+*[Türkçe README](README.md) · [Open the site in English](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/?lang=en)*
 
 # Turkey Election Atlas
 
 **Ottoman and Turkish Republic elections from 1840 to today, mapped with the boundaries of their time.**<br>
 Together with parliaments, governments, sultans, presidents, parties and political events.
 
-[**Open the site →**](https://ahmtaltug.github.io/TurkSiyasiTarihi/?lang=en)
+[**Open the site →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/?lang=en)
 
-[![Deploy](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkSiyasiTarihi/actions/workflows/pages.yml)
-![Version](https://img.shields.io/badge/version-3.3.1-8d1c1c)
+[![Deploy](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
+![Version](https://img.shields.io/badge/version-3.3.2-8d1c1c)
 ![Code license](https://img.shields.io/badge/code-MIT-2f6f4e)
 ![Data license](https://img.shields.io/badge/data-CC%20BY--SA%204.0-2a5d8f)
 
