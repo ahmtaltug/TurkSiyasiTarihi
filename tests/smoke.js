@@ -67,7 +67,7 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   const dots = await p.$$eval('#demoBox circle.dp', (c) => c.length);
   if (dots < 75) bad.push(`demografi grafiği ${dots} il`);
   // siyasi tarih penceresi
-  await p.click('#histBtn'); await p.waitForSelector('#hchart', { timeout: 5000 }).catch(() => bad.push('siyasi tarih grafiği yok'));
+  await p.click('#mainTabs [data-view="history"]'); await p.waitForSelector('#hchart', { timeout: 5000 }).catch(() => bad.push('siyasi tarih grafiği yok'));
   const blocks = await p.$$eval('#hchart rect.blk', (r) => r.length);
   if (blocks < 80) bad.push(`meclis grafiğinde ${blocks} blok`);
   for (const t of ['govs', 'parties', 'anim']) { await p.click(`#histTabs [data-tab="${t}"]`); await p.waitForTimeout(300); }

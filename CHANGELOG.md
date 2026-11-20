@@ -1,5 +1,10 @@
 # Değişiklik günlüğü
 
+## 2.1.0 — 2026-11-20
+- Harita ve Siyasi tarih artık üst çubuktan geçilen iki ana bölüm.
+- Meclis grafiği 1876'dan başlıyor: Meclis-i Mebusan (1877, 1908, 1912, 1914, 1919) ve I. TBMM; padişahlar devlet başkanı bandında; Meclis'in kapalı olduğu dönemler (1878–1908 vb.) taralı. Gruplama kaynağın sınıflandırmasıdır (1877 dinî, 1908 etnik, 1912–1914 siyasi).
+- Olay animasyonu 1876'dan başlıyor; I. ve II. Meşrutiyet, Bâbıâli Baskını, TBMM'nin açılışı ve Cumhuriyet'in ilanı işaretli.
+
 ## 2.0.0 — 2026-11-20
 
 ### Siyasi tarih görünümü (yeni; üst çubukta "Siyasi tarih")

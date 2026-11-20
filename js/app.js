@@ -29,7 +29,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '2.0.0';
+  const VERSION = '2.1.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -1277,7 +1277,6 @@
     $('#skipEmpty').addEventListener('change', (e) => { state.play.skipEmpty = e.target.checked; updateYearBadge(); });
     $('#csvBtn').addEventListener('click', downloadCsv);
     $('#cmpBtn').addEventListener('click', () => setCompare(!state.cmp.on));
-    $('#histBtn').addEventListener('click', () => window.AtlasHistory && window.AtlasHistory.open('chart', state.data && state.data.date));
     $('#shareBtn').addEventListener('click', (e) => copyLink(e.currentTarget));
     $('#version').textContent = 'Sürüm ' + VERSION;
     document.addEventListener('keydown', (e) => {

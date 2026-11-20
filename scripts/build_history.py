@@ -100,6 +100,14 @@ pres_full = fixed
 # ------------------------------------------------------------------ meclis sandalye dağılımı (seçim sonrası)
 idx = json.load(open(os.path.join(ROOT, 'data', 'index.json')))
 parl = []
+# 1877–1920: Meclis-i Mebusan ve I. TBMM (sitenin seçim verisinden; gruplama kaynağın sınıflandırmasıdır)
+for eid, basis in (('1877-1', 'dinî mensubiyet'), ('1877-2', 'dinî mensubiyet'), ('1908', 'etnik mensubiyet (Vikipedi listesi)'),
+                   ('1912', 'siyasi mensubiyet (Vikipedi listesi)'), ('1914', 'siyasi mensubiyet (Vikipedi listesi)'), ('1919', None), ('1920', None)):
+    d = json.load(open(os.path.join(ROOT, 'data', 'elections', eid + '.json')))
+    n = d['national']; tot = n.get('members_initial') or 0
+    seats = dict(n.get('seats') or {}) or {'Belirtilmemiş': tot}
+    parl.append({'id': eid, 'date': d['date'], 'total': sum(seats.values()), 'seats': seats, 'basis': basis or 'grup verisi derlenmedi',
+                 'listed': True, 'source': 'data/elections/%s.json' % eid})
 # 1923–1946: seçim maddelerinin bilgi kutuları ve 1946 sonuç tablosu
 EARLY = [
     ('1923', '1923-06-28', 286, {'Müdâfaa-i Hukuk (Birinci Grup)': 285, 'Bağımsız': 1}, '1923 Türkiye genel seçimleri'),
@@ -242,7 +250,10 @@ hist = {
         {'name': '1950–2023 sandalyeler: bu sitenin seçim verisi (YSK kaynaklı veri seti)', 'url': 'https://github.com/hamiKumbasae/turkiye-secim-haritasi'},
     ],
     'nameKeys': name_keys,
-    'governments': govs, 'presidents': pres_full, 'parliament': parl, 'parties': parties, 'renames': RENAMES, 'events': events,
+    'governments': govs, 'presidents': pres_full,
+    'sultans': [{'name': 'I. Abdülmecid', 'start': '1839-07-02', 'end': '1861-06-25'}, {'name': 'Abdülaziz', 'start': '1861-06-25', 'end': '1876-05-30'},
+                {'name': 'V. Murad', 'start': '1876-05-30', 'end': '1876-08-31'}, {'name': 'II. Abdülhamid', 'start': '1876-08-31', 'end': '1909-04-27'},
+                {'name': 'V. Mehmed Reşad', 'start': '1909-04-27', 'end': '1918-07-03'}, {'name': 'VI. Mehmed Vahdeddin', 'start': '1918-07-04', 'end': '1922-11-01'}], 'parliament': parl, 'parties': parties, 'renames': RENAMES, 'events': events,
 }
 json.dump(hist, open(os.path.join(ROOT, 'data', 'history.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 print('hükûmet', len(govs), 'cumhurbaşkanı', len(pres_full), 'meclis', len(parl), 'parti', len(parties), 'olay', len(events))

@@ -440,3 +440,15 @@ dialog.wide::backdrop { background: rgba(0,0,0,.4); }
   .hd-head h2 { font-size: 16px; }
   .hd-body { padding: 8px 10px 16px; }
 }
+
+/* 2.1: ana bölümler (Harita / Siyasi tarih) */
+.main-tabs button { font-weight: 600; padding: 6px 14px; }
+.history-view { flex: 1; display: flex; flex-direction: column; min-height: 0; background: var(--surface); }
+.history-view[hidden], .controls[hidden], main.layout[hidden] { display: none; }
+.history-view .hd-head { position: sticky; top: 0; z-index: 5; background: var(--surface); }
+@media (max-width: 600px) {
+  .topbar { flex-wrap: wrap; row-gap: 6px; }
+  .main-tabs { order: 3; width: 100%; }
+  .main-tabs button { flex: 1; }
+  .history-view .hd-head h2 { display: none; }
+}
