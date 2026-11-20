@@ -102,6 +102,22 @@ Doğrulanamayanlar: Hükûmet tarihleri ve güvenoyu sayıları TBMM tutanaklar�
 - İlçenin bağlı olduğu il, veri setinin seçim tarihli idari anlık görüntüsünden alındı; il adı o seçimin il düzeyi verisindeki adıdır.
 - İl düzeyinde uygulanan parti anahtarı düzeltmeleri (CGP → GP 1967–1972, DP → Demokratik Parti 1970–1980, MHP → MÇP 1986–1992) ilçe satırlarına da uygulandı.
 
+## 8. Parti olayları, 1950 sonrası açıklamalar ve ulusal toplamlar (3.4.0)
+
+**Parti olayları.** Olaylar listesi partileri kuruluş tarihinde bugünkü adlarıyla yazıyordu. Depodaki bilgi kutusu ve madde kopyalarına göre düzeltildi:
+- Kuruluş adları: Halk Fırkası (1923), Güven Partisi (1967; bilgi kutusu "12 Mayıs 1967 (Güven Partisi)"), Sosyalist İktidar Partisi (1993; bilgi kutusu "Sosyalist İktidar Partisi olarak 16 Ağustos 1993", "Türkiye Komünist Partisi olarak 11 Kasım 2001"), Yeşiller ve Sol Gelecek Partisi (2012; bilgi kutusu "30 Kasım 2012 (Yeşiller ve Sol Gelecek Partisi olarak)").
+- Eksik ad değişiklikleri eklendi: CKMP → MHP (9 Şubat 1969; CKMP bilgi kutusundaki kapanış tarihi ve madde metni) ve SİP → TKP (11 Kasım 2001). Ad değişikliği günlerinde ayrıca "kuruldu" ve "kapandı" olayı yazılmaz (CKMP → MHP, Muhafazakâr Parti → MÇP, MÇP → MHP, DYP → DP).
+- Türkiye İşçi Partisi (1961) 1961–1981 arasında kesintisiz görünüyordu. Madde metnine göre 21 Temmuz 1971'de kapatıldı ve 1975'te yeniden örgütlendi (gün kaynakta yok); iki dönem olarak girildi.
+- Animasyondaki "faal partiler", hükûmet ortakları ve cumhurbaşkanının partisi o tarihteki adla gösterilir (ör. 1930'da Cumhuriyet Halk Fırkası).
+- 1987 ve 2010 halkoylamaları kurumsal olaylara eklendi (diğer anayasa halkoylamaları zaten vardı).
+
+**1950 sonrası açıklamalar.** 44 kayda kısa açıklama eklendi (`scripts/descriptions.py`). Bu oturumda Vikipedi'ye ağ erişimi olmadığı için metinler bilerek temel bilgilerle sınırlı tutuldu ve şu kaynaklarla karşılaştırıldı:
+- Sitenin verisi: ülke geneli oranlar ve sandalyeler, seçimden sonra kurulan hükûmetler, il sınırları (Kırşehir 1954'te il, 1955'te yok, 1957'de yeniden il; Nevşehir 1955'ten itibaren), 2019 İstanbul sonucunun 31 Mart verisi olduğu.
+- Depodaki madde kopyaları: 16 Şubat 1950 seçim kanunu ve 1950 seçimi (Demokrat Parti), CMP'nin 1954'te yalnız Kırşehir'de kazanması, 1957 öncesi ittifak yasağı ve Hürriyet Partisi'nin yalnız Burdur'da kazanması, 1965 millî bakiye ve 1969'da d'Hondt'a dönüş (Adalet Partisi), TİP'in 1965'te 15 milletvekili, 1991'deki RP–MÇP–IDP ittifakı (%16,9, 62 milletvekili), 1995'te MHP'nin %8,2 ile barajın altında kalması, 2002'de yalnız AK Parti ve CHP'nin barajı aşması, 2019 İstanbul seçiminin iptali ve 23 Haziran'da yenilenmesi, 2014'teki ilk doğrudan cumhurbaşkanlığı seçimi.
+- Diğerleri (seçim sistemleri, halkoylamalarının içeriği, 1963'te belediye başkanlarının ilk kez doğrudan seçilmesi, 2024'te CHP'nin 1977'den bu yana ilk kez birinci olması gibi) genel kabul gören bilgilerdir ama bu sürümde maddeleriyle tek tek karşılaştırılamadı; [ROADMAP.md](../ROADMAP.md) dosyasında iş olarak duruyor.
+
+**Ulusal seçmen ve geçerli oy.** Kaynak veri setinde seçmen ve geçerli oy her ilde yok; ülke toplamları farklı il kümelerinden toplandığı için paneldeki "Geçerli oy / seçmen" oranı bazı seçimlerde anlamsızdı (1957'de %1,0, 1984 yerelde %138,8). Oran artık yalnız ikisi de bilinen illerden hesaplanır ve illerin en az %90'ında veri yoksa gösterilmez; eksik ilde kaç ilin toplamı olduğu yazar. 1961–1977 genel seçimlerinde bir ilin seçmen sayısı eksik olduğundan oran birkaç onda bir puan değişti.
+
 ## Doğrulanamayanlar
 
 - **1877–1946 vekil sayıları ve kişi adları:** TBMM Albümü ile karşılaştırma gerekir. Bu oturumda TBMM sitesine ağ erişimi verilmedi.

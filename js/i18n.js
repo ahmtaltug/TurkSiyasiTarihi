@@ -92,7 +92,7 @@
     'Kapat': 'Close', 'Tarih': 'Date', 'Language / Dil': 'Language / Dil', 'değiştirmek için tıklayın': 'click to change', 'Bu kayıt için harita verisi yok.': 'No map for this record.',
     'Ayrıntılar sağdaki panelde.': 'Details are in the panel.', 'Bu seçimde kazanılan sandalyeler': 'Seats won in this election', 'Kayıtlı seçmen sayısı': 'Registered voters',
     '1. tur': 'round 1', '2. tur': 'round 2', '1961 Anayasası': '1961 Constitution', '1982 Anayasası': '1982 Constitution', 'Anayasa değişikliği paketi': 'Constitutional amendment package',
-    'Belediye başkanlığı (yalnız seçim yapılan birimler)': 'Mayors (only units that held elections)', 'Cumhurbaşkanlığı hükümet sistemine geçiş (anayasa değişikliği)': 'Switch to the presidential system (constitutional amendment)',
+    'Belediye başkanlığı (yalnız seçim yapılan birimler)': 'Mayors (only units that held elections)', 'Cumhurbaşkanlığı hükûmet sistemine geçiş (anayasa değişikliği)': 'Switch to the presidential system (constitutional amendment)',
     'Cumhurbaşkanının halk tarafından seçilmesi dahil anayasa değişikliği': 'Constitutional amendment incl. popular election of the president', 'Siyasi yasakların kaldırılması (Anayasa 4. geçici madde)': 'Lifting of political bans (provisional article 4)',
     'Yerel seçimlerin bir yıl öne alınması': 'Bringing local elections forward by one year', 'İl genel meclisi oyları': 'Provincial council votes', 'İl merkezi / büyükşehir belediye başkanlığı': 'Provincial centre / metropolitan mayors',
     'Birincil kaynak: Türkçe Wikipedia (il-başına alt makaleler); resmî yayınla tam karşılaştırılmadı.': 'Primary source: Turkish Wikipedia (per-province articles); not fully checked against official publications.',
@@ -123,12 +123,14 @@
     "TBMM'de Müdâfaa-i Hukuk (Birinci) Grubu kuruldu": 'Defence of Rights (First) Group formed in parliament', 'Muhalif İkinci Grup kuruldu (63 milletvekili)': 'Opposition Second Group formed (63 deputies)',
     'Meclis-i Umumi (Meclis-i Mebusan ve Âyan) ilk kez toplandı': 'Ottoman General Assembly convened for the first time', "II. Abdülhamid Meclis-i Mebusan'ı süresiz tatil etti": 'Abdülhamid II prorogued the Chamber indefinitely',
     "VI. Mehmed Meclis-i Mebusan'ı feshetti": 'Mehmed VI dissolved the Chamber of Deputies',
+    '1980 öncesi siyasetçilere getirilen siyasi yasaklar halkoylamasıyla kaldırıldı': 'Political bans on pre-1980 politicians lifted in a referendum',
+    'Yargı yapısını değiştiren ve bireysel başvuru hakkı getiren anayasa değişikliği halkoylamasıyla kabul edildi': 'Constitutional amendments reshaping the judiciary and introducing individual application approved in a referendum',
     'Değişen birimler': 'Units that changed', "27 Mayıs 1960 askerî darbesi (Bayar'ın görevi sona erdi; Millî Birlik Komitesi yönetimi)": 'Military coup of May 27, 1960 (President Bayar removed; rule of the National Unity Committee)',
     "28 Şubat 1997 Millî Güvenlik Kurulu kararları (Haziran 1997'de 54. hükûmet istifa etti)": 'National Security Council decisions of February 28, 1997 (the 54th government resigned in June 1997)',
     '12 Eylül 1980 askerî darbesi (43. hükûmet ve Cumhuriyet Senatosu sona erdi; Millî Güvenlik Konseyi yönetimi)': 'Military coup of September 12, 1980 (43rd government and the Senate ended; rule of the National Security Council)',
     '12 Mart 1971 muhtırası (Demirel hükûmeti istifa etti)': 'Military memorandum of March 12, 1971 (the Demirel government resigned)',
     'Ankara Bölge Adliye Mahkemesi\'nin CHP 38. Olağan Kurultayı hakkındaki "mutlak butlan" kararıyla Özgür Özel\'in CHP genel başkanlığı sona erdi': 'Özgür Özel\'s CHP chairmanship ended after the Ankara Regional Court ruled the party\'s 38th congress "null and void"',
-    'Millî Güvenlik Konseyi bütün siyasi partileri kapattı (CHP, MHP, AP, CGP, MSP, TİP, MP, TBP)': 'The National Security Council closed all political parties (CHP, MHP, AP, CGP, MSP, TİP, MP, TBP)', 'Katılım (%)': 'Turnout (%)', "SCF'nin kazandığı belediye": 'Municipalities won by the SCF', "SCF'nin kazandığı belediyeler": 'Municipalities won by the SCF', "1920'den bugüne meclis sandalye dağılımı, hükûmetler ve cumhurbaşkanları": 'Seats in parliament, governments and heads of state since 1920', 'Gelecek seçim yok': 'No upcoming election', 'Kazanılan seçim bölgesi (belediye)': 'Constituencies won (municipalities)', '(Kuruluştan kısa süre sonra)': '(shortly after founding)', '(madde bilgi kutusundaki güncel sayı)': '(current number in the article infobox)', 'Bağımsız / Adalet ve Kalkınma Partisi': 'Independent / Adalet ve Kalkınma Partisi', 'filtre dışı': 'outside filter', 'Sürüm': 'Version', 'Hükûmet başkanı': 'Head of government',
+    'Millî Güvenlik Konseyi bütün siyasi partileri kapattı (CHP, MHP, AP, CGP, MSP, TİP, MP, TBP)': 'The National Security Council closed all political parties (CHP, MHP, AP, CGP, MSP, TİP, MP, TBP)', 'Katılım (%)': 'Turnout (%)', "SCF'nin kazandığı belediye": 'Municipalities won by the SCF', "SCF'nin kazandığı belediyeler": 'Municipalities won by the SCF', "1876'dan bugüne meclis sandalye dağılımı, hükûmetler ve devlet başkanları": 'Seats in parliament, governments and heads of state since 1876', 'Gelecek seçim yok': 'No upcoming election', 'Kazanılan seçim bölgesi (belediye)': 'Constituencies won (municipalities)', '(Kuruluştan kısa süre sonra)': '(shortly after founding)', '(madde bilgi kutusundaki güncel sayı)': '(current number in the article infobox)', 'Bağımsız / Adalet ve Kalkınma Partisi': 'Independent / Adalet ve Kalkınma Partisi', 'filtre dışı': 'outside filter', 'Sürüm': 'Version', 'Hükûmet başkanı': 'Head of government',
   };
   // ---------------------------------------------------------------- kalıplar (sıra önemli)
   const PAT = [
@@ -197,7 +199,8 @@
     [/^(\d+) \/ (\d+)$/, null],
     [/^(\d+) hükûmet kuruldu$/, '$1 governments formed'],
     [/^(\d{4})–(\d{4}) arasında$/, 'Between $1 and $2'],
-    [/^(.+) kuruldu$/, '$1 founded'], [/^(.+) yeniden kuruldu$/, '$1 re-founded'], [/^(.+) kapandı \/ kapatıldı$/, '$1 dissolved / closed'],
+    // "yeniden kuruldu" genel "kuruldu" kalıbından önce denenmeli
+    [/^(.+) yeniden kuruldu$/, '$1 re-founded'], [/^(.+) kuruldu$/, '$1 founded'], [/^(.+) kapandı \/ kapatıldı$/, '$1 dissolved / closed'],
     [/^(.+) cumhurbaşkanı oldu$/, '$1 became president'], [/^(.+) tahta çıktı$/, '$1 ascended the throne'],
     [/^(\d+)\. Türkiye Hükûmeti kuruldu(.*)$/, (m, n, r) => `${ord(n)} Government of Turkey formed${r}`],
     [/^(\d+)\. Türkiye Hükûmeti güvenoyu alamadı \((.+)\)$/, (m, n, x) => `${ord(n)} Government of Turkey lost the confidence vote (${x.replace('Güvensizlik oyu', 'vote of no confidence')})`],

@@ -78,6 +78,20 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   await p.evaluate(() => { location.hash = 'e=1961&m=winner&l=ilce'; }); await p.waitForTimeout(3000);
   const ilce = await p.$$eval('path.leaflet-interactive', (x) => x.length);
   if (ilce < 600) bad.push(`1961 ilçe haritası ${ilce} birim`);
+  // geçerli oy / seçmen oranı yalnız ikisi de bilinen illerden (1957'de geçerli oy tek ilde: oran gösterilmemeli)
+  await p.evaluate(() => { location.hash = 'e=1957'; }); await p.waitForTimeout(1200);
+  const kv57 = await p.$$eval('#electionInfo dl.kv dd', (x) => x.map((d) => d.textContent));
+  if (kv57.some((t) => /%/.test(t))) bad.push('1957 geçerli oy / seçmen oranı: ' + kv57.join(' | '));
+  // açıklama ve meclis döneminin hükûmetleri
+  await p.evaluate(() => { location.hash = 'e=1961'; }); await p.waitForTimeout(1500);
+  const d61 = await p.evaluate(() => ({ desc: !!document.querySelector('#electionInfo p.desc'), ctx: document.querySelectorAll('#ctxLine p.ctx').length }));
+  if (!d61.desc || d61.ctx < 2) bad.push('1961 açıklama / hükûmetler: ' + JSON.stringify(d61));
+  // siyasi tarih: partiler o tarihteki adıyla (1930'da Cumhuriyet Halk Fırkası)
+  await p.evaluate(() => { location.hash = 'v=tarih&t=anim&d=1930-09-01'; }); await p.waitForSelector('#aAlive', { timeout: 5000 }).catch(() => {});
+  await p.waitForTimeout(800);
+  const alive30 = await p.$eval('#aAlive', (x) => x.textContent).catch(() => '');
+  if (!/Cumhuriyet Halk Fırkası/.test(alive30)) bad.push('1930 faal partiler: ' + alive30.slice(0, 120));
+  await p.keyboard.press('Escape');
   // İngilizce arayüz
   await p.goto('http://localhost:8765/?lang=en#e=2023'); await p.waitForTimeout(2500);
   const h1 = await p.$eval('.brand h1', (x) => x.textContent);

@@ -33,7 +33,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
-  const VERSION = '3.3.2';
+  const VERSION = '3.4.0';
   const cache = { geo: {}, el: {}, ilce: {} };
   const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
   // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)
@@ -382,10 +382,21 @@
       if (n.seats && Object.keys(n.seats).length && (d.type === 'genel' || d.type === 'senato')) {
         h += `<h3>${d.type === 'senato' ? 'Bu seçimde kazanılan sandalyeler' : 'Meclis dağılımı'}</h3>` + hemicycle(Object.entries(n.seats).filter((e) => e[1] > 0));
       }
+      // Kaynakta seçmen ve geçerli oy her ilde yok (ör. 1957'de geçerli oy yalnız bir ilde): toplamlar ve oran
+      // yalnız bilinen iller üzerinden, eksikse kaç ilin toplamı olduğu yazılarak gösterilir.
       const kv = [];
-      if (n.voters) kv.push(['Kayıtlı seçmen', nf.format(n.voters)]);
-      if (n.valid) kv.push(['Geçerli oy', nf.format(n.valid)]);
-      if (n.voters && n.valid) kv.push(['Geçerli oy / seçmen', pf(100 * n.valid / n.voters)]);
+      const us = Object.values((d.ilBase || d).units || {}).filter((u) => !u.nodata && (u.votes || u.pct));
+      const has = (f) => us.filter((u) => u[f]).length;
+      const part = (k) => (k < us.length ? ` <span class="muted">(${TL(`${k} / ${us.length} il`, `${k} of ${us.length} provinces`)})</span>` : '');
+      const nV = has('voters'), nG = has('valid');
+      if (n.voters && nV >= us.length * 0.9) kv.push(['Kayıtlı seçmen' + part(nV), nf.format(n.voters)]);
+      if (n.valid && nG >= us.length * 0.9) kv.push(['Geçerli oy' + part(nG), nf.format(n.valid)]);
+      const both = us.filter((u) => u.voters && u.valid);
+      if (both.length >= us.length * 0.9) {
+        const r = nV === us.length && nG === us.length && n.voters && n.valid ? n.valid / n.voters
+          : both.reduce((a, u) => a + u.valid, 0) / both.reduce((a, u) => a + u.voters, 0);
+        kv.push(['Geçerli oy / seçmen' + part(both.length), pf(100 * r)]);
+      }
       if (n.total_seats) kv.push(['Toplam sandalye', nf.format(n.total_seats)]);
       if (kv.length) h += '<dl class="kv">' + kv.map(([a, b]) => `<dt>${a}</dt><dd>${b}</dd>`).join('') + '</dl>';
     } else if (d.type === 'guncel') {
@@ -982,6 +993,18 @@
     const alive = (p) => p.periods.some(([a, b]) => (!a || a <= date) && (!b || date <= b));
     return (date && c.find(alive)) || c.sort((a, b) => String(b.founded).localeCompare(String(a.founded)))[0];
   }
+  // Partinin verilen tarihteki adı (ad değişikliklerine göre; ör. 1930'da Cumhuriyet Halk Fırkası, 2015'te Yeşiller ve Sol Gelecek Partisi)
+  function partyNameAt(p, date) {
+    const H = state.hist;
+    if (!p || !H || !date) return p ? p.name : '';
+    const rs = H.renames.filter((r) => r.party === p.title).sort((a, b) => a.date.localeCompare(b.date));
+    if (!rs.length) return p.name;
+    const past = rs.filter((r) => r.date <= date);
+    if (!past.length) return rs[0].from.split(' + ')[0];
+    return past[past.length - 1] === rs[rs.length - 1] ? p.name : past[past.length - 1].to;
+  }
+  // Kaynakta bugünkü adıyla geçen parti adını o tarihteki adına çevirir (kayıt bulunamazsa olduğu gibi)
+  const nameAtDate = (name, date) => { const p = partyByTitle(name); return p ? partyNameAt(p, date) : name; };
   function partyByTitle(t) {
     const H = state.hist; if (!H) return null;
     return H.parties.find((p) => p.title === t) || H.parties.find((p) => normName(p.title) === normName(t) || normName(p.name) === normName(t)) || null;
@@ -1041,10 +1064,23 @@
     if (c.tbmm) parts.push(`${esc(c.tbmm.title)}: <b>${esc(c.tbmm.name)}</b>`);
     if (c.pres) parts.push(`Cumhurbaşkanı: <b>${esc(c.pres.name)}</b>`);
     if (c.gov) {
-      const ps = c.gov.parties.map((p) => p.name).filter((n) => n !== 'Bağımsızlar');
+      const ps = c.gov.parties.map((p) => p.name).filter((n) => n !== 'Bağımsızlar').map((n) => nameAtDate(n, d.date));
       parts.push(`Hükûmet: <b>${esc(c.gov.name)}</b> (${esc(c.gov.title)} ${esc(c.gov.head)}${ps.length ? '; ' + esc(ps.join(' + ')) : ''})`);
     }
     box.innerHTML = parts.length ? `<p class="ctx">${d.type === 'guncel' ? 'Bugün' : 'Seçim tarihinde'} — ${parts.join(' · ')} <button type="button" class="linkbtn" id="ctxOpen">Siyasi tarihte göster</button></p>` : '';
+    // genel seçimden çıkan meclisin hükûmetleri (hükûmetler listesindeki "seçim" sütununa göre)
+    if (d.type === 'genel' && state.hist) {
+      const key = d.date.slice(0, 4) + (d.id === '2015Haziran' ? ' (Haziran)' : d.id === '2015Kasim' ? ' (Kasım)' : '');
+      const gs = state.hist.governments.filter((g) => g.election === key && g.start);
+      const short = (n) => { const k = partyKey(n); return k ? pLabel(k) : nameAtDate(n, d.date); };
+      if (gs.length) {
+        box.innerHTML += `<p class="ctx">${TL('Bu meclis döneminin hükûmetleri', 'Governments of this parliament')} — ` + gs.map((g) => {
+          const ps = g.parties.map((p) => p.name).filter((n) => n !== 'Bağımsızlar');
+          const kind = g.kind === 'koalisyon' ? TL('koalisyon', 'coalition') : '';
+          return `<b>${esc(g.name)}</b> (${esc(g.head)}${ps.length ? '; ' + esc(ps.map(short).join(' + ')) : ''}${kind ? ' ' + kind : ''}${g.confidence.failed ? '; ' + TL('güvenoyu alamadı', 'lost the confidence vote') : ''})`;
+        }).join(' · ') + '</p>';
+      }
+    }
     const b = document.getElementById('ctxOpen');
     if (b) b.addEventListener('click', () => window.AtlasHistory && window.AtlasHistory.open('chart', d.date));
   }
@@ -1426,7 +1462,7 @@
     navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Service worker kaydedilemedi', e));
   }
   let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
-  window.Atlas = { L: TL, LANG, state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, lineageHtml, bindLineage,
+  window.Atlas = { L: TL, LANG, state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, partyNameAt, nameAtDate, lineageHtml, bindLineage,
                    hemicycle, EV_LABEL, loadElection, LOC, pct, isDark: () => T === THEMES.dark, writeHash, ready: appReady, issueUrl, bindReport, stopPlay: () => { if (state.play.on) stopPlay(); },
                    refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });

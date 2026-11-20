@@ -207,11 +207,14 @@ PERIODS = {
     'Cumhuriyet Halk Partisi': [['1923-09-09', '1981-10-16'], ['1992-09-09', None]],
     'Milliyetçi Hareket Partisi': [['1969-02-09', '1981-10-16'], ['1993-01-24', None]],
     'Hürriyet ve İtilaf Fırkası': [['1911-11-21', '1913-06'], ['1918-11-17', '1919-06-25']],
+    # madde metni: "TİP, 21 Temmuz 1971 tarihinde kapatıldı ... 1975 yılında Genel Başkan Behice Boran önderliğinde yeniden örgütlendi"
+    'Türkiye İşçi Partisi (1961)': [['1961-02-13', '1971-07-21'], ['1975', '1981-10-16']],
 }
 PERIOD_NOTES = {
     'Cumhuriyet Halk Partisi': '12 Eylül sonrası 16 Ekim 1981\'de kapatıldı; 9 Eylül 1992\'de yeniden açıldı.',
     'Milliyetçi Hareket Partisi': 'CKMP\'nin 9 Şubat 1969\'da adını değiştirmesiyle oluştu; 1981\'de kapatıldı. Çizgisini sürdüren Muhafazakâr Parti 1985\'te MÇP, 24 Ocak 1993\'te yeniden MHP adını aldı.',
     'Hürriyet ve İtilaf Fırkası': 'Bâbıâli Baskını (Ocak 1913) sonrası baskı altına girdi; Mahmud Şevket Paşa suikastının (Haziran 1913) ardından yöneticileri sürgün edildi ve faaliyeti durdu. 1918\'de yeniden kuruldu, 1919\'da kapandı.',
+    'Türkiye İşçi Partisi (1961)': '12 Mart 1971 muhtırasından sonra 21 Temmuz 1971\'de kapatıldı; 1975\'te Behice Boran önderliğinde yeniden örgütlendi (gün kaynakta yok) ve 12 Eylül sonrası 16 Ekim 1981\'de bütün partilerle birlikte kapatıldı.',
 }
 seen, uniq = set(), []
 for rec in parties:
@@ -232,25 +235,41 @@ parties = uniq
 RENAMES = [
     {'date': '1924', 'from': 'Halk Fırkası', 'to': 'Cumhuriyet Halk Fırkası', 'party': 'Cumhuriyet Halk Partisi', 'note': 'Kuruluştan kısa süre sonra'},
     {'date': '1935', 'from': 'Cumhuriyet Halk Fırkası', 'to': 'Cumhuriyet Halk Partisi', 'party': 'Cumhuriyet Halk Partisi', 'note': '4. Kurultay'},
+    {'date': '1969-02-09', 'from': 'Cumhuriyetçi Köylü Millet Partisi', 'to': 'Milliyetçi Hareket Partisi', 'party': 'Milliyetçi Hareket Partisi', 'note': 'CKMP bilgi kutusundaki kapanış tarihi; madde: "1969\'da Milliyetçi Hareket Partisi adını almıştır"'},
     {'date': '1971-01-29', 'from': 'Güven Partisi', 'to': 'Millî Güven Partisi', 'party': 'Cumhuriyetçi Güven Partisi'},
     {'date': '1973-03-03', 'from': 'Millî Güven Partisi + Cumhuriyetçi Parti', 'to': 'Cumhuriyetçi Güven Partisi', 'party': 'Cumhuriyetçi Güven Partisi', 'note': 'Birleşme'},
     {'date': '1985-11-30', 'from': 'Muhafazakâr Parti', 'to': 'Milliyetçi Çalışma Partisi', 'party': 'Milliyetçi Çalışma Partisi'},
     {'date': '1993-01-24', 'from': 'Milliyetçi Çalışma Partisi', 'to': 'Milliyetçi Hareket Partisi', 'party': 'Milliyetçi Hareket Partisi'},
+    {'date': '2001-11-11', 'from': 'Sosyalist İktidar Partisi', 'to': 'Türkiye Komünist Partisi', 'party': 'Türkiye Komünist Partisi (2001)', 'note': 'Bilgi kutusu: 16 Ağustos 1993\'te Sosyalist İktidar Partisi olarak kuruldu'},
     {'date': '2007-05-27', 'from': 'Doğru Yol Partisi', 'to': 'Demokrat Parti', 'party': 'Demokrat Parti (2007)', 'note': 'DYP\'nin kapanışı ile DP\'nin kuruluşu aynı gün'},
-    {'date': '2023-10-15', 'from': 'Yeşil Sol Parti', 'to': 'Halkların Eşitlik ve Demokrasi Partisi (DEM Parti)', 'party': 'Halkların Eşitlik ve Demokrasi Partisi'},
+    {'date': '2023-10-15', 'from': 'Yeşiller ve Sol Gelecek Partisi', 'to': 'Halkların Eşitlik ve Demokrasi Partisi', 'party': 'Halkların Eşitlik ve Demokrasi Partisi',
+     'note': 'Bilgi kutusu: 30 Kasım 2012\'de Yeşiller ve Sol Gelecek Partisi olarak kuruldu; 2016\'dan itibaren kısa adı Yeşil Sol Parti. Ad değişikliğinden sonra benimsenen HEDEP kısaltması Yargıtay\'ın itirazı üzerine DEM Parti oldu'},
 ]
 
+
+def name_at(pr, date):
+    """Partinin verilen tarihteki adı: ad değişikliklerinden önce kuruluş adı (ör. 1923'te Halk Fırkası)."""
+    rs = sorted((r for r in RENAMES if r['party'] == pr['title']), key=lambda r: r['date'])
+    if not rs or not date: return pr['name']
+    past = [r for r in rs if r['date'] <= date]
+    if not past: return rs[0]['from'].split(' + ')[0]
+    return pr['name'] if past[-1] is rs[-1] else past[-1]['to']
+
+
 # ------------------------------------------------------------------ olaylar (zaman çizelgesi ve animasyon)
+# Ad değişikliği olan günlerde aynı partinin "kuruldu" ve eski adının "kapandı" olayları yinelenmez (ör. DYP → DP, 2007)
+renamed_to = {(r['party'], r['date']) for r in RENAMES}
+renamed_from = {(f, r['date']) for r in RENAMES for f in r['from'].split(' + ')}
 events = []
 for pr in parties:
     if pr['alliance']:
         if pr['founded']: events.append({'date': pr['founded'], 'type': 'ittifak', 'text': '%s kuruldu' % pr['name']})
         continue
     for i, (f0, f1) in enumerate(pr['periods']):
-        if f0 and f0 >= '1908':
-            events.append({'date': f0, 'type': 'kuruluş', 'text': '%s %s' % (pr['name'], 'yeniden kuruldu' if i else 'kuruldu'), 'party': pr['title']})
-        if f1 and f1 != '1981-10-16':   # 16 Ekim 1981 ortak kapanışı aşağıda tek olay olarak
-            events.append({'date': f1, 'type': 'kapanış', 'text': '%s kapandı / kapatıldı' % pr['name'], 'party': pr['title']})
+        if f0 and f0 >= '1908' and (pr['title'], f0) not in renamed_to:
+            events.append({'date': f0, 'type': 'kuruluş', 'text': '%s %s' % (name_at(pr, f0), 'yeniden kuruldu' if i else 'kuruldu'), 'party': pr['title']})
+        if f1 and f1 != '1981-10-16' and (pr['name'], f1) not in renamed_from:   # 16 Ekim 1981 ortak kapanışı aşağıda tek olay olarak
+            events.append({'date': f1, 'type': 'kapanış', 'text': '%s kapandı / kapatıldı' % name_at(pr, f1), 'party': pr['title']})
 for rn in RENAMES:
     events.append({'date': rn['date'], 'type': 'ad değişikliği', 'text': '%s → %s' % (rn['from'], rn['to']), 'party': rn['party']})
 for g in govs:
@@ -309,6 +328,8 @@ for d, t, x in [
     ('1934-12-05', 'sistem', 'Kadınlara milletvekili seçme ve seçilme hakkı tanındı'),
     ('1961-07-09', 'sistem', '1961 Anayasası halkoylamasıyla kabul edildi'),
     ('1982-11-07', 'sistem', '1982 Anayasası halkoylamasıyla kabul edildi'),
+    ('1987-09-06', 'sistem', '1980 öncesi siyasetçilere getirilen siyasi yasaklar halkoylamasıyla kaldırıldı'),
+    ('2010-09-12', 'sistem', 'Yargı yapısını değiştiren ve bireysel başvuru hakkı getiren anayasa değişikliği halkoylamasıyla kabul edildi'),
     ('2007-10-21', 'sistem', 'Cumhurbaşkanının halk tarafından seçilmesi halkoylamasıyla kabul edildi'),
     ('2017-04-16', 'sistem', 'Cumhurbaşkanlığı hükûmet sistemi halkoylamasıyla kabul edildi'),
     ('2026-05-21', 'olay', 'Ankara Bölge Adliye Mahkemesi\'nin CHP 38. Olağan Kurultayı hakkındaki "mutlak butlan" kararıyla Özgür Özel\'in CHP genel başkanlığı sona erdi')]:

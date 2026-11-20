@@ -26,7 +26,7 @@
   })();
 </script>
 <link rel="stylesheet" href="vendor/leaflet.css">
-<link rel="stylesheet" href="css/app.css?v=3.3.2">
+<link rel="stylesheet" href="css/app.css?v=3.4.0">
 </head>
 <body>
 <header class="topbar">
@@ -121,6 +121,7 @@
     <li><b>Political history (governments, confidence votes, heads of state, parties, events):</b> Turkish Wikipedia lists of governments and presidents, and party infoboxes (CC BY-SA 4.0); grand viziers from the Turkish Wikipedia list of Ottoman grand viziers.</li>
     <li><b>Demographics:</b> Provincial population (censuses 1927–2025) and area from Turkish Wikipedia; GDP per capita (2024) and life expectancy (2021–2023) from English Wikipedia tables based on TurkStat data.</li>
     <li><b>Current state:</b> Seats in parliament and provincial mayors, compiled daily from Turkish Wikipedia.</li>
+    <li><b>Election descriptions (Turkish):</b> before 1950 from Wikipedia lists and election articles; after 1950 only basic facts (electoral system, subject of a referendum, the government formed afterwards), checked against this site's data and the Wikipedia article copies in the repository.</li>
     <li><b>Software:</b> Leaflet (BSD-2), topojson-client (ISC).</li>
   </ul>
   <h3>Boundaries</h3>
@@ -140,7 +141,7 @@
     <li>Wikipedia lists include everyone who served during a term, so totals can exceed the official number of seats.</li>
     <li>Party affiliations in the 1912 and 1914 lists do not match the aggregate figures in the literature.</li>
     <li>National totals are summed from provinces and may differ from official figures by a few tenths of a point.</li>
-    <li>The parliament chart shows the composition right after each election; changes during a term are only included for the one-party era opposition parties (1923–1930).</li>
+    <li>The parliament chart mostly shows the composition right after each election. Changes during a term are included only for the groups and opposition parties of 1920–1930 (approximate numbers), plus today's composition for the current term; other party switches, by-elections and the Senate are not shown.</li>
     <li>Demographic indicators use today's provincial boundaries; correlation does not imply causation.</li>
   </ul>
   <h3>Reporting errors</h3>
@@ -175,6 +176,7 @@
     <li><b>Türkiye dışındaki Osmanlı vilayetleri ve arka plan haritası:</b> <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (kamu malı).</li>
     <li><b>Siyasi tarih (hükûmetler, güvenoyları, cumhurbaşkanları, partiler, olaylar):</b> Türkçe Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve parti maddelerinin bilgi kutuları (CC BY-SA 4.0). 1923–1946 meclis dağılımları seçim maddelerinden, 1950 sonrası bu sitenin seçim verisindendir.</li>
     <li><b>Demografi:</b> İl nüfusları (1927–2025 sayım ve ADNKS), alanlar: Türkçe Vikipedi; il bazında kişi başı GSYH (2024) ve yaşam beklentisi (2021–2023): İngilizce Vikipedi tabloları (TÜİK verisine dayanır).</li>
+    <li><b>Seçim açıklamaları:</b> 1950 öncesinde Vikipedi listeleri ve seçim maddeleri. 1950 sonrasında yalnız temel bilgiler (seçim sistemi, halkoylamasının konusu, seçimden sonra kurulan hükûmet); bunlar sitenin verisi ve depodaki Vikipedi madde kopyalarıyla karşılaştırıldı.</li>
     <li><b>Yazılım:</b> Leaflet (BSD-2), topojson-client (ISC).</li>
   </ul>
   <h3>Sınırlar</h3>
@@ -196,7 +198,7 @@
     <li>Vikipedi listeleri dönem boyunca görev yapan herkesi içerir. Açıklamasında "yerine" ya da "ara seçim" geçenler "sonradan katılan" olarak ayrıldı, ama bütün ara seçimler bu şekilde işaretli değildir. Bu yüzden toplamlar resmî sandalye sayısından fazla olabilir.</li>
     <li>1912 ve 1914 listelerindeki parti mensubiyetleri literatürdeki toplu rakamlarla uyuşmaz; örneğin 1912 için genellikle "İttihat ve Terakki 269/275" denir. Bu yüzden Osmanlı seçimlerinde harita varsayılan olarak vekil sayısını gösterir.</li>
     <li>Ülke toplamları il verilerinin toplanmasıyla hesaplandığından resmî ilan edilen oranlardan birkaç onda bir puan farklı olabilir.</li>
-    <li>Siyasi tarih grafiğindeki meclis dağılımı her seçimin hemen sonrasındaki durumdur; dönem içindeki parti değiştirmeler ve ara seçimler, Cumhuriyet Senatosu gösterilmez. Partilerin öncül/ardıl ilişkileri Vikipedi bilgi kutularındaki bağlantılara dayanır.</li>
+    <li>Siyasi tarih grafiğindeki meclis dağılımı çoğunlukla her seçimin hemen sonrasındaki durumdur. Dönem içi değişiklikler yalnız 1920–1930 arasındaki gruplaşmalar ve muhalefet partileri için yaklaşık sayılarla işlenmiştir; son dönemde ayrıca bugünkü TBMM dağılımı gösterilir. Diğer parti değiştirmeler, ara seçimler ve Cumhuriyet Senatosu gösterilmez. Partilerin öncül/ardıl ilişkileri Vikipedi bilgi kutularındaki bağlantılara dayanır.</li>
     <li>Demografik göstergeler günümüz il sınırlarına göredir; eski seçimlerde dönemin illerine toplanır ve yaklaşıktır. İl bazında kentleşme ve göç verisi yoktur; nüfus artışı dolaylı gösterge olarak verilir. Korelasyon nedensellik göstermez.</li>
   </ul>
   <h3>Hata bildirimi</h3>
@@ -244,8 +246,8 @@
 <noscript><p style="padding:16px">Bu harita JavaScript gerektirir.</p></noscript>
 <script defer src="vendor/leaflet.js"></script>
 <script defer src="vendor/topojson-client.min.js"></script>
-<script defer src="js/i18n.js?v=3.3.2"></script>
-<script defer src="js/app.js?v=3.3.2"></script>
-<script defer src="js/history.js?v=3.3.2"></script>
+<script defer src="js/i18n.js?v=3.4.0"></script>
+<script defer src="js/app.js?v=3.4.0"></script>
+<script defer src="js/history.js?v=3.4.0"></script>
 </body>
 </html>
