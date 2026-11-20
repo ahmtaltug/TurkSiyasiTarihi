@@ -13,8 +13,8 @@
   };
   const ERA_LABEL = { osmanli: 'Osmanlı dönemi', cumhuriyet: 'Cumhuriyet dönemi' };
   const THEMES = {
-    light: { nodata: '#d6d3cc', lo: '#f4f1ea', land: '#ebe8e1', landStroke: '#cfcac0', border: '#ffffff', hover: '#222222', sel: '#111111', ramp: '#7a2a1d', turnout: '#24557f' },
-    dark: { nodata: '#3b3f46', lo: '#2b2f35', land: '#23272d', landStroke: '#353a41', border: '#16191d', hover: '#f2f2f2', sel: '#ffffff', ramp: '#e07a62', turnout: '#6fa8dc' },
+    light: { nodata: '#d6d3cc', lo: '#f4f1ea', land: '#ebe8e1', landStroke: '#cfcac0', border: '#ffffff', hover: '#222222', sel: '#111111', ramp: '#7a2a1d', turnout: '#24557f', ilLine: '#3a3a3a' },
+    dark: { nodata: '#3b3f46', lo: '#2b2f35', land: '#23272d', landStroke: '#353a41', border: '#16191d', hover: '#f2f2f2', sel: '#ffffff', ramp: '#e07a62', turnout: '#6fa8dc', ilLine: '#d4d4d4' },
   };
   let T = THEMES.light;
   let NODATA = T.nodata;
@@ -29,9 +29,21 @@
   const state = { index: [], parties: {}, era: 'all', types: new Set(Object.keys(TYPES)), cur: null, data: null,
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
-                  cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
+                  cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
   const VERSION = '3.2.0';
-  const cache = { geo: {}, el: {} };
+  const cache = { geo: {}, el: {}, ilce: {} };
+  const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
+  // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)
+  async function ilceView(d) {
+    if (!cache.ilce[d.id]) cache.ilce[d.id] = getJSON('data/ilce/' + d.id + '.json').then((x) => {
+      const v = Object.assign({}, d, { units: x.units, geo: 'ilce', level: 'ilçe', approxBoundaries: false, ilBase: d, skipped: x.skipped || [] });
+      return v;
+    });
+    const v = await cache.ilce[d.id];
+    indexUnits(v);
+    return v;
+  }
+  let ilLayer = null;
 
   async function getJSON(url) {
     const r = await fetch(url);
@@ -194,14 +206,18 @@
     if (!d.geo) {
       if (unitLayer) { map.removeLayer(unitLayer); unitLayer = null; }
       if (hatchLayer) { map.removeLayer(hatchLayer); hatchLayer = null; }
+      if (ilLayer) { map.removeLayer(ilLayer); ilLayer = null; }
       $('#mapOverlay').hidden = false;
       $('#mapOverlay').innerHTML = '<b>Bu kayıt için harita verisi yok.</b><br>Ayrıntılar sağdaki panelde.';
       if (state.geoFamily !== 'otto') { map.fitBounds([[12, 12], [47, 48]]); state.geoFamily = 'otto'; }
       renderLegend();
       return;
     }
-    const fc = await loadGeo(d.geo);
+    let fc = await loadGeo(d.geo);
     if (state.data !== d) return; // bu arada başka seçim seçildi
+    if (d.geo === 'ilce') fc = { type: 'FeatureCollection', features: fc.features.filter((f) => d.units[f.properties.id]) };
+    const ilFc = d.ilBase && d.ilBase.geo ? await loadGeo(d.ilBase.geo) : null;
+    if (state.data !== d) return;
     updateDomain();
     const old = unitLayer;
     state.fc = fc;
@@ -217,6 +233,8 @@
       },
     }).addTo(map);
     if (old) map.removeLayer(old);
+    if (ilLayer) { map.removeLayer(ilLayer); ilLayer = null; }
+    if (ilFc) ilLayer = L.geoJSON(ilFc, { interactive: false, style: () => ({ fill: false, color: T.ilLine, weight: 1.3, opacity: 0.9 }) }).addTo(map);
     drawHatch(fc);
     if (map.getSize().x > 0) state.mapFitted = true;
     const fam = d.geo.startsWith('h-1877') || ['h-1908', 'h-1912', 'h-1914'].includes(d.geo) ? 'otto' : 'tr';
@@ -230,7 +248,8 @@
   }
   function borderWeight() {
     const z = map.getZoom();
-    return z <= 4.5 ? 0.4 : z <= 5.5 ? 0.6 : z <= 6.5 ? 0.8 : z <= 7.5 ? 1.1 : 1.4;
+    const w = z <= 4.5 ? 0.4 : z <= 5.5 ? 0.6 : z <= 6.5 ? 0.8 : z <= 7.5 ? 1.1 : 1.4;
+    return state.data && state.data.geo === 'ilce' ? w * 0.45 : w;
   }
   function updateDomain() {
     const m = state.mode;
@@ -264,7 +283,7 @@
 
   function tooltipHtml(f, c = state) {
     const d = c.data, u = d.units[f.properties.id];
-    const name = esc((u && u.name) || f.properties.name);
+    const name = esc(uname(u) || f.properties.name);
     if (!u || u.nodata) return `<b>${name}</b><span class="muted">${u && u.note ? esc(u.note) : 'Veri yok'}</span>`;
     const parts = [];
     if (c.mode === 'winner' && u.winner) parts.push(`${esc(pFull(u.winner, d) || pLabel(u.winner))}${u.pct && u.pct[u.winner] != null ? ' ' + pf(u.pct[u.winner]) : ''}`);
@@ -409,7 +428,16 @@
   function renderModes() {
     const d = state.data, ms = modesFor(d), box = $('#modeBox');
     if (!ms.length) { box.innerHTML = ''; return; }
-    let h = '<h3>Harita görünümü</h3><div class="seg" role="group" aria-label="Harita modu">' +
+    let h = '';
+    const hasIl = state.ilceIdx.has(state.cur.id);
+    if (hasIl || state.level === 'ilce') {
+      const lv = d.level === 'ilçe' ? 'ilce' : 'il';
+      h += '<h3>Birim</h3><div class="seg" role="group" aria-label="Harita birimi">' +
+        [['il', 'İl'], ['ilce', 'İlçe']].map(([k, l]) => `<button type="button" data-level="${k}" class="${k === lv ? 'active' : ''}" aria-pressed="${k === lv}" ${k === 'ilce' && !hasIl ? 'disabled title="Bu seçim için ilçe verisi yok"' : ''}>${l}</button>`).join('') + '</div>';
+      if (!hasIl) h += '<p class="hint small">Bu seçim için ilçe verisi yok; il düzeyi gösteriliyor. İlçe verisi 1950 ve 1955 yerel seçimleriyle 1961 sonrası seçimler için var.</p>';
+      else if (lv === 'ilce') h += `<p class="hint small">${Object.keys(d.units).length} ilçe, seçim tarihindeki sınırlarıyla (sonradan kurulan ilçeler ayrıldıkları ilçeyle birlikte); kalın çizgiler il sınırı.${d.skipped && d.skipped.length ? ' Haritası olmayan: ' + esc(d.skipped.join(', ')) + '.' : ''}</p>`;
+    }
+    h += '<h3>Harita görünümü</h3><div class="seg" role="group" aria-label="Harita modu">' +
       ms.map(([k, l]) => `<button type="button" data-mode="${k}" class="${k === state.mode ? 'active' : ''}" aria-pressed="${k === state.mode}">${l}</button>`).join('') + '</div>';
     if (state.mode === 'swing' && state.prev) h += `<p class="hint">Karşılaştırma: ${esc(state.prev.title)} (${esc(state.prev.dateLabel || state.prev.date)}). İl sınırları değişmişse yalnız eşleşen iller boyanır.</p>`;
     if (state.mode === 'party' || state.mode === 'share' || state.mode === 'swing') {
@@ -417,6 +445,11 @@
     }
     box.innerHTML = h;
     box.querySelectorAll('[data-mode]').forEach((b) => b.addEventListener('click', () => { setMode(b.dataset.mode); }));
+    box.querySelectorAll('[data-level]').forEach((b) => b.addEventListener('click', () => {
+      if (b.disabled || (b.dataset.level === 'ilce') === (state.data.level === 'ilçe')) return;
+      state.level = b.dataset.level;
+      go(state.cur.id, { keepMode: true, party: state.party });
+    }));
     const ps = $('#partySelect');
     if (ps) ps.addEventListener('change', () => { state.party = ps.value; restyle(); renderTable(); writeHash(); });
   }
@@ -430,10 +463,10 @@
     const d = state.data, box = $('#unitInfo');
     const u = state.unit && d.units[state.unit];
     if (!u) {
-      box.innerHTML = d.geo ? '<p class="hint">Ayrıntı için haritada bir il ya da vilayete tıklayın.</p>' : '';
+      box.innerHTML = d.geo ? (d.level === 'ilçe' ? '<p class="hint">Ayrıntı için haritada bir ilçeye tıklayın.</p>' : '<p class="hint">Ayrıntı için haritada bir il ya da vilayete tıklayın.</p>') : '';
       return;
     }
-    let h = `<div class="unit-card"><button class="close" type="button" aria-label="Kapat" id="unitClose">✕</button><h3>${esc(u.name)}</h3>`;
+    let h = `<div class="unit-card"><button class="close" type="button" aria-label="Kapat" id="unitClose">✕</button><h3>${esc(uname(u))}</h3>`;
     if (u.nodata) {
       h += `<p class="note">${esc(u.note || 'Bu birim için bu seçimde veri yok (seçim yapılmamış, işgal altında ya da kaynakta bulunmuyor olabilir).')}</p></div>`;
       box.innerHTML = h; $('#unitClose').onclick = () => selectUnit(null); return;
@@ -634,7 +667,7 @@
       (state.mode === 'winner' ? '<th>Birinci</th>' : '') +
       `<th class="num"><button type="button" data-sort="value" class="${tableSort === 'value' ? 'on' : ''}">${esc(state.mode === 'winner' ? (d.metric === 'members' && !rows.some(([, u]) => u.pct) ? 'Vekil' : 'Oran') : head)}</button></th></tr></thead><tbody>`;
     for (const { k, u, v } of data) {
-      h += `<tr data-u="${esc(k)}" class="${k === state.unit ? 'sel' : ''}"><td>${esc(u.name)}</td>` +
+      h += `<tr data-u="${esc(k)}" class="${k === state.unit ? 'sel' : ''}"><td>${esc(uname(u))}</td>` +
         (state.mode === 'winner' ? `<td>${u.winner ? `<span class="sw" style="background:${pColor(u.winner)}"></span>${esc(pLabel(u.winner))}` : '–'}</td>` : '') +
         `<td class="num">${fmtValue(v)}</td></tr>`;
     }
@@ -753,16 +786,17 @@
   }
   function renderSearch() {
     const d = state.data, dl = $('#unitList'), inp = $('#unitSearch');
-    const units = Object.entries((d && d.units) || {}).filter(([, u]) => !u.nodata).sort((a, b) => a[1].name.localeCompare(b[1].name, 'tr'));
+    const units = Object.entries((d && d.units) || {}).filter(([, u]) => !u.nodata).sort((a, b) => uname(a[1]).localeCompare(uname(b[1]), 'tr'));
     inp.disabled = !units.length || !d.geo;
-    inp.placeholder = d && d.level === 'vilayet' ? 'Vilayet ara…' : d && d.level === 'sancak' ? 'Sancak / vilayet ara…' : 'İl ara…';
-    dl.innerHTML = units.map(([, u]) => `<option value="${esc(u.name)}"></option>`).join('');
+    inp.placeholder = d && d.level === 'vilayet' ? 'Vilayet ara…' : d && d.level === 'sancak' ? 'Sancak / vilayet ara…' : d && d.level === 'ilçe' ? 'İlçe ara…' : 'İl ara…';
+    dl.innerHTML = units.map(([, u]) => `<option value="${esc(uname(u))}"></option>`).join('');
   }
   function searchPick() {
     const v = $('#unitSearch').value.trim().toLocaleLowerCase('tr');
     if (!v || !state.data) return;
     const ents = Object.entries(state.data.units).filter(([, u]) => !u.nodata);
-    const hit = ents.find(([, u]) => u.name.toLocaleLowerCase('tr') === v) || ents.find(([, u]) => u.name.toLocaleLowerCase('tr').includes(v));
+    const nm = (u) => uname(u).toLocaleLowerCase('tr');
+    const hit = ents.find(([, u]) => nm(u) === v) || ents.find(([, u]) => u.name.toLocaleLowerCase('tr') === v) || ents.find(([, u]) => nm(u).includes(v));
     if (hit) { selectUnit(hit[0], true); $('#unitSearch').value = ''; $('#unitSearch').blur(); }
   }
 
@@ -843,6 +877,12 @@
     const pm = prevMetaFor(d);
     state.prev = null;
     if (pm) { try { state.prev = await loadElection(pm.id); indexUnits(state.prev); } catch (e) { state.prev = null; } }
+    if (state.level === 'ilce' && state.ilceIdx.has(meta.id)) {
+      try {
+        d = await ilceView(d);
+        state.prev = state.prev && state.ilceIdx.has(state.prev.id) ? await ilceView(state.prev) : null;
+      } catch (e) { console.warn('İlçe verisi yüklenemedi', e); }
+    }
     if (state.cur !== meta) return;
     state.data = d;
     const ms = modesFor(d).map((m) => m[0]);
@@ -874,7 +914,7 @@
   // ------------------------------------------------------------------ adres (#e=...&u=...&m=...&p=...)
   function readHash() {
     const p = new URLSearchParams(location.hash.replace(/^#/, ''));
-    return { e: p.get('e'), u: p.get('u'), m: p.get('m'), p: p.get('p'), c: p.get('c') };
+    return { e: p.get('e'), u: p.get('u'), m: p.get('m'), p: p.get('p'), c: p.get('c'), l: p.get('l') };
   }
   function writeHash() {
     const hv = document.getElementById('historyDlg');
@@ -885,6 +925,7 @@
     if (state.mode) p.set('m', state.mode);
     if ((state.mode === 'party' || state.mode === 'share' || state.mode === 'swing') && state.party) p.set('p', state.party);
     if (state.cmp.on && state.cmp.id) p.set('c', state.cmp.id);
+    if (state.data && state.data.level === 'ilçe') p.set('l', 'ilce');
     history.replaceState(null, '', '#' + p.toString());
   }
 
@@ -1301,6 +1342,7 @@
     });
     const [idx, parties] = await Promise.all([getJSON('data/index.json'), getJSON('data/parties.json')]);
     state.index = idx; state.parties = parties;
+    try { (await getJSON('data/ilce/index.json')).forEach((e) => state.ilceIdx.add(e.id)); } catch (e) { /* ilçe verisi yok */ }
     readyResolve();
     renderChips(); renderSelect();
     document.querySelectorAll('#eraSeg button').forEach((b) => b.addEventListener('click', () => {
@@ -1342,7 +1384,7 @@
     window.addEventListener('resize', () => renderTimeline());
     window.addEventListener('hashchange', () => {
       const h = readHash();
-      if (h.e && state.index.some((e) => e.id === h.e) && (!state.cur || h.e !== state.cur.id || h.u !== state.unit)) go(h.e, { unit: h.u, mode: h.m, party: h.p });
+      if (h.e && state.index.some((e) => e.id === h.e) && (!state.cur || h.e !== state.cur.id || h.u !== state.unit || (h.l === 'ilce') !== (state.level === 'ilce'))) { state.level = h.l === 'ilce' ? 'ilce' : 'il'; go(h.e, { unit: h.u, mode: h.m, party: h.p }); }
     });
     const h = readHash();
     const def = state.index.filter((e) => e.type === 'genel' && e.units > 0).slice(-1)[0];
@@ -1351,6 +1393,7 @@
     const meta = state.index.find((e) => e.id === first);
     const world = loadWorld().catch((e) => console.warn('Arka plan yüklenemedi', e));
     if (meta && meta.geo) loadGeo(meta.geo).catch(() => {});
+    if (h.l === 'ilce') state.level = 'ilce';
     await go(first, { unit: h.u, mode: h.m, party: h.p });
     if (h.c && state.index.some((e) => e.id === h.c)) await setCompare(true, h.c);
     await world;

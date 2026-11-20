@@ -14,7 +14,7 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== location.origin) return;
-  const immutable = /\/data\/(elections|geo)\/|\/vendor\//.test(url.pathname);
+  const immutable = /\/data\/(elections|geo|ilce)\/|\/vendor\//.test(url.pathname);
   if (immutable) {
     // önce önbellek: sürüm değişince önbellek adı değişir ve eski dosyalar silinir
     e.respondWith(caches.open(VERSION).then((c) => c.match(e.request).then((hit) => hit || fetch(e.request).then((r) => {
