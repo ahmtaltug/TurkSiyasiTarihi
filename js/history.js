@@ -13,7 +13,7 @@
   const esc = (s) => A().esc(s);
   const days = (a, b) => Math.round((new Date(b || TODAY) - new Date(a)) / 864e5);
   // Meclisin bulunmadığı askerî yönetim dönemleri
-  const GAPS = [['1878-02-14', '1908-12-17', 'Meclis kapalı: II. Abdülhamid Meclis-i Mebusan\'ı süresiz tatil etti'], ['1912-08-05', '1914-05-14', 'Meclis feshedildi; yeni meclis açılana dek'],
+  const GAPS = [['1877-06-28', '1877-12-13', 'Birinci dönem kapandı; ikinci dönem seçimleri'], ['1878-02-14', '1908-12-17', 'Meclis kapalı: II. Abdülhamid Meclis-i Mebusan\'ı süresiz tatil etti'], ['1912-08-05', '1914-05-14', 'Meclis feshedildi; yeni meclis açılana dek'],
     ['1918-12-21', '1920-01-12', 'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek'], ['1920-03-18', '1920-04-23', 'İstanbul\'un işgali: Meclis-i Mebusan son kez toplandı'], ['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
   const SULTAN = '#8a6d3b', VIZIER = '#b59a6a';
   const MARK = { '1876-12-23': 'I. Meşrutiyet', '1908-07-23': 'II. Meşrutiyet', '1913-01-23': 'Bâbıâli Baskını', '1920-04-23': 'TBMM', '1923-10-29': 'Cumhuriyet', '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
@@ -23,9 +23,9 @@
   // ------------------------------------------------------------------ renkler
   const dark = () => A().isDark();
   function nameColor(name, leg) {
-    if (name === 'Boş' || name === 'Belirtilmemiş' || name === 'Grup verisi yok') return dark() ? '#4a4f57' : '#cdc8bf';
+    if (name === 'Boş' || name === 'Belirtilmemiş' || /^Grup /.test(name)) return dark() ? '#4a4f57' : '#cdc8bf';
     if (name === 'Askerî Hükûmet' || /^Askerî yönetim/.test(name)) return dark() ? '#6b7280' : '#4b5563';
-    if (name === 'Geçici Hükûmet' || name === 'Vekâleten' || name === 'Bağımsız' || name === 'Bağımsızlar') return dark() ? '#8b929c' : '#9aa0a8';
+    if (name === 'Geçici Hükûmet' || /^Vekâleten/.test(name) || name === 'Bağımsız' || name === 'Bağımsızlar') return dark() ? '#8b929c' : '#9aa0a8';
     const k = (leg && leg.keys && leg.keys[name]) || A().partyKey(name);
     return A().pColor(k || name);
   }
@@ -52,6 +52,7 @@
     tab = t;
     document.querySelectorAll('#histTabs [data-tab]').forEach((b) => { const on = b.dataset.tab === t; b.classList.toggle('active', on); b.setAttribute('aria-selected', String(on)); });
     ({ chart: renderChart, govs: renderGovs, parties: renderParties, anim: renderAnim })[t]();
+    setHash();
   }
   document.querySelectorAll('#histTabs [data-tab]').forEach((b) => b.addEventListener('click', () => setTab(b.dataset.tab)));
   function show(on) {
@@ -61,7 +62,7 @@
     if (!on) { stopAnim(); setTimeout(() => window.dispatchEvent(new Event('resize')), 30); }
     window.scrollTo(0, 0);
   }
-  const close = () => show(false);
+  const close = () => { show(false); A().writeHash(); setTimeout(() => A().refit(), 40); };
   dlg.close = close;
   document.querySelectorAll('#mainTabs [data-view]').forEach((b) => b.addEventListener('click', () => {
     if (b.dataset.view === 'map') close(); else open(tab, A().state.data && A().state.data.date);
@@ -89,7 +90,10 @@
     const vz = (H.viziers || []).find((x) => inRange(x, d));
     if (vz) h += `<div class="hc-row"><span class="muted">Sadrazam</span> <span class="sw" style="background:${VIZIER}"></span><b>${esc(vz.name)}</b><span class="muted"> · ${esc(A().fmtDate(vz.start))} – ${esc(A().fmtDate(vz.end))} (${A().nf.format(days(vz.start, vz.end))} gün)</span></div>`;
     if (d >= '1920-04-23' && d < '1922-11-17' && vz) h += '<p class="note small">1920–1922 arasında İstanbul\'da Osmanlı hükûmeti, Ankara\'da TBMM hükûmeti birlikte vardı.</p>';
-    if (d >= '1920-04-23' && d < '1921-05-10') h += '<p class="note small">TBMM\'de parti grubu yoktu; Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921\'de kuruldu. Grupların üye sayıları derlenmedi.</p>';
+    const TH = H.tbmmHead;
+    if (TH && inRange(TH, d)) h += `<div class="hc-row"><span class="muted">${esc(TH.title)}</span> <span class="sw" style="background:${nameColor('Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti')}"></span><b>${esc(TH.name)}</b><span class="muted"> · ${esc(A().fmtDate(TH.start))} – ${esc(A().fmtDate(TH.end))}</span></div>`;
+    if (d >= '1920-04-23' && d < '1923-08-11') h += `<p class="note small">Birinci Meclis'te parti yoktu. ${d < '1921-05-10' ? 'Milletvekilleri henüz gruplaşmamıştı; ' : ''}Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921'de, muhalif İkinci Grup Temmuz 1922'de resmen kuruldu. Grupların üye sayıları kaynaklarda farklı verildiği için burada derlenmedi; grafik dönem listesindeki vekil sayısını gösterir.</p>`;
+    if (d >= '1920-01-12' && d < '1920-04-23') h += '<p class="note small">Son Meclis-i Mebusan\'da Müdâfaa-i Hukuk çizgisindeki mebuslar Felâh-ı Vatan grubunu kurdu; grup dağılımı derlenmedi.</p>';
     if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
     if (g) {
       const ps = govParties(g);
@@ -129,12 +133,8 @@
     const box = body;
     const Wc = Math.max(980, box.clientWidth - 8);
     const L0 = 128, R0 = 14, X0 = 1876, X1 = yf(TODAY) + 0.4;
-    // İstibdat dönemi (Meclis kapalı, 1879–1907) kısaltılmış ölçekte
-    const BR = [1879, 1907.5], BW = 4, SPAN = X1 - X0 - (BR[1] - BR[0]) + BW;
-    const U = (t) => (t <= BR[0] ? t - X0 : t >= BR[1] ? BR[0] - X0 + BW + (t - BR[1]) : BR[0] - X0 + (t - BR[0]) / (BR[1] - BR[0]) * BW);
-    const Ui = (u) => (u <= BR[0] - X0 ? X0 + u : u >= BR[0] - X0 + BW ? BR[1] + u - (BR[0] - X0 + BW) : BR[0] + (u - (BR[0] - X0)) / BW * (BR[1] - BR[0]));
-    const X = (t) => L0 + U(t) / SPAN * (Wc - L0 - R0);
-    const rows = { ev: [0, 26], pres: [28, 22], pm: [52, 16], gov: [70, 26], seat: [102, 300] };
+    const X = (t) => L0 + (t - X0) / (X1 - X0) * (Wc - L0 - R0);
+    const rows = { ev: [0, 38], pres: [40, 22], pm: [64, 16], gov: [82, 26], seat: [114, 300] };
     const Hc = rows.seat[0] + rows.seat[1] + 26;
     let s = `<svg class="hchart" id="hchart" viewBox="0 0 ${Wc} ${Hc}" width="${Wc}" height="${Hc}" role="img" aria-label="1920'den bugüne meclis sandalye dağılımı, hükûmetler ve cumhurbaşkanları">`;
     s += `<defs><pattern id="gapHatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="2" height="6" class="gh"/></pattern></defs>`;
@@ -146,13 +146,15 @@
     for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
     // I. TBMM ve askerî dönemler
     for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>` +
-      (X(yf(b)) - X(yf(a)) > 60 && a > '1900' ? `<text class="gapt" x="${(X(yf(a)) + X(yf(b))) / 2}" y="${rows.seat[0] + rows.seat[1] / 2}" text-anchor="middle">Meclis kapalı (${a.slice(0, 4)}–${b.slice(0, 4)})</text>` : '');
+      (X(yf(b)) - X(yf(a)) > 60 ? `<text class="gapt" x="${(X(yf(a)) + X(yf(b))) / 2}" y="${rows.seat[0] + rows.seat[1] / 2}" text-anchor="middle">${a < '1900' ? 'İstibdat: ' : ''}Meclis kapalı (${a.slice(0, 4)}–${b.slice(0, 4)})</text>` : '');
     // sandalye blokları
     const labels = [];
     legs.forEach((l, i) => {
       let x0 = yf(l.date), x1 = yf(legs[i + 1] ? legs[i + 1].date : TODAY) + (legs[i + 1] ? 0 : 0.4);
       const gap = GAPS.find(([a]) => yf(a) > x0 && yf(a) < x1);
       if (gap) x1 = yf(gap[0]);
+      const inGap = GAPS.find(([a, b]) => yf(a) <= x0 && x0 < yf(b));
+      if (inGap) x0 = yf(inGap[1]);
       let acc = 0;
       const byS = {};
       for (const [n, v] of Object.entries(l.seats)) { const k = seriesId(n, l); byS[k] = byS[k] || { v: 0, n }; byS[k].v += v; }
@@ -170,7 +172,7 @@
     for (const p of H.presidents) {
       const x0 = X(yf(p.start)), x1 = X(yf(p.end)), w = x1 - x0;
       s += `<rect class="band" x="${x0}" y="${rows.pres[0]}" width="${Math.max(1, w)}" height="${rows.pres[1]}" fill="${nameColor(p.party || p.name)}"><title>${esc(p.name)} (${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'})${p.party ? ' · ' + esc(p.party) : ''}${p.note ? ' · ' + esc(p.note) : ''}</title></rect>`;
-      const nm = /^Askerî/.test(p.name) ? surname(p.name.replace(/ \(.*/, '')) : p.name === 'Vekâleten' ? '' : surname(p.name);
+      const nm = /^Askerî/.test(p.name) ? surname(p.name.replace(/ \(.*/, '')) : /^Vekâleten/.test(p.name) ? '' : surname(p.name);
       if (nm && w > nm.length * 6.4 + 6) s += `<text class="bt" x="${x0 + w / 2}" y="${rows.pres[0] + 15}" text-anchor="middle">${esc(nm)}</text>`;
     }
     for (const p of H.sultans || []) {
@@ -178,6 +180,12 @@
       if (w <= 0) continue;
       s += `<rect class="band" x="${x0}" y="${rows.pres[0]}" width="${w}" height="${rows.pres[1]}" fill="${SULTAN}"><title>Padişah ${esc(p.name)} (${esc(A().fmtDate(p.start))} – ${esc(A().fmtDate(p.end))})</title></rect>`;
       if (w > p.name.length * 6 + 6) s += `<text class="bt" x="${x0 + w / 2}" y="${rows.pres[0] + 15}" text-anchor="middle">${esc(p.name)}</text>`;
+    }
+    const TH = H.tbmmHead;
+    if (TH) {   // TBMM Başkanı: saltanat sürerken bandın alt yarısı, sonra tamamı
+      const tc = nameColor('Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti'), xa = X(yf(TH.start)), xb = X(yf('1922-11-01')), xc = X(yf(TH.end)), hh = rows.pres[1] / 2;
+      const tt = `<title>${esc(TH.title)} ${esc(TH.name)} (${esc(A().fmtDate(TH.start))} – ${esc(A().fmtDate(TH.end))}). ${esc(TH.note)}</title>`;
+      s += `<rect class="band" x="${xa}" y="${rows.pres[0] + hh}" width="${xb - xa}" height="${hh}" fill="${tc}">${tt}</rect><rect class="band" x="${xb}" y="${rows.pres[0]}" width="${xc - xb}" height="${rows.pres[1]}" fill="${tc}">${tt}</rect>`;
     }
     // hükûmet başkanları (aynı kişinin art arda hükûmetleri tek blok)
     const ten = [];
@@ -210,18 +218,17 @@
       if (g.confidence.failed) s += `<text class="fail" x="${x0 + w / 2}" y="${rows.gov[0] + rows.gov[1] - 6}" text-anchor="middle">✕<title>${esc(g.name)} güvenoyu alamadı (${esc(g.confidence.text)})</title></text>`;
     }
     // olay çizgileri
-    let lastX = -1e9, lvl = 0;
+    const lvEnd = [-1e9, -1e9, -1e9];
     for (const [d, t] of Object.entries(MARK)) {
-      const x = X(yf(d));
-      lvl = x - lastX < 130 ? 1 - lvl : 0; lastX = x;   // yakın etiketler iki satıra
-      s += `<line class="evl" x1="${x}" x2="${x}" y1="${rows.ev[0] + 2 + lvl * 12}" y2="${rows.seat[0] + rows.seat[1]}"/><text class="evt" x="${x + (x > Wc - 200 ? -3 : 3)}" y="${rows.ev[0] + 10 + lvl * 12}" text-anchor="${x > Wc - 200 ? 'end' : 'start'}">${esc(t)}</text>`;
+      const x = X(yf(d)), w = t.length * 5.6 + 8, right = x > Wc - 200;
+      const a0 = right ? x - w : x;
+      let lvl = lvEnd.findIndex((e) => e < a0); if (lvl < 0) lvl = lvEnd.indexOf(Math.min(...lvEnd));
+      lvEnd[lvl] = a0 + w;
+      s += `<line class="evl" x1="${x}" x2="${x}" y1="${rows.ev[0] + 2 + lvl * 12}" y2="${rows.seat[0] + rows.seat[1]}"/><text class="evt" x="${x + (right ? -3 : 3)}" y="${rows.ev[0] + 10 + lvl * 12}" text-anchor="${right ? 'end' : 'start'}">${esc(t)}</text>`;
     }
     // eksen
     const ay = rows.seat[0] + rows.seat[1];
-    s += `<text class="gapt" transform="translate(${(X(BR[0]) + X(BR[1])) / 2 + 4} ${rows.seat[0] + rows.seat[1] / 2}) rotate(-90)" text-anchor="middle">İstibdat: Meclis kapalı (1878–1908) · ölçek kısaltıldı</text>`;
-    s += `<text class="ax" x="${(X(BR[0]) + X(BR[1])) / 2}" y="${rows.seat[0] + rows.seat[1] + 17}" text-anchor="middle">≈</text>`;
     for (let y = 1880; y <= X1; y += 5) {
-      if (y > BR[0] && y < BR[1]) continue;
       const x = X(y);
       s += `<line class="tick" x1="${x}" x2="${x}" y1="${ay}" y2="${ay + (y % 10 ? 3 : 6)}"/>` + (y % 10 ? '' : `<text class="ax" x="${x}" y="${ay + 17}" text-anchor="middle">${y}</text>`);
     }
@@ -243,12 +250,12 @@
     const tAt = (ev) => {
       const r = svg.getBoundingClientRect();
       const px = (ev.clientX - r.left) * (Wc / r.width);
-      return Ui((px - L0) / (Wc - L0 - R0) * SPAN);
+      return X0 + (px - L0) / (Wc - L0 - R0) * (X1 - X0);
     };
-    hit.addEventListener('mousemove', (ev) => { const t = tAt(ev); if (t >= 1920 && t <= X1) show(fromYf(Math.min(t, yf(TODAY)))); });
+    hit.addEventListener('mousemove', (ev) => { const t = tAt(ev); if (t >= X0 && t <= X1) show(fromYf(Math.min(t, yf(TODAY)))); });
     hit.addEventListener('mouseleave', () => { if (pin) show(pin); });
-    hit.addEventListener('click', (ev) => { pin = fromYf(Math.min(tAt(ev), yf(TODAY))); show(pin); });
-    const start = pin && pin >= '1920' ? pin : TODAY;
+    hit.addEventListener('click', (ev) => { pin = fromYf(Math.max(X0, Math.min(tAt(ev), yf(TODAY)))); show(pin); setHash(); });
+    const start = pin || TODAY;
     show(start);
     // seçili tarihi görünür alana kaydır
     const sc = body.querySelector('.hc-scroll');
@@ -317,7 +324,7 @@
       `<div class="pl-grid"><div class="hc-scroll">${s}</div><div class="pl-info" id="plInfo"><p class="hint">Bir partiye tıklayın.</p></div></div>` +
       `<p class="note small">${H.parties.length} parti ve ittifak: Türkiye'de meclise girmiş, hükûmette yer almış ya da bu sitedeki seçimlerde öne çıkmış partiler. Tarihler ve öncül/ardıl ilişkileri Vikipedi bilgi kutularından derlenmiştir; birden çok kez kapatılıp açılan partilerin dönemleri madde metnine göre elle girildi.</p>`;
     const showP = (t) => {
-      partySel = t;
+      partySel = t; setHash();
       const p = A().partyByTitle(t), box = $('#plInfo');
       box.innerHTML = A().lineageHtml(p); A().bindLineage(box);
       body.querySelectorAll('.prow').forEach((g) => g.classList.toggle('sel', g.dataset.t === t));
@@ -334,7 +341,7 @@
   }
 
   // ------------------------------------------------------------------ 4) olaylar ve animasyon
-  const TYPES = ['kuruluş', 'kapanış', 'ad değişikliği', 'ittifak', 'hükûmet', 'güvenoyu', 'cumhurbaşkanı', 'darbe', 'sistem'];
+  const TYPES = ['sistem', 'olay', 'darbe', 'padişah', 'cumhurbaşkanı', 'hükûmet', 'güvenoyu', 'kuruluş', 'kapanış', 'ad değişikliği', 'ittifak'];
   function renderAnim() {
     if (!anim.types) anim.types = new Set(TYPES.filter((t) => t !== 'hükûmet'));
     const lab = A().EV_LABEL;
@@ -346,6 +353,7 @@
     $('#aSpeed').value = String(anim.speed);
     $('#aPlay').addEventListener('click', () => (anim.on ? stopAnim() : startAnim()));
     $('#aRange').addEventListener('input', (e) => { stopAnim(); anim.t = Number(e.target.value); drawAnim(); });
+    $('#aRange').addEventListener('change', setHash);
     $('#aSpeed').addEventListener('change', (e) => { anim.speed = Number(e.target.value); });
     body.querySelectorAll('#aTypes .chip').forEach((c) => c.addEventListener('click', () => {
       const t = c.dataset.t; anim.types.has(t) ? anim.types.delete(t) : anim.types.add(t);
@@ -366,7 +374,7 @@
     }
     $('#aInfo').innerHTML = infoHtml(d); bindGo($('#aInfo'));
     const ev = H.events.filter((e) => e.date <= d && anim.types.has(e.type)).slice(-14).reverse();
-    $('#aEvents').innerHTML = ev.map((e, i) => `<li class="${i === 0 && yf(d) - yf(e.date) < 1 ? 'new' : ''}"><span class="muted">${esc(A().fmtDate(e.date))}</span> <span class="et et-${esc(e.type.replace(/\s/g, '-'))}">${esc(A().EV_LABEL[e.type] || e.type)}</span>${esc(e.text)}</li>`).join('') || '<li class="muted">Bu tarihe kadar seçili türde olay yok.</li>';
+    $('#aEvents').innerHTML = ev.map((e, i) => `<li data-d="${esc(e.date)}" title="Bu tarihe git" class="${i === 0 && yf(d) - yf(e.date) < 1 ? 'new' : ''}"><span class="muted">${esc(A().fmtDate(e.date))}</span> <span class="et et-${esc(e.type.replace(/\s/g, '-'))}">${esc(A().EV_LABEL[e.type] || e.type)}</span>${esc(e.text)}</li>`).join('') || '<li class="muted">Bu tarihe kadar seçili türde olay yok.</li>';
     const alive = alivePartiesAt(d);
     $('#aAliveH').textContent = `Faal partiler (${alive.length} / derlenen ${H.parties.filter((p) => !p.alliance).length})`;
     $('#aAlive').innerHTML = alive.map((p) => `<span class="pchip"><span class="sw" style="background:${nameColor(p.name)}"></span>${esc(p.name)}</span>`).join(' ');
@@ -384,9 +392,33 @@
     tick();
   }
   function stopAnim() {
+    if (anim.on) setTimeout(setHash, 0);
     anim.on = false; clearTimeout(anim.timer);
     const b = $('#aPlay'); if (b) b.textContent = '▶ Oynat';
   }
+
+  // derin bağlantı: #v=tarih&t=<sekme>&d=<tarih>
+  function setHash() {
+    if (dlg.hidden) return;
+    const p = new URLSearchParams({ v: 'tarih', t: tab });
+    if (tab === 'chart' && pin) p.set('d', pin);
+    if (tab === 'anim') p.set('d', fromYf(anim.t));
+    if (tab === 'parties' && partySel) p.set('p', partySel);
+    history.replaceState(null, '', '#' + p.toString());
+  }
+  let rsz = null;
+  window.addEventListener('resize', () => { clearTimeout(rsz); rsz = setTimeout(() => { if (!dlg.hidden && tab === 'chart' && H) renderChart(); }, 200); });
+  body.addEventListener('click', (e) => {
+    const li = e.target.closest('#aEvents li[data-d]');
+    if (li) { stopAnim(); anim.t = Math.max(1876, yf(li.dataset.d)); drawAnim(); setHash(); }
+  });
+  const hp = new URLSearchParams(location.hash.slice(1));
+  if (hp.get('v') === 'tarih') A().ready.then(() => open(['chart', 'govs', 'parties', 'anim'].includes(hp.get('t')) ? hp.get('t') : 'chart', hp.get('d'), hp.get('p')));
+  $('#histShare').addEventListener('click', async (e) => {
+    setHash(); const b = e.currentTarget, old = b.innerHTML;
+    try { await navigator.clipboard.writeText(location.href); b.textContent = 'Kopyalandı ✓'; } catch (_) { window.prompt('Bağlantıyı kopyalayın:', location.href); }
+    setTimeout(() => { b.innerHTML = old; }, 1500);
+  });
 
   window.AtlasHistory = { open };
 })();

@@ -88,6 +88,10 @@ Kişi adları tek tek birincil kaynakla karşılaştırılamadı. Ayrıştırma 
 - **Partiler:** Kuruluş/kapanış tarihleri bilgi kutusundan alındı. Birden çok dönemi olan partilerde (CHP 1923–1981 ve 1992–; MHP 1969–1981 ve 1993–; Hürriyet ve İtilaf 1911–1913 ve 1918–1919) dönemler madde metnine göre elle girildi. Yönlendirme nedeniyle iki kez gelen Yeşil Sol Parti/DEM Parti kaydı teke indirildi. Öncül, ardıl, bölünme ve birleşme ilişkileri bilgi kutusundaki bağlantılardır; madde yazarlarının seçimine bağlıdır.
 - **Demografi:** 81 ilin tamamında nüfus (1927–2025), alan, GSYH ve yaşam beklentisi bulundu. İngilizce tabloda "Istanbul" yazımı eşlemede ayrıca ele alındı.
 
+- **Osmanlı dönemi (2.3.0–3.0.0):** Sadrazamlar Vikipedi "Osmanlı sadrazamları listesi"nden alındı. Listenin ayrıntılı tablosu 31 Mart Vakası'nı Rumi tarihle (31 Mart 1325) yazar; Miladi 13 Nisan 1909'a çevrildi. Padişahların saltanat tarihleri, Meclis'in kapalı olduğu dönemler (14 Şubat 1878 – 17 Aralık 1908, 5 Ağustos 1912 – 14 Mayıs 1914, 21 Aralık 1918 – 12 Ocak 1920, 18 Mart – 23 Nisan 1920) ve kurumsal olay tarihleri elle girildi; birincil kaynakla karşılaştırılmadı.
+- **I. TBMM grupları:** Birinci ve İkinci Grubun üye sayıları kaynaklarda farklı verildiği için derlenmedi. 1920 seçim maddesine göre I. dönemde 349 seçilmiş ve İstanbul'dan gelen 88 vekil vardı (437); 34'ü istifa etti. Dönem listesinde 434 ad sayıldı.
+- **Vekâleten cumhurbaşkanlığı:** Vekil adları Anayasa'nın öngördüğü Meclis/Senato başkanlarıdır ve elle girildi.
+
 Doğrulanamayanlar: Hükûmet tarihleri ve güvenoyu sayıları TBMM tutanaklarıyla; nüfuslar TÜİK yayınlarıyla birebir karşılaştırılmadı.
 
 ## Doğrulanamayanlar

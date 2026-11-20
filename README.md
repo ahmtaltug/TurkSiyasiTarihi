@@ -28,6 +28,7 @@ Toplam 88 kayıt vardır. Canlı site: **https://ahmtaltug.github.io/TurkSiyasiT
 - **Koyu tema:** Tarayıcı tercihine göre açılır, sağ üstten değiştirilebilir.
 - **Parti geçmişi ve il arama:** Ülke geneli çubuklarından bir partiye tıklayınca, partinin aynı türdeki seçimlerdeki oy oranı grafikle gösterilir. Haritanın sağ üstündeki kutuyla il aranır (kısayol: `/`).
 - **Siyasi tarih (2.0):** 1920'den bugüne meclis sandalye dağılımı, cumhurbaşkanları, başbakanlar ve hükûmetler tek grafikte (koalisyonlar ve güvenoyu alamayan hükûmetler işaretli); hükûmetler tablosu; partilerin kuruluş, kapanış, ad değişikliği, öncül/ardıl ve ittifak bilgisiyle zaman çizelgesi; 1908'den bugüne oynatılabilir olay animasyonu.
+- **Osmanlı dönemi (3.0):** Meclis grafiği 1876'dan başlar; Meclis-i Mebusan dönemleri, padişahlar, sadrazamlar ve kurumsal olaylar (Kanun-i Esasi'den 2017 halkoylamasına). Siyasi tarih görünümü `#v=tarih&t=chart&d=YYYY-AA-GG` biçiminde paylaşılabilir.
 - **Karşılaştırma modu:** İki seçim yan yana, eşzamanlı iki haritada; il bazında değişen birinci partiler ve puan farkları.
 - **Demografik karşılaştırma:** İl nüfusu, yoğunluk, nüfus artışı, kişi başı GSYH ve yaşam beklentisi ile seçim sonucunun saçılım grafiği ve korelasyonu.
 - **Hızlı ve çevrimdışı:** Komşu seçimler önceden yüklenir. Service worker sayesinde açılmış seçimler internetsiz de görüntülenebilir; site telefona uygulama gibi eklenebilir.

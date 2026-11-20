@@ -29,7 +29,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '2.3.0';
+  const VERSION = '3.0.0';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
@@ -217,6 +217,7 @@
     }).addTo(map);
     if (old) map.removeLayer(old);
     drawHatch(fc);
+    if (map.getSize().x > 0) state.mapFitted = true;
     const fam = d.geo.startsWith('h-1877') || ['h-1908', 'h-1912', 'h-1914'].includes(d.geo) ? 'otto' : 'tr';
     if (fam !== state.geoFamily) {
       map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] });
@@ -846,6 +847,8 @@
     return { e: p.get('e'), u: p.get('u'), m: p.get('m'), p: p.get('p'), c: p.get('c') };
   }
   function writeHash() {
+    const hv = document.getElementById('historyDlg');
+    if (hv && !hv.hidden) return;   // siyasi tarih açıkken adres onun
     const p = new URLSearchParams();
     if (state.cur) p.set('e', state.cur.id);
     if (state.unit) p.set('u', state.unit);
@@ -1232,7 +1235,7 @@
   }
 
   // ------------------------------------------------------------------ zaman atlamalı oynatmada siyasi olaylar
-  const EV_LABEL = { 'kuruluş': 'Kuruluş', 'kapanış': 'Kapanış', 'ad değişikliği': 'Ad değişikliği', 'hükûmet': 'Hükûmet', 'güvenoyu': 'Güvenoyu', 'cumhurbaşkanı': 'Cumhurbaşkanı', 'ittifak': 'İttifak', 'darbe': 'Askerî müdahale', 'sistem': 'Sistem' };
+  const EV_LABEL = { 'padişah': 'Padişah', 'olay': 'Siyasi olay', 'kuruluş': 'Kuruluş', 'kapanış': 'Kapanış', 'ad değişikliği': 'Ad değişikliği', 'hükûmet': 'Hükûmet', 'güvenoyu': 'Güvenoyu', 'cumhurbaşkanı': 'Cumhurbaşkanı', 'ittifak': 'İttifak', 'darbe': 'Askerî müdahale', 'sistem': 'Sistem' };
   function eventsBetween(a, b, types) {
     const H = state.hist; if (!H) return [];
     return H.events.filter((e) => e.date > a && e.date <= b && (!types || types.includes(e.type)));
@@ -1257,6 +1260,7 @@
     map.on('zoomend', () => { if (state.data) restyle(); });
     const [idx, parties] = await Promise.all([getJSON('data/index.json'), getJSON('data/parties.json')]);
     state.index = idx; state.parties = parties;
+    readyResolve();
     renderChips(); renderSelect();
     document.querySelectorAll('#eraSeg button').forEach((b) => b.addEventListener('click', () => {
       state.era = b.dataset.era;
@@ -1326,7 +1330,9 @@
     if (!('serviceWorker' in navigator) || !/^https:|^http:\/\/localhost/.test(location.href)) return;
     navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Service worker kaydedilemedi', e));
   }
+  let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
   window.Atlas = { state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, lineageHtml, bindLineage,
-                   hemicycle, EV_LABEL, isDark: () => T === THEMES.dark, go: (id) => go(id, { keepMode: true }) };
+                   hemicycle, EV_LABEL, isDark: () => T === THEMES.dark, writeHash, ready: appReady,
+                   refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });
 })();
