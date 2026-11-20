@@ -13,10 +13,12 @@
   const esc = (s) => A().esc(s);
   const days = (a, b) => Math.round((new Date(b || TODAY) - new Date(a)) / 864e5);
   // Meclisin bulunmadığı askerî yönetim dönemleri
-  const GAPS = [['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
-  const MARK = { '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
+  const GAPS = [['1878-02-14', '1908-12-17', 'Meclis kapalı: II. Abdülhamid Meclis-i Mebusan\'ı süresiz tatil etti'], ['1912-08-05', '1914-05-14', 'Meclis feshedildi; yeni meclis açılana dek'],
+    ['1918-12-21', '1920-01-12', 'Meclis feshedildi (VI. Mehmed); yeni meclis açılana dek'], ['1920-03-18', '1920-04-23', 'İstanbul\'un işgali: Meclis-i Mebusan son kez toplandı'], ['1960-05-27', '1961-10-15', 'Millî Birlik Komitesi'], ['1980-09-12', '1983-11-06', 'Millî Güvenlik Konseyi']];
+  const SULTAN = '#8a6d3b';
+  const MARK = { '1876-12-23': 'I. Meşrutiyet', '1908-07-23': 'II. Meşrutiyet', '1913-01-23': 'Bâbıâli Baskını', '1920-04-23': 'TBMM', '1923-10-29': 'Cumhuriyet', '1946-01-07': 'Çok partili dönem', '1960-05-27': '27 Mayıs', '1971-03-12': '12 Mart', '1980-09-12': '12 Eylül', '1997-02-28': '28 Şubat', '2016-07-15': '15 Temmuz', '2018-07-09': 'Cumhurbaşkanlığı hükûmet sistemi' };
   let H = null, tab = 'chart', pin = null, partySel = null;
-  const anim = { on: false, t: 1908, timer: null, speed: 1, types: null };
+  const anim = { on: false, t: 1876, timer: null, speed: 1, types: null };
 
   // ------------------------------------------------------------------ renkler
   const dark = () => A().isDark();
@@ -38,10 +40,10 @@
 
   // ------------------------------------------------------------------ açma / sekmeler
   async function open(which, date, partyTitle) {
-    if (!dlg.open) dlg.showModal();
+    show(true);
     body.innerHTML = '<p class="hint">Yükleniyor…</p>';
     try { H = await A().loadHistory(); } catch (e) { body.innerHTML = `<p class="note warn">Veri yüklenemedi: ${esc(e.message)}</p>`; return; }
-    if (date) { pin = date; anim.t = Math.max(1908, yf(date)); }
+    if (date) { pin = date; anim.t = Math.max(1876, yf(date)); }
     if (partyTitle) partySel = partyTitle;
     setTab(which || tab);
   }
@@ -52,7 +54,19 @@
     ({ chart: renderChart, govs: renderGovs, parties: renderParties, anim: renderAnim })[t]();
   }
   document.querySelectorAll('#histTabs [data-tab]').forEach((b) => b.addEventListener('click', () => setTab(b.dataset.tab)));
-  dlg.addEventListener('close', stopAnim);
+  function show(on) {
+    dlg.hidden = !on;
+    document.querySelector('.controls').hidden = on; document.querySelector('main.layout').hidden = on;
+    document.querySelectorAll('#mainTabs [data-view]').forEach((b) => { const a = (b.dataset.view === 'history') === on; b.classList.toggle('active', a); b.setAttribute('aria-pressed', String(a)); });
+    if (!on) { stopAnim(); setTimeout(() => window.dispatchEvent(new Event('resize')), 30); }
+    window.scrollTo(0, 0);
+  }
+  const close = () => show(false);
+  dlg.close = close;
+  document.querySelectorAll('#mainTabs [data-view]').forEach((b) => b.addEventListener('click', () => {
+    if (b.dataset.view === 'map') close(); else open(tab, A().state.data && A().state.data.date);
+  }));
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !dlg.hidden && !e.target.closest('input, select')) close(); });
 
   // ------------------------------------------------------------------ yardımcı sorgular
   const inRange = (x, d) => x.start && x.start <= d && (!x.end || d < x.end);
@@ -70,7 +84,9 @@
   function infoHtml(d) {
     const leg = legAt(d), g = govAt(d), p = presAt(d);
     let h = `<div class="hc-date">${esc(A().fmtDate(d))}</div>`;
-    if (d < '1920-04-23') h += '<p class="note">Osmanlı dönemi: hükûmet ve meclis bileşimi bu görünümde yer almıyor.</p>';
+    const su = (H.sultans || []).find((x) => inRange(x, d));
+    if (su) h += `<div class="hc-row"><span class="muted">Padişah</span> <span class="sw" style="background:${SULTAN}"></span><b>${esc(su.name)}</b><span class="muted"> · ${esc(A().fmtDate(su.start))} – ${esc(A().fmtDate(su.end))}</span></div>`;
+    if (d < '1920-04-23') h += '<p class="note small">Osmanlı hükûmetleri (sadrazamlar) bu görünümde yer almıyor.</p>';
     if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
     if (g) {
       const ps = govParties(g);
@@ -83,7 +99,7 @@
     if (leg) {
       const meta = A().state.index.find((e) => e.id === leg.id);
       const ent = Object.entries(leg.seats).sort((a, b) => b[1] - a[1]);
-      h += `<div class="hc-row"><span class="muted">Meclis</span> <b>${esc(meta ? meta.title : leg.id)}</b> sonrası, ${A().nf.format(leg.total)} sandalye` +
+      h += `<div class="hc-row"><span class="muted">Meclis</span> <b>${esc(meta ? meta.title : leg.id)}</b> sonrası, ${A().nf.format(leg.total)} ${leg.listed ? 'vekil (listede)' : 'sandalye'}${leg.basis ? ` <span class="muted">· gruplama: ${esc(leg.basis)}</span>` : ''}` +
         (meta ? ` <button type="button" class="linkbtn" data-go="${esc(leg.id)}">haritada aç</button>` : '') + '</div>';
       h += '<div class="hc-seats">' + ent.map(([n, v]) => `<span class="pchip" title="${esc(n)}"><span class="sw" style="background:${nameColor(n, leg)}"></span>${esc(shortName(n, leg))} <b>${v}</b> <span class="muted">%${(100 * v / leg.total).toLocaleString('tr-TR', { maximumFractionDigits: 1 })}</span></span>`).join(' ') + '</div>';
     }
@@ -109,7 +125,7 @@
     const order = Object.keys(weight).sort((a, b) => (tail.includes(a) - tail.includes(b)) || weight[b] - weight[a]);
     const box = body;
     const Wc = Math.max(980, box.clientWidth - 8);
-    const L0 = 128, R0 = 14, X0 = 1920, X1 = yf(TODAY) + 0.4;
+    const L0 = 128, R0 = 14, X0 = 1876, X1 = yf(TODAY) + 0.4;
     const X = (t) => L0 + (t - X0) / (X1 - X0) * (Wc - L0 - R0);
     const rows = { ev: [0, 26], pres: [28, 22], pm: [52, 16], gov: [70, 26], seat: [102, 300] };
     const Hc = rows.seat[0] + rows.seat[1] + 26;
@@ -117,12 +133,11 @@
     s += `<defs><pattern id="gapHatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="2" height="6" class="gh"/></pattern></defs>`;
     // satır etiketleri
     const rl = (y, t) => `<text class="rl" x="${L0 - 8}" y="${y}" text-anchor="end">${t}</text>`;
-    s += rl(rows.pres[0] + 15, 'Cumhurbaşkanı') + rl(rows.pm[0] + 12, 'Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(seçim sonrası)');
+    s += rl(rows.pres[0] + 15, 'Devlet başkanı') + rl(rows.pm[0] + 12, 'Başbakan') + rl(rows.gov[0] + 17, 'Hükûmet partileri') + rl(rows.seat[0] + 14, 'Meclis') + rl(rows.seat[0] + 28, '(seçim sonrası)');
     // yatay kılavuz çizgileri
     const sy = (f) => rows.seat[0] + rows.seat[1] * (1 - f);
     for (const f of [0.25, 0.5, 0.75]) s += `<line class="grid" x1="${L0}" x2="${Wc - R0}" y1="${sy(f)}" y2="${sy(f)}"/><text class="ax" x="${L0 - 4}" y="${sy(f) + 3}" text-anchor="end">%${f * 100}</text>`;
     // I. TBMM ve askerî dönemler
-    s += `<rect x="${X(yf('1920-04-23'))}" y="${rows.seat[0]}" width="${X(yf('1923-06-28')) - X(yf('1920-04-23'))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>I. TBMM (1920–1923): Birinci ve İkinci Grup; sayısal dağılım derlenmedi</title></rect>`;
     for (const [a, b, who] of GAPS) s += `<rect x="${X(yf(a))}" y="${rows.seat[0]}" width="${X(yf(b)) - X(yf(a))}" height="${rows.seat[1]}" fill="url(#gapHatch)"><title>Meclis kapalı: ${esc(who)}</title></rect>`;
     // sandalye blokları
     const labels = [];
@@ -149,6 +164,12 @@
       s += `<rect class="band" x="${x0}" y="${rows.pres[0]}" width="${Math.max(1, w)}" height="${rows.pres[1]}" fill="${nameColor(p.party || p.name)}"><title>${esc(p.name)} (${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'})${p.party ? ' · ' + esc(p.party) : ''}${p.note ? ' · ' + esc(p.note) : ''}</title></rect>`;
       const nm = /^Askerî/.test(p.name) ? surname(p.name.replace(/ \(.*/, '')) : p.name === 'Vekâleten' ? '' : surname(p.name);
       if (nm && w > nm.length * 6.4 + 6) s += `<text class="bt" x="${x0 + w / 2}" y="${rows.pres[0] + 15}" text-anchor="middle">${esc(nm)}</text>`;
+    }
+    for (const p of H.sultans || []) {
+      const x0 = X(Math.max(X0, yf(p.start))), w = X(yf(p.end)) - x0;
+      if (w <= 0) continue;
+      s += `<rect class="band" x="${x0}" y="${rows.pres[0]}" width="${w}" height="${rows.pres[1]}" fill="${SULTAN}"><title>Padişah ${esc(p.name)} (${esc(A().fmtDate(p.start))} – ${esc(A().fmtDate(p.end))})</title></rect>`;
+      if (w > p.name.length * 6 + 6) s += `<text class="bt" x="${x0 + w / 2}" y="${rows.pres[0] + 15}" text-anchor="middle">${esc(p.name)}</text>`;
     }
     // hükûmet başkanları (aynı kişinin art arda hükûmetleri tek blok)
     const ten = [];
@@ -180,7 +201,7 @@
     }
     // eksen
     const ay = rows.seat[0] + rows.seat[1];
-    for (let y = 1920; y <= X1; y += 5) {
+    for (let y = 1880; y <= X1; y += 5) {
       const x = X(y);
       s += `<line class="tick" x1="${x}" x2="${x}" y1="${ay}" y2="${ay + (y % 10 ? 3 : 6)}"/>` + (y % 10 ? '' : `<text class="ax" x="${x}" y="${ay + 17}" text-anchor="middle">${y}</text>`);
     }
@@ -192,7 +213,7 @@
       `<div class="hc-scroll">${s}</div><div class="hc-info" id="hcInfo"></div><div class="hc-legend">${legend}</div>` +
       `<p class="note small">Sandalye dağılımı her genel seçimin hemen sonrasındaki durumdur; dönem içindeki parti değiştirmeler, istifalar ve ara seçimler gösterilmez. Cumhuriyet Senatosu dahil değildir. ` +
       `1935–1943'te "Belirtilmemiş", seçim maddelerinin bilgi kutusunda CHP dışında sayılan ama partisi verilmeyen sandalyelerdir. Hükûmet bandında koalisyon ortakları üst üste şeritler hâlinde, sırasıyla gösterilir; ✕ güvenoyu alamayan hükûmeti işaretler. ` +
-      `Kaynak: Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve seçim maddeleri; 1950 sonrası sandalyeler bu sitenin seçim verisinden.</p>`;
+      `1877–1920 meclisleri dönem listelerinden sayılan vekillerdir; gruplama kaynağın sınıflandırmasıdır (1877 dinî, 1908 etnik, 1912–1914 siyasi mensubiyet; 1919 ve I. TBMM için grup verisi yok) ve literatürdeki toplu rakamlarla uyuşmayabilir. Kaynak: Vikipedi "Türkiye hükûmetleri listesi", "Türkiye cumhurbaşkanları listesi" ve seçim maddeleri; 1950 sonrası sandalyeler bu sitenin seçim verisinden.</p>`;
     const svg = $('#hchart'), hit = $('#hcHit'), cur = $('#hcCur'), info = $('#hcInfo');
     const show = (d) => {
       const x = X(yf(d));
@@ -293,7 +314,7 @@
     if (!anim.types) anim.types = new Set(TYPES.filter((t) => t !== 'hükûmet'));
     const lab = A().EV_LABEL;
     body.innerHTML = `<div class="anim-ctl"><button type="button" class="btn" id="aPlay">▶ Oynat</button>` +
-      `<input type="range" id="aRange" min="1908" max="${yf(TODAY).toFixed(2)}" step="0.05" value="${anim.t}" aria-label="Tarih">` +
+      `<input type="range" id="aRange" min="1876" max="${yf(TODAY).toFixed(2)}" step="0.05" value="${anim.t}" aria-label="Tarih">` +
       `<label class="lbl">Hız <select id="aSpeed"><option value="0.5">0,5×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select></label></div>` +
       `<div class="chips small" id="aTypes">${TYPES.map((t) => `<button type="button" class="chip ${anim.types.has(t) ? 'on' : ''}" data-t="${esc(t)}" aria-pressed="${anim.types.has(t)}"><span class="et et-${esc(t.replace(/\s/g, '-'))} sq"></span>${esc(lab[t] || t)}</button>`).join('')}</div>` +
       `<div class="anim-grid"><div><div class="a-year" id="aYear"></div><div id="aHemi"></div><div id="aInfo"></div></div><div><h3>Olaylar</h3><ol class="a-events" id="aEvents"></ol><h3 id="aAliveH">Faal partiler</h3><div id="aAlive" class="hc-seats"></div></div></div>`;
@@ -326,7 +347,7 @@
     $('#aAlive').innerHTML = alive.map((p) => `<span class="pchip"><span class="sw" style="background:${nameColor(p.name)}"></span>${esc(p.name)}</span>`).join(' ');
   }
   function startAnim() {
-    if (anim.t >= yf(TODAY) - 0.05) anim.t = 1908;
+    if (anim.t >= yf(TODAY) - 0.05) anim.t = 1876;
     anim.on = true; $('#aPlay').textContent = '❚❚ Durdur';
     const tick = () => {
       if (!anim.on) return;

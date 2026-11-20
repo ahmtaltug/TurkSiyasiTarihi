@@ -21,7 +21,7 @@
   })();
 </script>
 <link rel="stylesheet" href="vendor/leaflet.css">
-<link rel="stylesheet" href="css/app.css?v=2.0.0">
+<link rel="stylesheet" href="css/app.css?v=2.1.0">
 </head>
 <body>
 <header class="topbar">
@@ -29,8 +29,11 @@
     <h1>Türkiye Seçim Atlası</h1>
     <span class="brand-sub">1840–2026 · Osmanlı ve Cumhuriyet seçimleri</span>
   </div>
+  <nav class="seg main-tabs" id="mainTabs" aria-label="Ana bölümler">
+    <button type="button" data-view="map" class="active" aria-pressed="true">Harita</button>
+    <button type="button" data-view="history" aria-pressed="false">Siyasi tarih</button>
+  </nav>
   <div class="topbar-actions">
-    <button id="histBtn" class="btn" type="button" title="Meclis, hükûmetler, cumhurbaşkanları, partiler ve olaylar"><span class="long">Siyasi tarih</span><span class="short">Tarih</span></button>
     <button id="themeBtn" class="btn ghost" type="button">Tema: Sistem</button>
     <button id="aboutBtn" class="btn ghost" type="button" aria-label="Kaynaklar ve yöntem"><span class="long">Kaynaklar ve yöntem</span><span class="short">Hakkında</span></button>
   </div>
@@ -151,7 +154,7 @@
   <p class="muted">Bu sitedeki derlenmiş veri, kaynaklarının lisansı gereği CC BY-SA 4.0 ile paylaşılır. <span id="version"></span> · <a href="https://github.com/ahmtaltug/TurkSiyasiTarihi" target="_blank" rel="noopener">Kaynak kod</a></p>
 </dialog>
 
-<dialog id="historyDlg" class="wide" aria-labelledby="histTitle">
+<section id="historyDlg" class="history-view" hidden aria-labelledby="histTitle">
   <div class="hd-head">
     <h2 id="histTitle">Siyasi tarih</h2>
     <div class="seg" id="histTabs" role="tablist" aria-label="Siyasi tarih görünümleri">
@@ -160,10 +163,9 @@
       <button type="button" role="tab" data-tab="parties">Partiler</button>
       <button type="button" role="tab" data-tab="anim">Olaylar ve animasyon</button>
     </div>
-    <form method="dialog"><button class="btn ghost close" aria-label="Kapat">✕</button></form>
   </div>
   <div id="histBody" class="hd-body"></div>
-</dialog>
+</section>
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
   <defs>
@@ -175,7 +177,7 @@
 <noscript><p style="padding:16px">Bu harita JavaScript gerektirir.</p></noscript>
 <script defer src="vendor/leaflet.js"></script>
 <script defer src="vendor/topojson-client.min.js"></script>
-<script defer src="js/app.js?v=2.0.0"></script>
-<script defer src="js/history.js?v=2.0.0"></script>
+<script defer src="js/app.js?v=2.1.0"></script>
+<script defer src="js/history.js?v=2.1.0"></script>
 </body>
 </html>
