@@ -1,5 +1,9 @@
 # Değişiklik günlüğü
 
+## 3.1.4 — 2026-11-20
+
+- Birinci Meclis (1920–1923) grupları meclis dağılımında: 10 Mayıs 1921'e dek grupsuz; sonra Birinci Grup; 22 Temmuz 1922'den itibaren muhalif İkinci Grup (63 milletvekili, İngilizce Vikipedi "Second Group (Turkey)"). Birinci Grubun tek başına üye sayısı kaynaklarda bulunmadığından grupsuzlarla birlikte gösterilir.
+
 ## 3.1.3 — 2026-11-20
 
 - Siyasi tarihte erken Cumhuriyet meclisinin dönem içi değişiklikleri: Müdâfaa-i Hukuk grubunun Halk Fırkası'na dönüşmesi (9 Eylül 1923), muhalif Terakkiperver Cumhuriyet Fırkası (17 Kasım 1924 – 5 Haziran 1925, yaklaşık 29 milletvekili) ve Serbest Cumhuriyet Fırkası (12 Ağustos – 17 Kasım 1930, 15 milletvekili). Önceden 1923–1927 meclisi dönem boyunca Müdâfaa-i Hukuk olarak görünüyordu.

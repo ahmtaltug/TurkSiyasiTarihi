@@ -23,7 +23,7 @@
   // ------------------------------------------------------------------ renkler
   const dark = () => A().isDark();
   function nameColor(name, leg) {
-    if (name === 'Boş' || name === 'Belirtilmemiş' || /^Grup /.test(name)) return dark() ? '#4a4f57' : '#cdc8bf';
+    if (name === 'Boş' || name === 'Belirtilmemiş' || /^Grup /.test(name) || /^Grupsuz/.test(name)) return dark() ? '#4a4f57' : '#cdc8bf';
     if (name === 'Askerî Hükûmet' || /^Askerî yönetim/.test(name)) return dark() ? '#6b7280' : '#4b5563';
     if (name === 'Geçici Hükûmet' || /^Vekâleten/.test(name) || name === 'Bağımsız' || name === 'Bağımsızlar') return dark() ? '#8b929c' : '#9aa0a8';
     const k = (leg && leg.keys && leg.keys[name]) || A().partyKey(name);
@@ -94,7 +94,7 @@
     if (d >= '1920-04-23' && d < '1922-11-17' && vz) h += '<p class="note small">1920–1922 arasında İstanbul\'da Osmanlı hükûmeti, Ankara\'da TBMM hükûmeti birlikte vardı.</p>';
     const TH = H.tbmmHead;
     if (TH && inRange(TH, d)) h += `<div class="hc-row"><span class="muted">${esc(TH.title)}</span> <span class="sw" style="background:${nameColor('Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti')}"></span><b>${esc(TH.name)}</b><span class="muted"> · ${esc(A().fmtDate(TH.start))} – ${esc(A().fmtDate(TH.end))}</span></div>`;
-    if (d >= '1920-04-23' && d < '1923-08-11') h += `<p class="note small">Birinci Meclis'te parti yoktu. ${d < '1921-05-10' ? 'Milletvekilleri henüz gruplaşmamıştı; ' : ''}Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921'de, muhalif İkinci Grup Temmuz 1922'de resmen kuruldu. Grupların üye sayıları kaynaklarda farklı verildiği için burada derlenmedi; grafik dönem listesindeki vekil sayısını gösterir.</p>`;
+    if (d >= '1920-04-23' && d < '1923-08-11') h += `<p class="note small">Birinci Meclis'te parti yoktu. ${d < '1921-05-10' ? 'Milletvekilleri henüz gruplaşmamıştı; ' : ''}Müdâfaa-i Hukuk (Birinci) Grubu 10 Mayıs 1921'de, muhalif İkinci Grup 22 Temmuz 1922'de (63 milletvekili) kuruldu. Birinci Grubun üye sayısı kaynaklarda verilmediği için grupsuzlarla birlikte gösterilir.</p>`;
     if (d >= '1920-01-12' && d < '1920-04-23') h += '<p class="note small">Son Meclis-i Mebusan\'da Müdâfaa-i Hukuk çizgisindeki mebuslar Felâh-ı Vatan grubunu kurdu; grup dağılımı derlenmedi.</p>';
     if (p) h += `<div class="hc-row"><span class="muted">Cumhurbaşkanı</span> <span class="sw" style="background:${nameColor(p.party || 'Bağımsız')}"></span><b>${esc(p.name)}</b>${p.party ? ` <span class="muted">(${esc(p.party)})</span>` : ''}<span class="muted"> · ${esc(A().fmtDate(p.start))} – ${p.end ? esc(A().fmtDate(p.end)) : 'görevde'}</span></div>`;
     if (g) {

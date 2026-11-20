@@ -122,7 +122,7 @@ for eid, basis in (('1877-1', 'dinî mensubiyet'), ('1877-2', 'dinî mensubiyet'
                    ('1912', 'siyasi mensubiyet (Vikipedi listesi)'), ('1914', 'siyasi mensubiyet (Vikipedi listesi)'), ('1919', None), ('1920', None)):
     d = json.load(open(os.path.join(ROOT, 'data', 'elections', eid + '.json')))
     n = d['national']; tot = n.get('members_initial') or 0
-    seats = dict(n.get('seats') or {}) or {'Grup dağılımı derlenmedi': tot}
+    seats = dict(n.get('seats') or {}) or {('Grupsuz (henüz grup yok)' if eid == '1920' else 'Grup dağılımı derlenmedi'): tot}
     parl.append({'id': eid, 'date': d['date'], 'total': sum(seats.values()), 'seats': seats, 'basis': basis or 'grup verisi derlenmedi',
                  'listed': True, 'source': 'data/elections/%s.json' % eid})
 # 1923–1946: seçim maddelerinin bilgi kutuları ve 1946 sonuç tablosu
@@ -152,7 +152,12 @@ for e in idx:
 # Dönem içi değişiklikler (seçimle değil, parti kuruluşu/kapanışıyla): yaklaşık dağılımlar
 TCF_SRC = WIKI + 'Terakkiperver_Cumhuriyet_Fırkası'
 SCF_SRC = WIKI + 'Serbest_Cumhuriyet_Fırkası'
+II_SRC = 'https://en.wikipedia.org/wiki/Second_Group_(Turkey)'
 INTERIM = [
+    {'id': '1920', 'date': '1921-05-10', 'seats': {'Birinci Grup ve grupsuzlar': 434}, 'source': II_SRC, 'basis': 'Birinci Grubun üye sayısı kaynaklarda yok',
+     'change': 'Mustafa Kemal Paşa\'nın önderliğinde Müdâfaa-i Hukuk (Birinci) Grubu kuruldu. Grubun üye sayısı kaynaklarda verilmediği için grupsuzlarla birlikte gösterilir.'},
+    {'id': '1920', 'date': '1922-07-22', 'seats': {'Birinci Grup ve grupsuzlar': 371, 'İkinci Grup': 63}, 'source': II_SRC, 'basis': 'İkinci Grup 63 milletvekili (İngilizce Vikipedi)',
+     'change': 'Muhalif İkinci Grup kuruldu (63 milletvekili). Kalanlar Birinci Grup ve grupsuzlardır; Birinci Grubun tek başına sayısı bilinmiyor.'},
     {'id': '1923', 'date': '1923-09-09', 'seats': {'Cumhuriyet Halk Fırkası': 285, 'Bağımsız': 1}, 'source': WIKI + 'Cumhuriyet_Halk_Partisi',
      'change': 'Müdâfaa-i Hukuk grubu Halk Fırkası\'na dönüştü (9 Eylül 1923); 1924\'te adı Cumhuriyet Halk Fırkası oldu.'},
     {'id': '1923', 'date': '1924-11-17', 'seats': {'Cumhuriyet Halk Fırkası': 256, 'Terakkiperver Cumhuriyet Fırkası': 29, 'Bağımsız': 1}, 'source': TCF_SRC,
@@ -296,7 +301,7 @@ for d, t, x in [
     ('1920-04-23', 'sistem', 'Büyük Millet Meclisi Ankara\'da açıldı'),
     ('1921-01-20', 'sistem', 'Teşkilât-ı Esasiye Kanunu kabul edildi'),
     ('1921-05-10', 'olay', 'TBMM\'de Müdâfaa-i Hukuk (Birinci) Grubu kuruldu'),
-    ('1922-07', 'olay', 'Muhalif İkinci Grup resmen kuruldu'),
+    ('1922-07-22', 'olay', 'Muhalif İkinci Grup kuruldu (63 milletvekili)'),
     ('1922-11-01', 'sistem', 'Saltanat kaldırıldı'),
     ('1923-10-29', 'sistem', 'Cumhuriyet ilan edildi'),
     ('1924-03-03', 'sistem', 'Halifelik kaldırıldı'),
@@ -322,7 +327,7 @@ name_keys.update({'Cumhuriyet Halk Fırkası': 'CHP', 'Cumhuriyet Halk Partisi':
                   'Müdâfaa-i Hukuk (Birinci Grup)': 'Müdâfaa-i Hukuk (Birinci Grup)',
                   'Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti': 'Müdâfaa-i Hukuk (Birinci Grup)',
                   'Milliyetçi Hareket Partisi': 'MHP', 'Millet Partisi': 'MP62', 'Yeni Türkiye Partisi': 'YTP61',
-                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Terakkiperver Cumhuriyet Fırkası': 'Terakkiperver Cumhuriyet Fırkası', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti', 'Yeni Parti': 'Yeni Parti',
+                  'Sosyaldemokrat Halkçı Parti': 'SHP', 'Terakkiperver Cumhuriyet Fırkası': 'Terakkiperver Cumhuriyet Fırkası', 'Birinci Grup ve grupsuzlar': 'Müdâfaa-i Hukuk (Birinci Grup)', 'İkinci Grup': 'İkinci Grup', 'Demokratik Parti': 'DEMP73', 'Bağımsız / Adalet ve Kalkınma Partisi': 'AK Parti', 'Yeni Parti': 'Yeni Parti',
                   'İttihat ve Terakki Fırkası': 'İttihat ve Terakki', 'Hürriyet ve İtilaf Fırkası': 'Hürriyet ve İtilaf', 'Osmanlı Ahrar Fırkası': 'Ahrar',
                   'Millî Selâmet Partisi': 'MSP', 'Birlik Partisi': 'TBP73', 'Hürriyet Partisi': 'HP57', 'Serbest Cumhuriyet Fırkası': 'Serbest Cumhuriyet Fırkası'})
 

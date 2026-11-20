@@ -30,7 +30,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null };
-  const VERSION = '3.1.3';
+  const VERSION = '3.1.4';
   const cache = { geo: {}, el: {} };
 
   async function getJSON(url) {
