@@ -82,6 +82,12 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   await p.evaluate(() => { location.hash = 'e=1950yerel&m=winner&l=ilce'; }); await p.waitForTimeout(3000);
   const s50 = await p.evaluate(() => { const u = Object.values(window.Atlas.state.data.units).find((x) => x.name === 'Sürmene'); return u && (u.added || []).map((a) => a.ad); });
   if (!s50 || !s50.includes('Araklı')) bad.push('1950 Sürmene Araklı içermiyor: ' + JSON.stringify(s50));
+  // ilçe düzeyinde karşılaştırma: sağ harita da ilçe düzeyinde
+  await p.evaluate(() => { location.hash = 'e=2023&m=winner&l=ilce'; }); await p.waitForTimeout(2500);
+  await p.click('#cmpBtn'); await p.waitForTimeout(3000);
+  const ci = await p.evaluate(() => document.querySelectorAll('#map2 path.leaflet-interactive').length);
+  if (ci < 900) bad.push(`ilçe karşılaştırmasında sağ harita ${ci} birim`);
+  await p.click('#cmpBtn'); await p.waitForTimeout(500);
   // geçerli oy / seçmen oranı yalnız ikisi de bilinen illerden (1957'de geçerli oy tek ilde: oran gösterilmemeli)
   await p.evaluate(() => { location.hash = 'e=1957'; }); await p.waitForTimeout(1200);
   const kv57 = await p.$$eval('#electionInfo dl.kv dd', (x) => x.map((d) => d.textContent));

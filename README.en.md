@@ -10,7 +10,7 @@ Together with parliaments, governments, sultans, presidents, parties and politic
 [**Open the site →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/?lang=en)
 
 [![Deploy](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Version](https://img.shields.io/badge/version-3.5.0-8d1c1c)
+![Version](https://img.shields.io/badge/version-3.6.0-8d1c1c)
 ![Code license](https://img.shields.io/badge/code-MIT-2f6f4e)
 ![Data license](https://img.shields.io/badge/data-CC%20BY--SA%204.0-2a5d8f)
 

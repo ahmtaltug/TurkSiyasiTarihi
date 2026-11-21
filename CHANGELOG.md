@@ -1,5 +1,18 @@
 # Değişiklik günlüğü
 
+## 3.6.0 — 2026-11-21
+
+### Yeni
+- **Yeni tanıtım videosu ve GIF:** `docs/video/tanitim-16x9.mp4` (1920×1080, 30 fps) ve `docs/img/oynatma.gif` güncel arayüzle yeniden üretildi; eski videonun kapanış kartında eski site adresi yazıyordu. Üretim betikleri `scripts/video/` altında.
+- **İlçe düzeyinde karşılaştırma:** Karşılaştırma modu ilçe düzeyinde açıkken sağ harita da ilçe düzeyine geçer (önceden il düzeyinde kalıyor ve birimler eşleşmiyordu); sağ haritada da il sınırları çizilir. Boşluk doldurulmuş tarihî ilçe şekilleri seçimler arasında kökten eşleşir; değişim modu da aynı eşleşmeyi kullanır.
+- **Parti geçmişi:** Grafikteki her seçim için partinin birinci olduğu il sayısı; altta "en çok ilde birinci" satırı.
+- **Erişilebilirlik:** Seçilen birimin adı ve birinci partisi ekran okuyuculara duyurulur.
+
+### Düzeltmeler
+- İlçe haritasında il sınırı çizgileri, sayfa ilçe düzeyinde açıldığında ya da fareyle ilçelerin üzerinden geçildiğinde birimlerin altında kalıp kayboluyordu.
+- Harita klavyeyle odaktayken ← → tuşları hem haritayı kaydırıyor hem seçimi değiştiriyordu; artık yalnız haritayı kaydırır.
+- İngilizce arayüz: tahmini sınır lejantı, "Meclis dağılımı — grup" başlığı, bazı seçim tarih etiketleri ("1913–1914 kışı…", "15–20 Şubat (ikinci seçmenler)…"), "Devlet Başkanı ve Başbakan" unvanı, "Seçildiği parti/liste" gibi grup adları ve "(il merkezi belediyesi)" çevrilmiyordu.
+
 ## 3.5.0 — 2026-11-20
 
 ### İlçe haritalarında boş alanlar

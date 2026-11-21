@@ -15,7 +15,7 @@
     .replace(new RegExp(`\\b(${MRE}) (\\d{4})`, 'g'), (_, m, y) => `${MONTH[m]} ${y}`)
     .replace(new RegExp(`(\\d{1,2}(?:–\\d{1,2})?) (${MRE})\\b`, 'g'), (_, d, m) => `${MONTH[m]} ${d}`)
     .replace(new RegExp(`\\b(${MRE})\\b`, 'g'), (_, m) => MONTH[m])
-    .replace(/Meclis (.+?)'(?:de|da|te|ta) (İstanbul'da )?(açıldı|toplandı)/, (_, d, ist, v) => `parliament ${v === 'açıldı' ? 'opened' : 'convened'} ${ist ? 'in Istanbul ' : ''}on ${d}`)
+    .replace(/Meclis (.+?)'(?:de|da|te|ta) (İstanbul'da )?(açıldı|toplandı)/, (_, d, ist, v) => `parliament ${v === 'açıldı' ? 'opened' : 'convened'} ${ist ? 'in Istanbul ' : ''}${/\d,/.test(d) ? 'on' : 'in'} ${d}`)
     .replace(/(\d{4})–(\d{4}) kışı/, 'winter $1–$2').replace(/(\d{4}) sonu/, 'late $1').replace(' tarihli nizamname', ' regulation')
     .replace('(ikinci seçmenler)', '(second-stage electors)').replace('(milletvekilleri)', '(deputies)').replace('(iki dereceli)', '(two-stage)')
     .replace(/\) ve /g, ') and ').replace('günümüz', 'present').replace('görevde', 'in office');
@@ -123,6 +123,8 @@
     "TBMM'de Müdâfaa-i Hukuk (Birinci) Grubu kuruldu": 'Defence of Rights (First) Group formed in parliament', 'Muhalif İkinci Grup kuruldu (63 milletvekili)': 'Opposition Second Group formed (63 deputies)',
     'Meclis-i Umumi (Meclis-i Mebusan ve Âyan) ilk kez toplandı': 'Ottoman General Assembly convened for the first time', "II. Abdülhamid Meclis-i Mebusan'ı süresiz tatil etti": 'Abdülhamid II prorogued the Chamber indefinitely',
     "VI. Mehmed Meclis-i Mebusan'ı feshetti": 'Mehmed VI dissolved the Chamber of Deputies',
+    'Devlet Başkanı ve Başbakan': 'Head of State and PM', 'Seçildiği parti': 'Party elected for', 'Seçildiği liste': 'List elected on',
+    'Dönem içinde geçtiği parti': 'Party joined during the term', 'Dini mensubiyet': 'Religious affiliation', 'Etnik mensubiyet': 'Ethnic affiliation',
     '1980 öncesi siyasetçilere getirilen siyasi yasaklar halkoylamasıyla kaldırıldı': 'Political bans on pre-1980 politicians lifted in a referendum',
     'Yargı yapısını değiştiren ve bireysel başvuru hakkı getiren anayasa değişikliği halkoylamasıyla kabul edildi': 'Constitutional amendments reshaping the judiciary and introducing individual application approved in a referendum',
     'Değişen birimler': 'Units that changed', "27 Mayıs 1960 askerî darbesi (Bayar'ın görevi sona erdi; Millî Birlik Komitesi yönetimi)": 'Military coup of May 27, 1960 (President Bayar removed; rule of the National Unity Committee)',
@@ -213,6 +215,8 @@
     [/^· (.+)$/, (m, a) => `· ${tr(a)}`],
     [/ · /, 'SPLIT'],
     [new RegExp(`^(\\d{1,2} )?(${MRE}) (\\d{4})(.*)$`), (m) => date(m)],
+    // seçim tarih etiketleri: "1913–1914 kışı (…)", "1919 sonu (…)", "1877 (Meclis … toplandı)", "15–20 Şubat (ikinci seçmenler) ve …"
+    [new RegExp(`^(\\d{4}( sonu| \\(|–\\d{4} kışı)|\\d{1,2}(–\\d{1,2})? (${MRE}) \\().*$`), (m) => date(m)],
     [/^(.+) – (.+)$/, (m, a, b) => `${date(a)} – ${date(b)}`],
   ];
 
@@ -221,7 +225,7 @@
     [/(\d+)\. Türkiye Hükûmeti/g, (m, n) => `${ord(n)} Government of Turkey`], [/Ankara Hükûmeti/g, 'Ankara Government'],
     [/(\d+)\. İcra Vekilleri Heyeti/g, (m, n) => `${ord(n)} Executive Council`], [/\(Güvensizlik oyu\)/g, '(no confidence)'],
     [/ — hükûmet güvenoyu alamadı/g, ' — the government lost the vote'], [/\(Seçim hükûmeti\)/g, '(election government)'],
-    [/· Başbakan /g, '· PM '], [/· Devlet Başkanı ve Başbakan /g, '· Head of State and PM '], [/· Cumhurbaşkanı /g, '· President '], [/· İcra Vekilleri Heyeti Reisi /g, '· Head of the Executive Council '], [/· Muvakkat İcra Encümeni Reisi /g, '· Head of the Provisional Executive Committee '], [/Askerî Hükûmet/g, 'Military government'], [/Geçici Hükûmet/g, 'Caretaker government'], [/^Bağımsız \/ /, 'Independent / '], [/ · Bağımsız \/ /, ' · Independent / '],
+    [/· Başbakan /g, '· PM '], [/· Devlet Başkanı ve Başbakan /g, '· Head of State and PM '], [/· Cumhurbaşkanı /g, '· President '], [/· İcra Vekilleri Heyeti Reisi /g, '· Head of the Executive Council '], [/· Muvakkat İcra Encümeni Reisi /g, '· Head of the Provisional Executive Committee '], [/Askerî Hükûmet/g, 'Military government'], [/Geçici Hükûmet/g, 'Caretaker government'], [/^Bağımsız \/ /, 'Independent / '], [/ \(il merkezi belediyesi\)/g, ' (provincial centre municipality)'], [/ · Bağımsız \/ /, ' · Independent / '],
     [/Güvenoyu gerekmiyor\./g, 'Not required.'], [/Güven oylaması yapılmadı\./g, 'No confidence vote held.'], [/\(Başkanlık sistemi\)/g, '(presidential system)'],
   ];
   function tr(s) {
