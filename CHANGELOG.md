@@ -1,5 +1,13 @@
 # Değişiklik günlüğü
 
+## 3.7.0 — 2026-11-21
+
+- **Seçim sayfaları (arama motorları için):** Uygulama tek sayfalık olduğu ve seçimler adresin `#` kısmıyla açıldığı için arama motorları seçimleri ayrı sayfa olarak dizine almıyordu. Yayın sırasında her seçime JavaScript gerektirmeyen bir sayfa üretilir (`secim/1977/` gibi): açıklama, ülke geneli ve il il sonuçlar, 1950 öncesinde vekil adları, kaynaklar ve "haritada aç" bağlantısı. Ayrıca bütün seçimlerin liste sayfası (`secim/`), `sitemap.xml`, yapılandırılmış veri (schema.org) ve kanonik adresler. Sayfalar depoya işlenmez; güncel durumla birlikte her yayında yeniden üretilir (`scripts/build_pages.py`).
+- **Sitene göm:** Yeni düğme, görüntülenen haritayı (seçim, görünüm, parti, il) bir haber ya da blog sayfasına eklemek için iframe kodu verir. Gömülü görünüm (`?embed=1`) yalnız haritayı, lejantı ve tıklanınca tam atlası açan ince bir başlık şeridini gösterir.
+- **Sekme başlığı** görüntülenen seçime göre değişir (paylaşımlarda ve tarayıcı geçmişinde seçim adı görünür).
+- **Zenodo:** Sürümlerin kalıcı arşivi ve DOI için meta veri (`.zenodo.json`); Zenodo–GitHub bağlantısı depo sahibince açılınca etkinleşir.
+- **Bağış:** Hakkında penceresinde "Destek olun" bölümü ve GitHub "Sponsor" düğmesi için `.github/FUNDING.yml` hazırlandı. Bağlantılar eklenene kadar görünmez (`js/app.js` içindeki `DONATE` listesi).
+
 ## 3.6.0 — 2026-11-21
 
 ### Yeni
