@@ -16,7 +16,7 @@ Together with parliaments, governments, sultans, presidents, parties and politic
 
 <img src="docs/img/oynatma.gif" alt="Time-lapse playback of parliamentary elections from 1908 to 2023" width="900">
 
-▶ [Intro video (73 s)](docs/video/tanitim-16x9.mp4)
+▶ [Intro video (90 s, 1080p)](docs/video/tanitim-16x9.mp4)
 
 </div>
 
@@ -40,6 +40,10 @@ Together with parliaments, governments, sultans, presidents, parties and politic
 <tr>
 <td><img src="docs/img/osmanli-1912.jpg" alt="1912 Ottoman general election, dark theme"><br><sub><b>Ottoman period:</b> The 1912 election, deputies per sanjak (dark theme).</sub></td>
 <td><img src="docs/img/animasyon.jpg" alt="Events and animation view"><br><sub><b>Events and animation:</b> Parliament, government and events at the selected date.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/img/harita.jpg" alt="2024 local elections by district"><br><sub><b>District level:</b> The 2024 local elections in 973 districts; older elections use the district boundaries of their time.</sub></td>
+<td><img src="docs/img/guncel.jpg" alt="Current state: parliament and provincial mayors"><br><sub><b>Current state:</b> Today's parliament and the 81 provincial mayors, updated daily.</sub></td>
 </tr>
 </table>
 
@@ -105,7 +109,7 @@ Details: [docs/DOGRULAMA.md](docs/DOGRULAMA.md) · Release history: [CHANGELOG.m
 
 ## Intro video
 
-`docs/video/tanitim-16x9.mp4` (1920×1080): a real screen recording of the site; music and sound effects were synthesised for this project.
+`docs/video/tanitim-16x9.mp4` (1920×1080, 30 fps, 90 s): edited frame by frame from real screenshots of the site; music and sound effects were synthesised for this project. The video, GIF, README images and social preview can be rebuilt with the scripts in `scripts/video/` (see the Turkish README for the commands).
 
 ## Citation
 

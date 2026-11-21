@@ -239,7 +239,7 @@
       style: (f) => styleFor(d.units[f.properties.id]),
       onEachFeature: (f, layer) => {
         layer.on({
-          mouseover: () => { layer.setStyle({ weight: borderWeight() + 1.4, color: T.hover }); layer.bringToFront(); if (hatchLayer) hatchLayer.bringToFront(); },
+          mouseover: () => { layer.setStyle({ weight: borderWeight() + 1.4, color: T.hover }); layer.bringToFront(); },
           mouseout: () => { unitLayer && unitLayer.resetStyle(layer); markSelected(); },
           click: () => selectUnit(f.properties.id),
         });
@@ -1518,7 +1518,8 @@
     navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Service worker kaydedilemedi', e));
   }
   let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
-  window.Atlas = { L: TL, LANG, state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, partyNameAt, nameAtDate, lineageHtml, bindLineage,
+  // map: testler ve tanıtım videosu otomasyonu için
+  window.Atlas = { L: TL, LANG, state, map, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, partyNameAt, nameAtDate, lineageHtml, bindLineage,
                    hemicycle, EV_LABEL, loadElection, LOC, pct, isDark: () => T === THEMES.dark, writeHash, ready: appReady, issueUrl, bindReport, stopPlay: () => { if (state.play.on) stopPlay(); },
                    refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });

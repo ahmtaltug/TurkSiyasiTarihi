@@ -82,6 +82,12 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   await p.evaluate(() => { location.hash = 'e=1950yerel&m=winner&l=ilce'; }); await p.waitForTimeout(3000);
   const s50 = await p.evaluate(() => { const u = Object.values(window.Atlas.state.data.units).find((x) => x.name === 'Sürmene'); return u && (u.added || []).map((a) => a.ad); });
   if (!s50 || !s50.includes('Araklı')) bad.push('1950 Sürmene Araklı içermiyor: ' + JSON.stringify(s50));
+  // taralı (tahmini sınırlı) birimleri olan haritada tıklama birimi seçmeli (üzerine gelince tarama katmanı taşınınca tıklama kayboluyordu)
+  await p.evaluate(() => { location.hash = 'e=1923'; }); await p.waitForTimeout(1500);
+  { const r = await p.$eval('#map', (e) => { const b = e.getBoundingClientRect(); return { x: b.x + b.width * 0.45, y: b.y + b.height * 0.5 }; });
+    await p.mouse.click(r.x, r.y); await p.waitForTimeout(600);
+    if (!(await p.evaluate(() => location.hash.includes('u=')))) bad.push('1923 haritasında tıklama birim seçmedi');
+    await p.keyboard.press('Escape'); }
   // ilçe düzeyinde karşılaştırma: sağ harita da ilçe düzeyinde
   await p.evaluate(() => { location.hash = 'e=2023&m=winner&l=ilce'; }); await p.waitForTimeout(2500);
   await p.click('#cmpBtn'); await p.waitForTimeout(3000);
