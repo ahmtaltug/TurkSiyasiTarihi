@@ -14,8 +14,6 @@
 <meta property="og:image:width" content="1280"><meta property="og:image:height" content="640">
 <meta property="og:locale" content="tr_TR">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="canonical" href="https://ahmtaltug.github.io/TurkiyeSecimAtlasi/">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Türkiye Seçim Atlası","alternateName":"Turkey Election Atlas","url":"https://ahmtaltug.github.io/TurkiyeSecimAtlasi/","inLanguage":["tr","en"],"description":"1840'tan bugüne Osmanlı ve Türkiye Cumhuriyeti seçimleri, döneminin sınırlarıyla etkileşimli harita; il ve ilçe sonuçları, meclisler, hükûmetler ve partiler.","license":"https://creativecommons.org/licenses/by-sa/4.0/"}</script>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -25,12 +23,10 @@
     var p = localStorage.getItem('theme') || 'auto';
     var dark = p === 'dark' || (p === 'auto' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
-    // başka sitelere gömülü görünüm (?embed=1): yalnız harita
-    if (/[?&]embed=1\b/.test(location.search)) document.documentElement.classList.add('embed');
   })();
 </script>
 <link rel="stylesheet" href="vendor/leaflet.css">
-<link rel="stylesheet" href="css/app.css?v=3.7.0">
+<link rel="stylesheet" href="css/app.css?v=3.6.0">
 </head>
 <body>
 <header class="topbar">
@@ -74,7 +70,6 @@
     <button id="cmpBtn" class="btn ghost" type="button" aria-pressed="false" title="İki seçimi yan yana haritada karşılaştır">⇆<span class="long"> Karşılaştır</span></button>
     <span class="spacer"></span>
     <button id="shareBtn" class="btn ghost" type="button" title="Bu görünümün bağlantısını kopyala"><span class="long">Bağlantıyı kopyala</span><span class="short">Paylaş</span></button>
-    <button id="embedBtn" class="btn ghost" type="button" title="Bu haritayı başka bir sitede göstermek için kod"><span class="long">Sitene göm</span><span class="short">Göm</span></button>
     <button id="csvBtn" class="btn ghost" type="button" title="Bu seçimin il verisini CSV olarak indir"><span class="long">CSV indir</span><span class="short">CSV</span></button>
   </div>
   <div class="timeline" id="timeline" aria-label="Zaman çizelgesi"></div>
@@ -88,7 +83,6 @@
     <div class="event-ticker" id="eventTicker" hidden aria-live="polite"></div>
     <div class="cmp-label a" id="cmpLabelA"></div>
     <div class="sr-only" id="srStatus" aria-live="polite"></div>
-    <a class="embed-bar" id="embedBar" href="./" target="_blank" rel="noopener"></a>
     <div class="loading" id="loading" hidden role="status"><span class="spin" aria-hidden="true"></span>Yükleniyor…</div>
     <div class="legend" id="legend"></div>
     <div class="map-tools">
@@ -159,7 +153,6 @@
     <li><b>Swing:</b> compares the selected party with the previous election of the same type, province by province.</li>
     <li><b>Keyboard:</b> ← → previous/next election, space play/pause, / search, Esc closes the selected unit.</li>
     <li><b>Compare (⇆):</b> shows two elections side by side.</li>
-    <li><b>Embed:</b> gives ready-made code to put the current map on a news or blog page.</li>
     <li><b>Language:</b> the button at the top switches between Turkish and English; the choice is stored in your browser.</li>
   </ul>
 </template>
@@ -224,21 +217,9 @@
     <li><b>Karşılaştır (⇆):</b> Seçili seçimi, paneldeki listeden seçeceğiniz başka bir seçimle yan yana gösterir.</li>
     <li><b>Demografi:</b> Panelin altındaki bölüm, il göstergeleriyle seçim sonucunu saçılım grafiğinde karşılaştırır.</li>
     <li><b>CSV indir:</b> Görüntülenen seçimin il verisini Excel'de açılabilen bir dosya olarak indirir.</li>
-    <li><b>Sitene göm:</b> Görüntülenen haritayı bir haber ya da blog sayfasına koymak için hazır kod verir.</li>
   </ul>
   </div>
-  <p><a href="secim/">Bütün seçimlerin metin sayfaları</a> (il il sonuçlar ve kaynaklar; arama motorları ve ekran okuyucular için).</p>
   <p class="muted">Bu sitedeki derlenmiş veri, kaynaklarının lisansı gereği CC BY-SA 4.0 ile paylaşılır. <span id="version"></span> · <a href="https://github.com/ahmtaltug/TurkiyeSecimAtlasi" target="_blank" rel="noopener">Kaynak kod</a></p>
-</dialog>
-
-<dialog id="embedDlg" aria-labelledby="embedTitle">
-  <form method="dialog"><button class="btn ghost close" aria-label="Kapat">✕</button></form>
-  <h2 id="embedTitle">Haritayı sitene göm</h2>
-  <p>Aşağıdaki kodu bir haber ya da blog sayfasına yapıştırın. Harita şu anki görünümle (seçim, görünüm, parti, il) açılır; okuyucu üzerine tıklayınca tam atlası açabilir.</p>
-  <label class="lbl">Yükseklik <select id="embedH"><option value="420">420 px</option><option value="520" selected>520 px</option><option value="640">640 px</option></select></label>
-  <textarea id="embedCode" readonly rows="5" aria-label="Gömme kodu"></textarea>
-  <p><button id="embedCopy" class="btn" type="button">Kodu kopyala</button> <a id="embedPreview" class="btn ghost" href="#" target="_blank" rel="noopener">Önizle</a></p>
-  <p class="muted small">Veri CC BY-SA 4.0 lisanslıdır; gömülü harita kaynağı ve atıfları kendi içinde gösterir.</p>
 </dialog>
 
 <section id="historyDlg" class="history-view" hidden aria-labelledby="histTitle">
@@ -263,11 +244,11 @@
     </pattern>
   </defs>
 </svg>
-<noscript><p style="padding:16px">Bu harita JavaScript gerektirir. Seçim sonuçlarının metin sürümü: <a href="secim/">bütün seçimler</a>.</p></noscript>
+<noscript><p style="padding:16px">Bu harita JavaScript gerektirir.</p></noscript>
 <script defer src="vendor/leaflet.js"></script>
 <script defer src="vendor/topojson-client.min.js"></script>
-<script defer src="js/i18n.js?v=3.7.0"></script>
-<script defer src="js/app.js?v=3.7.0"></script>
-<script defer src="js/history.js?v=3.7.0"></script>
+<script defer src="js/i18n.js?v=3.6.0"></script>
+<script defer src="js/app.js?v=3.6.0"></script>
+<script defer src="js/history.js?v=3.6.0"></script>
 </body>
 </html>

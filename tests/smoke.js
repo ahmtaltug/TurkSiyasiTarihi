@@ -108,11 +108,6 @@ const BASE = process.env.BASE_URL || 'http://localhost:8765/';
   const alive30 = await p.$eval('#aAlive', (x) => x.textContent).catch(() => '');
   if (!/Cumhuriyet Halk Fırkası/.test(alive30)) bad.push('1930 faal partiler: ' + alive30.slice(0, 120));
   await p.keyboard.press('Escape');
-  // gömülü görünüm: üst çubuk ve panel gizli, harita ve başlık şeridi görünür
-  await p.goto('http://localhost:8765/?embed=1#e=2023'); await p.waitForTimeout(2500);
-  const emb = await p.evaluate(() => ({ top: getComputedStyle(document.querySelector('.topbar')).display, panel: getComputedStyle(document.querySelector('.panel')).display,
-    bar: document.querySelector('#embedBar').textContent, paths: document.querySelectorAll('#map path.leaflet-interactive').length }));
-  if (emb.top !== 'none' || emb.panel !== 'none' || !/2023/.test(emb.bar) || emb.paths < 70) bad.push('gömülü görünüm: ' + JSON.stringify(emb));
   // İngilizce arayüz
   await p.goto('http://localhost:8765/?lang=en#e=2023'); await p.waitForTimeout(2500);
   const h1 = await p.$eval('.brand h1', (x) => x.textContent);

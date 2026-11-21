@@ -33,11 +33,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
-  const VERSION = '3.7.0';
-  const EMBED = document.documentElement.classList.contains('embed');   // başka sitelere gömülü görünüm (?embed=1)
-  // Bağış bağlantıları: hesap açılınca doldurun; liste boşken sitede hiçbir bağış öğesi görünmez.
-  // Örnek: { name: 'Kreosus', url: 'https://kreosus.com/KULLANICI' }, { name: 'GitHub Sponsors', url: 'https://github.com/sponsors/ahmtaltug' }
-  const DONATE = [];
+  const VERSION = '3.6.0';
   const cache = { geo: {}, el: {}, ilce: {} };
   const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
   // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)
@@ -817,11 +813,8 @@
     if (d.notes && d.notes.length) h += '<h3>Notlar</h3>' + d.notes.filter(Boolean).map((n) => `<p class="note">${esc(n)}</p>`).join('');
     if (d.sources && d.sources.length) h += '<h3>Kaynak</h3>' + d.sources.map((s) => `<p class="src"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></p>`).join('');
     h += '<p class="report"><a class="report-link" href="#" target="_blank" rel="noopener">Bu kayıtta hata mı var? Bildirin</a></p>';
-    if (DONATE.length) h += `<p class="report"><a href="#" class="donate-link">${TL('Bu ücretsiz projeyi destekleyin', 'Support this free project')}</a></p>`;
     $('#notesBox').innerHTML = h;
     bindReport($('#notesBox'), () => d.title + (state.unit && d.units[state.unit] ? ' — ' + d.units[state.unit].name : ''));
-    const dl = $('#notesBox .donate-link');
-    if (dl) dl.addEventListener('click', (e) => { e.preventDefault(); $('#about').showModal(); const s = document.getElementById('donate'); if (s) s.scrollIntoView(); });
   }
 
   // GitHub hata formu: kayıt alanı o anki bağlantıyla dolu açılır
@@ -953,8 +946,6 @@
     else if (!choices.includes(state.party)) state.party = choices[0];
     if (!(opts.unit && d.units[opts.unit])) { if (!(state.unit && d.units[state.unit])) state.unit = null; } else state.unit = opts.unit;
     renderElectionInfo(); renderModes(); renderUnit(); renderTable(); renderNotes(); renderTimeline(); renderSearch(); renderDemo();
-    const tt = window.I18N ? I18N.t(d.title) : d.title;   // sekme başlığı ve paylaşımlar için
-    document.title = `${tt} · ${TL('Türkiye Seçim Atlası', 'Turkey Election Atlas')}`;
     await draw();
     writeHash();
     updateYearBadge();
@@ -989,27 +980,6 @@
     if (state.cmp.on && state.cmp.id) p.set('c', state.cmp.id);
     if (state.data && state.data.level === 'ilçe') p.set('l', 'ilce');
     history.replaceState(null, '', '#' + p.toString());
-    updateEmbedBar();
-  }
-  // gömülü görünümde üstteki şerit: seçim, seçili birim ve tam atlasa bağlantı
-  function updateEmbedBar() {
-    const bar = document.getElementById('embedBar');
-    if (!EMBED || !bar || !state.data) return;
-    const u = new URL(location.href); u.searchParams.delete('embed');
-    bar.href = u.toString();
-    const su = state.unit && state.data.units[state.unit];
-    const t = window.I18N ? I18N.t(state.data.title) : state.data.title;
-    bar.innerHTML = `<span class="t">${esc(t)}</span>${su ? `<span class="u">${esc(uname(su))}${su.winner ? ': ' + esc(pLabel(su.winner)) : ''}${su.winner && su.pct && su.pct[su.winner] != null ? ' ' + pf(su.pct[su.winner]) : ''}</span>` : ''}` +
-      `<span class="go">${TL('Türkiye Seçim Atlası', 'Turkey Election Atlas')} ↗</span>`;
-  }
-  // "Sitene göm": şu anki görünüm için iframe kodu
-  function embedCode() {
-    const u = new URL(location.href); u.searchParams.set('embed', '1');
-    if (LANG === 'en') u.searchParams.set('lang', 'en'); else u.searchParams.delete('lang');
-    const h = ($('#embedH') && $('#embedH').value) || '520';
-    const t = state.data ? (window.I18N ? I18N.t(state.data.title) : state.data.title) : '';
-    $('#embedPreview').href = u.toString();
-    $('#embedCode').value = `<iframe src="${u.toString()}" title="${esc(t)} — ${TL('Türkiye Seçim Atlası', 'Turkey Election Atlas')}" width="100%" height="${h}" style="border:0;max-width:100%" loading="lazy"></iframe>`;
   }
 
   // ------------------------------------------------------------------ tema (sistem / açık / koyu)
@@ -1495,25 +1465,12 @@
     $('#speedSel').addEventListener('change', (e) => { state.play.speed = Number(e.target.value); });
     $('#skipEmpty').addEventListener('change', (e) => { state.play.skipEmpty = e.target.checked; updateYearBadge(); });
     $('#csvBtn').addEventListener('click', downloadCsv);
-    $('#embedBtn').addEventListener('click', () => { embedCode(); $('#embedDlg').showModal(); $('#embedCode').select(); });
-    $('#embedH').addEventListener('change', embedCode);
-    $('#embedCopy').addEventListener('click', async (e) => {
-      const b = e.currentTarget, old = b.textContent;
-      try { await navigator.clipboard.writeText($('#embedCode').value); b.textContent = 'Kopyalandı ✓'; } catch (_) { $('#embedCode').select(); }
-      setTimeout(() => { b.textContent = old; }, 1500);
-    });
     $('#cmpBtn').addEventListener('click', () => setCompare(!state.cmp.on));
     const lb = $('#langBtn');
     lb.textContent = LANG === 'en' ? 'Türkçe' : 'English'; lb.lang = LANG === 'en' ? 'tr' : 'en';
     lb.addEventListener('click', () => window.I18N && I18N.set(LANG === 'en' ? 'tr' : 'en'));
     $('#shareBtn').addEventListener('click', (e) => copyLink(e.currentTarget));
     $('#version').textContent = 'Sürüm ' + VERSION;
-    if (DONATE.length) {
-      const sec = document.createElement('section'); sec.id = 'donate';
-      sec.innerHTML = `<h3>${TL('Destek olun', 'Support the project')}</h3><p>${TL('Atlas ücretsiz, reklamsız ve açık kaynaktır. Veri doğrulama, yeni seçimlerin eklenmesi ve bakım için gönüllü destek verebilirsiniz.', 'The atlas is free, ad-free and open source. You can support data verification, new elections and upkeep with a voluntary contribution.')}</p>` +
-        '<p>' + DONATE.map((x) => `<a class="btn" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(' ') + '</p>';
-      $('#aboutBody').appendChild(sec);
-    }
     document.addEventListener('keydown', (e) => {
       if (e.target.closest('select, input, textarea, dialog[open]')) return;
       // harita odaktayken oklar haritayı kaydırır (Leaflet); seçim değiştirmez

@@ -464,20 +464,3 @@ a.btn { text-decoration: none; display: inline-flex; align-items: center; }
 
 /* yalnız ekran okuyucular için */
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
-
-/* gömülü görünüm (?embed=1) */
-.embed-bar { display: none; }
-html.embed .topbar, html.embed .controls, html.embed .panel, html.embed .map-tools, html.embed #historyDlg, html.embed #yearBadge, html.embed #eventTicker { display: none !important; }
-html.embed .layout, html.embed .layout.collapsed { grid-template-columns: minmax(0, 1fr) !important; grid-template-rows: minmax(0, 1fr) !important; }
-html.embed .map-wrap { min-height: 0; height: 100vh; }
-html.embed .embed-bar { display: flex; align-items: center; gap: 8px; position: absolute; left: 54px; right: 10px; top: 10px; z-index: 650; max-width: calc(100% - 64px); box-sizing: border-box;
-  background: var(--overlay); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; font-size: 13px; color: var(--ink); text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
-html.embed .embed-bar .t { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-html.embed .embed-bar .u { color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-html.embed .embed-bar .go { margin-left: auto; color: var(--accent); white-space: nowrap; }
-html.embed .embed-bar:hover .go { text-decoration: underline; }
-#embedDlg textarea { width: 100%; box-sizing: border-box; font: 12px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; margin: 8px 0; padding: 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--soft2); color: var(--ink); }
-dialog#embedDlg { max-width: 640px; width: calc(100% - 32px); border: 1px solid var(--line); border-radius: 10px; padding: 18px 22px; line-height: 1.5; font-size: 14px; background: var(--surface); color: var(--ink); }
-dialog#embedDlg::backdrop { background: rgba(0,0,0,.35); }
-dialog#embedDlg h2 { margin-top: 0; font-size: 18px; }
-dialog#embedDlg .close { position: absolute; right: 14px; top: 12px; }

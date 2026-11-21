@@ -20,8 +20,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: Veri denetimi
         run: python3 scripts/validate.py
-      - name: Seçim sayfaları üretilebiliyor mu
-        run: python3 scripts/build_pages.py /tmp/sayfalar
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -53,8 +51,6 @@ jobs:
           mkdir -p _site
           cp -r index.html favicon.svg sw.js manifest.webmanifest icons css js vendor data _site/
           touch _site/.nojekyll
-          # arama motorları için her seçime ayrı sayfa ve site haritası (secim/, sitemap.xml)
-          python3 scripts/build_pages.py _site
           # yayımlanan kopyada JS ve CSS sıkıştırılır (kaynak dosyalar değişmez)
           for f in js/app.js js/history.js css/app.css; do npx --yes esbuild@0.24.0 "_site/$f" --minify --allow-overwrite --outfile="_site/$f" --log-level=warning; done
       - uses: actions/configure-pages@v5
