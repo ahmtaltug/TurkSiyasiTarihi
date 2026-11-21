@@ -10,7 +10,7 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.7.0-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.6.0-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
@@ -69,8 +69,6 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 
 **Kullanım kolaylığı**
 - Her görünüm paylaşılabilir bağlantıyla açılır (ör. `#e=1946&u=istanbul`, `#v=tarih&t=chart&d=1960-05-27`).
-- **Sitene göm:** Görüntülenen harita tek tıkla haber ya da blog sayfasına eklenecek koda dönüşür (`?embed=1`).
-- **Metin sayfaları:** Her seçimin il il sonuçları ve kaynakları JavaScript gerektirmeyen ayrı bir sayfada (`secim/1977/` gibi); arama motorları ve ekran okuyucular için.
 - Türkçe ve İngilizce arayüz; açık ve koyu tema (tarayıcı tercihine göre), mobil uyumlu arayüz, klavye kısayolları (← → boşluk / Esc).
 - Çevrimdışı çalışır ve telefona uygulama olarak eklenebilir (PWA).
 
@@ -155,7 +153,6 @@ scripts/build_all.sh --wiki   # Vikipedi metinlerini de yeniden indirir (sonuçl
 | `scripts/build_geo.sh` | Sınırları birleştirir, sadeleştirir ve TopoJSON'a çevirir. |
 | `scripts/build_index.py` | Seçim listesini ve parti renklerini üretir. |
 | `scripts/descriptions.py` | 1950 sonrası seçim kayıtlarının kısa açıklamaları; `build_modern.py` kullanır, tek başına çalıştırılınca yayındaki veriye yazar. |
-| `scripts/build_pages.py` | Yayın sırasında her seçime ayrı metin sayfası (`secim/<kimlik>/`), liste sayfası ve `sitemap.xml` üretir. |
 | `scripts/build_history.py` | Hükûmetleri, cumhurbaşkanlarını, meclis dağılımlarını, parti soy ağacını, olayları ve il demografisini Vikipedi metinlerinden `data/history.json` ve `data/demographics.json` dosyalarına derler. |
 | `scripts/build_current.py` | Güncel durumu (TBMM sandalyeleri ve il belediye başkanları) Vikipedi'den derler; `.github/workflows/guncel.yml` ile her gün çalışır. |
 | `scripts/verify_wiki.py` | Parti ve aday adlarını seçimlerin Vikipedi maddeleriyle karşılaştırır (`scripts/fetch_sources.sh --verify` sonrası). |
