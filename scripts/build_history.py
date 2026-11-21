@@ -235,15 +235,16 @@ parties = uniq
 RENAMES = [
     {'date': '1924', 'from': 'Halk Fırkası', 'to': 'Cumhuriyet Halk Fırkası', 'party': 'Cumhuriyet Halk Partisi', 'note': 'Kuruluştan kısa süre sonra'},
     {'date': '1935', 'from': 'Cumhuriyet Halk Fırkası', 'to': 'Cumhuriyet Halk Partisi', 'party': 'Cumhuriyet Halk Partisi', 'note': '4. Kurultay'},
-    {'date': '1969-02-09', 'from': 'Cumhuriyetçi Köylü Millet Partisi', 'to': 'Milliyetçi Hareket Partisi', 'party': 'Milliyetçi Hareket Partisi', 'note': 'CKMP bilgi kutusundaki kapanış tarihi; madde: "1969\'da Milliyetçi Hareket Partisi adını almıştır"'},
+    {'date': '1969-02-09', 'from': 'Cumhuriyetçi Köylü Millet Partisi', 'to': 'Milliyetçi Hareket Partisi', 'party': 'Milliyetçi Hareket Partisi', 'kaynak': 'CKMP bilgi kutusundaki kapanış tarihi; madde: "1969\'da Milliyetçi Hareket Partisi adını almıştır"'},
     {'date': '1971-01-29', 'from': 'Güven Partisi', 'to': 'Millî Güven Partisi', 'party': 'Cumhuriyetçi Güven Partisi'},
     {'date': '1973-03-03', 'from': 'Millî Güven Partisi + Cumhuriyetçi Parti', 'to': 'Cumhuriyetçi Güven Partisi', 'party': 'Cumhuriyetçi Güven Partisi', 'note': 'Birleşme'},
     {'date': '1985-11-30', 'from': 'Muhafazakâr Parti', 'to': 'Milliyetçi Çalışma Partisi', 'party': 'Milliyetçi Çalışma Partisi'},
     {'date': '1993-01-24', 'from': 'Milliyetçi Çalışma Partisi', 'to': 'Milliyetçi Hareket Partisi', 'party': 'Milliyetçi Hareket Partisi'},
-    {'date': '2001-11-11', 'from': 'Sosyalist İktidar Partisi', 'to': 'Türkiye Komünist Partisi', 'party': 'Türkiye Komünist Partisi (2001)', 'note': 'Bilgi kutusu: 16 Ağustos 1993\'te Sosyalist İktidar Partisi olarak kuruldu'},
+    {'date': '2001-11-11', 'from': 'Sosyalist İktidar Partisi', 'to': 'Türkiye Komünist Partisi', 'party': 'Türkiye Komünist Partisi (2001)', 'kaynak': 'Bilgi kutusu: 16 Ağustos 1993\'te Sosyalist İktidar Partisi olarak kuruldu'},
     {'date': '2007-05-27', 'from': 'Doğru Yol Partisi', 'to': 'Demokrat Parti', 'party': 'Demokrat Parti (2007)', 'note': 'DYP\'nin kapanışı ile DP\'nin kuruluşu aynı gün'},
     {'date': '2023-10-15', 'from': 'Yeşiller ve Sol Gelecek Partisi', 'to': 'Halkların Eşitlik ve Demokrasi Partisi', 'party': 'Halkların Eşitlik ve Demokrasi Partisi',
-     'note': 'Bilgi kutusu: 30 Kasım 2012\'de Yeşiller ve Sol Gelecek Partisi olarak kuruldu; 2016\'dan itibaren kısa adı Yeşil Sol Parti. Ad değişikliğinden sonra benimsenen HEDEP kısaltması Yargıtay\'ın itirazı üzerine DEM Parti oldu'},
+     'note': '2016\'dan itibaren kısa adı Yeşil Sol Parti; yeni adın HEDEP kısaltması Yargıtay\'ın itirazı üzerine DEM Parti oldu',
+     'kaynak': 'Bilgi kutusu: 30 Kasım 2012\'de Yeşiller ve Sol Gelecek Partisi olarak kuruldu; madde metni (2016 kongresi, HEDEP kısaltması)'},
 ]
 
 

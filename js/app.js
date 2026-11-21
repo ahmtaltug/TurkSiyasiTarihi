@@ -33,7 +33,7 @@
                   mode: null, party: null, unit: null, geoFamily: null, prev: null, dom: null,
                   play: { on: false, timer: null, speed: 1, skipEmpty: true, lastDate: null },
                   cmp: { on: false, id: null, data: null, ctx: null }, hist: null, demo: null, level: 'il', ilceIdx: new Set() };
-  const VERSION = '3.5.0';
+  const VERSION = '3.6.0';
   const cache = { geo: {}, el: {}, ilce: {} };
   const uname = (u) => (u && u.il ? `${u.name} (${u.il})` : (u && u.name) || '');
   // ilçe düzeyi: il verisinin üstüne ilçe birimleri konur (ulusal toplam, notlar, kaynaklar il kaydından)
@@ -145,6 +145,15 @@
     return list.slice(0, 12);
   }
 
+  // İlçe düzeyinde boşluk doldurulmuş birimlerin kimliği "<şekil>~<ek>" biçimindedir: seçimler arası eşleştirme kökten yapılır
+  const baseId = (k) => String(k).replace(/~.*$/, '');
+  function byBase(d) {
+    if (!d._byBase) { d._byBase = {}; for (const k of Object.keys(d.units || {})) d._byBase[baseId(k)] = k; }
+    return d._byBase;
+  }
+  const unitIn = (d, k) => d && (d.units[k] || d.units[byBase(d)[baseId(k)]]);
+  // X'in birim anahtarı -> Y'nin birim anahtarı
+  const matchUnits = (X, Y) => Object.keys(X.units).map((k) => [k, Y.units[k] ? k : byBase(Y)[baseId(k)]]).filter((x) => x[1]);
   const uidMap = new WeakMap();
   const uid = (u) => uidMap.get(u);
   function indexUnits(d) { Object.entries(d.units).forEach(([k, u]) => uidMap.set(u, k)); }
@@ -156,7 +165,7 @@
       case 'turnout': return u.turnout ?? null;
       case 'count': return u.total || 0;
       case 'swing': {
-        const pu = c.prev && c.prev.units[uid(u)];
+        const pu = c.prev && unitIn(c.prev, uid(u));
         if (!u.pct || !pu || !pu.pct || u.pct[c.party] == null || pu.pct[c.party] == null) return null;
         return u.pct[c.party] - pu.pct[c.party];
       }
@@ -230,7 +239,7 @@
       style: (f) => styleFor(d.units[f.properties.id]),
       onEachFeature: (f, layer) => {
         layer.on({
-          mouseover: () => { layer.setStyle({ weight: borderWeight() + 1.4, color: T.hover }); layer.bringToFront(); if (hatchLayer) hatchLayer.bringToFront(); },
+          mouseover: () => { layer.setStyle({ weight: borderWeight() + 1.4, color: T.hover }); layer.bringToFront(); },
           mouseout: () => { unitLayer && unitLayer.resetStyle(layer); markSelected(); },
           click: () => selectUnit(f.properties.id),
         });
@@ -249,7 +258,11 @@
     }
     markSelected();
     renderLegend();
-    if (state.cmp.on) { drawCompare(); renderCompareBox(); }
+    if (state.cmp.on) {
+      const want = d.level === 'ilçe', has = !!(state.cmp.data && state.cmp.data.level === 'ilçe');
+      if (state.cmp.id && want !== has && (!want || state.ilceIdx.has(state.cmp.id))) await setCompareTarget(state.cmp.id);
+      else { drawCompare(); renderCompareBox(); }
+    }
   }
   function borderWeight() {
     const z = map.getZoom();
@@ -279,11 +292,18 @@
     renderDemo();
   }
   function markSelected() {
-    if (!state.unit) return;
-    for (const lay of [unitLayer, layer2]) {
-      if (lay) lay.eachLayer((l) => { if (l.feature.properties.id === state.unit) { l.setStyle({ weight: borderWeight() + 1.8, color: T.sel }); l.bringToFront(); } });
+    if (state.unit) {
+      for (const lay of [unitLayer, layer2]) {
+        if (lay) lay.eachLayer((l) => { if (l.feature.properties.id === state.unit || (lay === layer2 && baseId(l.feature.properties.id) === baseId(state.unit))) { l.setStyle({ weight: borderWeight() + 1.8, color: T.sel }); l.bringToFront(); } });
+      }
     }
+    overlaysFront();
+  }
+  // tarama ve il sınırı çizgileri birimlerin üstünde kalmalı (fareyle üzerinden geçilen ilçe öne alınınca kayboluyordu)
+  function overlaysFront() {
     if (hatchLayer) hatchLayer.bringToFront();
+    if (ilLayer) ilLayer.bringToFront();
+    if (ilLayer2) ilLayer2.bringToFront();
   }
 
   function tooltipHtml(f, c = state) {
@@ -339,12 +359,12 @@
     if (d.level === 'vilayet') return '';
     const n = Object.values(d.units).filter(approxUnit).length;
     if (!n) return '';
-    const t = d.level === 'ilçe' ? TL(`Sınırı kısmen tahmine dayanan ilçe (${n})`, `District with a partly estimated boundary (${n})`) : `Sınırı tahmine dayanan birim (${n})`;
+    const t = d.level === 'ilçe' ? TL(`Sınırı kısmen tahmine dayanan ilçe (${n})`, `District with a partly estimated boundary (${n})`) : TL(`Sınırı tahmine dayanan birim (${n})`, `Unit with an estimated boundary (${n})`);
     return `<label class="item hatch-toggle"><input type="checkbox" id="hatchChk" ${state.showHatch ? 'checked' : ''}><span class="sw hatch"></span><span class="muted">${t}</span></label>`;
   }
   function bindHatchToggle() {
     const c = document.getElementById('hatchChk');
-    if (c) c.addEventListener('change', () => { state.showHatch = c.checked; localStorage.setItem('hatch', c.checked ? '1' : '0'); if (state.fc) drawHatch(state.fc); });
+    if (c) c.addEventListener('change', () => { state.showHatch = c.checked; localStorage.setItem('hatch', c.checked ? '1' : '0'); if (state.fc) { drawHatch(state.fc); overlaysFront(); } });
   }
 
   // ------------------------------------------------------------------ panel
@@ -424,7 +444,7 @@
     // 1950 öncesi genel seçimler: meclis grafiği (listedeki vekiller; grup verisi yoksa tek renk)
     if (d.type === 'genel' && !(n.pct && Object.keys(n.pct).length) && (n.members_initial || (n.seats && Object.keys(n.seats).length))) {
       const ent = n.seats && Object.keys(n.seats).length ? Object.entries(n.seats).filter((e) => e[1] > 0) : [['Bilinmiyor', n.members_initial]];
-      h += `<h3>Meclis dağılımı${d.groupLabel ? ' — ' + esc(d.groupLabel.toLocaleLowerCase('tr')) : ''}</h3>` + hemicycle(ent) +
+      h += `<h3><span>Meclis dağılımı</span>${d.groupLabel ? ` — <span>${esc(d.groupLabel)}</span>` : ''}</h3>` + hemicycle(ent) +
         `<p class="hint small">${n.seats && Object.keys(n.seats).length ? TL('Dönem listesinden sayılan vekiller; gruplama kaynağın sınıflandırmasıdır.', 'Deputies counted from the list of the term; grouping follows the source.') : TL('Dönem listesindeki vekil sayısı; grup (parti) verisi derlenmedi.', 'Number of deputies in the list of the term; group (party) data not compiled.')}</p>`;
     }
     if (n.members_listed != null) {
@@ -612,7 +632,9 @@
       const v = x.national.pct[key]; if (v == null) return null;
       const n = (x.partyNames && x.partyNames[key]) || key;
       if (n !== name) return null;
-      return { e, y: Number(e.date.slice(0, 4)) + (e.date.slice(5, 7) - 1) / 12, v, seats: x.national.seats && x.national.seats[key] };
+      const us = Object.values(x.units || {}).filter((u) => !u.nodata && u.winner);
+      return { e, y: Number(e.date.slice(0, 4)) + (e.date.slice(5, 7) - 1) / 12, v, seats: x.national.seats && x.national.seats[key],
+               won: us.filter((u) => u.winner === key).length, of: us.length };
     }).filter(Boolean);
     // parti bir seçime girmediyse (ör. CHP 1983–1991) çizgi o aralıkta kesilir
     const segs = []; let cur = [];
@@ -626,11 +648,11 @@
       `<line x1="26" x2="${W - 12}" y1="${Y(0)}" y2="${Y(0)}"/><line x1="26" x2="${W - 12}" y1="${Y(ymax / 2)}" y2="${Y(ymax / 2)}" stroke-dasharray="2 3"/>` +
       `<text x="2" y="${Y(ymax) + 4}" font-size="9">${pct(ymax)}</text><text x="2" y="${Y(ymax / 2) + 3}" font-size="9">${pct(ymax / 2)}</text>` +
       segs.map((sg) => `<polyline fill="none" stroke="${c}" stroke-width="2.2" points="${sg.map((p) => X(p.y) + ',' + Y(p.v)).join(' ')}"/>`).join('');
-    for (const p of pts) svg += `<circle class="pt${p.e.id === d.id ? ' cur' : ''}" data-e="${esc(p.e.id)}" cx="${X(p.y)}" cy="${Y(p.v)}" r="${p.e.id === d.id ? 4.5 : 3.2}" fill="${c}"><title>${esc(p.e.title)}: ${pf(p.v)}${p.seats ? ' · ' + p.seats + ' sandalye' : ''}</title></circle>`;
+    for (const p of pts) svg += `<circle class="pt${p.e.id === d.id ? ' cur' : ''}" data-e="${esc(p.e.id)}" cx="${X(p.y)}" cy="${Y(p.v)}" r="${p.e.id === d.id ? 4.5 : 3.2}" fill="${c}"><title>${esc(p.e.title)}: ${pf(p.v)}${p.seats ? ' · ' + p.seats + ' sandalye' : ''} · ${TL(`${p.won} / ${p.of} ilde birinci`, `first in ${p.won} of ${p.of} provinces`)}</title></circle>`;
     svg += `<text x="26" y="${H - 3}" font-size="9">${Math.floor(x0)}</text><text x="${W - 12}" y="${H - 3}" font-size="9" text-anchor="end">${Math.floor(x1)}</text></svg>`;
-    const best = pts.reduce((a, b) => (b.v > a.v ? b : a));
+    const best = pts.reduce((a, b) => (b.v > a.v ? b : a)), most = pts.reduce((a, b) => (b.won > a.won ? b : a));
     box.innerHTML = `<div class="ph"><div class="ph-t"><span class="sw" style="background:${c}"></span><b>${esc(name)}</b> — ${TL(`ülke geneli oy, ${pts.length} seçim`, `national vote, ${pts.length} elections`)}</div>${svg}` +
-      `<div class="muted small">${TL('En yüksek', 'Highest')}: ${pf(best.v)} (${esc(best.e.date.slice(0, 4))}).${segs.length > 1 ? TL(' Çizgideki boşluklar, partinin listede ayrı yer almadığı seçimlerdir.', ' Gaps mean the party did not run separately.') : ''} ${TL('Noktaya tıklayınca o seçime geçilir.', 'Click a point to open that election.')}</div>` +
+      `<div class="muted small">${TL('En yüksek', 'Highest')}: ${pf(best.v)} (${esc(best.e.date.slice(0, 4))}).${most.won ? ' ' + TL(`En çok ilde birinci: ${most.won} / ${most.of} (${esc(most.e.date.slice(0, 4))}).`, `Most provinces won: ${most.won} of ${most.of} (${esc(most.e.date.slice(0, 4))}).`) : ''}${segs.length > 1 ? TL(' Çizgideki boşluklar, partinin listede ayrı yer almadığı seçimlerdir.', ' Gaps mean the party did not run separately.') : ''} ${TL('Noktaya tıklayınca o seçime geçilir.', 'Click a point to open that election.')}</div>` +
       '<details class="lin" id="partyLin" open><summary>Parti tarihçesi: kuruluş, kapanış, ad değişikliği, öncül ve ardıllar</summary><div class="lin-b">Yükleniyor…</div></details></div>';
     box.querySelectorAll('circle.pt').forEach((cc) => cc.addEventListener('click', () => go(cc.dataset.e, { keepMode: true })));
     loadHistory().then(() => {
@@ -810,6 +832,9 @@
   function selectUnit(id, zoom) {
     state.unit = id;
     restyle(); renderUnit(); renderTable(); writeHash();
+    // ekran okuyucular için seçilen birimin kısa özeti
+    const su = id && state.data && state.data.units[id], sr = $('#srStatus');
+    if (sr) sr.textContent = su ? `${uname(su)}${su.winner ? ': ' + (pFull(su.winner) || pLabel(su.winner)) : ''}${su.winner && su.pct && su.pct[su.winner] != null ? ' ' + pf(su.pct[su.winner]) : ''}` : '';
     if (zoom && unitLayer) unitLayer.eachLayer((l) => { if (l.feature.properties.id === id) map.flyToBounds(l.getBounds(), { maxZoom: 7.5, padding: [40, 40], duration: 0.6 }); });
   }
   function renderSearch() {
@@ -1101,7 +1126,7 @@
   }
 
   // ------------------------------------------------------------------ karşılaştırma modu (iki seçim yan yana)
-  let map2 = null, layer2 = null, syncing = false, worldFc = null;
+  let map2 = null, layer2 = null, ilLayer2 = null, syncing = false, worldFc = null;
   function cmpCtx() {
     const d = state.cmp.data; if (!d) return null;
     const ms = modesFor(d).map((m) => m[0]).filter((m) => m !== 'swing');
@@ -1140,10 +1165,13 @@
     $('#cmpLabelA').innerHTML = `<b>Sol:</b> ${esc(state.data.title)}`;
     if (!d.geo) {
       if (layer2) { map2.removeLayer(layer2); layer2 = null; }
+      if (ilLayer2) { map2.removeLayer(ilLayer2); ilLayer2 = null; }
       $('#cmpLabelB').innerHTML += ' <span class="muted">— harita verisi yok</span>';
       return;
     }
-    const fc = await loadGeo(d.geo);
+    let fc = await loadGeo(d.geo);
+    if (d.geo === 'ilce') fc = { type: 'FeatureCollection', features: fc.features.filter((f) => d.units[f.properties.id]) };
+    const ilFc = d.ilBase && d.ilBase.geo ? await loadGeo(d.ilBase.geo) : null;
     if (state.cmp.data !== d) return;
     updateDomain();
     const old = layer2;
@@ -1153,12 +1181,14 @@
         layer.on({
           mouseover: () => { layer.setStyle({ weight: borderWeight() + 1.4, color: T.hover }); layer.bringToFront(); },
           mouseout: () => { layer2 && layer2.resetStyle(layer); markSelected(); },
-          click: () => { if (state.data.units[f.properties.id]) selectUnit(f.properties.id); },
+          click: () => { const k = state.data.units[f.properties.id] ? f.properties.id : byBase(state.data)[baseId(f.properties.id)]; if (k) selectUnit(k); },
         });
         layer.bindTooltip(() => tooltipHtml(f, state.cmp.ctx), { sticky: true, className: 'unit-tip', direction: 'top', offset: [0, -6] });
       },
     }).addTo(map2);
     if (old) map2.removeLayer(old);
+    if (ilLayer2) { map2.removeLayer(ilLayer2); ilLayer2 = null; }
+    if (ilFc) ilLayer2 = L.geoJSON(ilFc, { interactive: false, style: () => ({ fill: false, color: T.ilLine, weight: 1.3, opacity: 0.9 }) }).addTo(map2);
     if (unitLayer) unitLayer.setStyle((f) => styleFor(state.data.units[f.properties.id]));
     markSelected(); renderLegend();
   }
@@ -1182,7 +1212,11 @@
   }
   async function setCompareTarget(id) {
     state.cmp.id = id;
-    try { state.cmp.data = await loadElection(id); indexUnits(state.cmp.data); } catch (e) { state.cmp.data = null; }
+    try {
+      let x = await loadElection(id); indexUnits(x);
+      if (state.data && state.data.level === 'ilçe' && state.ilceIdx.has(id)) x = await ilceView(x);
+      state.cmp.data = x;
+    } catch (e) { state.cmp.data = null; }
     if (state.cmp.id !== id) return;
     await drawCompare(); renderCompareBox(); writeHash();
   }
@@ -1212,35 +1246,39 @@
             `<td class="num ${df > 0 ? 'up' : df < 0 ? 'down' : ''}">${df != null ? sgn(df) : '–'}</td></tr>`;
         }).join('') + '</tbody></table><p class="hint small">' + TL('Aynı kısaltma farklı yıllarda farklı partiye ait olabilir; tam adlar parti seçiminde yazar.', 'The same abbreviation may denote different parties in different years; full names are shown in the party menu.') + '</p>';
     }
-    // il bazında
-    const common = Object.keys(O.units).filter((k) => N.units[k] && !O.units[k].nodata && !N.units[k].nodata);
+    // birim bazında (ilçe düzeyinde tarihî şekiller kökten eşleşir)
+    const ilce = A.level === 'ilçe', W = ilce ? TL('ilçe', 'district') : TL('il', 'province');
+    const pairs = matchUnits(O, N).filter(([a, b]) => !O.units[a].nodata && !N.units[b].nodata);
+    const ou = (pr) => O.units[pr[0]], nu = (pr) => N.units[pr[1]], ak = (pr) => (A === O ? pr[0] : pr[1]);
+    const common = pairs;
     if (!common.length) {
-      h += '<p class="note">' + TL('İki seçimin harita birimleri eşleşmiyor (farklı dönem sınırları ya da birim türleri). İl bazında karşılaştırma yapılamıyor.', 'The map units of the two elections do not match (different period boundaries or unit types), so a unit-by-unit comparison is not possible.') + '</p>';
+      h += '<p class="note">' + TL(`İki seçimin harita birimleri eşleşmiyor (farklı dönem sınırları ya da birim türleri${ilce ? '; karşılaştırılan seçimin ilçe verisi olmayabilir' : ''}). Birim bazında karşılaştırma yapılamıyor.`, 'The map units of the two elections do not match (different period boundaries or unit types), so a unit-by-unit comparison is not possible.') + '</p>';
     } else {
-      if (O.geo !== N.geo) h += `<p class="note">${TL(`Sınırlar farklı dönemlere ait. Aynı kimlikli ${common.length} birim eşleştirildi; arada kurulan iller dışarıda kaldı ve bazı illerin sınırları değişmiş olabilir.`, `Boundaries belong to different periods. ${common.length} units with the same identifier were matched; provinces created in between are left out and some boundaries may have changed.`)}</p>`;
-      const changed = common.filter((k) => O.units[k].winner && N.units[k].winner && O.units[k].winner !== N.units[k].winner);
-      const sameName = (k) => pFull(O.units[k].winner, O) && pFull(O.units[k].winner, O) === pFull(N.units[k].winner, N);
+      if (O.geo !== N.geo || ilce) h += `<p class="note">${TL(`Sınırlar farklı dönemlere ait olabilir. Aynı ${W} şekline dayanan ${common.length} birim eşleştirildi; arada kurulan birimler dışarıda kaldı ve bazı sınırlar değişmiş olabilir.`, `Boundaries may belong to different periods. ${common.length} units based on the same ${W} shape were matched; units created in between are left out and some boundaries may have changed.`)}</p>`;
+      const changed = common.filter((k) => ou(k).winner && nu(k).winner && ou(k).winner !== nu(k).winner);
+      const sameName = (k) => pFull(ou(k).winner, O) && pFull(ou(k).winner, O) === pFull(nu(k).winner, N);
       const realChanged = changed.filter((k) => !sameName(k));
       h += `<dl class="kv"><dt>Eşleşen birim</dt><dd>${common.length}</dd><dt>Birinci partisi/sonucu değişen</dt><dd>${realChanged.length}</dd></dl>`;
       if (realChanged.length) {
         const flows = {};
-        realChanged.forEach((k) => { const f = `${O.units[k].winner}→${N.units[k].winner}`; (flows[f] = flows[f] || []).push(k); });
+        realChanged.forEach((k) => { const f = `${ou(k).winner}→${nu(k).winner}`; (flows[f] = flows[f] || []).push(k); });
         h += `<details open><summary>Değişen birimler (${yr(O)} → ${yr(N)})</summary><ul class="flows">` +
           Object.entries(flows).sort((a, b) => b[1].length - a[1].length).map(([f, ks]) => {
             const [a, b] = f.split('→');
             return `<li><span class="sw" style="background:${pColor(a)}"></span>${esc(pLabel(a))} → <span class="sw" style="background:${pColor(b)}"></span>${esc(pLabel(b))} <b>${ks.length}</b>: ` +
-              ks.map((k) => `<button type="button" class="linkbtn" data-u="${esc(k)}">${esc(N.units[k].name)}</button>`).join(', ') + '</li>';
+              ks.map((k) => `<button type="button" class="linkbtn" data-u="${esc(ak(k))}">${esc(uname(nu(k)))}</button>`).join(', ') + '</li>';
           }).join('') + '</ul></details>';
       }
       // seçili partinin il bazında puan değişimi
       const p = state.party;
       const same = p && pFull(p, O) === pFull(p, N);
-      const diffs = common.map((k) => [k, O.units[k].pct && N.units[k].pct && O.units[k].pct[p] != null && N.units[k].pct[p] != null ? N.units[k].pct[p] - O.units[k].pct[p] : null]).filter((x) => x[1] != null);
+      const diffs = common.map((k) => [k, ou(k).pct && nu(k).pct && ou(k).pct[p] != null && nu(k).pct[p] != null ? nu(k).pct[p] - ou(k).pct[p] : null]).filter((x) => x[1] != null);
       if (p && diffs.length > 3 && same) {
         diffs.sort((a, b) => b[1] - a[1]);
-        const li = (arr) => arr.map(([k, v]) => `<li><button type="button" class="linkbtn" data-u="${esc(k)}">${esc(N.units[k].name)}</button> <span class="${v > 0 ? 'up' : 'down'}">${sgn(v)}</span></li>`).join('');
+        const li = (arr) => arr.map(([k, v]) => `<li><button type="button" class="linkbtn" data-u="${esc(ak(k))}">${esc(uname(nu(k)))}</button> <span class="${v > 0 ? 'up' : 'down'}">${sgn(v)}</span></li>`).join('');
         const avg = diffs.reduce((a, x) => a + x[1], 0) / diffs.length;
-        h += `<h3>${esc(pLabel(p))} — ${TL('il bazında puan değişimi', 'change by unit (points)')}</h3><p class="small">${TL(`${diffs.length} ilde ortalama ${sgn(avg)} puan; ${diffs.filter((x) => x[1] > 0).length} ilde arttı, ${diffs.filter((x) => x[1] < 0).length} ilde azaldı.`, `Average ${sgn(avg)} points across ${diffs.length} units; up in ${diffs.filter((x) => x[1] > 0).length}, down in ${diffs.filter((x) => x[1] < 0).length}.`)}</p>` +
+        const de = ilce ? 'ilçede' : 'ilde';
+        h += `<h3>${esc(pLabel(p))} — ${TL(`${W} bazında puan değişimi`, 'change by unit (points)')}</h3><p class="small">${TL(`${diffs.length} ${de} ortalama ${sgn(avg)} puan; ${diffs.filter((x) => x[1] > 0).length} ${de} arttı, ${diffs.filter((x) => x[1] < 0).length} ${de} azaldı.`, `Average ${sgn(avg)} points across ${diffs.length} units; up in ${diffs.filter((x) => x[1] > 0).length}, down in ${diffs.filter((x) => x[1] < 0).length}.`)}</p>` +
           `<div class="cols2"><div><div class="muted small">En çok artan</div><ol class="mini">${li(diffs.slice(0, 5))}</ol></div><div><div class="muted small">En çok azalan</div><ol class="mini">${li(diffs.slice(-5).reverse())}</ol></div></div>`;
       } else if (p && diffs.length > 3 && !same) {
         h += `<p class="note">${TL(`"${esc(pLabel(p))}" iki seçimde farklı partileri gösteriyor (${esc(pFull(p, O) || '?')} / ${esc(pFull(p, N) || '?')}); il bazında oy farkı hesaplanmadı.`, `"${esc(pLabel(p))}" denotes different parties in the two elections (${esc(pFull(p, O) || '?')} / ${esc(pFull(p, N) || '?')}); no change was computed.`)}</p>`;
@@ -1435,6 +1473,8 @@
     $('#version').textContent = 'Sürüm ' + VERSION;
     document.addEventListener('keydown', (e) => {
       if (e.target.closest('select, input, textarea, dialog[open]')) return;
+      // harita odaktayken oklar haritayı kaydırır (Leaflet); seçim değiştirmez
+      if (e.target.closest('.leaflet-container') && /^Arrow/.test(e.key)) return;
       if (!document.getElementById('historyDlg').hidden) return;   // siyasi tarih açıkken harita kısayolları kapalı
       if (e.key === 'ArrowLeft') step(-1);
       if (e.key === 'ArrowRight') step(1);
@@ -1459,6 +1499,7 @@
     if (h.c && state.index.some((e) => e.id === h.c)) await setCompare(true, h.c);
     await world;
     if (unitLayer) unitLayer.bringToFront();
+    overlaysFront();
     registerSW();
   }
 
@@ -1477,7 +1518,8 @@
     navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Service worker kaydedilemedi', e));
   }
   let readyResolve; const appReady = new Promise((r) => { readyResolve = r; });
-  window.Atlas = { L: TL, LANG, state, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, partyNameAt, nameAtDate, lineageHtml, bindLineage,
+  // map: testler ve tanıtım videosu otomasyonu için
+  window.Atlas = { L: TL, LANG, state, map, pColor, pLabel, esc, nf, pf, fmtDate, loadHistory, findParty, partyByTitle, partyKey, partyNameAt, nameAtDate, lineageHtml, bindLineage,
                    hemicycle, EV_LABEL, loadElection, LOC, pct, isDark: () => T === THEMES.dark, writeHash, ready: appReady, issueUrl, bindReport, stopPlay: () => { if (state.play.on) stopPlay(); },
                    refit: () => { map.invalidateSize(); if (unitLayer && !state.mapFitted) { map.fitBounds(unitLayer.getBounds(), { padding: [12, 12] }); state.mapFitted = true; } }, go: (id) => go(id, { keepMode: true }) };
   init().catch((e) => { console.error(e); $('#electionInfo').innerHTML = `<p class="note warn">Uygulama başlatılamadı: ${esc(e.message)}</p>`; });

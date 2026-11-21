@@ -1,5 +1,20 @@
 # Değişiklik günlüğü
 
+## 3.6.0 — 2026-11-21
+
+### Yeni
+- **Yeni tanıtım videosu ve GIF:** `docs/video/tanitim-16x9.mp4` (1920×1080, 30 fps, 90 sn, ≈24 MB) güncel arayüzle yeniden yapıldı; eski videonun kapanış kartında eski site adresi yazıyordu. Video gerçek zamanlı ekran kaydı değil: Playwright ile 2× piksel yoğunluğunda alınan ekran görüntülerinden kare kare kurgulandı (kamera hareketleri, ilçe haritasında gerçek yakınlaşma, imleç, alt yazılar); müzik ve sesler numpy ile sentezlendi. `docs/img/oynatma.gif` (1908–2023, 960×540), README ekran görüntüleri (ilçe düzeyi ve güncel durum yeni) ve sosyal medya önizlemesi (`icons/og.jpg`) de yenilendi. Betikler: `scripts/video/capture.js`, `screenshots.js`, `music.py`, `render.py`.
+- **İlçe düzeyinde karşılaştırma:** Karşılaştırma modu ilçe düzeyinde açıkken sağ harita da ilçe düzeyine geçer (önceden il düzeyinde kalıyor ve birimler eşleşmiyordu); sağ haritada da il sınırları çizilir. Boşluk doldurulmuş tarihî ilçe şekilleri seçimler arasında kökten eşleşir; değişim modu da aynı eşleşmeyi kullanır.
+- **Parti geçmişi:** Grafikteki her seçim için partinin birinci olduğu il sayısı; altta "en çok ilde birinci" satırı.
+- **Erişilebilirlik:** Seçilen birimin adı ve birinci partisi ekran okuyuculara duyurulur.
+
+### Düzeltmeler
+- **Tıklama çalışmıyordu:** Sınırı tahmine dayanan (taralı) birimi olan haritalarda (1950 öncesi seçimler, ilçe haritaları) birimlere tıklamak hiçbir şey yapmıyordu. Fareyle bir birimin üzerine gelindiğinde tarama katmanı öne taşınıyor ve tarayıcı tıklamayı birime iletmiyordu. Teste eklendi.
+- İlçe haritasında il sınırı çizgileri, sayfa ilçe düzeyinde açıldığında ya da fareyle ilçelerin üzerinden geçildiğinde birimlerin altında kalıp kayboluyordu.
+- Harita klavyeyle odaktayken ← → tuşları hem haritayı kaydırıyor hem seçimi değiştiriyordu; artık yalnız haritayı kaydırır.
+- Siyasi tarihteki ad değişikliklerinde (CKMP → MHP, SİP → TKP) kaynak gerekçesi kullanıcıya not olarak görünüyordu; ayrı bir alana taşındı.
+- İngilizce arayüz: tahmini sınır lejantı, "Meclis dağılımı — grup" başlığı, bazı seçim tarih etiketleri ("1913–1914 kışı…", "15–20 Şubat (ikinci seçmenler)…"), "Devlet Başkanı ve Başbakan" unvanı, "Seçildiği parti/liste" gibi grup adları ve "(il merkezi belediyesi)" çevrilmiyordu.
+
 ## 3.5.0 — 2026-11-20
 
 ### İlçe haritalarında boş alanlar

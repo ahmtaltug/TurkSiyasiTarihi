@@ -10,13 +10,13 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 [**Siteyi aç →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/)
 
 [![Yayın](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.5.0-8d1c1c)
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-3.6.0-8d1c1c)
 ![Kod lisansı](https://img.shields.io/badge/kod-MIT-2f6f4e)
 ![Veri lisansı](https://img.shields.io/badge/veri-CC%20BY--SA%204.0-2a5d8f)
 
 <img src="docs/img/oynatma.gif" alt="1908'den 2023'e milletvekili seçimlerinin zaman atlamalı oynatması" width="900">
 
-▶ [Tanıtım videosu (73 sn)](docs/video/tanitim-16x9.mp4)
+▶ [Tanıtım videosu (90 sn, 1080p)](docs/video/tanitim-16x9.mp4)
 
 </div>
 
@@ -40,6 +40,10 @@ Meclisler, hükûmetler, padişahlar, cumhurbaşkanları, partiler ve siyasi ola
 <tr>
 <td><img src="docs/img/osmanli-1912.jpg" alt="1912 Meclis-i Mebusan seçimi, koyu tema"><br><sub><b>Osmanlı dönemi:</b> 1912 seçimi, sancak başına mebus sayısı (koyu tema).</sub></td>
 <td><img src="docs/img/animasyon.jpg" alt="Olaylar ve animasyon görünümü"><br><sub><b>Olaylar ve animasyon:</b> Seçilen tarihteki meclis, hükûmet ve olaylar.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/img/harita.jpg" alt="2024 yerel seçimleri, ilçe düzeyi"><br><sub><b>İlçe düzeyi:</b> 2024 yerel seçimleri, 973 ilçe; eski seçimlerde döneminin ilçe sınırları.</sub></td>
+<td><img src="docs/img/guncel.jpg" alt="Güncel durum: TBMM ve il belediye başkanları"><br><sub><b>Güncel durum:</b> Bugünkü TBMM ve 81 il belediye başkanı, her gün güncellenir.</sub></td>
 </tr>
 </table>
 
@@ -103,7 +107,13 @@ Ayrıntılar: [docs/DOGRULAMA.md](docs/DOGRULAMA.md) · Sürüm geçmişi: [CHAN
 
 ## Tanıtım videosu
 
-`docs/video/tanitim-16x9.mp4` (1920×1080): sitenin gerçek ekran kaydı; müzik ve ses efektleri bu proje için sentezlendi.
+`docs/video/tanitim-16x9.mp4` (1920×1080, 30 fps, 90 sn): sitenin gerçek ekran görüntülerinden kare kare kurgulandı; müzik ve sesler bu proje için sentezlendi. Video, GIF, README görselleri ve sosyal medya önizlemesi `scripts/video/` altındaki betiklerle yeniden üretilebilir:
+
+```bash
+python3 -m http.server 8765 &
+node scripts/video/capture.js && node scripts/video/screenshots.js   # ekran görüntüleri (Playwright)
+python3 scripts/video/render.py video && python3 scripts/video/render.py gif && python3 scripts/video/render.py og
+```
 
 ## Atıf
 
