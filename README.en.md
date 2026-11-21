@@ -10,7 +10,7 @@ Together with parliaments, governments, sultans, presidents, parties and politic
 [**Open the site →**](https://ahmtaltug.github.io/TurkiyeSecimAtlasi/?lang=en)
 
 [![Deploy](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml/badge.svg)](https://github.com/ahmtaltug/TurkiyeSecimAtlasi/actions/workflows/pages.yml)
-![Version](https://img.shields.io/badge/version-3.6.0-8d1c1c)
+![Version](https://img.shields.io/badge/version-3.7.0-8d1c1c)
 ![Code license](https://img.shields.io/badge/code-MIT-2f6f4e)
 ![Data license](https://img.shields.io/badge/data-CC%20BY--SA%204.0-2a5d8f)
 
@@ -72,6 +72,8 @@ Screenshots show the Turkish interface; the site also has a full English interfa
 
 **Usability**
 - Every view opens from a shareable link (e.g. `#e=1946&u=istanbul`, `#v=tarih&t=chart&d=1960-05-27`).
+- **Embed:** the current map becomes ready-made code for a news or blog page in one click (`?embed=1`).
+- **Text pages:** each election's results by province and its sources on a separate page that needs no JavaScript (e.g. `secim/1977/`), for search engines and screen readers.
 - Turkish and English interface; light and dark theme (following the browser setting), mobile layout, keyboard shortcuts (← → space / Esc).
 - Works offline and can be installed on a phone as an app (PWA).
 
@@ -149,6 +151,7 @@ scripts/build_all.sh --wiki   # also re-downloads Wikipedia texts (results may c
 | `scripts/build_geo.sh` | Merges, simplifies and converts boundaries to TopoJSON. |
 | `scripts/build_index.py` | Produces the election list and party colours. |
 | `scripts/descriptions.py` | Short descriptions of post-1950 elections; used by `build_modern.py`, writes them into the published data when run on its own. |
+| `scripts/build_pages.py` | At deploy time, writes a text page for each election (`secim/<id>/`), an index page and `sitemap.xml`. |
 | `scripts/build_history.py` | Compiles governments, presidents, parliament compositions, party lineage, events and provincial demographics from Wikipedia texts into `data/history.json` and `data/demographics.json`. |
 | `scripts/build_current.py` | Builds the current state (today's TBMM seats and provincial mayors) from Wikipedia; runs daily in `.github/workflows/guncel.yml`. |
 | `scripts/verify_wiki.py` | Compares party and candidate names with the elections' Wikipedia articles (after `scripts/fetch_sources.sh --verify`). |
