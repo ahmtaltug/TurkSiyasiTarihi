@@ -52,6 +52,7 @@ jobs:
         run: |
           mkdir -p _site
           cp -r index.html favicon.svg sw.js manifest.webmanifest icons css js vendor data _site/
+          cp google*.html _site/   # Google Search Console doğrulama dosyası
           touch _site/.nojekyll
           # arama motorları için her seçime ayrı sayfa ve site haritası (secim/, sitemap.xml)
           python3 scripts/build_pages.py _site
